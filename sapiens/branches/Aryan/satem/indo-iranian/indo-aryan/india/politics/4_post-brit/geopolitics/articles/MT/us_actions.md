@@ -3,6 +3,9 @@ title = "US actions"
 +++
 
 ## 2025
+
+As we have remarked repeatedly: the undergirdings of Anglo-Abrahmospheric power and the H as a heathen civilization have a deep-rooted incompatibility. Sooner or later, this will come to a head. One can easily predict that the mahAmlechCha and their vassals will try to destabilize the Indian state as they have done many times in the past using their marUnmatta, preta and paTTa force transmitters. It seems the laTapati has read this and is ready to make a stand. Hope, he succeeds.
+
 > After Sindoor, something in Indo-US relations seems to have broken, permanently. The "let's pretend" game is over.
 
 Probabaly Sindoor exposed what was already in place due to the deep state machinations. The interesting thing is that the general expectation was that things would improve with nAri~Nga because he would not push the indrAyudhadhvaja politics on India. However, what was missed was that in his ranks were at least 4 antagonistic types: 

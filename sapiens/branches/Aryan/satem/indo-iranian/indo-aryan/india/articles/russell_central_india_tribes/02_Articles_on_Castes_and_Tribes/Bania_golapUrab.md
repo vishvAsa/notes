@@ -1,0 +1,14 @@
++++
+title = "Bania, Golapūrab"
+
++++
+
+**Bania, Golapūrab, Golahre.**—This Jain subcaste numbers about 6000 persons in the Central Provinces, and belongs mainly to the Saugor, Damoh and Narsinghpur Districts. Its distribution is nearly the same as that of the Gahois, and it is probably also a Bundelkhand group. The Golapūrabs are practically all Digambari Jains with a small Hindu minority. In some localities they intermarry with Parwār Banias who are also Digambari Jains; and they will take food cooked without water from the Nema subcaste who are Hindus. According to one story the Golapūrabs were the offspring of a Pūrabia, that is probably a Bais Rājpūt, by a kept woman of the Ahīr caste. This fits in very well with the name, as Golak means a bastard, and the termination *pūrab* would be from Pūrabia; but it is probably the name which has given rise to the story, or at any rate to the supposed descent from a Pūrabia. In the United Provinces a small subcaste of Bania called Golahre exists, belonging to the Jhānsi District, that is the country of the Golapūrabs, and Jain by religion. There is no doubt that this group is the same as the Golapūrabs, and Mr. Crooke derives1 the name from *gola*, a grain-mart, which seems more probable than the derivation suggested above. But it is an interesting fact that there is also a caste of cultivators called Golapūrab in the United Provinces, found only in the Agra District. It is suggested that these people are the illegitimate offspring of Sanādhya Brāhmans, with whom they appear to be closely connected. From their sept-names, however, which include those of several Rājpūt clans and also some titular terms of a low-caste type, Mr. Crooke thinks their Brāhmanical origin improbable. It is noticeable that these Golapūrabs though a cultivating caste have, like the Banias, a subcaste called Dasa, comprising persons of irregular descent; they also prohibit the remarriage of widows, and abstain from all flesh and from onions and garlic. Such customs are peculiar in a cultivating caste, and resemble those of Banias. It seems possible that a detailed investigation might give ground for supposing that both the Golahre and Golapūrab subcastes of Banias in the United and Central Provinces respectively are connected with this cultivating caste of Golapūrabs. The latter might have abandoned the Jain religion on taking to cultivation, as a Jain cannot well drive the plough, which involves destruction of animal life; or the Bania section might have adopted Jainism in order to obtain a better social position and differentiate themselves from the cultivators. Unfortunately no detailed information about the Golapūrabs of the Central Provinces is available, from which the probability or otherwise of this hypothesis could be tested. 
+
+
+* * *
+
+1 *Tribes and Castes*, art. Golahre. 
+
+
+

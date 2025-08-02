@@ -1,0 +1,111 @@
++++
+title = "Satnāmi"
+
++++
+
+## List of Paragraphs
+
++ 1. Origin of the sect. 
++ 2. Ghāsi Dās, founder of the Satnāmi sect. 
++ 3. The message of Ghāsi Dās. 
++ 4. Subsequent history of the Satnāmis. 
++ 5. Social profligacy. 
++ 6. Divisions of the Satnāmis. 
++ 7. Customs of the Satnāmis. 
++ 8. Character of the Satnāmi movement. 
+
+
+## 1. Origin of the sect.
+
+**Satnāmi Sect**1 \(A worshipper of the true name of God\).—A dissenting sect founded by a Chamār reformer in the Chhattīsgarh country of the Central Provinces. It is practically confined to members of the Chamār caste, about half of whom belong to it. In 1901 nearly 400,000 persons returned themselves as adherents of the Satnāmi sect, of whom all but 2000 were Chamārs. The Satnāmi sect of the Central Provinces, which is here described, is practically confined to the Chhattīsgarh plain, and the handful of persons who returned themselves as Satnāmis from the northern Districts are believed to be adherents of the older persuasion of the same name in Northern India. The Satnāmi movement in Chhattīsgarh was originated by one Ghāsi Dās, a native of the Bilāspur District, between A.D. 1820 and 1830. But it is probable that Ghāsi Dās, as suggested by Mr. Hīra Lāl, got his inspiration from a follower of the older Satnāmi sect of northern India. This was inaugurated by a Rājpūt, Jagjīwan Dās of the Bara Banki District, who died in 1761. He preached the worship of the True Name of the one God, the cause and creator of all things, void of sensible qualities and without beginning or end. He prohibited the use of meat, lentils \(on account of their red colour suggesting blood\) of the brinjal or eggplant, which was considered, probably on account of its shape, to resemble flesh, and of intoxicating liquors. The creed of Ghāsi Dās enunciated subsequently was nearly identical with that of Jagjīwan Dās, and was no doubt derived from it, though Ghāsi Dās never acknowledged the source of his inspiration. 
+
+
+
+## 2. Ghāsi Dās, founder of the Satnāmi sect.
+
+Ghāsi Dās was a poor farmservant in Girod, a village formerly in Bilaspur and now in Raipur, near the Sonakān forests. On one occasion he and his brother started on a pilgrimage to the temple at Puri, but only got as far as Sārangarh, whence they returned ejaculating ‘*Satnām, Satnām*.’ From this time Ghāsi Dās began to adopt the life of an ascetic, retiring all day to the forest to meditate. On a rocky hillock about a mile from Girod is a large *tendu* tree \(*Diospyros tomentosa*\) under which it is said that he was accustomed to sit. This is a favourite place of pilgrimage of the Chamārs, and two Satnāmi temples have been built near it, which contain no idols. Once these temples were annually visited by the successors of Ghāsi Dās. But at present the head of the sect only proceeds to them, like the Greeks to Delphi, in circumstances of special difficulty. In the course of time Ghāsi Dās became venerated as a saintly character, and on some miracles, such as the curing of snake-bite, being attributed to him, his fame rapidly spread. The Chamārs began to travel from long distances to venerate him, and those who entertained desires, such as for the birth of a child, believed that he could fulfil them. The pilgrims were accustomed to carry away with them the water in which he had washed his feet, in hollow bamboos, and their relatives at home drank this, considering it was nectar. Finally, Ghāsi Dās retired to the forests for a period, and emerged with what he called a new Gospel for the Chamārs; but this really consisted of a repetition of the tenets of Jagjīwan Dās, the founder of the Satnāmi sect of Upper India, with a few additions. Mr. Chisholm2 gave a graphic account of the retirement of Ghāsi Dās to the Sonakān forests for a period of six months, and of his reappearance and proclamation of his revelation on a fixed date before a great multitude of Chamārs, who had gathered from all parts to hear him. An inquiry conducted locally by Mr. Hīra Lāl in 1903 indicates that this story is of doubtful authenticity, though it must be remembered that Mr. Chisholm wrote only forty years after the event, and forty more had elapsed at the time of Mr. Hīra Lāl’s investigation.3 Of the Chamār Reformer himself Mr. Chisholm writes:4 “Ghāsi Dās, like the rest of his community, was unlettered. He was a man of unusually fair complexion and rather imposing appearance, sensitive, silent, given to seeing visions, and deeply resenting the harsh treatment of his brotherhood by the Hindus. He was well known to the whole community, having travelled much among them; had the reputation of being exceptionally sagacious and was universally respected.” 
+
+
+
+## 3. The message of Ghāsi Dās.
+
+The seven precepts of Ghāsi Dās included abstinence from liquor, meat and certain red vegetables, such as lentils chillies and tomatoes, because they have the colour of blood, the abolition of idol worship, the prohibition of the employment of cows for cultivation, and of ploughing after midday or taking food to the fields, and the worship of the name of one solitary and supreme God. The use of *taroi*5 is said to have been forbidden on account of its fancied resemblance to the horn of the buffalo, and of the brinjal6 from its likeness to the scrotum of the same animal. The prohibition against ploughing after the midday meal was probably promulgated out of compassion for animals and was already in force among the Gonds of Bastar. This precept is still observed by many Satnāmis, and in case of necessity they will continue ploughing from early morning until the late afternoon without taking food, in order not to violate it. The injunction against the use of the cow for ploughing was probably a sop to the Brāhmans, the name of Gondwāna having been historically associated with this practice to its disgrace among Hindus.7 The Satnāmis were bidden to cast all idols from their homes, but they were permitted to reverence the sun, as representing the deity, every morning and evening, with the ejaculation ‘Lord, protect me.’ Caste was abolished and all men were to be socially equal except the family of Ghāsi Dās, in which the priesthood of the cult was to remain hereditary. 
+
+
+
+## 4. Subsequent history of the Satnāmis.
+
+The creed enunciated by their prophet was of a creditable simplicity and purity, of too elevated a nature for the Chamārs of Chhattīsgarh. The crude myths which are now associated with the story of Ghāsi Dās and the obscenity which distinguishes the ritual of the sect furnish a good instance of the way in which a religion, originally of a high order of morality, will be rapidly degraded to their own level when adopted by a people who are incapable of living up to it. It is related that one day his son brought Ghāsi Dās a fish to eat. He was about to consume it when the fish spoke and forbade him to do so. Ghāsi Dās then refrained, but his wife and two sons insisted on eating the fish and shortly afterwards they died.8 Overcome with grief Ghāsi Dās tried to commit suicide by throwing himself down from a tree in the forest, but the boughs of the tree bent with him and he could not fall. Finally the deity appeared, bringing his two sons, and commended Ghāsi Dās for his piety, at the same time bidding him go and proclaim the Satnāmi doctrine to the world. Ghāsi Dās thereupon went and dug up the body of his wife, who arose saying ‘*Satnām.*’ Ghāsi Dās lived till he was eighty years old and died in 1850, the number of his disciples being then more than a quarter of a million. He was succeeded in the office of high priest by his eldest son Bālak Dās. This man soon outraged the feelings of the Hindus by assuming the sacred thread and parading it ostentatiously on public occasions. So bitter was the hostility aroused by him, that he was finally assassinated at night by a party of Rājpūts at the rest-house of Amābāndha as he was travelling to Raipur. The murder was committed in 1860 and its perpetrators were never discovered. Bālak Dās had fallen in love with the daughter of a Chitāri \(painter\) and married her, proclaiming a revelation to the effect that the next Chamār Guru should be the offspring of a Chitāri girl. Accordingly his son by her, Sāhib Dās, succeeded to the office, but the real power remained in the hands of Agar Dās, brother of Bālak Dās, who married his Chitāri widow. By her Agar Dās had a son Ajab Dās; but he also had another son Agarman Dās by a legitimate wife, and both claimed the succession. They became joint high priests, and the property has been partitioned between them. The chief *guru* formerly obtained a large income by the contributions of the Chamārs on his tours, as he received a rupee from each household in the villages which he visited on tour. He had a deputy, known as Bhandār, in many villages, who brought the commission of social offences to his notice, when fines were imposed. He built a house in the village of Bhandār of the Raipur District, having golden pinnacles, and also owned the village. But he has been extravagant and become involved in debt, and both house and village have been foreclosed by his creditor, though it is believed that a wealthy disciple has repurchased the house for him. The golden pinnacles were recently stolen. The contributions have also greatly fallen off. 
+
+Formerly an annual fair was held at Bhandār to which all the Satnāmis went and drank the water in which the *guru* had dipped his big toe. Each man gave him not less than a rupee and sometimes as much as fifty rupees. But the fair is no longer held and now the Satnāmis only give the *guru* a cocoanut when he goes on tour. The Satnāmis also have a fair in Ratanpur, a sacred place of the Hindus, where they assemble and bathe in a tank of their own, as they are not allowed to bathe in the Hindu tanks. 
+
+
+
+## 5. Social profligacy.
+
+Formerly, when a Satnāmi Chamār was married, a ceremony called Satlok took place within three years of the wedding, or after the birth of the first son, which Mr. Durga Prasād Pānde describes as follows: it was considered to be the initiatory rite of a Satnāmi, so that prior to its performance he and his wife were not proper members of the sect. When the occasion was considered ripe, a committee of men in the village would propose the holding of the ceremony to the bridegroom; the elderly members of his family would also exert their influence upon him, because it was believed that if they died prior to its performance their disembodied spirits would continue a comfortless existence about the scene of their mortal habitation, but if afterwards that they would go straight to heaven. When the rite was to be held a feast was given, the villagers sitting round a lighted lamp placed on a water-pot in the centre of the sacred *chauk* or square made with lines of wheat-flour; and from evening until midnight they would sing and dance. In the meantime the newly married wife would be lying alone in a room in the house. At midnight her husband went in to her and asked her whom he should revere as his *guru* or preceptor. She named a man and the husband went out and bowed to him and he then went in to the woman and lay with her. The process would be repeated, the woman naming different men until she was exhausted. Sometimes, if the head priest of the sect was present, he would nominate the favoured men, who were known as *gurus*. Next morning the married couple were seated together in the courtyard, and the head priest or his representative tied a *kanthi* or necklace of wooden beads round their necks, repeating an initiatory text.9 This silly doggerel, as shown in the footnote, is a good criterion of the intellectual capacity of the Satnāmis. It is also said that during his annual progresses it was the custom for the chief priest to be allowed access to any of the wives of the Satnāmis whom he might select, and that this was considered rather an honour than otherwise by the husband. But the Satnāmis have now become ashamed of such practices, and, except in a few isolated localities, they have been abandoned. 
+
+
+
+## 6. Divisions of the Satnāmis.
+
+Ghāsi Dās or his disciples seem to have felt the want of a more ancient and dignified origin for the sect than one dating only from living memory. They therefore say that it is a branch of that founded by Rohi Dās, a Chamār disciple of the great liberal and Vaishnavite reformer Rāmānand, who flourished at the end of the fourteenth century. The Satnāmis commonly call themselves Rohidāsi as a synonym for their name, but there is no evidence that Rohi Dās ever came to Chhattīsgarh, and there is practically no doubt, as already pointed out, that Ghāsi Dās simply appropriated the doctrine of the Satnāmi sect of northern India. One of the precepts of Ghāsi Dās was the prohibition of the use of tobacco, and this has led to a split in the sect, as many of his disciples found the rule too hard for them. They returned to their *chongis* or leaf-pipes, and are hence called Chungias; they say that in his later years Ghāsi Dās withdrew the prohibition. The Chungias have also taken to idolatry, and their villages contain stones covered with vermilion, the representations of the village deities, which the true Satnāmis eschew. They are considered lower than the Satnāmis, and intermarriage between the two sections is largely, though not entirely, prohibited. A Chungia can always become a Satnāmi if he ceases to smoke by breaking a cocoanut in the presence of his *guru* or preceptor or giving him a present. Among the Satnāmis there is also a particularly select class who follow the straitest sect of the creed and are called *Jaharia* from *jahar*, an essence. These never sleep on a bed but always on the ground, and are said to wear coarse uncoloured clothes and to eat no food but pulse or rice. 
+
+
+
+## 7. Customs of the Satnāmis.
+
+The social customs of the Satnāmis resemble generally those of other Chamārs. They will admit into the community all except members of “the impure castes, as Dhobis \(washermen\), Ghasias \(grass-cutters\) and Mehtars \(sweepers\), whom they regard as inferior to themselves. Their weddings must be celebrated only during the months of Māgh \(January\), Phāgun \(February\), the light half of Chait \(March\) and Baisākh \(April\). No betrothal ceremony can take place during the months of Shrāwan \(August\) and Pūs \(January\). They always bury the dead, laying the body with the face downwards, and spread clothes in the grave above and below it, so that it may be warm and comfortable during the last long sleep. They observe mourning for three days and have their heads shaved on the third day with the exception of the upper lip, which is never touched by the razor. The Satnāmis as well as the Kabīrpanthis in Chhattīsgarh abstain from spirituous liquor, and ordinary Hindus who do not do so are known as Saktaha or Sakta \(a follower of Devi\) in contradistinction to them. A Satnāmi is put out of caste if he is beaten by a man of another caste, however high, and if he is touched by a sweeper, Ghasia or Mahār. Their women wear nose-rings, simply to show their contempt for the Hindu social order, as this ornament was formerly forbidden to the lower castes. Under native dynasties any violation of a rule of this kind would have been severely punished by the executive Government, but in British India the Chamār women can indulge their whim with impunity. It was also a rule of the sect not to accept cooked food from the hands of any other caste, whether Hindu or Muhammadan, but this has fallen into abeyance since the famines. Another method by which the Satnāmis show their contempt for the Hindu religion is by throwing milk and curds at each other in sport and trampling it under foot. This is a parody of the Hindu celebration of the Janam-Ashtami or Krishna’s birthday, when vessels of milk and curds are broken over the heads of the worshippers and caught and eaten by all castes indiscriminately in token of amity. They will get into railway carriages and push up purposely against the Hindus, saying that they have paid for their tickets and have an equal right to a place. Then the Hindus are defiled and have to bathe in order to become clean. 
+
+
+
+## 8. Character of the Satnāmi movement.
+
+Several points in the above description point to the conclusion that the Satnāmi movement is in essence a social revolt on the part of the despised Chamārs or tanners. The fundamental tenet of the gospel of Ghāsi Dās, as in the case of so many other dissenting sects, appears to have been the abolition of caste, and with it of the authority of the Brāhmans; and this it was which provoked the bitter hostility of the priestly order. It has been seen that Ghāsi Dās himself had been deeply impressed by the misery and debasement of the Chamār community; how his successor Bālak Dās was murdered for the assumption of the sacred thread; and how in other ways the Satnāmis try to show their contempt for the social order which brands them as helot outcastes. A large proportion of the Satnāmi Chamārs are owners or tenants of land, and this fact may be surmised to have intensified their feeling of revolt against the degraded position to which they were relegated by the Hindus. Though slovenly cultivators and with little energy or forethought, the Chamārs have the utmost fondness for land and an ardent ambition to obtain a holding, however small. The possession of land is a hall-mark of respectability in India, as elsewhere, and the low castes were formerly incapable of holding it; and it may be surmised that the Chamār feels himself to be raised by his tenant-right above the hereditary condition of village drudge and menial. But for the restraining influence of the British power, the Satnāmi movement might by now have developed in Chhattīsgarh into a social war. Over most of India the term Hindu is contrasted with Muhammadan, but in Chhattīsgarh to call a man a Hindu conveys primarily that he is not a Chamār, or Chamara according to the contemptuous abbreviation in common use. A bitter and permanent antagonism exists between the two classes, and this the Chamār cultivators carry into their relations with their Hindu landlords by refusing to pay rent. The records of the criminal courts contain many cases arising from collisions between Chamārs and Hindus, several of which have resulted in riot and murder. Faults no doubt exist on both sides, and Mr. Hemingway, Settlement Officer, quotes an instance of a Hindu proprietor who made his Chamār tenants cart timber and bricks to Rājim, many miles from his village, to build a house for him during the season of cultivation, their fields consequently remaining untilled. But if a proprietor once arouses the hostility of his Chamār tenants he may as well abandon his village for all the profit he is likely to obtain from it. Generally the Chamārs are to blame, as pointed out by Mr. Blenkinsop who knows them well, and many of them are dangerous criminals, restrained only by their cowardice from the worst outrages against person and property. It may be noted in conclusion that the spread of Christianity among the Chamārs is in one respect a replica of the Satnāmi movement, because by becoming a Christian the Chamār hopes also to throw off the social bondage of Hinduism. A missionary gentleman told the writer that one of the converted Chamārs, on being directed to perform some menial duty of the village, replied: ‘No, I have become a Christian and am one of the Sāhibs; I shall do no more *bigār* \(forced labour\).’ 
+
+
+
+* * *
+
+1 This article is based principally on a paper by Mr. Durga Prasād Pānde, Tahsīldār, Raipur. 
+
+2 *Bilaspur Settlement Report* \(1888\), p. 45. 
+
+3 Some of Mr. Chisholm’s statements are undoubtedly inaccurate. For instance, he says that Ghāsi Dās decided on a temporary withdrawal into the wilderness, and proceeded for this purpose to a small village called Girod near the junction of the Jonk and Mahānadi rivers. But it is an undoubted fact, as shown by Mr. Hīra Lāl and others, that Ghāsi Dās was born in Girod and had lived there all his life up to the time of his proclamation of his gospel. 
+
+4 *Ibidem*. 
+
+5 *Luffa acutangula*. 
+
+6 *Solanum melangenum*. 
+
+7 Some of the Bundela raids in the north of the Province were made on the pretext of being crusades for the protection of the sacred animal. 
+
+8 From Mr. Durga Prasād Pānde’s paper. 
+
+9 This text is recorded by Mr. Durga Prasād Pānde as follows: 
+
+
+
+
+
+“Bhāji chhurai bhānta chhurdi 
+
+Gondli karat chhonka 
+
+Lai bhāji ke chhurawate 
+
+Gaon la marai chauka. 
+
+Sahib ke Satnāmia; ‘Thonka.’”
+
+
+
+
+
+Or 
+
+“We have given up eating vegetables, we eat no brinjals: we eat onions with more relish; we eat no more red vegetables. The *chauka* has been placed in the village. The true name is of God; \(to which the pair replied\) ‘Amen.’” 
+
+
+

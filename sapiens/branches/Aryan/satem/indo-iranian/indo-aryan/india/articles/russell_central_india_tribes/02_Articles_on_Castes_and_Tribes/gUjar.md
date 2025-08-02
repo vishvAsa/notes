@@ -1,0 +1,142 @@
++++
+title = "GŪJAR"
+
++++
+
+## List of Paragraphs
+
++ 1. Historical notice of the caste. 166 
++ 2. The Gūjars and the Khazars. 168 
++ 3. Predatory character of the Gūjars in northern India. 169 
++ 4. Subdivisions. 171 
++ 5. Marriage. 172 
++ 6. Disposal of the dead. 172 
++ 7. Religion. 173 
++ 8. Character. 174 
+
+
+
+## 1. Historical notice of the caste.
+
+
+
+**Gūjar.**—A great historical caste who have given their name to the Gujarāt District and the town of Gujarānwāla in the Punjab, the peninsula of Gujarāt or Kāthiāwār and the tract known as Gūjargarh in Gwālior. In the Central Provinces the Gūjars numbered 56,000 persons in 1911, of whom the great majority belonged to the Hoshangābād and Nimār Districts. In these Provinces the caste is thus practically confined to the Nerbudda Valley, and they appear to have come here from Gwālior probably in the middle of the sixteenth century, to which period the first important influx of Hindus into this area has been ascribed. But some of the Nimār Gūjars are immigrants from Gujarāt. Owing to their distinctive appearance and character and their exploits as cattle-raiders, the origin of the Gūjars has been the subject of much discussion. General Cunningham identified them with the Yueh-chi or Tochāri, the tribe of Indo-Scythians who invaded India in the first century of the Christian era. The king Kadphises I. and his successors belonged to the Kushān section of the Yueh-chi tribe, and their rule extended over north-western India down to Gujarāt in the period 45–225 A.D. Mr. V. A. Smith, however, discards this theory and considers the Gūjars or Gurjaras to have been a branch of the white Huns who invaded India in the fifth and sixth centuries. He writes:1 “The earliest foreign immigration within the limits of the historical period which can be verified is that of the Sakas in the second century B.C.; and the next is that of the Yueh-chi and Kushāns in the first century A.D. Probably none of the existing Rājpūt clans can carry back their genuine pedigrees so far. The third recorded great irruption of foreign barbarians occurred during the fifth century and the early part of the sixth. There are indications that the immigration from Central Asia continued during the third century, but, if it did, no distinct record of the event has been preserved, and, so far as positive knowledge goes, only three certain irruptions of foreigners on a large scale through the northern and north-western passes can be proved to have taken place within the historical period anterior to the Muhammadan invasions of the tenth and eleventh centuries. The first and second, as above observed, were those of the Sakas and Yueh-chi respectively, and the third was that of the Hūnas or white Huns. It seems to be clearly established that the Hun group of tribes or hordes made their principal permanent settlements in the Punjab and Rājputāna. The most important element in the group after the Huns themselves was that of the Gurjaras, whose name still survives in the spoken form Gūjar as the designation of a widely diffused middle-class caste in north-western India. The prominent position occupied by Gurjara kingdoms in early mediaeval times is a recent discovery. The existence of a small Gurjara principality in Bharōch \(Broach\), and of a larger state in Rājputāna, has been known to archaeologists for many years, but the recognition of the fact that Bhoja and the other kings of the powerful Kanauj dynasty in the ninth, tenth and eleventh centuries were Gurjaras is of very recent date and is not yet general. Certain misreadings of epigraphic dates obscured the true history of that dynasty, and the correct readings have been established only within the last two or three years. It is now definitely proved that Bhoja \(*circ.* A.D. 840–890\), his predecessors and successors belonged to the Pratihāra \(Parihār\) clan of the Gurjara tribe or caste, and, consequently, that the well-known clan of Parihār Rājpūts is a branch of the Gurjara or Gūjar stock.”2
+
+
+Gūjar village proprietress and her land agent
+
+
+
+
+
+## 2. The Gūjars and the Khazars.
+
+
+
+Sir J. Campbell identified the Gūjars with the Khazar tribe of Central Asia:3 “What is known of the early history of the Gujaras in India points to their arrival during the last quarter of the fifth or the first quarter of the sixth century \(A.D. 470–520\). That is the Gujaras seem to have formed part of the great horde of which the Juān-Juān or Avārs, and the Ephthalites, Yetas or White Hūnas were leading elements. The question remains: How far does the arrival of the Gujara in India, during the early sixth century, agree with what is known of the history of the Khazar? The name Khazar appears under the following forms: Among Chinese as Kosa, among Russians as Khwalisses, among Byzantines as Chozars or Chazars, among Armenians as Khazirs and among Arabs as Khozar. Other variations come closer to Gujara. These are Gazar, the form Kazar takes to the north of the sea of Asof; Ghysar, the name for Khazars who have become Jews; and Ghusar, the form of Khazar in use among the Lesghians of the Caucasus. Howarth and the writer in the *Encyclopædia Britannica* follow Klaproth in holding that the Khazars are the same as the White Hūnas....
+
+“Admitting that the Khazar and White Hūna are one, it must also be the case that the Khazars included two distinct elements, a fair or Ak-Khazar, the Akatziroi or Khazaroi of Byzantine historians, and a dark or Kāra Khazar. The Kāra Khazar was short, ugly and as black as an Indian. He was the Ughrian nomad of the steppes, who formed the rank and file of the army. The White Khazar or White Hūna was fair-skinned, black-haired and beautiful, their women \(in the ninth and tenth centuries\) being sought after in the bazārs of Bāghdād and Byzantium. According to Klaproth, a view adopted by the writer in the *Encyclopædia Britannica*, the White Khazar represented the white race which, since before Christ has been settled round the Caspian. As White Hūnas, Ephthalites,4 White Ughrians and White Bulgars, this white race were the carriers between Europe and East Asia; they were also the bearers of the brunt of the Tartar inroads. A trace both of the beautiful and coarse clans seems to survive in the complimentary Mārwār proverb, ‘Handsome as a Hūna,’ and in the abusive Gujarāt proverb, ‘Yellow and short as a Hūna’s beard.’ Under its Hindu form Gurjara, Khazar appears to have become the name by which the great bulk of the sixth-century horde was known.” Sir J. Campbell was of opinion that the Sesodia or Gahlot Rājpūts, the most illustrious of all the clans, were of Gūjar stock, as well as the Parihār, Chauhān, and Chalukya or Solankī; these last were three of the Agnikula clans or those created from the firepit,5 and a Solankī dynasty ruled in Gujarāt. He also considered the Nāgar Brāhmans of Gujarāt to be derived from the Gūjars and considerable sections of the Ahīr and Kunbi castes. The Badgūjar \(great Gūjar\) clan of Rājpūts is no doubt also an aristocratic branch of the caste. In Ajmere it is said that though all Gūjars are not Rājpūts, no Rājpūt becomes a hero unless he is suckled by a Gūjar woman. *Gūjarika dudh, nāhari ka dudh*; or ‘Gūjar’s milk is tiger’s milk.’ A Rājpūt who has not been suckled by a Gūjar woman is a *gidar* or jackal.6
+
+
+
+
+
+## 3. Predatory character of the Gūjars in northern India.
+
+
+
+The fact of the White Huns being tall and of fine features, in contrast to the horde which invaded Europe under Attila, accounts for these characteristics being found among the highest Rājpūt clans, who, as has been seen, are probably derived from them. The Gūjar caste generally is now, however, no doubt of mixed and impure blood. They were distinguished in the past as vagrant and predatory marauders, and must have assimilated various foreign elements. Mr. Crooke writes of them:7 “The Gūjars as a tribe have always been noted for their turbulence and habit of cattle-stealing. Bābar in his Memoirs describes how the commander of the rearguard captured a few Gūjar ruffians who followed the camp, decapitated them and sent their heads to the Emperor. The Gūjars of Pāli and Pāhal became exceedingly audacious while Sher Shāh was fortifying Delhi, and he marched to the hills and expelled them so that not a vestige of their habitations was left. Jahāngīr remarks that the Gūjars live chiefly on milk and curds and seldom cultivate land; and Bābar says: ‘Every time I entered Hindustān the Jāts and Gūjars have regularly poured down in prodigious numbers from the hills and wilds to carry off oxen and buffaloes. These were the wretches that really inflicted the chief hardships and were guilty of the chief oppression in the country.’ They maintained their old reputation in the Mutiny when they perpetrated numerous outrages and seriously impeded the operations of the British Army before Delhi.” In northern India the Gūjars are a pastoral caste. The saying about them is—
+
+*
+Ahīr, Gadaria, Gūjar,
+
+E tinon tâken ujar,
+*
+
+or, ‘The Ahīr, Gadaria and Gūjar want waste land’; that is for grazing their flocks. In Kāngra the Gūjars generally keep buffaloes. Here they are described as “A fine, manly race with peculiar and handsome features. They are mild and inoffensive in manner, and in these hills are not distinguished by the bad pre-eminence which attaches to their race in the plains.”8 Sir D. Ibbetson had a very unfavourable opinion of the Gūjars of the plains, of whom he wrote as follows:9 “The Gūjar is a fine stalwart fellow, of precisely the same physical type as the Jāt; and the theory of aboriginal descent which has been propounded is to my mind conclusively negatived by his cast of countenance. He is of the same social standing as the Jāt, or perhaps slightly inferior; but the two eat and drink in common without any scruple, and the proverb says: ‘The Jāt, Gūjar, Ahīr and Gola are all hail fellow well met.’ But he is far inferior in both personal character and repute to the Jāt. He is lazy to a degree, and a wretched cultivator; his women, though not secluded, will not do field-work save of the lightest kind; while his fondness for cattle extends to those of other people. The difference between a Gūjar and a Rājpūt cattle-thief was once explained to me thus by a Jāt: ‘The Rājpūt will steal your buffalo. But he will not send his old father to say he knows where it is and will get it back for Rs. 20, and then keep the Rs. 20 and the buffalo too. The Gūjar will.’”
+
+
+
+
+
+## 4. Subdivisions.
+
+
+
+The Gūjars of the Central Provinces have, however, entirely given up the predatory habits of their brethren in northern India and have developed into excellent cultivators and respectable law-abiding citizens. In Hoshangābād they have three subcastes, Lekha, Mundle and Jādam. The Mundle or ‘Shaven’ are so called because they take off their turbans when they eat and expose their crowns bare of hair, while the Lekha eat with their turbans on. The Mundle are also known as Rewe, from the Rewa or Nerbudda, near which they reside. The Jādam are probably an offshoot from the cultivating caste of Hoshangābād of that name, Jādam being a corruption of Jādubansi, a tribe of Rājpūts. The Badgūjars, who belong to Nimār, consider themselves the highest, deriving their name from *bara* or ‘great’ Gūjar. As already seen, there is a Badgūjar clan of Rājpūts. The Nimār Badgūjars, however, were formerly engaged in the somewhat humble calling of clearing cotton of its seeds, and on this account they are also known as Ludhāre, the word *lodhna* meaning to work the hand-ginning machine \(*charkhi*\). It seems possible that the small caste of Lorhas of the Hoshangābād District, whose special avocation is to grow *san*-hemp, may be derived from these Ludhāre Gūjars. The Kekre or Kanwe subcaste are the lowest and are of illegitimate descent. They are known as Kekre or ‘Crabs,’ but prefer their other name. They will take food from the other subcastes, but these do not return the compliment. Another group in the Sohāgpur Tahsīl of Hoshangābād are the Lilorhia Gūjars. They say that their ancestors were grazing calves when some of them with their herdsmen were stolen by Brahma. Then Krishna created fresh cowherds and the Lilorhias were made from the sweat of his forehead \(*lilat*\). Afterwards Brahma restored the original cowherds, who were known as Murelia, because they were the first players on the *murli* or flute.10 The Badgūjars or highest branch of the clan are descendants of these Murelias. The caste have also a set of exogamous groups, several of which bear the names of Rājpūt clans, while others are called after villages, titles or nicknames or natural objects. A man is not permitted to marry any one belonging either to his own sept or that of his mother or grandmother.
+
+
+
+
+
+## 5. Marriage.
+
+
+
+At a Gūjar wedding four plough-yokes are laid out to form a square under the marriage booth, with a copper pot full of water in the centre. At the auspicious moment the bride’s hand is placed on that of the bridegroom, and the two walk seven times round the pot, the bridegroom leading for the first four rounds and the bride for the last three. Widows are allowed to remarry, and, as girls are rather scarce in the caste, a large price is often paid for the widow to her father or guardian, though this is not willingly admitted. As much as Rs. 3000 is recorded to have been paid. A widow marriage is known as Nātra or Pāt. A woman is forbidden to marry any relative of her first husband. When the marriage of a widow is to take place a fee of Rs. 1–4 must be paid to the village proprietor to obtain his consent. The Gūjars of the Bulandshahr District of the United Provinces furnish, Mr. Crooke says,11 perhaps the only well-established instance of polyandry among the Hindus of the plains. Owing to the scarcity of women in the caste it was customary for the wife of one brother, usually the eldest, to be occasionally at the disposal of other unmarried brothers living in the house. The custom arose owing to the lack of women caused by the prevalence of female infanticide, and now that this has been stopped it is rapidly dying out, while no trace of it is believed to exist in the Central Provinces.
+
+
+
+
+
+## 6. Disposal of the dead.
+
+
+
+The bodies of unmarried persons are buried, and also of those who die of any epidemic disease. Others are cremated. The funeral of an elderly man of good means and family is an occasion for great display. A large feast is given and the Brāhman priests of the caste go about inviting all the Gūjars to attend. Sometimes the number of guests rises to three or four thousand. At the conclusion of the feast one of the hosts claps his hands and all the guests then get up and immediately depart without ceremony or saying farewell. Such an occasion is known as Gūjarwāda, and the Gūjars often spend as much, or more, on a funeral as on a wedding, in the belief that the outlay is of direct benefit to the dead man’s spirit. This idea is inculcated and diligently fostered by the family priests and those Brāhmans who receive gifts for the use of the dead, the greed of these cormorants being insatiable.
+
+
+
+
+
+## 7. Religion.
+
+
+
+The household goddess of the caste is known as Kul Devi, the word *kul* meaning family. To her a platform is erected inside the house, and she must be worshipped by the members of the family alone, no stranger being present. Offerings of cocoanuts, rice, turmeric and flowers are made to her, but no animal sacrifices. When a son of the family dies unmarried, an image of him, known as Mujia, is made on a piece of silver, copper or brass, and is worshipped on Mondays and Fridays during the month of Māgh \(January\). On one of these days also a feast is given to the caste. Each member of the caste has a *guru* or spiritual preceptor, who visits him every second or third year and receives a small present of a cocoanut or a piece of cloth. But he does not seem to perform any duties. The *guru* may belong to any of the religious mendicant castes. A man who is without a *guru* is known as Nugra and is looked down on. To meet him in the morning is considered unlucky and portends misfortune. Sir C. Elliot12 characterised the Mundle Gūjars as “A very religious race; they never plough on the new moon nor on the 8th of the month, because it is Krishna’s birthday. Their religious and social head is the Mahant of the Rāmjidās temple at Hoshangābād.” In Nimār many of the Gūjars belong to the Pīrzāda sect, which is a kind of reformed creed, based on a mixture of Hinduism and Islām.
+
+
+
+
+
+## 8. Character.
+
+
+
+The Gūjars wear the dress of northern India and their women usually have skirts \(*lahenga*\) and not *sāris* or body-cloths. Married women have a number of strings of black beads round the neck and widows must change these for red ones. As a rule neither men nor women are tattooed. The men sometimes have their hair long and wear beards and whiskers. The Gūjars are now considered the best cultivators of the Nimār District. They are fond of irrigation and sink unfaced wells to water their land and get a second crop off it. They are generally prosperous and make good landlords. Members of the caste have the custom of lending and borrowing among themselves and not from outsiders, and this no doubt conduces to mutual economy and solvency. Like keen cultivators elsewhere, such as the Panwārs and Kurmis, the Gūjar sets store by having a good house and good cattle. The return from a Mundle Gūjar’s wedding, Captain Forsyth wrote,13 is a sight to be seen. Every Gūjar from far and near has come with his whole family in his best bullock-cart gaily ornamented, and, whatever the road may be, nothing but a smash will prevent a breakneck race homewards at full gallop, cattle which have won in several such races acquiring a much coveted reputation throughout the District. 
+
+
+
+
+
+* * *
+
+1 *Early History of India*, 3rd ed. pp. 409, 411.
+
+2 Mr. Smith ascribes this discovery to Messrs. A. M. T. Jackson \(*Bombay Gazetteer*, vol. i. Part I., 1896, p. 467\); D. R. Bhandārkar, Gurjaras \(*J. Bo. R.A.S.* vol. xx.\); and Epigraphic Notes \(*ibidem*, vol. xxi.\); and Professor Kielhorn’s paper on the Gwālior Inscription of Mihira Bhoja in a German journal.
+
+3 *Bombay Gazetteer, Hindus of Gujarāt*, Appendix B, The Gūjars.
+
+4 The Khazars were known to the Chinese as Yetas, the beginning of Yeta-i-li-to, the name of their ruling family, and the nations of the west altered this to Hyatilah and Ephthalite. Campbell, *ibidem*.
+
+5 See article on Panwār Rājpūt, para. 1.
+
+6 Campbell, *loc. cit.* p. 495.
+
+7 *Tribes and Castes*, article Gūjar, para. 12. The description is mainly taken from Elliott’s *History of India as told by its own Historians*.
+
+8 Description of the Kāngra Gūjars by Mr. Barnes. Quoted in Ibbetson’s *Punjab Census Report* \(1881\), para. 481.
+
+9 *Census Report*, para. 481.
+
+10 Cf. Krishna’s epithet of Murlidhar or the flute-player, and the general association of the flute with herdsmen and shepherds in Greek and Roman mythology.
+
+11 *Ibidem.*
+
+12 *Hoshangābād Settlement Report*, para. 16.
+
+13 *Nimār Settlement Report* \(1868\).
+
+
+
+

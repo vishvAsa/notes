@@ -1,0 +1,24 @@
++++
+title = "Gopāl"
+
++++
+
+
+
+**Gopāl, Borekar.**—*Bibliography*: Major Gunthorpe’s *Criminal Tribes*; Mr. Kitt’s *Berār Census Report*, 1881.
+
+A small vagrant and criminal caste of Berār, where they numbered about 2000 persons in 1901. In the Central Provinces they were included among the Nats in 1901, but in 1891 a total of 681 were returned. Here they belong principally to the Nimār District, and Major Gunthorpe considers that they entered Berār from Nimār and Indore.
+
+They are divided into five classes, the Marāthi, Vīr, Pangul, Pahalwān, or Khām, and Gujarāti Gopāls. The ostensible occupation of all the groups is the buying and selling of buffaloes. The word Gopāl means a cowherd and is a name of Krishna. The Marāthi Gopāls rank higher than the rest, and all other classes will take food from them, while the Vīr Gopāls eat the flesh of dead cattle and are looked down upon by the others. The ostensible occupation of the Vīr Gopāls is that of making mats from the leaves of the date-palm tree. They build their huts of date-leaves outside a village and remain there for one or two years or more until the headman tells them to move on. The name Borekar is stated to have the meaning of mat-maker. The Pāngul Gopāls also make mats, but in addition to this they are mendicants, begging from off trees, and must be the same as the Harbola mendicants of the Central Provinces. The Pāngul spreads a cloth below a tree and climbing it sits on some high branch in the early morning. Here he sings and chants the praises of charitable persons until somebody throws a small present on to the cloth. This he does only between cock-crow and sunrise and not after sunrise. Others walk through the streets, ejaculating *dam\!*1 *dam\!* and begging from door to door. With the exception of shaving after a death they never cut the hair either of their head or face. Their principal deity is Dāwal Mālik, but they also worship Khandoba; and they bury the bodies of their dead. The corpse is carried to the grave in a *jholi* or wallet and is buried in a sitting posture. In order to discover whether a dead ancestor has been reborn in a child they have recourse to magic. A lamp is suspended from a thread, and the upper stone of the grinding-mill is placed standing upon the lower one. If either of them moves when the name of the dead ancestor is pronounced they consider that he has been reborn. One section of the Pānguls has taken to agriculture, and these refuse to marry with the mendicants, though eating and drinking with them. The Pahalwān Gopāls live in small tents and travel about, carrying their belongings on buffaloes. They are wrestlers and gymnasts, and belong mainly to Hyderābād.2 The Khām Gopāls are a similar group also belonging to Hyderābād; and are so named because they carry about a long pole \(*khām*\) on which they perform acrobatic feats. They also have thick canvas bags, striped blue and white, in which they carry their property. The Gujarāti Gopāls are lower than the other divisions, who will not take food from them. They are tumblers and do feats of strength and also perform on the tight-rope. All five groups, Major Gunthorpe states, are inveterate cattle-thieves; and have colonies of their people settled on the Indore and Hyderābād borders and between them along the foot of the Satpūra Hills. Buffaloes or other animals which they steal are passed along from post to post and taken to foreign territory in an incredibly short space of time. A considerable proportion of them, however, have now taken to agriculture, and their proper traditional calling is to sell milk and butter, for which they keep buffaloes. Gopāl is a name of Krishna, and they consider themselves to be descended from the herdsmen of Brindāban. 
+
+
+
+* * *
+
+1 *Dam* apparently here means life or breath.
+
+2 Gunthorpe, p. 91.
+
+
+
+

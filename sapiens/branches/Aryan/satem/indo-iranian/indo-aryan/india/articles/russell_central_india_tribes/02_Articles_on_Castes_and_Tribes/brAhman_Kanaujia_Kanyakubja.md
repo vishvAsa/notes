@@ -1,0 +1,20 @@
++++
+title = "Brāhman, Kanaujia, Kanyakubja"
+
++++
+
+**Brāhman, Kanaujia, Kanyakubja.**—This, the most important division of the northern Brāhmans, takes its name from the ancient city of Kanauj in the Farukhābād District on the Ganges, which was on two occasions the capital of India. The great king Harsha Vardhana, who ruled the whole of northern India in the seventh century, had his headquarters here, and when the Chinese pilgrim Hiuen Tsang stayed at Kanauj in A.D. 638 and 643 he found upwards of a hundred monasteries crowded by more than 10,000 Buddhist monks. “Hinduism flourished as well as Buddhism, and could show more than two hundred temples with thousands of worshippers. The city, which was strongly fortified, extended along the east bank of the Ganges for about four miles, and was adorned with lovely gardens and clear tanks. The inhabitants were well-to-do, including some families of great wealth; they dressed in silk, and were skilled in learning and the arts.”1 When Mahmūd of Ghazni appeared before Kanauj in A.D. 1018 the number of temples is said to have risen to 10,000. The Sultan destroyed the temples, but seems to have spared the city. Thereafter Kanauj declined in importance, though still the capital of a Rājpūt dynasty, and the final sack by Shihāb-ud-Dīn in A.D. 1194 reduced it to desolation and insignificance for ever.2 
+
+The Kanaujia Brāhmans include the principal body of the caste in Bengal and in the Hindi Districts of the Central Provinces. They are here divided into four sub-groups, the Kanaujia proper, Sarwaria, Jijhotia and Sanādhya, which are separately noticed. The Sarwarias are sometimes considered to rank a little higher than the proper Kanaujias. It is said that the two classes are the descendants of two brothers, Kanya and Kubja, of whom the former accepted a present from the divine king Rāma of Ayodhya when he celebrated a sacrifice on his return from Ceylon, while the latter refused it. The Sarwarias are descended from Kubja who refused the present and therefore are purer than the Kanaujias, whose ancestor, Kanya, accepted it. Kanya and Kubja are simply the two parts of Kanyakubja, the old name for Kanauj. It may be noted that Kanya means a maiden and also the constellation Virgo, while Kubja is a name of the planet Mars; but it is not known whether the words in this sense are connected with the name of the city. The Kanaujia Brāhmans of the Central Provinces practise hypergamy, as described in the general article on Brāhman. Mr. Crooke states that in the United Provinces the children of a man’s second wife can intermarry with those of his first wife, provided that they are not otherwise related or of the same section. The practice of exchanging girls between families is also permitted there.3 In the Central Provinces the Kanaujias eat meat and sometimes plough with their own hands. The Chhattīsgarhi Kanaujias form a separate group, who have been long separated from their brethren elsewhere. As a consequence other Kanaujias will neither eat nor intermarry with them. Similarly in Saugor those who have come recently from the United Provinces will not marry with the older settlers. A Kanaujia Brāhman is very strict in the matter of taking food, and will scarcely eat it unless cooked by his own relations, according to the saying, ‘*Ath Kanaujia, nau chulha*’ or ‘Eight Kanaujias will want nine places to cook their food.’ 
+
+
+* * *
+
+1 *Early History of India*, 3rd ed. p. 376. 
+
+2 *Ibidem*, p. 385. 
+
+3 *Tribes and Castes*, art. Kanaujia. 
+
+
+

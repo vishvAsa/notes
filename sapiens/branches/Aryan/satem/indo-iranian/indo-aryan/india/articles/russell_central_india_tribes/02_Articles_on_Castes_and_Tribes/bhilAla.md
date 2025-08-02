@@ -1,0 +1,54 @@
++++
+title = "Bhilāla"
+
++++
+
+
+## 1. General notice.
+
+**Bhilāla**,1—A small caste found in the Nimār and Hoshangābād Districts of the Central Provinces and in Central India. The total strength of the Bhilālas is about 150,000 persons, most of whom reside in the Bhopāwār Agency, adjoining Nimār. Only 15,000 were returned from the Central Provinces in 1911. The Bhilālas are commonly considered, and the general belief may in their case be accepted as correct, to be a mixed caste sprung from the alliances of immigrant Rājpūts with the Bhīls of the Central India hills. The original term was not improbably Bhīlwāla, and may have been applied to those Rājpūt chiefs, a numerous body, who acquired small estates in the Bhīl country, or to those who took the daughters of Bhīl chieftains to wife, the second course being often no doubt a necessary preliminary to the first. Several Bhilāla families hold estates in Nimār and Indore, and their chiefs now claim to be pure Rājpūts. The principal Bhilāla houses, as those of Bhāmgarh, Selāni and Mandhāta, do not intermarry with the rest of the caste, but only among themselves and with other families of the same standing in Mālwa and Holkar’s Nimār. On succession to the *Gaddi* or headship of the house, representatives of these families are marked with a *tīka* or badge on the forehead and sometimes presented with a sword, and the investiture may be carried out by custom by the head of another house. Bhilāla landholders usually have the title of Rao or Rāwat. They do not admit that a Bhilāla can now spring from intermarriage between a Rājpūt and a Bhīl. The local Brāhmans will take water from them and they are occasionally invested with the sacred thread at the time of marriage. The Bhilāla Rao of Mandhāta is hereditary custodian of the great shrine of Siva at Onkār Mandhāta on an island in the Nerbudda. According to the traditions of the family, their ancestor, Bhārat Singh, was a Chauhān Rājpūt, who took Mandhāta from Nāthu Bhīl in A.D. 1165, and restored the worship of Siva to the island, which had been made inaccessible to pilgrims by the terrible deities, Kāli and Bhairava, devourers of human flesh. In such legends may be recognised the propagation of Hinduism by the Rājpūt adventurers and the reconsecration of the aboriginal shrines to its deities. Bhārat Singh is said to have killed Nāthu Bhīl, but it is more probable that he only married his daughter and founded a Bhilāla family. Similar alliances have taken place among other tribes, as the Korku chiefs of the Gāwilgarh and Mahādeo hills, and the Gond princes of Garha Mandla. The Bhilālas generally resemble other Hindus in appearance, showing no marked signs of aboriginal descent. Very probably they have all an infusion of Rājpūt blood, as the Rājpūts settled in the Bhīl country in some strength at an early period of history. The caste have, however, totemistic group names; they will eat fowls and drink liquor; and they bury their dead with the feet to the north, all these customs indicating a Dravidian origin. Their subordinate position in past times is shown by the fact that they will accept cooked food from a Kunbi or a Gūjar; and indeed the status of all except the chief’s families would naturally have been a low one, as they were practically the offspring of kept women. As already stated, the landowning families usually arrange alliances among themselves. Below these comes the body of the caste and below them is a group known as the Chhoti Tad or bastard Bhilālas, to which are relegated the progeny of irregular unions and persons expelled from the caste for social offences. 
+
+
+
+## 2. Marriage.
+
+The caste, for the purpose of avoiding marriages between relations, are also divided into exogamous groups called *kul* or *kuri*, several of the names of which are of totemistic origin or derived from those of animals and plants. Members of the Jāmra *kuri* will not cut or burn the *jāmun*2 tree; those of the Saniyār *kuri* will not grow *san*-hemp, while the Astaryas revere the *sona*3 tree and the Pipalādya, the *pīpal* tree. Some of the *kuris* have Rājpūt sept names, as Mori, Baghel and Solanki. A man is forbidden to take a wife from within his own sept or that of his mother, and the union of first cousins is also prohibited. The customs of the Bhilālas resemble those of the Kunbis and other cultivating castes. At their weddings four cart-yokes are arranged in a square, and inside this are placed two copper vessels filled with water and considered to represent the Ganges and Jumna. When the sun is half set, the bride and the bridegroom clasp hands and then walk seven times round the square of cart-yokes. The water of the pots is mixed and this is considered to represent the mingling of the bride’s and bridegroom’s personalities as the Ganges and Jumna meet at Allahābād. A sum of about Rs. 60 is usually paid by the parents of the bridegroom to those of the bride and is expended on the ceremony. The ordinary Bhilālās have, Mr. Korke states, a simple form of wedding which may be gone through without consulting a Brāhman on the Ekādashi or eleventh of Kārtik \(October\); this is the day on which the gods awake from sleep and marks the commencement of the marriage season. A cone is erected of eleven plants of juāri, roots and all, and the couple simply walk round this seven times at night, when the marriage is complete. The remarriage of widows is permitted. The woman’s forehead is marked with cowdung by another widow, probably as a rite of purification, and the cloths of the couple are tied together. 
+
+
+
+## 3. Social customs.
+
+The caste commonly bury the dead and erect memorial stones at the heads of graves which they worship in the month of Chait \(April\), smearing them with vermilion and making an offering of flowers. This may either be a Dravidian usage or have been adopted by imitation from the Muhammadans. The caste worship the ordinary Hindu deities, but each family has a *Kul-devi* or household god, Mr. Korke remarks, to which they pay special reverence. The offerings made to the Kul-devi must be consumed by the family alone, but married daughters are allowed to participate. They employ Nimāri Brāhmans as their priests, and also have *gurus* or spiritual preceptors, who are Gosains or Bairāgis. They will take food cooked with water from Brāhmans, Rājpūts, Munda Gūjars and Tirole Kunbis. The last two groups are principal agricultural castes of the locality and the Bhilālas are probably employed by them as farmservants, and hence accept cooked food from their masters in accordance with a common custom. The local Brāhmans of the Nāgar, Nāramdeo, Baīsa and other subcastes will take water from the hand of a Bhilāla. Temporary excommunication from caste is imposed for the usual offences, such as going to jail, getting maggots in a wound, killing a cow, a dog or a squirrel, committing homicide, being beaten by a man of low caste, selling shoes at a profit, committing adultery, and allowing a cow to die with a rope round its neck; and further, for touching the corpses of a cow, cat or horse, or a Barhai \(carpenter\) or Chamār \(tanner\). They will not swear by a dog, a cat or a squirrel, and if either of the first two animals dies in a house, it is considered to be impure for a month and a quarter. The head of the caste committee has the designation of Mandloi, which is a territorial title borne by several families in Nimār. He receives a share of the fine levied for the *Sarni* or purification ceremony, when a person temporarily expelled is readmitted into caste. Under the Mandloi is the Kotwāl whose business is to summon the members to the caste assemblies; he also is paid out of the fines and his office is hereditary. 
+
+
+
+## 4. Occupation and character.
+
+The caste are cultivators, farmservants and field-labourers, and a Bhilāla also usually held the office of Mānkar, a superior kind of Kotwār or village watchman. The Mānkar did no dirty work and would not touch hides, but attended on any officer who came to the village and acted as a guide. Where there was a village *sarai* or rest-house, it was in charge of the Mānkar, who was frequently also known as zamīndār. This may have been a recognition of the ancient rights of the Bhilālas and Bhīls to the country. 
+
+
+
+## 5. Character.
+
+Captain Forsyth, Settlement Officer of Nimār, had a very unfavourable opinion of the Bhilālas, whom he described as proverbial for dishonesty in agricultural engagements and worse drunkards than any of the indigenous tribes.4 This judgment was probably somewhat too severe, but they are poor cultivators, and a Bhilāla’s field may often be recognised by its slovenly appearance.5 
+
+A century ago Sir J. Malcolm also wrote very severely of the Bhilālas: “The Bhilāla and Lundi chiefs were the only robbers in Mālwa whom under no circumstances travellers could trust. There are oaths of a sacred but obscure kind among those that are Rājpūts or who boast their blood, which are almost a disgrace to take, but which, they assert, the basest was never known to break before Mandrup Singh, a Bhilāla, and some of his associates, plunderers on the Nerbudda, showed the example. The vanity of this race has lately been flattered by their having risen into such power and consideration that neighbouring Rājpūt chiefs found it their interest to forget their prejudices and to condescend so far as to eat and drink with them. Hatti Singh, Grassia chief of Nowlāna, a Khīchi Rājpūt, and several others in the vicinity cultivated the friendship of Nādir, the late formidable Bhilāla robber-chief of the Vindhya range; and among other sacrifices made by the Rājpūts, was eating and drinking with him. On seeing this take place in my camp, I asked Hatti Singh whether he was not degraded by doing so; he said no, but that Nādir was elevated.”6 
+
+
+
+* * *
+
+1 This article is based mainly on Captain Forsyth’s *Nimār Settlement Report*, and a paper by Mr. T. T. Korke, Pleader, Khandwa. 
+
+2 *Eugenia jambolana.*
+
+3 *Bauhinia racemosa.*
+
+4 *Settlement Report* \(1869\), para. 411. 
+
+5 Mr. Montgomerie’s *Nimār Settlement Report*. 
+
+6 *Memoir of Central India*, ii. p. 156. 
+
+
+

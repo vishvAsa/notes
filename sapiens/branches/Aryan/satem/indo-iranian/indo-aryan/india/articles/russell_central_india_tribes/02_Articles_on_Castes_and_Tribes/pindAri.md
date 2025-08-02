@@ -1,0 +1,152 @@
++++
+title = "Pindāri"
+
++++
+
+## List of Paragraphs
+
++ 1. Origin of the name 
++ 2. Rise of the Pindāris 
++ 3. Their strength and sphere of operations 
++ 4. Pindāri expeditions and methods 
++ 5. Return from an expedition 
++ 6. Suppression of the Pindāris. Death of Chitu 
++ 7. Character of the Pindāris 
++ 8. The existing Pindāris 
++ 9. Attractions of a Pindāri’s life 
+
+
+## 1. Origin of the name
+
+**Pindāri, Pindāra, Pendhāri.**1—The well-known professional class of freebooters, whose descendants now form a small cultivating caste. In the Central Provinces they numbered about 150 persons in 1911, while there are about 10,000 in India. They are mainly Muhammadans but include some Hindus. The Pindāris of the Central Provinces are for the most part the descendants of Gonds, Korkus and Bhīls whose children were carried off in the course of raids, circumcised, and brought up to follow the profession of a Pindāri. When the bands were dispersed many of them returned to their native villages and settled down. Malcolm considered that the name Pindāri was derived from *pinda*, an intoxicating drink, and was given to them on account of their dissolute habits. He adds that Karīm Khān, a famous Pindāri leader, had never heard of any other reason for the name, and Major Henley had the etymology confirmed by the most intelligent of the Pindāris of whom he inquired.2 In support of this may be adduced the name of Bhangi, given to the sweeper caste on account of their drinking *bhang* or hemp. Wilson again held the most probable derivation to be from the Marāthi *pendha*, in the sense of a bundle of rice-straw, and *hara* one who takes, because the name was originally applied to horsemen who hung on to an army and were employed in collecting forage. The fact that the existing Pindāris are herdsmen and tenders of buffaloes and thus might well have been employed for the collection of forage may be considered somewhat to favour the above view; but the authors of *Hobson-Jobson*, after citing these derivations, continue: “We cannot think any of the etymologies very satisfactory. We venture another as a plausible suggestion merely. Both *pind-parna* in Hindi and *pindas-basnen* in Marāthi signify ‘to follow,’ the latter being defined as ‘to stick closely; to follow to the death; used of the adherence of a disagreeable fellow.’ Such phrases could apply to these hangers-on of an army in the field looking out for prey.” Mr. W. Irvine3 has suggested that the word comes from a place or region called Pandhār, which is referred to by native historians and seems to have been situated between Burhānpur and Handia on the Nerbudda; and states that there is good evidence to prove that a large number of Pindāris were settled in this part of the country. Mr. D. Chisholm reports from Nimār that “Pandhār or Pāndhar is the name given to a stream which rises in the Gularghāt hills of the Asīr range and flows after a very circuitous course into the Masak river by Mandeva. The name signifies five, as it is joined by four other small streams. The Asīr hills were the haunts of the Pindāris, and the country about these, especially by the banks of the Pandhār, is very wild; but it is not commonly known that the Pindāris derived their name from this stream.” And as the Pindāris are first heard of as hangers-on of the Marātha armies in the Deccan prior to A.D. 1700, it seems unlikely also that their name can be taken from a place in the Nimār District, where it is not recorded that they were settled before 1794. Nor does the Pandhār itself seem sufficiently important to have given a name to the whole body of freebooters. Malcolm’s or Wilson’s derivations are perhaps on the whole the most probable. Prinsep writes: “Pindāra seems to have the same reference to Pandour that Kuzāk has to Cossack. The latter word is of Turkish origin but is commonly used to express a mounted robber in Hindustān.” Though the Pandours were the predatory light cavalry of the Austrian army, and had considerable resemblance to the Pindāris, it does not seem possible to suppose that there is any connection between the two words. The Pendra zamīndāri in Bilāspur is named after the Pindāris, the dense forests of the Rewah plateau which includes Pendra having been one of their favourite asylums of refuge. 
+
+
+
+## 2. Rise of the Pindāris
+
+The Pindāri bands appear to have come into existence during the wars of the late Muhammadan dynasties in the Deccan, and in the latter part of the seventeenth century they attached themselves to the Marāthas in their revolt against Aurāngzeb. The first mention of the name occurs at this time. During and after the Marātha wars many of the Pindāri leaders obtained grants in Central India from Sindhia and Holkar, and were divided into two parties owing a nominal allegiance to these princes and designated as the Sindhia Shāhi and Holkar Shāhi. In the period of chaos which reigned at this time outside British territories their raids in all directions attended by the most savage atrocities became more and more intolerable. These outrages extended from Bundelkhand to Cuddapah south of Madras and from Orissa to Gujarāt. 
+
+When attached to the Marātha armies, Malcolm states, the Pindāris always camped separately and were not permitted to plunder in the Marātha territories; they were given an allowance averaging four annas each a day, and further supported themselves by employing their small horses and bullocks in carrying grain, forage and wood, for which articles the Pindāri bazār was the great mart. When let loose to pillage, which was always the case some days before the army entered an enemy’s country, all allowances stopped; no restraint whatever was put upon these freebooters till the campaign was over, when the Marātha commander, if he had the power, generally seized the Pindāri chiefs or surrounded their camps and forced them to yield up the greater part of their booty. A knowledge of this practice led the Pindāris to redouble their excesses, that they might be able to satisfy without ruin the expected rapacity of their employers. 
+
+In 1794, Grant-Duff writes, Sindhia assigned some lands to the Pindāris near the banks of the Nerbudda, which they soon extended by conquests from the Grassias or original independent landholders in their neighbourhood. Their principal leaders at that time were two brothers named Hiru and Burun, who are said to have been put to death for their aggressions on the territory of Sindhia and of Rāghuji Bhonsla. The sons of Hiru and Burun became Pindāri chiefs; but Karīm Khān, a Pindāra who had acquired great booty at the plunder of the Nizām’s troops after the battle of Hurdla, and was distinguished by superior cunning and enterprise, was the principal leader of this refuse of the Marātha armies. Karīm got the district of Shujahalpur from Umar Khān which, with some additions, was afterwards confirmed to him by Sindhia. During the war of 1803 and the subsequent disturbed state of the country Karīm contrived to obtain possession of several districts in Mālwa belonging to Sindhia’s jāgirdārs; and his land revenue at one time is said to have amounted to fifteen lakhs of rupees a year. He also wrested some territory from the Nawāb of Bhopāl on which he built a fort as a place of security for his family and of deposit for his plunder. Karīm was originally a Sindhia Shāhi, but like most of the Pindāris, except about 5000 of the Holkar Shāhis who remained faithful, he changed sides or plundered his master whenever it suited his convenience, which was as often as he found an opportunity. Sindhia, jealous of his encroachments, on pretence of lending him some gems inveigled him to an interview, made him prisoner, plundered his camp, recovered the usurped districts and lodged Karīm in the fort of Gwalior. 
+
+A number of leaders started up after the confinement of Karīm, of whom Chitu, Dost Muhammad, Namdār Khān and Sheikh Dullah became the most conspicuous. They associated themselves with Amīr Khān in 1809 during his expedition to Berār; and in 1810, when Karīm Khān purchased his release from Gwalior, they assembled under that leader a body of 25,000 horse and some battalions of newly raised infantry with which they again proposed to invade Berār; but Chitu, always jealous of Karīm’s ascendency, was detached by Rāghuji Bhonsla from the alliance, and afterwards co-operated with Sindhia in attacking him; Karīm was in consequence driven to seek an asylum with his old patron Amīr Khān, but by the influence of Sindhia Amīr Khān kept him in a state of confinement until 1816. 
+
+When the Marāthas ceased to spread themselves over India, the Pindāris who had attended their armies were obliged to plunder the territories of their former protectors for subsistence. To the unemployed soldiery of India, particularly to the Muhammadans, the life of a Pindāra had many allurements; but the Marātha horsemen who possessed hereditary rights or had any pretensions to respectability did not readily join them. One of the above leaders, Sheikh Dullah or Abdullah, apparently became a dacoit after the Pindāris had been dispersed, and he is still remembered in Hoshangābād and Nimār in the following saying: 
+
+
+
+Niche zamīn aur upar Allah, 
+
+Aur bīch men phiren Sheikh Dullah,
+
+
+
+or ‘God is above and the earth beneath, and Sheikh Dullah ranges at his will between.’ 
+
+
+
+## 3. Their strength and sphere of operations
+
+In 1814, Prinsep states,4 the actual military force at the disposal of the Pindāris amounted to 40,000 horse, inclusive of the Pathāns, who though more orderly and better disciplined than the Pindāris of the Nerbudda, possessed the same character and were similarly circumstanced in every respect, supporting themselves entirely by depredations whenever they could practise them. Their number would be doubled were we to add the remainder of Holkar’s troops of the irregular kind, which were daily deserting the service of a falling house in order to engage in the more profitable career of predatory enterprise; and the loose cavalry establishments of Sindhia and the Bhonsla, which were bound by no ties but those of present entertainment, and were always in great arrears of pay. The presence of this force in the centre of India and able to threaten each of the three Presidencies imposed the most extensive annual precautions for defence, in spite of which the territories of our allies were continually overrun. On two occasions, once when they entered Gujarāt in 1808–9 and again in 1812 when the Bengal provinces of Mirzāpur and Shahābād were devastated, they penetrated into our immediate territories. Grant-Duff records that in one raid on the coast from Masulipatam northward they in ten days plundered 339 villages, burning many, killing and wounding 682 persons, torturing 3600 and carrying off or destroying property to the amount of two lakhs and a half. Indeed their reputation was such that the mere rumour of an incursion caused a regular panic at Madras in 1816, of which General Hislop gives an amusing account:5 “In the middle of this year the troops composing the garrison of Fort St. George were moved out and encamped on the island outside Black Town wall. This imprudent step was taken, as was affirmed, to be in readiness to meet the Pindāris, who were reported to be on their road to Madras, although it was well known that not half a dozen of them were at that time within 200 miles of the place. The native inhabitants of all classes throughout Madras and its vicinity were in the utmost alarm, and looked for places of retreat and security for their property. It brought on Madras all the distresses in imagination of Hyder Ali’s invasion. It was about this period that an idle rumour reached Madras of the arrival of the Pindāris at the Mount; all was uproar, flight and despair to the walls of Madras. This alarm originated in a few Dhobis and grass-cutters of the artillery having mounted their *tattus* and, in mock imitation of the Pindāris, galloped about and played with long bamboos in their hands in the vicinity of the Mount. The effect was such, however, that many of the civil servants and inhabitants of the Mount Road packed up and moved to the Fort for protection. Troopers, messengers, etc., were seen galloping to the Government House and thence to the different public authorities. Such was the alarm in the Government House that on the afternoon of that day an old officer, anxious to offer some advice to the Governor, rode smartly to the Government gardens, and on reaching the entrance observed the younger son of the Governor running with all possible speed into the house; who having got to a place of security ventured to look back and then discovered in the old officer a face which he had before seen; when turning back again he exclaimed, ‘Upon my word, sir, I was so frightened I took you for a Pindāri.’” 
+
+
+
+## 4. Pindāri expeditions and methods
+
+A Pindāri expedition6 usually started at the close of the rains, as soon as the rivers became fordable after the Dasahra festival in October. Their horses were then shod, having previously been carefully trained to prepare them for long marches and hard work. A leader of tried courage having been chosen as Luhbaria, all who were so inclined set forth on a foray, or Luhbar as it was called in the Pindāri nomenclature, the strength of the party often amounting to several thousands. In every thousand Pindāris about 400 were tolerably well mounted and armed; of this number about every fifteenth man carried a matchlock, but their favourite weapon was the ordinary bamboo spear of the Marāthas, from 12 to 18 feet long. Of the remaining 600 two-thirds were usually common Lootais or plunderers, indifferently mounted and armed with every variety of weapon; and the rest slaves, attendants and camp-followers, mounted on *tattus* or wild ponies and keeping up with the Luhbar in the best manner they could. They were encumbered neither by tents nor baggage; each horseman carried a few cakes of bread for his own subsistence and some feeds of grain for his horse. They advanced at the rapid rate of forty or fifty miles a day, neither turning to the right nor to the left till they arrived at their place of destination. They then divided, and made a sweep of all the cattle and property they could find; committing at the same time the most horrid atrocities and destroying what they could not carry away. They trusted to the secrecy and suddenness of the irruption for avoiding those who guarded the frontiers of the countries they invaded; and before a force could be brought against them they were on their return. Their chief strength lay in their being intangible. If pursued they made marches of extraordinary length, sometimes upwards of sixty miles, by roads almost impracticable for regular troops. If overtaken they dispersed and reassembled at an appointed rendezvous; if followed to the country from which they issued they broke into small parties. The cruelties they perpetrated were beyond belief. As it was impossible for them to remain more than a few hours on the same spot the utmost despatch was necessary in rifling any towns or villages into which they could force an entrance; every one whose appearance indicated the probability of his possessing money was immediately put to the most horrid torture till he either pointed out his hoard or died under the infliction. Nothing was safe from the pursuit of Pindāri lust or avarice; it was their common practice to burn and destroy what they could not carry away; and in the wantonness of barbarity to ravish and murder women and children under the eyes of their husbands and parents. The ordinary modes of torture inflicted by these miscreants were to apply red-hot irons to the soles of the feet; or to throw the victim on the ground and place a plank or beam across his chest on which two men pressed with their whole weight; and to throw oil on the clothes and set fire to them, or tie wisps of rag soaked in oil to the ends of all the victim’s fingers and set fire to these. Another favourite method was to put hot ashes into a horse-bag, which they tied over a man’s mouth and nostrils and thumped him on the back until he inhaled the ashes. The effect on the lungs of the sufferer was such that few long survived the operation. 
+
+
+
+## 5. Return from an expedition
+
+The return of the Pindāris from an expedition presented at one view their character and habits. When they recrossed the Nerbudda and reached their homes their camp became like a fair. After the claims of the chief of the territory \(whose right was a fourth part of the booty, but who generally compounded for one or two valuable articles\) had been satisfied, the usual share paid to their Luhbaria, or chosen leader for the expedition, and all debts to merchants and others who had made advances discharged, the plunder of each man was exposed for sale; traders from every part came to make cheap bargains; and while the women were busy in disposing of their husbands’ property, the men, who were on such occasions certain of visits from all their friends, were engaged in hearing music, seeing dancers and drolls, and in drinking. This life of debauchery and excess lasted till their money was gone; they were then compelled to look for new scenes of rapine, or, if the season was favourable, were supported by their chiefs, or by loans at high interest from merchants who lived in their camps, many of whom amassed large fortunes. This worst part of the late population of Central India is, as a separate community, now extinct.7 
+
+
+
+## 6. Suppression of the Pindāris. Death of Chitu
+
+The result of the Pindāri raids was that Central India was being rapidly reduced to the condition of a desert, and the peasants, unable to support themselves on the land, had no option but to join the robber bands or starve. It was not until 1817 that Lord Hastings obtained authority from home to take regular measures for their repression; and at the same time he also forced or persuaded the principal chiefs of Central India to act vigorously in concert with him. When these were put into operation and the principal routes from Central India occupied by British detachments, the Pindāris were completely broken up and scattered in the course of a single campaign. They made no stand against regular troops, and their bands, unable to escape from the ring of forces drawn round them, were rapidly dispersed over the country. The people eagerly plundered and seized them in revenge for the wrongs long suffered at their hands, and the Bhīl Grassias or border landholders gladly carried out the instructions to hunt them down. On one occasion a native havildar with only thirty-four men attacked and put a large body of them to flight. The principal chiefs, reduced to the condition of hunted outlaws in the jungles, soon accepted the promise of their lives, and on surrendering were either settled on a grant of land or kept in confinement. The well-known leader Chitu joined Apa Sāhib, who had then escaped from Nāgpur and was in hiding in the Pachmarhi hills. Being expelled from there in February 1819 he proceeded to the fort of Asīrgarh in Nimār, but was refused admittance by Sindhia’s commandant. He sought shelter in the neighbouring jungle, and on horseback and alone attempted to penetrate a thick cover known to be infested with tigers. He was missed for some days afterwards and no one knew what had become of him. His horse was at last discovered grazing near the margin of the forest, saddled and bridled, and exactly in the state in which it was when Chitu had last been seen upon it. Upon search a bag of Rs. 250 was found in the saddle; and several seal rings with some letters of Apa Sāhib, promising future reward, served more completely to fix the identity of the horse’s late master. These circumstances, combined with the known resort of tigers to the spot, induced a search for the body, when at no great distance some clothes clotted with blood, and farther on fragments of bones, and at last the Pindāri’s head entire with features in a state to be recognised, were successively discovered. The chief’s mangled remains were given over to his son for interment, and the miserable fate of one who so shortly before had ridden at the head of twenty thousand horse gave an awful lesson of the uncertainty of fortune and drew pity even from those who had been victims of his barbarity when living.8 
+
+
+
+## 7. Character of the Pindāris
+
+The Pindāris, as might be expected, were recruited from all classes and castes, and though many became Muhammadans the Hindus preserved the usages of their respective castes. Most of the Hindu men belonged to the Ladul or grass-cutter class, and their occupation was to bring grass and firewood to the camps. “Those born in the Durrahs or camps,” Malcolm states,9 “appear to have been ignorant in a degree almost beyond belief and were in the same ratio superstitious. The women of almost all the Muhammadan Pindāris dressed like Hindus and worshipped Hindu deities. From accompanying their husbands in most of their excursions they became hardy and masculine; they were usually mounted on small horses or camels, and were more dreaded by the villagers than the men, whom they exceeded in cruelty and rapacity.” Colonel Tod notes that the Pindāris, like other Indian robbers, were devout in the observance of their religion: 
+
+“A short distance to the west of the Regent’s \(Kotāh\) camp is the Pindāri-ka-chhaoni, where the sons of Karīm Khān, the chief leader of those hordes, resided; for in those days of strife the old Regent would have allied himself with Satan, if he had led a horde of plunderers. I was greatly amused to see in this camp the commencement of an Id-Gāh or place of prayer; for the villains, while they robbed and murdered even defenceless women, prayed five times a day\!”10 
+
+
+
+## 8. The existing Pindāris
+
+While the freebooting Pindāris had no regular caste organisation, their descendants have now become more or less of a caste in accordance with the usual tendency of a distinctive occupation, producing a difference in status, to form a fresh caste. The existing Pindāris in the Central Provinces are both Muhammadans and Hindus, the Muhammadans, as already stated, having been originally the children of Hindus who were kidnapped and converted. It is one of the very few merits of the Pindāris that they did not sell their captives to slavery. Their numerous prisoners of all ages and both sexes were employed as servants, made over to the chiefs or held to ransom from their relatives, but the Pindāris did not carry on like the Banjāras a traffic in slaves.11 The Muhammadan Pindāris were said some time ago to have no religion, but with the diffusion of knowledge they have now adopted the rites of Islam and observe its rules and restrictions. In Bhandāra the Hindu Pindāris are Garoris or Gowāris, They say that the ancestors of the Pindāris and Gowāris were two brothers, the business of the Pindāri brother being to tend buffaloes and that of the Gowāri brother to herd cows. These Pindāris will beg from the owners of buffaloes for the above reason. They revere the dog and will not kill it, and also worship snakes and tigers, believing that these animals never do them injury. They carry their dead to the grave in a sitting posture, seated in a *jholi* or wallet, and bury them in the same position. They wear their beards and do not shave. Some of these Pindāris are personal servants, others cultivators and labourers, and others snake-charmers and jugglers. 
+
+
+
+## 9. Attractions of a Pindāri’s life
+
+The freebooting life of the Pindāris, unmitigated scoundrels though they were, no doubt had great charms, and must often have been recalled with regret by those who settled down to the quiet humdrum existence of a cultivator. This feeling has been admirably depicted in Sir Alfred Lyall’s well-known poem, of which it will be permissible to quote a short extract: 
+
+
+
+When I rode a Dekhani charger with the saddle-cloth gold-laced, 
+
+And a Persian sword and a twelve-foot spear and a pistol at my waist. 
+
+It’s many a year gone by now; and yet I often dream 
+
+Of a long dark march to the Jumna, of splashing across the stream, 
+
+Of the waning moon on the water and the spears in the dim starlight 
+
+As I rode in front of my mother12 and wondered at all the sight. 
+
+Then the streak of the pearly dawn—the flash of a sentinel’s gun, 
+
+The gallop and glint of horsemen who wheeled in the level sun, 
+
+The shots in the clear still morning, the white smoke’s eddying wreath, 
+
+Is this the same land that I live in, the dull dank air that I breathe? 
+
+And if I were forty years younger, with my life before me to choose, 
+
+I wouldn’t be lectured by Kafirs or bullied by fat Hindoos; 
+
+But I’d go to some far-off country where Musalmāns still are men, 
+
+Or take to the jungle like Chetoo, and die in the tiger’s den.
+
+
+
+
+
+* * *
+
+1 The historical account of the Pindāris is compiled from Malcolm’s *Memoir of Central India*, Grant-Duff’s *History of the Marāthas*, and Prinsep’s *Transactions in India* \(1825\). Some notes on the modern Pindāris have been furnished by Mr. Hīra Lāl, and Mr. Waman Rustom Mandloi, Naib-Tahsīldār, Harda. 
+
+2 *Memoir of Central India*, i, p. 433. 
+
+3 *Indian Antiquary*, 1900. 
+
+4 *Transactions in India*, 1813–23, by H.T. Prinsep. 
+
+5 *Marātha and Pindāri Campaigns*. 
+
+6 The above is compiled from the accounts given by Prinsep and Malcolm. 
+
+7 That is when Malcolm wrote his *Memoir*. 
+
+8 This account is copied from Prinsep’s *Transactions*. 
+
+9 *Memoir*, ii. p. 177. 
+
+10 *Rājasthān*, ii. p. 674. 
+
+11 Malcolm, ii. p. 177. 
+
+12 The Pindāri’s childhood is recalled here, *vide* poem. 
+
+
+

@@ -1,0 +1,86 @@
++++
+title = "Mochi**1**"
+
++++
+
+## List of Paragraphs
+
++ 1. General notice 
++ 2. Legends of origin 
++ 3. Art among the Hindus 
++ 4. Antagonism of Mochis and Chamārs 
++ 5. Exogamous groups 
++ 6. Social customs 
++ 7. Shoes 
+
+
+## 1. General notice
+
+**Mochi, Muchi, Jīngar, Jirayat, Jīldgar, Chitrakār, Chitevari, Musabir.**—The occupational caste of saddlers and cobblers. In 1911 about 4000 Mochis and 2000 Jīngars were returned from the Central Provinces and Berār, the former residing principally in the Hindustāni and the latter in the Marāthi-speaking Districts. The name is derived from the Sanskrit *mochika* and the Hindustāni *mojna*, to fold, and the common name *mojah* for socks and stockings is from the same root \(Platts\). By origin the Mochis are no doubt an offshoot of the Chamār caste, but they now generally disclaim the connection. Mr. Nesfield observes2 that, “The industry of tanning is preparatory to and lower than that of cobblery, and hence the caste of Chamār ranks decidedly below that of Mochi. The ordinary Hindu does not consider the touch of a Mochi so impure as that of the Chamār, and there is a Hindu proverb to the effect that ‘Dried or prepared hide is the same thing as cloth,’ whereas the touch of the raw hide before it has been tanned by the Chamār is considered a pollution. The Mochi does not eat carrion like the Chamār, nor does he eat swine’s flesh; nor does his wife ever practise the much-loathed art of midwifery.” In the Central Provinces, as in northern India, the caste may be considered to have two branches, the lower one consisting of the Mochis who make and cobble shoes and are admittedly descended from Chamārs; while the better-class men either make saddles and harness, when they are known as Jīngar; or bind books, when they are called Jīldgar; or paint and make clay idols, when they are given the designation either of Chitrakār, Chitevari or Murtikār. In Berār some Jīngars have taken up the finer kinds of iron-work, such as mending guns, and are known as Jirāyat. All these are at great pains to dissociate themselves from the Chamār caste. They call themselves Thākur or Rājpūt and have exogamous sections the names of which are identical with those of the Rājpūt septs. The same people have assumed the name of Rishi in Bengal, and, according to a story related by Sir H. Risley, claim to be debased Brāhmans; while in the United Provinces Mr. Crooke considers them to be connected with the Srivāstab Kāyasths, with whom they intermarry and agree in manners and customs. The fact that in the three Provinces these workers in leather claim descent from three separate high castes is an interesting instance of the trouble which the lower-class Hindus will take to obtain a slight increase in social consideration; but the very diversity of the accounts given induces the belief that all Mochis were originally sprung from the Chamārs. In Bombay, again, Mr. Enthoven3 writes that the caste prefers to style itself Arya Somavansi Kshatriya or Aryan Kshatriyas of the Moon division; while they have all the regular Brāhmanical *gotras* as Bhāradwāja, Vasishtha, Gautam and so on. 
+
+
+
+## 2. Legends of origin
+
+The following interesting legends as to the origin of the caste adduced by them in support of their Brāhmanical descent are related4 by Sir H. Risley: “One of the Prajā-pati, or mind-born sons of Brahma, was in the habit of providing the flesh of cows and clarified butter as a burnt-offering \(*Ahuti*\) to the gods. It was then the custom to eat a portion of the sacrifice, restore the victim to life, and drive it into the forest. On one occasion the Prajā-pati failed to resuscitate the sacrificial animal, owing to his wife, who was pregnant at the time, having clandestinely made away with a portion. Alarmed at this he summoned all the other Prajā-patis, and they sought by divination to discover the cause of the failure. At last they ascertained what had occurred, and as a punishment the wife was cursed and expelled from their society. The child which she bore was the first Mochi or tanner, and from that time forth, mankind being deprived of the power of reanimating cattle slaughtered for food, the pious abandoned the practice of killing kine altogether. Another story is that Muchirām, the ancestor of the caste, was born from the sweat of Brahma while dancing. He chanced to offend the irritable sage Durvāsa, who sent a pretty Brāhman widow to allure him into a breach of chastity. Muchirām accosted the widow as mother, and refused to have anything to do with her; but Durvāsa used the miraculous power he had acquired by penance to render the widow pregnant so that the innocent Muchirām was made an outcaste on suspicion. From her two sons are descended the two main branches of the caste in Bengal.” 
+
+
+
+## 3. Art among the Hindus
+
+In the Central Provinces the term Mochi is often used for the whole caste in the northern Districts, and Jīngar in the Marātha country; while the Chitrakārs or painters form a separate group. Though the trades of cobbler and book-binder are now widely separated in civilised countries, the connection between them is apparent since both work in leather. It is not at first sight clear why the painter should be of the same caste, but the reason is perhaps that his brushes are made of the hair of animals, and this is also regarded as impure, as being a part of the hide. If such be the case a senseless caste rule of ceremonial impurity has prevented the art of painting from being cultivated by the Hindus; and the comparatively poor development of their music may perhaps be ascribed to the same cause, since the use of the sinews of animals for stringed instruments would also prevent the educated classes from learning to play them. Thus no stringed instruments are permitted to be used in temples, but only the gong, cymbal, horn and conch-shell. And this rule would greatly discourage the cultivation of music, which art, like all the others, has usually served in its early period as an appanage to religious services. It has been held that instruments were originally employed at temples and shrines in order to scare away evil spirits by their noise while the god was being fed or worshipped, and not for the purpose of calling the worshippers together; since noise is a recognised means of driving away spirits, probably in consequence of its effect in frightening wild animals. It is for the same end that music is essential at weddings, especially during the night when the spirits are more potent; and this is the primary object of the continuous discordant din which the Hindus consider a necessary accompaniment to a wedding. 
+
+Except for this ceremonial strictness Hinduism should have been favourable to the development of both painting and sculpture, as being a polytheistic religion. In the early stages of society religion and art are intimately connected, as is shown by the fact that images and paintings are at first nearly always of deities or sacred persons or animals, and it is only after a considerable period of development that secular subjects are treated. Similarly architecture is in its commencement found to be applied solely to sacred buildings, as temples and churches, and is only gradually diverted to secular buildings. The figures sculptured by the Mochis are usually images for temples, and those who practise this art are called Murtikar, from *murti*, an image or idol; and the pictures of the Chitrakārs were until recently all of deities or divine animals, though secular paintings may now occasionally be met with. And the uneducated believers in a polytheistic religion regularly take the image for the deity himself, at first scarcely conceiving of the one apart from the other. Thus some Bharewas or brass-workers say that they dare not make metal images of the gods, because they are afraid that the badness of their handiwork might arouse the wrath of the gods and move them to take revenge. The surmise might in fact be almost justifiable that the end to which figures of men and animals were first drawn or painted, or modelled in clay or metal was that they might be worshipped as images of the deities, the savage mind not distinguishing at all between an image of the god and the god himself. For this reason monotheistic religions would be severely antagonistic to the arts, and such is in fact the case. Thus the Muhammadan commentary, the Hadith, has a verse: “Woe to him who has painted a living creature\! At the day of the last judgment the persons represented by him will come out of the tomb and join themselves to him to demand of him a soul. Then that man, unable to give life to his work, will burn in eternal flames.” And in Judaism the familiar prohibition of the Second Commandment appears to be directed to the same end. 
+
+
+
+
+Image of the god Vishnu as Vithoba
+
+
+
+
+Hindu sculpture has indeed been fairly prolific, but is not generally considered to have attained to any degree of artistic merit. Since sculpture is mainly concerned with the human form it seems clear that an appreciation of the beauty of muscular strength and the symmetrical development of the limbs is an essential preliminary to success in this art; and such a feeling can only arise among a people who set much store on feats of bodily strength and agility. This has never been the character of the Hindus, whose religion encourages asceticism and mortification of the body, and points to mental self-absorption and detachment from worldly cares and exercises as the highest type of virtue. 
+
+
+
+## 4. Antagonism of Mochis and Chamārs
+
+As a natural result of the pretensions to nobility made by the Mochis, there is no love lost between them and the Chamārs; and the latter allege that the Mochis have stolen their *rāmpi*, the knife with which they cut leather. On this account the Chamārs will neither take water to drink from the Mochis nor mend their shoes, and will not even permit them to try on a new pair of shoes until they have paid the price set on them; for they say that the Mochis are half-bred Chamārs and therefore cannot be permitted to defile the shoes of a true Chamār by trying them on; but when they have been paid for, the maker has severed connection with them, and the use to which they may be put no longer affects him. 
+
+
+
+## 5. Exogamous groups
+
+In the Central Provinces the Mochis are said to have forty exogamous sections or *gotras*, of which the bulk are named after all the well-known Rājpūt clans, while two agree with those of the Chamārs. And they have also an equal number of *kheras* or groups named after villages. The limits of the two groups seem to be identical; thus members of the sept named after the Kachhwāha Rājpūts say that their *khera* or village name is Mungāvali in Gwālior; those of the Ghangere sept give Chanderi as their *khera*, the Sitāwat sept Dhāmoni in Saugor, the Didoria Chhatarpur, the Narele Narwar, and so on. The names of the village groups have now been generally forgotten and they are said to have no influence on marriage, which is regulated by the Rājpūt sept names; but it seems probable that the *kheras* were the original divisions and the Rājpūt *gotras* have been more recently adopted in support of the claims already noticed. 
+
+
+
+## 6. Social customs
+
+The Mochis have adopted the customs of the higher Hindu castes. A man may not take a wife from his own *gotra*, his mother’s *gotra* or from a family into which a girl from his own family has married. They usually marry their daughters in childhood and employ Brāhmans in their ceremonies, and no degradation attaches to these latter for serving as their priests. In minor domestic ceremonies for which the Brāhman is not engaged his place is taken by a relative, who is called *sawāsa*, and is either the sister’s husband, daughter’s husband, or father’s sister’s husband, of the head of the family. They permit widow-remarriage and divorce, and in the southern Districts effect a divorce by laying a pestle between the wife and husband. They burn their dead and observe mourning for the usual period. After a death they will not again put on a coloured head-cloth until some relative sets it on their heads for the first time on the expiry of the period of mourning. They revere the ordinary Hindu deities, and like the Chamārs they have a family god, known as Mair, whose representation in the shape of a lump of clay is enshrined within the house and worshipped at marriages and deaths. In Saugor he is said to be the collective representative of the spirits of their ancestors. In some localities they eat flesh and drink liquor, but in others abstain from both. Among the Hindus the Mochis rank considerably higher than the Chamārs; their touch does not defile and they are permitted to enter temples and take part in religious ceremonies. The name of a Saugor Mochi is remembered who became a good drawer and painter and was held in much esteem at the Peshwa’s court. In northern India about half the Mochis are Muhammadans, but in the Central Provinces they are all Hindus. 
+
+
+
+## 7. Shoes
+
+In view of the fact that many of the Mochis were Muhammadans and that slippers are mainly a Muhammadan article of attire Buchanan thought it probable that they were brought into India by the invaders, the Hindus having previously been content with sandals and wooden shoes. He wrote: “Many Hindus now use leather slippers, but some adhere to the proper custom of wearing sandals, which have wooden soles, a strap of leather to pass over the instep, and a wooden or horn peg with a button on its top. The foot is passed through the strap and the peg is placed between two of the toes.”5 It is certain, however, that leather shoes and slippers were known to the Hindus from a fairly early period: “The episode related in the Rāmāyana of Bhārata placing on the vacant throne of Ajodhya a pair of Rāma’s slippers, which he worshipped during the latter’s protracted exile, shows that shoes were important articles of wear and worthy of attention. In Manu and the Mahābhārata slippers are also mentioned and the time and mode of putting them on pointed out. The Vishnu Purāna enjoins all who wish to protect their persons never to be without leather shoes. Manu in one place expresses great repugnance to stepping into another’s shoes and peremptorily forbids it, and the Purānas recommend the use of shoes when walking out of the house, particularly in thorny places and on hot sand.”6 Thus shoes were certainly worn by the Hindus before Muhammadan times, though loose slippers may have been brought into fashion by the latter. And it seems possible that the Mochis may have adopted Islām, partly to obtain the patronage of the followers of the new religion, and also to escape from the degraded position to which their profession of leather-working was relegated by Hinduism and to dissociate themselves from the Chamārs. 
+
+
+
+* * *
+
+1 This article is partly based on papers by Mr. Gopal Parmanand, Deputy Inspector of Schools, Saugor, and Mr. Shamsuddīn, Sub-Inspector, City Police, Saugor. 
+
+2 *Brief View*. 
+
+3 *Bombay Ethnographic Survey Draft Monograph on Jīngar*. 
+
+4 *Tribes and Castes of Bengal*, art. Mochi. 
+
+5 *Eastern India*, vol. iii. p. 105. 
+
+6 Rājendra Lāl Mitra, *Indo-Aryans*, vol. i. pp. 222, 223. 
+
+
+

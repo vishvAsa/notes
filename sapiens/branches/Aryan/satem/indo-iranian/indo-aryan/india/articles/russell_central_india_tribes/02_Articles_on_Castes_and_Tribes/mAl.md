@@ -1,0 +1,26 @@
++++
+title = "Māl"
+
++++
+
+**Māl, Māle, Māler, Māl Pahāria.**1—A tribe of the Rājmahal hills, who may be an isolated branch of the Savars. In 1911 about 1700 Māls were returned from the Chota Nāgpur Feudatory States recently transferred to the Central Provinces. The customs of the Māls resemble those of the other hill tribes of Chota Nāgpur. Sir H. Risley states that the average stature is low, the complexion dark and the figure short and sturdy. The following particulars are reproduced from Colonel Dalton’s account of the tribe: 
+
+“The hill lads and lasses are represented as forming very romantic attachments, exhibiting the spectacle of real lovers ‘sighing like furnaces,’ and the cockney expression of ‘keeping company’ is peculiarly applicable to their courtship. If separated only for an hour they are miserable, but there are apparently few obstacles to the enjoyment of each other’s society, as they work together, go to market together, eat together, and sleep together\! But if it be found that they have overstepped the prescribed limits of billing and cooing, the elders declare them to be out of the pale, and the blood of animals must be shed at their expense to wash away the indiscretion and obtain their readmission into society. 
+
+“On the day fixed for a marriage the bridegroom with his relations proceeds to the bride’s father’s house, where they are seated on cots and mats, and after a repast the bride’s father takes his daughter’s hand and places it in that of the bridegroom, and exhorts him to be loving and kind to the girl that he thus makes over to him. The groom then with the little finger of his right hand marks the girl on the forehead with vermilion, and then, linking the same finger with the little finger of her right hand, he leads her away to his own house. 
+
+“The god of hunting is called Autga, and at the close of every successful expedition a thank-offering is made to him. This is the favourite pastime, and one of the chief occupations of the Mālers, and they have their game laws, which are strictly enforced. If a man, losing an animal which he has killed or wounded, seeks for assistance to find it, those who aid are entitled to one-half of the animal when found. Another person accidentally coming on dead or wounded game and appropriating it, is subjected to a severe fine. The Mānjhi or headman of the village is entitled to a share of all game killed by any of his people. Any one who kills a hunting dog is fined twelve rupees. Certain parts of an animal are tabooed to females as food, and if they infringe this law Autga is offended and game becomes scarce. When the hunters are unsuccessful it is often assumed that this is the cause, and the augur never fails to point out the transgressing female, who must provide a propitiatory offering. The Mālers use poisoned arrows, and when they kill game the flesh round the wound is cut off and thrown away as unfit for food. Cats are under the protection of the game laws, and a person found guilty of killing one is made to give a small quantity of salt to every child in the village. 
+
+“I nowhere find any description of the dances and songs of the Pahārias. Mr. Atkinson found the Mālers extremely reticent on the subject, and with difficulty elicited that they had a dancing-place in every village, but it is only when under the influence of God Bacchus that they indulge in the amusement. All accounts agree in ascribing to the Pahārias an immoderate devotion to strong drink, and Buchanan tells us that when they are dancing a person goes round with a pitcher of the home-brew and, without disarranging the performers, who are probably linked together by circling or entwining arms, pours into the mouth of each, male and female, a refreshing and invigorating draught. The beverage is the universal *pachwai*, that is, fermented grain. The grain, either maize, rice or *janera* \(*Holcus sorghum*\), is boiled and spread out on a mat to cool. It is then mixed with a ferment of vegetables called *takar*, and kept in a large earthen vessel for some days; warm water may at any time be mixed with it, and in a few hours it ferments and is ready for use.” 
+
+When the attention of English officers was first drawn to them in 1770 the Māles of the Rājmahal hills were a tribe of predatory freebooters, raiding and terrorising the plain country from the foot of the hills to the Ganges. It was Mr. Augustus Cleveland, Collector of Bhāgalpur, who reduced them to order by entering into engagements with the chiefs for the prevention and punishment of offences among their own tribesmen, confirming them in their estates and jurisdiction, and enrolling a corps of Māles, which became the Bhāgalpur Hill Rangers, and was not disbanded till the Mutiny. Mr. Cleveland died at the age of 29, having successfully demonstrated the correct method of dealing with the wild forest tribes, and the Governor-General in Council erected a tomb and inscription to his memory, which was the original of that described by Mr. Kipling in *The Tomb of his Ancestors*, though the character of the first John Chinn in the story was copied from Outram.2 
+
+
+* * *
+
+1 Based entirely on Colonel Dalton’s account in the *Ethnology of Bengal*, and Sir H. Risley’s in the *Tribes and Castes of Bengal*. 
+
+2 See *The Khāndesh Bhīl Corps*, by Mr. A. H. A. Simcox, p. 62. 
+
+
+

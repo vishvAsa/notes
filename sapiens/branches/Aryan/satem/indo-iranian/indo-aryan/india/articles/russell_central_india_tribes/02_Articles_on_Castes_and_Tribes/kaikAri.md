@@ -1,0 +1,83 @@
++++
+title = "Kaikāri"
+
++++
+
+
+
+## 1. Origin and traditions.
+
+
+
+**Kaikāri**, **Kaikādi** \(also called **Bargandi** by outsiders\).1—A disreputable wandering tribe, whose ostensible profession is to make baskets. They are found in Nimār and the Marātha Districts, and number some 2000 persons in the Central Provinces. The Kaikāris here, as elsewhere, claim to have come from Telingāna or the Deccan, but there is no caste of this name in the Madras Presidency. They may not improbably be the caste there known as Korva or Yerūkala, whose occupations are similar. Mr. Kitts2 has stated that the Kaikāris are known as Korāvars in Arcot and as Korvas in the Carnatic. The Kaikāris speak a gipsy language, which according to the specimen given by Hislop3 contains Tamil and Telugu words. One derivation of Kaikāri is from the Tamil *kai*, hand, and *kude*, basket, and if this is correct it is in favour of their identification with the Korvas, who always carry their tattooing and other implements in a basket in the hand.4 The Kaikāris of the Central Provinces say that their original ancestor was one Kānoba Ramjān who handed a twig to his sons and told them to earn their livelihood by it. Since then they have subsisted by making baskets from the stalks of the cotton-plant, the leaves of the date-palm and grass. They themselves derive their name from *Kai*, standing for Kānoba Ramjān and *kādi*, a twig, an etymology which may be dismissed with that given in the *Berār Census Report*5 that they are the remnants of the Kaikeyas, who before the Christian era dwelt north of the Jalandhar Doāb. Two subcastes exist in Nimār, the Marāthas and the Phirasti or wandering Kaikāris, the former no doubt representing recruits from Marātha castes, not improbably from the Kunbis. The Marātha Kaikāris look down on the Phirastis as the latter take cooked food from a number of castes including the Telis, while the Marāthas refuse to do this. In the Nāgpur country there are several divisions which profess to be endogamous, as the Kāmāthis or those selling toys made of palm-leaves, the Bhāmtis or those who steal from bazārs, the Kunbis or cultivators, the Tokriwālas or makers and sellers of baskets and the Boriwālas or those who carry bricks, gravel and stone. Kunbi and Bhāmti are the names of other castes, and Kāmāthi is a general term applied in the Marātha country to Telugu immigrants; the names thus show that the Kaikāris, like other vagrant groups, are largely recruited from persons expelled from their own caste for social offences. These groups cannot really be endogamous as yet, but as in the case of several other wandering tribes they probably have a tendency to become so. In Berār6 an entirely different set of 12½ subcastes is recorded, several of which are territorial, and two, the Pungis or blowers of gourds, and the Wājantris or village musicians, are occupational. In Nimār as in Khāndesh7 the Kaikāris have only two exogamous clans, Jādon and Gaikwār, who must marry with each other. In the southern Districts there are a number of exogamous divisions, as Jādon, Māne, Kūmre, Jeshti, Kāde, Dāne and others. Jādon is a well-known Rājpūt sept, and the Kaikāris do not explain how they came by the name, but claim to have fought as soldiers under several kings, during which occasions the name may have been adopted from some Rājpūt leader in accordance with the common practice of imitation. Māne and Gaikwār are family names of the Marātha caste. The names and varied nomenclature of the subdivisions show that the Kaikāris, as at present constituted, are a very mixed caste, though they may not improbably have been originally connected with the Korvas of Madras.
+
+
+Kaikaris making baskets
+
+
+
+
+
+## 2. Marriage.
+
+
+
+Marriage within the same *gotra* or section is prohibited, but with one or two exceptions there are no other restrictions on intermarriage between relatives. A sister’s son may marry a brother’s daughter, but not vice versa. A man may not marry his wife’s elder sister either during his wife’s lifetime or after her death, and he may marry her younger sister, but not the younger but one. Girls are generally married between 8 and 12 years of age. If a girl cannot get a partner nothing is done, but when the marriage of a boy has not been arranged, a sham rite is performed with an *akao* plant \(swallow-wort\) or with a silver ring, all the ceremonies of a regular marriage being gone through. The tree is subsequently carefully reared, or the ring worn on the finger. Should the tree die or the ring be lost, funeral obsequies are performed for it as for a member of the family. A bride-price is paid which may vary from Rs. 20 to Rs. 100. In the southern Districts the following custom is in vogue at weddings. After the ceremony the bridegroom pretends to be angry and goes out of the *mandap* or shed, on which the bride runs after him, and throwing a piece of cloth round his neck, drags him back again. Her father then gives him some money or ornaments to pacify him. After this the same performance is gone through with the bride. The bride is taken to her husband’s house, but is soon brought back by her relatives. On her second departure the husband himself does not go to fetch her, and she is brought home by his father and other relations, her own family presenting her with new clothes on this occasion. Widow-marriage is permitted, and the widow is expected to marry the next younger brother of the deceased husband. She may not marry any except the next younger, and if another should take her he is expelled from the caste until the connection is severed. If she marries somebody else he must repay to her late husband’s brother a half of the expenses incurred on the first marriage. In the southern Districts she may not marry a brother of her husband’s at all. A widow cannot be married in her late husband’s house, but is taken to her parents’ house and married from there. In Nimār her family do not take anything, but in the south they are paid a small sum. Here also the marriage is performed at the second husband’s house; the woman carries to it a new earthen pitcher filled with water, and, placing it on the *chauk* or pattern of lines traced with flour in the courtyard, touches the feet of the Panch or caste committee, after which her skirt is tied to her husband’s cloth. The pair are seated on a blanket and new bangles are placed on the woman’s wrist, widows officiating at the ceremony. The couple then leave the village and pass the night outside it, returning next morning, when the woman manages to enter the house without being perceived by a married woman or unmarried girl. A bachelor marrying a widow must first go through the ceremony with a ring or *akao* plant, as already described, this being his real marriage; if he omits the rite his daughters by the widow will not be considered as members of the caste, though his sons will be admitted. Polygamy is allowed, but the consent of the first wife must be obtained to the taking of a second, and she may require a written promise of good treatment after the second marriage. A second wife is usually only taken if the first is barren, and if she has children her parents usually interfere to dissuade the husband, while other parents are always averse to giving their daughter in marriage to a man under such circumstances. Divorce is permitted for the usual reasons, a deed being drawn up and attested by the *panchāyat*, to whom the husband pays a fine of Rs. 8 or Rs. 10.
+
+
+
+
+
+## 3. Religion.
+
+
+
+The tutelary god of the Kaikāris is the *Nāg* or cobra, who is worshipped at marriages and on the day of Nāg-Panchmi. Every family has in the house a platform dedicated to Khandoba, the Marātha god of war. They also worship Marīmāta, to whom flowers are offered at festivals, and a little *ghī* is poured out in her honour by way of incense. When the juāri harvest is gathered, *dalias* or cakes of boiled juāri and a ewe are offered to Marīmāta. They do not revere the Hindu sacred trees, the pīpal and banyan, nor the basil plant, and will readily cut them down. They both burn and bury the dead. The Jādons burn all married persons, but if they cannot afford firewood they touch the corpse with a burning cinder and then bury it. The Gaikwārs always bury their dead, the corpse being laid naked on its back with the feet pointing to the south. On returning from the burial-ground each relative of the deceased gives one *roti* or wheaten cake to the bereaved family, and they eat, sharing the cakes with the *panchāyat*. Bread is also presented on the second day, and on the third the family begin to cook again. Mourning lasts for ten days, and on the last day the house is cleaned and the earthen pots thrown out; the clothes of the family are washed and the males are shaved. Ten balls of rice cooked in milk are offered to the soul of the dead person and a feast is given to the caste. After a birth the mother remains impure for five weeks. For the first five days both the mother and child are bathed daily. The navel cord and after-birth are buried by the midwife in a rubbish heap. When the milk teeth fall out they are placed in a ball of the dung of an ass and thrown on to the roof of the house. It is considered that the rats or mice, who have very good and sharp teeth, will take them and give the child good teeth in exchange. Women are impure for five days during the menstrual period. When a girl attains maturity a ceremony called *god-bharni* is performed. The neighbours are invited and songs are sung and the girl is seated in the *chauk* or pattern of lines traced with flour. She is given new clothes and bangles by her father, or her father-in-law if she is married, and rice and plantains, cocoanuts and other fruits are tied up in her skirt. This is no doubt done so that the girl may in like manner be fruitful, the cocoanuts perhaps being meant to represent human heads, as they usually do.
+
+
+
+
+
+## 4. Social customs and position.
+
+
+
+The Kaikāris eat flesh, including pork and fowls, but not beef. In Nimār the animals which they eat must have their throats cut by a Muhammadan with the proper formula, otherwise it is considered as murder to slaughter them. Both men and women drink liquor. They take food cooked with water from Kunbis and Mālis and take water from the same castes, but not from Dhīmars, Nais or Kahārs. No caste will take food from a Kaikāri. Their touch is considered to defile a Brāhman, Bania, Kalār and other castes, but not a Kunbi. They are not allowed to enter temples but may live inside the village. Their status is thus very low. They have a caste *panchāyat* or committee, and punishments are imposed for the usual offences. Permanent exclusion from caste is rarely or never inflicted, and even a woman who has gone wrong with an outsider may be readmitted after a peculiar ceremony of purification. The delinquent is taken to a river, tank or well, and is there shaved clean. Her tongue is branded with a ring or other article of gold, and she is then seated under a wooden shed having two doors. She goes in by one door and sits in the shed, which is set on fire. She must remain seated until the whole shed is burning and is then allowed to escape by the other door. A young boy of the caste is finally asked to eat from her hand, and thus purified she is readmitted to social intercourse. Fire is the great purifier, and this ceremony probably symbolises the immolation of the delinquent and her new birth. A similar ordeal is practised among the Korvas of Bombay, and this fact may be taken as affording further evidence of the identity of the two castes.8 The morals of the caste are, however, by no means good, and some of them are said to live by prostituting their women. The dog is held especially sacred as with all worshippers of Khandoba, and to swear by a dog is Khandoba’s oath and is considered the most binding. The Kaikāris are of dark colour and have repulsive features. They do not bathe or change their clothes for days together. They are also quarrelsome, and in Bombay the word Kaikārin is a proverbial term for a dirty shrew. Women are profusely tattooed, because tattooing is considered to be a record of the virtuous acts performed in this world and must be displayed to the deity after death. If no marks of tattooing are found the soul is sent to hell and punished for having acquired no piety.
+
+
+
+
+
+## 5. Occupation.
+
+
+
+Basket-making is the traditional occupation of the Kaikāris and is still followed by them. They do not however make baskets from bamboos, but from cotton-stalks, palm-leaves and grass. In the south they are principally employed as carriers of stone, lime, bricks and gravel. Like most wandering castes they have a bad character. In Berār the Rān Kaikāris are said to be the most criminal class.9 They act under a chief who is elected for life, and wander about in the cold weather, usually carrying their property on donkeys. Their ostensible occupations are to make baskets and mend grinding mills. A notice of them in Lawrence’s *Settlement Report* of Bhandāra \(1867\) stated that they were then professional thieves, openly avowing their dependence on predatory occupations for subsistence, and being particularly dexterous at digging through the walls of houses and secret pilfering.
+
+
+
+
+
+* * *
+
+1 This article is partly compiled from papers by Mr. G. Falconer Taylor, Forest Divisional Officer, and by Kanhyā Lāl, Clerk in the Gazetteer office.
+
+2 *Berār Census Report* \(1881\), p. 141.
+
+3 *Hislop papers.* Vocabulary.
+
+4 *North Arcot Manual*, p. 247.
+
+5 1881, p. 141.
+
+6 *Ibidem.*
+
+7 *Bombay Gazetteer* \(Campbell\), vol. xii. p. 120.
+
+8 *Bombay Gazetteer* \(Campbell\), vol. xxi. p. 172.
+
+9 *Berār Census Report* \(1881\), p. 141.
+
+
+
+

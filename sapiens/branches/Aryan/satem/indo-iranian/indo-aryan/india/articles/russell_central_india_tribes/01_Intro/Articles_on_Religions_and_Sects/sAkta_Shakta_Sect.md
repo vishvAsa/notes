@@ -1,0 +1,32 @@
++++
+title = "Sākta, Shakta Sect"
+
++++
+
+**Sākta, Shakta Sect**.—The name of a Hindu sect, whose members worship the female principle of energy, which is the counterpart of the god Siva. The metaphysical ideas of Sāktism are thus described by Sir Edward Gait:1 
+
+“Sāktism is based on the worship of the active producing principle, Prākriti, as manifested in one or other of the goddess wives of Siva \(Durga, Kāli, Pārvati\) the female energy or Sakti of the primordial male, Purusha or Siva. In this cult the various forces of nature are deified under separate personalities, which are known as the divine mothers or Mātrigan. The ritual to be observed, the sacrifices to be offered, and the *mantras* or magic texts to be uttered, in order to secure the efficacy of the worship and to procure the fulfilment of the worshipper’s desire, are laid down in a series of religious writings known as Tāntras. The cult is supposed to have originated in East Bengal or Assam about the fifth century.” 
+
+Dr. Bhattachārya states2 that the practical essence of the Sākta cult is the worship of the female organ of generation. According to a text of the Tāntras the best form of Sākti worship is to adore a naked woman, and it is said that some Tāntrics actually perform their daily worship in their private chapels by placing before them such a woman. A triangular plate of brass or copper may be taken as a substitute, and such plates are usually kept in the houses of Tāntric Brāhmans. In the absence of a plate of the proper shape a triangle may be painted on a copper dish. In public the veneration of the Sāktas is paid to the goddess Kāli. She is represented as a woman with four arms. In one hand she has a weapon, in a second the hand of the giant she has slain, and with the two others she is encouraging her worshippers. For earrings she has two dead bodies, she wears a necklace of skulls, and her only clothing is a garland made of men’s skulls. In the Kālika Purān3 the immolation of human beings is recommended, and numerous animals are catalogued as suitable for sacrifice. At the present time pigeons, goats, and more rarely buffaloes, are the usual victims at the shrine of the goddess. The ceremony commences with the adoration of the sacrificial axe; various *mantras* are recited, and the animal is then decapitated at one stroke. As soon as the head falls to the ground the votaries rush forward and smear their foreheads with the blood of the victim. It is of the utmost importance that the ceremony should pass off without any hitch or misadventure,4 and special services are held to supplicate the goddess to permit of this. If in spite of them the executioner fails to sever the head of the animal at one stroke, it is thought that the goddess is angry and that some great calamity will befall the family in the next year. If a death should occur within the period, they attribute it to the miscarriage of the sacrifice, that is to the animal not having been killed with a single blow. If any such misfortune should happen, Dr. Bhattachārya states, the family generally determine never to offer animal sacrifices again; and in this way the slaughter of animals, as part of the religious ceremony in private houses, is becoming more and more rare. If a goat is sacrificed, the head is placed before the goddess and the flesh cooked and served to the invited guests; but in the case of a buffalo, as respectable Hindus do not eat the flesh of this animal, it is given to the low-caste musicians employed for the occasion. Wine is also offered to the goddess, and after being consecrated is sprinkled on every kind of uncooked food brought before her. But the worshipper and his family often drink only a few drops. The Sāktas are divided into the Dakshinachāris and Bāmachāris, or followers of the right- and left-handed paths respectively. The Dakshinachāris have largely abandoned animal sacrifices, and many of them substitute red flowers or red sandalwood as offerings, to represent blood. An account of those Bāmachāris who carry sexual practices to extreme lengths, has been given in the article on Vām-Mārgi. The sect-mark of the Sāktas is three horizontal lines on the forehead made with a mixture of charcoal and butter. Some of them have a single vertical line of charcoal or sandalwood. In the Central Provinces Sākta is a general term for a Hindu who eats meat, as opposed to the Vaīshnavas and Kabīrpanthis, who abjure it. The animals eaten are goats and chickens, and they are usually sacrificed to the goddess Devi prior to being consumed by the worshippers. 
+
+
+
+
+Devotees, possessed, embracing each other, while supported on tridents, at Siva’s fair at Pachmarhi
+
+
+
+
+
+* * *
+
+1 *India Census Report* \(1901\), p. 360. 
+
+2 *Hindu Castes and Sects* \(Thacker, Spink & Co., Calcutta\), pp. 407–413. 
+
+3 Sir E. Gait’s note, *India Census Report*. 
+
+4 *Hindu Castes and Sects*. 
+
+
+

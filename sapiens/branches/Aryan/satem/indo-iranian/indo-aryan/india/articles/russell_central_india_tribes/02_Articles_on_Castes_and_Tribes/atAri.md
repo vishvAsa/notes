@@ -1,0 +1,46 @@
++++
+title = "Atāri"
+
++++
+
+
+## 1. General notice.
+
+**Atāri,1 Gandhi, Bukekāri.**—A small Muhammadan caste of retailers of scent, incense, tooth-powder and *kunku* or pink powder. Atāri is derived from *atar* or *itra*, attar of roses. Gandhi comes from *gandh*, a Sanskrit word for scent. Bukekāri is a Marāthi word meaning a seller of powder. The Atāris number about two hundred persons in Nāgpur, Wardha and Berār. Both Hindus and Muhammadans follow the profession, but the Hindu Atāris are not a separate caste, and belong to the Teli, Gurao and Beldār castes. The Muhammadan Atāris, to whom this article refers, may marry with other Muhammadans, with the exception of low-class tradesmen like the Pinjāras, Kasais and Kunjras. One instance of an Atāri marrying a Rangrez is known, but usually they decline to do so. But since they are not considered to be the equals of ordinary Muhammadans, they constitute more or less a distinct social group. They are of the same position as Muhammadan tin-workers, bangle-makers and pedlars, and sometimes intermarry with them. They admit Hindu converts into the community, but the women refuse to eat with them, and the better-class families will not intermarry with converts. A new convert must be circumcised, but if he is of advanced age, or if his foreskin is wanting, as sometimes happens, they take a rolled-up betel-leaf and cut it in two in substitution for the rite. 
+
+
+
+## 2. Marriage customs.
+
+It is essential that a girl should be married before adolescence, as it is said that when the signs of puberty appear in her before wedlock her parents commit a crime equivalent to the shedding of human blood. The father of the boy looks for a bride, and after dropping hints to the girl’s family to see if his proposal is acceptable, he sends some female relatives or friends to discuss the marriage. Before the wedding the boy is presented with a *chhāp* or ring of gold or silver with a small cup-like attachment. A *mehar* or dowry must be given to the bride, the amount of which is not below Rs. 50 or above Rs. 250. The bride’s parents give her cooking vessels, bedding and a bedstead. After the wedding, the couple are seated on a cot while the women sing songs, and they see each other’s face reflected in a mirror. The procession returns after a stay of four days, and is received by the women of the bridegroom’s family with some humorous ceremonies bearing on the nature of marriage. A feast called Tāmm Walīma follows, and the couple are shut up together in an inner room, even though they may be under age. The marriage includes some Hindu customs, such as the erection of the *pandal* or shed, rubbing the couple with turmeric and oil, and the tying on of *kankans* or wrist-bands. A girl going wrong before marriage may be wedded with full rites so long as she has not conceived, but after conception until her child is born she cannot go through the ceremony at all. After the birth of the child she may be married simply with the rite for widows. She retains the child, but it has no claim to succeed to her husband’s property. A widow may marry again after an interval of forty days from her first husband’s death, and she may wed her younger brother-in-law. Divorce is permitted at the instance of either party, and for mere disagreement. A man usually divorces his wife by vowing in the presence of two witnesses that he will in future consider intercourse with her as incestuous in the same degree as with his mother. A divorced woman has a claim to her *mehar* or dowry if not already paid, but forfeits it if she marries again. A man can marry the daughter of his paternal uncle. The services of a Kāzi at weddings are paid for with a fee of Rs. 1–4, and well-to-do persons also give him a pair of turbans. 
+
+
+
+## 3. Religion.
+
+The Atāris are Muhammadans of the Sunnī sect. They revere the Muhammadan saints, and on the night of Shabrāt they let off fireworks in honour of their ancestors and make offerings of *halwa*2 to them and place lamps and scent on their tombs. They swear by the pig and abstain from eating its flesh. The dog is considered an unclean animal and its tail, ears and tongue are especially defiling. If the hair of a dog falls on the ground they cannot pray in that place because the souls of the prophets cannot come there. To see a dog flapping its ears is a bad omen, and a person starting on a journey should postpone his departure. They esteem the spider, because they say it spread its web over the mouth of the cave where Hasan and Husain lay concealed from their enemies and thus prevented it from being searched. Some of them have Pīrs or spiritual preceptors, these being Muhammadan beggars, not necessarily celibate. The ceremony of adhesion is that a man should drink sherbet from the cup from which his preceptor has drunk. They do not observe impurity after a death nor bathe on returning from a funeral. 
+
+
+
+## 4. Social customs.
+
+Liquor is of course prohibited to the Atāris as to other Muhammadans, but some of them drink it nevertheless. Some of them eat beef and others abstain. The blood of animals killed must flow before death according to the rite of *halāl*, but they say that fish are an exception, because when Abraham was offering up his son Ishmael and God substituted a goat, the goat bleated before it was killed, and this offended Abraham, who threw his sacrificial knife into the sea: the knife struck and killed a fish, and on this account all fish are considered to be *halāl* or lawful food without any further rite. The Atāris observe the Hindu law of inheritance, and some of them worship Hindu deities, as Māta the goddess of smallpox. As a rule their women are not secluded. The Atāris make *missi* or tooth-powder from myrobalans, cloves and cardamoms, and other constituents. This has the effect of blackening the teeth. They also sell the *kunku* or red powder which women rub on their foreheads, its constituents being turmeric, borax and the juice of limes. They sell scent and sometimes deal in tobacco. The scents most in demand are *gulāb-pāni* or rose-water and *phulel* or essence of tilli or sesamum. Scents are usually sold by the tola of 18 annas silver weight,3 and a tola of attar may vary in price from 8 annas to Rs. 80. Other scents are made from *khas-khas* grass, the mango, henna and musk, the *bela* flower,4 the champak5 and cucumber. Scent is manufactured by distillation from the flowers boiled in water, and the drops of congealed vapour fall into sandalwood oil, which they say is the basis of all scents. Fragrant oils are also sold for rubbing on the hair, made from orange flowers, jasmine, cotton-seed and the flowers of the *aonla* tree.6 Scent is sold in tiny circular glass bottles, and the oils in little bottles made from thin leather. The Atāris also retail the little black sticks of incense which are set up and burnt at the time of taking food and in temples, so that the smell and smoke may keep off evil spirits. When professional exorcists are called upon to clear any building, such as a hospital, supposed to be haunted by spirits or the ghosts of the dead, they commence operations by placing these sticks of incense at the entrance and setting them alight as in a temple. 
+
+
+
+* * *
+
+1 Based on papers by Mr. Bijai Bahādur Royzāda, Naib-Tahsīldār Hinganghāt, and Munshi Kanhya Lāl of the Gazetteer office. 
+
+2 A preparation of raisins and other fruits and rice. 
+
+3 The ordinary tola is a rupee weight or two-fifths of an ounce. 
+
+4 *Jasminum zambac.*
+
+5 *Michelia champaca.*
+
+6 *Phyllanthus emblica.*
+
+
+

@@ -1,0 +1,30 @@
++++
+title = "Rājpūt, Haihaya"
+
++++
+
+**Rājpūt, Haihaya, Haihaivansi, Kālaehuri**.—This well-known historical clan of the Central Provinces is not included among the thirty-six royal races, and Colonel Tod gives no information about them. The name Haihaya is stated to be a corruption of Ahihaya, which means snake-horse, the legend being that the first ancestor of the clan was the issue of a snake and a mare. Haihaivansi signifies descendants of the horse. Colonel Tod states that the first capital of the Indu or lunar race was at Mahesvati on the Nerbudda, still existing as Maheshwar, and was founded by Sahasra Arjuna of the Haihaya tribe.1 This Arjuna of the thousand arms was one of the Pāndava brothers, and it may be noted that the Ratanpur Haihaivansis still have a story of their first ancestor stealing a horse from Arjuna, and a consequent visit of Arjuna and Krishna to Ratanpur for its recovery. Since the Haihayas also claim descent from a snake and are of the lunar race, it seems not unlikely that they may have belonged to one of the Scythian or Tartar tribes, the Sākas or Yueh-chi, who invaded India shortly after the commencement of the Christian era, as it has been conjectured that the other lunar Rājpūt clans worshipping or claiming descent from a snake originated from these tribes. The Haihaivansis or Kālachuris became dominant in the Nerbudda valley about the sixth century, their earliest inscription being dated A.D. 580. Their capital was moved to Tripura or Tewar near Jubbulpore about A.D. 900, and from here they appear to have governed an extensive territory for about 300 years, and were frequently engaged in war with the adjoining kingdoms, the Chandels of Mahoba, the Panwārs of Mālwa, and the Chalukyas of the south. One king, Gangeyadeva, appears even to have aspired to become the paramount power in northern India, and his sovereignty was recognised in distant Tirhūt. Gangeyadeva was fond of residing at the foot of the holy fig-tree of Prayāga \(Allahābād\), and eventually found salvation there with his hundred wives. From about A.D. 1100 the power of the Kālachuri or Haihaya princes began to decline, and their last inscription is dated A.D. 1196. It is probable that they were subverted by the Gond kings of Garha-Mandla, the first of whom, Jadurai, appears to have been in the service of the Kālachuri king, and subsequently with the aid of a dismissed minister to have supplanted his former-master.2 The kingdom of the Kālachuri or Haihaya kings was known as Chedi, and, according to Mr. V.A. Smith, corresponded more or less roughly to the present area of the Central Provinces.3 
+
+In about the tenth century a member of the reigning family of Tripura was appointed viceroy of some territories in Chhattīsgarh, and two or three generations afterwards his family became practically independent of the parent house, and established their own capital at Ratanpur in Bilāspur District \(A.D. 1050\). This state was known as Dakshin or southern Kosāla. During the twelfth century its importance rapidly increased, partly no doubt on the ruins of the Jubbulpore kingdom, until the influence of the Ratanpur princes, Ratnadeva II. and Prithwideva II., may be said to have extended from Amarkantak to beyond the Godāvari, and from the confines of Berār in the west to the boundaries of Orissa in the east.4 The Ratanpur kingdom of Chedi or Dakshin Kosāla was the only one of the Rājpūt states in the Central Provinces which escaped subversion by the Gonds, and it enjoyed a comparatively tranquil existence till A.D. 1740, when Ratanpur fell to the Marāthas almost without striking a blow. “The only surviving representative of the Haihayas of Ratanpur,” Mr. Wills states,5 “is a quite simple-minded Rājpūt who lives at Bargaon in Raipur District. He represents the junior or Raipur branch of the family, and holds five villages which were given him revenue-free by the Marāthas for his maintenance. The mālguzār of Senduras claims descent from the Ratanpur family, but his pretensions are doubtful. He enjoys no privileges such as those of the Bargaon Thākur, to whom presents are still made when he visits the chiefs who were once subordinate to his ancient house.” In the Ballia District of the United Provinces6 are some Hayobans Rājpūts who claim descent from the Ratanpur kings. Chandra Got, a cadet of this house, is said to have migrated northwards in A.D. 8507 and settled in the Sāran District on the Ganges, where he waged successful war with the aboriginal Cheros. Subsequently one of his descendants violated a Brāhman woman called Maheni of the house of his Purohit or family priest, who burnt herself to death, and is still locally worshipped. After this tragedy the Hayobans Rājpūts left Sāran and settled in Ballia. Colonel Tod states that, “A small branch of these ancient Haihayas yet exist in the country of the Nerbudda, near the very top of the valley, at Sohāgpur in Baghelkhand, aware of their ancient lineage, and, though few in number, are still celebrated for their valour.”8 This Sohāgpur must apparently be the Sohāgpur tahsīl of Rewah, ceded from Mandla after the Mutiny. 
+
+
+* * *
+
+1 *Rajasthān*, i. p. 36. 
+
+2 The above notice of the Kālachuri or Haihaya dynasty of Tripura is taken from the detailed account in the *Jubbulpore District Gazetteer*, pp. 42–47, compiled by Mr. A.E. Nelson, C.S., and Rai Bahādur Hīra Lāl. 
+
+3 *Early History of India*, 3rd edition, p. 390. This, however, does not only refer to the Jubbulpore branch, whose territories did not probably include the south and east of the present Central Provinces, but includes also the country over which the Ratanpur kings subsequently extended their separate jurisdiction. 
+
+4 *Bilāspur District Gazetteer*, chap. ii., in which a full and interesting account of the Ratanpur kingdom is given by Mr. C.U. Wills, C.S. 
+
+5 *Ibidem*, p. 49. 
+
+6 Mr. Crooke’s *Tribes and Castes*, art. Hayobans. 
+
+7 The date is too early, as is usual in these traditions. Though the Haihaivansis only founded Ratanpur about A.D. 1050, their own legends put it ten centuries earlier. 
+
+8 *Rajasthān*, i. p. 36. 
+
+
+

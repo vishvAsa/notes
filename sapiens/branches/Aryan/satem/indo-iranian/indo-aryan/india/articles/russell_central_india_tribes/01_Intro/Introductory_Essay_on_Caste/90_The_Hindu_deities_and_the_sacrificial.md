@@ -1,0 +1,15 @@
++++
+title = "90 The Hindu deities and the sacrificial meal"
+
++++
+
+Thus there seems reason to suppose that the caste-tie of the Hindus is the same as that which united the members of the city-states of Greece and Italy, that is the eating of a sacramental food together. Among the Vedic Aryans that country only was considered pure and fit for sacrifice in which the Aryan gods had taken up their residence.231 Hindustān was made a pure country in which Aryans could offer sacrifices by the fact that Agni, the sacrificial god of fire, spread himself over it. But the gods have changed. The old Vedic deities Indra, the rain-god, Varuna, the heaven-god, the Marūts or winds, and Soma, the divine liquor, have fallen into neglect. These were the principal forces which controlled the existence of a nomad pastoral people, dependent on rain to make the grass grow for their herds, and guiding their course by the sun and stars. The Soma or liquor apparently had a warming, exhilarating effect in the cold climate of the Central Asian steppes, and was therefore venerated. Since in the hot plains of India abstinence from alcoholic liquor has become a principal religious tenet of high-caste Hindus, Soma is naturally no more heard of. Agni, the fire-god, was also one of the greatest deities to the nomads of the cold uplands, as the preserver of life against cold. But in India, except as represented by the hearth, for cooking, little regard is paid to him, since fires are not required for warmth. New gods have arisen in Hinduism. The sun was an important Vedic deity, both as Mitra and under other names. Vishnu as the sun, or the spirit of whom the sun is the visible embodiment, has become the most important deity in his capacity of the universal giver and preserver of life. He is also widely venerated in his anthropomorphic forms of Rāma, the hero-prince of Ajodhia and leader of the Aryan expedition to Ceylon, and Krishna, the divine cowherd, perhaps some fabled hero sprung from the indigenous tribes. Siva is the mountain-god of the Himalayas and a moon-deity, and in his character of god of destruction the lightning and cobra are associated with him. But he is really worshipped in his beneficent form of the phallic emblem as the agent of life, and the bull, the fertiliser of the soil and provider of food. Devi, the earth, is the great mother goddess. Sprung from her are Hanumān, the monkey-god, and Ganpati, the elephant-god, and in one of her forms, as the terrible goddess Kāli, she is perhaps the deified tiger.232 Lachmi, the goddess of wealth, and held to have been evolved from the cow, is the consort of Vishnu. It was thus not the god to whom the sacrifice was offered, but the sacrifice itself that was the essential thing, and participation in the common eating of the sacrifice constituted the bond of union. In early times a sacrifice was the occasion for every important gathering or festivity, as is shown both in Indian history and legend. And the caste feasts above described seem to be the continuation and modern form of the ancient sacrifice. 
+
+
+
+
+Pilgrims carrying Ganges water
+
+
+
+

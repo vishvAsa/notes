@@ -1,0 +1,18 @@
++++
+title = "Bania, Dhūsar"
+
++++
+
+**Bania, Dhūsar, Bhārgava Dhūsar.**—The origin of this group is much disputed. They are usually classed as a subcaste of Bania, but claim to be Brāhmans. They take their name from a hill called Dhūsi or Dhosi, near Narnaul on the border of Alwar State. The title Bhārgava signifies a descendant of Bhrigu, one of the famous eponymous Rīshis or Brāhmanical saints, to whom Manu confided his institutes, calling him his son. If this was their original name, it would show that they were Brāhmans, but its adoption appears to be somewhat recent. Their claim to be Brāhmans is, however, admitted by many members of that caste, and it is stated that they perform the functions of Brāhmans in their original home in Rājputāna. Mr. Burn wrote of them:1 “In his book on castes published in 1872 Mr. Sherring does not refer to any claim to kinship with Brāhmans, though in his description of Dhūsar Banias he appears to include the people under consideration. Both the Dhūsar Bhārgavas and Dhūsar Banias assert that Himu, the capable Vazīr of Muhammad Shāh Suri, belonged to their community, and such a claim by the former is if anything in favour of the view that they are not Brāhmans, since Himu is variously described by Muhammadan writers as a corn-chandler, a weighman and a Bania. Colonel Dow in his history of Hindustān calls him a shopkeeper who was raised by Sher Shāh to be Superintendent of Markets. It is not improbable that Himu’s success laid the foundation for a claim to a higher position, but the matter does not admit of absolute proof, and I have therefore accepted the decision of the majority of the caste-committees and considered them as a caste allied to Brāhmans.” In the Punjab the Dhūsars appear to be in some places Brāhmans and in others Banias. “They take their food before morning prayer, contrary to the Hindu rule, but of late years they have begun to conform to the orthodox practice. The Brāhman Dhūsar marries with his caste-fellows and the Bania with Banias, avoiding always the same family \(*gotra*\) or one having the same family deity.”2 From the above accounts it would appear that the Dhūsars may have originally been a class of Brāhmans who took to trade, like the Palliwāl Brāhmans of Mārwār, and have lost their position as Brāhmans and become amalgamated with the Bania caste; or they may have been Banias, who acted as priests to others of the community, and hence claimed to be Brāhmans. The caste is important and influential, and is now making every effort to recover or substantiate its Brāhman status. One writer states that they combine the office aptitude and hard-heartedness to a debtor characteristic of the Bania. The Dhūsars are rigid in the maintenance of the purity of their order and in the performance of Hindu ceremonies and duties, and neither eat meat nor drink any kind of spirit. In Delhi they were distinguished for their talent as singers, and cultivated a peculiar strain or measure, in which they were unsurpassed.3 In the Central Provinces the Dhūsars are a flourishing body, their leaders being Rai Bahādur Bihāri Lāl Khizānchi of Jubbulpore and Rai Sāhib Seth Sundar Lāl of Betūl. They have founded the Bhārgava bank of Jubbulpore, and shown considerable public spirit; to the latter gentleman’s generosity a large part of the success of the recent debt-conciliation proceedings in the Betūl District must be attributed. 
+
+
+* * *
+
+1 *United Provinces Census Report* \(1901\), p. 220. 
+
+2 Atkinson, *Himalayan Gazetteer*, ii. p. 473, quoted in Mr. Crooke’s article Dhūsar. 
+
+3 Sherring, *Hindu Castes*, i. p. 293. 
+
+
+

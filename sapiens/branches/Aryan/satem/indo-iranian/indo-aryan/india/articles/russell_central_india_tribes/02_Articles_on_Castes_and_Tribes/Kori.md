@@ -1,0 +1,66 @@
++++
+title = "Kori"
+
++++
+
+
+
+## 1. Description of the caste.
+
+
+
+**Kori.**—The Hindu weaving caste of northern India, as distinct from the Julāhas or Momins who are Muhammadans. In 1911 the Koris numbered 35,000 persons, and resided mainly in Jubbulpore, Saugor and Damoh. Mr. Crooke states that their name has been derived from that of the Kol caste, of whom they have by some been assumed to be an offshoot.1 The Koris themselves trace their origin from Kabīr, the apostle of the weaving castes. He, they say, met a Brāhman girl on the bank of a tank, and, being saluted by her, replied, ‘May God give you a son.’ She objected that she was a virgin and unmarried, but Kabīr answered that his word could not fail; and a boy was born out of her hand, whom she left on the bank of the tank. He was suckled by a heifer and subsequently adopted by a weaver and was the ancestor of the Koris. Therefore the caste say of themselves: “He was born of an undefiled vessel, and free from passion; he lowered his body and entered the ocean of existence.” This legend is a mere perversion of the story of Kabīr himself, designed to give the Koris a distinguished pedigree. In the Central Provinces the caste appears to be almost entirely a functional group, made up of members of other castes who were either expelled from their own community or of their own accord adopted the profession of weaving. The principal subdivision is the Ahirwār, taking its name from the old town of Ahar in the Bulandshahr District. Among the others are Kushta \(Koshta\), Chadār, Katia, Mehra, Dhīmar and Kotwār, all of which, except the last, are the names of distinct castes; while the Kotwārs represent members of the caste who became village watchmen, and considering themselves somewhat superior to the others, have formed a separate subcaste. None of the subcastes will eat together or intermarry, and this fact is in favour of the supposition that they are distinct groups amalgamated into a caste by their common profession of weaving. The caste seem to have a fairly close connection with Chamārs in some localities. A number of Koris belong to the sect of Rohidās, and some of their family names are the same, while a Chamār will often call himself a Kori to conceal his identity. For the purposes of marriage they are divided into a number of *bainks* or septs, the names of which are territorial or totemistic. Among the latter may be mentioned the Kulhariya from *kulhāri*, an axe, and the Barmaiya from the *bar* or banyan tree; members of these septs pay reverence to an axe and a banyan tree respectively at weddings.
+
+
+
+
+
+## 2. Marriages
+
+
+
+The marriage of persons belonging to the same sept and also that of first cousins is prohibited, while a family will not, if they can help it, marry a daughter into the sept from which a son has taken a wife. The rule of exogamy is thus rather wide in its action, as is often found to be the case among the lowest and most primitive castes. At the betrothal the father of the girl produces a red cloth folded up, and on this the boy’s father lays a rupee. This is passed round to five members of the caste who cry, ‘So-and-so’s daughter and So-and-so’s son, *Har bolo* \(In the name of Vishnu\).’ This completes the betrothal, the father of the boy giving three rupees for a feast to the caste-fellows. A girl who is made pregnant by a man of the caste or any higher caste may be disposed of in marriage as a widow, but if the man is of a lower caste than the Koris she is finally expelled. The *lagan* or paper fixing the date of the marriage is written by a Brāhman and must not be shown to the bridegroom in the interval, lest he should grow as thin as the paper bearing his name. While he is being anointed and rubbed with turmeric the bridegroom is wrapped in a black blanket, and his bridal dress consists of a yellow shirt, pyjamas of red cloth, and red shoes, while he carries in his hand a dagger, nut-cracker or knife. As he leaves his house to proceed to the bride’s village he steps on two clay lamp-saucers, crushing them with his foot. When the party arrives the fathers of the bride and bridegroom sit together with a pot full of curds between them and give each other to drink from it as a mark of amity. The binding portion of the marriage consists in walking round the sacred pole and the other ceremonies customary in the northern Districts are performed. The bride does not return with her husband unless she is adult; otherwise the usual *gauna* ceremony is held subsequently. When she arrives at her husband’s house she makes prints of her hands smeared with turmeric on the wall before entering it for the first time. The remarriage of widows is freely permitted; the second husband takes the widow to his house after sunset, and here she is washed by the barber’s wife and puts on glass bangles again, and new jewellery and clothes, if any are provided. No married woman may see her as she enters the house. The husband must give a feast to the caste-fellows, or at least to the *panchāyat* or committee. Divorce is freely permitted on payment of a fine to the *panchāyat*. When a man takes a second wife a *sot* or silver image of the deceased first wife is hung round her neck when she enters his house, and is worshipped on ceremonial occasions.
+
+
+
+
+
+## 3. Customs at birth and death.
+
+
+
+A child is named on the day after its birth by some woman of the caste; a Brāhman is asked whether the day is auspicious, and he also chooses the name. If this is the same as that of any living relation or one recently dead, another name is given for ordinary use. A daughter-in-law is usually given a new name when she goes to her husband’s house, such as Badi \(elder\), Manjhli \(second son’s wife\), Bāri \(innocent or simple\), Jabalpurwāli \(belonging to Jubbulpore\), and so on. If a woman has borne only female children, the umbilical cord is sometimes put in a small earthen pot and buried at a place where three cross-roads meet, and it is supposed that the birth of a male child will follow. Children whose shaving ceremony has not been performed, and adults dying from snake-bite, cholera, smallpox or leprosy, are buried, while others are burnt. Children are carried to the grave in their parents’ arms. On the return of a funeral party, liquor, provided by the relatives of the family, is drunk at the house of the deceased. 
+
+
+
+
+
+## 4. Religion.
+
+
+
+The Koris worship the ordinary Hindu deities and especially Devi. They become inspired by this goddess at the Jawara festival and pierce their cheeks with iron needles and tridents. Every family has a household god or Kul-Deo to whom a small platform is erected; offerings other than animal sacrifices are made to him on festivals and on the celebration of a marriage.
+
+
+
+
+
+## 5. Occupation and social status.
+
+
+
+Those of the caste who are Kabīrpanthis abstain from animal food, but the others eat the flesh of most animals except tame pig, and also drink liquor. Their social status is very low, but they are not usually considered as impure. Their women are tattooed on the right arm before marriage, and on the left after arrival at their husband’s house. Like several other low castes, they do not wear nose-rings. The principal occupation of the caste is the weaving of coarse country cloth, but as the trade of the hand-weaver is nowadays precarious and unprofitable many of them have forsaken it and taken to cultivation or daily labour. Mr. Nesfield says of them: “The material used by the Kori is the thread supplied by the Dhunia \(Bahna\); and thus the weaver caste has risen imperceptibly out of that of the cotton-carder, in the same way as the cobbler caste has risen out of the tanner. The art of weaving and plaiting threads is very much the same process as that of plaiting osiers, reeds and grass, and converting them into baskets and mats. This circumstance explains the puzzle why the weaver caste in India stands at such a low social level. He, however, ranks several degrees above the Chamār or tanner; as, among Hindus, herbs and their products \(cotton being of course included\) are invariably considered pure, while the hides of dead animals are regarded as a pollution.” This argument is part of Mr. Nesfield’s theory that the rank of each caste depends on the period of civilisation at which its occupation came into being, which is scarcely tenable. The reason why the weavers rank so low may, perhaps, be that the Aryans when they settled in villages in northern India despised all handicrafts as derogatory to their dignity. These were left to the subject tribes, and as a large number of weavers would be required, the industry would necessarily be embraced by the bulk of those who formed the lowest stratum of the population, and has ever since remained in their hands. If cloth was first woven from the tree-cotton plant growing wild, the business of picking and weaving it would naturally have fallen to the non-Aryan jungle tribes, who afterwards became the impure menial and labouring castes of the villages.
+
+The weaver is the proverbial butt of Hindu ridicule, like the tailor in England. ‘One Gadaria will account for ten weavers’; ‘Four weavers will spoil any business.’ The following story also illustrates their stupidity: Twenty weavers got into a field of *kāns* grass. They thought it was a tank and began swimming. When they got out they said, “Let us all count and see how many we are, in case anybody has been left in the tank.” They counted and each left out himself, so that they all made out nineteen. Just then a Sowār came by, and they cried, to him, ‘Oh, Sir, we were twenty, and one of us has been drowned in this tank.’ The Sowār seeing that there was only a field of grass, counted them and found there were twenty; so he said, ‘What will you give me if I find the twentieth?’ They promised him a piece of cloth, on which the Sowār, taking his whip, lashed each of the weavers across the shoulders, counting as he did so. When he had counted twenty he took the cloth and rode away. Another story is that a weaver bought a buffalo for twenty rupees. His brother then came to him and wanted a share in the buffalo. They did not know how he should be given a share until at last the weaver said, “You go and pay the man who sold me the buffalo twenty rupees; and then you will have given as much as I have and will be half-owner of the buffalo.” Which was done. The ridicule attaching to the weaver’s occupation is due to its being considered proper for a woman rather than a man, and similar jests were current at the tailor’s expense in England. In India the weaver probably takes the tailor’s place because woven and not sewn clothes have hitherto been generally worn, as explained in the article on Darzi. 
+
+
+
+
+
+* * *
+
+1 *Tribes and Castes of the North-West Provinces*, iii. 316.
+
+
+
+

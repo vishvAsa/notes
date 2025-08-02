@@ -1,0 +1,18 @@
++++
+title = "Brāhman, Mahārāshtra"
+
++++
+
+**Brāhman, Mahārāshtra, Marātha.**—The Marātha Brāhmans, or those of the Bombay country, are numerous and important in the Central Provinces. The northern Districts were for a period governed by Marātha Brāhmans on behalf of the Peshwa of Poona, and under the Bhonsla dynasty of Nāgpur in the south they took a large part in the administration. The Marātha Brāhmans have three main subcastes, the Deshasth, Konkonasth and Karhāda. The Deshasth Brāhmans belong to the country of Poona above the Western Ghats, which is known as the *desh* or home country. They are numerous in Berār and Nāgpur. The Konkonasth are so called because they reside in the Konkan country along the Bombay coast. They have noticeably fair complexions, good features and often grey eyes. According to a legend they were sprung from the corpses of a party of shipwrecked foreigners, who were raised to life by Parasurāma.1 This story and their fine appearance have given rise to the hypothesis that their ancestors were shipwrecked sailors from some European country, or from Arabia or Persia. They are also known as Chitpāvan, which is said to mean the pure in heart, but a derivation suggested in the *Bombay Gazetteer* is from Chiplun or Chitāpolan, a place in the Konkan which was their headquarters. The Peshwa of Poona was a Konkonasth Brāhman, and there are a number of them in Saugor. The Karhāda Brāhmans take their name from the town of Karhād in the Satāra District. They show little difference from the Deshasths in customs and appearance. 
+
+Formerly the above three subcastes were endogamous and married only among themselves. But since the railway has been opened they have begun to intermarry with each other to a limited extent, having obtained sanction to this from the successor of Shankar Achārya, whom they acknowledge as their spiritual head. 
+
+The Marātha Brāhmans are also divided into sects, according to the Veda which they follow. Most of them are either Rigvedis or Yajurvedis, and these two sects marry among themselves. These Brāhmans are strict in the observance of caste rules. They do not take water from any but other Brāhmans, and abstain from flesh and liquor. They will, however, eat with any of the Pānch-Drāvid or southern divisions of Brāhmans except those of Gujarāt. They usually abstain from smoking, and until recently have made widows shave their heads; but this rule is perhaps now relaxed. As a rule they are well educated, and the majority of them look to Government service for a career, either as clerks in the public offices or as officers of the executive and judicial services. They are intelligent and generally reliable workers. The full name of a Marātha or Gujarāti Brāhman consists of his own name, his father’s name and a surname. But he is commonly addressed by his own name, followed by the honorific termination Rao for Rāja, a king, or Pant for Pandit, a wise man. 
+
+
+* * *
+
+1 *Bombay Gazetteer, Satāra*, p. 54. 
+
+
+

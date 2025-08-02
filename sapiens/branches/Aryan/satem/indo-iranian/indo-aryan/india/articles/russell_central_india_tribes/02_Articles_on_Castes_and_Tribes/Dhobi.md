@@ -1,0 +1,97 @@
++++
+title = "Dhobi"
+
++++
+
+## List of Paragraphs
+
++ 1. Character and structure of the caste. 
++ 2. Marriage customs. 
++ 3. Other social customs. 
++ 4. Religion. 
++ 5. Occupation: washing clothes. 
++ 6. Social position. 
++ 7. Proverbs about the Dhobi. 
++ 8. Wearing and lending the clothes of customers. 
+
+
+## 1. Character and structure of the caste.
+
+**Dhobi, Wārthi, Baretha, Chakla, Rajak, Parit.**—The professional caste of washermen. The name is derived from the Hindi *dhona*, and the Sanskrit *dhav*, to wash. Wārthi is the Marātha name for the caste, and Bareth or Baretha is an honorific or complimentary term of address. Rajak and Parit are synonyms, the latter being used in the Marātha Districts. The Chakla caste of Madras are leather-workers, but in Chānda a community of persons is found who are known as Chakla and are professional washermen. In 1911 the Dhobis numbered 165,000 persons in the Central Provinces and Berār, or one to every hundred inhabitants. They are numerous in the Districts with large towns and also in Chhattīsgarh, where, like the Dhobas of Bengal, they have to a considerable extent abandoned their hereditary profession and taken to cultivation and other callings. No account worth reproduction has been obtained of the origin of the caste. In the Central Provinces it is purely functional, as is shown by its subdivisions; these are generally of a territorial nature, and indicate that the Dhobis like the other professional castes have come here from all parts of the country. Instances of the subcastes are: Baonia and Berāria from Berār; Mālwi, Bundelkhandi, Nimāria, Kanaujia, Udaipuria from Udaipur; Madrasi, Dharampuria from Dharampur, and so on. A separate subcaste is formed of Muhammadan Dhobis. The exogamous groups known as *khero* are of the usual low-caste type, taking their names from villages or titular or professional terms. 
+
+
+
+## 2. Marriage customs.
+
+Marriage within the *khero* is prohibited and also the union of first cousins. It is considered disgraceful to accept a price for a bride, and it is said that this is not done even by the parents of poor girls, but the caste will in such cases raise a subscription to defray the expenses of her marriage. In the northern Districts the marriages of Dhobis are characterised by continuous singing and dancing at the houses of the bridegroom and bride, these performances being known as *sajnai* and *birha*. Some man also puts on a long coat, tight down to the waist and loose round the hips, to have the appearance of a dancing-girl, and dances before the party, while two or three other men play. Mr. Crooke considers that this ritual, which is found also among other low castes, resembles the European custom of the False Bride and is intended to divert the evil eye from the real bride. He writes:1 “Now there are numerous customs which have been grouped in Europe under the name of the False Bride. Thus among the Esthonians the false bride is enacted by the bride’s brother dressed in woman’s clothes; in Polonia by a bearded man called the Wilde Braut; in Poland by an old woman veiled in white and lame; again among the Esthonians by an old woman with a brickwork crown; in Brittany, where the substitutes are first a little girl, then the mistress of the house, and lastly the grandmother. 
+
+“The supposition may then be hazarded in the light of the Indian examples that some one assumes on this occasion the part of the bride in order to divert on himself from her the envious glance of the evil eye.” Any further information on this interesting custom would be welcome. 
+
+The remarriage of widows is allowed, and in Betūl the bridegroom goes to the widow’s house on a dark night wrapped up in a black blanket, and presents the widow with new clothes and bangles, and spangles and red lead for the forehead. Divorce is permitted with the approval of the caste headman by the execution of a deed on stamped paper.  
+
+
+
+## 3. Other social customs.
+
+After a birth the mother is allowed no food for some days except country sugar and dates. The child is given some honey and castor-oil for the first two days and is then allowed to suckle the mother. A pit is dug inside the lying-in room, and in this are deposited water and the first cuttings of the nails and hair of the child. It is filled up and on her recovery the mother bows before it, praying for similar safe deliveries in future and for the immunity of the child from physical ailments. After the birth of a male child the mother is impure for seven days and for five days after that of a female. 
+
+
+
+## 4. Religion.
+
+The principal deity of the Dhobis is Ghatoia, the god of the *ghāt* or landing-place on the river to which they go to wash their clothes. Libations of liquor are made to him in the month of Asārh \(June\), when the rains break and the rivers begin to be flooded. Before entering the water to wash the clothes they bow to the stone on which these are beaten out, asking that their work may be quickly finished; and they also pray to the river deity to protect them from snakes and crocodiles. They worship the stone on the Dasahra festival, making an offering to it of flowers, turmeric and cooked food. The Dhobi’s washing-stone is believed to be haunted by the ghosts of departed Dhobis when revisiting the glimpses of the moon, and is held to have magical powers. If a man requires a love-charm he should steal a *supāri* or areca-nut from the bazār at night or on the occasion of an eclipse. The same night he goes to the Dhobi’s stone and sets the nut upon it. He breaks an egg and a cocoanut over the stone and burns incense before it. Then he takes the nut away and gives it to the woman of his fancy, wrapped up in betel-leaf, and she will love him. Their chief festivals are the Holi and Diwāli, at which they drink a great deal. The dead are buried or burnt as may be convenient, and mourning is observed for three days only, the family being purified on the Sunday or Wednesday following the death. They have a caste committee whose president is known as Mehtar, while other officials are the Chaudhri or vice-president, and the Badkur, who appoints dates for the penal feasts and issues the summons to the caste-fellows. These posts are hereditary and their holders receive presents of a rupee and a cloth when members of the caste have to give expiatory feasts. 
+
+
+
+## 5. Occupation: washing clothes.
+
+Before washing his clothes the Dhobi steams them,2 hanging them in a bundle for a time over a cauldron of boiling water. After this he takes them to a stream or pond and washes them roughly with fuller’s earth. The washerman steps nearly knee-deep into the water, and taking a quantity of clothes by one end in his two hands he raises them aloft in the air and brings them down heavily upon a huge stone slab, grooved, at his feet. This threshing operation he repeats until his clothes are perfectly clean. In Saugor the clothes are rubbed with wood-ashes at night and beaten out in water with a stick in the morning. Silk clothes are washed with the nut of the *rītha* tree \(*Sapindus emarginatus*\) which gives a lather like soap. Sir H. Risley writes of the Dacca washermen:3 “For washing muslins and other coloured garments well or spring water is alone used; but if the articles are the property of a poor man or are commonplace, the water of the nearest tank or river is accounted sufficiently good. Indigo is in as general use as in England for removing the yellowish tinge and whitening the material. The water of the wells and springs bordering on the red laterite formation on the north of the city has been for centuries celebrated, and the old bleaching fields of the European factories were all situated in this neighbourhood. Various plants are used by the Dhobis to clarify water such as the *nirmali* \(*Strychnos potatorum*\), the *piu* \(*Basella*\), the *nāgphani* \(*Cactus indicus*\) and several plants of the mallow family. Alum, though not much valued, is sometimes used.” In most Districts of the Central Provinces the Dhobi is employed as a village servant and is paid by annual contributions of grain from the cultivators. For ordinary washing he gets half as much as the blacksmith or carpenter, or 13 to 20 lbs. of grain annually from each householder, with about another 10 lbs. at seedtime or harvest. When he brings the clothes home he also receives a meal or a *chapāti*, and well-to-do persons give him their old clothes as a present. In return for this he washes all the clothes of the family two or three times a month, except the loin-cloths and women’s bodices which they themselves wash daily. The Dhobi is also employed on the occasion of a birth or a death. These events cause impurity and hence all the clothes of all the members of the family must be washed when the impurity ceases. In Saugor when a man dies the Dhobi receives eight annas and for a woman four annas, and similar rates in the case of the birth of a male or female child. When the first son is born in a family the Dhobi and barber place a brass vessel on the top of a pole and tie a flag to it as a cloth and take it round to all the friends and relations of the family, announcing the event. They receive presents of grain and money which they expend on a drinking-bout. 
+
+
+
+## 6. Social position.
+
+The Dhobi is considered to be impure, and he is not allowed to come into the houses of the better castes nor to touch their water-vessels. In Saugor he may come as far as the veranda but not into the house. His status would in any case be low as a village menial, but he is specially degraded, Mr. Crooke states, by his task of washing the clothes of women after child-birth and his consequent association with puerperal blood, which is particularly abhorred. Formerly a Brāhman did not let the Dhobi wash his clothes, or, if he did, they were again steeped in water in the house as a means of purification. Now he contents himself with sprinkling the clean clothes with water in which a piece of gold has been dipped. The Dhobi is not so impure as the Chamār and Basor, and if a member of the higher castes touches him inadvertently it is considered sufficient to wash the face and hands only and not the clothes. 
+
+Colonel Tod writes4 that in Rājputāna the washermen’s wells dug at the sides of streams are deemed the most impure of all receptacles. And one of the most binding oaths is that a man as he swears should drop a pebble into one of these wells, saying, “If I break this oath may all the good deeds of my forefathers fall into the washerman’s well like this pebble.” Nevertheless the Dhobi refuses to wash the clothes of some of the lowest castes as the Māng, Mahār and Chamār. Like the Teli the Dhobi is unlucky, and it is a bad omen to see him when starting on a journey or going out in the morning. But among some of the higher castes on the occasion of a marriage the elder members of the bridegroom’s family go with the bride to the Dhobi’s house. His wife presents the bride with betel-leaf and in return is given clothes with a rupee. This ceremony is called *sohāg* or good fortune, and the present from the Dhobin is supposed to be lucky. In Berār the Dhobi is also a Balūtedār or village servant. Mr. Kitts writes of him:5 “At a wedding he is called upon to spread the clothes on which the bridegroom and his party alight on coming to the bride’s house; he also provides the cloth on which the bride and bridegroom are to sit and fastens the *kankan* \(bracelet\) on the girl’s hand. In the Yeotmāl District the barber and the washerman sometimes take the place of the maternal uncle in the *jhenda* dance; and when the bridegroom, assisted by five married women, has thrown the necklace of black beads round the bride’s neck and has tied it with five knots, the barber and the washerman advance, and lifting the young couple on their thighs dance to the music of the *wājantri*, while the bystanders besprinkle them with red powder.” 
+
+In Chhattīsgarh the Dhobis appear to have partly abandoned their hereditary profession and taken to agriculture and other callings. Sir Benjamin Robertson writes of them:6 “The caste largely preponderates in Chhattīsgarh, a part of the country where, at least to the superficial observer, it would hardly seem as if its services were much availed of; the number of Dhobis in Raipur and Bilāspur is nearly 40,000. In both Districts the washerman is one of the recognised village servants, but as a rule he gets no fixed payment, and the great body of cultivators dispense with his services altogether. According to the *Raipur Settlement Report* \(Mr. Hewett\), he is employed by the ryots only to wash the clothes of the dead, and he is never found among a population of Satnāmis. It may therefore be assumed that in Chhattīsgarh the Bareth caste has largely taken to cultivation.” In Bengal Sir H. Risley states7 that “the Dhobi often gives up his caste trade and follows the profession of a writer, messenger or collector of rent \(*tahsīldār*\), and it is an old native tradition that a Bengali Dhobi was the first interpreter the English factory at Calcutta had, while it is further stated that our early commercial transactions were carried on solely through the agency of low-caste natives. The Dhobi, however, will never engage himself as an indoor servant in the house of a European.” 
+
+
+
+## 7. Proverbs about the Dhobi.
+
+Like the other castes who supply the primary needs of the people, the Dhobi is not regarded with much favour by his customers, and they revenge themselves in various sarcasms at his expense for the injury caused to their clothes by his drastic measures. The following are mentioned by Sir G. Grierson:8 ‘*Dhobi par Dhobi base, tab kapre par sābun pare*’, or ‘When many Dhobis compete, then some soap gets to the clothes,’ and ‘It is only the clothes of the Dhobi’s father that never get torn.’ The Dhobi’s donkey is a familiar sight as one meets him on the road still toiling as in the time of Issachar between two bundles of clothes each larger than himself, and he has also become proverbial, ‘*Dhobi ka gadha neh ghar ka neh ghāt ka*,’ ‘The Dhobi’s donkey is always on the move’; and ‘The ass has only one master \(a washerman\), and the washerman has only one steed \(an ass\).’ The resentment felt for the Dhobi by his customers is not confined to his Indian clients, as may be seen from Eha’s excellent description of the Dhobi in *Behind the Bungalow*; and it may perhaps be permissible to introduce here the following short excerpt, though it necessarily loses in force by being detached from the context: “Day after day he has stood before that great black stone and wreaked his rage upon shirt and trouser and coat, and coat and trouser and shirt. Then he has wrung them as if he were wringing the necks of poultry, and fixed them on his drying line with thorns and spikes, and finally he has taken the battered garments to his torture chamber and ploughed them with his iron, longwise and crosswise and slantwise, and dropped glowing cinders on their tenderest places. Son has followed father through countless generations in cultivating this passion for destruction, until it has become the monstrous growth which we see and shudder at in the Dhobi.”  
+
+
+
+## 8. Wearing and lending the clothes of customers.
+
+It is also currently believed that the Dhobi wears the clothes of his customers himself. Thus, ‘The Dhobi looks smart in other people’s clothes’; and ‘*Rājāche shiri, Paritāche tiri*,’ or ‘The king’s headscarf is the washerman’s loin-cloth.’ On this point Mr. Thurston writes of the Madras washerman: “It is an unpleasant reflection that the Vannāns or washermen add to their income by hiring out the clothes of their customers for funeral parties, who lay them on the path before the pall-bearers, so that they may not step upon the ground. On one occasion a party of Europeans, when out shooting near the village of a hill tribe, met a funeral procession on its way to the burial-ground. The bier was draped in many folds of clean cloth, which one of the party recognised by the initials as one of his bed-sheets. Another identified as his sheet the cloth on which the corpse was lying. He cut off the corner with the initial, and a few days later the sheet was returned by the Dhobi, who pretended ignorance of the mutilation, and gave as an explanation that it must have been done in his absence by one of his assistants.”9 And Eha describes the same custom in the following amusing manner: “Did you ever open your handkerchief with the suspicion that you had got a duster into your pocket by mistake, till the name of De Souza blazoned on the corner showed you that you were wearing some one else’s property? An accident of this kind reveals a beneficent branch of the Dhobi’s business, one in which he comes to the relief of needy respectability. Suppose yourself \(if you can\) to be Mr. Lobo, enjoying the position of first violinist in a string band which performs at Parsi weddings and on other festive occasions. *Noblesse oblige*; you cannot evade the necessity for clean shirt-fronts, ill able as your precarious income may be to meet it. In these circumstances a Dhobi with good connections is what you require. He finds you in shirts of the best quality at so much an evening, and you are saved all risk and outlay of capital; you need keep no clothes except a greenish-black surtout and pants and an effective necktie. In this way the wealth of the rich helps the want of the poor without their feeling it or knowing it—an excellent arrangement. Sometimes, unfortunately, Mr. Lobo has a few clothes of his own, and then, as I have hinted, the Dhobi may exchange them by mistake, for he is uneducated and has much to remember; but if you occasionally suffer in this way you gain in another, for Mr. Lobo’s family are skilful with the needle, and I have sent a torn garment to the wash which returned carefully repaired.”10 
+
+
+
+* * *
+
+1 *Folklore of Northern India*, vol. ii. p. 8. 
+
+2 Sherring’s *Hindu Castes*, i. 342–3. 
+
+3 *Tribes and Castes*, art. Dhobi. 
+
+4 *Annals and Antiquities of Rājasthān.*
+
+5 *Berār Census Report* \(1881\), p. 155. 
+
+6 *Central Provinces Census Report* \(1891\), p. 202. 
+
+7 *Loc. cit.*
+
+8 *Bihār Peasant Life, s.v.* Dhobi. 
+
+9 *Ethnographic Notes in Southern India*, p. 226. 
+
+10 *Behind the Bungalow.*
+
+
+

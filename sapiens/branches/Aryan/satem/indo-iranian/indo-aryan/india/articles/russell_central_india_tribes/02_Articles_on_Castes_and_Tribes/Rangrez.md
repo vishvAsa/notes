@@ -1,0 +1,30 @@
++++
+title = "Rangrez"
+
++++
+
+**Rangrez.**—The Muhammadan caste of dyers. The caste is found generally in the northern Districts, and in 1901 its members were included with the Chhīpas, from whom, however, they should be distinguished as having a different religion and also because they practise a separate branch of the dyeing industry. The strength of the caste in the Central Provinces does not exceed a few hundred persons. The Rangrez is nominally a Muhammadan of the Sunni sect, but the community forms an endogamous group after the Hindu fashion, marrying only among themselves. Good-class Muhammadans will neither intermarry with nor even take food from members of the Rangrez community. In Sohāgpur town of Hoshangābād this is divided into two branches, the Kherālawālas or immigrants from Kherāla in Mālwa and the local Rangrezes. These two groups will take food together but will not intermarry. Kherālawāla women commonly wear a skirt like Hindu women and not Muhammadan pyjamas. In Jubbulpore the Rangrez community employ Brāhmans to conduct their marriage and other ceremonies. Long association with Hindus has as usual caused the Rangrez to conform to their religious practices and the caste might almost be described as a Hindu community with Muhammadan customs. The bulk of them no doubt were originally converted Hindus, but as their ancestors probably immigrated from northern India their present leaning to that religion would perhaps be not so much an obstinate retention of pre-Islamic ritual as a subsequent lapse following on another change of environment. In northern India Mr. Crooke records them as being governed mainly by Muhammadan rules. There1 they hold themselves to be the descendants of one Khwāja Bali, a very pious man, about whom the following verse is current: 
+
+
+
+Khwāja Bali Rangrez 
+
+Range Khuda ki sez:
+
+
+
+‘Khwāja Bali dyes the bed of God.’ The name is derived from *rang*, colour, and *rez, rekhtān*, to pour. In Bihār, Sir G. Grierson states2 the word Rangrez is often confounded with ‘Angrezi’ or ‘English’; and the English are sometimes nicknamed facetiously Rangrez or ‘dyers,’ The saying, ‘Were I a dyer I would dye my own beard first,’ in reference to the Muhammadan custom of dyeing the beard, has the meaning of ‘Charity begins at home,’3 
+
+The art of the Rangrez differs considerably from that of the Chhīpa or Rangāri, the Hindu dyer, and he produces a much greater variety of colours. His principal agents were formerly the safflower \(*Carthamus tinctorius*\), turmeric and myrobalans. The fact that the brilliant red dye of safflower was as a rule only used by Muhammadan dyers, gives some ground for the supposition that it may have been introduced by them to India. This would account for the existence of a separate caste of Muhammadan dyers, and in support of it may be adduced the fact that the variety of colours is much greater in the dress of the residents of northern India and Rājputāna than in those of the Marātha Districts. The former patronise many different shades, more especially for head-cloths, while the latter as a rule do not travel beyond red, black or blue. The Rangrez obtains his red shades from safflower, yellow from *haldi* or turmeric, green from a mixture of indigo and turmeric, purple from indigo and safflower, *khāki* or dust-colour from myrobalans and iron filings, orange from turmeric and safflower, and *badāmi* or almond-colour from turmeric and two wild plants *kachora* and *nāgarmothi*, the former of which gives a scent. Cloths dyed in the *badāmi* shades are affected, when they can afford it, by Gosains and other religious mendicants, who thus dwell literally in the odour of sanctity. Muhammadans generally patronise the shades of green or purple, the latter being often used as a lining for white coats. Fakīrs or Muhammadan beggars wear light green. Mārwāri Banias and others from Rājputāna like the light yellow, pink or orange shades. A green or black head-cloth is with them a sign of mourning. Cloths dyed in yellow or scarlet are bought by Brāhmans and other castes of Hindus for their marriages. Blue is not a lucky colour among the Hindus and is considered as on a level with black. It may be worn on ordinary occasions, but not at festivals or at auspicious periods. Muhammadans rather affect black and do not consider it an unlucky colour. I have seen a Rangrez dye a piece of cloth in about twenty colours in the course of two or three hours, but several of these dyes are fugitive and will not stand washing. The trade of the Rangrez is being undermined by the competition of cheap chemical dyes imported from Germany and sold in the form of powders; the process of dyeing with these is absolutely simple and can be carried out by any one. They are far cheaper than safflower, and this agent has consequently been almost driven from the market. People buy a little dyeing powder from the bazār and dye their own cloths. But men will only wear cloths dyed in this manner, and known as *katcha kapra*, on their heads and not on their bodies; women sometimes wear them also on their bodies. The decay in the indigenous art of dyeing must be a matter for regret. 
+
+
+* * *
+
+1 *Tribes and Castes*, art. Rangrez. 
+
+2 *Peasant Life in Bihār*, p. 101, footnote. 
+
+3 Temple and Fallon’s *Hindustani Proverbs*. 
+
+
+

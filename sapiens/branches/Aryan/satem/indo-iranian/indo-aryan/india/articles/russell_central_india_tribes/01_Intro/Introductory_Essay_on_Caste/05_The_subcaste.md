@@ -1,0 +1,8 @@
++++
+title = "05 The subcaste"
+
++++
+
+The subcastes, however, connote no real difference of status or occupation. They are little known except within the caste itself, and they consist of groups within the caste which marry among themselves, and attend the communal feasts held on the occasions of marriages, funerals and meetings of the caste *panchāyat* or committee for the judgment of offences against the caste rules and their expiation by a penalty feast; to these feasts all male adults of the community, within a certain area, are invited. In the Central Provinces the 250 groups which have been classified as castes contain perhaps 2000 subcastes. Except in some cases other Hindus do not know a man’s subcaste, though they always know his caste; among the ignorant lower castes men may often be found who do not know whether their caste contains any subcastes or whether they themselves belong to one. That is, they will eat and marry with all the members of their caste within a circle of villages, but know nothing about the caste outside those villages, or even whether it exists elsewhere. One subdivision of a caste may look down upon another on the ground of some difference of occupation, of origin, or of abstaining from or partaking of some article of food, but these distinctions are usually confined to their internal relations and seldom recognised by outsiders. For social purposes the caste consisting of a number of these endogamous groups generally occupies the same position, determined roughly according to the respectability of its traditional occupation or extraction. 
+
+

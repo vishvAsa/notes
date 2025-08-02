@@ -1,0 +1,22 @@
++++
+title = "Andh"
+
++++
+
+**Andh.**1—A low cultivating caste of Berār, who numbered 52,000 persons in 1911, and belong to the Yeotmal, Akola and Buldāna Districts. The Andhs appear to be a non-Aryan tribe of the Andhra or Tamil country, from which they derive their name. The territories of the Andhra dynasty extended across southern India from sea to sea in the early part of the Christian era. This designation may, however, have been given to them after migration, emigrants being not infrequently called in their new country by the name of the place from which they came, as Berāri, Purdesi, Audhia \(from Oudh\), and so on. At present there seems to be no caste called Andh in Madras. Mr. Kitts2 notes that they still come from Hyderābād across the Penganga river. 
+
+The caste are divided into two groups, Vartāti or pure and Khaltāti or illegitimate, which take food together, but do not intermarry. They have a large number of exogamous septs, most of which appear to have Marāthi names, either taken from villages or of a titular character. A few are called after animals or plants, as Mājiria the cat, Ringni a kind of tree, Dumare from Dumar, an ant-hill, Dukare from Dukar, a pig, and Titawe from Titawa, a bird. Bāghmāre means tiger-killer or one killed by a tiger; members of this sept revere the tiger. Two septs, Bhoyar and Wanjāri, are named after other castes. 
+
+Marriage between members of the same sept is prohibited, and also between first cousins, except that a sister’s son may marry a brother’s daughter. Until recently marriage has been adult, but girls are now wedded as children, and betrothals are sometimes arranged before they are born. The ceremony resembles that of the Kunbis. Betrothals are arranged between October and December, and the weddings take place three or four months later, from January to April. If the bride is mature she goes at once to her husband’s house. Polygamy is allowed; and as only a well-to-do man can afford to obtain more than one wife, those who have several are held to be wealthy, and treated with respect. Divorce and the remarriage of widows are permitted, but the widow may not marry her husband’s brother nor any member of his clan. If an unmarried girl becomes pregnant by a man of her own or a superior caste she is fined, and can then be married as a widow. Her feet are not washed nor besmeared with red powder at the wedding ceremony like those of other girls. In some localities Andh women detected in a criminal intimacy even with men of such impure castes as the Mahārs and Māngs have been readmitted into the community. A substantial fine is imposed on a woman detected in adultery according to her means and spent on a feast to the caste. All the members thus have a personal interest in the detection and punishment of such offences. The dead are usually buried, and water and sugar are placed in a dying man’s mouth instead of the sacred objects used by Hindus; nor are the dying urged to call on Rāma. The dead are buried with the head to the south, in opposition to the Hindu custom. The Andhs will eat the flesh of fowls and pigs, and even cats, rats and snakes in some localities, though the more civilised have abjured these latter. They are very fond of pork, and drink liquor, and will take food from Kunbis, Mālis and Kolis, but not from Gonds. They have a caste *panchāyat* or committee, with a headman called Mohtaria, and two officers known as Phopatia and Dukria. When a caste offence is committed the Dukria goes to call the offender, and is given the earthen pots used at the penalty-feast, while the Phopatia receives a new piece of cloth. The Mohtaria or headman goes from village to village to decide cases, and gets a share of the fine. The caste are *shikāris* or hunters, and cultivators. They catch antelope, hares, pig and nilgai in their nets, and kill them with sticks and stones, and they dam up streams and net fish. Birds are not caught. Generally, the customs of the Andhs clearly point to an aboriginal origin, but they are rapidly being Hinduised, and in some tracts can scarcely be distinguished from Kunbis. 
+
+They have Marāthi names; and though only one name is given at birth, Mr. Slaney notes that this is frequently changed for some pet name, and as often as not a man goes regularly by some name other than his real one. 
+
+
+* * *
+
+1 This article is mainly based on a paper by Mr. W. S. Slaney, E.A.C., Akola. 
+
+2 *Berār Census Report* \(1881\). 
+
+
+

@@ -1,0 +1,108 @@
++++
+title = "Sikh Religion"
+
++++
+
+## List of Paragraphs
+
++ 1. Foundation of Sikhism—Bāba Nānak. 
++ 2. The earlier Gurus. 
++ 3. Guru Govind Singh. 
++ 4. Sikh initiation and rules. 
++ 5. Character of the Nānakpanthis and Sikh sects. 
++ 6. The Akālis. 
++ 7. The Sikh Council or Guru-Māta. Their communal meal. 
+
+
+## 1. Foundation of Sikhism—Bāba Nānak.
+
+**Sikh, Akāli**.—The Sikh religion and the history of the Sikhs have been fully described by several writers, and all that is intended in this article is a brief outline of the main tenets of the sect for the benefit of those to whom the more important works of reference may not be available. The Central Provinces contained only 2337 Sikhs in 1911, of whom the majority were soldiers and the remainder probably timber or other merchants or members of the subordinate engineering service in which Punjabis are largely employed. The following account is taken from Sir Denzil Ibbetson’s *Census Report of the Punjab* for 1881: 
+
+“Sikhism was founded by Bāba Nānak, a Khatri of the Punjab, who lived in the fifteenth century. But Nānak was not more than a religious reformer like Kabīr, Rāmānand, and the other Vaishnava apostles. He preached the unity of God, the abolition of idols, and the disregard of caste distinctions.1 His doctrine and life were eminently gentle and unaggressive. He was succeeded by nine *gurus*, the last and most famous of whom, Govind Singh, died in 1708. 
+
+“The names of the *gurus* were as follows: 
+
+1.  Bāba Nānak  1469–1538–9     2.  Angad  1539–1552     3.  Amar Dās  1552–1574     4.  Rām Dās  1574–1581     5.  Arjun  1581–1606     6.  Har Govind  1606–1645     7.  Har Rai  1645–1661     8.  Har Kishen  1661–1664     9.  Teg Bahadur  1664–1675    10.  Govind Singh  1675–1708   
+
+
+
+
+
+## 2. The earlier Gurus.
+
+“Under the second Guru Angad an intolerant and ascetic spirit began to spring up among the followers of the new tenets; and had it not been for the good sense and firmness displayed by his successor, Amar Dās, who excommunicated the Udāsis and recalled his followers to the mildness and tolerance of Nānak, Sikhism would probably have merely added one more to the countless orders of ascetics or devotees which are wholly unrepresented in the life of the people. The fourth *guru*, Rām Dās, founded Amritsar; but it was his successor, Arjun, that first organised his following. He gave them a written rule of faith in the Granth or Sikh scripture which he compiled, he provided a common rallying-point in the city of Amritsar which he made their religious centre, and he reduced their voluntary contributions to a systematic levy which accustomed them to discipline and paved the way for further organisation. He was a great trader, he utilised the services and money of his disciples in mercantile transactions which extended far beyond the confines of India, and he thus accumulated wealth for his Church. 
+
+“Unfortunately he was unable wholly to abstain from politics; and having become a political partisan of the rebel prince Khusru, he was summoned to Delhi and there imprisoned, and the treatment he received while in confinement hastened, if it did not cause, his death. And thus began that Muhammadan persecution which was so mightily to change the spirit of the new faith. This was the first turning-point in Sikh history; and the effects of the persecution were immediately apparent. Arjun was a priest and a merchant; his successor, Har Govind, was a warrior. He abandoned the gentle and spiritual teaching of Nānak for the use of arms and the love of adventure. He encouraged his followers to eat flesh, as giving them strength and daring; he substituted zeal in the cause for saintliness of life as the price of salvation; and he developed the organised discipline which Arjun had initiated. He was, however, a military adventurer rather than an enthusiastic zealot, and fought either for or against the Muhammadan empire as the hope of immediate gain dictated. His policy was followed by his two successors; and under Teg Bahādur the Sikhs degenerated into little better than a band of plundering marauders, whose internal factions aided to make them disturbers of the public peace. Moreover, Teg Bahādur was a bigot, while the fanatical Aurāngzeb had mounted the throne of Delhi. Him therefore Aurāngzeb captured and executed as an infidel, a robber and a rebel, while he cruelly persecuted his followers in common with all who did not accept Islām. 
+
+
+
+## 3. Guru Govind Singh.
+
+“Teg Bahādur was succeeded by the last and greatest *guru*, his son Govind Singh; and it was under him that what had sprung into existence as a quietist sect of a purely religious nature, and had become a military society of by no means high character, developed into the political organisation which was to rule the whole of north-western India, and to furnish the British arms their stoutest and most worthy opponents. For some years after his father’s execution Govind Singh lived in retirement, and brooded over his personal wrongs and over the persecutions of the Musalmān fanatic which bathed the country in blood. His soul was filled with the longing for revenge; but he felt the necessity for a larger following and a stronger organisation, and, following the example of his Muhammadan enemies, he used his religion as the basis of political power. Emerging from his retirement he preached the Khālsa, the pure, the elect, the liberated. He openly attacked all distinctions of caste, and taught the equality of all men who would join him; and instituting a ceremony of initiation, he proclaimed it as the *pāhul* or ‘gate’ by which all might enter the society, while he gave to its members the *prasād* or communion as a sacrament of union in which the four castes should eat of one dish. The higher castes murmured and many of them left him, for he taught that the Brāhman’s thread must be broken; but the lower orders rejoiced and flocked in numbers to his standard. These he inspired with military ardour, with the hope of social freedom and of national independence, and with abhorrence of the hated Muhammadan. He gave them outward signs of their faith in the unshorn hair, the short drawers, and the blue dress; he marked the military nature of their calling by the title of Singh or ‘lion,’ by the wearing of steel, and by the initiation by sprinkling of water with a two-edged dagger; and he gave them a feeling of personal superiority in their abstinence from the unclean tobacco. 
+
+“The Muhammadans promptly responded to the challenge, for the danger was too serious to be neglected; the Sikh army was dispersed, and Govind’s mother, wife and children were murdered at Sirhind by Aurāngzeb’s orders. The death of the emperor brought a temporary lull, and a year later Govind himself was assassinated while fighting the Marāthas as an ally of Aurāngzeb’s successor. He did not live to see his ends accomplished, but he had roused the dormant spirit of the people, and the fire which he lit was only damped for a while. His chosen disciple Banda succeeded him in the leadership, though never recognised as *guru*. The internal commotions which followed upon the death of the emperor, Bahādur Shah, and the attacks of the Marāthas weakened the power of Delhi, and for a time Banda carried all before him; but he was eventually conquered and captured in A.D. 1716, and a period of persecution followed so sanguinary and so terrible that for a generation nothing more was heard of the Sikhs. How the troubles of the Delhi empire thickened, how the Sikhs again rose to prominence, how they disputed the possession of the Punjab with the Mughals, the Marāthas and the Durāni, and were at length completely successful, how they divided into societies under their several chiefs and portioned out the Province among them, and how the genius of Ranjīt Singh raised him to supremacy and extended his rule beyond the limits of the Punjab, are matters of political and not of religious history. No formal alteration has been made in the Sikh religion since Govind Singh gave it its military shape; and though changes have taken place, they have been merely the natural result of time and external influences. 
+
+
+
+## 4. Sikh initiation and rules.
+
+“The word Sikh is said to be derived from the common Hindu term Sewak and to mean simply a disciple; it may be applied therefore to the followers of Nānak who held aloof from Govind Singh, but in practice it is perhaps understood to mean only the latter, while the Nānakpanthis are considered as Hindus. A true Sikh always takes the termination Singh to his name on initiation, and hence they are sometimes known as Singhs in distinction to the Nānakpanthis. A man is also not born a Sikh, but must always be initiated, and the *pāhul* or rite of baptism cannot take place until he is old enough to understand it, the earliest age being seven, while it is often postponed till manhood. Five Sikhs must be present at the ceremony, when the novice repeats the articles of the faith and drinks sugar and water stirred up with a two-edged dagger. At the initiation of women a one-edged dagger is used, but this is seldom done. Thus most of the wives of Sikhs have never been initiated, nor is it necessary that their children should become Sikhs when they grow up. The faith is unattractive to women owing to the simplicity of its ritual and the absence of the feasts and ceremonies so abundant in Hinduism; formerly the Sikhs were accustomed to capture their wives in forays, and hence perhaps it was considered of no consequence that the husband and wife should be of different faith. The distinguishing marks of a true Sikh are the five *Kakkas* or *K’s* which he is bound to carry about his person: the *Kes* or uncut hair and unshaven beard; the *Kachh* or short drawers ending above the knee; the *Kasa* or iron bangle; the *Khanda* or steel knife; and the *Kanga* or comb. The other rules of conduct laid down by Guru Govind Singh for his followers were to dress in blue clothes and especially eschew red or saffron-coloured garments and caps of all sorts, to observe personal cleanliness, especially in the hair, and practise ablutions, to eat the flesh of such animals only as had been killed by *jatka* or decapitation, to abstain from tobacco in all its forms, never to blow out flame nor extinguish it with drinking-water, to eat with the head covered, pray and recite passages of the Granth morning and evening and before all meals, reverence the cow, abstain from the worship of saints and idols and avoid mosques and temples, and worship the one God only, neglecting Brāhmans and Mullas, and their scriptures, teaching, rites and religious symbols. Caste distinctions he positively condemned and instituted the *prasād* or communion, in which cakes of flour, butter and sugar are made and consecrated with certain ceremonies while the communicants sit round in prayer, and then distributed equally to all the faithful present, to whatever caste they may belong. The above rules, so far as they enjoin ceremonial observances, are still very generally obeyed. But the daily reading and recital of the Granth is discontinued, for the Sikhs are the most uneducated class in the Punjab, and an occasional visit to the Sikh temple where the Granth is read aloud is all that the villager thinks necessary. Blue clothes have been discontinued save by the fanatical Akāli sect, as have been very generally the short drawers or Kachh. The prohibition of tobacco has had the unfortunate effect of inducing the Sikhs to take to hemp and opium, both of which are far more injurious than tobacco. The precepts which forbid the Sikh to venerate Brāhmans or to associate himself with Hindu worship are entirely neglected; and in the matter of the worship of local saints and deities, and of the employment of and reverence for Brāhmans, there is little, while in current superstitions and superstitious practices there is no difference between the Sikh villager and his Hindu brother.”2 
+
+
+
+## 5. Character of the Nānakpanthis and Sikh sects.
+
+It seems thus clear that if it had not been for the political and military development of the Sikh movement, it would in time have lost most of its distinctive features and have come to be considered as a Hindu sect of the same character, if somewhat more distinctive than those of the Nānakpanthis and Kabīrpanthis. But this development and the founding of the Sikh State of Lahore created a breach between the Sikhs and ordinary Hindus wider than that caused by their religious differences, as was sufficiently demonstrated during the Mutiny. In their origin both the Sikh and Nānakpanthi sects appear to have been mainly a revolt against the caste system, the supremacy of Brāhmans and the degrading mass of superstitions and reverence of idols and spirit-worship which the Brāhmans encouraged for their own profit. But while Nānak, influenced by the observation of Islamic monotheism, attempted to introduce a pure religion only, the aim of Govind was perhaps political, and he saw in the caste system an obstacle to the national movement which he desired to excite against the Muhammadans. So far as the abolition of caste was concerned, both reformers have, as has been seen, largely failed, the two sects now recognising caste, while their members revere Brāhmans like ordinary Hindus. 
+
+
+
+## 6. The Akālis.
+
+The Akālis or Nihangs are a fanatical order of Sikh ascetics. The following extract is taken from Sir E. Maclagan’s account of them:3 
+
+“The Akālis came into prominence very early by their stout resistance to the innovations introduced by the Bairāgi Banda after the death of Guru Govind; but they do not appear to have had much influence during the following century until the days of Mahārāja Ranjit Singh. They constituted at once the most unruly and the bravest portion of the very unruly and brave Sikh army. Their headquarters were at Amritsar, where they constituted themselves the guardians of the faith and assumed the right to convoke synods. They levied offerings by force and were the terror of the Sikh chiefs. Their good qualities were, however, well appreciated by the Mahārāja, and when there were specially fierce foes to meet, such as the Pathāns beyond the Indus, the Akālis were always to the front. 
+
+“The Akāli is distinguished very conspicuously by his dark-blue and checked dress, his peaked turban, often surmounted with steel quoits, and by the fact of his strutting about like Ali Bāba’s prince with his ‘thorax and abdomen festooned with curious cutlery.’ He is most particular in retaining the five *Kakkas*, and in preserving every outward form prescribed by Guru Govind Singh. Some of the Akālis wear a yellow turban underneath the blue one, leaving a yellow band across the forehead. The yellow turban is worn by many Sikhs at the Basant Panchmi, and the Akālis are fond of wearing it at all times. There is a couplet by Bhai Gurdās which says: 
+
+
+
+Siah, Sufed, Surkh, Zardae, 
+
+Jo pahne, sot Gurbhai;
+
+
+
+or, ‘Those that wear black \(the Akālis\), white \(the Nirmalas\), red \(the Udāsis\) or yellow, are all members of the brotherhood of the Sikhs.’ 
+
+“The Akālis do not, it is true, drink spirits or eat meat as other Sikhs do, but they are immoderate in the consumption of *bhāng*. They are in other respects such purists that they will avoid Hindu rites even in their marriage ceremonies. 
+
+“The Akāli is full of memories of the glorious day of the Khālsa; and he is nothing if he is not a soldier, a soldier of the Guru. He dreams of armies, and he thinks in lakhs. If he wishes to imply that five Akālis are present, he will say that ‘five lakhs are before you’; or if he would explain he is alone, he will say that he is with ‘one and a quarter lakhs of the Khālsa.’ You ask him how he is, and he replies that ‘The army is well’; you inquire where he has come from, and he says, ‘The troops marched from Lahore.’ The name Akāli means ‘immortal.’ When Sikhism was politically dominant, the Akālis were accustomed to extort alms by accusing the principal chiefs of crimes, imposing fines upon them, and in the event of their refusing to pay, preventing them from performing their ablutions or going through any of the religious ceremonies at Amritsar.” 
+
+
+
+## 7. The Sikh Council or Guru-Māta. Their communal meal.
+
+The following account was given by Sir J. Malcolm of the Guru-Māta or great Council of the Sikhs and their religious meal:4 “When a Guru-Māta or great national Council is called on the occasion of any danger to the country, all the Sikh chiefs assemble at Amritsar. The assembly is convened by the Akālis; and when the chiefs meet upon this solemn occasion it is concluded that all private animosities cease, and that every man sacrifices his personal feelings at the shrine of the general good. 
+
+“When the chiefs and principal leaders are seated, the Adi-Granth and Dasama Pādshāh Ka Granth5 are placed before them. They all bend their heads before the Scriptures and exclaim, ‘*Wah Guruji ka Khālsa\! wah Guruji ka Fateh\!*’6 A great quantity of cakes made of wheat, butter and sugar are then placed before the volumes of their sacred writings and covered with a cloth. These holy cakes, which are in commemoration of the injunction of Nānak to eat and to give to others to eat next receive the salutation of the assembly, who then rise, while the Akālis pray aloud and the musicians play. The Akālis, when the prayers are finished, desire the Council to be seated. They sit down, and the cakes are uncovered and eaten by all classes of the Sikhs, those distinctions of tribe and caste which are on other occasions kept up being now laid aside in token of their general and complete union in one cause. The Akālis proclaim the Guru-Māta, and prayers are again said aloud. The chiefs after this sit closer and say to each other, ‘The sacred Granth is between us, let us swear by our Scriptures to forget all internal disputes and to be united.’ This moment of religious fervour is taken to reconcile all animosities. They then proceed to consider the danger with which they are threatened, to devise the best plans for averting it and to choose the generals who are to lead their armies against the common enemy.” The first Guru-Māta was assembled by Guru Govind, and the latest was called in 1805, when the British Army pursued Holkar into the Punjab. The Sikh Army was known as Dal Khālsa, or the Army of God, *khālsa* being an Arabic word meaning one’s own.7 At the height of the Sikh power the followers of this religion only numbered a small fraction of the population of the Punjab, and its strength is now declining. In 1911 the Sikhs were only three millions in the Punjab population of twenty-four millions. 
+
+
+
+* * *
+
+1 See article Nānakpanthi for an account of Nānak’s creed. 
+
+2 Here again, Sir D. Ibbetson notes, it is often the women who are the original offenders: “I have often asked Sikhs how it is that, believing as they do in only one God, they can put any faith in and render any obedience to Brāhmans who acknowledge a large number of deities, and their answer in every case has been that they do not themselves believe in them; but their women do, and to please them they are obliged to pay attention to what the Brāhmans say.” 
+
+3 *Punjab Census Report* \(1891\), para. 107. 
+
+4 Account of the Sikhs, *Asiatic Researches*. 
+
+5 Apparently the Scripture of Govind, the tenth *guru*. 
+
+6 ‘Hurrah for the Guru’s Khālsa, Victory to the Guru.’ 
+
+7 Sir Lepel Griffin’s *Life of Ranjīt Singh*. 
+
+
+

@@ -1,0 +1,80 @@
++++
+title = "Darzi"
+
++++
+
+## List of Paragraphs
+
++ 1. General notice. 
++ 2. Subdivisions. 
++ 3. Sewn clothes not formerly worn. 
++ 4. Occupation. 
++ 5. Religion. 
+
+
+## 1. General notice.
+
+**Darzi, Shimpi, Chhīpi, Sūji.**—The occupational caste of tailors. In 1911 a total of 51,000 persons were returned as belonging to the caste in the Central Provinces and Berār. The Darzis are an urban caste and are most numerous in Districts with large towns. Mr. Crooke derives the word Darzi from the Persian *darz*, meaning a seam. The name Sūji from *sui*, a needle, was formerly more common. Shimpi is the Marātha name, and Chhīpi, from Chhīpa a calico-printer or dyer, is another name used for the caste, probably because it is largely recruited from the Chhīpas. In Bombay they say that when Parasurāma was destroying the Kshatriyas, two Rājpūt brothers hid themselves in a temple and were protected by the priest, who set one of them to sew dresses for the idol and the other to dye and stamp them. The first brother was called Chhīpi and from him the Darzis are descended, the name being corrupted to Shimpi, and the second was called Chhīpa and was the ancestor of the dyers. The common title of the Darzis is Khalīfa, an Arabic word meaning ‘The Successor of the Prophet.’ Colonel Temple says that it is not confined to them but is also used by barbers, cooks and monitors in schools.1 The caste is of comparatively recent formation. In fact Sir D. Ibbetson wrote2 that “Darzi, or its Hindi equivalent Sūji, is purely an occupational term, and though there is a Darzi guild in every town, there is no Darzi caste in the proper acceptation of the word. The greater number of Darzis belong perhaps to the Dhobi and Chhīmba castes, more especially to the latter.” 
+
+
+
+## 2. Subdivisions.
+
+The Darzis, however, are now recognised as a distinct caste, but their mixed origin is shown by the names of their subcastes and exogamous sections. Thus they have a Bāman subdivision named after the Brāhman caste. These will not take food from any other caste except Brāhmans and are probably an offshoot from them. They are considered to be the highest subdivision, and next to them come the Rai or Rāj Darzis. Another subcaste is named Kaithia, after the Kāyasths, and a third Srivāstab, which is the name of a well-known subcaste of Kāyasths derived from the town of Srāvasti, now Sahet Mahet in the Gonda District.3 In Betūl the Srivāstab Darzis are reported to forbid the remarriage of widows, thus showing that they desire to live up to their distinguished ancestry. A third subcaste is known as Chamarua and appears to be derived from the Chamārs. Other subcastes are of the territorial type as Mālwi, Khāndeshi, Chhattīsgarhi, Mathuria and so on, and the section or family names are usually taken from villages. Among them, however, we find Jugia from Jogi, Thākur or Rājpūt, Gūjar, Khawās or barber, and Baroni, the title of a female Dhīmar. Mr. Crooke gives several other names. 
+
+
+
+## 3. Sewn clothes not formerly worn.
+
+It may thus reasonably be concluded that the Darzis are a caste of comparatively recent origin, and the explanation is probably that the use of the needle and thread in making clothes is a new fashion. Buchanan remarks: “The needle indeed seems to have been totally unknown to the Hindus, and I have not been able to learn any Hindi word for sewing except that used to express passing the shuttle in the act of weaving....” “Cloth composed of several pieces sewn together is an abomination to the Hindus, so that every woman of rank when she eats, cooks or prays, must lay aside her petticoat and retain only the wrapper made without the use of scissors or needle”; and again, “The dress of the Hindu men of rank has become nearly the same with that of the Muhammadans4 who did not allow any officer employed by them to appear at their *levées* \(Durbars\) except in proper dress. At home, however, the Hindu men, and on all occasions their women, retain almost entirely their native dress, which consists of various pieces of cloth wrapped round them without having been sewn together in any form, and only kept in their place by having their ends thrust under the folds.” And elsewhere he states: “The flowering of cotton cloth with the needle has given a good deal of employment to the Muhammadan women of Maldeh as the needle has never been used by the Hindus.”5 Darzi, as has been seen, is a Persian word, and in northern India many tailors are Muhammadans. And it seems, therefore, a possible hypothesis that the needle and the art of sewing were brought into general use by the Moslem invaders. It is true that in his *Indo-Aryans*6 Mr. Rājendra Lāl Mitra combats this hypothesis and demonstrates that made-up clothes were known to the Aryans of the Rig-Veda and are found in early statuary. But he admits that the instances are not numerous, and it seems likely that the use of such clothes may have been confined to royal and aristocratic families. It is possible also that the Scythian invasions of the fifth century brought about a partial relapse from civilisation, during which certain arts and industries, and among them that of cutting and sewing cloth, were partially or completely lost. The tailor is not the familiar figure in Hindu social life that he is, for example, in England. Here he is traditionally an object or butt for ridicule as in the saying, ‘Nine tailors make a man,’ and so on; and his weakness is no doubt supposed to be due to the fact that he pursues a sedentary indoor occupation and one more adapted to women than men, the needle being essentially a feminine implement. A similar ridicule, based no doubt on exactly the same grounds, attaches in India to the village weaver, as is evidenced by the proverbs given in the articles on Bhulia, Kori, and Jolāha. No reason exists probably for the contempt in which the weaver class is held other than that their work is considered to be more fitting for women than men. Thus in India the weaver appears to take the place of the tailor, and this leads to the conclusion that woven and not sewn clothes have always been commonly worn. 
+
+In the Central Provinces, at least, the Darzi caste is practically confined to the towns, and though cotton jackets are worn even by labourers and shirts by the better-to-do, these are usually bought ready-made at the more important markets. Women, more conservative in their dress than men, have only one garment prepared with the needle, the small bodice known as *choli* or *angia*. And in Chhattīsgarh, a landlocked tract very backward in civilisation, the *choli* has hitherto not been worn and is only now being introduced. Though he first copied the Muhammadan and now shows a partiality for the English style of dress for outdoor use, the Hindu when indoors still reverts to the one cloth round the waist and a second over the shoulders, which was probably once the regular garb of his countrymen. For meals the latter is discarded, and this costume, so strange to English ideas, while partly based on considerations of ceremonial purity, may also be due to a conservative adherence to the ancient fashion, when sewn clothes were not worn. It is noticeable also that high-caste Hindus, though they may wear a coat of cloth or tasar silk and cotton trousers, copying the English, still often carry the *dupatta* or shoulder-cloth hanging round the neck. This now appears a useless encumbrance, but may be the relic of the old body-cloth and therefore interesting as a survival in dress, like the buttons on the back of our tail-coats to which the flaps were once hooked up for riding, or the seams on the backs of gloves, a relic of the time when the glove consisted simply of finger-lengths sewn together.7 More recently the *dupatta* has been made to fulfil the function of a pocket-handkerchief, while the educated are now discarding the *dupatta* and carry their handkerchiefs in their pockets. The old dress of ceremony for landowners is the *angarkha*, a long coat reaching to the knees and with flaps folding over the breast and tied with strings. This is worn with pyjamas and is probably the Muhammadan ceremonial costume as remarked by Buchanan. In its correct form, at, least it has no buttons, and recalls the time when a similar state of things prevailed in English dress and the ‘trussing of his points’ was a laborious daily task for every English gentleman. The *ghundis* or small pieces of cloth made up into a ball, which were the precursors of the button, may still be seen on the cotton coats of rustics in the rural area. 
+
+The substitution of clothes cut and sewn to fit the body for draped clothes is a matter of regret from an artistic or picturesque point of view, as the latter have usually a more graceful appearance. This is shown by the difficulty of reproducing modern clothes in statuary, trousers being usually the despair of the sculptor. But sewn clothes, when once introduced, must always prevail from considerations of comfort. When a Hindu pulls his *dhoti* or loin-cloth up his legs and tucks it in round his hips in order to run or play a game he presumably performs the act described in the Bible as ‘girding up his loins.’ 
+
+
+
+## 4. Occupation.
+
+The social customs of the Darzis present no features of special interest and resemble those of the lower castes in their locality. They rank below the cultivating castes, and Brāhmans will not take water from their hands. Though not often employed by the Hindu villager the Darzi is to Europeans one of the best known of all castes. He is on the whole a capable workman and especially good at copying from a pattern. His proficiency in this respect attracted notice so long ago as 1689, as shown in an interesting quotation in the *Bombay Gazetteer* referring to the tailors of Surat:8 “The tailors here fashion clothes for the Europeans, either men or women, according to every mode that prevails, and fit up the commodes and towering head-dresses for the women with as much skill as if they had been an Indian fashion, or themselves had been apprenticed at the Royal Exchange. \(The commode was a wire structure to raise the cap and hair.\)” Since then the Darzi has no doubt copied in turn all the changes of English fashions. He is a familiar figure in the veranda of the houses of Europeans, and his idiosyncrasies have been delightfully described by Eha in *Behind the Bungalow*. His needles and pins are stuck into the folds of his turban, and Eha says that he is bandy-legged because of the position in which he squats on his feet while sewing. In Gujarāt the tailor is often employed in native households. “Though even in well-to-do families,” Mr. Bhimbhai Kirpāram writes,9 “women sew their bodices and young children’s clothes for everyday wear, every family has its own tailor. As a rule tailors sew in their own houses, and in the tailor’s shop may be seen workmen squatting in rows on a palm-leaf mat or on cotton-stuffed quilts. The wives and sons’ wives of the head of the establishment sit and work in the shop along with the men. Their busy time is during the marriage season from November to June. A village tailor is paid either in cash or grain and is not infrequently a member of the village establishment. During the rains, the tailor’s slack season, he supplements his earnings by tillage, holding land which Government has continued to him on payment of one-half the ordinary rental. In south Gujarāt, in the absence of Brāhmans, a Darzi officiates at Bhāwad marriages, and in some Brāhman marriages a Darzi is called with some ceremony to sew a bodice for the bride. On the other hand, in the Pānch Mahals and Rewa Kantha, besides tailoring Darzis blow trumpets at marriage and other processions and hold so low a position that even Dhedas object to eat their food.” It seems clear that in Gujarāt the Darzi caste is of older standing than in northern India, and it is possible that the art of sewing may have been acquired through the sea trade which was carried on between the western coast and Arabia and the Persian Gulf. Here the Darzi has become a village menial, which he is not recorded as being in any other part of India. 
+
+
+
+## 5. Religion.
+
+Like the weaver, the Darzi is of a somewhat religious turn of mind, probably on account of his sedentary calling which gives him plenty of time for reflection. Many of them belong to the Nāmdeo sect, originated by a Chhīpa or dyer, Nāmdeo Sādhu. Nāmdeo is said to have been a contemporary of Kabīr and to have flourished in the twelfth or thirteenth century. He was a great worshipper of the god Vithoba of Pandharpur and is considered by the Marāthas to be their oldest writer, being the author of many Abhangs, or sacred hymns.10 He preached the unity of God, recognising apparently Vithoba or Vishnu as the one deity, and the uselessness of ceremonial. His followers are mainly Dhobis and Chhīpas, the two principal castes from whom the Darzis have originated.11 Nāmdeo’s sect was thus apparently a protest on the part of the Chhīpas and Dhobis against their inferior position in the caste system and the tyranny of the Brāhmans, and resembled the spiritual revolt of the weavers under Kabīr and of the Chamārs under Ghāsi Dās and Jagjīwan Dās. 
+
+In Berār it is stated12 that “the Simpi caste has twelve and a half divisions; of these the chief are known as the Jain, Marāthi and Telugu Simpis. The Jain Simpis claim the hero Rimināth as a caste-fellow, while the Marāthas are often Lingāyats and the Telugu division generally Vaishnavas.” Before beginning work in the morning the Darzi bows to his scissors or needle and prays to them for his livelihood for that day. 
+
+The Darzi’s occupation, Mr. Crooke remarks, is a poor one and held rather in contempt. The village proverb runs, ‘*Darzi ka pūt jab tak jīta tab tak sīta*,’ ‘The tailor’s boy will do nothing but sew all his life long.’ Another somewhat more complimentary saying is, ‘*Tanak si suiya tak tak kare aur lākh taka ko banj kare*,’ or ‘The tiny needle goes *tuk tuk*, and makes merchandise worth a lakh of rupees.’ The Hindustani version of both proverbs is obviously intended to give the sound of a needle passing through cloth, and it is possible that our word ‘tuck’ has the same origin. 
+
+
+
+* * *
+
+1 *Proper Names of the Punjābis*, p. 74. 
+
+2 *Punjab Census Report* \(1881\), para. 645. 
+
+3 Crooke’s *Tribes and Castes*, art. Darzi. 
+
+4 Buchanan’s *Eastern India*, Martin’s edition, ii. pp. 417, 699. 
+
+5 *Ibidem*, p. 977. 
+
+6 Vol. i. pp. 178–184. 
+
+7 Webb’s *Heritage of Dress*, p. 33. 
+
+8 *Bombay Gazetteer, Hindus of Gujarāt*, p. 180, quoting from Ovington, *Voyage to Surat*, p. 280. 
+
+9 *Bombay Gazetteer, Hindus of Gujarāt*, p. 180. 
+
+10 *Bombay Gazetteer, Nasik*, p. 50. 
+
+11 According to another account Nāmdeo belonged to Mārwār. Mr. Maclagan’s *Punjab Census Report* \(1891\), p. 144. 
+
+12 *Berār Census Report* \(1881\), para. 231. 
+
+
+

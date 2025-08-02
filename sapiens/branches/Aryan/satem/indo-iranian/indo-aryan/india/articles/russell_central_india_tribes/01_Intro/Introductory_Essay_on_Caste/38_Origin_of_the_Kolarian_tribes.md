@@ -1,0 +1,20 @@
++++
+title = "38 Origin of the Kolarian tribes"
+
++++
+
+The Munda languages have been shown by Sir G. Grierson to have originated from the same source as those spoken in the Indo-Pacific islands and the Malay Peninsula. “The Mundas, the Mon-Khmer, the wild tribes of the Malay Peninsula and the Nicobarese all use forms of speech which can be traced back to a common source though they mutually differ widely from each other.”73 It would appear, therefore, that the Mundas, the oldest known inhabitants of India, perhaps came originally from the south-east, the islands of the Indian Archipelago and the Malay Peninsula, unless India was their original home and these countries were colonised from it. 
+
+Sir Edward Gait states: “Geologists tell us that the Indian Peninsula was formerly cut off from the north of Asia by sea, while a land connection existed on the one side with Madagascar and on the other with the Malay Archipelago; and though there is nothing to show that India was then inhabited, we know that it was so in palaeolithic times, when communication was probably still easier with the countries to the north-east and south-west than with those beyond the Himalayas.”74 In the south of India, however, no traces of Munda languages remain at present, and it seems therefore necessary to conclude that the Mundas of the Central Provinces and Chota Nāgpur have been separated from the tribes of Malaysia who speak cognate languages for an indefinitely long period; or else that they did not come through southern India to these countries but by way of Assam and Bengal or by sea through Orissa. There is good reason to believe from the names of places and from local tradition that the Munda tribes were once spread over Bihār and parts of the Ganges Valley; and if the Kolis are an offshoot of the Kols, as is supposed, they also penetrated across Central India to the sea in Gujarāt and the hills of the western Ghāts. The presumption is that the advance of the Aryans or Hindus drove the Mundas from the open country to the seclusion of the hills and forests. The Munda and Dravidian languages are shown by Sir G. Grierson to be distinct groups without any real connection. 
+
+
+
+
+Drawing water from the village well
+
+
+
+
+Though the physical characteristics of the two sets of tribes display no marked points of difference, the opinion has been generally held by ethnologists who know them that they represent two distinct waves of immigration, and the absence of connection between their languages bears out this view. It has always been supposed that the Mundas were in the country of Chota Nāgpur and the Central Provinces first, and that the Dravidians, the Gonds, Khonds and Oraons came afterwards. The grounds for this view are the more advanced culture of the Dravidians; the fact that where the two sets of tribes are in contact those of the Munda group have been ousted from the more open and fertile country, of which, according to tradition, they were formerly in possession; and the practice of the Gonds and other Dravidian tribes of employing the Baigas, Bhuiyas and other Munda tribes for their village priests, which is an acknowledgment that the latter as the earlier residents have a more familiar acquaintance with the local deities, and can solicit their favour and protection with more prospect of success. Such a belief is the more easily understood when it is remembered that these deities are not infrequently either the human ancestors of the earliest residents or the local animals and plants from which they supposed themselves to be descended. 
+
+
