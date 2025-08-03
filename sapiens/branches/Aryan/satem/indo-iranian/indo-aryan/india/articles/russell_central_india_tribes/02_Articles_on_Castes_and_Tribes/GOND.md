@@ -3,10 +3,6 @@ title = "GOND"
 
 +++
 
-
-
-
-
 \[*Bibliography.*—The most important account of the Gond tribe is that contained in the Rev. Stephen Hislop’s *Papers on the Aboriginal Tribes of the Central Provinces*, published after his death by Sir R. Temple in 1866. Mr. Hislop recorded the legend of Lingo, of which an abstract has been reproduced. Other notices of the Gonds are contained in the ninth volume of General Cunningham’s *Archaeological Survey Reports*, Sir C. Grant’s *Central Provinces Gazetteer of 1871* \(Introduction\), Colonel Ward’s *Mandla Settlement Report* \(1868\), Colonel Lucie Smith’s *Chānda Settlement Report* \(1870\), and Mr. C. W. Montgomerie’s *Chhīndwāra Settlement Report* \(1900\). An excellent monograph on the Bastar Gonds was contributed by Rai Bahādur Panda Baijnāth, Superintendent of the State, and other monographs by Mr. A. E. Nelson, C.S., Mandla; Mr. Ganga Prasād Khatri, Forest Divisional Officer, Betūl; Mr. J. Langhorne, Manager, Ahiri zamīndāri, Chānda; Mr. R. S. Thākur, tahsīldār, Bālāghāt; and Mr. Dīn Dayāl, Deputy Inspector of Schools, Nāndgaon State. Papers were also furnished by the Rev. A. Wood of Chānda; the Rev. H. J. Molony, Mandla; and Major W. D. Sutherland, I.M.S., Saugor. Notes were also collected by the writer in Mandla. Owing to the inclusion of many small details from the different papers it has not been possible to acknowledge them separately.\]
 
 ## List of Paragraphs
@@ -108,86 +104,39 @@ title = "GOND"
 	+ 80. Patch cultivation. 140 
 	+ 81. Hunting: traps for animals. 141 
 
-
-
-
-
 ## \(*a*\) Origin and History
-
-
 
 ### 01. Numbers and distribution.
 
-
-
 **Gond.**—The principal tribe of the Dravidian family, and perhaps the most important of the non-Aryan or forest tribes in India. In 1911 the Gonds were three million strong, and they are increasing rapidly. The Kolis of western India count half a million persons more than the Gonds, and if the four related tribes Kol, Munda, Ho, and Santāl were taken together, they would be stronger by about the same amount. But if historical importance be considered as well as numbers, the first place should be awarded to the Gonds. Of the whole caste the Central Provinces contain 2,300,000 persons, Central India, and Bihār and Orissa about 235,000 persons each, and they are returned in small numbers from Assam, Madras and Hyderābād. The 50,000 Gonds in Assam are no doubt immigrant labourers on the tea-gardens.
-
-
-
-
 
 ### 02. Gondwāna.
 
-
-
 In the Central Provinces the Gonds occupy two main tracts. The first is the wide belt of broken hill and forest country in the centre of the Province, which forms the Satpūra plateau, and is mainly comprised in the Chhindwārā, Betūl, Seoni and Mandla Districts, with portions of several others adjoining them. And the second is the still wider and more inaccessible mass of hill ranges extending south of the Chhattīsgarh plain, and south-west down to the Godāvari, which includes portions of the three Chhattīsgarh Districts, the Bastar and Kanker States, and a great part of Chānda. In Mandla the Gonds form nearly half the population, and in Bastar about two-thirds. There is, however, no District or State of the Province which does not contain some Gonds, and it is both on account of their numbers and the fact that Gond dynasties possessed a great part of its area that the territory of the Central Provinces was formerly known as Gondwāna, or the country of the Gonds.1 The existing importance of the Central Provinces dates from recent years, for so late as 1853 it was stated before the Royal Asiatic Society that “at present the Gondwāna highlands and jungles comprise such a large tract of unexplored country that they form quite an oasis in our maps.” So much of this lately unexplored country as is British territory is now fairly well served by railways, traversed almost throughout by good roads, and provided with village schools at distances of five to ten miles apart, even in the wilder tracts.
-
 
 Gond women grinding corn
 
-
-
-
-
 ### 03. Derivation of name and origin of the Gonds.
-
-
 
 The derivation of the word Gond is uncertain. It is the name given to the tribe by the Hindus or Muhammadans, as their own name for themselves is Koitūr or Koi. General Cunningham considered that the name Gond probably came from Gauda, the classical term for part of the United Provinces and Bengal. A Benāres inscription relating to one of the Chedi kings of Tripura or Tewar \(near Jubbulpore\) states that he was of the Haihaya tribe, who lived on the borders of the Nerbudda in the district of the Western Gauda in the Province of Mālwa. Three or four other inscriptions also refer to the kings of Gauda in the same locality. Gauda, however, was properly and commonly used as the name of part of Bengal. There is no evidence beyond a few doubtful inscriptions of its having ever been applied to any part of the Central Provinces. The principal passage in which General Cunningham identifies Gauda with the Central Provinces is that in which the king of Gauda came to the assistance of the ruler of Mālwa against the king of Kanauj, elder brother of the great Harsha Vardhana, and slew the latter king in A.D. 605. But Mr. V. A. Smith holds that Gauda in this passage refers to Bengal and not to the Central Provinces;2 and General Cunningham’s argument on the locality of Gauda is thus rendered extremely dubious, and with it his derivation of the name Gond. In fact it seems highly improbable that the name of a large tribe should have been taken from a term so little used and known in this special application. Though in the *Imperial Gazetteer*3 the present writer reproduced General Cunningham’s derivation of the term Gond, it was there characterised as speculative, and in the light of the above remarks now seems highly improbable. Mr. Hislop considered that the name Gond was a form of Kond, as he spelt the name of the Khond tribe. He pointed out that *k* and *g* are interchangeable. Thus Gotalghar, the empty house where the village young men sleep, comes from Kotal, a led horse, and *ghar*, a house. Similarly, Koikopāl, the name of a Gond subtribe who tend cattle, is from Koi or Gond, and *gopal*, a cowherd. The name by which the Gonds call themselves is Koi or Koitūr, while the Khonds call themselves Ku, which word Sir G. Grierson considers to be probably related to the Gond name Koi. Further, he states that the Telugu people call the Khonds, Gond or Kod \(Kor\). General Cunningham points out that the word Gond in the Central Provinces is frequently or, he says, usually pronounced Gaur, which is practically the same sound as *god*, and with the change of *G* to *K* would become Kod. Thus the two names Gond and Kod, by which the Telugu people know the Khonds, are practically the same as the names Gond and God of the Gonds in the Central Provinces, though Sir G. Grierson does not mention the change of *g* to *k* in his account of either language. It seems highly probable that the designation Gond was given to the tribe by the Telugus. The Gonds speak a Dravidian language of the same family as Tamil, Canarese and Telugu, and therefore it is likely that they come from the south into the Central Provinces. Their route may have been up the Godāvari river into Chānda; from thence up the Indravati into Bastar and the hills south and east of the Chhattīsgarh plain; and up the Wardha and Wainganga to the Districts of the Satpūra Plateau. In Chānda, where a Gond dynasty reigned for some centuries, they would be in contact with the Telugus, and here they may have got their name of Gond, and carried it with them into the north and east of the Province. As already seen, the Khonds are called Gond by the Telugus, and Kandh by the Uriyas. The Khonds apparently came up more towards the east into Ganjam and Kālāhandi. Here the name of Gond or Kod, given them by the Telugus, may have been modified into Kandh by the Uriyas, and from the two names came the English corruption of Khond. The Khond and Gondi languages are now dissimilar. Still they present certain points of resemblance, and though Sir G. Grierson does not discuss their connection, it appears from his highly interesting genealogical tree of the Dravidian languages that Khond or Kui and Gondi are closely connected. These two languages, and no others, occupy an intermediate position between the two great branches sprung from the original Dravidian language, one of which is mainly represented by Telugu and the other by Tamil, Canarese and Malayālam.4 Gondi and Khond are shown in the centre as the connecting link between the two great branches. Gondi is more nearly related to Tamil and Khond to Telugu. On the Telugu side, moreover, Khond approaches most closely to Kolāmi, which is a member of the Telugu branch. The Kolāms are a tribe of Wardha and Berār, sometimes considered an offshoot of the Gonds; at any rate, it seems probable that they came from southern India by the same route as the Gonds. Thus the Khond language is intermediate between Gondi and the Kolāmi dialect of Wardha and Berār, though the Kolāms live west of the Gonds and the Khonds east. And a fairly close relationship between the three languages appears to be established. Hence the linguistic evidence appears to afford strong support to the view that the Khonds and Gonds may originally have been one tribe. Further, Mr. Hislop points out that a word for god, *pen*, is common to the Gonds and Khonds; and the Khonds have a god called Bura Pen, who might be the same as Bura Deo, the great god of the Gonds. Mr. Hislop found Kodo Pen and Pharsi Pen as Gond gods,5 while Pen or Pennu is the regular word for god among the Khonds. This evidence seems to establish a probability that the Gonds and Khonds were originally one tribe in the south of India, and that they obtained separate names and languages since they left their original home for the north. The fact that both of them speak languages of the Dravidian family, whose home is in southern India, makes it probable that the two tribes originally belonged there, and migrated north into the Central Provinces and Orissa. This hypothesis is supported by the traditions of the Gonds.
 
-
-
-
-
 ### 04. History of the Gonds.
-
-
 
 As stated in the article on Kol, it is known that Rājpūt dynasties were ruling in various parts of the Central Provinces from about the sixth to the twelfth centuries. They then disappear, and there is a blank till the fourteenth century or later, when Gond kingdoms are found established at Kherla in Betūl, at Deogarh in Chhīndwara, at Garha-Mandla,6 including the Jubbulpore country, and at Chānda, fourteen miles from Bhāndak. It seems clear, then, that the Hindu dynasties were subverted by the Gonds after the Muhammadan invasions of northern India had weakened or destroyed the central powers of the Hindus, and prevented any assistance being afforded to the outlying settlements. There is some reason to suppose that the immigration of the Gonds into the Central Provinces took place after the establishment of these Hindu kingdoms, and not before, as is commonly held.7 But the point must at present be considered doubtful. There is no reason however to doubt that the Gonds came from the south through Chānda and Bastar. During the fourteenth century and afterwards the Gonds established dynasties at the places already mentioned in the Central Provinces. For two or three centuries the greater part of the Province was governed by Gond kings. Of their method of government in Narsinghpur, Sleeman said: “Under these Gond Rājas the country seems for the most part to have been distributed among feudatory chiefs, bound to attend upon the prince at his capital with a stipulated number of troops, to be employed wherever their services might be required, but to furnish little or no revenue in money. These chiefs were Gonds, and the countries they held for the support of their families and the payment of their troops and retinue little more than wild jungles. The Gonds seem not to have been at home in open country, and as from the sixteenth century a peaceable penetration of Hindu cultivators into the best lands of the Province assumed large dimensions, the Gonds gradually retired to the hill ranges on the borders of the plains.” The headquarters of each dynasty at Mandla, Garha, Kherla, Deogarh and Chānda seem to have been located in a position strengthened for defence either by a hill or a great river, and adjacent to an especially fertile plain tract, whose produce served for the maintenance of the ruler’s household and headquarters establishment. Often the site was on other sides bordered by dense forest which would afford a retreat to the occupants in case it fell to an enemy. Strong and spacious forts were built, with masonry tanks and wells inside them to provide water, but whether these buildings were solely the work of the Gonds or constructed with the assistance of Hindu or Muhammadan artificers is uncertain. But the Hindu immigrants found Gond government tolerant and beneficent. Under the easy eventless sway of these princes the rich country over which they ruled prospered, its flocks and herds increased, and the treasury filled. So far back as the fifteenth century we read in Firishta that the king of Kherla, who, if not a Gond himself, was a king of the Gonds, sumptuously entertained the Bāhmani king and made him rich offerings, among which were many diamonds, rubies and pearls. Of the Rāni Dūrgavati of Garha-Mandla, Sleeman said: “Of all the sovereigns of this dynasty she lives most in the page of history and in the grateful recollections of the people. She built the great reservoir which lies close to Jubbulpore, and is called after her Rāni Talao or Queen’s pond; and many other highly useful works were formed by her about Garha.” When the castle of Chaurāgarh was sacked by one of Akbar’s generals in 1564, the booty found, according to Firishta, comprised, independently of jewels, images of gold and silver and other valuables, no fewer than a hundred jars of gold coin and a thousand elephants. Of the Chānda rulers the Settlement officer who has recorded their history wrote that, “They left, if we forget the last few years, a well-governed and contented kingdom, adorned with admirable works of engineering skill and prosperous to a point which no aftertime has reached. They have left their mark behind them in royal tombs, lakes and palaces, but most of all in the seven miles of battlemented stone wall, too wide now for the shrunk city of Chānda within it, which stands on the very border-line between the forest and the plain, having in front the rich valley of the Wardha river, and behind and up to the city walls deep forest extending to the east.” According to local tradition the great wall of Chānda and other buildings, such as the tombs of the Gond kings and the palace at Junona, were built by immigrant Telugu masons of the Kāpu or Munurwār castes. Another excellent rule of the Gond kings was to give to any one who made a tank a grant of land free of revenue of the land lying beneath it. A large number of small irrigation tanks were constructed under this inducement in the Wainganga valley, and still remain. But the Gond states had no strength for defence, as was shown when in the eighteenth century Marātha chiefs, having acquired some knowledge of the art of war and military training by their long fighting against the Mughals, cast covetous eyes on Gondwāna. The loose tribal system, so easy in time of peace, entirely failed to knit together the strength of the people when united action was most required, and the plain country fell before the Marātha armies almost without a struggle. In the strongholds, however, of the hilly ranges which hem in every part of Gondwāna the chiefs for long continued to maintain an unequal resistance, and to revenge their own wrongs by indiscriminate rapine and slaughter. In such cases the Marātha plan was to continue pillaging and harassing the Gonds until they obtained an acknowledgment of their supremacy and the promise, at least, of an annual tribute. Under this treatment the hill Gonds soon lost every vestige of civilisation, and became the cruel, treacherous savages depicted by travellers of this period. They regularly plundered and murdered stragglers and small parties passing through the hills, while from their strongholds, built on the most inaccessible spurs of the Satpūras, they would make a dash into the rich plains of Berār and the Nerbudda valley, and after looting and killing all night, return straight across country to their jungle fortresses, guided by the light of a bonfire on some commanding peak.8 With the pacification of the country and the introduction of a strong and equable system of government by the British, these wild marauders soon settled down and became the timid and inoffensive labourers which they now are.
 
-
 Palace of the Gond kings of Garha-Mandla at Rāmnagar
-
-
-
-
 
 ### 05. Mythica traditions. Story of Lingo.
 
-
-
 Mr. Hislop took down from a Pardhān priest a Gond myth of the creation of the world and the origin of the Gonds, and their liberation from a cave, in which they had been shut up by Siva, through the divine hero Lingo. General Cunningham said that the exact position of the cave was not known, but it would seem to have been somewhere in the Himalayas, as the name Dhawalgiri, which means a white mountain, is mentioned. The cave, according to ordinary Gond tradition, was situated in Kachikopa Lohāgarh or the Iron Valley in the Red Hill. It seems clear from the story itself that its author was desirous of connecting the Gonds with Hindu mythology, and as Siva’s heaven is in the Himalayas, the name Dhawalgiri, where he located the cave, may refer to them. It is also said that the cave was at the source of the Jumna. But in Mr. Hislop’s version the cave where all the Gonds except four were shut up is not in Kachikopa Lohāgarh, as the Gonds commonly say; but only the four Gonds who escaped wandered to this latter place and dwelt there. And the story does not show that Kachikopa Lohāgarh was on Mount Dhawalgiri or the Himalayas, where it places the cave in which the Gonds were shut up, or anywhere near them. On the contrary, it would be quite consonant with Mr. Hislop’s version if Kachikopa Lohāgarh were in the Central Provinces. It may be surmised that in the original Gond legend their ancestors really were shut up in Kachikopa Lohāgarh, but not by the god Siva. Very possibly the story began with them in the cave in the Iron Valley in the Red Hill. But the Hindu who clearly composed Mr. Hislop’s version wished to introduce the god Siva as a principal actor, and he therefore removed the site of the cave to the Himalayas. This appears probable from the story itself, in which, in its present form, Kachikopa Lohāgarh plays no real part, and only appears because it was in the original tradition and has to be retained.9 But the Gonds think that their ancestors were actually shut up in Kachikopa Lohāgarh, and one tradition puts the site at Pachmarhi, whose striking hill scenery and red soil cleft by many deep and inaccessible ravines would render it a likely place for the incident. Another version locates Kachikopa Lohāgarh at Dārekasa in Bhandāra, where there is a place known as Kachagarh or the iron fort. But Pachmarhi is perhaps the more probable, as it has some deep caves, which have always been looked upon as sacred places. The point is of some interest, because this legend of the cave being in the Himalayas is adduced as a Gond tradition that their ancestors came from the north, and hence as supporting the theory of the immigration of the Dravidians through the north-west of India. But if the view now suggested is correct, the story of the cave being in the Himalayas is not a genuine Gond tradition at all, but a Hindu interpolation. The only other ground known to the writer for asserting that the Gonds believed their ancestors to have come from the north is that they bury their dead with the feet to the north. There are other obvious Hindu accretions in the legend, as the saintly Brāhmanic character of Lingo and his overcoming the gods through fasting and self-torture, and also the fact that Siva shut up the Gonds in the cave because he was offended by their dirty habits and bad smell. But the legend still contains a considerable quantity of true Gond tradition, and though somewhat tedious, it seems necessary to give an abridgment of Mr. Hislop’s account, with reproduction of selected passages. Captain Forsyth also made a modernised poetical version,10 from which one extract is taken. Certain variations from another form of the legend obtained in Bastar are included.
-
-
-
-
 
 ### 06. Legend of the creation.
 
-
-
 In the beginning there was water everywhere, and God was born in a lotus-leaf and lived alone. One day he rubbed his arm and from the rubbing made a crow, which sat on his shoulder; he also made a crab, which swam out over the waters. God then ordered the crow to fly over the world and bring some earth. The crow flew about and could find no earth, but it saw the crab, which was supporting itself with one leg resting on the bottom of the sea. The crow was very tired and perched on the crab’s back, which was soft so that the crow’s feet made marks on it, which are still visible on the bodies of all crabs at present. The crow asked the crab where any earth could be found. The crab said that if God would make its body hard it would find some earth. God said he would make part of the crab’s body hard, and he made its back hard, as it still remains. The crab then dived to the bottom of the sea, where it found Kenchna, the earth-worm. It caught hold of Kenchna by the neck with its claws and the mark thus made is still to be seen on the earth-worm’s neck. Then the earth-worm brought up earth out of its mouth and the crab brought this to God, and God scattered it over the sea and patches of land appeared. God then walked over the earth and a boil came on his hand, and out of it Mahādeo and Pārvati were born.
-
-
-
-
 
 ### 07. Creation of the Gonds and their imprisonment by Mahādeo.
 
-
-
 From Mahādeo’s urine numerous vegetables began to spring up. Pārvati ate of these and became pregnant and gave birth to eighteen threshing-floors11 of Brāhman gods and twelve threshing-floors of Gond gods. All the Gonds were scattered over the jungle. They behaved like Gonds and not like good Hindus, with lamentable results, as follows:12
-
 
 Hither and thither all the Gonds were scattered in the jungle.
 
@@ -223,19 +172,11 @@ Who said: “The caste of the Gonds is very bad;
 
 I will not preserve them; they will ruin my hill Dhawalgiri.”
 
-
 Mahādeo then determined to get rid of the Gonds. With this view he invited them all to a meeting. When they sat down Mahādeo made a squirrel from the rubbings of his body and let it loose in the middle of the Gonds. All the Gonds at once got up and began to chase it, hoping for a meal. They seized sticks and stones and clods of earth, and their unkempt hair flew in the wind. The squirrel dodged about and ran away, and finally, directed by Mahādeo, ran into a large cave with all the Gonds after it. Mahādeo then rolled a large stone to the mouth of the cave and shut up all the Gonds in it. Only four remained outside, and they fled away to Kachikopa Lohāgarh, or the Iron Cave in the Red Hill, and lived there. Meanwhile Pārvati perceived that the smell of the Gonds, which had pleased her, had vanished from Dhawalgiri. She desired it to be restored and commenced a devotion. For six months she fasted and practised austerities. Bhagwān \(God\) was swinging in a swing. He was disturbed by Pārvati’s devotion. He sent Nārāyan \(the sun\) to see who was fasting. Nārāyan came and found Pārvati and asked her what she wanted. She said that she missed her Gonds and wanted them back. Nārāyan told Bhagwān, who promised that they should be given back.
-
-
-
-
 
 ### 08. The birth and history of Lingo.
 
-
-
 The yellow flowers of the tree Pahindi were growing on Dhawalgiri. Bhagwān sent thunder and lightning, and the flower conceived. First fell from it a heap of turmeric or saffron. In the morning the sun came out, the flower burst open, and Lingo was born. Lingo was a perfect child. He had a diamond on his navel and a sandalwood mark on his forehead. He fell from the flower into the heap of turmeric. He played in the turmeric and slept in a swing. He became nine years old. He said there was no one there like him, and he would go where he could find his fellows. He climbed a needle-like hill,13 and from afar off he saw Kachikopa Lohāgarh and the four Gonds. He came to them. They saw he was like them, and asked him to be their brother. They ate only animals. Lingo asked them to find for him an animal without a liver, and they searched all through the forest and could not. Then Lingo told them to cut down trees and make a field. They tried to cut down the *anjan*14 trees, but their hands were blistered and they could not go on. Lingo had been asleep. He woke up and saw they had only cut down one or two trees. He took the axe and cut down many trees, and fenced a field and made a gate to it. Black soil appeared. It began to rain, and rained without ceasing for three days. All the rivers and streams were filled. The field became green with rice, and it grew up. There were sixteen score of *nīlgai* or blue-bull. They had two leaders, an old bull and his nephew. The young bull saw the rice of Lingo’s field and wished to eat it. The uncle told him not to eat of the field of Lingo or all the *nīlgai* would be killed. But the young bull did not heed, and took off all the *nīlgai* to eat the rice. When they got to the field they could find no entrance, so they jumped the fence, which was five cubits high. They ate all the rice from off the field and ran away. The young bull told them as they ran to put their feet on leaves and stones and boughs and grass, and not on the ground, so that they might not be tracked. Lingo woke up and went to see his field, and found all the rice eaten. He knew the *nīlgai* had done it, and showed the brothers how to track them by the few marks which they had by accident made on the ground. They did so, and surrounded the *nīlgai* and killed them all with their bows and arrows except the old uncle, from whom Lingo’s arrow rebounded harmlessly on account of his innocence, and one young doe. From these two the *nīlgai* race was preserved. Then Lingo told the Gonds to make fire and roast the deer as follows:
-
 
 He said, I will show you something; see if anywhere in your
 
@@ -405,8 +346,6 @@ When she arrived near the edge of her field, she heard music in her ears.
 
 That old woman called her husband to her.
 
-
-
 With stretched hands, and lifted feet, and with his neck bent down, he danced.
 
 Thus he danced. The old woman looked towards her husband, and said, My old man, my husband,
@@ -415,28 +354,15 @@ Surely, that music is very melodious. I will dance, said the old woman.
 
 Having made the fold of her dress loose, she quickly began to dance near the hedge.
 
-
-
-
-
 ### 09. Death and resurrection of Lingo.
-
-
 
 Then Lingo disclosed himself to the giant and became friendly with him. The giant apologised for having tried to eat his brother, and called Lingo his nephew. Lingo invited him to come and feast on the flesh of the sixteen scores of *nīlgai*. The giant called his seven daughters and offered them all to Lingo in marriage. The daughters produced the arrow which they had treasured up as portending a husband. Lingo said he was not marrying himself, but he would take them home as wives for his brothers. So they all went back to the cave and Lingo assigned two of the daughters each to the three elder brothers and one to the youngest. Then the brothers, to show their gratitude, said that they would go and hunt in the forest and bring meat and fruit and Lingo should lie in a swing and be rocked by their seven wives. But while the wives were swinging Lingo and his eyes were shut, they wished to sport with him as their husbands’ younger brother. So saying they pulled his hands and feet till he woke up. Then he reproached them and called them his mothers and sisters, but they cared nothing and began to embrace him. Then Lingo was filled with wrath and leapt up, and seeing a rice-pestle near he seized it and beat them all with it soundly. Then the women went to their houses and wept and resolved to be revenged on Lingo. So when the brothers came home they told their husbands that while they were swinging Lingo he had tried to seduce them all from their virtue, and they were resolved to go home and stay no longer in Kachikopa with such a man about the place. Then the brothers were exceedingly angry with Lingo, who they thought had deceived them with a pretence of virtue in refusing a wife, and they resolved to kill him. So they enticed him into the forest with a story of a great animal which had put them to flight and asked him to kill it, and there they shot him to death with their arrows and gouged out his eyes and played ball with them. 
 
 But the god Bhagwān became aware that Lingo was not praying to him as usual, and sent the crow Kageshwar to look for him. The crow came and reported that Lingo was dead, and the god sent him back with nectar to sprinkle it over the body and bring it to life again, which was done.
 
-
-
-
-
 ### 10. He releases the Gonds shut up in the cave and constitutes the tribe.
 
-
-
 Lingo then thought he had had enough of the four brothers, so he determined to go and find the other sixteen score Gonds who were imprisoned somewhere as the brothers had told him. The manner of his doing this may be told in Captain Forsyth’s version:15
-
 
 And our Lingo redivivus
 
@@ -954,11 +880,9 @@ And they went off to the river,
 
 Had a drink, and cooked and ate it.
 
-
 The next episode is taken from a slightly different local version:
 
 And while they were cooking their food at the river a great flood came up, but all the Gonds crossed safely except the four gods, Tekām, Markām, Pusām and Telengām.16 These were delayed because they had cooked their food with *ghī* which they had looted from the Hindu deities. Then they stood on the bank and cried out,
-
 
 O God of the crossing,
 
@@ -968,35 +892,19 @@ Should you be here,
 
 Come take us across.
 
-
 Hearing this, the tortoise and crocodile came up to them, and offered to take them across the river. So Markām and Tekām sat on the back of the crocodile and Pusām and Telengām on the back of the tortoise, and before starting the gods made the crocodile and tortoise swear that they would not eat or drown them in the sea. But when they got to the middle of the river the tortoise and crocodile began to sink, with the idea that they would drown the Gonds and feed their young with them. Then the Gonds cried out, and the Raigīdhni or vulture heard them. This bird appears to be the same as the Bindo, as it fed its young with elephants. The Raigīdhni flew to the Gonds and took them up on its back and flew ashore with them. And in its anger it picked out the tongue of the crocodile and crushed the neck of the tortoise. And this is why the crocodile is still tongueless and the tortoise has a broken neck, which is sometimes inside and sometimes outside its shell. Both animals also have the marks of string on their backs where the Gond gods tied their necks together when they were ferried across. Thus all the Gonds were happily reunited and Lingo took them into the forest, and they founded a town there, which grew and prospered. And Lingo divided all the Gonds into clans and made the oldest man a Pardhān or priest and founded the rule of exogamy. He also made the Gond gods, subsequently described,17 and worshipped them with offerings of a calf and liquor, and danced before them. He also prescribed the ceremonies of marriage which are still observed, and after all this was done Lingo went to the gods.
-
 
 Gonds on a journey
 
-
-
-
-
 ## \(*b*\) Tribal Subdivisions
 
-
-
 ### 11. Subcastes.
-
-
 
 Out of the Gond tribe, which, as it gave its name to a province, may be considered as almost a people, a number of separate castes have naturally developed. Among them are several occupational castes such as the Agarias or iron-workers, the Ojhas or soothsayers, Pardhāns or priests and minstrels, Solāhas or carpenters, and Koilabhutis or dancers or prostitutes. These are principally sprung from the Gonds, though no doubt with an admixture of other low tribes or castes. The Parjas of Bastar, now classed as a separate tribe, appear to represent the oldest Gond settlers, who were subdued by later immigrants of the race; while the Bhatras and Jhādi Telengas are of mixed descent from Gonds and Hindus. Similarly the Gowāri caste of cattle-graziers originated from the alliances of Gond and Ahīr graziers. The Mannewārs and Kolāms are other tribes allied to the Gonds. Many Hindu castes and also non-Aryan tribes living in contact with the Gonds have a large Gond element; of the former class the Ahīrs, Basors, Barhais and Lohārs, and of the latter the Baigas, Bhunjias and Khairwārs are instances.
 
 Among the Gonds proper there are two aristocratic subdivisions, the Rāj-Gonds and Khatolas. According to Forsyth the Rāj-Gonds are in many cases the descendants of alliances between Rājpūt adventurers and Gonds. But the term practically comprises the landholding subdivision of the Gonds, and any proprietor who was willing to pay for the privilege could probably get his family admitted into the Rāj-Gond group. The Rāj-Gonds rank with the Hindu cultivating castes, and Brāhmans will take water from them. They sometimes wear the sacred thread. In the Telugu country the Rāj-Gond is known as Durla or Durlasattam. In some localities Rāj-Gonds will intermarry with ordinary Gonds, but not in others. The Khatola Gonds take their name from the Khatola state in Bundelkhand, which is said to have once been governed by a Gond ruler, but is no longer in existence. In Saugor they rank about equal with the Rāj-Gonds and intermarry with them, but in Chhindwāra it is said that ordinary Gonds despise them and will not marry with them or eat with them on account of their mixed descent from Gonds and Hindus. The ordinary Gonds in most Districts form one endogamous group, and are known as the Dhur or ‘dust’ Gonds, that is the common people. An alternative name conferred on them by the Hindus is Rāwanvansi or of the race of Rāwan, the demon king of Ceylon, who was the opponent of Rāma. The inference from this name is that the Hindus consider the Gonds to have been among the people of southern India who opposed the Aryan expedition to Ceylon, which is preserved in the legend of Rāma; and the name therefore favours the hypothesis that the Gonds came from the south and that their migration northward was sufficiently recent in date to permit of its being still remembered in tradition. There are several other small local subdivisions. The Koya Gonds live on the border of the Telugu country, and their name is apparently a corruption of Koi or Koitūr, which the Gonds call themselves. The Gaita are another Chānda subcaste, the word Gaite or Gaita really meaning a village priest or headman. Gattu or Gotte is said to be a name given to the hill Gonds of Chānda, and is not a real subcaste. The Darwe or Nāik Gonds of Chānda were formerly employed as soldiers, and hence obtained the name of Naīk or leader. Other local groups are being formed such as the Larhia or those of Chhattīsgarh, the Mandlāha of Mandla, the Lānjiha from Lānji and so on. These are probably in course of becoming endogamous. The Gonds of Bastar are divided into two groups, the Māria and the Muria. The Māria are the wilder, and are apparently named after the Mad, as the hilly country of Bastar is called. Mr. Hīra Lāl suggests the derivation of Muria from *mur*, the *palās* tree, which is common in the plains of Bastar, or from *mur*, a root. Both derivations must be considered as conjectural. The Murias are the Gonds who live in the plains and are more civilised than the Mārias. The descendants of the Rāja of Deogarh Bakht Buland, who turned Muhammadan, still profess that religion, but intermarry freely with the Hindu Gonds. The term Bhoi, which literally means a bearer in Telugu, is used as a synonym for the Gonds and also as an honorific title. In Chhindwāra it is said that only a village proprietor is addressed as Bhoi. It appears that the Gonds were used as palanquin-bearers, and considered it an honour to belong to the Kahār or bearer caste, which has a fairly good status.18
 
-
-
-
-
 ### 12. Exogamy.
-
-
 
 The Gond rules of exogamy appear to preserve traces of the system found in Australia, by which the whole tribe is split into two or four main divisions, and every man in one or two of them must marry a woman in the other one or two. This is considered by Sir J. G. Frazer to be the beginning of exogamy, by which marriage was prohibited, first, between brothers and sisters, and then between parents and children, by the arrangement of these main divisions.19
 
@@ -1008,23 +916,11 @@ The Muria Gonds of Bastar have a few large exogamous septs or clans named in Hin
 
 In Chānda a classification according to the number of gods worshipped is found. There are four main groups worshipping seven, six, five and four gods respectively, and each group contains ten to fifteen septs. A man cannot marry a woman of any sept which worships the same number of gods as himself. Each group has a sacred animal which the members revere, that of the seven-god worshippers being a porcupine, of the six-god worshippers a tiger, of the five-god worshippers the sāras crane, and of the four-god worshippers a tortoise. As a rule the members of the different groups do not know the names of their gods, and in practice it is doubtful whether they restrict themselves to the proper number of gods of their own group. Formerly there were three-, two- and one-god worshippers, but in each of these classes it is said that there were only one or two septs, and they found that they were much inconvenienced by the paucity of their numbers, perhaps for purposes of communal worship and feasting, and hence they got themselves enrolled in the larger groups. In reality it would appear that the classification according to the number of gods worshipped is being forgotten, and the three lowest groups have disappeared. This conjecture is borne out by the fact that in Chhindwāra and other localities only two large classes remain who worship six and seven gods respectively, and marry with each other, the union of a man with a woman worshipping the same number of gods as himself being prohibited. Here, again, the small septs included in the groups appear to serve no purpose for regulating marriages. In Mandla the division according to the number of gods worshipped exists as in Chānda; but many Gonds have forgotten all particulars as to the gods, and say only that those septs which worship the same number of gods are *bhaiband*, or related to each other, and therefore cannot intermarry. In Betūl the division by numbers of gods appears to be wholly in abeyance. Here certain large septs, especially the Uika and Dhurwa, are subdivided into a number of subsepts, within each of which marriage is prohibited.
 
-
-
-
-
 ### 13. Totemism.
-
-
 
 Many of the septs are named after animals and plants. Among the commonest septs in all Districts are Markām, the mango tree; Tekām, the teak tree; Netām, the dog; Irpāchi, the mahua tree; Tumrāchi, the tendu tree; Warkara, the wild cat, and so on. Generally the members of a sept do not kill or injure their totem animals, but the rule is not always observed, and in some cases they now have some other object of veneration, possibly because they have forgotten the meaning of the sept name, or the object after which it is named has ceased to be sacred. Thus the Markām sept, though named after the mango, now venerate the tortoise, and this is also the case with the Netām sept in Bastar, though named after the dog. In Bastar a man revering the tortoise, though he will not catch the animal himself, will get one of his friends to catch it, and one revering the goat, if he wishes to kill a goat for a feast, will kill it not at his own house but at a friend’s. The meaning of the important sept names Marābi, Dhurwa and Uika has not been ascertained, and the members of the sept do not know it. In Mandla the Marābi sept are divided into the Eti Marābi and Padi Marābi, named after the goat and pig. The Eti or goat Marābi will not touch a goat nor sacrifice one to Bura Deo. They say that once their ancestors stole a goat and were caught by the owner, when they put a basket over it and prayed Bura Deo to change it into a pig, which he did. Therefore they sacrifice only pigs to Bura Deo, but apparently the Padi Marābi also both sacrifice and eat pigs. The Dhurwa sept are divided into the Tumrāchi and Nābalia Dhurwa, named after the tendu tree and the dwarf date-palm. The Nābalia Dhurwas will not cut a dwarf date-palm nor eat its fruit. They worship Bura Deo in this tree instead of in the sāj tree, making an iron doll to represent him and covering it with palm-leaves. The Uika sept in Mandla say that they revere no animal or plant, and can eat any animal or cut down any plant except the *sāj* tree,21 the tree of Bura Deo; but in Betūl they are divided into several subsepts, each of which has a totem. The Parteti sept revere the crocodile. When a marriage is finished they make a sacrifice to the crocodile, and if they see one lying dead they break their earthen pots in token of mourning. The Warkara sept revere the wild cat; they also will not touch a village cat nor keep one in their house, and if a cat comes in they drive it out at once. The Kunjām sept revere the rat and do not kill it.
 
-
-
-
-
 ### 14. Connection of totemism with the gods.
-
-
 
 In Betūl the Gonds explain the totemistic names of their septs by saying that some incident connected with the animal, tree or other object occurred to the ancestor or priest of the sept while they were worshipping at the Deo-khulla or god’s place or threshing-floor. Mr. Ganga Prasād Khatri has made an interesting collection of these. The reason why these stories have been devised may be that the totem animals or plants have ceased to be revered on their own merits as ancestors or kinsmen of the sept, and it was therefore felt necessary to explain the sept name or sanctity attaching to the totem by associating it with the gods. If this were correct the process would be analogous to that by which an animal or plant is first held sacred of itself, and, when this feeling begins to decay with some recognition of its true nature, it is associated with an anthropomorphic god in order to preserve its sanctity. The following are some examples recorded by Mr. Ganga Prasād Khatri. Some of the examples are not associated with the gods.
 
@@ -1076,151 +972,63 @@ In Betūl the Gonds explain the totemistic names of their septs by saying that s
 
 *Paiyām.* *Paiya* is a heifer which has not borne a calf, such as is offered to the gods. Other Gonds say that the people of this sept have no gods. They are said not only to marry a girl from any other subsept of the Dhurwas and Uikas, but from their own sept and even their own sisters, though this is probably no longer true. They are held to be the lowest of the Gonds. Except in this instance, as already seen, the subsepts of the Dhurwa and Uika septs do not intermarry with each other. 
 
-
-
-
-
 ## \(*c*\) Marriage Customs
-
-
 
 ### 15. Prohibitions on intermarriage, and unions of relations.
 
-
-
 A man must not marry in his own sept, nor in one which worships the same number of gods, in localities where the classification of septs according to the number of gods worshipped obtains. Intermarriage between septs which are *bhaiband* or brothers to each other is also prohibited. The marriage of first cousins is considered especially suitable. Formerly, perhaps, the match between a brother’s daughter and sister’s son was most common; this is held to be a survival of the matriarchate, when a man’s sister’s son was his heir. But the reason has now been generally forgotten, and the union of a brother’s son to a sister’s daughter has also become customary, while, as girls are scarce and have to be paid for, it is the boy’s father who puts forward his claim. Thus in Mandla and Bastar a man thinks he has a right to his sister’s daughter for his son on the ground that his family has given a girl to her husband’s family, and therefore they should give one back. This match is known as *Dūdh lautāna* or bringing back the milk; and if the sister’s daughter marries any one else her maternal uncle sometimes claims what is known as ‘milk money,’ which may be a sum of Rs. 5, in compensation for the loss of the girl as a wife for his son. This custom has perhaps developed out of the former match in changed conditions of society, when the original relation between a brother and his sister’s son has been forgotten and girls have become valuable. But it is said that the *dūdh* or milk money is also payable if a brother refuses to give his daughter to his sister’s son. In Mandla a man claims his sister’s daughter for his son and sometimes even the daughter of a cousin, and considers that he has a legitimate grievance if the girl is married to somebody else. Frequently, if he has reason to apprehend this, he invites the girl to his house for some ceremony or festival, and there marries her to his son without the consent of her parents. As this usually constitutes the offence of kidnapping under the Penal Code, a crop of criminal cases results, but the procedure of arrest without warrant and the severe punishment imposed by the Code are somewhat unsuitable for a case of this kind, which, according to Gond ideas, is rather in the nature of a civil wrong, and a sufficient penalty would often be the payment of an adequate compensation or bride-price for the girl. The children of two sisters cannot, it is said, be married, and a man cannot marry his wife’s elder sister, any aunt or niece, nor his mother-in-law or her sister. But marriage is not prohibited between grandparents and grandchildren. If an old man marries a young wife and dies, his grandson will marry her if she is of proper age. In this there would be no blood-relationship, but it is doubtful whether even the existence of such relationship would prevent the match. It is said that even among Hindu castes the grandfather will flirt with his granddaughter, and call her his wife in jest, and the grandmother with her grandson. In Bastar a man can marry his daughter’s daughter or maternal grandfather’s or grandmother’s sister. He could not marry his son’s daughter or paternal grandfather’s sister, because they belong to the same sept as himself.
-
-
-
-
 
 ### 16. Irregular marriages.
 
-
-
 In the Māria country, if a girl is made pregnant by a man of the caste before marriage, she simply goes to his house and becomes his wife. This is called *Paithu* or entering. The man has to spend Rs. 2 or 3 on food for the caste and pay the price for the girl to her parents. If a girl has grown up and no match has been arranged for her to which she agrees, her parents will ask her maternal uncle’s or paternal aunt’s son to seize her and take her away. These two cousins have a kind of prescriptive claim to the girl, and apparently it makes no difference whether the prospective husband is already married or not. He and his friends lie in wait near her home and carry her off, and her parents afterwards proceed to his house to console their daughter and reconcile her to the match. Sometimes when a woman is about to become what is known as a Paisamundi or kept woman, without being married, the relations rub her and the man whose mistress she is with oil and turmeric, put marriage crowns of palm-leaves on their heads, pour water on them from the top of a post, and make them go seven times round a mahua branch, so that they may be considered to be married. When a couple are very poor they may simply go and live together without any wedding, and perform the ceremony afterwards when they have means, or they distribute little pieces of bread to the tribesmen in lieu of the marriage feast.
-
-
-
-
 
 ### 17. Marriage. Arrangement of matches.
 
-
-
 Marriage is generally adult. Among the wild Māria Gonds of Bastar the consent of the girl is considered an essential preliminary to the union. She gives it before a council of elders, and if necessary is allowed time to make up her mind. The boy must also agree to the match. Elsewhere matches are arranged by the parents, and a bride-price which amounts to a fairly substantial sum in comparison with the means of the parties is usually paid. But still the girls have a considerable amount of freedom. It is generally considered that if a girl goes of her own accord and pours turmeric and water over a man, it is a valid marriage and he can take her to live in his house. Married women also sometimes do this to another man if they wish to leave their husbands.
-
-
-
-
 
 ### 18. The marriage ceremony.
 
-
-
 The most distinctive feature of a Gond marriage is that the procession usually starts from the bride’s house and the wedding is held at that of the bridegroom, in contradistinction to the Hindu practice. It is supposed that this is a survival of the custom of marriage by capture, when the bride was carried off from her own house to the bridegroom’s, and any ceremony which was requisite was necessarily held at the house of the latter. But the Gonds say that since Dūlha Deo, the bridegroom god and one of the commonest village deities, was carried off by a tiger on his way to his wedding, it was decided that in future the bride must go to the bridegroom to be married in order to obviate the recurrence of such a calamity. Any risk incidental to the journey thus falls to the lady. Among the wilder Māria Gonds of Bastar the ritual is very simple. The bride’s party arrive at the bridegroom’s village and occupy some huts made ready for them. His father sends them provisions, including a pig and fowls, and the day passes in feasting. In the evening they go to the bridegroom’s house, and the night is spent in dancing by the couple and the young people of the village. Next morning the bride’s people go back again, and after another meal her parents bring her to the bridegroom’s house and push her inside, asking the boy’s father to take charge of her, and telling her that she now belongs to her husband’s family and must not come back to them alone. The girl cries a little for form’s sake and acquiesces, and the business is over, no proper marriage rite being apparently performed at all. Among the more civilised Mārias the couple are seated for the ceremony side by side under a green shed, and water is poured on them through the shed in imitation of the fertilising action of rain. Some elder of the village places his hands on them and the wedding is over. But Hindu customs are gradually being adopted, and the rubbing of powdered turmeric and water on the bodies of the bride and bridegroom is generally essential to a proper wedding. The following description is given of the Gonds of Kanker. On the day fixed for the marriage the pair, accompanied by the Dosi or caste priest, proceed to a river, in the bed of which two reeds five or six feet high are placed just so far apart that a man can lie down between them, and tied together with a thread at the top. The priest lies down between the reeds, and the bride and bridegroom jump seven times over his body. After the last jump they go a little way off, throw aside their wet clothes, and then run naked to a place where their dry clothes are kept; they put them on and go home without looking back. Among the Gonds in Khairāgarh the pair are placed in two pans of a balance and covered with blankets. The caste priest lifts up the bridegroom’s pan and her female relatives the bride’s, and walk round with them seven times, touching the marriage-post at each time. After this they are taken outside the village without being allowed to see each other. They are placed standing at a little distance with a screen between them, and liquor is spilt on the ground to make a line from one to the other. After a time the bridegroom lifts up the screen, rushes on the bride, gives her a blow on the back and puts the ring on her finger, at the same time making a noise in imitation of the cry of a goat. All the village then indulge in bacchanalian orgies, not sparing their own relations.
-
-
-
-
 
 ### 19. Wedding expenditure.
 
-
-
 In Bastar it is said that the expenses of a wedding vary from Rs. 5 to Rs. 20 for the bride’s family and from Rs. 10 to Rs. 50 for the bridegroom’s, according to their means.25 In a fairly well-to-do family the expenditure of the bridegroom’s family is listed as follows: liquor Rs. 20, rice Rs. 12, salt Rs. 2, two goats Rs. 2, chillies Rs. 2, *ghī* Rs. 4, turmeric Rs. 2, oil Rs. 3, three cloths for the bride Rs. 8, two sheets and a loin-cloth for her relatives Rs. 5, payment to the Kumhār for earthen pots Rs. 5, the bride-price Rs. 10, present to the bride’s maternal uncle when she is not married to his son Rs. 2, and something for the drummers. The total of this is Rs. 76, and any expenditure on ornaments which the family can afford may be added. In wealthier localities the bride-price is Rs. 15 to 20 or more. Sometimes if the girl has been married and dies before the bride-price has been paid, her father will not allow her body to be buried until it is paid. The sum expended on a wedding probably represents the whole income of the family for at least six months, and often for a considerably longer period. In Chānda26 the bride’s party on arrival at the bridegroom’s village receive the *Bara jawa* or marriage greeting, every one present being served with a little rice-water, an onion and a piece of tobacco. At the wedding the bridegroom has a ring either of gold, silver or copper, lead not being permissible, and places this on the bride’s finger. Often the bride resists and the bridegroom has to force her fist open, or he plants his foot on hers in order to control her while he gets the ring on to her finger. Elsewhere the couple hold each other by the little fingers in walking round the marriage-post, and then each places an iron ring on the other’s little finger. The couple then tie strings, coloured yellow with turmeric, round each other’s right wrists. On the second day they are purified with water and put on new clothes. On the third day they go to worship the god, preceded by two men who carry a chicken in a basket. This chicken is called the Dhendha or associate of the bridal couple, and corresponds to the child which in Hindu marriages is appointed as the associate of the bridegroom. Just before their arrival at the temple the village jester snatches away the chicken, and pretends to eat it. At the temple they worship the god, and deposit before him the strings coloured with turmeric which had been tied on their wrists. In Chhindwāra the bride is taken on a bullock to the bridegroom’s house. At the wedding four people hold out a blanket in which juāri, lemons and eggs are placed, and the couple walk round this seven times, as in the Hindu *bhānwar* ceremony. They then go inside the house, where a chicken is torn asunder and the blood sprinkled on their heads. At the same time the bride crushes a chicken under her foot. In Mandla the bride on entering the marriage-shed kills a chicken by cutting off its head either with an axe or a knife. Then all the gods of her house enter into her and she is possessed by them, and for each one she kills a chicken, cutting off its head in the same manner. The chickens are eaten by all the members of the bride’s party who have come with her, but none belonging to the bridegroom’s party may partake of them. Here the marriage-post is made of the wood of the mahua tree, round which a *toran* or string of mango leaves is twisted, and the couple walk seven times round this. In Wardha the bride and bridegroom stand on the heap of refuse behind the house and their heads are knocked together. In Bhandāra two spears are placed on the heap of refuse and their ends are tied together at the top with the entrails of a fowl. The bride and bridegroom have to stand under the spears while water is poured over them, and then run out. Before the bride starts the bridegroom must give her a blow on the back, and if he can do this before she runs out from the spears it is thought that the marriage will be lucky. The women of the bride’s and bridegroom’s party also stand one at each end of a rope and have a competition in singing. They sing against each other and see which can go on the longest. Brāhmans are not employed at a Gond wedding. The man who officiates is known as Dosi, and is the bridegroom’s brother-in-law, father’s sister’s husband or some similar relative. A woman relative of the bride helps her to perform her part and is known as Sawāsin. To the Dosi and Sawāsin the bride and bridegroom’s parties present an earthen vessel full of kodon. The donors mark the pots, take them home and sow them in their own fields, and then give the crop to the Dosi and Sawāsin.
-
-
-
-
 
 ### 20. Special customs.
 
-
-
 Some years ago in Bālāghāt the bride and bridegroom sat and ate food together out of two leaf-plates. When they had finished the bride took the leaf-plates, ran with them to the marriage-shed, and fixed them in the woodwork so that they did not fall down. The bridegroom ran after her, and if she did not put the plates away quickly, gave her one or two blows with his fist. This apparently was a symbolical training of the bride to be diligent and careful in her household work. Among the Rāj-Gonds of Saugor, if the bridegroom could not come himself he was accustomed to send his sword to represent him. The Sawāsin carried the sword seven times round the marriage-post with the bride and placed a garland on her on its behalf, and the bride put a garland over the sword. This was held to be a valid marriage. In a rich Rāj-Gond or Khatola Gond family two or three girls would be given with the bride, and they would accompany her and become the concubines of the bridegroom. Among the Māria Gonds of Chānda the wedded pair retire after the ceremony to a house allotted to them and spend the night together. Their relatives and friends before leaving shout and make merry round the house for a time, and throw all kinds of rubbish and dirt on it. In the morning the couple have to get up early and clear all this off, and clean up the house. A curious ceremony is reported from one part of Mandla. When a Gond girl is leaving to be married, her father places inside her litter a necklace of many strings of blue and yellow beads, with a number of cowries at the end, and an iron ring attached to it. On her arrival at the bridegroom’s house his father takes out the necklace and ring. Sometimes it is said that he simply passes a stone through the ring, but often he hangs it up in the centre of a room, and the bridegroom’s relatives throw stones at it until one of them goes through the ring, or they throw long bamboo sticks or shoot arrows at it, or even fire bullets from a gun. In a recent case it is said that a man was trying to fire a bullet through the ring and killed a girl. Until a stone, stick, arrow or bullet has been sent through the ring the marriage cannot take place, nor can the bridegroom or his father touch the bride, and they go on doing this all night until somebody succeeds. When the feat has been done they pour a bottle of liquor over the necklace and ring, and the bride’s relatives catch the liquor as it falls, and drink it. The girl wears the necklace at her wedding, and thereafter so long as her husband lives, and when he dies she tears the string to pieces and throws it into the river. The iron ring must be made by a Gondi Lohār or blacksmith, and he will not accept money in payment for it, but must be given a cow, calf, or buffalo. The symbolical meaning of this rite does not appear to require explanation.27 In many places the bride and bridegroom go and bathe in a river or tank on the day after the wedding, and throw mud and dirt over each other, or each throws the other down and rolls him or her in the mud. This is called Chikhal-Mundi or playing in the mud. Afterwards the bride has to wash the bridegroom’s muddy clothes, roll them up in a blanket, and carry them on her head to the house. A see-saw is then placed in the marriage-shed, and the bridegroom’s father sits on it. The bride makes the see-saw move up and down, while her relations joke with her and say, ‘Your child is crying.’ Elsewhere the bridegroom’s father sits in a swing. The bride and bridegroom swing him, and the bystanders exclaim that the old man is the child of the new bride. It seems possible that both customs are meant to portray the rocking of a baby in a cradle or swinging it in a swing, and hence it is thought that through performing them the bride will soon rock or swing a real baby.
-
-
-
-
 
 ### 21. Taking omens.
 
-
-
 In Bastar an omen is taken before the wedding. The village elders meet on an auspicious day as Monday, Thursday or Friday, and after midnight they cook and eat food, and go out into the forest. They look for a small black bird called Usi, from which omens are commonly taken. When anybody sees this bird, if it cries ‘*Sun, Sun*,’ on the right hand, it is thought that the marriage will be lucky. If, however, it cries ‘*Chi, Chi*’ or ‘*Fie, Fie*,’ the proposed match is held to be of evil omen, and is cancelled. The Koya Gonds of Bastar distil mahua liquor before arranging for a match. If the liquor is good they think the marriage will be lucky, and take the liquor with them to cement the betrothal; but if it is bad they think the marriage will be unlucky, and the proposal is dropped. Mondays, Wednesdays and Fridays are held to be lucky days for marriages, and they are celebrated in the hot-weather months of Baisākh, Jesth and Asār, or April, May and June, or in Pūs \(December\), and rarely in Māgh \(January\). A wedding is only held in Kārtik \(October\) if the bride and bridegroom have already had sexual intercourse, and cannot take place in the rains.
-
-
-
-
 
 ### 22. Marriage by capture. Weeping and hiding.
 
-
-
 Survivals of the custom of marriage by capture are to be found in many localities. In Bastar the prospective bridegroom collects a party of his friends and lies in wait for the girl, and they catch her when she comes out and gets a little distance from her house. The girl cries out, and women of the village come and rescue her and beat the boys with sticks till they have crossed the boundary of the village. The boys neither resist nor retaliate on the women, but simply make off with the girl. When they get home a new cloth is given to her, and the boys have a carouse on rice-beer, and the marriage is considered to be complete. The parents do not interfere, but as a rule the affair is prearranged between the girl and her suitor, and if she really objects to the match they let her go. A similar procedure occurs in Chānda. Other customs which seem to preserve the idea that marriage was once a forcible abduction are those of the bride weeping and hiding, which are found in most Districts. In Bālāghāt the bride and one or two friends go round to the houses of the village and to other villages, all of them crying, and receive presents from their friends. In Wardha the bride is expected to cry continuously for a day and a night before the wedding, to show her unwillingness to leave her family. In Kanker it is said that before marriage the bride is taught to weep in different notes, so that when that part of the ceremony arrives in which weeping is required, she may have the proper note at her command. In Chhindwāra the bridegroom’s party go and fetch the bride for the wedding, and on the night before her departure she hides herself in some house in the village. The bridegroom’s brother and other men seek all through the village for her, and when they find her she runs and clings to the post of the house. The bridegroom’s brother carries her off by force, and she is taken on a bullock to the bridegroom’s house. In Seoni the girl hides in the same manner, and calls out ‘Coo, coo,’ when they are looking for her. After she is found, the bridegroom’s brother carries her round on his back to the houses of his friends in the village, and she weeps at each house. When the bride’s party arrive at the bridegroom’s village the latter’s party meet them and stop them from proceeding further. After waving sticks against each other in a threatening manner they fall on each other’s necks and weep. Then two spears are planted to make an arch before the door, and the bridegroom pushes the bride through these from behind, hitting her to make her go through, while she hangs back and feigns reluctance. In Mandla the bride sometimes rides to the wedding on the shoulders of her sister’s husband, and it is supposed that she never gets down all the way.
-
-
-
-
 
 ### 23. Serving for a wife.
 
-
-
 The practice of Lamsena, or serving for a wife, is commonly adopted by boys who cannot afford to buy one. The bridegroom serves his prospective father-in-law for an agreed period, usually three to five or even six years, and at its expiry he should be married to the girl without expense. During this time he is not supposed to have access to the girl, but frequently they become intimate, and if this happens the boy may either stay and serve his unexpired term or take his wife away at once; in the latter case his parents should pay the girl’s father Rs. 5 for each year of the bridegroom’s unexpired service. The Lamsena custom does not work well as a rule, since the girl’s parents can break their contract, and the Lamsena has no means of redress. Sometimes if they are offered a good bride-price they will marry the girl to another suitor when he has served the greater part of his term, and all his work goes for nothing.
-
-
-
-
 
 ### 24. Widow remarriage.
 
-
-
 The remarriage of widows is freely permitted. As a rule it is considered suitable that she should marry her deceased husband’s younger brother, but she may not marry his elder brother, and in the south of Bastar and Chānda the union with the younger brother is also prohibited. In Mandla, if she will not wed the younger brother, on the eleventh day after the husband’s death he puts the *tarkhi* or palm-leaf earrings in her ears, and states that if she marries anybody else he will claim *dawa-bunda* or compensation. Similarly in Bastar, if an outsider marries the widow, he first goes through a joint ceremony with the younger brother, by which the latter relinquishes his right in favour of the former. The widow must not marry any man whom she could not have taken as her first husband. After her husband’s death she resides with her parents, and a price is usually paid to them by any outsider who wishes to marry her. In Bastar there is a fixed sum of Rs. 24, half of which goes to the first husband’s family and half to the caste *panchāyat*. The payment to the *panchāyat* perhaps comes down from the period when widows were considered the property of the state or the king, and sold by auction for the benefit of the treasury. It is said that the descendants of the Gond Rājas of Chānda still receive a fee of Rs. 1–8 from every Gond widow who is remarried in the territories over which their jurisdiction extended. In Bastar when a widow marries again she has to be transferred from the gods of her first husband’s sept to those of her second husband. For this two leaf-cups are filled with water and mahua liquor respectively, and placed with a knife between them. The liquor and water are each poured three times from one cup to the other and back until they are thoroughly mixed, and the mixture is then poured over the heads of the widow and her second husband. This symbolises her transfer to the god of the new sept. In parts of Bastar when a man has been killed by a tiger and his widow marries again, she goes through the ceremony not with her new husband but with a lance, axe or sword, or with a dog. It is thought that the tiger into which her first husband’s spirit has entered will try to kill her second husband, but owing to the precaution taken he will either simply carry off the dog or will himself get killed by an axe, sword or lance. In most localities the ceremony of widow-marriage is simple. Turmeric is rubbed on the bodies of the couple and they may exchange a pair of rings or their clothes. 
-
-
-
-
 
 ### 25. Divorce.
 
-
-
 Divorce is freely allowed on various grounds, as for adultery on the wife’s part, a quarrelsome disposition, carelessness in the management of household affairs, or if a woman’s children continue to die, or she is suspected of being a witch. Divorce is, however, very rare, for in order to get a fresh wife the man would have to pay for another wedding, which few Gonds can afford, and he would also have difficulty in getting a girl to marry him. Therefore he will often overlook even adultery, though a wife’s adultery not infrequently leads to murder among the Gonds. In order to divorce his wife the husband sends for a few castemen, takes a piece of straw, spits on it, breaks it in two and throws it away, saying that he has renounced all further connection with his wife. If a woman is suspected of being a witch she often has to leave the village and go to some place where she is not known, and in that case her husband must either divorce her or go with her. There is no regular procedure for a wife divorcing her husband, but she can, if sufficiently young and attractive, take matters into her own hands, and simply leave her husband’s house and go and live with some one else. In such a case the man who takes her has to repay to the husband the sum expended by the latter on his marriage, and the *panchāyat* may even decree that he should pay double the amount. When a man divorces his wife he has no liability for her maintenance, and often takes back any ornaments he may have given her. And a man who marries a divorced woman may be expected to pay her husband the expenses of his marriage. Instances are known of a bride disappearing even during the wedding, if she dislikes her partner; and Mr. Lampard of the Baihir Mission states that one night a Gond wedding party came to his house and asked for the loan of a lantern to look for the bride who had vanished.
-
-
-
-
 
 ### 26. Polygamy.
 
-
-
 Polygamy is freely allowed, and the few Gonds who can afford the expense are fond of taking a number of wives. Wives are very useful for cultivation as they work better than hired servants, and to have several wives is a sign of wealth and dignity. A man who has a number of wives will take them all to the bazār in a body to display his importance. A Gond who had seven wives in Bālāghāt was accustomed always to take them to the bazār like this, walking in a line behind him.
-
-
-
-
 
 ## \(*d*\) Birth and Pregnancy
 
-
-
 ### 27. Menstruation.
-
-
 
 In parts of Mandla the first appearance of the signs of puberty in a girl is an important occasion. She stays apart for four days, and during this time she ties up one of her body-cloths to a beam in the house in the shape of a cradle, and swings it for a quarter or half an hour every day in the name of Jhulān Devi, the cradle goddess. On the fifth day she goes and bathes, and the Baiga priest and his wife go with her. She gives the Baiga a hen and five eggs and a bottle of wine, and he offers them to Jhulān Devi at her shrine. To the Baigan she gives a hen and ten eggs and a bottle of liquor, and the Baigan tattoos the image of Jhulān Devi on each side of her body. A black hen with feathers spotted with white is usually chosen, as they say that this hen’s blood is of a darker colour and that she lays more eggs. All this ceremonial is clearly meant to induce fertility in the girl. The Gonds regard a woman as impure for as long as the menstrual period lasts, and during this time she cannot draw water nor cook food, nor go into a cowshed or touch cowdung. In the wilder Māria tracts there is, or was till lately, a building out of sight of the village to which women in this condition retired. Her relatives brought her food and deposited it outside the hut, and when they had gone away she came out and took it. It was considered that a great evil would befall any one who looked on the face of a woman during the period of this impurity. The Rāj-Gonds have the same rules as Hindus regarding the menstrual periods of women.28
 
-
-
-
-
 ### 28. Superstitions about pregnancy and childbirth.
-
-
 
 No special rites are observed during pregnancy, and the superstitions about women in this condition resemble those of the Hindus.29 A pregnant woman must not go near a horse or elephant, as they think that either of these animals would be excited by her condition and would assault her. In cases where labour is prolonged they give the woman water to drink from a swiftly flowing stream, or they take pieces of wood from a tree struck by lightning or by a thunder-bolt, and make a necklace of them and hang it round her neck. In these instances the swiftness of the running water, or of the lightning or thunder-bolt, is held to be communicated to the woman, and thus she will obtain a quick delivery. Or else they ask the Gunia or sorcerer to discover what ancestor will be reborn in the child, and when he has done this he calls on the ancestor to come and be born quickly. If a woman is childless they say that she should worship Bura Deo and fast continually, and then on the termination of her monthly impurity, after she has bathed, if she walks across the shadow of a man she will have a child. It is thus supposed that the woman can be made fertile by the man’s shadow, which will be the father of the child. Or she should go on a Sunday night naked to a *sāj* tree30 and pray to it, and she may have a child. The *sāj* is the tree in which Bura Deo resides, and was probably in the beginning itself the god. Hence it is supposed that the woman is impregnated by the spirit of the tree, as Hindu women think that they can be made fertile by the spirits of unmarried Brāhman boys living in pīpal trees. Or she may have recourse to the village priest, the Bhumka or the Baiga, who probably finds that her barren condition is the work of an evil spirit and propitiates him. If a woman dies in the condition of pregnancy they cut her belly open before burial, so that the spirit of the child may escape. If she dies during or soon after delivery they bury her in some remote jungle spot, from which her spirit will find it difficult to return to the village. The spirit of such a woman is supposed to become a Churel and to entice men, and especially drunken men, to injury by causing them to fall into rivers or get shut up in hollow trees. The only way they can escape her is to offer her the ornaments which a married woman wears. Her enmity to men is due to the fact that she was cut off when she had just had the supreme happiness of bearing a child, and the present of these ornaments appeases her. The spirit of a woman whose engagement for marriage has been broken off, or who has deserted her husband’s house for another man’s, is also supposed to become a Churel. If an abortion occurs, or a child is born dead or dies very shortly after birth, they put the body in an earthen pot, and bury it under the heap of refuse behind the house. They say that this is done to protect the body from the witches, who if they get hold of it will raise the child’s spirit, and make it a Bir or familiar spirit. Witches have special power over the spirits of such children, and can make them enter the body of an owl, a cat, a dog, or a headless man, and in this form cause any injury which the witch may desire to inflict on a human being. The real reason for burying the bodies of such children close to the house is probably, however, the belief that they will thus be born again in the same family. If the woman is fat and well during pregnancy they think a girl will be born, but if she is ailing and thin, that the child will be a boy. If the nipples of her breasts are of a reddish colour they think the birth of a boy is portended, but if of blackish colour, a girl. When a birth occurs another woman carefully observes the knots or protuberances on the navel-cord. It is supposed that the number of them indicates the further number of children which will be born to the mother. A blackish knot inclining downwards portends a boy, and a reddish one inclining upwards a girl. It is supposed that an intelligent midwife can change the order of these knots, and if a woman has only borne girl-children can arrange that the next one shall be a boy.
 
@@ -1937,7 +1745,7 @@ The primary occupation of the Gonds in former times was hunting and fishing, but
 
 
 
-* * *
+___________________
 
 1 The country of Gondwāna properly included the Satpūra plateau and a section of the Nāgpur plain and Nerbudda valley to the south and west.
 

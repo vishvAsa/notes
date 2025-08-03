@@ -3,18 +3,13 @@ title = "Sanaurhia"
 
 +++
 
-
 ## 01. A band of criminals
 
 **Sanaurhia, Chandravedi.**1—A small but well-known community of criminals in Bundelkhand. They claim to be derived from the Sanādhya Brāhmans, and it seems possible that this may in fact have been their origin; but at present they are a confraternity recruited by the initiation of promising boys from all castes except sweepers and Chamārs;2 and a census taken of them in northern India in 1872 showed that they included members of the following castes: Brāhman, Rājpūt, Teli, Kurmi, Ahīr, Kanjar, Nai, Dhobi, Dhīmar, Sunār and Lodhi. It is said, however, that they do not form a caste or intermarry, members of each caste continuing their relations with their own community. Their regular method of stealing is through the agency of a boy, and no doubt they pick up a likely urchin whenever they get the chance, as only selected boys would be clever enough for the work. Their trade is said to possess much fascination, and Mr. Crooke quotes a saying, ‘Once a Sanaurhia always a Sanaurhia’; so that unless the increased efficiency of the police has caused the dangers of their calling to outweigh its pleasures they should have no difficulty in obtaining recruits. 
 
-
-
 ## 02. Traditions of origin
 
 Mr. Seagrim3 states that their home is in the Datia State of Bundelkhand, and some of them live in the adjoining Alamgarh tract of Indore State. Formerly they also resided in the Orchha and Chanderi States of Bundelkhand, having six or eight villages in each state4 in their sole occupation, with colonies in other villages. In 1857 it was estimated that the Tehri State contained 4000 Sanaurhias, Bānpur 300 and Datia 300. They occupied twelve villages in Tehri, and an officer of the state presided over the community and acted as umpire in the division of the spoils. The office of Mukhia or leader was hereditary in the caste, and in default of male issue descended to females. If among the booty there happened to be any object of peculiar elegance or value, it was ceremoniously presented to the chief of the state. They say that their ancestors were two Sanādhya Brāhmans of the village of Rāmra in Datia State. They were both highly accomplished men, and one had the gift of prophecy, while the other could understand the language of birds. One day they met at a river a rich merchant and his wife, who were on a pilgrimage to Jagannāth. As they were drinking water a crow sitting on a tree commenced cawing, and the Sanādhya heard him say that whoever got hold of the merchant’s walking-stick would be rich. The two Brāhmans then accompanied the merchant until they obtained an opportunity of making off with his stick; and they found it to be full of gold mohurs, the traveller having adopted this device as a precaution against being robbed. The Brāhmans were so pleased at their success that they took up stealing as a profession, and opened a school where they taught small boys of all castes the art of stealing property in the daytime. Prior to admission the boys were made to swear by the moon that they would never commit theft at night, and on this account they are known as Chandravedi or ‘Those who observe the moon.’ In Bombay and Central India this name is more commonly used than Sanaurhia. Another name for them is Uthaigīra or ‘A picker-up of that which has fallen,’ corresponding to the nickname of Uchla or ‘Lifter’ applied to the Bhāmtas. Mr. Seagrim described them as going about in small gangs of ten to twenty persons without women, under a leader who has the title of Mukhia or Nālband. The other men are called Upardār, and each of these has with him one or two boys of between eight and twelve years old, who are known as *Chauwa* \(chicks\) and do the actual stealing. The Nālband or leader trains these boys to their work, and also teaches them a code vocabulary \(*Pārsi*\) and a set of signals \(*teni*\) by which the Upardār can convey to them his instructions while business is proceeding. The whole gang set out at the end of the rains and, arriving at some distant place, break up into small parties; the Nālband remains at a temporary headquarters, where he receives and disposes of the spoil, and arranges for the defence of any member of the gang who is arrested, and for the support of his wife and children if he is condemned to imprisonment. 
-
-
 
 ## 03. Methods of stealing
 
@@ -22,9 +17,7 @@ The methods of the Sanaurhias as described by Mr. Seagrim show considerable inge
 
 “I have to state that from former times these people following their profession have resided in my territory and in the states of other native princes; and they have always followed this calling, but no former kings or princes or authority have ever forbidden the practice. In consequence of these people stealing by day only, and that they do not take life or distress any person by personal ill-usage, and that they do not break into houses by digging walls or breaking door-locks, but simply by their smartness manage to abstract property; owing to such trifling thefts I looked upon their proceedings as a petty matter and have not interfered with them.”7 This recalls another famous excuse. 
 
-
-
-* * *
+___________________
 
 1 This article is based principally on an account of the Sanaurhias written by Mr. C.M. Seagrim, Inspector-General of Police, Indore, and included in Mr. Kennedy’s *Criminal Classes of Bombay* \(1908\). 
 
@@ -39,6 +32,4 @@ The methods of the Sanaurhias as described by Mr. Seagrim show considerable inge
 6 *Report on the Badhak or Bāgri Dacoits* \(1849\), p. 328. 
 
 7 J. Hutton, *A Popular Account of the Thugs and Dacoits and Gang-robbers of India* \(London, 1857\). 
-
-
 

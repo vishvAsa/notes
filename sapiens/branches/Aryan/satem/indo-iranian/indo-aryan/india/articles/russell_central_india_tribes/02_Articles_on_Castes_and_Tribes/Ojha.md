@@ -13,14 +13,11 @@ They will take food from the hands of all except the most impure castes, and wil
 
 The Maithil or Tirhūt Brāhmans who are especially learned in Tāntric magic are also sometimes known as Ojha, and a family bearing this title were formerly in the service of the Gond kings of Mandla. They do not now admit that they acted as augurs or soothsayers, but state that their business was to pray continuously for the king’s success when he was engaged in any battle, and to sit outside the rooms of sick persons repeating the sacred Gāyatri verse for their recovery. This is often repeated ten times, counting by a special method on the joints of the fingers and is then known as *Jap*. When it is repeated a larger number of times, as 54 or 108, a rosary is used. 
 
-
-* * *
+___________________
 
 1 *Papers relating to the Aboriginal Tribes of the C.P.*, p. 6. 
 
 2 Note by Mr. Tawney as Deputy Commissioner of Chhindwāra, quoted in *Central Provinces Census Report* of 1881 \(Mr. Drysdale\). 
 
 3 Sir C.A. Elliott’s *Hoshangābād Settlement Report*, p. 70. 
-
-
 

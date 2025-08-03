@@ -7,8 +7,7 @@ title = "Māng-Garori"
 
 The following are some particulars taken from an old account of the criminal Māngs;6 Their leader or headman was called the *nāik* and was elected by a majority of votes, though considerable regard was paid to heredity. The *nāik’s* person and property were alike inviolable; after a successful foray each of the gang contributed a quarter of his share to the *nāik*, and from the fund thus made up were defrayed the expenses of preparation, religious offerings and the triumphal feast. A pair of shoes were usually given to a Brāhman and alms to the poor. To each band was attached an informer, who was also receiver of the stolen goods. These persons were usually bangle- or perfume-sellers or jewellers. In this capacity they were admitted into the women’s apartments and so enabled to form a correct notion of the topography of a house and a shrewd guess as to the wealth of its inmates. Like all barbarous tribes and all persons addicted to criminal practices the Māngs were extremely superstitious. They never set out on an expedition on a Friday. After the birth of a child the mother and another woman stood on opposite sides of the cradle, and the former tossed her child to the other, commending it to the mercy of Jai Gopāl, and waited to receive it back in like manner in the name of Jai Govind. Both Gopāl and Govind are names of Krishna, The Māngs usually married young in life. If a girl happened to hang heavy on hand she was married at the age of puberty to the deity. In other words, she was attached as a prostitute to the temple of the god Khandoba or the goddess Yellama. Those belonging to the service of the latter were wont in the month of February to parade the streets in a state of utter nudity. When a bachelor wished to marry a widow he was first united to a swallow-wort plant, and this was immediately dug up and transplanted, and withering away left him at liberty to marry the widow. If a lady survived the sorrow caused by the death of two or three husbands she could not again enter the holy state unless she consented to be married with a fowl under her armpit; the unfortunate bird being afterwards killed to appease the manes of her former consorts. 
 
-
-* * *
+___________________
 
 1 From a note by Mr. Hīra Lāl. 
 
@@ -21,6 +20,4 @@ The following are some particulars taken from an old account of the criminal Mā
 5 This passage is quoted by Mr. Gayer from the Supplement to the Central Provinces Police Gazette of 24th January 1905. 
 
 6 Hutton’s *Thugs, Dacoits and Gang-robbers of India* \(1857\), pp. 164–168, quoting an account by Captain Barr. 
-
-
 

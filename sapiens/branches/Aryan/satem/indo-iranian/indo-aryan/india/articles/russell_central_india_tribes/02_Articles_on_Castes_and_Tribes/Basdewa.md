@@ -7,14 +7,11 @@ title = "Basdewa"
 
 The Harbolas have each a beat of a certain number of villages which must not be infringed by the others. Their method is to ascertain the name of some well-to-do person in the village. This done, they climb a tree in the early morning before sunrise, and continue chanting his praises in a loud voice until he is sufficiently flattered by their eulogies or wearied by their importunity to throw down a present of a few pice under the tree, which the Harbola, descending, appropriates. The Basdewas of the northern Districts are now commonly engaged in the trade of buying and selling buffaloes. They take the young male calves from Saugor and Damoh to Chhattīsgarh, and there retail them at a profit for rice cultivation, driving them in large herds along the road. For the capital which they have to borrow to make their purchases, they are charged very high rates of interest. The Basdewas have here a special veneration for the buffalo as the animal from which they make their livelihood, and they object strongly to the calves being taken to be tied out as baits for tiger, refusing, it is said, to accept payment if the calf should be killed. Their social status is not high, and none but the lowest castes will take food from their hands. They eat flesh and drink liquor, but abstain from pork, fowls and beef. Some of the caste have given up animal food. 
 
-
-* * *
+___________________
 
 1 This article is compiled from papers by Mr. W. N. Maw, Deputy Commissioner, Damoh, and Murlīdhar, Munsiff of Khurai in Saugor. 
 
 2 *Bombay Gazetteer*, xvii. p. 108. 
 
 3 About 100 lbs. 
-
-
 

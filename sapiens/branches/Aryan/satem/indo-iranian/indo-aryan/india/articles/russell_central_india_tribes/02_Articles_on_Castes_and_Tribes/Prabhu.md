@@ -3,18 +3,11 @@ title = "Prabhu"
 
 +++
 
-
 ## 01. Historical notice
 
 **Prabhu, Parbhu.**—The Marātha caste of clerks, accountants and patwāris corresponding to the Kāyasths. They numbered about 1400 persons in the southern Districts of the Central Provinces and Berār in 1911. The Prabhus, like the Kāyasths, claim to be descendants of a child of Chandra Sena, a Kshatriya king and himself a son of Arjun, one of the five Pāndava brothers. Chandra Sena was slain by Parasurāma, the Brāhman destroyer of the Kshatriyas, but the child was saved by a Rishi, who promised that he should be brought up as a clerk. The boy was named Somrāj and was married to the daughter of Chitra Gupta, the recorder of the dead. The caste thus claim Kshatriya origin. The name Prabhu signifies ‘lord,’ but the Brāhmans pretend that the real name of the caste was Parbhu, meaning one of irregular birth. The Prabhus say that Parbhu is a colloquial corruption used by the uneducated. The *gotras* of the Prabhus are eponymous, the names being the same as those of Brāhmans. In the Central Provinces many of them have the surname of Chitnavīs or Secretary. Child-marriage is in vogue and widow-remarriage is forbidden. The wedding ceremony resembles that of the Brāhmans. 
 
-
-
-
 Little girls playing
-
-
-
 
 In his *Description of a Prabhu marriage*1 Rai Bahādur B.A. Gupte shows how the old customs are being broken through among the educated classes under the influence of modern ideas. Marriages are no longer arranged without regard to the wishes of the couple, which are thus ascertained: “The next step2 is to find out the inclination of the hero of the tale. His friends and equals do that easily enough. They begin talking of the family and the girl, and are soon able to fathom his mind. They leave on his desk all the photographs of the girls offered and watch his movements. If he is sensible he quietly drops or returns all the likenesses except the one he prefers, and keeps this in his drawer. He dare not display it, for it is immodest to do so. The news of the approval by the boy soon reaches the parents of the girl.” Similarly in her case: “The girl has no direct voice, but her likes and dislikes are carefully fathomed through her girl friends. If she says, ‘Why is papa in such a hurry to get rid of me,’ or turns her face and goes away as soon as the proposed family is mentioned, a sensible father drops the case and turns his attention to some other boy. This is the direct result of higher education under British rule, but among the masses the girl has absolutely no voice, and the boy has very little unless he revolts and disobediently declines to accept a girl already selected.” Similarly the educated Prabhus are beginning to dispense with the astrologer’s calculations showing the agreement of the horoscopes of the couple, which are too often made a cloak for the extortion of large presents. “It very often happens that everything is amicably settled except the greed of the priest, and he manages to find out some disagreement between the horoscopes of the marriageable parties to vent his anger. This trick has been sufficiently exposed, and the educated portion of this ultra-literary caste have in most cases discarded horoscopes and planetary conjunctions altogether. Under these restrictions the only thing the council of astrologers have to do is to draw up two documents giving diagrams based on the names of the parties—for names are presumably selected according to the conjunctions of the stars at birth. But they are often not, and depend on the liking of the father for a family god, a mythological hero, a patron or a celebrated ancestor in the case of the boy. In that of the girl the favourite deity or a character in the most recent fable or drama the father has just read.” 
 
@@ -35,7 +28,7 @@ The Prabhus wear the sacred thread. In Bombay boys receive it a short time befor
 
 
 
-* * *
+___________________
 
 1 Pamphlet published in connection with the Ethnographic Survey. 
 

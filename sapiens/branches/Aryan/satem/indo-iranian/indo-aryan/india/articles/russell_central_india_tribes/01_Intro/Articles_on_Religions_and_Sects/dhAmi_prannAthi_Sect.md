@@ -7,14 +7,11 @@ title = "Dhāmi, Prannāthi Sect"
 
 There is also a branch of the sect in Gujarāt, where the founder is known as Meherāj Thākur. He appears to have been identical with Prannāth, and instituted a local headquarters at Surat.2 It is related by Mr. Bhimbhai Kirpārām that Meherāj Thākur was himself the disciple of one Deo Chand, a native of Amarkot in Sind. The latter was devoted to the study of the Bhāgwat Purān, and came to Jāmnagar in Kāthiāwār, where he founded a temple to Rādha and Krishna. As there is a temple at Panna consecrated to Deo Chand as the Guru or preceptor of Prannāth, and as the book of the faith is written in Gujarāti, the above account would appear to be correct, and it follows that the sect originated in the worship of Krishna, and was refined by Prannāth into a purer form of faith. A number of Cutchis in Surat are adherents of the sect, and usually visit the temple at Panna on the full-moon day of Kārtik \(October\). Curiously enough the sect has also found a home in Nepāl, having been preached there, it is said, by missionary Dhāmis in the time of Rāja Rām Bahādur Shāh of Nepāl, about 150 years ago. Its members there are known as Pranāmi or Parnāmi, a corruption of Prannāthi and they often come to Panna to study the sacred book. It is reported that there are usually about forty Nepālis lodging in the premises of the great temple at Panna.3 
 
-
-* * *
+___________________
 
 1 Captain C.E. Luard, in *Central India Census Report* \(1901\), p. 88. 
 
 2 *Bombay Gazetteer, Hindus of Gujarāt* \(Mr. Bhimbhai Kirpārām\), p. 545. 
 
 3 This information was kindly furnished by the Diwān of Panna, through the Political Agent at Bundelkhand. 
-
-
 

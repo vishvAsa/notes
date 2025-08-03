@@ -5,7 +5,6 @@ title = "Glossary of Minor Castes and Other Articles, Synonyms, Subcastes, Title
 
 *Note*.—In this Glossary the references under each heading are to the detailed articles on castes, religions and sects, in Part I. and Part II. of the work. The synonyms, subcastes and titles have been taken from the main articles and are arranged here in index form as an aid to identification. Section or clan names, however, will not usually be found in the main articles. They have been selected from an alphabetical list prepared separately, and are included as being of some interest, in addition to those contained in the articles. The Glossary also serves the purpose of indicating how subcaste and clan names are common to several castes and tribes. 
 
-
 *Abhimanchkul*.—A section of Komti in Chānda. They abstain from using a preparation of lead which is generally ground to powder and applied to wounds. 
 
 *Abhīra*.—An immigrant nomad tribe from which the modern Ahīr caste is believed to have originated. A division of Marātha and Gujarāti Brāhmans, so called because they are priests of the Abhīras or the modern Ahīrs. 
@@ -198,13 +197,7 @@ The Arabs who have been long resident here have adopted the ways and manners of 
 
 **Bahrūpia**.—A small class of mendicant actors and quick-change artists. They are recruited from all classes of the population, and though a distinct caste of Bahrūpias appears to exist, people of various castes also call themselves Bahrūpia when they take to this occupation. In Berār the Mahār, Māng and Marātha divisions of the Bahrūpias are the most common:7 the former two begging only from the castes from which they take their name. In Gujarāt they appear to be principally Muhammadans. Sir D. Ibbetson says of them:8 “The name is derived from the Sanskrit *bahu*, many, and *rūpa*, form, and denotes an actor, a mimic or one who assumes many forms or characters. One of their favourite devices is to ask for money, and when it is refused to ask that it may be given if the Bahrūpia succeeds in deceiving the person who refused it. Some days later the Bahrūpia will again visit the house in the disguise of a pedlar, a milkman or what not, sell his goods without being detected, throw off his disguise and claim the stipulated reward.” In Gujarāt “they are ventriloquists and actors with a special skill of dressing one side of their face like a man and the other side like a woman, and moving their head about so sharply that they seem to be two persons.”9 Mr. Kitts states that “the men are by profession story-tellers and mimics, imitating the voices of men and the notes of animals; their male children are also trained to dance. In payment for their entertainment they are frequently content with cast-off clothes, which will of course be of use to them in assuming other characters.”10 Occasionally also they dress up in European clothes and can successfully assume the character of a Eurasian. 
 
-
-
-
 Bahrūpia impersonating the goddess Kāli
-
-
-
 
 *Baid*.—\(Physician.\) A surname of Sanadhia and Marātha Brāhmans in Saugor. A section of Oswāl Bania, and Darzi. 
 
@@ -2184,10 +2177,6 @@ The number of girls in the caste is usually insufficient, and hence they are mar
 
 **Mādgi**, **Mādiga**.56—The Telugu caste of workers in leather corresponding to the Chamārs, which numbers nearly 1½ millions in Madras, Mysore and Hyderābād. In 1911 there were nearly 6000 Mādgis in the Central Provinces and 3000 in Berār. According to tradition, the Mādigas derive their name from that of a sage called Mātanga Muni, and it is said that a dynasty belonging to the caste once ruled in the Canarese country. The following legend of their origin comes from Mysore:57 In former times the sage Jāmbava Rishi was habitually late in attending at Siva’s court. Siva asked him why this happened, and he replied that he was occupied in tending his children. On this Siva took pity on him and gave him the sacred cow, Kāmdhenu, from which all the needs of the children could be satisfied. But one day while Jāmbava was absent at Siva’s court, another sage, Sānkhya, visited his hermitage and was hospitably entertained by his son, Yugamuni. The cream which Sānkhya was given was so good that he desired to kill the cow, Kāmdhenu, thinking that her flesh would taste even better. In spite of Yugamuni’s objections Sānkhya killed the cow and distributed the meat to various persons. While this was in progress Jāmbava returned, and, on hearing what had been done, dragged Sānkhya and Yugamuni before Siva’s judgment seat. The two offenders did not enter the court but stood outside the doorway, Sānkhya on the right side and Yugamuni on the left. Siva condemned them to become Chandālas or outcastes, and the descendants of Sānkhya have become the right-hand Holias, while those of Yugamuni and his wife Mātangi are the left-hand caste of Mādigas. The latter were set to make shoes to expiate the sin committed by their ancestor in killing a cow. Another story given in the Central Provinces is that the Golla caste of cowherds, corresponding to the Ahīrs and the Mādgis, are the descendants of two brothers. The brothers had a large herd of cattle and wanted to divide them. At this time, however, cattle disease was prevalent, and many of the herd were affected. The younger brother did not know of this, and seeing that most of the herd were lying on the ground, he proposed to the elder brother that he himself should take all the cattle lying on the ground, and the elder brother all those which were standing up, as a suitable method of division. The elder brother agreed, but when the younger came to take his cattle which were on the ground he found that they were all dead, and hence he had no alternative but to take off the hides and cure and sell them. His descendants continued his degraded profession and became the Mādgi caste. In Chānda the following six subcastes of Mādgis are reported: The Nulka Chandriah or caste priests; the Anapa or leather dealers; the Sindhi who are supposed to have been performers of dramas; the Masti or dancers; the Kommu or tellers of stories; and the Dekkala or genealogists of the caste. It is said that Kommu really means a horn and Dekka a hoof. These last two are the lowest subdivisions, and occupy a most degraded position. In theory they should not sleep on cots, pluck the leaves of trees, carry loads on any animal other than a donkey, or even cook food for themselves, but should obtain their subsistence by eating the leavings of other Mādgis or members of different castes. The Nulka Chandriah or priests are the highest subdivision and will not take food or water from any of the others, while the four remaining subcastes eat and drink together, but do not intermarry. There are also a number of exogamous groups, most of which have territorial names; but a few are titular or totemistic, as—Mukkidi, noseless; Kumawār, a potter; Nagarwār, a citizen; Dobbulwār, one who possesses a *dobbulu* or copper coin; Ippawār, from the mahua tree; Itkalwār from *itkal* a brick, and so on. The caste customs of the Mādigas need not be recorded in detail. They are an impure caste and eat all kinds of food, and the leavings of others, though the higher subdivisions refuse to accept these. They live outside the village, and their touch is considered to convey pollution. 
 
-
-
-
-
 *Madhavachārya*.—A Vishnuite sect and order of religious mendicants. See Baīrāgi. 
 
 *Madhyanjan, Madhyandina*.—A class of Brāhmans, the same as the Yajur-Vedis, or a section of them. 
@@ -3184,13 +3173,7 @@ The following short account of them by Colonel Dalton may be reproduced for refe
 
 “The position of the Saonts is altogether very curious, and though they now speak no language but a rude Hindi, the evidence is, on the whole, favourable to their being a remnant of the ancient Kol aborigines of Sargūja, cut off from connection with those people by successive inroads of other races or tribes. Their substitution of a Hindi dialect for their own language seems to indicate that they were first subjugated by Aryans. The Gond chiefs only count about twenty-four generations in Sargūja, and they have all adopted the Hindi language.” 
 
-
-
-
 Dāsari religious mendicant with discus and conch-shell of Vishnu
-
-
-
 
 *Sanyāsi*.—\(A religious recluse.\) Synonym for Gosain. 
 
@@ -3686,11 +3669,7 @@ It is recorded that the medicine called Silājit, a nervine tonic for the genera
 
 *Yojna*.—Subcaste of Komti. 
 
-
-
-
-
-* * *
+___________________
 
 1 Irvine, *Army of the Mughals*, p. 198. 
 
@@ -3897,9 +3876,4 @@ It is recorded that the medicine called Silājit, a nervine tonic for the genera
 102 *Tribes and Castes of Bengal, s.v.*
 
 103 *Madras Census Report* \(1891\), p. 243. 
-
-
-
-
-
 

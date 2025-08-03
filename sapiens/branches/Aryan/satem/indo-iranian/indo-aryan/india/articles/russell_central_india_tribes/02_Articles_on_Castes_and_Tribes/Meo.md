@@ -11,12 +11,9 @@ In another description of them by Major Powlett it is stated that, besides worsh
 
 Meos do not marry in their *pāl* or clan, but they are lax about forming connections with women of other castes, whose children they receive into the community. As already stated, Brāhmans take part in the formalities preceding a marriage, but the ceremony itself is performed by a Kāzi. As agriculturists Meos are inferior to their Hindu neighbours. The point in which they chiefly fail is in working their wells, for which they lack patience. Their women, whom they do not confine, will, it is said, do more field-work than the men; indeed, one often finds women at work in the crops when the men are lying down. Like the women of low Hindu castes they tattoo their bodies, a practice disapproved by Musalmāns in general. Abul Fazl writes that the Meos were in his time famous runners, and one thousand of them were employed by Akbar as carriers of the post. 
 
-
-* * *
+___________________
 
 1 *Rājputāna Gazetteer*, vol. i. p. 165. 
 
 2 A Muhammadan form of marriage. 
-
-
 

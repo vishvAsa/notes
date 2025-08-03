@@ -9,12 +9,9 @@ title = "Brāhman, Utkal"
 
 This vivid statement of the objections to the habit of pilgrimage from a Brāhman writer is very interesting. Since the opening of the railway to Puri the danger and expense as well as the period of absence have been greatly reduced; but the pilgrimages are still responsible for a large mortality, as cholera frequently breaks out among the vast assembly at the temple, and the pilgrims, hastily returning to all parts of India, carry the disease with them, and cause epidemics in many localities. All castes now eat the rice cooked at the temple of Jagannāth together without defilement, and friendships are cemented by eating a little of this rice together as a sacred bond. 
 
-
-* * *
+___________________
 
 1 Stirling’s description of Orissa in *As. Res*. vol. xv. p. 199, quoted in *Hindu Castes and Sects*. 
 
 2 *Hindu Castes and Sects*, p. 63. 
-
-
 

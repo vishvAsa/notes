@@ -7,10 +7,7 @@ title = "Chauhān"
 
 The goddess Dūrga or Devi is chiefly revered by the caste, who observe fasts in her honour in the months of Kunwār \(September\) and Chait \(March\). When they make a *badna* or vow, they usually offer goats to the goddess, and sow the *Jawaras* or Gardens of Adonis in her name, but except on such occasions they present less costly articles, as cocoanuts, betel-leaves, areca-nuts and flowers. On the Dasahra festival they worship the *lāthi* or stick which is the badge of office of the village watchman. They were formerly addicted to petty theft, and it is said that they worshipped the *khunta* or pointed rod for digging through the wall of a house. The caste usually burn the dead, but children whose ears or noses have not been pierced are buried. Children who die before they have begun to eat grain are not mourned at all, while for older children the period of mourning is three to seven days, and for adults ten days. On the tenth day they clean their houses, shave themselves and offer balls of rice to the dead under the direction of a Brāhman, to whom they present eating and drinking vessels, clothes, shoes and cattle with the belief that the articles will thus become available for the use of the dead man in the other world. The Chauhāns will not eat fowls, pork or beef, and in some places they abstain from drinking liquor. 
 
-
-* * *
+___________________
 
 1 This article is based principally on notes taken by Mr. Hīra Lāl at Bhatgaon. 
-
-
 

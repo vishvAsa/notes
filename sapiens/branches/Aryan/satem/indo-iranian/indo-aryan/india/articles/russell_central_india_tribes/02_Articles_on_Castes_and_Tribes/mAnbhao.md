@@ -3,7 +3,6 @@ title = "Mānbhao"
 
 +++
 
-
 ## 01. History and nature of the sect
 
 **Mānbhao**.1—A religious sect or order, which has now become a caste, belonging to the Marātha Districts of the Central Provinces and to Berār. Their total strength in India in 1911 was 10,000 persons, of whom the Central Provinces and Berār contained 4000. The name would appear to have some such meaning as ‘The reverend brothers.’ The Mānbhaos are stated to be a Vaishnavite order founded in Berār some two centuries ago.2 They themselves say that their order is a thousand years old and that it was founded by one Arjun Bhat, who lived at Domegaon, near Ahmadnagar. He was a great Sanskrit scholar and a devotee of Krishna, and preached his doctrines to all except the Impure castes. Ridhpur, in Berār, is the present headquarters of the order, and contains a monastery and three temples, dedicated to Krishna and Dattātreya,3 the only deities recognised by the Mānbhaos. Each temple is named after a village, and is presided over by a Mahant elected from the celibate Mānbhaos. There are other Mahants, also known after the names of villages or towns in which the monasteries over which they preside are located. Among these are Sheone, from the village near Chāndur in Amraoti District; Akulne, a village near Ahmadnagar; Lāsorkar, from Lāsor, near Aurangābād; Mehkarkar, from Mehkar in Buldāna; and others. The order thus belongs to Berār and the adjoining parts of India. Colonel Mackenzie describes Ridhpur as follows: “The name is said to be derived from *ridh*, meaning blood, a Rākshas or demon having been killed there by Parasurāma, and it owes its sanctity to the fact that the god lived there. Black stones innumerable scattered about the town show where the god’s footsteps became visible. At Ridhpur Krishna is represented by an ever-open, sleeplessly watching eye, and some Mānbhaos carry about a small black stone disk with an eye painted on it as an amulet.” Frequently their shrines contain no images, but are simply *chabutras* or platforms built over the place where Krishna or Dattātreya left marks of their footprints. Over the platform is a small veranda, which the Mānbhaos kiss, calling upon the name of the god. Sukli, in Bhandāra, is also a headquarters of the caste, and contains many Mānbhao tombs. Here they burn camphor in honour of Dattātreya and make offerings of cocoanuts. They make pilgrimages to the different shrines at the full moons of Chait \(March\) and Kārtik \(October\). They pay reverence to no deities except Krishna and Dattātreya, and observe the festivals of Gokul Ashtami in August and Datta-Jayantri in December. They consider the month of Aghan \(November\) as holy, because Krishna called it so in the Bhāgavat-Gīta. This is their sacred book, and they reject the other Hindu scriptures. Their conception of Krishna is based on his description of himself to Arjun in the Bhāgavat-Gīta as follows: “‘Behold things wonderful, never seen before, behold in this my body the whole world, animate and inanimate. But as thou art unable to see with these thy natural eyes, I will give thee a heavenly eye, with which behold my divine connection.’ 
@@ -12,19 +11,13 @@ title = "Mānbhao"
 
 Again: “He my servant is dear to me who is free from enmity, the friend of all nature, merciful, exempt from all pride and selfishness, the same in pain and in pleasure, patient of wrong, contented, constantly devout, of subdued passions and firm resolves, and whose mind and understanding are fixed on me alone.” 
 
-
-
 ## 02. Divisions of the order
 
 The Mānbhaos are now divided into three classes: the Brahmachāri; the Gharbāri; and the Bhope. The Brahmachāri are the ascetic members of the sect who subsist by begging and devote their lives to meditation, prayer and spiritual instruction. The Gharbāri are those who, while leading a mendicant life, wearing the distinctive black dress of the order and having their heads shaved, are permitted to get married with the permission of their Mahant or *guru*. The ceremony is performed in strict privacy inside a temple. A man sometimes signifies his choice of a spouse by putting his *jholi* or beggar’s wallet upon hers; if she lets it remain there, the betrothal is complete. A woman may show her preference for a man by bringing a pair of garlands and placing one on his head and the other on that of the image of Krishna. The marriage is celebrated according to the custom of the Kunbis, but without feasting or music. Widows are permitted to marry again. Married women do not wear bangles nor toe-rings nor the customary necklace of beads; they put on no jewellery, and have no *choli* or bodice. The Bhope or Bhoall, the third division of the caste, are wholly secular and wear no distinctive dress, except sometimes a black head-cloth. They may engage in any occupation that pleases them, and sometimes act as servants in the temples of the caste. In Berār they are divided into thirteen *bas* or orders, named after the disciples of Arjun Bhat, who founded the various shrines. The Mānbhaos are recruited by initiation of both men and women from any except the impure castes. Young children who have been vowed by their parents to a religious life or are left without relations, are taken into the order. Women usually join it either as children or late in life. The celibate members, male or female, live separately in companies like monks and nuns. They do not travel together, and hold services in their temples at different times. A woman admitted into the order is henceforward the disciple of the woman who initiated her by whispering the *guru mantra* or sacred verse into her ear. She addresses her preceptress as mother and the other women as sisters. The Mānbhaos are intelligent and generally literate, and they lead a simple and pure life. They are respectable and are respected by the people, and a *guru* or spiritual teacher is often taken from them in place of a Brāhman or Gosain. They often act as priests or *gurus* to the Mahārs, for whom Brāhmans will not perform these services. Their honesty and humility are proverbial among the Kunbis, and are in pleasing contrast to the character of many of the Hindu mendicant orders. They consider it essential that all their converts should be able to read the Bhāgavat-Gīta or a commentary on it, and for this purpose teach them to read and write during the rainy season when they are assembled at one of their monasteries. 
 
-
-
 ## 03. Religious observances and customs
 
 One of the leading tenets of the Mānbhaos is a respect for all forms of animal and even vegetable life, much on a par with that of the Jains. They strain water through a cloth before drinking it, and then delicately wipe the cloth to preserve any insects that may be upon it. They should not drink water in, and hence cannot reside in, any village where animal sacrifices are offered to a deity. They will not cut down a tree nor break off a branch, or even a blade of grass, nor pluck a fruit or an ear of corn. Some, it is said, will not even bathe in tanks for fear of destroying insect-life. For this reason also they readily accept cooked food as alms, so that they may avoid the risk of the destruction of life involved in cooking. The Mānbhaos dislike the din and noise of towns, and live generally in secluded places, coming into the towns only to beg. Except in the rains they wander about from place to place. They beg in the morning, and then return home and, after bathing and taking their food, read their religious books. They must always worship Krishna before taking food, and for this purpose when travelling they carry an image of the deity about with them. They will take food and water from the higher castes, but they must not do so from persons of low caste on pain of temporary excommunication. They neither smoke nor chew tobacco. Both men and women shave the head clean, and men also the face. This is first done on initiation by the village barber. But the *sendhi* or scalp-lock and moustaches of the novice must be cut off by his *guru*, this being the special mark of his renunciation of the world. The scalp-locks of the various candidates are preserved until a sufficient quantity of hair has been collected, when ropes are made of it, which they fasten round their loins. This may be because Hindus attach a special efficacy to the scalp-lock, perhaps as being the seat of a man’s strength or power. The nuns also shave their heads, and generally eschew every kind of personal adornment. Both monks and nuns usually dress in black or ashen-grey clothes as a mark of humility, though some have discarded black in favour of the usual Hindu mendicant colour of red ochre. The black colour is in keeping with the complexion of Krishna, their chief god. They dye their cloths with lamp-black mixed with a little water and oil. They usually sleep on the ground, with the exception of those who are Mahants, and they sometimes have no metal vessels, but use bags made of strong cloth for holding food and water. Men’s names have the suffix *Boa*, as Datto Boa, Kesho Boa, while those of boys end in *da*, as Manoda, Raojīda, and those of women in *Bai*, as Gopa Bai, Som Bai. The dead are buried, not in the common burial-grounds, but in some waste place. The corpse is laid on its side, facing the east, with head to the north and feet to the south. A piece of silk or other valuable cloth is placed on it, on which salt is sprinkled, and the earth is then filled in and the ground levelled so as to leave no trace of the grave. No memorial is erected over a Mānbhao tomb, and no mourning nor ceremony of purification is observed, nor are oblations offered to the spirits of the dead. If the dead man leaves any property, it is expended on feeding the brotherhood for ten days; and if not, the Mahant of his order usually does this in his name. 
-
-
 
 ## 04. Hostility between Mānbhaos and Brāhmans
 
@@ -36,21 +29,15 @@ Captain Mackintosh also relates that “About A.D. 1780, a Brāhman named Anand 
 
 This story endeavours to explain a superstition still observed by the caste. This is that when a Mānbhao is proceeding along a road, if any one draws a line across the road with a stick in front of him the Mānbhao will wait without passing the line until some one else comes up and crosses it before him. In reality this is probably a primitive superstition similar to that which makes a man stop when a snake has crossed the road in front of him and efface its track before proceeding. It is said that the members of the order also carry their sticks upside down, and a saying is repeated about them: 
 
-
-
 Mānbhao hokar kāle kapre dārhi mūchi mundhāta hai, 
 
 Ulti lakri hāth men pakri woh kya Sāhib milta hai;
-
-
 
 or, “The Mānbhao wears black clothes, shaves his face and holds his stick upside down, and thinks he will find God that way.” 
 
 This saying is attributed to Kabīr. 
 
-
-
-* * *
+___________________
 
 1 This article is compiled from notes on the caste drawn up by Colonel Mackenzie and contributed to the *Pioneer* newspaper by Mrs. Horsburgh; Captain Mackintosh’s *Account of the Manbhaos* \(India Office Tracts\); and a paper by Pyāre Lāl Misra, Ethnographic clerk. 
 
@@ -59,6 +46,4 @@ This saying is attributed to Kabīr.
 3 Dattātreya was a celebrated Sivite devotee who has been deified as an incarnation of Siva. 
 
 4 *Berār Census Report* \(1881\), p. 62. 
-
-
 

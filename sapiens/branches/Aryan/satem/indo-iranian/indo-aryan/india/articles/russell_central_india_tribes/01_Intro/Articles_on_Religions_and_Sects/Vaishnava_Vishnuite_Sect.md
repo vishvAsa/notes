@@ -3,14 +3,11 @@ title = "Vaishnava, Vishnuite Sect"
 
 +++
 
-
 ## 01. Vishnu as representing the sun.
 
 **Vaishnava, Vishnuite Sect**.—The name given to Hindus whose special deity is the god Vishnu, and to a number of sects which have adopted various special doctrines based on the worship of Vishnu or of one of his two great incarnations, Rāma and Krishna. Vishnu was a personification of the sun, though in ancient literature the sun is more often referred to under another name, as Savitri, Surya and Aditya. It may perhaps be the case that when the original sun-god develops into a supreme deity with the whole heavens as his sphere, the sun itself comes to be regarded as a separate and minor deity. His weapon of the *chakra* or discus, which was probably meant to resemble the sun, supports the view of Vishnu as a sun-god, and also his *vāhan*, the bird Garūda, on which he rides. This is the Brāhminy kite, a fine bird with chestnut plumage and white head and breast, which has been considered a sea-eagle. Mr. Dewar states that it remains almost motionless at a great height in the air for long periods; and it is easy to understand how in these circumstances primitive people mistook it for the spirit of the sky, or the vehicle of the sun-god. It is propitious for a Hindu to see a Brāhminy kite, especially on Sunday, the sun’s day, for it is believed that the bird is then returning from Vishnu, whom it has gone to see on the previous evening.1 A similar belief has probably led to the veneration of the eagle in other countries and its association with the god of the sky or heavens, as in the case of Zeus. Similarly the Gayatri, the most sacred Hindu prayer, is addressed to the sun, and it could hardly have been considered so important unless the luminary was identified with one of the greatest Hindu gods. Every Brāhman prays to the sun daily when he bathes in the morning. Vishnu’s character as the preserver and fosterer of life is probably derived from the sun’s generative power, so conspicuous in India. 
 
 As the sun is seen to sink every night into the earth, so it was thought that he could come down to earth, and Vishnu has done this in many forms for the preservation of mankind. 
-
-
 
 ## 02. His incarnations.
 
@@ -36,14 +33,7 @@ He is generally considered to have had ten incarnations, of which nine are past 
 
 In his tenth incarnation he will come again as Nishka-lanki or the stainless one for the final regeneration of the world, and his advent is expected by some Hindus, who worship him in this form. 
 
-
-
-
 Image of Lakshmi, the Goddess of Wealth, the consort of Vishnu, with attendant
-
-
-
-
 
 ## 03. Worship of Vishnu and Vaishnava doctrines.
 
@@ -53,9 +43,7 @@ The principal Vishnuite sects are described in the article on Bairāgi, and the 
 
 Faithful worshippers of Vishnu will after his death be transported to his heaven, Vaikuntha, or to Golaka, the heaven of Krishna. The sect-mark of the Vaishnavas usually consists of three lines down the forehead, meeting at the root of the nose or below it. All three lines may be white, or the centre one black or red, and the outside ones white. They are made with a kind of clay called Gopichandan, and are sometimes held to be the impress of Vishnu’s foot. To put on the sect-mark in the morning is to secure the god’s favour and protection during the day. 
 
-
-
-* * *
+___________________
 
 1 *Bombay Ducks*, p. 194. 
 
@@ -64,6 +52,4 @@ Faithful worshippers of Vishnu will after his death be transported to his heaven
 3 See also article Ahīr. 
 
 4 Kabīrpanthi, Nānakpanthi, Dādupanthi, Swāmi-Nārāyan, etc. 
-
-
 

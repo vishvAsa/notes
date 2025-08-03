@@ -9,8 +9,7 @@ The large majority of the Oswāls are Jain by religion, but a few are Vaishnava 
 
 Though Jains the Oswāls perform their weddings by walking round the sacred fire and observe certain Hindu rites, including the worship of the god Ganpati.6 They also revere other Hindu deities and the sun and moon. The dead are burnt, but they do not observe any impurity after a death nor clean the house. On the day after the death the mourning family, both men and women, visit Parasnāth’s temple, and lay one seer \(2 lbs.\) of Indian millet before the god, bow to him and go home. They do not gather the ashes of the dead nor keep the yearly death-day. Their only observance is that on some day between the twelfth day after a death and the end of a year, the caste-people are treated to a dinner of sweetmeats and the dead ‘are then forgotten.’7 The Oswāls will take food cooked with water \(*katchi*\) only from Brāhmans, and that cooked without water \(*pakki*\) from Agarwāla and Maheshri Banias. In the Central Provinces the principal deity of the Oswāls is the Jain Tirthakār Parasnāth, and they spend large sums in the erection of splendid temples. The Oswāls are the most prominent trading caste in Rājputāna; and they have also frequently held high offices, such as Diwān or minister, and paymaster in Rājpūt States.8 
 
-
-* * *
+___________________
 
 1 A town near Jhalor in Mārwār, now called Bhinmāl. 
 
@@ -27,6 +26,4 @@ Though Jains the Oswāls perform their weddings by walking round the sacred fire
 7 *Ibidem.*
 
 8 Bhattachārya, *Hindu Castes and Sects*, p. 207. 
-
-
 

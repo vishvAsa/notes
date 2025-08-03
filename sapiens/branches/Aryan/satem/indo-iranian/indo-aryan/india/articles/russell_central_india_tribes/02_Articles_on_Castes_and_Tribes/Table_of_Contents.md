@@ -150,7 +150,6 @@ title = "Table of Contents"
 			+ 80. Patch cultivation. 140 
 			+ 81. Hunting: traps for animals. 141 
 
-
 	+ Gond-Gowāri 143 
 	+ Gondhali 144 
 	+ Gopāl 147 
@@ -659,12 +658,9 @@ title = "Table of Contents"
 		+ 8. Social rules and status. 588 
 		+ 9. Occupation. 588 
 
-
 **Title**: The Tribes and Castes of the Central Provinces of India, Volume 4
 
-
 **Author**: R. V. Russell
-
 
 **Release date**: February 25, 2007 \[eBook \#20668\]
 
@@ -675,22 +671,9 @@ Proofreading Team at http://www.pgdp.net/ \(This file was
 produced partly from images generously made available by  
 The Internet Archive/Million Book Project\)
 
-
-
-
 \*\*\* START OF THE PROJECT GUTENBERG EBOOK THE TRIBES AND CASTES OF THE CENTRAL PROVINCES OF INDIA, VOLUME 4 \*\*\* 
-
-
-
-
-
 
 Vol. IV.   
 Macmillan and Co., Limited St. Martin’s Street, London.   
 1916 
-
-
-
-
-
 

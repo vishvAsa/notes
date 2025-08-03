@@ -3,8 +3,6 @@ title = "Gauria"
 
 +++
 
-
-
 **Gauria.**1—A small caste of snake-charmers and jugglers who are an offshoot of the Gond tribe. They number about 500 persons and are found only in Chhattīsgarh. They have the same exogamous septs as the Gonds, as Markām, Marai, Netām, Chhedaiha, Jagat, Purteti, Chichura and others. But they are no doubt of very mixed origin, as is shown by the fact that they do not eat together at their feasts, but the guests all cook their own food and eat it separately. And after a daughter has been married her own family even will not take food from her hand because they are doubtful of her husband’s status. It is said that the Gaurias were accustomed formerly to beg only from the Kewat caste, though this restriction is no longer maintained. The fact may indicate that they are partly descended from the unions of Kewats with Gond women.
 
 Adult marriage is the general rule of the caste and a fixed bride-price of sixteen rupees is paid. The couple go away together at once and six months afterwards return to visit the bride’s parents, when they are treated as outsiders and not allowed to touch the food cooked for the family, while they reciprocally insist on preparing their own. Male Gaurias will take food from any of the higher castes, but the women will eat only from Gaurias. They will admit outsiders belonging to any caste from whom they can take food into the community. And if a Gauria woman goes wrong with a member of any of these castes they overlook the matter and inflict only a feast as a penalty. 
@@ -17,14 +15,9 @@ Similar meaningless charms are employed for curing the bites of scorpions and fo
 
 The Gaurias will eat almost all kinds of flesh, including pigs, rats, fowls and jackals, but they abstain from beef. Their social status is so low that practically no caste will take food or water from them, but they are not considered as impure. They are great drunkards, and are easily known by their *damrus* or rattles and the baskets in which they carry their snakes. 
 
-
-
-* * *
+___________________
 
 1 This article is based on papers by Mr. Jeorākhān Lāl, Deputy Inspector of Schools, Bilāspur, and Bhagwān Singh, Court of Wards Clerk, Bilāspur.
 
 2 The Celestial Physician.
-
-
-
 

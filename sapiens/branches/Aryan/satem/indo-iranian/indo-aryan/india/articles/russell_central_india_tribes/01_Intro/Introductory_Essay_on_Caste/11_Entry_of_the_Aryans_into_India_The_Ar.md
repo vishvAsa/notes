@@ -11,4 +11,3 @@ Another passage states: “If some pious king belonging to the Kshatriya or some
 
 The early sacrifice was in the nature of a communal sacred meal at which the worshippers partook of the animal or liquor offered to the god. The Dasyus or indigenous Indian races could not worship the Aryan gods nor join in the sacrifices offered to them, which constituted the act of worship. They were a hostile race, but the hostility was felt and expressed on religious rather than racial grounds, as the latter term is understood at present. 
 
-

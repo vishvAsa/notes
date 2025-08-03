@@ -22,8 +22,3 @@ gbn0404132117: Russel, R. V., The Tribes and Castes of the Central Provinces of 
 The following corrections have been applied to the text:
 Location Source Correction   Page 42 Bukekari Bukekāri   Page 191  \[*Not in source*\]  ”   Page 217  \[*Not in source*\]  ”   Page 256 Lakh Lākh   Page 399 , .   Page 440 ’ ”   Page 531  \[*Not in source*\]  .   Page 536  \[*Not in source*\]  .   
 
-
-
-
-
-

@@ -9,10 +9,7 @@ Formerly the above three subcastes were endogamous and married only among themse
 
 The Marātha Brāhmans are also divided into sects, according to the Veda which they follow. Most of them are either Rigvedis or Yajurvedis, and these two sects marry among themselves. These Brāhmans are strict in the observance of caste rules. They do not take water from any but other Brāhmans, and abstain from flesh and liquor. They will, however, eat with any of the Pānch-Drāvid or southern divisions of Brāhmans except those of Gujarāt. They usually abstain from smoking, and until recently have made widows shave their heads; but this rule is perhaps now relaxed. As a rule they are well educated, and the majority of them look to Government service for a career, either as clerks in the public offices or as officers of the executive and judicial services. They are intelligent and generally reliable workers. The full name of a Marātha or Gujarāti Brāhman consists of his own name, his father’s name and a surname. But he is commonly addressed by his own name, followed by the honorific termination Rao for Rāja, a king, or Pant for Pandit, a wise man. 
 
-
-* * *
+___________________
 
 1 *Bombay Gazetteer, Satāra*, p. 54. 
-
-
 

@@ -7,8 +7,7 @@ title = "Bania, Ajudhiabāsi"
 
 The Audhias are a well-known criminal tribe, whose headquarters is in the Fatehpur District. They say that they are Banias, and use the name Ajudhiabāsi in speaking of themselves, and from their customs and criminal methods it seems not unlikely that they may originally have been an offshoot from the Ajudhiabāsi Banias. They are now, however, perfectly distinct from this group, and any confusion between them would be very unjust to the latter. In northern India it is said that the Audhias deal largely in counterfeit coin and false jewellery, and never commit crimes of violence;1 but in Bombay they have taken to housebreaking, though they usually select an empty house.2 From their homes in the United Provinces they wander over Central India, the Central Provinces, Bengal and Bombay; they are said to avoid the Punjab and Sind owing to difficulties of working, and they have made it a caste offence to commit any crime in the Ganges-Jumna Doāb, probably because this is their home. It is said also that if any one of them is imprisoned he is put out of caste. They wander about disguised as religious mendicants, Brāhmans or Bairāgis. They carry their bedding tied on their back with a cloth, and a large bag slung over the shoulders which contains food, cooking-vessels and other articles. Sometimes they pretend to be Banias and hawk about sweets and groceries, or one of the gang opens a shop, which serves as a rendezvous and centre for collecting information.3 In the Districts where they reside they are perfectly well-behaved. They are well-to-do and to all appearance respectable in their habits. Their women are well-dressed with plenty of ornaments on their persons. They have no apparent means of support; they neither cultivate land nor trade; and all that appears on the surface is that most of the men and boys go off after the rains and return at the end of the cold weather. If asked how they support themselves they reply by begging. Their marriage rules are those of high-caste Hindus. They are divided into two classes, Unch or high and Nīch or low, the former being of pure blood, and the latter the descendants of kept women. These are practically endogamous. A man may not have more than two wives. If a girl is detected in immorality before marriage, she is permanently excommunicated, and a married woman can be turned out by her husband on proof of adultery. A bridegroom-price is usually paid, the father of the bride visiting the bridegroom and giving him the money in secret. The dead are burnt, and Brāhmans are duly fed. If a man has died through an accident or from cholera, smallpox, poison or leprosy, the corpse, if available, is at once consigned to the Ganges or other river, and during the course of the next twelve months a Mahābrāhman is paid to make an image of the deceased in gram-flour, which is cremated with the usual rites. As in the case of the Ajudhiabāsi Banias, the tribal deity of the Audhias is the goddess Devi.4 
 
-
-* * *
+___________________
 
 1 Mr. Crooke’s *Tribes and Castes*, art. Audhia. 
 
@@ -17,6 +16,4 @@ The Audhias are a well-known criminal tribe, whose headquarters is in the Fatehp
 3 Kennedy, *ibidem.*
 
 4 Mr. Crooke’s *Tribes and Castes*, art. Audhia. 
-
-
 

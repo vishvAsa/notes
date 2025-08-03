@@ -3,8 +3,6 @@ title = "KHOND1"
 
 +++
 
-
-
 \[The principal authorities on the Khonds are Sir H. Risley’s *Tribes and Castes of Bengal*, Major-General Campbell’s *Wild Tribes of Khondistān*, and Major MacPherson’s *Report on the Khonds of the Districts of Ganjām and Cuttack* \(Reprint, Madras Scottish United Press, 1863\). When the inquiries leading up to these volumes were undertaken, the Central Provinces contained a large body of the tribe, but the bulk of these have passed to Bihār and Orissa with the transfer of the Kālāhandi and Patna States and the Sambalpur District. Nevertheless, as information of interest had been collected, it has been thought desirable to reproduce it, and Sir James Frazer’s description of the human sacrifices formerly in vogue has been added. Much of the original information contained in this article was furnished by Mr. Panda Baijnāth, Extra Assistant Commissioner, when Dīwān of Patna State. Papers were also contributed by Rai Sāhib Dīnbandhu Patnāik, Dīwān of Sonpur, Mr. Miān Bhai, Extra Assistant Commissioner, Sambalpur, and Mr. Chāru Chandra Ghose, Deputy Inspector of Schools, Kālāhandi.\]
 
 ## List of Paragraphs
@@ -25,67 +23,29 @@ title = "KHOND1"
 + 14. Khond rising in 1882. 480 
 + 15. Language. 481 
 
-
-
 ## 01. Traditions of the tribe.
-
-
 
 **Khond**, **Kandh**.1—A Dravidian tribe found in the Uriya-speaking tract of the Sambalpur District and the adjoining Feudatory States of Patna and Kālāhandi, which up to 1905 were included in the Central Provinces, but now belong to Bihār and Orissa. The Province formerly contained 168,000 Khonds, but the number has been reduced to about 10,000, residing mainly in the Khariār zamīndāri to the south-east of the Raipur District and the Sārangarh State. The tract inhabited by the Khonds was known generally as the Kondhān. The tribe call themselves Kuiloka, or Kuienju, which may possibly be derived from *ko* or *kū*, a Telugu word for a mountain.2 Their own traditions as to their origin are of little historical value, but they were almost certainly at one time the rulers of the country in which they now reside. It was the custom until recently for the Rāja of Kālāhandi to sit on the lap of a Khond on his accession while he received the oaths of fealty. The man who held the Rāja was the eldest member of a particular family, residing in the village of Gugsai Patna, and had the title of Patnaji. The coronation of a new Rāja took place in this village, to which all the chiefs repaired. The Patnaji would be seated on a large rock, richly dressed, with a cloth over his knees on which the Rāja sat. The Dīwān or minister then tied the turban of state on the Rāja’s head, while all the other chiefs present held the ends of the cloth. The ceremony fell into abeyance when Raghu Kesari Deo was made Rāja on the deposition of his predecessor for misconduct, as the Patnaji refused to install a second Rāja, while one previously consecrated by him was still living. The Rāja was also accustomed to marry a Khond girl as one of his wives, though latterly he did not allow her to live in the palace. These customs have lately been abandoned; they may probably be interpreted as a recognition that the Rājas of Kālāhandi derived their rights from the Khonds. Many of the zamīndāri estates of Kālāhandi and Sonpur are still held by members of the tribe.
 
-
-
-
-
 ## 02. Tribal divisions.
-
-
 
 There is no strict endogamy within the Khond tribe. It has two main divisions: the Kutia Khonds who are hillmen and retain their primitive tribal customs, and the plain-dwelling Khonds who have acquired a tincture of Hinduism. The Kutia or hill Khonds are said to be so called because they break the skulls of animals when they kill them for food; the word *kutia* meaning one who breaks or smashes. The plain-dwelling Khonds have a number of subdivisions which are supposed to be endogamous, though the rule is not strictly observed. Among these the Rāj Khonds are the highest, and are usually landed proprietors. A man, however, is not considered to be a Rāj Khond unless he possesses some land, and if a Rāj Khond takes a bride from another group he descends to it. A similar rule applies among some of the other groups, a man being relegated to his wife’s division when he marries into one which is lower than his own. The Dal Khonds may probably have been soldiers, the word *dal* meaning an army. They are also known as Adi Kandh or the superior Khonds, and as Bālūsudia or ‘Shaven.’ At present they usually hold the honourable position of village priest, and have to a certain extent adopted Hindu usages, refusing to eat fowls or buffaloes, and offering the leaves of the *tulsi* \(basil\) to their deities. The Kandhanas are so called because they grow turmeric, which is considered rather a low thing to do, and the Pākhia because they eat the flesh of the *por* or buffalo. The Gauria are graziers, and the Nāgla or naked ones apparently take their name from their paucity of clothing. The Utār or Satbhuiyān are a degraded group, probably of illegitimate descent; for the other Khonds will take daughters from them, but will not give their daughters to them.
 
-
-
-
-
 ## 03. Exogamous septs.
-
-
 
 Traditionally the Khonds have thirty-two exogamous septs, but the number has now increased. All the members of one sept live in the same locality about some central village. Thus the Tūpa sept are collected round the village of Teplagarh in the Patna State, the Loa sept round Sindhekala, the Borga sept round Bangomunda, and so on. The names of the septs are derived either from the names of villages or from titles or nicknames. Each sept is further divided into a number of subsepts whose names are of a totemistic nature, being derived from animals, plants or natural objects. Instances of these are Bachhās calf, Chhatra umbrella, Hikoka horse, Kelka the kingfisher, Konjaka the monkey, Mandinga an earthen pot, and so on. It is a very curious fact that while the names of the septs appear to belong to the Khond language, those of the subsepts are all Uriya words, and this affords some ground for the supposition that they are more recent than the septs, an opinion to which Sir H. Risley inclines. On the other hand, the fact that the subsepts have totemistic names appears difficult of explanation under this hypothesis. Members of the subsept regard the animal or plant after which it is named as sacred. Those of the Kadam group will not stand under the tree of that name. Those of the Narsingha3 sept will not kill a tiger or eat the meat of any animal wounded or killed by this animal. The same subsept will be found in several different septs, and a man may not marry a woman belonging either to the same sept or subsept as his own. But kinship through females is disregarded, and he may take his maternal uncle’s daughter to wife, and in Kālāhandi is not debarred from wedding his mother’s sister.4
 
-
-
-
-
 ## 04. Marriage.
-
-
 
 Marriage is adult and a large price, varying from 12 to 20 head of cattle, was formerly demanded for the bride. This has now, however, been reduced in some localities to two or three animals and a rupee each in lieu of the others, or cattle may be entirely dispensed with and some grain given. If a man cannot afford to purchase a bride he may serve his father-in-law for seven years as the condition of obtaining her. A proposal for marriage is made by placing a brass cup and three arrows at the door of the girl’s father. He will remove these once to show his reluctance, and they will be again replaced. If he removes them a second time, it signifies his definite refusal of the match, but if he allows them to remain, the bridegroom’s friends go to him and say, ‘We have noticed a beautiful flower in passing through your village and desire to pluck it.’ The wedding procession goes from the bride’s to the bridegroom’s house as among the Gonds; this custom, as remarked by Mr. Bell, is not improbably a survival of marriage by capture, when the husband carried off his wife and married her at his own house. At the marriage the bride and bridegroom come out, each sitting on the shoulders of one of their relatives. The bridegroom pulls the bride to his side, when a piece of cloth is thrown over them, and they are tied together with a string of new yarn wound round them seven times. A cock is sacrificed, and the cheeks of the couple are singed with burnt bread. They pass the night in a veranda, and next day are taken to a tank, the bridegroom being armed with a bow and arrows. He shoots one through each of seven cowdung cakes, the bride after each shot washing his forehead and giving him a green twig for a tooth-brush and some sweets. This is symbolical of their future course of life, when the husband will procure food by hunting, while the wife will wait on him and prepare his food. Sexual intercourse before marriage between a man and girl of the tribe is condoned so long as they are not within the prohibited degrees of relationship, and in Kālāhandi such *liaisons* are a matter of ordinary occurrence. If a girl is seduced by one man and subsequently married to another, the first lover usually pays the husband a sum of seven to twelve rupees as compensation. In Sambalpur a girl may choose her own husband, and the couple commonly form an intimacy while engaged in agricultural work. Such unions are known as *Udhlia* or ‘Love in the fields.’ If the parents raise any objection to the match the couple elope and return as man and wife, when they have to give a feast to the caste, and if the girl was previously betrothed to another man the husband must pay him compensation. In the last case the union is called *Paisa moli* or marriage by purchase. A trace of fraternal polyandry survives in the custom by which the younger brothers are allowed access to the elder brother’s wife till the time of their own marriage. Widow-marriage and divorce are recognised.
 
-
-
-
-
 ## 05. Customs at birth.
-
-
 
 For one day after a child has been born the mother is allowed no food. On the sixth day she herself shaves the child’s head and bites his nails short with her teeth, after which she takes a bow and arrows and stands with the child facing successively to the four points of the compass. The idea of this is to make the child a skilful hunter when he grows up. Children are named in their fifth or sixth year. Names are sometimes given after some personal peculiarity, as Lammudia, long-headed, or Khanja, one having six fingers; or after some circumstance of the birth, as Ghosian, in compliment to the Ghasia \(grass-cutter\) woman who acts as midwife; Jugi, because some holy mendicant \(Yogi\) was halting in the village when the child was born; or a child may be named after the day of the week or month on which it was born. The tribe believe that the souls of the departed are born again as children, and boys have on occasion been named Majhiān Budhi or the old head-woman, whom they suppose to have been born again with a change of sex. Major Macpherson observed the same belief:5 “To determine the best name for the child, the priest drops grains of rice into a cup of water, naming with each grain a deceased ancestor. He pronounces, from the movements of the seed in the fluid, and from observations made on the person of the infant, which of his progenitors has reappeared in him, and the child generally, but not uniformly, receives the name of that ancestor.” When the children are named, they are made to ride a goat or a pig, as a mark of respect, it is said, to the ancestor who has been reborn in them. Names usually recur after the third generation.
 
-
-
-
-
 ## 06. Disposal of the dead.
 
-
-
 The dead are buried as a rule, but the practice of cremating the bodies of adults is increasing. When a body is buried a rupee or a copper coin is tied in the sheet, so that the deceased may not go penniless to the other world. Sometimes the dead man’s clothes and bows and arrows are buried with him. On the tenth day the soul is brought back. Outside the village, where two roads meet, rice is offered to a cock, and if it eats, this is a sign that the soul has come. The soul is then asked to ride on a bowstick covered with cloth, and is brought to the house and placed in a corner with those of other relatives. The souls are fed annually with rice on the harvest and Dasahra festivals. In Sambalpur a ball of powdered rice is placed under a tree with a lamp near it, and the first insect that settles on the ball is taken to be the soul, and is brought home and worshipped. The souls of infants who die before the umbilical cord has dropped are not brought back, because they are considered to have scarcely come into existence; and Sir E. Gait records that one of the causes of female infanticide was the belief that the souls of girl-children thus killed would not be born again, and hence the number of future female births would decrease. This belief partially conflicts with that of the change of sex on rebirth mentioned above; but the two might very well exist together. The souls of women who die during pregnancy or after a miscarriage, or during the monthly period of impurity are also not brought back, no doubt because they are held to be malignant spirits.
-
-
-
-
 
 ## 07. Occupation.
 
@@ -204,7 +164,7 @@ The Khond or Kandh language, called Kui by the Khonds themselves, is spoken by r
 
 
 
-* * *
+___________________
 
 1 Kandh is the Uriya spelling, and Kond or Khond that of the Telugus.
 

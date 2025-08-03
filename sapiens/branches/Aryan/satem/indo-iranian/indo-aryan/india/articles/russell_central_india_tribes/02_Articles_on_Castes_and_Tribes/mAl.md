@@ -15,12 +15,9 @@ title = "Māl"
 
 When the attention of English officers was first drawn to them in 1770 the Māles of the Rājmahal hills were a tribe of predatory freebooters, raiding and terrorising the plain country from the foot of the hills to the Ganges. It was Mr. Augustus Cleveland, Collector of Bhāgalpur, who reduced them to order by entering into engagements with the chiefs for the prevention and punishment of offences among their own tribesmen, confirming them in their estates and jurisdiction, and enrolling a corps of Māles, which became the Bhāgalpur Hill Rangers, and was not disbanded till the Mutiny. Mr. Cleveland died at the age of 29, having successfully demonstrated the correct method of dealing with the wild forest tribes, and the Governor-General in Council erected a tomb and inscription to his memory, which was the original of that described by Mr. Kipling in *The Tomb of his Ancestors*, though the character of the first John Chinn in the story was copied from Outram.2 
 
-
-* * *
+___________________
 
 1 Based entirely on Colonel Dalton’s account in the *Ethnology of Bengal*, and Sir H. Risley’s in the *Tribes and Castes of Bengal*. 
 
 2 See *The Khāndesh Bhīl Corps*, by Mr. A. H. A. Simcox, p. 62. 
-
-
 

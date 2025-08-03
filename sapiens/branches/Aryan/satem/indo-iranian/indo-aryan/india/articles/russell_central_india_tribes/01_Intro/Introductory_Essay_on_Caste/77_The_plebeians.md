@@ -9,4 +9,3 @@ This position corresponds exactly with that of the Sūdras and the existing impu
 
 M. de Coulanges considers that the plebeians were to a large extent made up of conquered and subjected peoples. An asylum was also established at Rome for broken men and outlaws from other cities, with a view to increasing the population and strength of the state. Subsequently the class of clients became absorbed among the plebeians. 
 
-

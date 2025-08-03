@@ -3,12 +3,9 @@ title = "Velama"
 
 +++
 
-
 ## 01. Origin and social status
 
 **Velama, Elama, Yelama.**—A Telugu cultivating caste found in large numbers in Vizagapatam and Ganjām, while in 1911 about 700 persons were returned from Chānda and other districts in the Central Provinces. The caste frequently also call themselves by the honorific titles of Naidu or Dora \(lord\). The Velamas are said formerly to have been one with the Kamma caste, but to have separated on the question of retaining the custom of *parda* or *gosha* which they had borrowed from the Muhammadans. The Kammas abandoned *parda*, and, signing a bond written on palm-leaf to this effect, obtained their name from *kamma*, a leaf. The Velamas retained the custom, but a further division has taken place on the subject, and one subcaste, called the Adi or original Velamas, do not seclude their women. The caste has at present a fairly high position, and several important Madras chiefs are Velamas, as well as the zamīndār of Sironcha in the Central Provinces. They appear, however, to have improved their status, and thus to have incurred the jealousy of their countrymen, as is evidenced by some derogatory sayings current about the caste. Thus the Balijas call them Gūni Sakalvāndlu or hunchbacked washermen, because some of them print chintz and carry their goods in a bundle on their backs.1 According to another derivation *gūna* is the large pot in which they dye their cloth. Another story is that the name of the caste is Velimāla, meaning those who are above or better than the Dhers, and was a title conferred on them by the Rāja of Bastar in recognition of the bravery displayed by the Velamas in his army. These stories are probably the outcome of the feeling of jealousy which attaches to castes which have raised themselves in the social scale. The customs of the Velamas do not indicate a very high standard of ceremonial observance, as they eat fowls and pork and drink liquor. They are said to take food from Bestas and Dhīmars, while Kunbis will take it from them. The men of the caste are tall and strong, of a comparatively fair complexion and of a bold and arrogant demeanour. It is said that a Velama will never do anything himself which a servant can do for him, and a story is told of one of them who was smoking when a spark fell on his moustache. He called his servant to remove it, but by the time the man came, his master’s moustache had been burnt away. These stories and the customs of the Velamas appear to indicate that they are a caste of comparatively low position, who have gone up in the world, and are therefore tenacious in asserting a social position which is not universally admitted. Their subcastes show that a considerable difference in standing exists in the different branches of the caste. Of these the Rācha or royal Velamas, to whom the chiefs and zamīndārs belong, are the highest. While others are the Gūna Velamas or those who use a dyer’s pot, the Eku or ‘Cotton-skein’ who are weavers and carders, and the Tellāku or white leaf Velamas, the significance of this last name not being known. It is probable that the Velamas were originally a branch of the great Kāpu or Reddi caste of cultivators, corresponding in the Telugu country to the Kurmis and Kunbis, as many of their section names are the same as those of the Kāpus. The Velamas apparently took up the trades of weaving and dyeing, and some of them engaged in military service and acquired property. These are now landowners and cultivators and breed cattle, while others dye and weave cloth. They will not engage themselves as hired labourers, and they do not allow their women to work in the fields. 
-
-
 
 ## 02. Marriage and social customs
 
@@ -16,7 +13,7 @@ The caste are said to have 77 exogamous groups descended from the 77 followers o
 
 
 
-* * *
+___________________
 
 1 *North Arcot Manual*, i. p. 216. 
 

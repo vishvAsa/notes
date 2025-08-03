@@ -9,4 +9,3 @@ Sir Herbert Risley classed the names of exogamous divisions as eponymous, territ
 
 Territorial names are very common, and are taken from that of some town or village in which the ancestor of the clan or the members of the clan themselves resided.90 The names are frequently distorted, and it seems probable that the majority of the large number of clan names for which no meaning can be discovered were those of villages. These unknown names are probably more numerous than the total of all those classes of names to which a meaning can be assigned. 
 
-

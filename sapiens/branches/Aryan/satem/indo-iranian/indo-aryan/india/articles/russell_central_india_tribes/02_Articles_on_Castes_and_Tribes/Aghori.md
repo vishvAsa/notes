@@ -3,20 +3,13 @@ title = "Aghori"
 
 +++
 
-
 ## 01. General accounts of the caste.
 
 **Aghori, Aghorpanthi.**1—The most disreputable class of Saiva mendicants who feed on human corpses and excrement, and in past times practised cannibalism. The sect is apparently an ancient one, a supposed reference to it being contained in the Sanskrit drama *Mālati Mādhava*, the hero of which rescues his mistress from being offered as a sacrifice by one named Aghori Ghanta.2 According to Lassen, quoted by Sir H. Risley, the Aghoris of the present day are closely connected with the Kapālika sect of the Middle Ages, who wore crowns and necklaces of skulls and offered human sacrifices to Chāmunda, a form of Devi. The Aghoris now represent their filthy habits as merely giving practical expression to the abstract doctrine that the whole universe is full of Brahma, and consequently that one thing is as pure as another. By eating the most horrible food they utterly subdue their natural appetites, and hence acquire great power over themselves and over the forces of nature. It is believed that an Aghori can at will assume the shapes of a bird, an animal or a fish, and that he can bring back to life a corpse of which he has eaten a part. The principal resort of the Aghoris appears to be at Benāres and at Girnar near Mount Abu, and they wander about the country as solitary mendicants. A few reside in Saugor, and they are occasionally met with in other places. They are much feared and disliked by the people owing to their practice of extorting alms by the threat to carry out their horrible practices before the eyes of their victims, and by throwing filth into their houses. Similarly they gash and cut their limbs so that the crime of blood may rest on those who refuse to give. “For the most part,” Mr. Barrow states,3 “the Aghorpanthis lead a wandering life, are without homes, and prefer to dwell in holes, clefts of rocks and burning-*ghāts*. They do not cook, but eat the fragments given them in charity as received, which they put as far as may be into the cavity of the skull used as a begging-bowl. The bodies of *chelas* \(disciples\) who die in Benāres are thrown into the Ganges, but the dead who die well off are placed in coffins. As a rule, Aghoris do not care what becomes of their bodies, but when buried they are placed in the grave sitting cross-legged. The Aghori *gurus* keep dogs, which may be of any colour, and are said to be maintained for purposes of protection. The dogs are not all pariahs of the streets, although some *gurus* are followed by three or four when on pilgrimage. Occasionally the dogs seem to be regarded with real affection by their strange masters. The Aghori is believed to hold converse with all the evil spirits frequenting the burning-*ghāts*, and funeral parties must be very badly off who refuse to pay him something. In former days he claimed five pieces of wood at each funeral in Benāres; but the Doms interfere with his perquisites, and in some cases only let him carry off the remains of the unburned wood from each pyre. When angered and excited, Aghoris invoke Kāli and threaten to spread devastation around them. Even among the educated classes, who should know better, they are dreaded, and as an instance of the terror which they create among the ignorant, it may be mentioned that in the Lucknow District it is believed that if alms are refused them the Aghoris will cause those who refuse to be attacked with fever. 
 
-
 Aghori mendicant.
 
-
-
-
 “On the other hand, their good offices may secure benefits, as in the case of a zamīndār of Muzaffarnagar, who at Allahābād refused to eat a piece of human flesh offered to him by an Aghori; the latter thereupon threw the flesh at the zamīndār’s head, on which it stuck. The zamīndār afterwards became so exceedingly wealthy that he had difficulty in storing his wealth.” 
-
-
 
 ## 02. Instances of cannibalism.
 
@@ -28,9 +21,7 @@ The following recent instance of an Aghori devouring human corpses is reported f
 
 Sir J. B. Fuller relates the following incident of the employment of an Aghori as a servant:6 “There are actually ten thousand persons who at census time classed themselves as Aghoris. All of them do not practise cannibalism and some of them attempt to rise in the world. One of them secured service as a cook with a British officer of my acquaintance. My friend was in camp in the jungle with his wife and children, when his other servants came to him in a body and refused to remain in service unless the cook was dismissed, since they had discovered, they declared, that during the night-time he visited cemeteries and dug up the bodies of freshly buried children. The cook was absent, but they pointed to a box of his that emitted a sickening smell. The man was incontinently expelled, but for long afterwards the family were haunted by reminiscences of the curries they had eaten.” 
 
-
-
-* * *
+___________________
 
 1 This article is mainly based on a paper on *Aghoris and Aghorpanthis*, by Mr. H. W. Barrow, in the *Journal Anthr. Soc. Bombay*, iii. p. 197. 
 
@@ -43,6 +34,4 @@ Sir J. B. Fuller relates the following incident of the employment of an Aghori a
 5 *The Tribune* \(Lahore\), November 29, 1898, quoted in Oman’s *Mystics, Ascetics and Saints of India*, pp. 164, 165. 
 
 6 *Studies of Indian Life and Sentiment*, p. 44. 
-
-
 

@@ -11,4 +11,3 @@ The Gonds and Khonds call themselves Koi or Koitur, a word which seems to mean m
 
 There seems good reason to suppose that the Gonds and Khonds were originally one tribe divided through migration.72 The Kolāms are a small tribe of the Wardha Valley, whose dialect resembles those of the Gonds and Khonds. They may have split off from the parent tribe in southern India and come northwards separately. The Parjas appear to represent the earliest Gond settlers in Bastar, who were subjugated by later Gond and Rāj-Gond immigrants. The Halbas and Bhatras are mixed tribes or tribal castes, descended from the unions of Gonds and Hindus. 
 
-

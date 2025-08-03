@@ -3,14 +3,11 @@ title = "Dhākar"
 
 +++
 
-
 ## 01. Origin and subdivisions.
 
 **Dhākar.**1—A small caste belonging solely to the Bastar State. In 1911 they numbered 5500 persons in Bastar, and it is noticeable that there were nearly twice as many women as men. The term Dhākar connotes a man of illegitimate descent and is applied to the Kirārs of the Central Provinces and perhaps to other castes of mixed Rājpūt origin. But in Bastar it is the special designation of a considerable class of persons who are the descendants of alliances between Brāhman and Rājpūt immigrants and women of the indigenous tribes. They are divided, like the Halbas, into two groups—Purāit or pure, and Surāit or mixed. The son of a Brāhman or Rājpūt father by a Rāwat \(herdsman\) or Halba mother is a Purāit, but one born from a woman of the Muria, Marār, Nai or Kalār castes is a Surāit. But these latter can become Purāits after two or three generations, and the same rule applies to the son of a Dhākar father by a Halba or Rāwat woman, who also ranks in the first place as a Surāit. Descendants of a Dhākar father by a Muria or other low-caste woman, however, always remain Surāits. The Purāits and Surāits form endogamous groups, and the latter will accept cooked food from the former. The more respectable Dhākars round Jagdalpur are now tending, however, to call themselves Rājpūts and refuse to admit any one of mixed birth into their community. 
 
 One legend of their origin is that the first Dhākar was the offspring of a Brāhman cook of the Rāja of Bastar with a Kosaria Rāwat woman; and though this is discredited by the Dhākars it is probably a fairly correct version of the facts. An inferior branch of the caste exists which is known as Chikrasār; it is related of them that their ancestors once went out hunting and set the forest on fire as a method of driving the game, as they occasionally do still. They came across the roasted body of a dog in the forest and ate it without knowing what animal it was. In the stomach, however, some cooked rice was found, and hence it was known as a dog and they were branded as dog-eaters. As a penalty the Rāja imposed on them the duty of thatching a hut for him at the Dasahra festival, which their descendants still perform. The other Dhākars refuse to marry or eat with them, and it is clear from the custom of thatching the Rāja’s hut that they are a primitive and jungly branch of the caste. 
-
-
 
 ## 02. Marriage.
 
@@ -30,7 +27,7 @@ The Dhākars are mainly engaged in cultivation as farmservants and labourers. Li
 
 
 
-* * *
+___________________
 
 1 This article is based entirely on a paper by Rai Bahādur Panda Baijnāth, Superintendent, Bastar State. 
 

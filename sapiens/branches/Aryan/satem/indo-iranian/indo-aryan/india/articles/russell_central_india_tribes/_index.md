@@ -5,13 +5,9 @@ title = "+Russell - central india tribes"
 
 The Project Gutenberg eBook of **The Tribes and Castes of the Central Provinces of India, Volume 1**
 
-
-
 **Title**: The Tribes and Castes of the Central Provinces of India, Volume 1
 
-
 **Author**: R. V. Russell
-
 
 **Release date**: February 15, 2007 \[eBook \#20583\]
 
@@ -20,14 +16,7 @@ The Project Gutenberg eBook of **The Tribes and Castes of the Central Provinces 
 **Credits**: Produced by Jeroen Hellingman and the Online Distributed  
 Proofreading Team at http://www.pgdp.net/
 
-
-
-
 \*\*\* START OF THE PROJECT GUTENBERG EBOOK THE TRIBES AND CASTES OF THE CENTRAL PROVINCES OF INDIA, VOLUME 1 \*\*\* 
-
-
-
-
 
 The Tribes and Castes of the Central Provinces of India
 
@@ -43,5 +32,4 @@ In Four Volumes
 Vol. I.   
 Macmillan and Co., Limited St. Martin’s Street, London.   
 1916 
-
 

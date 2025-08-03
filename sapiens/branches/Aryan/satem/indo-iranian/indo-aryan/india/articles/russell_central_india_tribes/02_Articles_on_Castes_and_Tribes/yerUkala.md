@@ -7,8 +7,7 @@ title = "Yerūkala"
 
 “The Yerūkalas marry when quite young. At the birth of a daughter the father of an unmarried little boy often brings a rupee and ties it in the cloth of the father of a newly-born girl. When the girl is grown up he can then claim her for his son.” 
 
-
-* * *
+___________________
 
 1 *Madras Census Report* \(1891\). 
 
@@ -22,12 +21,7 @@ title = "Yerūkala"
 
 6 *Ind. Ant.* vol. iii., 1874, p. 157. 
 
-
-
-
-
 The End 
 
 *Printed by* R. & R. Clark, Limited, *Edinburgh*. 
-
 

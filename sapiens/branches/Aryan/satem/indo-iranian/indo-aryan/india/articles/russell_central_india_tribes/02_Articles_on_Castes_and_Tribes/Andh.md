@@ -11,12 +11,9 @@ Marriage between members of the same sept is prohibited, and also between first 
 
 They have Marāthi names; and though only one name is given at birth, Mr. Slaney notes that this is frequently changed for some pet name, and as often as not a man goes regularly by some name other than his real one. 
 
-
-* * *
+___________________
 
 1 This article is mainly based on a paper by Mr. W. S. Slaney, E.A.C., Akola. 
 
 2 *Berār Census Report* \(1881\). 
-
-
 

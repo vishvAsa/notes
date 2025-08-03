@@ -7,4 +7,3 @@ The suggested conclusion from the above argument is that the main body of the Ar
 
 The original status of the Vaishya, or a full member of the Aryan community who could join in sacrifices and employ Brāhmans to perform them, was gradually transferred to the cultivating member of the village communities. In process of time, as land was the chief source of wealth, and was also regarded as sacred, the old status became attached to castes or groups of persons who obtained or held land irrespective of their origin, and these are what are now called the good cultivating castes. They have now practically the same status, though, as has been seen, they were originally of most diverse origin, including bands of robbers and freebooters, cattle-lifters, non-Aryan tribes, and sections of any castes which managed to get possession of an appreciable quantity of land. 
 
-

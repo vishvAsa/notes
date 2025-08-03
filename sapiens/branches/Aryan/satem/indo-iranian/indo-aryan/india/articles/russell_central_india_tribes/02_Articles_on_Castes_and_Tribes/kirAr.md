@@ -3,11 +3,7 @@ title = "Kirār"
 
 +++
 
-
-
 ## 01. Origin and traditions.
-
-
 
 **Kirār1 or Kirād.**—A cultivating caste found in the Narsinghpur, Hoshangābād, Betūl, Seoni, Chhindwāra and Nāgpur Districts. They numbered 48,000 persons in 1911. The Kirārs claim to be Dhākar or bastard Rājpūts, and in 1891 more than half of them returned themselves under this designation. About a thousand persons who were returned as Dhākar Rājpūts from Hoshangābād in 1901 are probably Kirārs. The caste say that they immigrated from Gwālior, and this statement seems to be correct, as about 66,000 of them are found in that State. They claim to have left Gwālior as early as Samvat 1525 or A.D. 1468, when Alru and Dalru, the leaders of the migration into the Central Provinces, abandoned their native village, Doderi Kheda in Gwālior, and settled in Chāndon, a village in the Sohāgpur tahsīl of Hoshangābād. But according to the story related to Mr. \(Sir Charles\) Elliott, the migration took place in A.D. 1650 or at the beginning of Aurāngzeb’s reign.2 He quotes the names of the leaders as Alrāwat and Dalrāwat, and says that the migration took place from the Dholpur country, but this is probably a mistake, as none of the caste are now found in Dholpur. Elliott stated that he could find no traces of any cultivating caste having settled in Hoshangābād as far back as Akbar’s time, though Sir W. Sleeman was of opinion that the first great migration into the Nerbudda valley took place in that reign. The truth is probably that the valley began to be regularly colonised by Hindus during the years that Aurāngzeb spent at Burhānpur and in the Deccan, and the immigration of the Kirārs may most reasonably be attributed to this period. The Kirārs, Gūjars, and Rāghuvansis apparently entered the Central Provinces together, and the fact that they still smoke from the same huqqa and take water from each other’s drinking vessels may be a reminiscence of this bond of fellowship. All these castes claim, and probably with truth, to be degraded Rājpūts. The Kirārs’ version is that they took to widow-marriage and were consequently degraded. According to another story they were driven from their native place by a Muhammadan invasion. 
 
@@ -17,13 +13,7 @@ In the Punjab the name Kirār appears to be given to all the western or Punjabi 
 
 As a curiosity of folk-etymology it may be stated that some derive the caste-name from the fact that a holy sage’s wife, who was about to be delivered of a child, was being pursued by a Rākshas or demon, and fell over the steep bank \(*karār*\) of a river and was thereupon delivered. The child was consequently called Karār and became the ancestor of the Kirār caste. The name may in fact be derived from the habit which the Kirārs have in some localities of cultivating on the banks of rivers, like the Kīrs, who are probably a branch of the same caste.
 
-
-
-
-
 ## 02. Marriage.
-
-
 
 In the Central Provinces the Kirārs have no regular subcastes. In Chhindwāra a subdivision is in course of formation from the illegitimate offspring of male Kirārs, who are known as Vidūr or Saoneria. The Dhākar Kirārs do not marry or eat with Saonerias. The section-names of the Kirārs are not eponymous, as might be anticipated from their claim to Rājpūt descent, but they are generally territorial. Instances are Bankhedi, from Bankhedi, a village in Hoshangābād; Garhya, from Garha, near Jubbulpore; and Teharia, from Tehri, a State in Bundelkhand. Other section-names are Chaudharia, from Chaudhari, headman; Khandait or swordsman, and Bānda, or tailless. 
 
@@ -37,23 +27,11 @@ The remarriage of widows is permitted, and the widow may marry either her husban
 
 When a bachelor marries a widow, he must first be married to an *akau* plant \(swallow-wort\). Divorce may be effected for infidelity on the part of the wife or for serious disagreement. A divorced woman may marry again. Polygamy is allowed, and in Chhindwāra is said to be restricted to three wives, all living within the District, but elsewhere no such limitation is enforced. A man seldom, however, takes more than one wife, except for the sake of children.
 
-
-
-
-
 ## 03. Religion.
-
-
 
 They worship the ordinary Hindu gods and especially Devi, to whom they offer female kids. During the months of Baisākh and Jeth \(April–June\) those living in Betūl and Chhindwāra make a pilgrimage to the Nāg Deo or cobra god, who is supposed to have his seat somewhere on the border of the two Districts. Every third year they also take their cattle outside the village, and turning their faces in the direction of the Nāg Deo sprinkle a little water and kill goats and fowls. They worship the Patel Deo or spirit of the deceased mālguzār of the village only on the occasion of marriages. They consider the service of the village headman to be their traditional occupation besides agriculture, and they therefore probably pay this special compliment to the spirit of their employer. They worship their implements of husbandry on some convenient day, which must be a Wednesday or a Sunday, after they have sown the spring crops. Those who grow sugarcane offer a goat or a cocoanut to the crop before it is cut, and a similar offering is made to the stock of grain after harvest, so that its bulk may not decrease. They observe the ordinary festivals, and like other Hindus cease to observe one on which a death has occurred in the family, until some happy event such as the birth of a child, or even of a calf, supervenes on the same day. Unmarried children under seven and persons dying of smallpox, snake-bite or cholera are buried, and others are either buried or burnt according to the convenience of the family. Males are placed on the pyre or in the grave on their faces and females on their backs, with their feet pointing to the south in each case. In some places the corpse is buried stark naked, and in others with a piece of cloth wrapped round it, and two pice are usually placed in the grave to buy the site. When a corpse is burnt the head is touched with a bamboo before it is laid on the funeral pyre, by way of breaking it in and allowing the soul to escape if it has not already done so. For three days the mourners place food, water and tobacco in cups for the disembodied soul. Mourning is observed for children for three days and for adults from seven to ten days. During this period the mourners refrain from luxurious food such as flesh, turmeric, vegetables, milk and sweets; they do not wear shoes, nor change their clothes, and males are not shaved until the last day of mourning. Balls of rice are then offered to the dead, and the caste people are feasted. Oblations of water are offered to ancestors in the month of Kunwār \(September-October\).
 
-
-
-
-
 ## 04. Social customs.
-
-
 
 The caste do not admit outsiders. In the matter of food they eat flesh and fish, but abstain from liquor and from eating fowls, except in the Marātha country. They will take *pakka* food or that cooked without water from Gūjars, Rāghuvansis and Lodhis. In the Nāgpur country, where the difference between *katcha* and *pakka* food is not usually observed, they will not take it from any but Marātha Brāhmans. Abīrs and Dhīmars are said to eat with them, and the northern Brāhmans will take water from them. 
 
@@ -63,21 +41,11 @@ The Kirārs are tall in stature and well and stoutly built. They have regular fe
 
 As agriculturists they are supposed to be of encroaching tendencies, and the proverbial prayer attributed to them is, “O God, give me two bullocks, and I shall plough up the common way.” Another proverb quoted in Mr. Standen’s *Betūl Settlement Report*, in illustration of their avarice, is “If you put a rupee between two Kirārs, they become like *mast* buffaloes in Kunwār.” The men always wear turbans, while the women may be distinguished in the Marātha country by their adherence to the dress of the northern Districts. Girls are tattooed on the back of their hands before they begin to live with their husbands. A woman may not name her husband’s elder brother or even touch his clothes or the vessels in which he has eaten food. They are not distinguished for cleanliness.
 
-
-
-
-
 ## 05. Occupation.
-
-
 
 Agriculture and the service of the village headman are the traditional occupations of Kirārs. In Nāgpur they are considered to be very good cultivators, but they have no special reputation in the northern Districts. About a thousand of them are landowners, and the large majority are tenants. They grow garden crops and sugarcane, but abstain from the cultivation of hemp.
 
-
-
-
-
-* * *
+___________________
 
 1 Compiled from papers by Mr. Mūlchand, Deputy Inspector of Schools, Betūl; Mr. Shams-ul-Husain, Tahsīldār, Sohāgpur; Mr. Kalyān Chand, Manager, Court of Wards, Betūl; and Kanhya Lāl, clerk in the Gazetteer Office.
 
@@ -88,7 +56,4 @@ Agriculture and the service of the village headman are the traditional occupatio
 4 *Ibbetson’s Census Report* \(1881\), p. 297.
 
 5 *Nāgpur Settlement Report*, p. 24.
-
-
-
 

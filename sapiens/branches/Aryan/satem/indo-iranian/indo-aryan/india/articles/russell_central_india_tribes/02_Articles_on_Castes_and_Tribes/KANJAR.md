@@ -3,8 +3,6 @@ title = "KANJAR"
 
 +++
 
-
-
 \[*Bibliography*: Mr. J. C. Nesfield’s *The Kanjars of Upper India*, *Calcutta Review*, vol. lxxvii., 1883; Mr. Crooke’s *Castes and Tribes*, art. Kanjar; Major Gunthorpe’s *Criminal Tribes*; Mr. Kitts’ *Berār Census Report* \(1881\); Mr. Gayer’s *Lectures on Criminal Tribes of the Central Provinces*.\]
 
 ## List of Paragraphs
@@ -19,24 +17,13 @@ title = "KANJAR"
 + 8. Social customs. 339 
 + 9. Industrial arts. 340 
 
-
-
 ## 01. Derivation of the Kanjars from the Doms.
-
-
 
 **Kanjar.**—A name applied somewhat loosely to various small communities of a gipsy character who wander about the country. In 1911 about 1000 Kūchbandhia Kanjars were returned in the Province. In Berār the Kanjars seem to be practically identical with the Sānsias; Major Gunthorpe1 gives Kanjar and Sānsia as alternative names of the same caste of criminals, and this is also done by Mr. Kennedy in Bombay.2 Mr. Kitts writes of them:3 “The Deccani and Mārwāri Kanjars were originally Bhāts \(bards\) of the Jāt tribe; and as they generally give themselves out to be Bhāts are probably not included at all among the Kanjars returned at the census. They are a vagrant people, living in tents and addicted to crime. The women are good-looking; some are noted for their obscene songs, filthy alike in word and gesture; while others, whose husbands play on the *sārangi*, lead a life of immorality. The men are often skilful acrobats.” And in another passage:4 “The Sānsia family or the ‘Long Firm’ of India includes two principal divisions represented in Berār by the Kanjars and Kolhātis respectively. They will eat, drink and smoke together, and occasionally join in committing dacoity. They eat all kinds of meat and drink all liquors; they are lax of morals and loose of life.” Now in northern India the business of acting as bards to the Jāts and begging from them is the traditional function of the Sānsias; and we may therefore conclude that so far as Berār and the Marātha Districts are concerned the Kanjars are identical with the Sānsias, while the Kolhātis mentioned by Mr. Kitts are the same people as the Berias, as shown in the article on Kolhāti, and the Berias themselves are another branch of the Sānsias.5 There seems some reason to suppose that these four closely allied groups, the Kanjar or Sānsia, and the Kolhāti or Beria, may have their origin from the great Dom caste of menials and scavengers in Hindustān and Bengal. In the Punjab the Doms are the regular bards and genealogists of the lower castes, being known also as Mirāsi: “The two words are used throughout the Province as absolutely synonymous. The word Mirāsi is derived from the Arabic *mirās* or inheritance; and the Mirāsi is to the inferior agricultural castes and the outcaste tribes what the Bhāt is to the Rājpūts.”6 In the article on Sānsia it is shown that the primary calling of the Sānsias was to act as bards and genealogists of the Jāts; and this common occupation is to some extent in favour of the original identity of the two castes Dom and Sānsia, though Sir D. Ibbetson was not of this opinion.7 In the United Provinces Mr. Crooke gives the Jallād or executioners as one of the main divisions of the Kanjars;8 and the Jallāds of Umballa are said to be the descendants of a Kanjar family who were attached to the Delhi Court as executioners.9 But the Jallād or *sūpwāla* is also a name of the Doms. “The term Jallād, which is an Arabic name for ‘A public flogger,’ is more especially applied to those Doms who are employed in cities to kill ownerless dogs and to act as public executioners.”10 Mr. Gayer states that as the result of special inquiries made by an experienced police-officer it would appear that these Jallād Kanjars are really Doms.11 In Gujarāt the Mīrs or Mirāsis are also known as Dom after the tribe of that name; they were originally of two classes, one the descendants of Gujarāt Bhāts or bards, the other from northern India, partly of Bhāt descent and partly connected with the Doms.12 And the Sānsias and Berias in Bombay when accompanied by their families usually pass themselves off as Gujarāti Bhāts, that is, bards of the Jāt caste from Mārwār or of the Kolis from Gujarāt.13 Major Gunthorpe states that the Kolhātis or Berias of Berār appear to be the same as the Domras of Bengal;14 and Mr. Kitts that the Khām Kolhātis are the Domarus of Telingāna.15 In writing of the Kanjar bards Sherring also says: “These are the Kanjars of Gondwāna, the Sānsis of northern India; they are the most desperate of all dacoits and wander about the country as though belonging to the Gujarāti Domtaris or showmen.” The above evidence seems sufficient to establish a *prima facie* case in favour of the Dom origin of these gipsy castes. It may be noticed further that the Jallād Kanjars of the United Provinces are also known as Sūpwāla or makers of sieves and winnowing-fans, a calling which belongs specially to the Doms, Bhangis, and other sweeper castes. Both Doms and Bhangis have divisions known as Bānsphor or ‘breaker of bamboos,’ a name which has the same signification as Sūpwāla. Again, the deity of the criminal Doms of Bengal is known as Sānsari Mai.16
 
-
 Kanjars making ropes
 
-
-
-
-
 ## 02. The Kanjars and the Gipsies.
-
-
 
 The Kanjars and Berias are the typical gipsy castes of India, and have been supposed to be the parents of the European gipsies. On this point Mr. Nesfield writes: “The commonly received legend is that multitudes of Kanjars were driven out of India by the oppressions of Tamerlane, and it is inferred that the gipsies of Europe are their direct descendants by blood, because they speak like them a form of the Hindi language.”17 Sir G. Grierson states:18 “According to the Shāh-nāma, the Persian monarch Bahrām Gaur received in the fifth century from an Indian king 12,000 musicians who were known as Lūris, and the Lūris or Lūlis, that is gipsies, of modern Persia are the descendants of these.” These people were also called Lutt, and hence it was supposed that they were the Indian Jāts. Sir G. Grierson, however, shows it to be highly improbable that the Jāts, one of the highest castes of cultivators, could ever have furnished a huge band of professional singers and dancers. He on the contrary derives the gipsies from the Dom tribe:19 “Mr. Leland has made a happy suggestion that the original gipsies may have been Doms of India. He points out that Romany is almost letter for letter the same as Domni \(डोमनी\), the plural of Dom. Domni is the plural form in the Bhojpuri dialect of the Bihāri language. It was originally a genitive plural; so that Romany-Rye, ‘A gipsy gentleman,’ may be well compared with the Bhojpuri Domni Rai, ‘A king of the Doms.’ The Bhojpuri-speaking Doms are a famous race, and they have many points of resemblance with the gipsies of Europe. Thus they are darker in complexion than the surrounding Bihāris, are great thieves, live by hunting, dancing and telling fortunes, their women have a reputation for making love-philtres and medicines to procure abortion, they keep fowls \(which no orthodox Hindu will do\), and are said to eat carrion. They are also great musicians and horsemen. The gipsy grammar is closely connected with Bhojpuri, and the following mongrel, half-gipsy, half-English rhyme will show the extraordinary similarity of the two vocabularies:20
 
@@ -47,8 +34,6 @@ Gipsy.  The kaun-engro \(ear-fellow, hare\) and chiriclo \(bird\).   Bhojpuri.  
 Gipsy.  You sovs \(sleep\) with leste \(him\) drey \(within\) the wesh \(wood\)   Bhojpuri.  *soe* *andal* *besh*   
 
 Gipsy.  And rigs \(carry\) for leste \(him\) the gono \(sack, game-bag\).   Bhojpuri.  *gon*   
-
-
 
 Gipsy.  Oprey \(above\) the rukh \(tree\) adrey \(within\) the wesh \(wood\)   Bhojpuri. *Upri* *rukh* *andal* *besh*   
 
@@ -64,23 +49,11 @@ Sir G. Grierson also adds \(in the passage first quoted\): “I may note here a 
 
 The above argument renders it probable that the gipsies are derived from the Doms; and as Mr. Nesfield gives it as a common legend that they originated from the Kanjars, this is perhaps another connecting link between the Doms and Kanjars. The word gipsy is probably an abbreviation of ‘Egyptian,’ the country assigned as the home of the gipsies in mediaeval times. It has already been seen that the Doms are the bards and minstrels of the lower castes in the Punjab, and that the Kanjars and Sānsias, originally identical or very closely connected, were in particular the bards of the Jāts. It is a possible speculation that they may have been mixed up with the lower classes of Jāts or have taken their name, and that this has led to the confusion between the Jāts and gipsies. Some support is afforded to this suggestion by the fact that the Kanjars of Jubbulpore say that they have three divisions, the Jāt, Multāni and Kūchbandia. The Jāt Kanjars are, no doubt, those who acted as bards to the Jāts, and hence took the name; and if the ancestors of these people emigrated from India they may have given themselves out as Jāt. 
 
-
-
-
-
 ## 03. The Thugs derived from the Kanjars.
-
-
 
 In the article on Thug it is suggested that a large, if not the principal, section of the Thugs were derived from the Kanjars. At the Thug marriages an old matron would sometimes repeat, “Here’s to the spirits of those who once led bears and monkeys; to those who drove bullocks and marked with the *godini* \(tattooing-needle\); and those who made baskets for the head.” And these are the occupations of the Kanjars and Berias. The Goyandas of Jubbulpore, descendants of Thug approvers, are considered to be a class of gipsy Muhammadans, akin to or identical with the Kanjars, of whom the Multāni subdivision are also Muhammadans. Like the Kanjar women the Goyandas make articles of net and string. There is also a colony of Berias in Jubbulpore, and these are admittedly the descendants of Thugs who were located there. If the above argument is well founded, we are led to the interesting conclusion that four of the most important vagrant and criminal castes of India, as well as the Mirāsis or low-class Hindu bards, the gipsies, and a large section of the Thugs, are all derived from the great Dom caste.
 
-
-
-
-
 ## 04. The Doms.
-
-
 
 The Doms appear to be one of the chief aboriginal tribes of northern India, who were reduced to servitude like the Mahārs and Chamārs. Sir H. M. Elliot considered them to be “One of the original tribes of India. Tradition fixes their residence to the north of the Ghāgra, touching the Bhars on the east in the vicinity of the Rohini. Several old forts testify to their former importance, and still retain the names of their founders, as, for instance, Domdiha and Domingarh in the Gorakhpur district. Rāmgarh and Sahukot on the Rohini are also Dom forts.”21 Sir G. Grierson quotes Dr. Fleet as follows: “In a south Indian inscription a king Rudradeva is said to have subdued a certain Domma, whose strength evidently lay in his cavalry. No clue is given as to who this Domma was, but he may have been the leader of some aboriginal tribe which had not then lost all its power”; and suggests that this Domma may have been a leader of the Doms, who would then be shown to have been dominant in southern India. As already seen there is a Domāru caste of Telingāna, with whom Mr. Kitts identified the Berias or Kolhātis. In northern India the Doms were reduced to a more degraded condition than the other pre-Aryan tribes as they furnished a large section of the sweeper caste. As has been seen also they were employed as public executioners like the Māngs. This brief mention of the Doms has been made in view of the interest attaching to them on account of the above suggestions, and because there will be no separate article on the caste.
 
@@ -140,7 +113,7 @@ The following account of the industries of the vagrant Kanjars was written by Mr
 
 
 
-* * *
+___________________
 
 1 *Criminal Tribes*, p. 78.
 

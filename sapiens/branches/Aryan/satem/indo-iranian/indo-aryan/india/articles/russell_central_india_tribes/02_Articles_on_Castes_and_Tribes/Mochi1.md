@@ -13,18 +13,13 @@ title = "Mochi**1**"
 + 6. Social customs 
 + 7. Shoes 
 
-
 ## 01. General notice
 
 **Mochi, Muchi, Jīngar, Jirayat, Jīldgar, Chitrakār, Chitevari, Musabir.**—The occupational caste of saddlers and cobblers. In 1911 about 4000 Mochis and 2000 Jīngars were returned from the Central Provinces and Berār, the former residing principally in the Hindustāni and the latter in the Marāthi-speaking Districts. The name is derived from the Sanskrit *mochika* and the Hindustāni *mojna*, to fold, and the common name *mojah* for socks and stockings is from the same root \(Platts\). By origin the Mochis are no doubt an offshoot of the Chamār caste, but they now generally disclaim the connection. Mr. Nesfield observes2 that, “The industry of tanning is preparatory to and lower than that of cobblery, and hence the caste of Chamār ranks decidedly below that of Mochi. The ordinary Hindu does not consider the touch of a Mochi so impure as that of the Chamār, and there is a Hindu proverb to the effect that ‘Dried or prepared hide is the same thing as cloth,’ whereas the touch of the raw hide before it has been tanned by the Chamār is considered a pollution. The Mochi does not eat carrion like the Chamār, nor does he eat swine’s flesh; nor does his wife ever practise the much-loathed art of midwifery.” In the Central Provinces, as in northern India, the caste may be considered to have two branches, the lower one consisting of the Mochis who make and cobble shoes and are admittedly descended from Chamārs; while the better-class men either make saddles and harness, when they are known as Jīngar; or bind books, when they are called Jīldgar; or paint and make clay idols, when they are given the designation either of Chitrakār, Chitevari or Murtikār. In Berār some Jīngars have taken up the finer kinds of iron-work, such as mending guns, and are known as Jirāyat. All these are at great pains to dissociate themselves from the Chamār caste. They call themselves Thākur or Rājpūt and have exogamous sections the names of which are identical with those of the Rājpūt septs. The same people have assumed the name of Rishi in Bengal, and, according to a story related by Sir H. Risley, claim to be debased Brāhmans; while in the United Provinces Mr. Crooke considers them to be connected with the Srivāstab Kāyasths, with whom they intermarry and agree in manners and customs. The fact that in the three Provinces these workers in leather claim descent from three separate high castes is an interesting instance of the trouble which the lower-class Hindus will take to obtain a slight increase in social consideration; but the very diversity of the accounts given induces the belief that all Mochis were originally sprung from the Chamārs. In Bombay, again, Mr. Enthoven3 writes that the caste prefers to style itself Arya Somavansi Kshatriya or Aryan Kshatriyas of the Moon division; while they have all the regular Brāhmanical *gotras* as Bhāradwāja, Vasishtha, Gautam and so on. 
 
-
-
 ## 02. Legends of origin
 
 The following interesting legends as to the origin of the caste adduced by them in support of their Brāhmanical descent are related4 by Sir H. Risley: “One of the Prajā-pati, or mind-born sons of Brahma, was in the habit of providing the flesh of cows and clarified butter as a burnt-offering \(*Ahuti*\) to the gods. It was then the custom to eat a portion of the sacrifice, restore the victim to life, and drive it into the forest. On one occasion the Prajā-pati failed to resuscitate the sacrificial animal, owing to his wife, who was pregnant at the time, having clandestinely made away with a portion. Alarmed at this he summoned all the other Prajā-patis, and they sought by divination to discover the cause of the failure. At last they ascertained what had occurred, and as a punishment the wife was cursed and expelled from their society. The child which she bore was the first Mochi or tanner, and from that time forth, mankind being deprived of the power of reanimating cattle slaughtered for food, the pious abandoned the practice of killing kine altogether. Another story is that Muchirām, the ancestor of the caste, was born from the sweat of Brahma while dancing. He chanced to offend the irritable sage Durvāsa, who sent a pretty Brāhman widow to allure him into a breach of chastity. Muchirām accosted the widow as mother, and refused to have anything to do with her; but Durvāsa used the miraculous power he had acquired by penance to render the widow pregnant so that the innocent Muchirām was made an outcaste on suspicion. From her two sons are descended the two main branches of the caste in Bengal.” 
-
-
 
 ## 03. Art among the Hindus
 
@@ -32,13 +27,7 @@ In the Central Provinces the term Mochi is often used for the whole caste in the
 
 Except for this ceremonial strictness Hinduism should have been favourable to the development of both painting and sculpture, as being a polytheistic religion. In the early stages of society religion and art are intimately connected, as is shown by the fact that images and paintings are at first nearly always of deities or sacred persons or animals, and it is only after a considerable period of development that secular subjects are treated. Similarly architecture is in its commencement found to be applied solely to sacred buildings, as temples and churches, and is only gradually diverted to secular buildings. The figures sculptured by the Mochis are usually images for temples, and those who practise this art are called Murtikar, from *murti*, an image or idol; and the pictures of the Chitrakārs were until recently all of deities or divine animals, though secular paintings may now occasionally be met with. And the uneducated believers in a polytheistic religion regularly take the image for the deity himself, at first scarcely conceiving of the one apart from the other. Thus some Bharewas or brass-workers say that they dare not make metal images of the gods, because they are afraid that the badness of their handiwork might arouse the wrath of the gods and move them to take revenge. The surmise might in fact be almost justifiable that the end to which figures of men and animals were first drawn or painted, or modelled in clay or metal was that they might be worshipped as images of the deities, the savage mind not distinguishing at all between an image of the god and the god himself. For this reason monotheistic religions would be severely antagonistic to the arts, and such is in fact the case. Thus the Muhammadan commentary, the Hadith, has a verse: “Woe to him who has painted a living creature\! At the day of the last judgment the persons represented by him will come out of the tomb and join themselves to him to demand of him a soul. Then that man, unable to give life to his work, will burn in eternal flames.” And in Judaism the familiar prohibition of the Second Commandment appears to be directed to the same end. 
 
-
-
-
 Image of the god Vishnu as Vithoba
-
-
-
 
 Hindu sculpture has indeed been fairly prolific, but is not generally considered to have attained to any degree of artistic merit. Since sculpture is mainly concerned with the human form it seems clear that an appreciation of the beauty of muscular strength and the symmetrical development of the limbs is an essential preliminary to success in this art; and such a feeling can only arise among a people who set much store on feats of bodily strength and agility. This has never been the character of the Hindus, whose religion encourages asceticism and mortification of the body, and points to mental self-absorption and detachment from worldly cares and exercises as the highest type of virtue. 
 
@@ -68,7 +57,7 @@ In view of the fact that many of the Mochis were Muhammadans and that slippers a
 
 
 
-* * *
+___________________
 
 1 This article is partly based on papers by Mr. Gopal Parmanand, Deputy Inspector of Schools, Saugor, and Mr. Shamsuddīn, Sub-Inspector, City Police, Saugor. 
 

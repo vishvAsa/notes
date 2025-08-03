@@ -3,59 +3,27 @@ title = "Gadba"
 
 +++
 
-
-
 ## 01. Description and structure of the tribe.
-
-
 
 **Gadba**, **Gadaba.**1—A primitive tribe classified as Mundāri or Kolarian on linguistic grounds. The word Gadba, Surgeon-Major Mitchell states, signifies a person who carries loads on his shoulders. The tribe call themselves Guthau. They belong to the Vizagapatam District of Madras, and in the Central Provinces are found only in the Bastar State, into which they have immigrated to the number of some 700 persons. They speak a Mundāri dialect, called Gadba, after their tribal name, and are one of the two Mundāri tribes found so far south as Vizagapatam, the other being the Savars.2 Their tribal organisation is not very strict, and a Bhatra, a Parja, a Muria, or a member of any superior caste may become a Gadba at an expenditure of two or three rupees. The ceremony consists of shaving the body of the novice, irrespective of sex, clean of hair, after which he or she is given to eat rice cooked in the water of the Ganges. This is followed by a feast to the tribe in which a pig must be killed. The Gadbas have totemistic exogamous septs, usually named after animals, as *gutāl* dog, *angwān* bear, *dungra* tortoise, *surangai* tiger, *gūmal* snake, and so on. Members of each sept abstain from killing or injuring the animal or plant after which it is named, but they have no scruple in procuring others to do this. Thus if a snake enters the hut of a person belonging to the Gūmal sept, he will call a neighbour of another sept to kill it. He may not touch its carcase with his bare hand, but if he holds it through a piece of rag no sin is incurred.
 
-
-
-
-
 ## 02. Marriage.
-
-
 
 Marriage is adult, but the rule existing in Madras that a girl is not permitted to marry until she can weave her own cloth does not obtain in the Central Provinces.3 As a rule the parents of the couple arrange the match, but the wishes of the girl are sometimes consulted and various irregular methods of union are recognised. Thus a man is permitted with the help of his friends to go and carry off a girl and keep her as his wife, more especially if she is a relation on the maternal side more distant than a first cousin. Another form is the Paisa Mundi, by which a married or unmarried woman may enter the house of a man of her caste other than her husband and become his wife; and the Upaliya, when a married woman elopes with a lover. The marriage ceremony is simple. The bridegroom’s party go to the girl’s house, leaving the parents behind, and before they reach it are met and stopped by a bevy of young girls and men in their best clothes from the bride’s village. A girl comes forward and demands a ring, which one of the men of the wedding party places on her finger, and they then proceed to the bride’s house, where the bridegroom’s presents, consisting of victuals, liquor, a cloth, and two rupees, are opened and carefully examined. If any deficiency is found, it must at once be made good. The pair eat a little food together, coloured rice is applied to their foreheads, and on the second day a new grass shed is erected, in which some rice is cooked by an unmarried girl. The bride and bridegroom are shut up in this, and two pots of water are poured over them from the roof, the marriage being then consummated. If the girl is not adult this ceremony is omitted. Widow-marriage is permitted by what is called the *tīka* form, by which a few grains of rice coloured with turmeric are placed on the foreheads of the pair and they are considered as man and wife. There is no regular divorce, but if a married woman misbehaves with a man of the caste, the husband goes to him with a few friends and asks whether the story is true, and if the accusation is admitted demands a pig and liquor for himself and his friends as compensation. If these are given he does not turn his wife out of his house. A *liaison* of a Gadba woman with a man of a superior caste is also said to involve no penalty, but if her paramour is a low-caste man she is excommunicated for ever. In spite of these lax rules, however, Major Mitchell states that the women are usually very devoted to their husbands. Mr. Thurston4 notes that among the Bonda Gadabas a young man and a maid retire to the jungle and light a fire. Then the maid, taking a burning stick, places it on the man’s skin. If he cries out he is unworthy of her, and she remains a maid. If he does not, the marriage is at once consummated. The application of the brand is probably light or severe according to the girl’s feelings towards the young man.
 
-
-
-
-
 ## 03. Religious beliefs and festivals.
-
-
 
 The Gadbas worship Burhi Māta or Thākurāni Māta, who is the goddess of smallpox and rinderpest. They offer to her flowers and incense when these diseases are prevalent among men or cattle, but if the epidemic does not abate after a time, they abuse the goddess and tell her to do her worst, suspending the offerings. They offer a white cock to the sun and a red one to the moon, and various other deities exercise special functions, Bhandārin being the goddess of agriculture and Dharni of good health, while Bharwān is the protector of cattle and Dand Devī of men from the attacks of wild beasts. They have vague notions of a heaven and hell where the sinful will be punished, and also believe in re-birth. But these ideas appear to be borrowed from their Hindu neighbours. When the new rice crop is ripe, the first-fruits are cooked and served to the cattle in new bamboo baskets, and are then partaken of by men. The ripening of the mango crop is also an important festival. In the bright fortnight of Chait \(March\) the men go out hunting, and on their return cook the game before Mātideo, the god of hunting, who lives in a tree. In Madras the whole male population turn out to hunt, and if they come back without success the women pelt them with cowdung on their return. If successful, however, they have their revenge on the women in another way.5 On festival days men and women dance together to the music of a pipe and drum. Sometimes they form a circle, holding long poles, and jump backwards and forwards to and from the centre by means of the pole; or the women dance singly or in pairs, their hands resting on each other’s waists. A man and woman will then step out of the crowd and sing at each other, the woman reflecting on the man’s ungainly appearance and want of skill as a cultivator or huntsman, while the man retorts by reproaching her with her ugliness and slatternly habits.6
 
-
-
-
-
 ## 04. Disposal of the dead.
-
-
 
 The dead are buried with their feet to the west, ready to start for the region of the setting sun. On their return from the funeral the mourners stop on the way, and a fish is boiled and offered to the dead. An egg is cut in half and placed on the ground, and pieces of mango bark are laid beside it on which the mourners tread. The women accompany the corpse, and in the meantime the house of the dead person is cleaned with cowdung by the children left behind. On the first day food is supplied to the mourners by their relatives, and in the evening some cooked rice and vegetables are offered to the dead. The mourning lasts for nine days, and on the last day a cow or bullock is killed with the blunt head of an axe, the performance of this function being hereditary in certain families of the caste. Some blood from the animal and some cooked rice are put in leaf-cups and placed on the grave by the head of the corpse. The animal is cooked and eaten by the grave, and they then return to the cooking shed and place its jawbone under a stick supported on two others, blood and cooked rice being again offered. The old men and women bathe in warm water, and all return to the place where the dead man breathed his last. Here they drink and have another meal of rice and beef, which is repeated on the following day, and the business of committing the dead to the ancestors is complete. Liquor is offered to the ancestors on feast days.
 
-
-
-
-
 ## 05. Occupation and mode of living.
-
-
 
 The caste are cultivators and labourers, while some are employed as village watchmen, and others are hereditary *pālki*-bearers to the Rāja of Bastar, enjoying a free grant of land. They practise shifting cultivation, cleaning a space by indiscriminate felling in the forest, and roughly ploughing the ground for a single broad-cast crop of rice; in the following year the clearing is usually abandoned. Their dress is simple, though they now wear ordinary cloth. Forty years ago it is said that they wore coverings made from the bark of the *kuring* tree and painted with horizontal bands of red, yellow and blue.7 A girdle of the thickness of a man’s arm made from fine strips of bark is still worn and is a distinguishing feature of the Gadba women. They also carry a circlet round their forehead of the seeds of *kusa* grass threaded on a string. Both men and women wear enormous earrings, the men having three in each ear. The Gadbas are almost omnivorous, and eat flesh, fish, fowls, pork, buffaloes, crocodiles, non-poisonous snakes, large lizards, frogs, sparrows, crows and large red ants. They abstain only from the flesh of monkeys, horses and asses. A Gadba must not ride on a horse under penalty of being put out of caste. Mr. Thurston8 gives the following reason for this prejudice:—“The Gadbas of Vizagapatam will not touch a horse, as they are palanquin-bearers, and have the same objection to a rival animal as a cart-driver has to a motor-car.” They will eat the leavings of other castes and take food from all except the impure ones, but like the Mehtars and Ghasias elsewhere they will not take food or water from a Kāyasth. Only the lowest castes will eat with Gadbas, but they are not considered as impure, and are allowed to enter temples and take part in religious ceremonies.
 
-
-
-
-
-* * *
+___________________
 
 1 This article is compiled from an excellent monograph contributed by Surgeon-Major Mitchell of Bastar State, with extracts from Colonel Glasfurd’s *Report on Bastar* \(Selections from the Records of the Government of India in the Foreign Department, No. 39 of 1863\).
 
@@ -72,7 +40,4 @@ The caste are cultivators and labourers, while some are employed as village watc
 7 *Report on the Dependency of Bastar*, p. 37.
 
 8 *Ethnographic Notes in Southern India*, p. 270.
-
-
-
 

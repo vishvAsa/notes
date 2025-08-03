@@ -69,7 +69,7 @@ In Berār besides the regular Beldārs two castes of stone-workers are found, th
 
 
 
-* * *
+___________________
 
 1 This article is based on papers by Mr. A. K. Smith, C.S., Mr. Khande Rāo, Superintendent of Land Records, Raipur, and Munshi Kanhiya Lāl, of the Gazetteer office. 
 

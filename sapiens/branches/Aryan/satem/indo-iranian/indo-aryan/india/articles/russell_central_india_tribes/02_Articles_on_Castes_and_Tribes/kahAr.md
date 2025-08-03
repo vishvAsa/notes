@@ -3,53 +3,27 @@ title = "Kahār"
 
 +++
 
-
-
 ## 01. Origin and statistics.
-
-
 
 **Kahār**,1 **Bhoi**.—The caste of palanquin-bearers and watermen of northern India. No scientific distinction can be made between the Kahārs and Dhīmars, both names being applied to the same people. In northern India the term Kahār is generally used, and Mr. Crooke has an article on Kahār, but none on Dhīmar. In the Central Provinces the latter is the more common name for the caste, and in 1911 23,000 Kahārs were returned as against nearly 300,000 Dhīmars. Berār had also 27,000 Kahārs. The social customs of the caste are described in the article on Dhīmar, but a short separate notice is given to the Kahārs on account of their special social interest. Some Kahārs refuse to clean household cooking-vessels and hence occupy a slightly higher social position than the Dhīmars generally. Mr. Crooke derives the name of the caste from the Sanskrit Skandha-kāra, or ‘One who carries things on his shoulder.’ The Brāhmanical genealogists represent the Kahār as descended from a Brāhman father and a Chandāl or sweeper mother, and this is typical of the position occupied by the caste, who, though probably derived from the primitive non-Aryan tribes, have received a special position on account of their employment as household servants, so that all classes may take water and cooked food at their hands. As one of Mr. Crooke’s correspondents remarks: “This caste is so low that they clean the vessels of almost all castes except menials like the Chamār and Dhobi, and at the same time so high that, except Kanaujia Brāhmans, all other castes eat *pakki* and drink water at their hands.” Sir D. Ibbetson says of the Kahār: “He is a true village menial, receiving customary dues and performing customary service. His social standing is in one respect high; for all will drink water at his hands. But he is still a servant, though the highest of his class.” This comparatively high degree of social purity appears to have been conferred on the Kahārs and Dhīmars from motives of convenience, as it would be intolerable to have a palanquin-bearer or indoor servant from whom one could not take a drink of water.
 
-
-
-
-
 ## 02. The *doli* or palanquin.
-
-
 
 The proper occupation of the Kahār is that of *doli* or litter-bearer. When carts could not travel owing to the absence of roads this was the regular mode of conveyance of those who could afford it and did not ride. Buchanan remarks: “Few or none except some chief native officers of Government keep bearers in constant pay; but men of large estates give farms at low rents to their bearers, who are ready at a call and receive food when employed.”2 A superior kind of litter used by rich women had a domed roof supported on eight pillars with side-boards like Venetian blinds; and was carried on two poles secured to the sides beneath the roof. This is perhaps the progenitor of the modern Calcutta *ghāri* or four-wheeler, just as the body of the hansom-cab was modelled on the old sedan-chair. It was called Kharkhariya in imitation of the rattling of the blinds when in motion.3 The *pālki* or ordinary litter consisted of a couch slung under a long bamboo, which formed an arch over it. Over the arch was suspended a tilt made of cloth, which served to screen the passenger from sun and rain. A third kind was the Chaupala or square box open at the sides and slung on a bamboo; the passenger sat doubled up inside this. If as was sometimes the case the Chaupala was hung considerably beneath the bamboo the passenger was miserably draggled by dust and mud. Nowadays regular litters are so little used that they are not to be found in villages; but when required because one cannot ride or for travelling at night they are readily improvised by slinging a native wooden cot from two poles by strings of bamboo-fibre. Most of the Kahārs and Dhīmars have forgotten how to carry a litter, and proceed very slowly with frequent stops to change shoulders or substitute other bearers. But the Kols of Mandla still retain the art, and will do more than four miles an hour for several hours if eight men are allowed. Under native governments the privilege of riding in a palanquin was a mark of distinction; and a rule was enforced that no native could thus enter into the area of the forts in Madras and Bombay without the permission of the Governor; such permission being recorded in the order book at the gates of the fort and usually granted only to a few who were lame or otherwise incapacitated. When General Medows assumed the office of Governor of Bombay in 1788 some Parsis waited on him and begged for the removal of this restriction; to which the Governor replied, “So long as you do not force me to ride in this machine he may who likes it”; and so the rule was abrogated.4 A passage from Hobson-Jobson, however, shows that the Portuguese were much stricter in this respect: “In 1591 a proclamation of the Viceroy, Matthias d’Albuquerque, ordered: ‘That no person of what quality or condition soever, shall go in a *palanquy* without my express licence, save they be over sixty years of age, to be first proved before the Auditor-General of Police ... and those who contravene this shall pay a penalty of 200 cruzados, and persons of mean estate the half, the *palanquys* and their belongings to be forfeited, and the *bois* or *mouços* who carry such *palanquys* shall be condemned to His Majesty’s galleys.’”5 The meaning of the last sentence appears to be that the bearers were considered as slaves, and were forfeited to the king’s service as a punishment to their owner. As the unauthorised use of this conveyance was so severely punished it would appear that riding in a palanquin must have been a privilege of nobility. Similarly to ride on a horse was looked upon in something of the same light; and when a person of inferior consequence met a superior or a Government officer while riding, he had to dismount from his horse as a mark of respect until the other had passed. This last custom still obtains to some extent, though it is rapidly disappearing.
 
 As a means of conveyance the litter would be held sacred by primitive people, and Mr. Crooke gives an instance of the regard paid to it: “At the Holi festival eight days before Diwāli in the western Districts the house is plastered with cowdung and figures of a litter \(*doli*\) and bearers are made on the walls with four or five colours, and to them offerings of incense, lights and flowers are given.”6 Even after passable roads were made tongas or carts drawn by trotting-bullocks were slow in coming into general use owing to the objection felt by the Hindus to harnessing the sacred ox.
 
-
-
-
-
 ## 03. Female bearers.
-
-
 
 At royal courts women were employed to carry the litters of the king and the royal ladies into the inner precincts of the palace, the male bearers relinquishing their charge outside. “Another class of attendants at the palace peculiar to Lucknow were the female bearers. Their occupation was to carry the palanquins and various covered conveyances of the king and his ladies into the inner courts of the harem. These female bearers were also under military discipline. They had their officers, commissioned and non-commissioned. The head of them, a great masculine woman of pleasing countenance, was an especial favourite of the king. The *badinage* which was exchanged between them was of the freest possible character—not fit for ears polite, of course; but the extraordinary point in it was that no one hearing it or witnessing such scenes could have supposed it possible that a king and a slave stood before him as the two chief disputants.”7 Similarly female sepoys were employed to guard the harem, dressed in ordinary uniform and regularly drilled and taught to shoot.8 A battalion of female troops for guarding the zenāna is still maintained in Hyderābād.9
 
-
-
-
-
 ## 04. Indoor servants.
-
-
 
 From being a palanquin-bearer the Kahār became the regular indoor servant of Hindu households. Originally of low caste, and derived from the non-Aryan tribes, they did not object to eat the leavings of food of their masters, a relation which is naturally very convenient, if not essential, in poor Hindu houses. Sir H. Risley notes, however, that in Bengal a Kahār engaged in personal service with a Brāhman, Rājpūt, Bābhan, Kāyasth or Agarwāl, will only eat his master’s leavings so long as he is himself unmarried.10 It seems that the marriage feast may be considered as the sacrificial meal conferring full membership of the caste, after which the rules against taking food from other castes must be strictly observed. Slaves were commonly employed as indoor servants, and hence the term Kahār came to be almost synonymous with a slave. “In the eighteenth century the title Kahār was at Patna the distinctive appellation of a Hindu slave, as Maulazādah was of a Muhammadan, and the tradition in 1774 was that the Kahār slavery took its rise when the Muhammadans first invaded northern India.”11
 
 As the Kahār was the common indoor servant in Hindu houses so apparently he came to be employed in the same capacity by the English. But he was of too high a caste to serve the food of a European, which would have involved touching the cooked flesh of the cow, and thus lost him his comparatively good status and social purity among the Hindus. Hence arose the anomaly of a body servant who would not touch his master’s food, and confined himself to the duties of a valet; while the name of bearer given to this servant indicates clearly that he is the successor of the old-time Kahār or palanquin-bearer. The Uriya bearers of Bengal were well known as excellent servants and most faithful; but in time the inconvenience of their refusal to wait at table has led to their being replaced by low-caste Madrasis and by Muhammadans. The word ‘boy’ as applied to Indian servants is no doubt of English origin, as it is also used in China and the West Indies; but the South Indian term *boyi* or Hindi *bhoi* for a palanquin-bearer also appears to have been corrupted into boy and to have made this designation more common. The following instances of the use of the word ‘boy’ from Hobson-Jobson12 may be quoted in conclusion: “The real Indian ladies lie on a sofa, and if they drop their handkerchief they just lower their voices and say ‘Boy,’ in a very gentle tone” \(*Letters from Madras* in 1826\). ‘Yes, Sāhib, I Christian Boy. Plenty poojah do. Sunday time never no work do’ \(Trevelyan, *The Dawk Bungalow*, in 1866\). The Hindu term Bhoi or bearer is now commonly applied to the Gonds, and is considered by them as an honorific name or title. The hypothesis thus appears to be confirmed that the Kahār caste of palanquin-bearers was constituted from the non-Aryan tribes, who were practically in the position of slaves to the Hindus, as were the Chamārs and Mahārs, the village drudges and labourers. But when the palanquin-bearer developed into an indoor servant, his social status was gradually raised from motives of convenience, until he grew to be considered as ceremonially pure, and able to give his master water and prepare food for cooking. Thus the Kahārs or Dhīmars came to rank considerably above the primitive tribes from whom they took their origin, their ceremonial purity being equal to that of the Hindu cultivating castes, while the degrading status of slavery which had at first attached to them gradually fell into abeyance. And thus one can understand why the Gonds should consider the name of Bhoi or bearer as a designation of honour.
 
-
-
-
-
-* * *
+___________________
 
 1 This article is compiled from papers by Mr. Sarat Chandra Sanyāl, Sessions Judge, Nāgpur, and Mr. Abdul Samād, Tahsīldār, Sohāgpur.
 
@@ -74,7 +48,4 @@ As the Kahār was the common indoor servant in Hindu houses so apparently he cam
 11 *Tribes and Castes of Bengal, ibidem.*
 
 12 *S.v.* Boy.
-
-
-
 

@@ -7,10 +7,7 @@ title = "Rajwār"
 
 In Sargūja the caste have largely adopted Hindu customs. They abstain from liquor, employ low-class Brāhmans as priests, and worship the Hindu deities. When a man wishes to arrange a match for his son he takes a basket of wheat-cakes and proceeding to the house of the girl’s father sets them down outside. If the match is acceptable the girl’s mother comes and takes the cakes into the house and the betrothal is then considered to be ratified. At the wedding the bridegroom smears vermilion seven times on the parting of the bride’s hair, and the bride’s younger sister then wipes a little of it off with the end of the cloth. For this service she is paid a rupee by the bridegroom. Divorce and the remarriage of widows are permitted. After the birth of a child the mother is given neither food nor water for two whole days; on the third day she gets only boiled water to drink and on the fourth day receives some food. The period of impurity after a birth extends to twelve days. When the navel-string drops it is carefully put away until the next Dasahra, together with the child’s hair, which is cut on the sixth day. On the Dasahra festival all the women of the village take them to a tank, where a lotus plant is worshipped and anointed with oil and vermilion, and the hair and navel-string are then buried at its roots. The dead are burned, and the more pious keep the bones with a view to carrying them to the Ganges or some other sacred river. Pending this, the bones are deposited in the cow-house, and a lamp is kept burning in it every night so long as they are there. The Rajwārs believe that every man has a soul or Prān, and they think that the soul leaves the body, not only at death, but whenever he is asleep or becomes unconscious owing to injury or illness. Dreams are the adventures of the soul while wandering over the world apart from the body. They think it very unlucky for a man to see his own reflection in water and carefully avoid doing so. 
 
-
-* * *
+___________________
 
 1 Based on the accounts of Sir H. Risley and Colonel Dalton and a paper by Pandit G.L. Pāthak, Superintendent, Korea State. 
-
-
 

@@ -36,7 +36,7 @@ The tribe have some special rules of inheritance. In Bengal4 the eldest son of t
 
 
 
-* * *
+___________________
 
 1 Based on Sir H. Risley’s account of the tribe in the *Tribes and Castes of Bengal*, and on notes taken by Mr. Hīra Lāl at Raigarh. 
 

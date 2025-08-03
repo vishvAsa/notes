@@ -7,12 +7,7 @@ title = "Wahhābi Sect"
 
 The apprehensions of the Sultan of Turkey were aroused and an army was despatched against the Wahhābis, which broke their political power, their leader, Saud’s son, being executed in Constantinople in 1818. But the tenets of the sect continued to be maintained in Arabia, and in 1822 one Saiyad Ahmad, a freebooter and bandit from Rai Bareli, was converted to it on a pilgrimage to Mecca and returned to preach its doctrines in India. Being a Saiyad and thus a descendant of the Prophet, he was accepted by the Muhammadans of India as the true Khalīfa or Mahdi, awaited by the Shiahs. Unheeded by the British Government, he traversed our provinces with a numerous retinue of devoted disciples and converted the populace to his reformed doctrine by thousands, Patna becoming a centre of the sect. In 1826 he declared a *jihād* or religious war against the Sikhs, but after a four years’ struggle was defeated and killed. The sect gave some trouble in the Mutiny, but has not since taken any part in politics. Its reformed doctrines, however, have obtained a considerable vogue, and still exercise a powerful influence on Muhammadan thought. The Wahhābis deny the authority of Islamic tradition after the deaths of the Companions of the Prophet, do not illuminate or pay reverence to the shrines of departed saints, do not celebrate the birthday of Muhammad, count the ninety-nine names of God on their fingers and not on a rosary, and do not smoke. 
 
-
-* * *
+___________________
 
 1 This article consists entirely of extracts from the article on the Wahhābi sect in the Rev. T. P. Hughes’ *Dictionary of Islām*. 
-
-
-
-
 

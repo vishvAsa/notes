@@ -3,18 +3,11 @@ title = "Khandait"
 
 +++
 
-
-
 **Khandait**, **Khandayat**.—The military caste of Orissa, the word Khandait meaning ‘swordsman,’ and being derived from the Uriya *khanda*, a sword. Sir H. Risley remarks of the Khandaits:1 “The caste is for the most part, if not entirely, composed of Bhuiyas, whose true affinities have been disguised under a functional name, while their customs, their religion and in some cases even their complexion and features have been modified by long contact with Hindus of relatively pure Aryan descent. The ancient Rājas of Orissa kept up large armies and partitioned the land on strictly military tenures. These armies consisted of various castes and races, the upper ranks being officered by men of good Aryan descent, while the lower ones were recruited from the low castes alike of the hills and the plains. In the social system of Orissa, the *Sresta* or ‘best’ Khandaits rank next to the Rājpūts, who have not the intimate connection with the land which has helped to raise the Khandaits to their present position.” The Khandaits are thus like the Marāthas, and the small body of Paiks in the northern Districts, a caste formed from military service; and though recruited for the most part originally from the Dravidian tribes, they have obtained a considerable rise in status owing to their occupation and the opportunity which has been afforded to many of them to become landholders. The best Khandaits now aspire to Rājpūt rank, while the bulk of them have the position of cultivators, from whom Brāhmans will take water, or a much higher one than they are entitled to by descent. In2 the Central Provinces the Khandaits have no subcastes, and only two *gotras* or clans, named after the Kachhap or tortoise and the Nāgas or cobra respectively. These divisions appear, however, to be nominal, and do not regulate marriage, as to which the only rule observed is that persons whose descent can be traced from the same parent should not marry each other. Early marriage is usual, and if a girl arrives at adolescence without a husband having been found for her, she goes through the ceremony of wedlock with an arrow. Polygamy is permitted, but a person resorting to it is looked down on and nicknamed Maipkhia or wife-eater. The essential portion of the marriage ceremony is the *bandan* or tying of the hands of the bride and bridegroom together with *kusha* grass. The bridegroom must lift up the bride and walk seven times round the marriage altar carrying her. Widow-marriage and divorce are permitted in the Central Provinces, and Brāhmans are employed for religious and ceremonial purposes. 
 
-
-
-* * *
+___________________
 
 1 *Tribes and Castes of Bengal*, art. Khandait. In 1911, after the transfer of Sambalpur, only 18 Khandaits remained in the Central Provinces.
 
 2 The following particulars are from a paper by Mr. Kāshināth Bohidār, Assistant Settlement Superintendent, Sonpur.
-
-
-
 

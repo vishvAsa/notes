@@ -7,8 +7,7 @@ title = "Rājpūt, Gaharwār"
 
 The Gaharwārs, Mr. Crooke states, now hold a high rank among Rājpūt septs; they give daughters to the Baghel, Chandel and Bisen, and take brides of the Bais, Gautam, Chauhān, Parihār and other clans. The Gaharwārs are found in small numbers in the Central Provinces, chiefly in the Chhattīsgarh Districts and Feudatory States. 
 
-
-* * *
+___________________
 
 1 *Early History of India*, 3rd edition, p. 391. 
 
@@ -25,6 +24,4 @@ The Gaharwārs, Mr. Crooke states, now hold a high rank among Rājpūt septs; th
 7 Quoted in Mr. Crooke’s article on Gaharwār. 
 
 8 See art. Rājpūt, Bundela. 
-
-
 

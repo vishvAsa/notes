@@ -7,4 +7,3 @@ In order to render clear the manner in which the clan named after a totem animal
 
 Thus primitive man had no conception of inanimate matter, and it seems probable that he did not either realise the idea of death. Though it may be doubtful whether any race exists at present which does not understand that death is the cessation of life in the body, indications remain that this view was not primary and may not have been acquired for some time. The Gonds apparently once thought that people would not die unless they were killed by magic, and similar beliefs are held by the Australian and African savages. Several customs also point to the belief in the survival of some degree of life in the body after death, apart from the idea of the soul. 
 
-

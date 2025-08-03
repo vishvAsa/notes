@@ -7,12 +7,9 @@ title = "Rājpūt; Yādu"
 
 The Bhatti branch of the Yādus claim descent from Bhāti, the grandson of Sālivāhana. They have no legend of having come from Gujarāt, but they had the title of Rāwal, which is used in Gujarāt, and also by the Sesodia clan who came from there. The Bhattis are said to have arrived in Jaisalmer about the middle of the eighth century, Jaisalmer city being founded much later in A.D. 1183. Jaisalmer State, the third in Rājputāna, has an area of 16,000 square miles, most of which is desert, and a population of about 100,000 persons. The chief has the title of Mahārāwal and receives a salute of fifteen guns. The Jareja Rājpūts of Sind and Cutch are another branch of the Yādus who have largely intermarried with Muhammadans. They now claim descent from Jāmshīd, the Persian hero, and on this account, Colonel Tod states, the title of their rulers is Jām. They were formerly much addicted to female infanticide. The name Yādu has in other parts of India been corrupted into Jādon, and the class of Jādon Rājpūts is fairly numerous in the United Provinces, and in some places is said to have become a caste, its members marrying among themselves. This is also the case in the Central Provinces, where they are known as Jādum, and have been treated under that name in a separate article. The small State of Karauli in Rājputāna is held by a Jādon chief. 
 
-
-* * *
+___________________
 
 1 See also article Jādum for a separate account of the local caste in the Central Provinces. 
 
 2 *Early History of India*, 3rd edition, p. 434. 
-
-
 

@@ -9,8 +9,7 @@ In 1614 Rāna Amar Singh, recognising that further opposition was hopeless, made
 
 The Mahārāna of Udaipur is entitled to a salute of nineteen guns. The Udaipur State has an area of nearly 13,000 square miles and a population of about a million persons. Besides Udaipur three minor states, Partābgarh, Dungarpur and Banswāra, are held by members of the Sesodia clan. In the Central Provinces the Sesodias numbered nearly 2000 persons in 1911, being mainly found in the districts of the Nerbudda Division. 
 
-
-* * *
+___________________
 
 1 *J.A.S.B.* \(1909\), vol. v. p. 167. 
 
@@ -25,6 +24,4 @@ The Mahārāna of Udaipur is entitled to a salute of nineteen guns. The Udaipur 
 6 Forbes, *Rāsmala* i. p. 400. 
 
 7 *Rajasthān* i. pp, 398, 399. The death of the young princess was mainly the work of Amīr Khān Pindāri who brought pressure on the Rāna to consent to it in order to save his state. 
-
-
 

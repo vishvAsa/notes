@@ -3,12 +3,9 @@ title = "Tamera"
 
 +++
 
-
 ## 01. The Tamera and Kasār
 
 **Tamera, Tambatkar**.1—The professional caste of coppersmiths, the name being derived from *tāmba*, copper. The Tameras, however, like the Kasārs or brass-workers, use copper, brass and bell-metal indifferently, and in the northern Districts the castes are not really distinguished, Tamera and Kasār being almost interchangeable terms. In the Marātha country, however, and other localities they are considered as distinct castes. Copper is a sacred metal, and the copper-smith’s calling would be considered somewhat more respectable than that of the worker in brass or bell-metal, just as the Sunār or goldsmith ranks above both; and probably, therefore, the Tameras may consider themselves a little better than the Kasārs. As brass is an alloy made from copper and zinc, it seems likely that vessels were made from copper before they were made from brass. But copper being a comparatively rare and expensive metal, utensils made from it could scarcely have ever been generally used, and it is therefore not necessary to suppose that either the Tamera or Kasār caste came into being before the adoption of brass as a convenient material for the household pots and pans. 
-
-
 
 ## 02. Social traditions and customs
 
@@ -28,7 +25,7 @@ The caste worship the goddess Singhbāhani. or Devi riding on a tiger. They make
 
 
 
-* * *
+___________________
 
 1 This article is based on information: contributed by Nand Kishore, Nāzir of the Deputy Commissioner’s Office, Damoh; Mr. Tārāchand Dube, Municipal Member, Bilāspur; and Mr. Adurām Chaudhri of the Gazetteer Office. 
 

@@ -76,7 +76,7 @@ The bodies of children under five and of persons dying from smallpox, snake-bite
 
 
 
-* * *
+___________________
 
 1 Crooke’s *Tribes and Castes*, article Kāchhi.
 

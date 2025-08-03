@@ -3,12 +3,9 @@ title = "Cutchi"
 
 +++
 
-
 ## 01. General notice.
 
 **Cutchi** or **Meman, Kachhi, Muamin.**—A class of Muhammadan merchants who come every year from Gujarāt and Cutch to trade in the towns of the Central Provinces, where they reside for eight months, returning to their houses during the four months of the rainy season. In 1911 they numbered about 2000 persons, of whom five-sixths were men, this fact indicating the temporary nature of their settlements. Nevertheless a large proportion of the trade of the Province is in their hands. The caste is fully and excellently described by Khān Bahādur Fazalullah Lutfullah Farīdi, Assistant Collector of Customs, Bombay, in the *Bombay Gazetteer*.1 He remarks of them: “As shopkeepers and miscellaneous dealers Cutchis are considered to be the most successful of Muhammadans. They owe their success in commerce to their freedom from display and their close and personal attention to and keen interest in business. The richest Meman merchant does not disdain to do what a Pārsi in his position would leave to his clerks. Their hope and courage are also excellent endowments. They engage without fear in any promising new branch of trade and are daring in their ventures, a trait partly inherited from their Lohāna ancestors, and partly due to their faith in the luck which the favour of their saints secures them.” Another great advantage arises from their method of trading in small corporations or companies of a number of persons either relations or friends. Some of these will have shops in the great centres of trade, Bombay and Calcutta, and others in different places in the interior. Each member then acts as correspondent and agent for all the others, and puts what business he can in their way. Many are also employed as assistants and servants in the shops; but at the end of the season, when all return to their native Gujarāt, the profits from the different shops are pooled and divided among the members in varying proportion. By this method they obtain all the advantages which are recognised as attaching to co-operative trading. 
-
-
 
 ## 02. Origin of the caste.
 
@@ -16,15 +13,11 @@ According to Mr. Farīdi, from whose description the remainder of this article i
 
 The present Pīr or head of the community is Sayyid Jāfir Shāh, who is nineteenth in descent from Yūsufuddīn and lives partly in Bombay and partly in Mundra of South Cutch. “At an uncertain date,” Mr. Farīdi continues, “the Lohāna or Cutchi Memans passed from Cutch south through Kāthiāwār to Gujarāt. They are said to have been strong and wealthy in Surat during the period of its prosperity \(1580–1680\). As Surat sank the Cutchi Memans moved to Bombay. Outside Cutch and Kāthiāwār, which may be considered their homes, the Memans are scattered over the cities of north and south Gujarāt and other Districts of Bombay. Beyond that Presidency they have spread as traders and merchants and formed settlements in Calcutta, Madras, the Malabar Coast, South Burma, Siam, Singapore and Java; in the ports of the Arabian Peninsula, except Muscat, where they have been ousted by the Khojas; and in Mozambique, Zanzibar and the East African Coast.”3 They have two divisions in Bombay, known as Cutchi or Kachhi and Halai. 
 
-
-
 ## 03. Social customs.
 
 Cutchis and Memans retain some non-Muhammadan usages. The principal of these is that they do not allow their daughters and widows to inherit according to the rule of Muhammadan law.4 They conduct their weddings by the Nikāh form and the *mehar* or dowry is always the same sum of a hundred and twenty-five rupees, whatever may be the position of the parties and in the case of widows also. They say that either party may be divorced by the other for conjugal infidelity, but the *mehar* or dowry must always be paid to the wife in the case of a divorce. The caste eat flesh and fowls and abstain from liquor. Most of them also decline to eat beef as a consequence of their Hindu ancestry and they will not take food from Hindus of low caste. 
 
-
-
-* * *
+___________________
 
 1 Vol. ix. part. ii. *Muhammadans of Gujarāt*, p. 57. 
 
@@ -33,6 +26,4 @@ Cutchis and Memans retain some non-Muhammadan usages. The principal of these is 
 3 *Bombay Gazetteer, l.c.*
 
 4 In recording this point Mr. Farīdi gives the following note: “In 1847 a case occurred which shows how firmly the Memans cling to their original tribal customs. The widow of Hāji Nūr Muhammad of the Lakariya family demanded a share of her deceased husband’s property according to Muhammadan law. The *jamā-at* or community decided that a widow had no claim to share her husband’s estates under the Hindu law. Before the High Court, in spite of the ridicule of other Sunnis, the elders of the Cutchi Memans declared that their caste rules denied the widow’s claim. The matter caused and is still \(1896\) causing agitation, as the doctors of the Sunni law at Mecca have decided that as the law of inheritance is laid down by the holy Korān, a wilful departure from it is little short of apostasy. The Memans are contemplating a change, but so far they have not found themselves able to depart from their tribal practices.” 
-
-
 

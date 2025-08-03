@@ -7,4 +7,3 @@ The castes of village and household menials form a large group between the culti
 
 On the other hand, one or two of the village menials, such as the Dhobi or washerman, are considered to some extent impure. This is due to specially degrading incidents attaching to their occupation, as in the case of the Dhobi, the washing of the clothes of women in childbirth.68 And the Sungaria subcaste of Kumhārs, who keep pigs, are not touched, because the impurity of the animal is necessarily communicated to its owner’s house and person. Still, in the village society there is little real difference between the position of these castes and those of the other village menials. 
 
-

@@ -7,6 +7,3 @@ Thus he could not at first have had any conception of a soul or spirit, which is
 
 There seems every reason to suppose, as the same author suggests, that man first thought he had a spirit himself and as a consequence held that animals, plants and inanimate objects also contained spirits. Because the belief that the human body had a spirit can easily be accounted for, but there seems to be no valid reason why man should have thought that all other visible objects also contained spirits, except that at the period when he conceived of the existence of a soul or spirit he still held them to be possessed of life and self-conscious volition like himself. But certain beliefs, such as the universal existence of life, and of its distribution all over the body and transmission by contact and eating, the common life of the species, and possibly totemism itself, appear to have been pre-animistic or prior to any conception of or belief in a soul or spirit either in man himself or in nature. 
 
-
-
-

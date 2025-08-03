@@ -7,10 +7,7 @@ title = "Rājpūt, Dhākar"
 
 In the Central Provinces the Dhākars are found principally in Hoshangābād, and it is doubtful if they are proper Rājpūts. 
 
-
-* * *
+___________________
 
 1 The above particulars are taken from Mr. Crooke’s article Dhākara in his *Tribes and Castes*. 
-
-
 

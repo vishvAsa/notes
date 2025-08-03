@@ -17,23 +17,13 @@ title = "KORWA"
 + 10. Dacoity. 577 
 + 11. Folk-tales. 577 
 
-
-
 ## 01. General notice.
-
-
 
 **Korwa.** 1—A Kolarian tribe of the Chota Nāgpur plateau. In 1911 about 34,000 Korwas were returned in the Central Provinces, the great bulk of whom belong to the Sargūja and Jashpur States and a few to the Bilāspur District. The Korwas are one of the wildest tribes. Colonel Dalton writes of them:2 “Mixed up with the Asuras and not greatly differing from them, except that they are more cultivators of the soil than smelters, we first meet the Korwas, a few stragglers of the tribe which under that name take up the dropped links of the Kolarian chain, and carry it on west, over the Sargūja, Jashpur and Palāmau highlands till it reaches another cognate tribe, the Kūrs \(Korkus\) or Muāsis of Rewah and the Central Provinces, and passes from the Vindhyan to the Satpūra range.
 
 “In the fertile valleys that skirt and wind among the plateaus other tribes are now found intermixed with the Korwas, but all admit that the latter were first in the field and were at one time masters of the whole; and we have good confirmatory proof of their being the first settlers in the fact that for the propitiation of the local spirits Korwa Baigas are always selected. There were in existence within the last twenty years, as highland chiefs and holders of manors, four Korwa notables, two in Sargūja and two in Jashpur; all four estates were valuable, as they comprised substantial villages in the fertile plains held by industrious cultivators, and great tracts of hill country on which were scattered the hamlets of their more savage followers. The Sargūja Korwa chiefs were, however, continually at strife with the Sargūja Rāja, and for various acts of rebellion against the Lord Paramount lost manor after manor till to each but one or two villages remained. The two Jashpur thanes conducted themselves right loyally at the crucial period of the Mutiny and they are now prosperous gentlemen in full enjoyment of their estates, the only Korwa families left that keep up any appearance of respectability. One of them is the hereditary Diwān of Jashpur, lord of the mountain tract of Khūria and Maini, and chief of perhaps two-thirds of the whole tribe of Korwas. The other holds an estate called Kakia comprising twenty-two villages.
 
-
-
-
-
 ## 02. Physical appearance.
-
-
 
 “The hill Korwas are the most savage-looking of all the Kolarian tribes. They are frightfully wild and uncouth in their appearance, and have good-humouredly accepted the following singular tradition to account for it. They say that the first human beings that settled in Sargūja, being very much troubled by the depredations of wild beasts on their crops, put up scarecrows in their fields, figures made of bamboos dangling in the air, the most hideous caricatures of humanity that they could devise to frighten the animals. When the great spirit saw the scarecrow he hit on an expedient to save his votaries the trouble of reconstructing them. He animated the dangling figures, thus bringing into existence creatures ugly enough to frighten all the birds and beasts in creation, and they were the ancestors of the wild Korwas.”
 
@@ -45,95 +35,41 @@ This legend is not peculiar to the Korwas but is also told by the Halbas, Lodhis
 
 It is noticeable that the Korwas have a subtribe called Korāku, and like the Korkus of the Satpūra range they are called Muāsi, a term having the meaning of raider or robber. Mr. Crooke thinks that the Korwas and Korkus are probably branches of the same tribe, but Sir G. Grierson dissents from this opinion. He states that the Korwa dialect is most closely related to Asuri and resembles Mundāri and Santāli. The Korwas have the honorific title of Mānjhi, also used by the Santāls. The Korba zamīndāri in Bilāspur is probably named after the Korwas.
 
-
-
-
-
 ## 03. Subdivisions.
-
-
 
 The principal subdivisions of the tribe are the Diharia or Kisān Korwas, those who live in villages \(*dih*\) and cultivate, and the Pahāria Korwas of the hills, who are also called Benwaria from their practising *bewar* or shifting cultivation. Two minor groups are the Korāku or young men, from *kora*, a young man, and the Birjias, who are probably the descendants of mixed marriages between Korwas and the tribe of that name, themselves an offshoot of the Baigas. The tribe is also divided into totemistic exogamous septs. 
 
-
-
-
-
 ## 04. Marriage customs.
-
-
 
 Marriage within the sept is forbidden, but this appears to be the only restriction. In Korba the Pahāria Korwas are said to marry their own sisters on occasion. The ordinary bride-price is Rs. 12. In Bilāspur there is reported to be no regular marriage feast, but the people dance together round a big earthen drum, called *māndhar*, which is played in the centre. This is bound with strips of leather along the sides and leather faces at the ends to be played on by the hands. They dance in a circle taking hands, men and women being placed alternately. Among the Pahāria Korwas of Sargūja, Mr. Kunte states, the consent of the parents is not required, and boys and girls arrange their own weddings. Men who can afford the bride-price have a number of wives, sometimes as many as eight or ten. After she has had a child each wife lives and cooks her food separately, but gives a part of it to her husband. The women bring roots and herbs from the forest and feed their husbands, so that the man with several wives enjoys a larger share of creature comforts. Among these people adultery is said to be very rare, but if a woman is detected in adultery she is at once made over to the partner of her act and becomes his wife. Divorce and the remarriage of widows are permitted, and a widow usually marries her late husband’s younger brother, though she is not obliged to do so. A husband divorcing his wife is obliged to feed the caste for five days.
 
-
-
-
-
 ## 05. Funeral rites.
-
-
 
 The tribe bury the dead, placing the corpse in the grave with the head to the south. A little rice is buried with the corpse. In Bilāspur the dead are buried in the forest, and the graves of old men are covered with branches of the *sāl*3 tree. Then they go to a little distance and make a fire, and pour *ghī* and incense on it as an offering to the ancestors, and when they hear a noise in the forest they take it to be the voice of the dead man. When a man dies his hut is broken down and they do not live in it again. The bodies of children under five are buried either in the house or under the shade of a banyan tree, probably with the idea that the spirit will come back and be born again. They say that a banyan tree is chosen because it lives longest of all trees and is evergreen, and hence it is supposed that the child’s spirit will also live out its proper span instead of being untimely cut off in its next birth.
 
-
-
-
-
 ## 06. Religion.
-
-
 
 The Korwas worship Dūlha Deo, the bridegroom god of the Gonds, and in Sargūja their principal deity is Khuria Rāni, the tutelary goddess of the Khuria plateau. She is a bloodthirsty goddess and requires animal sacrifices; formerly at special sacrifices 30 or 40 buffaloes were slaughtered as well as an unlimited number of goats.4 Thākur Deo, who is usually considered a corn-god, dwells in a sacred grove, of which no tree or branch may be cut or broken. The penalty for breach of the rules is a goat, but an exception is allowed if an animal has to be pursued and killed in the grove. Thākur Deo protects the village from epidemic disease such as cholera and smallpox. The Korwas have three festivals: the Deothān is observed on the full moon day of Pūs \(December\), and all their gods are worshipped; the Nawanna or harvest festival falls in Kunwār \(September\), when the new grain is eaten; and the Faguwa or Holi is the common celebration of the spring and the new vegetation.
 
-
-
-
-
 ## 07. Social customs.
-
-
 
 The Korwas do not admit outsiders into the tribe. They will take food from a Gond or Kawar, but not from a Brāhman. A man is permanently expelled from caste for a *liaison* with a woman of the impure Gānda and Ghasia castes, and a woman for adultery with any person other than a Korwa. Women are tattooed with patterns of dots on the arms, breasts and feet, and a girl must have this operation done before she can be married. Neither men nor women ever cut their hair.
 
-
-
-
-
 ## 08. Dancing.
-
-
 
 Of their appearance at a dance Colonel Dalton states:5 “Forming a huge circle, or rather coil, they hooked on to each other and wildly danced. In their hands they sternly grasped their weapons, the long stiff bow and arrows with bright, broad, barbed heads and spirally-feathered reed shafts in the left hand, and the gleaming battle-axe in the right. Some of the men accompanied the singing on deep-toned drums and all sang. A few scantily-clad females formed the inner curl of the coil, but in the centre was the Choragus who played on a stringed instrument, promoting by his grotesque motions unbounded hilarity, and keeping up the spirit of the dancers by his unflagging energy. Their matted back hair was either massed into a *chignon*, sticking out from the back of the head like a handle, from which spare arrows depended hanging by the bands, or was divided into clusters of long matted tails, each supporting a spare arrow, which, flinging about as they sprang to the lively movements of the dance, added greatly to the dramatic effect and the wildness of their appearance. The women were very diminutive creatures, on the average a foot shorter than their lords, clothed in scanty rags, and with no ornaments except a few tufts of cotton dyed red taking the place of flowers in the hair, a common practice also with the Santāl girls. Both tribes are fond of the flower of the cockscomb for this purpose, and when that is not procurable, use the red cotton.”
 
 They dance the *karma* dance in the autumn, thinking that it will procure them good crops, the dance being a kind of ritual or service and accompanied by songs in praise of the gods. If the rains fail they dance every night in the belief that the gods will be propitiated and send rain.
 
-
-
-
-
 ## 09. Occupation.
-
-
 
 Of their occupation Colonel Dalton states: “The Korwas cultivate newly cleared ground, changing their homesteads every two or three years to have command of virgin soil. They sow rice that ripens in the summer, vetches, millets, pumpkins, cucumbers—some of gigantic size—sweet potatoes, yams and chillies. They also grow and prepare arrowroot and have a wild kind which they use and sell. They have as keen a knowledge of what is edible among the spontaneous products of the jungle as have monkeys, and have often to use this knowledge for self-preservation, as they are frequently subjected to failure of crops, while even in favourable seasons some of them do not raise sufficient for the year’s consumption; but the best of this description of food is neither palatable nor wholesome. They brought to me nine different kinds of edible roots, and descanted so earnestly on the delicate flavour and nutritive qualities of some of them, that I was induced to have two or three varieties cooked under their instructions and served up, but the result was far from pleasant; my civilised stomach indignantly repelled the savage food, and was not pacified till it had made me suffer for some hours from cold sweat, sickness and giddiness.”6
 
-
-
-
-
 ## 10. Dacoity.
-
-
 
 The Korwas in the Tributary States have other resources than these. They are expert hunters, and to kill a bird flying or an animal running is their greatest delight. They do not care to kill their game without rousing it first. They are also very fond of dacoity and often proceed on expeditions, their victims being usually travellers, or the Ahīrs who bring large herds of cattle to graze in the Sargūja forests. These cattle do much damage to the village crops, and hence the Korwas have a standing feud with the herdsmen. They think nothing of murder, and when asked why he committed a murder, a Korwa will reply, ‘I did it for my pleasure’; but they despise both house-breaking and theft as cowardly offences, and are seldom or never guilty of them. The women are also of an adventurous disposition and often accompany their husbands on raids. Before starting they take the omens. They throw some rice before a chicken, and if the bird picks up large solid grains first they think that a substantial booty is intended, but if it chooses the thin and withered grains that the expedition will have poor results. One of their bad omens is that a child should begin to cry before the expedition starts; and Mr. Kunte, who has furnished the above account, relates that on one occasion when a Korwa was about to start on a looting expedition his two-year-old child began to cry. He was enraged at the omen, and picking up the child by the feet dashed its brains out against a stone.
 
-
-
-
-
 ## 11. Folk-tales.
-
-
 
 Before going out hunting the Korwas tell each other hunting tales, and they think that the effect of doing this is to bring them success in the chase. A specimen of one of these tales is as follows: There were seven brothers and they went out hunting. The youngest brother’s name was Chilhra. They had a beat, and four of them lay in ambush with their bows and arrows. A deer came past Chilhra and he shot an arrow at it, but missed. Then all the brothers were very angry with Chilhra and they said to him, “We have been wandering about hungry for the whole day, and you have let our prey escape.” Then the brothers got a lot of *māhul*7 fibre and twisted it into rope, and from the rope they wove a bag. And they forced Chilhra into this bag, and tied up the mouth and threw it into the river where there was a whirlpool. Then they went home. Now Chilhra’s bag was spinning round and round in the whirlpool when suddenly a sāmbhar stag came out of the forest and walked down to the river to drink opposite the pool. Chilhra cried out to the sāmbhar to pull his bag ashore and save him. The sāmbhar took pity on him, and seizing the bag in his teeth pulled it out of the water on to the bank. Chilhra then asked the sāmbhar after he had quenched his thirst to free him from the bag. The sāmbhar drank and then came and bit through the *māhul* ropes till Chilhra could get out. He then proposed to the sāmbhar to try and get into the bag to see if it would hold him. The sāmbhar agreed, but no sooner had he got inside than Chilhra tied up the bag, threw it over his shoulder and went home. When the brothers saw him they were greatly astonished, and asked him how he had got out of the bag and caught a sāmbhar, and Chilhra told them. Then they killed and ate the sāmbhar. Then all the brothers said to Chilhra that he should tie them up in bags as he had been tied and throw them into the river, so that they might each catch and bring home a sāmbhar. So they made six bags and went to the river, and Chilhra tied them up securely and threw them into the river, when they were all quickly drowned. But Chilhra went home and lived happily ever afterwards.
 
@@ -143,11 +79,7 @@ The following is another folk-tale of the characteristic type of fairy story fou
 
 A certain rich man, a banker and moneylender \(Sāhu\), had twelve sons. He got them all married and they went out on a journey to trade. There came a holy mendicant to the house of the rich man and asked for alms. The banker was giving him alms, but the saint said he would only take them from his son or son’s wife. As his sons were away the rich man called his daughter-in-law, and she began to give alms to the saint. But he caught her up and carried her off. Then her father-in-law went to search for her, saying that he would not return until he had found her. He came to the saint’s house upon a mountain and said to him, ‘Why did you carry off my son’s wife?’ The saint said to him, ‘What can you do?’ and turned him into stone by waving his hand. Then all the other brothers went in turn to search for her down to the youngest, and all were turned into stone. At last the youngest brother set out to search but he did not go to the saint, but travelled across the sea and sat under a tree on the other side. In that tree was the nest with young of the Raigidan and Jatagidan8 birds. A snake was climbing up the tree to eat the nestlings, and the youngest brother saw the snake and killed it. When the parent birds returned the young birds said, “We will not eat or drink till you have rewarded this boy who killed the snake which was climbing the tree to devour us.” Then the parent birds said to the boy, ‘Ask of us whatever you will and we will give it to you.’ And the boy said,’ I want only a gold parrot in a gold cage.’ Then the parent birds said, “You have asked nothing of us, ask for something more; but if you will accept only a gold parrot in a gold cage wait here a little and we will fly across the sea and get it for you.” So they brought the parrot and cage, and the youngest brother took them and went home. Immediately the saint came to him and asked him for the gold parrot and cage because the saint’s soul was in that parrot. Then the youngest brother told him to dance and he would give him the parrot; and the saint danced, and his legs and arms were broken one after the other, as often as he asked for the parrot and cage. Then the youngest brother buried the saint’s body and went to his house and passed his hands before all the stone images and they all came to life again. 
 
-
-
-
-
-* * *
+___________________
 
 1 This article is based on Colonel Dalton’s account of the tribe and on notes by Mr. N. T. Kunte, Jailor, Sargūja, and Mr. Narbad Dhanu Sao, Assistant Manager, Uprora.
 
@@ -164,7 +96,4 @@ A certain rich man, a banker and moneylender \(Sāhu\), had twelve sons. He got 
 7 *Bauhinia Vahlii.*
 
 8 Believed to be some kind of vulture.
-
-
-
 

@@ -7,10 +7,7 @@ title = "Naoda"
 
 The caste worship the ordinary Hindu deities and especially Bhairon, the guardian of the gate of Mahādeo’s temple. They have a nail driven into the bow of their boat which is called ‘Bhairon’s nail,’ and at the Dasahra festival they offer to this a white pumpkin with cocoanuts, vermilion, incense and liquor. The caste hold in special reverence the cow, the dog and the tamarind tree. The dog is sacred as being the animal on which Bhairava rides, and their most solemn oaths are sworn by a dog or a cow. They will on no account cut or burn the tamarind tree, and the women veil their faces before it. They cannot explain this sentiment, which is probably due to some forgotten belief of the nature of totemism. To kill a cow or a cat intentionally involves permanent exclusion from the caste, while the slaughter of a squirrel, dog, horse, buffalo or monkey is punished by temporary exclusion, it being equally sinful to allow any of these animals to die with a rope round its neck. The Naodas eat the flesh of pigs and fowls, but they occupy a fairly good social position and Brāhmans will take water from their hands. 
 
-
-* * *
+___________________
 
 1 In 1911 the Naodas numbered 700 persons in the Central Provinces. About 1000 were returned in Central India in 1891, but in 1901 they were amalgamated with the Mallāhs or Kewats. This article is based on a paper by Mr. P.R. Kaipitia, Forest Ranger. 
-
-
 

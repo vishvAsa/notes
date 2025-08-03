@@ -7,10 +7,7 @@ title = "Dādupanthi Sect **1**"
 
 Like other sects, the Dādupanthis are divided into celibate or priestly and lay or householder branches. But they have also a third offshoot, consisting in the Nāga Gosains of Jaipur, nearly naked ascetics, who constituted a valuable part of the troops of Jaipur and other States. It is said that the Nāgas always formed the van of the army of Jaipur. The sect have white caps with four corners and a flap hanging down at the back, which each follower has to make for himself. To prevent the destruction of animal life entailed by cremation, the tenets of the sect enjoin that corpses should be laid in the forests to be devoured by birds and beasts. This rule, however, is not observed, and their dead are burnt at early dawn. 
 
-
-* * *
+___________________
 
 1 This article is compiled from the notices in Wilson’s *Hindu Sects, As. Res.* vol. xvi. pp. 79–81; Sir E. Maclagan’s *Punjab Census Report*, 1891; and Mr. Bhimbhai Kirpārām’s *Hindus of Gujarāt*, *Bombay Gazetteer*, vol. ix. 
-
-
 

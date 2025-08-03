@@ -3,39 +3,19 @@ title = "Kewat"
 
 +++
 
-
-
 ## 01. General notice.
-
-
 
 **Kewat**, **Khewat**, **Kaibartta**.1—A caste of fishermen, boatmen, grain-parchers, and cultivators, chiefly found in the Chhattīsgarh Districts of Drūg, Raipur, and Bilāspur. They numbered 170,000 persons in 1911. The Kewats or Kaibarttas, as they are called in Bengal, are the modern representatives of the Kaivartas, a caste mentioned in Hindu classical literature. Sir H. Risley explains the origin of the name as follows:2 “Concerning the origin of the name Kaibartta there has been considerable difference of opinion. Some derive it from *ka*, water, and *vartta*, livelihood; but Lassen says that the use of *ka* in this sense is extremely unusual in early Sanskrit, and that the true derivation is Kivarta, a corruption of Kimvarta, meaning a person following a low or degrading occupation. This, he adds, would be in keeping with the pedigree assigned to the caste in Manu, where the Kaivarta, also known as Mārgava or Dāsa, is said to have been begotten by a Nishāda father and an Ayogavi mother, and to subsist by his labour in boats. On the other hand, the Brāhma-Vaivarta Purāna gives the Kaibartta a Kshatriya father and a Vaishya mother, a far more distinguished parentage; for the Ayogavi having been born from a Sūdra father and a Vaishya mother is classed as *pratiloma*, begotten against the hair, or in the inverse order of the precedence of the castes.” The Kewats are a mixed caste. Mr. Crooke says that they merge on one side into the Mallāhs and on the other into the Binds. In the Central Provinces their two principal subdivisions are the Laria and Uriya, or the residents of the Chhattīsgarh and Sambalpur plains respectively. The Larias are further split up into the Larias proper, the Kosbonwas, who grow *kosa* or tasar silk cocoons, and the Binjhwārs and Dhuris \(grain-parchers\). The Binjhwārs are a Hinduised group of the Baiga tribe, and in Bhandāra they have become a separate Hindu caste, dropping the first letter of the name, and being known as Injhwār. The Binjhwār Kewats are a group of the same nature. The Dhuris are grain-parchers, and there is a separate Dhuri caste; but as grain-parching is also a traditional occupation of the Kewats, the Dhuris may be an offshoot from them. The Kewats are so closely connected with the Dhīmars that it is difficult to make any distinction; in Chhattīsgarh it is said that the Dhīmars will not act as ferrymen, while the Kewats will not grow or sell *singāra* or water-nut. The Dhīmars worship their fishing-nets on the Akti day, which the Kewats will not do. Both the Kewats and Dhīmars are almost certainly derived from the primitive tribes. The Kewats say that formerly the Hindus would not take water from them; but on one occasion during his exile Rāma came to them and asked them to ferry him across a river; before doing so they washed his feet and drank the water, and since that time the Hindus have considered them pure and take water from their hands. This story has no doubt been invented to explain the fact that Brāhmans will take water from the non-Aryan Kewats, the custom having in reality been adopted as a convenience on account of their employment as palanquin-bearers and indoor servants. But in Saugor, where they are not employed as servants, and also grow *san*-hemp, their position is distinctly lower and no high caste will take water from them.
 
-
-
-
-
 ## 02. Exogamous divisions and marriage.
-
-
 
 The caste have also a number of exogamous groups, generally named after plants or animals, or bearing some nickname given to the reputed founder. Instances of the first class are Tūma, a gourd, Karsāyal, a deer, Bhalwa, a bear, Ghughu, an owl, and so on. Members of such a sept abstain from injuring the animal after which the sept is named or eating its flesh; those of the Tūma sept worship a gourd with offerings of milk and a cocoanut at the Holi festival. Instances of titular names are Garhtod, one who destroyed a fort, Jhagarha quarrelsome, Dehri priest, Kāla black, and so on. One sept is named Rāwat, its founder having probably belonged to the grazier caste. Members of this sept must not visit the temple of Mahādeo at Rājim during the annual fair, but give no explanation of the prohibition. Others are the Ahira, also from the Ahīr \(herdsman\) caste; the Rautele, which is the name of a subdivision of Kols and other tribes; and the Sonwāni or ‘gold water’ sept, which is often found among the primitive tribes. In some localities these three have now developed into separate subcastes, marrying among themselves; and if any of their members become Kabīrpanthis, the others refuse to eat and intermarry with them. The marriage of members of the same sept is prohibited, and also the union of first cousins. Girls are generally married under ten years of age, but if a suitable husband cannot be found for a daughter, the parents will make her over to any member of the caste who offers himself on condition that he bears the expenses of the marriage. In Sambalpur she is married to a flower. Sir H. Risley notes3 the curious fact that in Bihār it is deemed less material that the bridegroom should be older than the bride than that he should be taller. “This point is of the first importance, and is ascertained by actual measurement. If the boy shorter than the girl, or if his height is exactly the same as hers, it is believed that the union of the two would bring ill-luck, and the match is at once broken off.” The marriage is celebrated in the customary manner by walking round the sacred pole, after which the bridegroom marks the forehead of the bride seven times with vermilion, parts her hair with a comb, and then draws her cloth over her head. The last act signifies that the bride has become a married woman, as a girl never covers her head. In Bengal4 a drop of blood is drawn from the fingers of the bride and bridegroom and mixed with rice, and each eats the rice containing the blood of the other. The anointing with vermilion is probably a substitute for this. Widow-remarriage and divorce are permitted. In Sambalpur a girl who is left a widow under ten years of age is remarried with full rites as a virgin.
 
-
-
-
-
 ## 03. Social customs.
-
-
 
 The Kewats worship the ordinary Hindu deities and believe that a special goddess, Chaurāsi Devi, dwells in their boats and keeps them from sinking. She is propitiated at the beginning of the rains and in times of flood, and an image of her is painted on their boats. They bury the dead, laying the corpse with the feet to the south, while some clothes, cotton, til and salt are placed in the grave, apparently as a provision for the dead man’s soul. They worship their ancestors at intervals on a Monday or a Saturday with an offering of a fowl. As is usual in Chhattīsgarh, their rules as to food are very lax, and they will eat both fowls and pork. Nevertheless Brāhmans will take water at their hands and eat the rice and gram which they have parched. The caste consider fishing to have been their original occupation, and tell a story to the effect that their ancestors saved the deity in their boat on the occasion of the Deluge, and in return were given the power of catching three or four times as many fish as ordinary persons in the same space of time. Some of them parch gram and rice, and others act as coolies and *banghy*-bearers.5 Kewats are usually in poor circumstances, but they boast that the town of Bilāspur is named after Bilāsa Keotin, a woman of their caste. She was married, but was sought after by the king of the country, so she held out her cloth to the sun, calling on him to set it on fire, and was burnt alive, preserving her virtue. Her husband burnt himself with her, and the pair ascended to heaven. 
 
-
-
-
-
-* * *
+___________________
 
 1 This article is based on papers by Mr. Mahfuz Ali, tahsīldār, Rājnand-gaon, Mr. Jowāhir Singh, Settlement Superintendent, Sambalpur, and Mr. Adurām Chaudhri of the Gazetteer Office.
 
@@ -46,7 +26,4 @@ The Kewats worship the ordinary Hindu deities and believe that a special goddess
 4 *Tribes and Castes of Bengal*, *ibidem*.
 
 5 A curved stick carried across the shoulders, from which are suspended two panniers.
-
-
-
 

@@ -13,7 +13,7 @@ The occupation of the Khatīk is of course horrible to Hindu ideas, and the soci
 
 
 
-* * *
+___________________
 
 1 Mr. Crooke’s *Tribes and Castes*, art. Khatīk.
 

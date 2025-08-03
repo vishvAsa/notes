@@ -11,14 +11,11 @@ Owing to their general adoption of Marātha customs, the Mānas are now commonly
 
 The Mānas have Bhāts or genealogists of their own caste, a separate one being appointed for each sept. The Bhāt of any sept can only accept gifts from members of that sept, though he may take food from any one of the caste. The Bhāts are in the position of beggars, and the other Mānas will not take food from them. Every man must have a Bhāt for his family under penalty of being temporarily put out of caste. It is said that the Bhāts formerly had books showing the pedigrees of the different families, but that once in a spirit of arrogance they placed their shoes upon the books; and the other Mānas, not brooking this insolence, burnt the books. The gravity of such an act may be realised when it is stated that if anybody even threatens to hit a Māna with a shoe, the indignity put upon him is so great that he is temporarily excluded from caste and penalised for readmission. Since this incident the Bhāts have to address the Mānas as ‘Brahma,’ to show their respect, the Māna replying ‘Rām, Rām.’ Their women wear short loin-cloths, exposing part of the thigh, like the Gonds. They eat pork and drink liquor, but will take cooked food only from Brāhmans. 
 
-
-* * *
+___________________
 
 1 This article is based on papers by Mr. Hīra Lāl and G. Padaya Naidu of the Gazetteer Office. 
 
 2 *Papers on the Aboriginal Tribes of the Central Provinces*, p. 6. 
 
 3 Rev. A. Wood in *Chānda District Gazetteer*, para. 96. 
-
-
 

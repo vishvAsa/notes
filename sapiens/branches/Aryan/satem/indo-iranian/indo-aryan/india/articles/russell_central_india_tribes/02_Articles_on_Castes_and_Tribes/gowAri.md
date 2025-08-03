@@ -87,7 +87,7 @@ The Gowāris eat pork, fowls, rats, lizards and peacocks, and abstain only from 
 
 
 
-* * *
+___________________
 
 1 This article is based on notes by Mr. Percival, Assistant Conservator of Forests, and Rai Bahādur Hīra Lal.
 

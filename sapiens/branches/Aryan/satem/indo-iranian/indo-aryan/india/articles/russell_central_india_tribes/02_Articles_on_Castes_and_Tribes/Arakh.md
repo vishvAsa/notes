@@ -7,14 +7,11 @@ title = "Arakh"
 
 The social customs of the Arakhs resemble those of other low Hindu castes, and need not be given in detail. Their weddings are held near a temple of Māroti, or if there be none such, then at the place where the Holi fire was lit in the preceding year. A bride-price varying from Rs. 25 to Rs. 40 is usually paid. In the case of the marriage of a widow, the second husband goes to the house of the woman, where the couple are bathed and seated on two wooden boards, a branch of a cotton-plant being placed near them. The bridegroom then ties five strings of black glass beads round the woman’s neck. The dead are mourned for one day only, and a funeral feast is given to the caste-fellows. The Arakhs are a very low caste, but their touch does not convey impurity. 
 
-
-* * *
+___________________
 
 1 *Tribes and Castes*, art. Arakh. 
 
 2 *Cajanus indicus.*
 
 3 *Berār Census Report* \(1881\), p. 157. 
-
-
 

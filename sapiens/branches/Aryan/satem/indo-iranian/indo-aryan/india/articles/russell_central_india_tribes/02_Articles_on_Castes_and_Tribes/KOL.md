@@ -3,8 +3,6 @@ title = "KOL"
 
 +++
 
-
-
 \[This article is based mainly on Colonel Dalton’s classical description of the Mundas and Hos in the *Ethnology of Bengal* and on Sir H. Risley’s article on Munda in *The Tribes and Castes of Bengal*. Extracts have also been made from Mr. Sarat Chandra Roy’s exhaustive account in *The Mundas and their Country* \(Calcutta, 1912\). Information on the Mundas and Kols of the Central Provinces has been collected by Mr. Hīra Lāl in Raigarh and by the author in Mandla, and a monograph has been furnished by Mr. B. C. Mazumdār, Pleader, Sambalpur. It should be mentioned that most of the Kols of the Central Provinces have abandoned the old tribal customs and religion described by Colonel Dalton, and are rapidly coming to resemble an ordinary low Hindu caste.\]
 
 ## List of Paragraphs
@@ -32,130 +30,59 @@ title = "KOL"
 + 21. Occupation. 519 
 + 22. Language. 519 
 
-
-
 ## 01. General notice. Strength of the Kols in India.
-
-
 
 **Kol**, **Munda**, **Ho**.—A great tribe of Chota Nāgpur, which has given its name to the Kolarian family of tribes and languages. A part of the District of Singhbhūm near Chaibāsa is named the Kolhān as being the special home of the Larka Kols, but they are distributed all over Chota Nāgpur, whence they have spread to the United Provinces, Central Provinces and Central India. It seems probable also that the Koli tribe of Gujarāt may be an offshoot of the Kols, who migrated there by way of Central India. If the total of the Kols, Mundas and Hos or Larka Kols be taken together they number about a million persons in India. The real strength of the tribe is, however, much greater than this. As shown in the article on that tribe, the Santāls are a branch of the Kols, who have broken off from the parent stock and been given a separate designation by the Hindus. They numbered two millions in 1911. The Bhumij \(400,000\) are also probably a section of the tribe. Sir H. Risley1 states that they are closely allied to if not identical with the Mundas. In some localities they intermarry with the Mundas and are known as Bhumij Munda.2 If the Kolis also be taken as an offshoot of the Kol tribe, a further addition of nearly three millions is made to the tribes whose parentage can be traced to this stock. There is little doubt also that other Kolarian tribes, as the Kharias, Khairwars, Korwas and Korkus, whose tribal languages closely approximate to Mundāri, were originally one with the Mundas, but have been separated for so long a period that their direct connection can no longer be proved. The disintegrating causes, which have split up what was originally one into a number of distinct tribes, are probably no more than distance and settlement in different parts of the country, leading to cessation of intermarriage and social intercourse. The tribes have then obtained some variation in the original name or been given separate territorial or occupational designations by the Hindus and their former identity has gradually been forgotten.
 
-
-
-
-
 ## 02. Names of the tribe.
-
-
 
 “The word Kol is probably the Santāli *hār*, a man. This word is used under various forms, such as *har*, *hāra*, *ho* and *koro* by most Munda tribes in order to denote themselves. The change of *r* to *l* is familiar and does not give rise to any difficulty.”3 The word Korku is simply a corruption of Kodaku, young men, and there is every probability that the Hindus, hearing the Kol tribe call themselves *hor* or *horo*, may have corrupted the name to a form more familiar to themselves. An alternative derivation from the Sanskrit word *kola*, a pig, is improbable. But it is possible, as suggested by Sir G. Grierson, that after the name had been given, its Sanskrit meaning of pig may have added zest to its employment by the Hindus. The word Munda, Sir H. Risley states, is the common term employed by the Kols for the headman of a village, and has come into general use as an honorific title, as the Santāls call themselves Mānjhi, the Gonds Bhoi, and the Bhangis and other sweepers Mehtar. Munda, like Mehtar, originally a title, has become a popular alternative name for the caste. In Chota Nāgpur those Kols who have partly adopted Hinduism and become to some degree civilised are commonly known as Munda, while the name Ho or Larka Kol is reserved for the branch of the tribe in Singhbhūm who, as stated by Colonel Dalton, “From their jealous isolation for so many years, their independence, their long occupation of one territory, and their contempt for all other classes that come in contact with them, especially the Hindus, probably furnish the best illustration, not of the Mundāris in their present state, but of what, if left to themselves and permanently located, they were likely to become. Even at the present day the exclusiveness of the old Hos is remarkable. They will not allow aliens to hold land near their villages; and indeed if it were left to them no strangers would be permitted to settle in the Kolhān.”
 
 It is this branch of the tribe whose members have come several times into contact with British troops, and on account of their bravery and warlike disposition they are called the Larka or fighting Kols. The Mundas on the other hand appear now to be a very mixed group. The list of their subcastes given4 by Sir H. Risley includes the Khangār, Kharia, Mahali, Oraon and Savar Mundas, all of which are the names of separate tribes, now considered as distinct, though with the exception of the Oraons they were perhaps originally offshoots of the Kols or akin to them; while the Bhuinhār or landholders and Nāgvansi or Mundas of the royal house are apparently the aristocracy of the original tribe. It would appear possible from the list of sub-tribes already given that the village headmen of other tribes, having adopted the designation of Munda and intermarried with other headmen so as to make a superior group, have in some cases been admitted into the Munda tribe, which may enjoy a higher rank than other tribes as the Rāja of Chota Nāgpur belongs to it; but it is also quite likely that these groups may have simply arisen from the intermarriages of Mundas with other tribes, alliances of this sort being common. The Kols of the Central Provinces probably belong to the Munda tribe of Chota Nāgpur, and not to the Hos or Larka Kols, as the latter would be less likely to emigrate. But quite a separate set of subcastes is found here, which will be given later.
 
-
-
-
-
 ## 03. Origin of the Kolarian tribes.
-
-
 
 The Munda languages have been shown by Sir G. Grierson to have originated from the same source as those spoken in the Indo-Pacific islands and the Malay Peninsula. “The Mundas, the Mon-Khmer, the wild tribes of the Malay Peninsula and the Nicobarese all use forms of speech which can be traced back to a common source though they mutually differ widely from each other.”5 It would appear therefore that the Mundas, the oldest known inhabitants of India, perhaps came originally from the south-east, the islands of the Indian Archipelago and the Malay Peninsula, unless India was their original home and these countries were colonised from it.
 
 Sir E. Gait states: “Geologists tell us that the Indian Peninsula was formerly cut off from the north of Asia by sea, while a land connection existed on the one side with Madagascar and on the other with the Malay Archipelago; and though there is nothing to show that India was then inhabited we know that it was so in palaeolithic times, when communication was probably still easier with the countries to the north-east and south-west than with those beyond the Himalayas.”6 In the south of India, however, no traces of Munda languages remain at present, and it seems therefore necessary to conclude that the Mundas of the Central Provinces and Chota Nāgpur have been separated from the tribes of Malaysia who speak cognate languages for an indefinitely long period, or else that they did not come through southern India to these countries, but by way of Assam and Bengal or by sea through Orissa. There is good reason to believe from the names of places and from local tradition that the Munda tribes were once spread over Bihār and parts of the Ganges valley; and if the Kolis are an offshoot of the Kols, as is supposed, they also penetrated across Central India to the sea in Gujarāt and the hills of the Western Ghāts. It is presumed that the advance of the Aryans or Hindus drove the Mundas from the open country to the seclusion of the hills and forests. The Munda and Dravidian languages are shown by Sir G. Grierson to be distinct groups without any real connection.
 
-
-
-
-
 ## 04. The Kolarians and Dravidians.
-
-
 
 Though the physical characteristics of the two sets of tribes display no marked points of difference, it has been generally held by ethnologists who know them that they represent two distinct waves of immigration, and the absence of connection between their languages bears out this view. It has always been supposed that the Mundas were in the country of Chota Nāgpur and the Central Provinces first, and that the Dravidians, the Gonds, Khonds and Oraons came afterwards. The grounds for this view are the more advanced culture of the Dravidians; the fact that where the two sets of tribes are in contact those of the Munda group have been ousted from the more open and fertile country, of which according to tradition they were formerly in possession; and the practice of the Gonds and other Dravidian tribes of employing the Baigas, Bhuiyas and other Munda tribes for their village priests, which is an acknowledgment that the latter as the earlier residents have a more familiar acquaintance with the local deities, and can solicit their favour and protection with more prospect of success. Such a belief is the more easily understood when it is remembered that these deities are not infrequently either the human ancestors of the earliest residents or the local animals and plants from which they supposed themselves to be descended.
 
-
-
-
-
 ## 05. Date of the Dravidian immigration.
-
-
 
 The Dravidian languages, Gondi, Kurukh and Khond, are of one family with Tamil, Telugu, Malayālam and Canarese, and their home is the south of India. As stated7 by Sir E. Gait, there is at present no evidence to show that the Dravidians came to southern India from any other part of the world, and for anything that is known to the contrary the languages may have originated there. The existence of the small Brahui tribe in Baluchistān, who speak a Dravidian language but have no physical resemblance to other Dravidian races, cannot be satisfactorily explained, but as he points out this is no reason for holding that the whole body of speakers of Dravidian languages entered India from the north-west, and, with the exception of this small group of Brahuis, penetrated to the south of India and settled there without leaving any traces of their passage.
 
 The Dravidian languages occupy a large area in Madras, Mysore and Hyderābād, and they extend north into the Central Provinces and Chota Nāgpur, where they die out, practically not being found west and north of this tract. As the languages are more highly developed and the culture of their speakers is far more advanced in the south, it is justifiable to suppose, pending evidence to the contrary, that the south is their home and that they have spread thence as far north as the Central Provinces. The Gonds and Oraons too have stories to the effect that they came from the south. It has hitherto been believed, at least in the Central Provinces, that both the Gonds and Baigas have been settled in this territory for an indefinite period, that is, from prior to any Aryan or Hindu immigration. Mr. H. A. Crump, however, has questioned this assumption. He points out that the Baiga tribe have entirely lost their own language and speak a dialect of Chhattīsgarhi Hindi in Mandla, while half the Gonds still speak Gondi. If the Baigas and Gonds were settled here together before the arrival of any Hindus, how is it that the Baigas do not speak Gondi instead of Hindi? A comparison of the caste and language tables of the census of 1901 shows that several of the Munda tribes have entirely lost their own language, among these being the Binjhwār, Baiga, Bhaina, Bhuiya, Bhumij, Chero and Khairwār, and the Bhīls and Kolis if these are held to be Munda tribes. None of these tribes have adopted a Dravidian language, but all speak corrupt forms of the current Aryan vernaculars derived from Sanskrit. The Mundas and Hos themselves with the Kharias, Santāls and Korkus retain Munda languages. On the other hand a half of the Gonds, nearly all the Oraons and three-fourths of the Khonds still preserve their own Dravidian speech. It would therefore seem that the Munda tribes who speak Aryan vernaculars must have been in close contact with Hindu peoples at the time they lost their own language and not with Gonds or Oraons. In the Central Provinces it is known that Rājpūt dynasties were ruling in Jubbulpore from the sixth to the twelfth century, in Seoni about the sixth century and in Bhāndak near Chānda from an early period as well as at Ratanpur in Chhattīsgarh. From about the twelfth century these disappear and there is a blank till the fourteenth century or later, when Gond kingdoms are found established at Kherla in Betūl, at Deogarh in Chhindwāra, at Garha-Mandla8 including the Jubbulpore country, and at Chānda fourteen miles from Bhāndak. It seems clear then that the Hindu dynasties were subverted by the Gonds after the Muhammadan invasions of northern India had weakened or destroyed the central powers of the Hindus and prevented any assistance being afforded to the outlying settlements. But it seems *prima facie* more likely that the Hindu kingdoms of the Central Provinces should have been destroyed by an invasion of barbarians from without rather than by successful risings of their own subjects once thoroughly subdued. The Haihaya Rājpūt dynasty of Ratanpur was the only one which survived, all the others being supplanted by Gond states. If then the Gond incursion was subsequent to the establishment of the old Hindu kingdoms, its probable date may be placed from the ninth to the thirteenth centuries, the subjugation of the greater part of the Province being no doubt a gradual affair. In favour of this it may be noted that some recollection still exists of the settlement of the Oraons in Chota Nāgpur being later than that of the Mundas, while if it had taken place long before this time all tradition of it would probably have been forgotten. In Chhindwāra the legend still remains that the founder of the Deogarh Gond dynasty, Jātba, slew and supplanted the Gaoli kings Ransur and Ghansur, who were previously ruling on the plateau. And the Bastar Rāj-Gond Rājas have a story that they came from Warangal in the south so late as the fourteenth century, accompanied by the ancestors of some of the existing Bastar tribes. Jadu Rai, the founder of the Gond-Rājpūt dynasty of Garha-Mandla, is supposed to have lived near the Godāvari. A large section of the Gonds of the Central Provinces are known as Rāwanvansi or of the race of Rāwan, the demon king of Ceylon, who was conquered by Rāma. The Oraons also claim to be descended from Rāwan.9 This name and story must clearly have been given to the tribes by the Hindus, and the explanation appears to be that the Hindus considered the Dravidian Gonds and Oraons to have been the enemy encountered in the Aryan expedition to southern India and Ceylon, which is dimly recorded in the legend of Rāma. On the other hand the Bhuiyas, a Munda tribe, call themselves *Pāwan-ka-put* or Children of the Wind, that is of the race of Hanumān, who was the Son of the Wind; and this name would appear to show, as suggested by Colonel Dalton, that the Munda tribes gave assistance to the Aryan expedition and accompanied it, an alliance which has been preserved in the tale of the exploits of Hanumān and his army of apes. Similarly the name of the Rāmosi caste of Berār is a corruption of Rāmvansi or of the race of Rāma; and the Rāmosis appear to be an offshoot of the Bhīls or Kolis, both of whom are not improbably Munda tribes. A Hindu writer compared the Bhīl auxiliaries in the camp of the famous Chalukya Rājpūt king Sidhrāj of Gujarāt to Hanumān and his apes, on account of their agility.10 These instances seem to be in favour of the idea that the Munda tribes assisted the Aryans, and if this were the case it would appear to be a legitimate inference that at the same period the Dravidian tribes were still in southern India and not mixed up with the Munda tribes in the Central Provinces and Chota Nāgpur as at present. Though the evidence is perhaps not very strong, the hypothesis, as suggested by Mr. Crump, that the settlement of the Gonds in the Central Provinces is comparatively recent and subsequent to the early Rājpūt dynasties, is well worth putting forward.
 
-
-
-
-
 ## 06. Strength of the Kols in the Central Provinces.
-
-
 
 In the Central Provinces the Kols and Mundas numbered 85,000 persons in 1911. The name Kol is in general use except in the Chota Nāgpur States, but it seems probable that the Kols who have immigrated here really belong to the Munda tribe of Chota Nāgpur. About 52,000 Kols, or nearly a third of the total number, reside in the Jubbulpore District, and the remainder are scattered over all Districts and States of the Province.
 
-
-
-
-
 ## 07. Legend of origin.
-
-
 
 The Kol legend of origin is that Sing-Bonga or the Sun created a boy and a girl and put them together in a cave to people the world; but finding them to be too innocent to give hope of progeny he instructed them in the art of making rice-beer, which inflames the passions, and in course of time they had twelve sons and twelve daughters. The divine origin ascribed by the Kols, in common with other peoples, to their favourite liquor may be noticed. The children were divided into pairs, and Sing-Bonga set before them various kinds of food to choose for their sustenance before starting out into the world; and the fate of their descendants depended on their choice. Thus the first and second pairs took the flesh of bullocks and buffaloes, and from them are descended the Kols and Bhumij; one pair took shell-fish and became Bhuiyas, two pairs took pigs and were the ancestors of the Santāls, one pair took vegetables only and originated the Brāhman and Rājpūt castes, and other pairs took goats and fish, from whom the various Sūdra castes are sprung. One pair got nothing, and seeing this the Kol pair gave them of their superfluity and the descendants of these became the Ghasias, who are menials in Kol villages and supported by the cultivators. The Larka Kols attribute their strength and fine physique to the fact that they eat beef. When they first met English soldiers in the beginning of the nineteenth century the Kols were quickly impressed by their wonderful fighting powers, and finding that the English too ate the flesh of bullocks, paid them the high compliment of assigning to them the same pair of ancestors as themselves. The Nāgvansi Rājas of Chota Nāgpur say that their original ancestor was a snake-god who assumed human form and married a Brāhman’s daughter. But, like Lohengrin, the condition of his remaining a man was that he should not disclose his origin, and when he was finally brought to satisfy the incessant curiosity of his wife, he reverted to his first shape, and she burned herself from remorse. Their child was found by some wood-cutters lying in the forest beneath a cobra’s extended hood, and was brought up in their family. He subsequently became king, and his seven elder brothers attended him as banghy-bearers when he rode abroad. The Mundas are said to be descended from the seven brothers, and their sign-manual is a *kawar* or banghy.11 Hence the Rājas of Chota Nāgpur regard the Mundas as their elder brothers, and the Rānis veil their faces when they meet a Munda as to a husband’s elder brother. The probable explanation of the story is that the Hos or Mundas, from whom the kings are sprung, were a separate section of the tribe who subdued the older Mundas. In memory of their progenitor the Nāgvansi Rājas wear a turban folded to resemble the coils of a snake with a projection over the brow for its head.12
 
-
-
-
-
 ## 08. Tribal subdivisions.
-
-
 
 The subcastes of the Kols in the Central Provinces differ entirely from those in Chota Nāgpur. Of the important subcastes here the Rautia and Rautele take their name from Rāwat, a prince, and appear to be a military or landholding group. In Chota Nāgpur the Rautias are a separate caste, holding land. The Rautia Kols practise hypergamy with the Rauteles, taking their daughters in marriage but not giving daughters. They will eat with Rauteles at wedding feasts only and not on any other occasion. The Thākuria, from *thākur*, a lord, are said to be the progeny of Rājpūt fathers and Kol mothers; and the Kagwaria to be named from *kagwār*, an offering made to ancestors in the month of Kunwār. The Desāha, from *desh*, native country, belong principally to Rewah. In some localities Bharias, Savars and Khairwārs are found who call themselves Kols and appear to be included in the tribe. The Bharias may be an offshoot of the Bhar tribe of northern India. It has already been seen that several groups of other tribes have been amalgamated with the Mundas of Chota Nāgpur, probably in a great measure from intermarriage, and a similar fusion seems to have occurred in the Central Provinces. Intermarriage between the different subtribes, though nominally prohibited, not infrequently takes place, and a girl forming a *liaison* with a man of another division may be married to him and received into it. The Rautias, however, say that they forbid this practice.
 
-
-
-
-
 ## 09. Totemism.
-
-
 
 The Mandla Kols have a number of totemistic septs. The Bargaiyan are really called after a village Bargaon, but they connect their name with the *bar* or banyan tree, and revere it. At their weddings a branch of this tree is laid on the roof of the marriage-shed, and the wedding-cakes are cooked in a fire made of the wood of the banyan tree and served to all the relations of the sept on its leaves. At other times they will not pluck a leaf or a branch from a banyan tree or even go beneath its shade. The Kathotia sept is named after *kathota*, a bowl, but they revere the tiger. Bagheshwar Deo, the tiger-god, resides on a little platform in their verandas. They may not join in a tiger-beat nor sit up for a tiger over a kill. In the latter case they think that the tiger would not come and would be deprived of his food, and all the members of their family would get ill. If a tiger takes one of their cattle, they think there has been some neglect in their worship of him. They say that if one of them meets a tiger in the forest he will fold his hands and say, ‘Mahārāj, let me pass,’ and the tiger will then get out of his way. If a tiger is killed within the limits of his village a Kathotia Kol will throw away his earthen pots as in mourning for a relative, have his head shaved and feed a few men of his sept. The Katharia sept take their name from *kathri*, a mattress. A member of this sept must never have a mattress in his house nor wear clothes sewn in crosspieces as mattresses are sewn. The word *kathri* should never be mentioned before him as he thinks some great misfortune would thereby happen to his family, but this belief is falling into abeyance. The name of the Mudia or Mudrundia sept is said to mean shaven head, but they apparently revere the white *kumhra* or gourd, perhaps because it has some resemblance to a shaven head. They give a white gourd to a woman on the third day after she has borne a child, and her family then do not eat this vegetable for three years. At the expiration of the period the head of the family offers a chicken to Dulha Deo, frying it with the feathers left on the head, and eating the head and feet himself. Women may not join in this sacrifice. The Kumraya sept revere the brown *kumhra* or gourd. They grow this vegetable on the thatch of their house-roof, and from the time of planting it until the fruits have been plucked they do not touch it. The Bhuwar sept are named after *bhu* or *bhumi*, the earth. They must always sleep on the earth and not on cots. Other septs are Nathunia, a nose-ring; Karpatia, a kind of grass; and Binjhwār, from the tribe of that name. From Raigarh a separate group of septs is reported, the names of which further demonstrate the mixed nature of the tribe. Among these are Bandi, a slave; Kawar, Gond, Dhanuhār, Birjhia, all of which are the names of distinct tribes; Sonwāni, gold-water; Keriāri, or bridle; Khūnta, a peg; and Kapāt, a shutter.
 
-
-
-
-
 ## 10. Marriage customs.
-
-
 
 Marriage within the sept is prohibited, but violations of this rule are not infrequent. Outside the sept a man may marry any woman except the sisters of his mother or stepmother. Where, as in some localities, the septs have been forgotten, marriage is forbidden between those relatives to whom the sacramental cakes are distributed at a wedding. Among the Mundas, before a father sets out to seek a bride for his son, he invites three or four relatives, and at midnight taking a bottle of liquor pours a little over the household god as a libation and drinks the rest with them. They go to the girl’s village, and addressing her father say that they have come to hunt. He asks them in what jungle they wish to hunt, and they name the *sarna* or sacred grove in which the bones of his ancestors are buried. If the girl’s father is satisfied with the match, he then agrees to it. A bride-price of Rs. 10–8 is paid in the Central Provinces. Among the Hos of Chota Nāgpur so large a number of cattle was formerly demanded in exchange for a bride that many girls were never married. Afterwards it was reduced to ten head of cattle, and it was decided that one pair of bullocks, one cow and seven rupees should be equivalent to ten head, while for poor families Rs. 7 was to be the whole price.13 Among the Mundas of Raigarh the price is three or four bullocks, but poor men may give Rs. 12 or Rs. 18 in substitution. Here weddings may only be held in the three months of Aghan, Māgh and Phāgun,14 and preferably in Māgh. Their marriage ceremony is very simple, the bridegroom simply smearing vermilion on the bride’s forehead, after which water is poured over the heads of the pair. Two pots of liquor are placed beside them during the ceremony. It is also a good marriage if a girl of her own accord goes and lives in a man’s house and he shows his acceptance by dabbing vermilion on her. But her offspring are of inferior status to those of a regular marriage. The Kols of Jubbulpore and Mandla have adopted the regular Hindu ceremony.
 
-
 Group of Kol women
-
-
-
-
 
 ## 11. Divorce and widow-marriage.
 
-
-
 Divorce and widow-marriage are permitted. In Raigarh the widow is bound to marry her deceased husband’s younger brother, but not elsewhere. Among these Mundas, if divorce is effected by mutual consent, the husband must give his wife a pair of loin-cloths and provisions for six months. Polygamy is seldom practised, as women can earn their own living, and if a wife is superseded she will often run away home or set up in a house by herself. In Mandla a divorce can be obtained by either party, the person in fault having to pay a fee of Rs. 1–4 to the *panchāyat*; the woman then breaks her bangles and the divorce is complete.
 
-
-
-
-
 ## 12. Religion.
-
-
 
 At the head of the Munda pantheon, Sir H. Risley states,15 stands Sing-Bonga or the sun, a beneficent but ineffective deity who concerns himself but little with human affairs. But he may be invoked to avert sickness or calamity, and to this end sacrifices of white goats or white cocks are offered to him. Next to him comes Marang Buru, the mountain god, who resides on the summit of the most prominent hill in the neighbourhood. Animals are sacrificed to him here, and the heads left and appropriated by the priest. He controls the rainfall, and is appealed to in time of drought and when epidemic sickness is abroad. Other deities preside over rivers, tanks, wells and springs, and it is believed that when offended they cause people who bathe in the water to be attacked by leprosy and skin diseases. Even the low swampy rice-fields are haunted by separate spirits. Deswāli is the god of the village, and he lives with his wife in the Sarna or sacred grove, a patch of the primeval forest left intact to afford a refuge for the forest gods. Every village has its own Deswāli, who is held responsible for the crops, and receives an offering of a buffalo at the agricultural festival. The Jubbulpore Kols have entirely abandoned their tribal gods and now worship Hindu deities. Devi is their favourite goddess, and they carry her iron tridents about with them wherever they go. Twice in the year, when the baskets of wheat or Gardens of Adonis are sown in the name of Devi, she descends on some of her worshippers, and they become possessed and pierce their cheeks with the trident, sometimes leaving it in the face for hours, with one or two men standing beside to support it. When the trident is taken out a quid of betel is given to the wounded man, and the part is believed to heal up at once. These Kols also employ Brāhmans for their ceremonies. Before sowing their fields they say—
 
@@ -165,111 +92,47 @@ Thuiya, Bhuiya,16 Dharti Māta, Thākur Deo, Bhainsa Sur; khūb paida kariye Mah
 
 that is, they invoke Mother Earth, Thākur Deo, the corn-god, and Bhainsāsur, the buffalo demon, to give them good crops; and as they say this they throw a handful of grain in the air in the name of each god.
 
-
-
-
-
 ## 13. Witchcraft.
-
-
 
 “Among the Hos,” Colonel Dalton states, “all disease in men or animals is attributed to one of two causes—the wrath of some evil spirit who has to be appeased, or the spell of some witch or sorcerer who should be destroyed or driven out of the land. In the latter case a *sokha* or witch-finder is employed to ascertain who has cast the spell, and various methods of divination are resorted to. In former times the person denounced and all his family were put to death in the belief that witches breed witches and sorcerers. The taint is in the blood. When, during the Mutiny, Singhbhūm District was left for a short time without officers, a terrible raid was made against all who had been suspected for years of dealing with the evil one, and the most atrocious murders were committed. Young men were told off for the duty by the elders; neither age nor sex were spared. When order was restored, these crimes were brought to light, and the actual perpetrators punished; and since then we have not only had no recurrence of witch murders, but the superstition itself is dying out in the Kolhān.” Mr. H. C. Streatfeild states that among the Mundas witches used to be hung head downwards from a pīpal tree over a slow fire, the whole village dancing as they were gradually roasted, but whether this ceremony was purely vindictive or had any other significance there is nothing to show.17
 
-
-
-
-
 ## 14. Funeral rites.
-
-
 
 The Hos of Chota Nāgpur were accustomed to place large slabs of stone as tombstones over their graves, and a collection of these massive gravestones indelibly marks the site of every Ho or Mundāri village, being still found in parts of the country where there have been no Kols for ages. In addition to this slab, a megalithic monument is set up to the deceased in some conspicuous spot outside the village; the pillars vary in height from five or six to fifteen feet, and apparently fragments of rock of the most fantastic shape are most favoured. All the clothes, ornaments and agricultural implements of the dead man were buried with the body. The funeral rites were of a somewhat touching character:18 “When all is ready, a funeral party collects in front of the deceased’s house, three or four men with very deep-toned drums, and a group of about eight young girls. The chief mourner comes forth, carrying the bones exposed on a decorated tray, and behind him the girls form two rows, carrying empty or broken pitchers or battered brass vessels, while the men with drums bring up the rear. The procession advances with a ghostly dancing movement, slow and solemn as a minuet, in time to the beat of the deep-toned drums, not straight forward, but mysteriously gliding—now right, now left, now marking time, all in the same mournful cadence. In this manner the remains are taken to the house of every friend and relative of the deceased within a circle of a few miles, and to every house in the village. As the procession approaches each house in the manner described, the inmates all come out, and the tray having been placed on the ground at their door, they kneel over it and mourn. The bones are also thus conveyed to all his favourite haunts, the fields he cultivated, the grove he planted, the tank he excavated, the threshing-floor where he worked with his people, the Akhāra or dancing-arena where he made merry with them, and each spot which is hallowed with reminiscences of the deceased draws forth fresh tears.” In Sambalpur19 the dead body of a Munda is washed in wine before interment, and a mark of vermilion is made on the forehead. The mourners drink wine sitting by the grave. They then bathe, and catch a small fish and roast it on a fire, smearing their hands with oil and warming them at the fire. It would appear that this last rite is a purification of the hands after contact with the dead body, but whether the fish is meant to represent the deceased and the roasting of it is a substitute for the rite of cremation is not clear. During the eight days of mourning the relatives abstain from flesh-meat, but they eat fish. The Kols of Jubbulpore now bury or burn the dead, and observe mourning exactly like ordinary Hindus.
 
-
-
-
-
 ## 15. Inheritance.
-
-
 
 Succession among the Mundas passes to sons only. Failing these, the property goes to the father or brothers if any. At partition the eldest son as a rule gets a slightly larger share than the other sons, a piece of land, and in well-to-do families a yoke of plough cattle, or only a bullock or a goat, and sometimes a bundle of paddy weighing from 10 to 16 maunds.20 Partition cannot usually be made till the youngest son is of age. Daughters get no share in the inheritance, and are allotted among the sons just like live-stock. Thus if a man dies leaving three sons and three daughters and thirty head of cattle, on a division each son would get ten head of cattle and one sister; but should there be only one sister, they wait till she marries and divide the bride-price. A father may, however, in his lifetime make presents of cash or movables to a daughter, though not of land. It is doubtful whether these rules still obtain among the Hinduised Kols.
 
-
-
-
-
 ## 16. Physical appearance.
-
-
 
 “The Mundas,” Colonel Dalton states, “are one of the finest of the aboriginal tribes. The men average something like 5 feet 6 inches, and many of them are remarkably well developed and muscular. Their skin is of the darkest brown, almost black in many cases, and their features coarse, with broad flat noses, low foreheads and thick lips, presenting as a rule a by no means prepossessing appearance. The women are often more pleasing, the coarseness of the features being less accentuated or less noticeable on account of the extreme good-nature and happy carelessness that seldom fail to mark their countenance. They are fond of ornament, and a group of men and girls fully decked out for a festival makes a fine show. Every ornament in the shape of bead necklace, silver collar, bracelet, armlet and anklet would seem to have been brought out for the occasion. The head-dress is the crowning point of the turn-out. The long black hair is gathered up in a big coil, most often artificially enlarged, the whole being fastened at the right-hand side of the back of the head just on a level with and touching the right ear. In this knot are fastened all sorts of ornaments of brass and silver, and surmounting it, stuck in every available space, are gay plumes of feathers that nod and wave bravely with the movements of the dance. The ears are distorted almost beyond recognition by huge earrings that pierce the lobe and smaller ones that ornament them all round.” In Mandla women are tattooed with the figure of a man or a man on horseback, and on the legs behind also with the figure of a man. They are not tattooed on the face. Men are never tattooed.
 
-
-
-
-
 ## 17. Dances.
-
-
 
 “Dancing is the inevitable accompaniment of every gathering, and they have a great variety suitable to the special times and seasons. The motion is slow and graceful, a monotonous sing-song being kept up all through. The steps are in perfect time and the action wonderfully even and regular. This is particularly noticeable in some of the variations of the dances representing the different seasons and the necessary acts of cultivation that each brings with it. In one the dancers bending down make a motion with their hands as though they were sowing the grain, keeping step with their feet all the time. Then come the reaping of the crop and the binding of the sheaves, all done in perfect time and rhythm, and making with the continuous droning of the voices a quaint and picturesque performance.” In the Central Provinces the Kols now dance the Karma dance of the Gonds, but they dance it in more lively fashion. The step consists simply in advancing or withdrawing one foot and bringing the other up or back beside it. The men and women stand opposite each other in two lines, holding hands, and the musicians alternately face each line and advance and retreat with them. Then the lines move round in a circle with the musicians in the centre.
 
-
-
-
-
 ## 18. Social rules and offences.
-
-
 
 Munda boys are allowed to eat food cooked by other castes, except the very lowest, until they are married, and girls until they let their hair grow long, which is usually at the age of six or seven. After this they do not take food as a tribe from any other caste, even a Brāhman, though some subtribes accept it from certain castes as the Telis \(oil-pressers\) and Sundis or liquor-vendors. In Jubbulpore the Kols take food from Kurmis, Dhīmars and Ahīrs. The Mundas will eat almost all kinds of flesh, including tigers and pigs, while in Raigarh they consider monkey as a delicacy, hunting these animals with dogs. In the Central Provinces they have generally abjured beef, in deference to Hindu prejudice, and sometimes refuse field-mice, to which the Khonds and Gonds are very partial. Neither Kols nor Mundas are, however, considered impure and the barber and washerman will work for them. In Sambalpur a woman is finally expelled from caste for a *liaison* with one of the impure Gāndas, Ghasias or Doms, and a man is expelled for taking food from a woman of these castes, but adultery with her may be expiated by a big feast. Other offences are much the same as among the Hindus. A woman who gets her ear torn through where it is pierced is put out of caste for six months or a year and has to give two feasts on readmission.
 
-
-
-
-
 ## 19. The caste *panchāyat*.
-
-
 
 In Mandla the head of the *panchāyat* is known as Gaontia, a name for a village headman, and he is always of the Bargaiya sept, the office being usually hereditary. When a serious offence is committed the Gaontia fixes a period of six months to a year for the readmission of the culprit, or the latter begs for reinstatement when he has obtained the materials for the penalty feast. A feast for the whole Rautele subcaste will entail 500 seers or nearly 9 cwt. of kodon, costing perhaps Rs. 30, and they say there would not be enough left for a cold breakfast for the offender’s family in the morning. When a man has a petition to make to the Gaontia, he folds his turban round his neck, leaving the head bare, takes a piece of grass in his mouth, and with four prominent elders to support him goes to the Gaontia and falls at his feet. The others stand on one leg behind him and the Gaontia asks them for their recommendation. Their reverence for the caste *panchāyat* is shown by their solemn form of oath, ‘Sing-Bonga on high and the Panch on earth.’21 The Kols of Jubbulpore and Mandla are now completely conforming to Hindu usage and employ Brāhmans for their ceremonies. They are most anxious to be considered as good Hindus and ape every high-caste custom they get hold of. On one occasion I was being carried on a litter by Kol coolies and accompanied by a Rājpūt chuprāssie and was talking to the Kols, who eagerly proclaimed their rigid Hindu observances. Finally the chuprāssie said that Brāhmans and Rājpūts must have three separate brushes of date-palm fibre for their houses, one to sweep the cook-room which is especially sacred, one for the rest of the house, and one for the yard. Lying gallantly the Kols said that they also kept three palm brushes for cleaning their houses, and when it was pointed out that there were no date-palms within several miles of their village, they said they sent periodical expeditions to the adjoining District to bring back fibre for brushes.
 
-
-
-
-
 ## 20. Names.
-
-
 
 Colonel Dalton notes that the Kols, like the Gonds, give names to their children after officers visiting the village when they are born. Thus Captain, Major, Doctor are common names in the Kolhān. Mr. Mazumdār gives an instance of a Kol servant of the Rāja of Bāmra who greatly admired some English lamp-chimneys sent for by the Rāja and called his daughter ‘Chimney.’ They do not address any relative or caste-man by his name if he is older than themselves, but use the term of relationship to a relative and to others the honorific title of Gaontia.
 
-
-
-
-
 ## 21. Occupation.
-
-
 
 The Mundāri language has no words for the village trades nor for the implements of cultivation, and so it may be concluded that prior to their contact with the Hindus the Mundas lived on the fruits and roots of the forests and the pursuit of game and fish. Now, however, they have taken kindly to several kinds of labour. They are much in request on the Assam tea-gardens owing to their good physique and muscular power, and they make the best bearers of *dhoolies* or palanquins. Kol bearers will carry a *dhoolie* four miles an hour as against the best Gond pace of about three, and they shake the occupant less. They also make excellent masons and navvies, and are generally more honest workers than the other jungle tribes. A Munda seldom comes into a criminal court.
 
-
-
-
-
 ## 22. Language.
-
-
 
 The Kols of the Central Provinces have practically abandoned their own language, Mundāri being retained only by about 1000 persons in 1911. The Kols and Mundas now speak the Hindu vernacular current in the tracts where they reside. Mundāri, Santāli, Korwa and Bhumij are practically all forms of one language which Sir G. Grierson designates as Kherwāri.22 
 
-
-
-
-
-* * *
+___________________
 
 1 *Tribes and Castes of Bengal*, art. Bhumij.
 
@@ -314,7 +177,4 @@ The Kols of the Central Provinces have practically abandoned their own language,
 21 *The Mundas and their Country*, p. 121.
 
 22 *Linguistic Survey*, vol. iv., *Munda and Dravidian Languages*, p. 27.
-
-
-
 

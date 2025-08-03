@@ -9,14 +9,11 @@ The caste have a legend which shows their mixed origin. Some centuries ago, they
 
 In Bilāspur the caste permit a girl to be married to a boy younger than herself. A price of five rupees has to be paid for the bride, unless her family give a girl in exchange. The bridegroom is taken to the wedding in a palanquin borne by Mahārs. After its conclusion the couple are carried back in the litter for some distance, after which the bridegroom gets out and walks or rides. When he goes to fetch his wife on her coming of age the bridegroom wears white clothes, which is rather peculiar, as white is not a lucky colour among the Hindus. The Nunias employ Brāhmans at their ceremonies, and they have a caste *panchāyat* or committee, whose headman is known as Kurha. The Bilāspur section of the caste has two Kurhas. Here Brāhmans take water from them, but not in all places. They consider their traditional occupation to have been the extraction of salt and saltpetre from saline earth. At present they are generally employed in the excavation of tanks and the embankment of fields, and they also sink wells, build and erect houses, and undertake all kinds of agricultural labour. 
 
-
-* * *
+___________________
 
 1 Based on papers by Munshi Kanhya Lāl of the Gazetteer Office, and Mr. Mīr Patcha, Tahsīldār, Bilāspur. 
 
 2 Mr. Crooke’s *Tribes and Castes*, art. Lunia. 
 
 3 Mr. Crooke’s *Tribes and Castes*, art. Lunia. 
-
-
 

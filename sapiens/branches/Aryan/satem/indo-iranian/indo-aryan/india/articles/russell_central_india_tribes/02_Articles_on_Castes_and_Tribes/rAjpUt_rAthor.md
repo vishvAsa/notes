@@ -9,8 +9,7 @@ In 1381 Siāhji’s tenth successor, Rao Chonda, took Mundore from a Parihār ch
 
 The Ratlām State was founded by Ratan Singh, a grandson of Rāja Udai Singh of Jodhpur, who was born about 1618, and obtained it as a grant for good service against the Usbegs at Kandahār and the Persians in Khorasān about 1651–52. Kishangarh was founded by Kishan Singh, a son of the same Rāja Udai Singh, who obtained a grant of territory from Akbar about 1611. Idar State in Gujarāt has, according to its traditions, been held by Rāthor princes from a very early period. Jodhpur State is the largest in Rājputāna, with an area of 35,000 square miles, and a population of two million. The Mahārāja is entitled to a salute of twenty-one guns. A great part of the State is a sandy desert, and its older name of Mārwār is, according to Colonel Tod, a corruption of Mārusthān, or the region of death. In the Central Provinces the Rāthor Rājpūts number about 6000 persons, and are found mainly in the Saugor, Jubbulpore, Narsinghpur and Hoshangābād Districts. The census statistics include about 5000 persons enumerated in Mandla and Bilaspur, nearly all of whom are really Rāthor Telis. 
 
-
-* * *
+___________________
 
 1 *Early History of India*, 3rd edition, p. 389. 
 
@@ -25,6 +24,4 @@ The Ratlām State was founded by Ratan Singh, a grandson of Rāja Udai Singh of 
 6 *Ibidem*, ii. p. 37. 
 
 7 *Ibidem*, ii. p. 35. 
-
-
 

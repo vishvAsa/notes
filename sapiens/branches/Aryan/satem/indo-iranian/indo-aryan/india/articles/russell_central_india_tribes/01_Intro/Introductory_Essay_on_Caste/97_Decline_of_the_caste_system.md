@@ -5,9 +5,7 @@ title = "97 Decline of the caste system"
 
 The caste system has maintained its vigour unimpaired either by the political vicissitudes and foreign invasions of India or by Muhammadan persecution. Except where it has been affected by European education and inventions, Hindu society preserved until recently a remarkably close resemblance to that of ancient Greece and Rome in the classical period. But several signs point to the conclusion that the decay of caste as the governing factor of Indian society is in sight. The freedom in selection of occupation which now obtains appears to strike at the root of the caste system, because the relative social status and gradation of castes is based on their traditional occupations. When in a large number of the principal castes the majority of the members have abandoned their traditional occupation and taken freely to others, the relative status of castes becomes a fiction, which, though it has hitherto subsisted, cannot apparently be indefinitely maintained. The great extension of education undertaken by Government and warmly advocated by the best Indian opinion exercises an analogous influence. Education is free to all, and, similarly, in the careers which it opens to the most successful boys there is no account of caste. Thus members of quite low castes obtain a good social position and, as regards them personally, the prejudices and contempt for their caste necessarily fall into abeyance. The process must, probably, in time extend to general social toleration. The educated classes are also coming to regard the restrictions on food and drink, and on eating and drinking with others, as an irksome and unnecessary bar to social intercourse, and are gradually abandoning them. This tendency is greatly strengthened by the example and social contact of Europeans. Finally, the facilities for travelling and the democratic nature of modern travel have a very powerful effect. The great majority of Hindus of all castes are obliged by their comparative poverty to avail themselves of the cheap third-class fares, and have to rub shoulders together in packed railway carriages. Soon they begin to realise that this does them no harm, and get accustomed to it, with the result that the prejudices about bodily contact tend to disappear. The opinion has been given that the decline of social exclusiveness in England was largely due to the introduction of railway travelling. Taking account of all these influences, and assuming their continuance, the inference may safely be drawn that the life of the Indian caste system is limited, though no attempt can be made to estimate the degree of its vitality, nor to predict the form and constitution of the society which will arise on its decay. 
 
-
-
-* * *
+___________________
 
 1 *Indian Caste*, p. 12. 
 
@@ -486,6 +484,4 @@ The caste system has maintained its vigour unimpaired either by the political vi
 238 Para. 61. 
 
 239 “Tarpeia” in M. Salomon Reinach’s *Cults, Myths and Religions* \(English edition, London, David Nutt, 1912\). 
-
-
 

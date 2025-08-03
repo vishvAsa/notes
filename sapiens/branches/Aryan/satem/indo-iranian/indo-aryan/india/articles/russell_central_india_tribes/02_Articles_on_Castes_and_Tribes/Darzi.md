@@ -11,18 +11,13 @@ title = "Darzi"
 + 4. Occupation. 
 + 5. Religion. 
 
-
 ## 01. General notice.
 
 **Darzi, Shimpi, Chhīpi, Sūji.**—The occupational caste of tailors. In 1911 a total of 51,000 persons were returned as belonging to the caste in the Central Provinces and Berār. The Darzis are an urban caste and are most numerous in Districts with large towns. Mr. Crooke derives the word Darzi from the Persian *darz*, meaning a seam. The name Sūji from *sui*, a needle, was formerly more common. Shimpi is the Marātha name, and Chhīpi, from Chhīpa a calico-printer or dyer, is another name used for the caste, probably because it is largely recruited from the Chhīpas. In Bombay they say that when Parasurāma was destroying the Kshatriyas, two Rājpūt brothers hid themselves in a temple and were protected by the priest, who set one of them to sew dresses for the idol and the other to dye and stamp them. The first brother was called Chhīpi and from him the Darzis are descended, the name being corrupted to Shimpi, and the second was called Chhīpa and was the ancestor of the dyers. The common title of the Darzis is Khalīfa, an Arabic word meaning ‘The Successor of the Prophet.’ Colonel Temple says that it is not confined to them but is also used by barbers, cooks and monitors in schools.1 The caste is of comparatively recent formation. In fact Sir D. Ibbetson wrote2 that “Darzi, or its Hindi equivalent Sūji, is purely an occupational term, and though there is a Darzi guild in every town, there is no Darzi caste in the proper acceptation of the word. The greater number of Darzis belong perhaps to the Dhobi and Chhīmba castes, more especially to the latter.” 
 
-
-
 ## 02. Subdivisions.
 
 The Darzis, however, are now recognised as a distinct caste, but their mixed origin is shown by the names of their subcastes and exogamous sections. Thus they have a Bāman subdivision named after the Brāhman caste. These will not take food from any other caste except Brāhmans and are probably an offshoot from them. They are considered to be the highest subdivision, and next to them come the Rai or Rāj Darzis. Another subcaste is named Kaithia, after the Kāyasths, and a third Srivāstab, which is the name of a well-known subcaste of Kāyasths derived from the town of Srāvasti, now Sahet Mahet in the Gonda District.3 In Betūl the Srivāstab Darzis are reported to forbid the remarriage of widows, thus showing that they desire to live up to their distinguished ancestry. A third subcaste is known as Chamarua and appears to be derived from the Chamārs. Other subcastes are of the territorial type as Mālwi, Khāndeshi, Chhattīsgarhi, Mathuria and so on, and the section or family names are usually taken from villages. Among them, however, we find Jugia from Jogi, Thākur or Rājpūt, Gūjar, Khawās or barber, and Baroni, the title of a female Dhīmar. Mr. Crooke gives several other names. 
-
-
 
 ## 03. Sewn clothes not formerly worn.
 
@@ -32,13 +27,9 @@ In the Central Provinces, at least, the Darzi caste is practically confined to t
 
 The substitution of clothes cut and sewn to fit the body for draped clothes is a matter of regret from an artistic or picturesque point of view, as the latter have usually a more graceful appearance. This is shown by the difficulty of reproducing modern clothes in statuary, trousers being usually the despair of the sculptor. But sewn clothes, when once introduced, must always prevail from considerations of comfort. When a Hindu pulls his *dhoti* or loin-cloth up his legs and tucks it in round his hips in order to run or play a game he presumably performs the act described in the Bible as ‘girding up his loins.’ 
 
-
-
 ## 04. Occupation.
 
 The social customs of the Darzis present no features of special interest and resemble those of the lower castes in their locality. They rank below the cultivating castes, and Brāhmans will not take water from their hands. Though not often employed by the Hindu villager the Darzi is to Europeans one of the best known of all castes. He is on the whole a capable workman and especially good at copying from a pattern. His proficiency in this respect attracted notice so long ago as 1689, as shown in an interesting quotation in the *Bombay Gazetteer* referring to the tailors of Surat:8 “The tailors here fashion clothes for the Europeans, either men or women, according to every mode that prevails, and fit up the commodes and towering head-dresses for the women with as much skill as if they had been an Indian fashion, or themselves had been apprenticed at the Royal Exchange. \(The commode was a wire structure to raise the cap and hair.\)” Since then the Darzi has no doubt copied in turn all the changes of English fashions. He is a familiar figure in the veranda of the houses of Europeans, and his idiosyncrasies have been delightfully described by Eha in *Behind the Bungalow*. His needles and pins are stuck into the folds of his turban, and Eha says that he is bandy-legged because of the position in which he squats on his feet while sewing. In Gujarāt the tailor is often employed in native households. “Though even in well-to-do families,” Mr. Bhimbhai Kirpāram writes,9 “women sew their bodices and young children’s clothes for everyday wear, every family has its own tailor. As a rule tailors sew in their own houses, and in the tailor’s shop may be seen workmen squatting in rows on a palm-leaf mat or on cotton-stuffed quilts. The wives and sons’ wives of the head of the establishment sit and work in the shop along with the men. Their busy time is during the marriage season from November to June. A village tailor is paid either in cash or grain and is not infrequently a member of the village establishment. During the rains, the tailor’s slack season, he supplements his earnings by tillage, holding land which Government has continued to him on payment of one-half the ordinary rental. In south Gujarāt, in the absence of Brāhmans, a Darzi officiates at Bhāwad marriages, and in some Brāhman marriages a Darzi is called with some ceremony to sew a bodice for the bride. On the other hand, in the Pānch Mahals and Rewa Kantha, besides tailoring Darzis blow trumpets at marriage and other processions and hold so low a position that even Dhedas object to eat their food.” It seems clear that in Gujarāt the Darzi caste is of older standing than in northern India, and it is possible that the art of sewing may have been acquired through the sea trade which was carried on between the western coast and Arabia and the Persian Gulf. Here the Darzi has become a village menial, which he is not recorded as being in any other part of India. 
-
-
 
 ## 05. Religion.
 
@@ -48,9 +39,7 @@ In Berār it is stated12 that “the Simpi caste has twelve and a half divisions
 
 The Darzi’s occupation, Mr. Crooke remarks, is a poor one and held rather in contempt. The village proverb runs, ‘*Darzi ka pūt jab tak jīta tab tak sīta*,’ ‘The tailor’s boy will do nothing but sew all his life long.’ Another somewhat more complimentary saying is, ‘*Tanak si suiya tak tak kare aur lākh taka ko banj kare*,’ or ‘The tiny needle goes *tuk tuk*, and makes merchandise worth a lakh of rupees.’ The Hindustani version of both proverbs is obviously intended to give the sound of a needle passing through cloth, and it is possible that our word ‘tuck’ has the same origin. 
 
-
-
-* * *
+___________________
 
 1 *Proper Names of the Punjābis*, p. 74. 
 
@@ -75,6 +64,4 @@ The Darzi’s occupation, Mr. Crooke remarks, is a poor one and held rather in c
 11 According to another account Nāmdeo belonged to Mārwār. Mr. Maclagan’s *Punjab Census Report* \(1891\), p. 144. 
 
 12 *Berār Census Report* \(1881\), para. 231. 
-
-
 

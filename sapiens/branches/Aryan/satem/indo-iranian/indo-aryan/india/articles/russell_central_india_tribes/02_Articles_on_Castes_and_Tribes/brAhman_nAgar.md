@@ -11,20 +11,13 @@ Formerly the Nāgar Brāhmans observed very strict rules about defilement when i
 
 If a Brāhman was defiled and rendered impure by any of the above means he could not proceed with his meal. 
 
-
 Group of Nāramdeo Brāhman women.
 
-
-
-
-
-* * *
+___________________
 
 1 From Mr. Gopal Datta Joshi’s paper. 
 
 2 *Rāsmāla*, ii. p. 233. 
 
 3 *Rāsmāla*, ii. p. 259. 
-
-
 

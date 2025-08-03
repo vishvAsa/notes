@@ -7,10 +7,7 @@ title = "Mowār"
 
 The Mowārs have no subcastes, but are divided into a number of exogamous groups, principally of a totemistic nature. Those of the Sūrajha or sun sept throw away their earthen pots on the occasion of an eclipse, and those of the Hataia or elephant sept will not ride on an elephant and worship that animal at the Dasahra festival. Members of other septs named after the cobra, the crow, the monkey and the tiger will not kill their totem animal, and when they see the dead body of one of its species they throw away their earthen cooking-pots as a sign of mourning. The marriage of persons belonging to the same sept and also that of first cousins is prohibited. If an unmarried girl is seduced by a man of the caste she becomes his wife and is not expelled, but the caste will not eat food cooked by her. But a girl going wrong with an outsider is finally cast out. The marriage and other social customs resemble those of the Kurmis. The caste employ Brāhmans at their ceremonies and have a great regard for them. Their *gurus* or spiritual preceptors are Bairāgis and Gosains. They eat the flesh of clean animals and a few drink liquor, but most of them abstain from it. Their women are tattooed on the arms and hands with figures intended to represent deer, flies and other animals and insects. The caste say that they were formerly employed as soldiers under the native chiefs, but they are now all cultivators. They grow all kinds of grain and vegetables, except turmeric and onions. A few of them are landowners, and the majority tenants. Very few are constrained to labour for hire. In appearance the men are generally strong and healthy, and of a dark complexion. 
 
-
-* * *
+___________________
 
 1 *Ethnology of Bengal*, p. 326. 
-
-
 

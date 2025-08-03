@@ -11,12 +11,9 @@ The Agarwālas are divided into seventeen and a half *gotras* or exogamous secti
 
 In Nimār some Agarwālas worship Goba Pīr, the god of the sweepers. He is represented by a pole some 30 feet long on which are hung a cloth and cocoanuts. The sweepers carry this through the city almost daily during the month of Shrāwan \(July\), and people offer cocoanuts, tying them on to the pole. Some Agarwālas offer vermilion to the god in token of worship, and a few invite it to the compounds of their houses and keep it there all night for the same purpose. When a feast is given in the caste the Agarwālas do not take their own brass vessels according to the usual practice, but the host gives them little earthen pots to drink from which are afterwards broken, and leaf-plates for their food. The Agarwālas will take food cooked without water \(*pakki*\) from Oswāl, Maheshri and Khandelwāl Banias. The Agarwālas of the Central Provinces hold some substantial estates in Chhattīsgarh; these were obtained at the first settlements during 1860–70, when considerable depression existed, and many of the village headmen were unwilling to accept the revenue assessed on their villages. The more enterprising Banias stepped in and took them, and have profited enormously owing to the increase in the value of land. Akbar’s great minister, Todar Mal, who first introduced an assessment of the land-revenue based on the measurement and survey of the land, is said to have been an Agarwāla. 
 
-
-* * *
+___________________
 
 1 *Tribes and Castes of Bengal*, art. Agarwāla. 
 
 2 *Tribes and Castes of Bengal*, art. Agarwāla. 
-
-
 

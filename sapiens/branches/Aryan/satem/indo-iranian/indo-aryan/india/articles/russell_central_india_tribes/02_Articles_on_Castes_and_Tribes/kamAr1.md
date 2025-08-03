@@ -153,7 +153,7 @@ The tribe are of small stature. They are very fond of hunting, and are expert at
 
 
 
-* * *
+___________________
 
 1 This article is based on papers drawn up by Mr. Hīra Lāl, Extra Assistant Commissioner, Pyāre Lāl Misra, Ethnographic Clerk, and a very full account of the tribe by Mr. Ganpati Giri, Manager of Bindrānawāgarh, which has furnished the greater part of the article, especially the paragraphs on birth, religion and social customs.
 
