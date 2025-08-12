@@ -3,8 +3,12 @@ title = "US actions"
 +++
 
 ## 2025
-
+### pAki US visit
 As we have remarked repeatedly: the undergirdings of Anglo-Abrahmospheric power and the H as a heathen civilization have a deep-rooted incompatibility. Sooner or later, this will come to a head. One can easily predict that the mahAmlechCha and their vassals will try to destabilize the Indian state as they have done many times in the past using their marUnmatta, preta and paTTa force transmitters. It seems the laTapati has read this and is ready to make a stand. Hope, he succeeds.
+
+One distinct possibility is that mahAmlechCha, and the chIna want to first clear the field before they enter the ring. Hence, they might gang together to use their marUnmatta agents to attack H.
+
+The nuclear tantrum of the TSP aamir al-momeen was certainly sanctioned (original usage) by the unmatta pichChilu~Nga and his anuyAyin-s. While it is not unexpected by any means, the speed indeed has surprised me too. My own suspicion is that sindhoor rattled the mahAmlechCha almost as much as TSP.
 
 ### Post sindoor
 > After Sindoor, something in Indo-US relations seems to have broken, permanently. The "let's pretend" game is over.
