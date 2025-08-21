@@ -13,6 +13,9 @@ on:
 jobs:
   transform:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  
+      actions: write
     steps:
     - name: Inject slug/short variables
       uses: rlespinasse/github-slug-action@v4.4.1
@@ -50,7 +53,7 @@ jobs:
     - name: Update submodules
       run: |
         set -o xtrace
-        git submodule update --init --recursive
+        git submodule update  --init --recursive
         git submodule update --remote --merge --recursive
     - name: Set content to pull request
       if: ${{ github.event_name == 'pull_request'}}
@@ -69,6 +72,7 @@ jobs:
       run: |
         hugo
     - name: Deploy
+      id: deploy
       if: ${{ github.event_name != 'pull_request'}}
       uses: peaceiris/actions-gh-pages@v3
       with:
@@ -76,3 +80,15 @@ jobs:
         publish_dir: ./build_github
         publish_branch: gh-pages
         force_orphan: true # git history growth - even on non-src branches - makes cloning slow.
+    - name: Trigger indexing
+      if: ${{ steps.deploy.conclusion == 'success'}}
+      uses: actions/github-script@v6
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        script: |
+          await github.rest.actions.createWorkflowDispatch({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            workflow_id: 'index_pages.yml',
+            ref: 'master',
+          })
