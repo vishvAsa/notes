@@ -54,8 +54,6 @@ A list of works was supplied to the New Catalogus Catalogorum Office of the Univ
 
 Among the three brothers Veṅkaṭācārya II, Annayācārya II [[P9]] and Śrīnivāsācārya II, the eldest one mentions one Veṅkaṭa Deśika as his Guru. But nothing is known about this teacher. Annayācārya II and Śrīnivāsa II[^5] refer frequently to Kauṇḍinya Śrīnivāsa as their preceptor. The *Rasikajanarasollāsa Bhāṇa*[^6] of one Veṅkaṭa gives the following genealogy of this preceptor:
 
-Here is the lineage from the Kauṇḍinya Gotra presented as a structured list:
-
 *   **Kauṇḍinya Gotra** (Family at Kāmasamudram village)
   *   **Ahobilācārya**
     *   *Sons:*
