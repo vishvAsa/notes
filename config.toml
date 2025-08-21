@@ -10,7 +10,6 @@ disablePathToLower = true
   contactLink = "https://github.com/vishvAsa/notes/issues/new"
   build_img = "https://github.com/vishvAsa/notes/actions/workflows/build.yml/badge.svg"
   build_url = "https://github.com/vishvAsa/notes/actions/workflows/build.yml"
-  fullSearchURL = "/full_search"
   env = "production"
   # disqusShortcode = "vvasuki-site"
   math = true
