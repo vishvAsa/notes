@@ -90,5 +90,5 @@ jobs:
             owner: context.repo.owner,
             repo: context.repo.repo,
             workflow_id: 'index_pages.yml',
-            ref: 'master',
+            ref: 'content',
           })
