@@ -12,7 +12,7 @@ disablePathToLower = true
   build_url = "https://github.com/vishvAsa/notes/actions/workflows/build.yml"
   env = "production"
   # disqusShortcode = "vvasuki-site"
-  math = true
+  js_extras = ["mathjax"]
 
 [outputs]
   home = ["HTML", "RSS", "JSON", "CSV"]
@@ -20,6 +20,14 @@ disablePathToLower = true
 
 [markup.goldmark.renderer]
    unsafe = true
+
+
+[markup.goldmark.parser]
+wrapStandAloneImageWithinParagraph = false
+
+[markup.goldmark.parser.attribute]
+block = true
+title = true
 
 [markup.highlight]
   anchorLineNos = false
