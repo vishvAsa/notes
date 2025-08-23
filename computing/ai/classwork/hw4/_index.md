@@ -61,7 +61,8 @@ And, \\(P(T=g|A=b) = 1-P(T=b|A=b)= 0.75\\). So, it is more likely that the taxi 
 ## Question
  (25\%) Consider the following Bayesian network:
 
-{{< figure src="hw4_files/hw4f1.jpg" title="" class="thumbnail">}}
+![](hw4_files/hw4f1.jpg)
+{caption="" class="thumbnail"}
 
 1. Suppose that all the variables are Boolean. How many parameters (real numbers) are needed to specify an arbitrary joint probability distribution over 8 variables? How many parameters are needed to define the joint probability distribution using the above Bayesian network?
 
@@ -114,7 +115,8 @@ $$
 ## Question
  (20\%) Suppose that in a polytree network, X is an ancestor of Y and we wish to compute \\(P(Y|X)\\) in terms of the CPT entries of the network. Explain why this computation can be done using conditioning operations only and write a general expression for \\(P(Y|X)\\). (Hint: you may find it useful to consider an example such as the following, although the specific details of the example need not appear in your answer.)
 
-{{< figure src="hw4_files/hw4f1.jpg" title="" class="thumbnail">}}
+![](hw4_files/hw4f1.jpg)
+{caption="" class="thumbnail"}
 
 ### Solution
 
@@ -140,7 +142,8 @@ Hence, \\(P(Y|X)\\) can be calculated using conditional operations only.
 #### 1
  A possible belief network (at least in the universe I imagine) is shown below:
 
-{{< figure src="hw4_files/hwBayesNet.jpg" title="" class="thumbnail">}}
+![](hw4_files/hwBayesNet.jpg)
+{caption="" class="thumbnail"}
 
 
 

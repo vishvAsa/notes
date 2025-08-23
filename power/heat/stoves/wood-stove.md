@@ -32,9 +32,12 @@ title: Wood Stove
 - Example: traditional homa-kUNDa-s (Idealized).  
 
 <div class="row">
-{{< figure src="../images/kuNDa/tretAgni-kuNDas-alight.jpg"  class="thumbnail">}}
-{{< figure src="../images/kuNDa/tretAgni-kuNDas-AhavanIya-alight.jpg"  class="thumbnail">}}
-{{< figure src="../images/kuNDa/tretAgni-kuNDas-with-fire-pots.jpg"  class="thumbnail">}}
+![](../images/kuNDa/tretAgni-kuNDas-alight.jpg)
+{class="thumbnail"}
+![](../images/kuNDa/tretAgni-kuNDas-AhavanIya-alight.jpg)
+{class="thumbnail"}
+![](../images/kuNDa/tretAgni-kuNDas-with-fire-pots.jpg)
+{class="thumbnail"}
 </div>
 
 ### Characteristics 
@@ -46,8 +49,10 @@ title: Wood Stove
 This seems to achieve characteristics similar to "Cube with 2 sides open + holes for ventilation at the bottom and sides" type described below.
 
 <div class="row">
-{{< figure src="../images/kuNDa/homa-kuNDa-sieve-grill.jpg"   class="thumbnail">}}
-{{< figure src="../images/kuNDa/homa-kuNDa-sieve-grill-post-combustion.jpg"   class="thumbnail">}}
+![](../images/kuNDa/homa-kuNDa-sieve-grill.jpg)
+{class="thumbnail"}
+![](../images/kuNDa/homa-kuNDa-sieve-grill-post-combustion.jpg)
+{class="thumbnail"}
 </div>
 
 ### Improvement with holes, fan fitted at bottom
@@ -55,7 +60,8 @@ This seems to achieve characteristics similar to "Cube with 2 sides open + holes
 
 #### supernova model 
 - "this kund generates lowest % of carbon-monoxide and needs less quantity of yagna herbal material as the material is vaporized and gasified 100% without waste because the temperature attained by the kunda is always above 300°C along with the purified flames upto 1300°C, the Kund is designed from copper pot to get the uniform temperature along with the impact of copper oxygenation which play vital role in purification of atmosphere. "
-{{< figure src="../images/kuNDa/smokeless-kuNDa-supernova.jpg" title="Smokeless supernova havan kund"  class="thumbnail">}}
+![](../images/kuNDa/smokeless-kuNDa-supernova.jpg)
+{caption="Smokeless supernova havan kund"  class="thumbnail"}
 - "The fallen ash collects in a bottom plate, above the fan, which can be disposed easily.
    You can adjust the speed of the fan, or use it for initial jwalanam, then switch off. 
    I think this will be more useful where charu, apoopa etc are offered as havis."
@@ -114,4 +120,5 @@ See [chimney page](/notes/places/environment/air/chimney).
 ## Elevation
 - कुण्डानाम् उच्चतया धूमप्रभावेणायुर्हरणं न स्यात् तावत्।
 
-{{< figure src="../images/kuNDa/nepal-tretAgni-kuNDas-elevated.jpg" title="" class="thumbnail">}}
+![](../images/kuNDa/nepal-tretAgni-kuNDas-elevated.jpg)
+{caption="" class="thumbnail"}

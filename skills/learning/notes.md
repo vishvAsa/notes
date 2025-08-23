@@ -61,7 +61,8 @@ With physical books, I like to mark (with a pencil):
 - my scores for beauty for (nearly) each verse - 1/5 to 5/5.
     - Sometimes these marks prefixed with क (to indicate that beauty in plot twist is being measured), र (to indicate rasa-beauty etc..)
 
-{{< figure src="../images/gaNeshAvadhAni-annotation.png" title="" class="thumbnail">}}
+![](../images/gaNeshAvadhAni-annotation.png)
+{caption="" class="thumbnail"}
 
 ### Google play ebook notes
 - (automatic backup in Drive): [bit.ly/vv-play-notes](http://bit.ly/vv-play-notes). (Summarized in [this pic (see pic info)](https://photos.google.com/album/AF1QipOJQqymltNQMs7RHBz8rD2lWoa3EuEofzhzcYn5/photo/AF1QipPUr0S_cMva23_SAuLpR5J8CFc3kdOacKIn_Cu1).)

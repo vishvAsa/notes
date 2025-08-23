@@ -38,7 +38,8 @@ The very low mortality among the slum dwellers in India have drawn lot of attent
 
 ### Severity
 
-{{< figure src="../images/infection-fatality-ratio_covid19_vs_Flu.jpg" title="" class="thumbnail">}}
+![](../images/infection-fatality-ratio_covid19_vs_Flu.jpg)
+{caption="" class="thumbnail"}
 
 
 - Initial estimates: "For COVID-19, data to date suggest that 80% of infections are mild or asymptomatic, 15% are severe infection, requiring oxygen and 5% are critical infections, requiring ventilation." - [WHO-2020-03-06](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200306-sitrep-46-covid-19.pdf?sfvrsn=96b04adf_4)
@@ -46,7 +47,8 @@ The very low mortality among the slum dwellers in India have drawn lot of attent
 - Indian population at large has a genetic predisposition to develop severe pneumonia due to the virus. This same expression has been found among Russians,Europeans explaining higher mortality there and less with Africans.
 
 
-{{< figure src="../images/coronavirus-progression-tree.jpg" title="" class="thumbnail">}}
+![](../images/coronavirus-progression-tree.jpg)
+{caption="" class="thumbnail"}
 
 
 ## Long term effects

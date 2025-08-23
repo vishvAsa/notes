@@ -8,7 +8,8 @@ Critical channel in transmission of yoga-paramparA (others being shivAnanda . .)
 
 He is widely considered as the architect of _vinyasa_,[[6]](http://en.wikipedia.org/wiki/Tirumalai_Krishnamacharya#cite_note-Ruiz-5) in the sense of combining breathing with movement.
 
-{{< figure src="../images/tirumalai-kRShNamAchAryaH/Tirumalai_Krishnamacharya_100" title="" class="thumbnail">}}
+![](../images/tirumalai-kRShNamAchAryaH/Tirumalai_Krishnamacharya_100)
+{caption="" class="thumbnail"}
 
 
 He also had extensive knowledge of orthodox Hindu rituals. His scholarship in various[ darshanas](http://en.wikipedia.org/wiki/Darshanas) of orthodox Indian philosophy earned him titles such as _Sāṃkhya-yoga-śikhāmaṇi_, _Mīmāṃsā-ratna_, _Mīmāṃsā-thīrtha_, _Nyāyācārya_, _Vedāntavāgīśa_, _Veda-kesari_ and _Yogācārya_.
@@ -36,13 +37,15 @@ kAshI-yAtrA (18 to 21 yrs). tarka, saMskRRita.
 mysUru. vINA. 2nd kAshI-yAtrA at 26. 6-gRRiha-bhikShA. 6-darshaNa-shikShA. Dikkanghat rAja-sabhA - bihArI-lAla-parAjaya.
 
 
-{{< figure src="../../images/tirumalai-kRShNamAchAryaH/tirumalai-kRhNamAchArya_with_degrees_before_marriage.gif" title="" class="thumbnail">}}
+![](../../images/tirumalai-kRShNamAchAryaH/tirumalai-kRhNamAchArya_with_degrees_before_marriage.gif)
+{caption="" class="thumbnail"}
 
 
 himAlaya-s in vacations. yoga-abhyAsa. Viceroy Lord Irwin’s diabetes treatment. 1919 - age 31. Permission to cross border - _two and a half months walking: _Ramamohana brahmachArI. yogasUtra, yoga-kuruntha-study. [_Takeaway: Dedication, excellence._]
 
 
-{{< figure src="../../images/tirumalai-kRShNamAchAryaH/tirumalai-kRhNamAchArya_vRshchikAsana_aged_well_over_50.gif" title="" class="thumbnail">}}
+![](../../images/tirumalai-kRShNamAchAryaH/tirumalai-kRhNamAchArya_vRshchikAsana_aged_well_over_50.gif)
+{caption="" class="thumbnail"}
 
 Lifelong student, experimenter, explorer. _"In India, he's still better known as a healer than as a yogi. He was also a gourmet cook, a horticulturist, and shrewd card player._“ Knew at least samskrita, kannaDa, tamiL, telugu, hindI, ba~NgAlI, urdu, probably gUrkhA/ pahAri [_Takeaway: versatility._]
 

@@ -3,4 +3,5 @@ title = "+Cells"
 
 +++
 
-{{< figure src="images/white_blood_cells.jpg" title="" class="thumbnail">}}
+![](images/white_blood_cells.jpg)
+{caption="" class="thumbnail"}

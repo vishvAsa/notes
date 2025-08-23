@@ -13,7 +13,8 @@ Finally the much talked about "Southern Arc" paper of LAZARIDIS etal has been pu
 6. The authors have assembled hundreds of genomes from west Asia, including Anatolia & covering the period when Anatolian languages were spoken. Despite this expanded dataset, they found no clear evidence for steppe presence in the period when Anatolian languages were dominant. 
 7. Hence, they posit a variant of the Caucasian Hunter Gatherer (CHG) hypothesis that had made its rounds in the early days of the archaeogenetic foray into IE origins. 
    
-{{< figure src="../../../images/southern-arc_anatolian-split.jpg" title="" class="thumbnail">}}
+![](../../../images/southern-arc_anatolian-split.jpg)
+{caption="" class="thumbnail"}
 
 
 8. As per their current version, there were two pulses of CHG ancestry into the steppe. An old one which was pretty deep in time & a more recent one which they believe also took some Anatolian Farmer/Levantine ancestry along with it into the steppe. This second pulse is postulated as pre-Yamnaya and critical for its founding. 

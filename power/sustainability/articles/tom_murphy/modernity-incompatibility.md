@@ -44,7 +44,8 @@ A plot of the rate at which human societies have extracted energy resources acro
 
 Yet fossil fuels—and other physical resources—are inarguably finite resources on this planet. Half of the economically viable conventional resources are likely spent, since we first harvested the low-hanging fruit and we are now extracting ever more challenging and costly deposits using advanced technology. In terms of now-dominant fossil fuels, the future beyond the hockey stick is easy to predict: fossil fuel use must fall back toward very low levels as abruptly as it rose [^7]. On a few-century timescale, this one-time inheritance of fossil sunlight will be gone. [Fig. 1](#f0005) provides a striking visual, highlighting how unusual this period is on the scale of human history. It also ominously suggests that the future will not look much like the last century as the affordable fossil fuels that powered our current age are inevitably drawn down—though how, and how fast, the post-carbon transition may be expected to play out is the subject of fortunately growing, albeit contentious debate [^8], [^9], [^10], [^11].
 
-{{< figure src="../images/energy_human-ambitions_finite-planet/muscle_firewood_fossil-fuels.jpg" title="" class="thumbnail">}}
+![](../images/energy_human-ambitions_finite-planet/muscle_firewood_fossil-fuels.jpg)
+{caption="" class="thumbnail"}
 
 - [Download : Download high-res image (36KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2214629621003327-gr1_lrg.jpg "Download high-res image (36KB)")
 - [Download : Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2214629621003327-gr1.jpg "Download full-size image")

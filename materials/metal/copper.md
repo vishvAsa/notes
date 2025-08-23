@@ -11,7 +11,8 @@ title = "Copper"
 - sonorous quality when struck, is a bronze with a high tin content of 20–25 percent. 
 
 ## Brass
-{{< figure src="../images/Brass-paperweight-components-zinc-copper.jpg" title="" class="thumbnail">}}
+![](../images/Brass-paperweight-components-zinc-copper.jpg)
+{caption="" class="thumbnail"}
 
 - alloy of copper and zinc
 - To enhance the machinability (‘free turning’) of brass, lead is often added in concentrations of around 2%.

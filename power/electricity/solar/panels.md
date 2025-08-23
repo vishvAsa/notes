@@ -12,16 +12,19 @@ title = "Panels"
 - Annual degradation (as of 2020 tech) - 0.0045x annually (to be compounded during calculation).
 - Solar cell negative temperature coefficient: .003739x/°C (to be compounded during calculation). The cell temperature may go to 70°C (=> .76x efficiency) and the ambient temperature will be 45°C in bengaLUru.
 
-{{< figure src="../images/waree_445/temperature_VA_response.jpg" title="" class="thumbnail">}}
+![](../images/waree_445/temperature_VA_response.jpg)
+{caption="" class="thumbnail"}
 
 
 ### Variance during day.
 - Peak production time (BLR) is roughly 11AM to 2:30PM. 
 <div class="videoEmbed"  src="https://www.youtube.com/watch?v=iFKskiS7XLk" caption="From the lower graph, I see that power production is getting clipped at 295W - so it seems that it could have potentially generated more per panel with a better inverter (eg IQ7a rather than IQ7+)."></div>
 
-{{< figure src="../../images/solar_panel_angle_effects_2pm_295W_inverters.jpg" title="" class="thumbnail">}}
+![](../../images/solar_panel_angle_effects_2pm_295W_inverters.jpg)
+{caption="" class="thumbnail"}
 
-{{< figure src="../images/waree_445/irradiation_vs_VI.png" title="" class="thumbnail">}}
+![](../images/waree_445/irradiation_vs_VI.png)
+{caption="" class="thumbnail"}
 
 ## Other features
 - Maximum power point tracking MPPT - panels track the sun! 15% increase in winter and up to a 35% increase in summer. MPPT on the inverter side is separate.

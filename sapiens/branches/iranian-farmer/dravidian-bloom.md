@@ -2,9 +2,11 @@
 title: 04 Dravidian bloom
 ---
 
-{{< figure src="../images/dravidian-distro.png" title="Dravidian language distribution" >}}
+![](../images/dravidian-distro.png)
+{caption="Dravidian language distribution"}
 
-{{< figure src="../images/dravidian-language-tree.png" title="dravidian-language-tree" >}}
+![](../images/dravidian-language-tree.png)
+{caption="dravidian-language-tree"}
 
 ## Harappan times
 Harappans spoke a now lost/ subsumed language. In their southern borderlands were DR speakers who admixed with them and acquired some of the Harappan cultural elements.

@@ -53,7 +53,8 @@ Consequently war was all but declared  in the third week of November, though hos
 
 - 9 George Broadfoot, GG's political agent at Ludhiana, to Frederick Currie,  political secretary to GG, 20 Nov. 1845, in the War In India (London, 1846), p. 21.   
 
-{{< figure src="../../images/panjAb_1846.png" title="" class="thumbnail">}}
+![](../../images/panjAb_1846.png)
+{caption="" class="thumbnail"}
 
 
 In an angry argument on 3 December, Tej Singh, the com mander-in-chief, defiantly confronted the Rani and the darbar. A  British informer recorded the encounter:  

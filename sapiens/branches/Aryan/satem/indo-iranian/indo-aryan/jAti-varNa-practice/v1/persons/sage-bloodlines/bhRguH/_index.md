@@ -3,11 +3,14 @@ title = "+भार्गवाः"
 
 +++
 
-{{< figure src="images/bhRgu-prajAH_MT.png" title="" class="thumbnail">}}
+![](images/bhRgu-prajAH_MT.png)
+{caption="" class="thumbnail"}
 
-{{< figure src="images/bhRgu-prajAH.png" title="" class="thumbnail">}}
+![](images/bhRgu-prajAH.png)
+{caption="" class="thumbnail"}
 
-{{< figure src="images/nirNayasindhu-bhArgavagotrANi.jpg" title="" class="thumbnail">}}
+![](images/nirNayasindhu-bhArgavagotrANi.jpg)
+{caption="" class="thumbnail"}
 
 
 [![](http://i.imgur.com/JwfcPUC.png)](http://i.imgur.com/JwfcPUC.png)

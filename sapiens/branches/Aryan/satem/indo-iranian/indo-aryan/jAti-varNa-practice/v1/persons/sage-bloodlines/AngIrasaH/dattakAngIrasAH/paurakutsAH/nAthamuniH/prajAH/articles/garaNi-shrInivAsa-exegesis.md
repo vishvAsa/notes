@@ -3,7 +3,8 @@ title = "garaNi-shrInivAsa exegesis"
 +++
 Sources: garaNi-rAdhAkRShNa.
 
-{{< figure src="../../images/garaNi-shrInivAsa.jpg" title="" class="thumbnail">}}
+![](../../images/garaNi-shrInivAsa.jpg)
+{caption="" class="thumbnail"}
 
 ## About garaNi-shrInivAsa
 ### English Intro

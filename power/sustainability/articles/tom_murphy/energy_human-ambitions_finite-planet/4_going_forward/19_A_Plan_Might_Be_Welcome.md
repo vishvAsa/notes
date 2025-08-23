@@ -187,11 +187,13 @@ The Environment :
 
 resources → firms (goods & services) → ←(labor) households → waste
 
-{{< figure src="../../images/economy_in_environment_plain.png" title="" class="thumbnail">}}
+![](../../images/economy_in_environment_plain.png)
+{caption="" class="thumbnail"}
 
 Figure 19.1: Standard concept of the economy, but importantly surrounded by a finite box labeled "The Environment." Most instances of this figure avoid the insinuation that the economy is contained in a finite domain, in part because it raises the uncomfortable question of how close we are to filling up the box.
 
-{{< figure src="../../images/economy_in_environment_overfull.png" title="" class="thumbnail">}}
+![](../../images/economy_in_environment_overfull.png)
+{caption="" class="thumbnail"}
 
 Figure 19.2: Does our economy have ample room, or is it straining the limits of the environment?
 

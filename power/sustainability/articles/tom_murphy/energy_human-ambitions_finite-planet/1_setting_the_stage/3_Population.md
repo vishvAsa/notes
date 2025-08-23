@@ -13,7 +13,8 @@ Although the focus of this chapter will be on the alarming rate of population gr
 
 Since population plays a giant role in our future trajectory, we need to better understand its past. We can also gain some sense for theoretical expectations, then discuss the heralded "demographic transition" and its implications.
 
-{{< figure src="../images/energy-demand_vs_population.png" title="" class="thumbnail">}}
+![](../images/energy-demand_vs_population.png)
+{caption="" class="thumbnail"}
 
 Figure 3.1: Population (red) and energy demand (blue) on the same plot, showing how much faster energy demand (power) has risen compared to population, which translates to increasing per-capita usage. The vertical axes are scaled so that the curves overlap in the nineteenth century. [^r14] [^r15] [^r16]. 
 
@@ -33,11 +34,13 @@ Figure 3.1: Population (red) and energy demand (blue) on the same plot, showing 
 
 ## 3.1 Population History 
 
-{{< figure src="../images/population_linear-scale.png" title="" class="thumbnail">}}
+![](../images/population_linear-scale.png)
+{caption="" class="thumbnail"}
 
 Figure 3.2: Global population estimate, over the modern human era, on a linear scale. Figure 3.1 offers a recent close-up. [^r14], [^r15].
 
-{{< figure src="../images/population_log-scale.png" title="" class="thumbnail">}}
+![](../images/population_log-scale.png)
+{caption="" class="thumbnail"}
 
 Figure 3.3: Global population estimate, over the modern human era, on a logarithmic scale. [^r14], [^r15].
 
@@ -57,7 +60,8 @@ An interpretation of the population history might go as follows. Not much change
 [^2]: except that famine and plague took a toll in the 14th century 
 
 
-{{< figure src="../images/population_log-scale_post-1k.png" title="" class="thumbnail">}}
+![](../images/population_log-scale_post-1k.png)
+{caption="" class="thumbnail"}
 
 Figure 3.4: Global population estimate, over recent centuries. On the logarithmic plot, lines of constant slope are exponential in behavior. Four such exponential segments can be broken out in the plot, having increasing growth rates. [^r14], [^r15].
 
@@ -107,7 +111,8 @@ Year Population Time Rate Doubling
 Table 3.2: Population milestones: dates at which we added another one billion living people to the planet. The Time and Doubling columns are expressed in years. Around 1965, the growth rate got up to 2%, for a 35 year doubling time. 
 
 
-{{< figure src="../images/population_linear-scale_post-1800.png" title="" class="thumbnail">}}
+![](../images/population_linear-scale_post-1800.png)
+{caption="" class="thumbnail"}
 
 Figure 3.5: Graphical representation of Table 3.2, showing the time between each billion people added [^r14], [^r15].
 
@@ -190,11 +195,13 @@ $$P' = \dfrac{Q-P}{Q}rP$$ (3.5)
 
 We have multiplied the original rate of rP by a term that changes the effective growth rate \\(r → r(Q-P)/Q\\). When P is small relative to Q, the effective rate is essentially the original r. But the effective growth rate approaches zero as P approaches Q. In other words, growth slows down and hits zero when the population reaches its final saturation point, as PQ (see Figure 3.6). (Try it yourself: pick a value for Q (1,000, maybe) and then various values of P to see how the effective growth rate will be modified.)
 
-{{< figure src="../images/linear-growth-rate-decrease.png" title="" class="thumbnail">}}
+![](../images/linear-growth-rate-decrease.png)
+{caption="" class="thumbnail"}
 
 Figure 3.6: The rate of growth in the logistic model decreases as population increases, starting out at r when P :0 and reaching zero as P →Q (see Eq. 3.5).
 
-{{< figure src="../images/logistic-population-curve.png" title="" class="thumbnail">}}
+![](../images/logistic-population-curve.png)
+{caption="" class="thumbnail"}
 
 Figure 3.7: Logistic population curve (blue), sometimes called an S-curve, as given in Eq. 3.6, in this case plotting for r = 0.5 to match examples in the text. The red curve is the exponential that would result without any negative feedback.
 
@@ -255,7 +262,8 @@ The driver is operating a negative feedback loop: seeing/sensing the proximity t
 
 Another example of feedback delay leading to overshoot: let's say you are holding down the space bar and trying to position the cursor in the middle of the screen. But your connection is lagging and even though you release the space bar when you see the cursor reach the middle, it keeps sailing past due to the delay: overshooting.
 
-{{< figure src="../images/logistic-population-curve_with_overshoot.png" title="" class="thumbnail">}}
+![](../images/logistic-population-curve_with_overshoot.png)
+{caption="" class="thumbnail"}
 
 Figure 3.8: Feedback delay generally results in overshoot and oscillation, shown for various delay values, τ. The black curve (τ = 0) is the nominal no-delay logistic curve. As the delay increases, the severity of overshoot increases. Delays are explored in increments of 0.5 times the characteristic timescale of 1/r (using r = 0.5 here to match previous examples, so that a delay of 1.5/r equates to 3 time units on the graph, for instance). The delay durations are also indicated by bar lengths in the legend. 
 
@@ -275,7 +283,8 @@ Eventually all the curves in Figure 3.8 converge to the steady state value of 1.
 
 [^16]: For instance, a dramatic overshoot and collapse could be disruptive enough to take out our current infrastructure for fossil-fuel-aided agriculture so that the Q value essentially resets to some lower value.+++(5)+++ 
 
-{{< figure src="../images/population_post-1800_logistic-curve-fit.png" title="" class="thumbnail">}}
+![](../images/population_post-1800_logistic-curve-fit.png)
+{caption="" class="thumbnail"}
 
 Figure 3.9: Human population data points (blue) and a logistic curve (red) that represents the best fit to data points from 1950 onward. The resulting logistic function has Q≈ 12 Gppl, r = 0.028, and a midpoint at the year 1997. The actual data sequence has a sudden bend at 1950 (Green Revolution?) that prevents a suitable fit to a larger span of data. In other words, the actual data do not follow a single logistic function very well, which is to be expected when conditions change suddenly (energy and technology, in this case) [^14] [^15]. 
 
@@ -307,7 +316,8 @@ Birth rate, typically expressed in births per 1,000 people per year, minus death
 
 [^17]: This ignores immigration, which just shifts living persons around. 
 
-{{< figure src="../images/population-growth-rate.png" title="" class="thumbnail">}}
+![](../images/population-growth-rate.png)
+{caption="" class="thumbnail"}
 
 Figure 3.10: Net population rate, in percent, as a function of per-capita GDP. A clear trend shows wealthier countries having lower growth rates. A win-win solution would seem to present itself, in which everyone arrives at the lower right-hand side of this graph: more money for all and a stable population! Dot size (area) is proportional to population [^r6], [^r8], [^r19], [^r20]. 
 
@@ -325,7 +335,8 @@ Niger has a birth rate of 46 per 1,000 per year and a death rate of 11, resultin
 
 As conditions change, birth and death rates need not change in lock-step. Developed countries tend to have low birth rates and low death rates, balancing to a relatively low net population growth rate.+++(5)+++ Developing countries tend to have high death rates and even higher birth rates, leading to large net growth rates. 
 
-{{< figure src="../images/birth-rate_vs_death-rate.png" title="" class="thumbnail">}}
+![](../images/birth-rate_vs_death-rate.png)
+{caption="" class="thumbnail"}
 
 Figure 3.11: Birth rates and death rates for countries, where dot size is proportional to population. The diagonal line indicates parity between birth and death rates, resulting in no population growth. Countries above the line are growing population, while countries below are shrinking. A few countries fall a bit below this line [^r8], [^r19], [^r20].
 
@@ -356,7 +367,8 @@ In order to accomplish this goal, reduced death rates are facilitated by introdu
 
 Figure 3.11 hints at the narrative. Countries are spread into an arc, one segment occupying a band between 5-10 deaths per 1,000 people per year and birth rates lower than 20 per 1,000 people per year. Another set of countries (many of which are in Africa) have birth rates above 20 per 1,000 per year, but also show higher death rates. The narrative₤20arc is that a country may start near Lesotho, at high death and birth rates, then migrate over toward Nigeria as death rates fall (and birth rates experience a temporary surge). Next both death and birth rates fall and run through a progression toward Pakistan, India, the U.S., and finally the European steady state. Figure 3.12 schematically illustrates the typical journey. 
 
-{{< figure src="../images/transition-to-birth-death-balance.png" title="" class="thumbnail">}}
+![](../images/transition-to-birth-death-balance.png)
+{caption="" class="thumbnail"}
 
 Figure 3.12: Schematic of how the demographic transition may play out in the space plotted in Figure 3.11. At points A and D, birth rates and death rates are equal, resulting in no population growth. Typically, death rates decline while birth rates increase (point B), and eventually death rates reach a floor while birth rates begin to fall (at C).
 
@@ -366,7 +378,8 @@ However, we need to understand the consequences. Just because we want something 
 
 ### 3.3.1 Geographic Considerations 
 
-{{< figure src="../images/population-growth-rate_world-map.png" title="" class="thumbnail">}}
+![](../images/population-growth-rate_world-map.png)
+{caption="" class="thumbnail"}
 
 Figure 3.13: Net population growth rate by country: birth rate minus death rate per 1,000 people per year. The highest net growth (darkest shading) is Niger, in Saharan Africa [^r19] [^r20].
 
@@ -377,7 +390,8 @@ But let us cast population rates in different countries in a new light. Referrin
 
 [^23]: But check back in 100 years!
 
-{{< figure src="../images/population-growth-mil_world-map.png" title="" class="thumbnail">}}
+![](../images/population-growth-mil_world-map.png)
+{caption="" class="thumbnail"}
 
 Figure 3.14: Absolute population growth rate by country: how many millions of people are added per year (birth rate minus death rate times population) [^r8], [^r19], [^r20].
 
@@ -424,7 +438,8 @@ Adding another relevant perspective, when one considers that the per-capita ener
 
 Table 3.4: Top ten countries for growth in energy demand. Populations are in millions. Power is in Watts or $10^{9}$ W (GW). The power added annually is the absolute increase in demand due to population growth, and is a proxy for resource demands in general. The last column provides some measure of an individual citizen's share of the responsibility in terms of increasing pressure on resources. The top three contributors to new power demand via population growth alone (China, the U.S., and India) account for about a third of the global total. [^r7], [^r8], [^r19], [^r20]
 
-{{< figure src="../images/countries_power-increase_vs_pop-increase.png" title="" class="thumbnail">}}
+![](../images/countries_power-increase_vs_pop-increase.png)
+{caption="" class="thumbnail"}
 
 Figure 3.15: Graphical representation of Table 3.4, for all countries. Dots, whose size is proportional to population, indicate how many people are added per year, and how much additional energy demand is created as a consequence. Color indicates the added population-growth-driven power demand an individual citizen is responsible for generating each year as a member of the society. Negative cases (contracting) include Russia, Japan, Germany, and Ukraine [^r7], [^r8], [^r19], [^r20]
 
@@ -461,7 +476,8 @@ Africa is significant in terms of population growth, but constitutes only 10% of
 
 ### 3.3.2 Cost of the Demographic Transition 
 
-{{< figure src="../images/birth-death-rate-transition-lag.png" title="" class="thumbnail">}}
+![](../images/birth-death-rate-transition-lag.png)
+{caption="" class="thumbnail"}
 
 Figure 3.16: Schematic demographic transition time sequence.
 
@@ -485,7 +501,8 @@ This means that the population more than doubles, or increases by 134%.
 
 So to effect a demographic transition means to increase the population burden substantially. Meanwhile, the transitioned population consumes resources at a greater rate—a natural byproduct of running a more advanced society having better medical care, education, and employment opportunities. Transportation, manufacturing, and consumer activity all increase. The net effect is a double-whammy: the combined impact of a greater population using more resources per capita. The resource impact on the planet soars. 
 
-{{< figure src="../images/global-us-living-standards-impact.png" title="" class="thumbnail">}}
+![](../images/global-us-living-standards-impact.png)
+{caption="" class="thumbnail"}
 
 
 Figure 3.17: What our energy demand would have to do (blue-dashed line) if the growing global population (here projected as a red-dashed logistic curve) grew its per-capita energy consumption to current U.S. standards by the year 2100 (a factor-of-five increase). Historical energy and population are represented as solid curves. The departure from past reality would have to be staggering [^r15], [^r16].

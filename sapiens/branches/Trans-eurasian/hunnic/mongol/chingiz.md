@@ -2,7 +2,8 @@
 title: Chingiz Khan
 ---
 
-{{< figure src="../images/chingiz.jpg" title="Chingiz Khakhan" >}}
+![](../images/chingiz.jpg)
+{caption="Chingiz Khakhan"}
 
 
 ## Summary

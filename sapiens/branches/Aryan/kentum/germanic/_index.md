@@ -12,7 +12,8 @@ title = "+Germanic"
 
 ## Britannia
 
-{{< figure src="images/720px-Anglo-Saxon_Homelands_and_Settlements.png" title="" class="thumbnail">}}
+![](images/720px-Anglo-Saxon_Homelands_and_Settlements.png)
+{caption="" class="thumbnail"}
 
 
 - WW 1, 12% of british soldiers died. 17% of their officers. 20% of the graduates of eton who served in the war. son of the wartime prime minister. one future PM lost a son. another two brothers.

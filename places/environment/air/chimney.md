@@ -40,7 +40,8 @@ title = "Chimney"
 - For gas stoves - 24 to 30 inches. For electric stoves - 21 to 30 inches.
 
 ## kuNDa chimney
-{{< figure src="../images/kuNDa-exhaust-fan-chimney_al-walker_ripped-coat-wind-curtain_alight.jpg" title="Materials: Cu kuNDa, Al walker, with exhaust fan and ripped off coat" class="thumbnail">}}
+![](../images/kuNDa-exhaust-fan-chimney_al-walker_ripped-coat-wind-curtain_alight.jpg)
+{caption="Materials: Cu kuNDa, Al walker, with exhaust fan and ripped off coat" class="thumbnail"}
 
 
 ## Candidates

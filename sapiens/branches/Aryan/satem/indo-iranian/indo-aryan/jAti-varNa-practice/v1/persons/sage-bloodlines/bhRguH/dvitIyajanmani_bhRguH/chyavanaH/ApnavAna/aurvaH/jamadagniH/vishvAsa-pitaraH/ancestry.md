@@ -10,7 +10,8 @@ title: Remote Ancestry दूर-पितरः
 
 ## Genetics
 ### R1a1a* (Paternal)
-{{< figure src="../r1a1a_map.png" title="R1A1A distribution" class="thumbnail">}}
+![](../r1a1a_map.png)
+{caption="R1A1A distribution" class="thumbnail"}
 
 #### Descent (23andme 2017)
 - A
@@ -72,7 +73,8 @@ Observations:
 </details>
 
 ### G25 coordinates
-{{< figure src="../images/gedmatch_g25-sim-coords-in-pca_v.png" title="" class="thumbnail">}}
+![](../images/gedmatch_g25-sim-coords-in-pca_v.png)
+{caption="" class="thumbnail"}
 
 <details><summary>Sim data (द्रष्टुं नोद्यम्)</summary>
 

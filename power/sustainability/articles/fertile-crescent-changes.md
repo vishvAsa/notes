@@ -12,7 +12,8 @@ Thank you for asking this! My PhD thesis is on prehistoric ecological change in 
 The first thing to consider is that the Middle East is huge and very geographically diverse. Our image of it in the West tends to be fixated on the desert. And a lot of it is desert. There are [scrubby deserts](http://i.imgur.com/4NNmaxU.jpg), [weird rocky deserts](http://i.imgur.com/UHD1DW1.jpg), and [proper sandy deserts](https://aos.iacpublishinglabs.com/question/aq/700px-394px/arabian-desert_3931286889d2d196.jpg?domain=cx.aos.ask.com). But there are also [snowy mountains in Iran](http://www.timeforiran.com/wp-content/uploads/2014/10/53017176-e1416993494408.jpg), [lakes in Turkey](http://www.turkishclass.com/static/images/tc_pictures/upload/78/van_golu_800_600_jpg_1.jpg), [marshes in Iraq](http://america.aljazeera.com/content/ajam/articles/2014/7/13/restoring-iraqs-lostmarshes/jcr:content/mainpar/adaptiveimage/src.adapt.960.high.iraq_marsh.1405196806844.jpg) and [forests in Lebanon](http://www.habeeb.com/images/lebanon.photos/Pine_Trees/Lebanese_pine_trees_017.jpg).
 
 
-{{< figure src="/notes/places/images/fertile-crescent_mountain_steppe.jpg" title="" class="thumbnail">}}
+![](/notes/places/images/fertile-crescent_mountain_steppe.jpg)
+{caption="" class="thumbnail"}
 
 The "Fertile Crescent" is a not-very-precise term for the region where archaeologists have found the remains of the oldest urban societies; the "cradle of civilisation". Something like the [area shaded green on this map](http://i.imgur.com/eflWqzn.jpg). It basically straddles two geographical zones: the Mediterranean coast of the Levant, and the floodplains of the Tigris and Euphrates (Mesopotamia). Some people also extend it to include the Nile/Egypt. 
 

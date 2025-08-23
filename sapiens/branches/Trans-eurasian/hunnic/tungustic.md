@@ -2,7 +2,8 @@
 title: Tungustic
 ---
 
-{{< figure src="../images/1280px-Linguistic_map_of_the_Tungusic_languages.png" title="Tungustic language distribution" >}}
+![](../images/1280px-Linguistic_map_of_the_Tungusic_languages.png)
+{caption="Tungustic language distribution"}
 
 ##  Jurchen (proto-Manchu), Jin 
 "The Han of the Song with aid from coethnic Hans within the Khitan empire made an alliance with the Khitan vassals, the Jurchen from Manchuria belonging to the Tungoosid branch of the Altaic peoples. The latter in 1124 CE defeated the Khitan and usurped all of their possessions in China, Manchuria and northern Korea."  {[MT](https://manasataramgini.wordpress.com/2013/12/09/some-reflections-on-the-khans-qaidu-and-dua-and-the-great-khans-lost-legacy/)}

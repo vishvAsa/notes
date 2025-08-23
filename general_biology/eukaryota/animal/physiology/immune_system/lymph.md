@@ -2,7 +2,8 @@
 title = "Lymph"
 +++
 
-{{< figure src="images/Lymphatic_System_Female.png" title="" class="thumbnail">}}
+![](images/Lymphatic_System_Female.png)
+{caption="" class="thumbnail"}
 
 
 ## Intro

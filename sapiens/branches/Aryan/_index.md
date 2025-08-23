@@ -47,7 +47,8 @@ Thence came Bell Beaker culture to the west and from remigration to the steppe: 
   - Hittite and Tocharian  show no satem-like assibilation in spite of being located in the satem area.
   - other Indo-European isoglosses running across the centum–satem boundary, some of which seemed of equal or greater importance in the development of daughter languages.
 
-{{< figure src="images/isoglosses.png" title="" class="thumbnail">}}
+![](images/isoglosses.png)
+{caption="" class="thumbnail"}
 
 
 ## Genes, memes, temes

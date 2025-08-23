@@ -110,7 +110,8 @@ Eq. 13.5 is called the Wien law and is a numerical solution identifying the peak
 
 All this may seem overwhelming, but take a breath, then just look at Figure 13.1. Everything so far in this section is captured by Figure 13.1.
 
-{{< figure src="../images/plank-blackbody-spectra.png" title="" class="thumbnail">}}
+![](../images/plank-blackbody-spectra.png)
+{caption="" class="thumbnail"}
 
 Figure 13.1: Planck spectra, or blackbody spectra for three temperatures, indicating where the ultraviolet, visible, and infrared regions lie. The shapes of the three curves (spectra) are described by Eq. 13.4, the star locations are found by Eq. 13.5, and the total power radiated, per square meter of surface is the area under each curve, as captured in Eq. 13.3. The dotted line relates to Example 13.2.2. Note the 1e8 factor on the vertical axis, meaning that the axis goes from 0 to \\(1.0 x 10^8 W/m^2/μm\\).
 
@@ -180,7 +181,8 @@ Various materials are used as the principal component in PV panels, but the vast
 
 [[202]]
 
-{{< figure src="../images/pv-cell-structure.png" title="" class="thumbnail">}}
+![](../images/pv-cell-structure.png)
+{caption="" class="thumbnail"}
 
 Figure 13.4: PV cell structure and function. A junction between n-doped and p-doped semiconductors sets up an electric field across the junction. If an electron promoted to the conduction band by an incoming photon wanders into the junction, it is swept across (red arrow) and successfully contributes to current. Electrons do not contribute if created above the junction-as is more probable for blue photons that are not likely to penetrate as far. Electrons do not contribute to the external (useful) current if they recombine (fill a hole) before finding the junction (red "poof").
 
@@ -236,7 +238,8 @@ Infrared photons at a wavelength of > 1.1 μm have an energy of E < 1.1 eV,[^29]
 
 [^29]: That λ 1.1 μm happens to correspond to 1.1 eV is a numerical coincidence, but perhaps convenient, in that remembering 1.1 for silicon covers it from both directions.
 
-{{< figure src="../images/solar-light-pv-utilization.png" title="" class="thumbnail">}}
+![](../images/solar-light-pv-utilization.png)
+{caption="" class="thumbnail"}
 
 Figure 13.5: Energy budget in silicon PV cell. The areas of the four regions represent the fraction of the total incident energy going to each domain. All light at wavelengths longer than 1.1 μm (infrared; 23%) passes through the silicon without being absorbed. The photons that are absorbed give excess kinetic energy to electrons, losing 33% of the incident energy as heat. This effect is progressively more pronounced the shorter the wavelength. Of the remaining 44%, about a quarter disappear as electrons "recombine" with vacancies (holes) in the silicon before getting a chance to contribute to a useful current by crossing the junction, leaving 32% as the maximum theoretical efficiency.
 
@@ -290,7 +293,8 @@ Figure 13.6: PV panels (modules) are constructed of typically 18, 36, 54, or 72 
 
 PV panels are usually constructed of many individual PV cells wired in series, as depicted in Figure 13.6. Each cell delivers maximum power when it's at a voltage around 0.45 V, and cells are usually arranged in strings of 18, adding to about 8 V. Panels commonly have 2, 3, or 4 such strings of 18-thus 36, 54, or 72 cells total-becoming 16 V, 24 V, or 32 V devices at peak power. Figure 13.7 shows typical performance curves for a PV cell (or whole panel) operating in various light levels. Recalling from Eq. 5.2 (p. 77) that electrical power is current times voltage, the power put out by a PV panel can be found as the area of the rectangle formed from the origin to the operating point somewhere on the curve. The point that maximizes area (power) is shown in Figure 13.7 as the "maximum power point." A battery being charged might hold the panel to a lower voltage, whose corresponding rectangle has a smaller area, thus operating at less than the panel's maximum power.
 
-{{< figure src="../images/pv-cell-VI-curve.png" title="" class="thumbnail">}}
+![](../images/pv-cell-VI-curve.png)
+{caption="" class="thumbnail"}
 
 Figure 13.7: Current-voltage (I–V) curve for a PV cell. The cell in full sunlight will operate somewhere on the thick blue curve, and on a lower red curve under weaker illumination. The maximum power point (mppt) is about 0.45 V for silicon, while the nominal design might be for 0.35 V so that a 36-cell panel is sized to charge a 12 V battery. Rectangle area is proportional to power delivered, since P = IV.
 
@@ -349,7 +353,8 @@ Table 13.1 summarizes these various power densities, the last line being typical
 
 Figure 13.8 shows global insolation, variations arising from a combination of latitude and weather.
 
-{{< figure src="../images/solar-power-flat-panel-kwh-world.png" title="" class="thumbnail">}}
+![](../images/solar-power-flat-panel-kwh-world.png)
+{caption="" class="thumbnail"}
 
 Figure 13.8: Insolation onto locally horizontal surfaces for the world (for flat plates facing directly upward), in units of $W/m^2$ and kWh/$m^2$/day. The area of the blue square in the middle of the Atlantic ocean is enough to satisfy current global energy demand, using 15% efficient solar collection (but distributed, of course). Source: The World Bank.
 
@@ -361,7 +366,8 @@ Figure 13.9 shows the variation of insolation across the U.S. The latitude effec
 [^45]: e.g., 250 vs. 150 $W/m^2$
 
 
-{{< figure src="../images/solar-power-flat-panel-kwh-usa.png" title="" class="thumbnail">}}
+![](../images/solar-power-flat-panel-kwh-usa.png)
+{caption="" class="thumbnail"}
 
 Figures 13.8 and 13.9 are in the context of a flat surface.[^46] For solar panels, it makes sense to tilt them to an angle equaling the site latitude and oriented toward the south.[^47] The noon-time sun is always high in the sky near the equator, so panels there should lie flat.[^48]
 
@@ -378,13 +384,15 @@ Figures 13.8 and 13.9 are in the context of a flat surface.[^46] For solar panel
 But at high northern latitudes, the sun is lower toward the southern horizon, so the panels should tilt up to best face the sun. Tilting at an angle equal to the latitude is the best compromise, as Figure 13.10 illustrates.
 
 
-{{< figure src="../images/solar-panel-tilting.png" title="" class="thumbnail">}}
+![](../images/solar-panel-tilting.png)
+{caption="" class="thumbnail"}
 
 Figure 13.10: The left globe shows the sun's view of 21 panels of the same size sitting flat on the ground at their various sites. In the middle globe, the panels are all tilted up toward the equator. Notice the improvement in how much panel area is visible to the sun by doing this especially at higher latitudes. At right is the side view, from which it is easier to appreciate why the best tilt angle is equal to the site latitude.
 
 Photovoltaic Solar Resource of the United States
 
-{{< figure src="../images/solar-power-tilted-panel-kwh-usa.png" title="" class="thumbnail">}}
+![](../images/solar-power-tilted-panel-kwh-usa.png)
+{caption="" class="thumbnail"}
 
 Tilting panels toward the equator at an angle equal to site latitude optimizes annual yield, and the results are shown in Figure 13.11. Note that the numbers in Figure 13.11 are not strictly insolations, since that's defined as what reaches flat ground. In this case, the area (square meters) is that of the panel, not of the land.
 
@@ -395,7 +403,8 @@ The fact that the numbers in Figure 13.11 are higher than in Figure 13.9 is not 
 Figure 13.12: On a fixed piece of land receiving a fixed amount of sunshine at a slant angle, the amount of energy received is independent of whether the panels are flat or tilted. Just tilting the flat panels up (middle) results in self-shading. It makes the most sense to tilt and separate panels (right), one benefit being that fewer panels are needed to collect the same incident energy.
 
 
-{{< figure src="../images/solar-power-tracking-panel-kwh-usa.png" title="" class="thumbnail">}}
+![](../images/solar-power-tracking-panel-kwh-usa.png)
+{caption="" class="thumbnail"}
 
 Figure 13.11: Solar potential for flat panels tilted to latitude, oriented south-relevant to PV panel installations. The graphic is presented in units of kWh/$m^2$/day, the breakpoints between colors running from 3.0 to 6.5 kWh/$m^2$/day in steps of 0.5. Annotations are added once in each color band (in black or yellow) to indicate the equivalent measure in $W/m^2$ [^87]. From NREL.
 
@@ -518,7 +527,8 @@ A major impediment to solar power is its **intermittency**[^68]. Figure 13.15 sh
 [^68]: Recall that wind has a similar problem (Fig. 12.6; p. 190).
 
 
-{{< figure src="../images/solar-demand-supply-mismatch.png" title="" class="thumbnail">}}
+![](../images/solar-demand-supply-mismatch.png)
+{caption="" class="thumbnail"}
 
 Figure 13.15: Solar input (red) and electricity demand (blue) look nothing alike. Solar data from the author's home begins 31 March 2020, while demand is for California. Tick marks denote the start of each date, at midnight. April 22-27 are essentially perfect cloudless days, while the earlier part of the month had rainy periods. Note that even a very rainy day (April 10) provides some solar power (15% as much as a full-sun day). Intermittent clouds cause the "hair" seen on some days. The capacity factor for the month is 19%, while the perfect six days near the end perform at 27% capacity. From this, we infer that weather caused the yield to be 70% what it would have been had every day been cloudless.
 
@@ -736,7 +746,8 @@ Photovoltaics (Section 13.3) convert sunlight directly into electricity, but thi
 Full sun delivers something like 1,000 $W/m^2$ at the earth's surface. Now imagine a window in a house intercepting 1.5 $m^2$ of sunlight, in effect admitting 1,500 W into the home-like a space heater, and it's free! Depending on window construction, some of the infrared energy may be blocked, so maybe not all 1,000 $W/m^2$ will make it inside, but a sizable portion will. Clever design has south-facing windows for receiving low-angle winter sun, but an overhang to keep out the high summer sun (Figure 13.21).
 
 
-{{< figure src="../images/passive-solar-heating-with-overhang.png" title="" class="thumbnail">}}
+![](../images/passive-solar-heating-with-overhang.png)
+{caption="" class="thumbnail"}
 
 Figure 13.21: A well-designed house has thick walls, thick insulation, and doublepaned windows. Even better, it can have south-facing windows that admit sunlight in the winter but not in the summer (the overhang shields the window). A large, dark thermal mass-stone or brick works wellcan absorb energy and continue to release heat into the evening.
 
@@ -750,15 +761,18 @@ A dark and massive absorber[^91] inside the house capturing the heat can continu
 ### 13.8.2 Solar Thermal Electricity
 While 1,000 $W/m^2$ is nice, the power is too diffuse to get anything very hot and create a large enough ΔT to allow the operation of an efficient heat engine (Sec. 6.4; p. 88). More complex arrangements can concentrate solar power-think of a magnifying glass-to heat up a liquid in pipes. Figure 13.22 shows an example of a parabolic reflector that can track the sun to concentrate light onto the energy-absorbing central pipe. This shape can be extruded along a long cylinder-a "trough"-following the pipe.
 
-{{< figure src="../images/solar-heat-parabolic-reflector.png" title="" class="thumbnail">}}
+![](../images/solar-heat-parabolic-reflector.png)
+{caption="" class="thumbnail"}
 
 Figure 13.22: Solar trough cross sections showing the focusing of sunlight onto a central pipe. The troughs can be oriented to follow the sun.
 
-{{< figure src="../images/solar-thermal-power-plant.png" title="" class="thumbnail">}}
+![](../images/solar-thermal-power-plant.png)
+{caption="" class="thumbnail"}
 
 Figure 13.23: A common solar thermal power scheme uses parabolic "trough" reflectors to focus sunlight onto a central pipe, which carries oil that can be heated to very high temperatures for making steam to run a traditional electrical power plant very much like that of Fig. 6.2 (p. 90). Optional thermal storage can save heat for later use.
 
-{{< figure src="../images/solar-thermal-tower-and-pipes.png" title="" class="thumbnail">}}
+![](../images/solar-thermal-tower-and-pipes.png)
+{caption="" class="thumbnail"}
 
 Figure 13.23 shows a schematic representation of a typical solar thermal (ST) collector, and a picture of one appears in Figure 13.24. A curved reflector tilts to track the sun, concentrating light onto a long pipe in front of the reflector carrying a fluid (usually oil) that can be heated to a high temperature by the absorbed sunlight. The hot oil pipes can then be run through water to boil it and make steam, thereafter driving a traditional steam power plant. Such ST arrangements are sometimes called concentrated solar power (CSP). Another common variant-called a "power tower"-is shown in Figure 13.25, in which an array of steerable flat mirrors on the ground direct sunlight to the top of a central tower to make steam.
 

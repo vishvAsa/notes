@@ -153,7 +153,8 @@ As mind-bogglingly large as the solar system is, not to mention that it itself i
 But penetrating the nature of the individual galaxies (coins, in the previous example scale) is extremely daunting: they are mostly empty space, and by the time we reduce the galaxy to a manageable scale (say 10 km, so that we can picture the whole thing as city-sized), individual stars are a few tenths of a meter apart and only about 50 atoms across (roughly 10 nm). Cells and bacteria are about 100-1,000 times larger than this. So it's nearly impossible to conceive of the scale of the galaxy while simultaneously appreciating the sizes of the stars and just how much space lies between. 
 </details>
 
-{{< figure src="../images/galaxy-filaments_millennium-sim.png" title="" class="thumbnail">}}
+![](../images/galaxy-filaments_millennium-sim.png)
+{caption="" class="thumbnail"}
 
 Figure 4.3: Galaxies are actually distributed in a frothy foam-like pattern crudely lining the edges of vast bubbles (voids; appearing as dark regions in the image). This structure forms as a natural consequence of gravity as galaxies pull on each other and coalesce into groups, leaving emptiness between. This graphic shows the bubble edges and filaments where galaxies collect. The larger galaxies are bright dots in this view-almost like cities along a 3-dimensional web of highways through the vast emptiness. From the Millennium Simulation [^r25]. 
 
@@ -239,7 +240,8 @@ Before turning attention to what we have not yet done in space, students may app
 
 
 
-{{< figure src="../images/post-apollo-human-space-flight.png" title="" class="thumbnail">}}
+![](../images/post-apollo-human-space-flight.png)
+{caption="" class="thumbnail"}
 
 Figure 4.4: The pink band indicates the farthest humans have been from the surface of the earth for the last 50 years. The Hubble Space Telescope (HST) orbits at the top of this band at 600 km altitude, and the International Space Station in the middle at 400 km. Beyond the thin black line outlining the globe, Earth's atmosphere is too tenuous to support life. 
 
@@ -292,7 +294,8 @@ CO2 increase while enjoying access to all the resources available to us on the p
 
 Figure 4.5 further illustrates the giant gap between tolerable conditions and actual atmospheres on offer in the solar system. 
 
-{{< figure src="../images/planet-pressure-temperature-difference.png" title="" class="thumbnail">}}
+![](../images/planet-pressure-temperature-difference.png)
+{caption="" class="thumbnail"}
 
 
 Figure 4.5: Rocky-body atmospheres in the solar system, showing average temperature (Celsius) and pressure (atmospheres). The range of "comfort" for Earth is shown as a blue rectangle going from -10°C to 40°C and 0.2 atm (where the atmosphere would need to be 100% oxygen) to (arbitrarily) 10 atm. Not only are the other bodies far outside our comfort range, the compositions are noxious, and lack oxygen. Bear in mind that a change of even a few degreesas in climate change is a big deal. Even Mt. Everest, where humans can survive for only a few hours with supplemental oxygen is substantially more hospitable than Mars.

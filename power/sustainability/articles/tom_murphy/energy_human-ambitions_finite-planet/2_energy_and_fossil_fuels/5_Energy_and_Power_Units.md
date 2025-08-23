@@ -222,7 +222,8 @@ Power is simply defined as energy per time: how much energy is expended in how m
 
 While energy is the capacity to do work, it says nothing about how quickly that work might be accomplished. Power addresses the rate at which energy is expended. Figure 5.2 provides a sense of typical power levels of familiar animals and appliances. 
 
-{{< figure src="../images/power-comparison-log-scale.png" title="" class="thumbnail">}}
+![](../images/power-comparison-log-scale.png)
+{caption="" class="thumbnail"}
 
 rat (1.4 W)  
 cell phone charging (4 W)  

@@ -15,8 +15,10 @@ unicode_script = "devanagari"
   - These antibodies can be used for detecting past exposure.
 - Both T and B cells become memory cells and provide immune system for a long time (years), even after antibody levels are down. These can reignite defences later - Asymptomatic cases - less strong response, but much better than unprepped hosts.
 
-{{< figure src="images/adaptive_immunity_process_overview.png" title="" class="thumbnail">}}
-{{< figure src="images/adaptive_immunity_antibody-concentration_vs_time.png" title="" class="thumbnail">}}
+![](images/adaptive_immunity_process_overview.png)
+{caption="" class="thumbnail"}
+![](images/adaptive_immunity_antibody-concentration_vs_time.png)
+{caption="" class="thumbnail"}
 
 #### Antibody prevalance duration
 - Measles - decades

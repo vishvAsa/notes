@@ -21,7 +21,8 @@ unicode_script = "devanagari"
 ### आङ्ग्लिकया
 a certain jAmadagnya vatsa, brilliant author of [mAnasataraMgiNI](http://manasataramgini.wordpress.com/) (\+ some in [HH](https://musingsofhh.wordpress.com), GS_[SV](https://sites.google.com/site/snippetsfromourthroughstreams/home), [AL_SV](https://plus.google.com/u/0/photos/111263101351559985986/album/5430577601505115489/5498099094532821810)), gRhya ritualist, biologist, the hindu anthropologist who has managed to remain outside the influence of the Leukosphere.
 
-{{< figure src="images/MT_word-cloud.png" title="" class="thumbnail">}}
+![](images/MT_word-cloud.png)
+{caption="" class="thumbnail"}
 
 
 ## इतिहासः

@@ -11,8 +11,10 @@ unicode_script = "devanagari"
 - Desmostachya bipinnata, commonly known in English by the names halfa grass, big cordgrass, and salt reed-grass. Aka kusha.
 - Branches from the base, erect from a stout creeping rootstock.
 
-{{< figure src="../images/darbha-1.jpg"  >}}
-{{< figure src="../images/darbha-collected.jpg"  >}}
+![](../images/darbha-1.jpg)
+{ }
+![](../images/darbha-collected.jpg)
+{ }
 
 ### बॆङ्गळूरुनगरे
 स्रोतश् चन्द्रादयः।

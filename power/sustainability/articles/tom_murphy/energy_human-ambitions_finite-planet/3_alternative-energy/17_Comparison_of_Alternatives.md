@@ -68,7 +68,8 @@ Environmental impact has no column in this matrix, although the "acceptance" mea
 
 Each energy source can be assigned a crude numerical score, adding one point for each blue box, no points for yellow boxes, and deducting a point for each red box. Certainly this is an imperfect scoring scheme, giving each criterion equal weight, but it provides some means of comparing and ranking sources. (9: See Section 17.3 for an alternate approach.)
 
-{{< figure src="../images/fossil-fuel-eval.png" title="" class="thumbnail">}}
+![](../images/fossil-fuel-eval.png)
+{caption="" class="thumbnail"}
 
 Figure 17.1: Fossil fuel matrix of attributes. Blue is good (+1 point); yellow is neutral (0 points).
 

@@ -3,7 +3,8 @@ title: Champa & Kinh
 ---
 
 ## Intro
-{{< figure src="../../images/vietnam_champa_1100.gif" title="Champa 1100" class="thumbnail">}}
+![](../../images/vietnam_champa_1100.gif)
+{caption="Champa 1100" class="thumbnail"}
 
 ## Chinese influence
 - "Muong/ monglong and Kinh (ethnic Vietnamese) separation happened when the proto-Vietnamese became heavily Sinicised, beginning from the 111 BC invasion by Chinese Emperor Wu of Han, while the Muong, living in the mountains, developed independently. ... The Muong and the Tai have had a mutual influence on each other's culture."

@@ -12,7 +12,8 @@ A 2x2 example:
 | Actual T | 12          | 3           |
 | Actual F | 31          | 13          |
 
-{{< figure src="../images/positive-negative-predictive-value.webp" title="">}}
+![](../images/positive-negative-predictive-value.webp)
+{caption=""}
 
 ## Notation
 \\(U \dfn \\) set of all points. \\(y(c) \dfn\\) points belonging to class c. \\(\hat{y}(c) \dfn\\) set of points predicted to belong to class c.
@@ -28,7 +29,8 @@ True negatives: \\(tn(c, \hat{y}) = |(U - y(c)) \inters (U - \hat{y}(c))|\\).  P
 
 ## Metrics
 
-{{< figure src="../images/Precision-recall.svg" title="" class="thumbnail">}}
+![](../images/Precision-recall.svg)
+{caption="" class="thumbnail"}
 
 ### Precision
 #### Positive label precision
@@ -71,7 +73,8 @@ F-measure, the harmonic mean of precision and recall, is also used to evaluate s
 ### Sensitivity - specificity tradeoff
 Ideally, want to increase both sensitivity and specificity. But to increase sensitivity, the classifier often needs to take more risks in classifying an entity as 'positive'. There will be many cases where -ve entities are declared +ve: there is decrease in specificity.
 
-{{< figure src="../images/sensitivity-vs-specificity-tradeoff.png" title="" class="thumbnail">}}
+![](../images/sensitivity-vs-specificity-tradeoff.png)
+{caption="" class="thumbnail"}
 
 
 Visualize two normal curves over 1-D feature: one for the -ve case and one for the +ve case. On observing a feature, a classifier uses a cutoff to identify +ve cases. Compare with tradeoff between type-1 and type-2 errors in hypothesis testing.
@@ -81,7 +84,8 @@ Aka Receiver operating characteristic (ROC) curve.
 
 TP rate vs FP rate curve.
 
-{{< figure src="../images/ROC-explanation.png" title="" class="thumbnail">}}
+![](../images/ROC-explanation.png)
+{caption="" class="thumbnail"}
 
 
 Take a parametrized family of predictors/ tests to identify +ve cases; the predictors are distinguished by the cutoff they choose in making classifications using the same scores for items. ROC considers the sensitivity vs specificy tradeoffs of various tests belonging to this family.
@@ -98,7 +102,8 @@ So, AUC measures the test's discrimination, or the ability to separate +ve cases
 ### Precision/ recall tradeoff
 Recall monotonically increases with number of points classified as +ve. Precision monotonically decreases with the number of false positives. Often precision and recall have inverse relationship: if you classify all points as +ve, you have very high completeness but bad recall.
 
-{{< figure src="../images/precision-recall-tradeoff.svg" title="" class="thumbnail">}}
+![](../images/precision-recall-tradeoff.svg)
+{caption="" class="thumbnail"}
 
 
 Often want to see how these change with classification parameters: so draw plots.

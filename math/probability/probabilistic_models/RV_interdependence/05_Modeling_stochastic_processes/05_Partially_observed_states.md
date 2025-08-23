@@ -35,7 +35,8 @@ Aka Bigram Hidden Markov Model (HMM).
 ### Graphical model
 The graphical model of the observation and label sequences has the following structure for \\(i = 2:N\\) :
 
-{{< figure src="../images/bigram_HMM.svg" >}}
+![](../images/bigram_HMM.svg)
+{ }
 
 
 ### Representations

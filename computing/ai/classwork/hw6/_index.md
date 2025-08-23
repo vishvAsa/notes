@@ -129,14 +129,16 @@ EFFECTS: Have(p)
 #### 3
 : The plan, with the causal links and the constraints, is shown below.
 
-{{< figure src="pop.jpg" title="" class="thumbnail">}}
+![](pop.jpg)
+{caption="" class="thumbnail"}
 
 #### 4
 : Let us consider an agent which implements 'Plan Space Planning'. For such an agent, plan flaws initially consist of all open goals. The agent iteratively refines a partial plan. At each step of the refinement, the agent non-deterministically resolves a flaw. Initially, the partial plan will consist of only the 'Start' and 'Finish' states.
 
 The questions rquires us to consider the case when the agent explores *a* partial plan where the agent leaves home without the card. There are many partial plans where this happens. I will use the following partial plan to explain in detail what happens during the planning process when the agent explores such a plan (The argument can be extended to other compliant partial plans.): 
 
-{{< figure src="pp1.jpg" title="" class="thumbnail">}}
+![](pp1.jpg)
+{caption="" class="thumbnail"}
 
 The above is a plausible partial order plan which can be generated during 'Plan Space Planning'. We see that the set of flaws, F consists of the Open Goals: {Have(CC), Have(Milk), Have(Bananas), At(Home)}. Now, the agent generates the set of resolvers for these flaws. The set of resolvers are the actions {Pickup(CC), Buy(CC), Pickup(Milk), Buy(Milk), Pickup(Bananas), Buy(Bananas), Go(x, Home)}.
 
@@ -222,12 +224,14 @@ Thus, we have reduced the Bellman equation where the reward function is of the f
  
  (24\%) The goal of this exercise is to give you an understanding of the possible disadvantages of using discounted rewards and to introduce the average reward criterion. Discounted optimization is motivated by domains where reward can be interpreted as money that can earn interest, or where there is a fixed probability that a run will be terminated at any given time. However, many problems do not have either of these properties. Discounting in such domains tends to sacrifice long-term rewards in favor of short-term rewards. Moreover, the discounted optimal policy may depend on the choice of the the discount factor. It is true that for any finite MDP (an MDP with finite state and action spaces) there is some sufficiently large \\(\lambda\\) for which the discounted and undiscounted measures agree. However, proper choice of such \\(\lambda\\) requires detailed knowledge of the problem. Even with such knowledge, a parameter such as \\(\lambda\\) that needs to be tailored to suit individual problems is clearly undesirable. Therefore, the agent may prefer to compare policies on the basis of their average expected reward instead of their expected discounted reward. The aim of the average reward MDP is to compute policies that yield the highest expected payoff per time step. The average reward or gain associated with a policy \\(\pi\\) at state s, is defined as follows (if the average reward exists):
 
-{{< figure src="hw6_files/fig6x1.jpg" title="" class="thumbnail">}}
+![](hw6_files/fig6x1.jpg)
+{caption="" class="thumbnail"}
 
 
 Consider the 14 state MDP whose state-transition diagram is given below. All transitions are deterministic. The agent receives a reward of +5 on moving from the Printer to Home and a reward of +20 on moving from the Mailroom to Home, all other rewards are zero.
 
-{{< figure src="hw6_files/domain.jpg" title="" class="thumbnail">}}
+![](hw6_files/domain.jpg)
+{caption="" class="thumbnail"}
 
 
 

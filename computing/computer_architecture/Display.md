@@ -60,7 +60,8 @@ Image brightness of atleast 1400 is good (2300 was tested successfully). Lamp li
 ### Gamma
 Too low means you can't make out greys on a black background. Too high means you can't make out greys on a white background. 1.64 seems to provide a good balance.
 
-{{< figure src="../images/Gamma_correction_test_picture_valid_at_100pc_zoom.png" title="" class="thumbnail">}}
+![](../images/Gamma_correction_test_picture_valid_at_100pc_zoom.png)
+{caption="" class="thumbnail"}
 
 ### Dark vs light themes 
 - Black text on a white background is the best. This comes down to the properties of color, light, and the human iris. White essentially reflects every wavelength in the color spectrum, which means our irises don’t need to open wide to absorb enough light, leaving them in their natural shape.

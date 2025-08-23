@@ -3,7 +3,8 @@ title: Turks
 ---
 
 ## Ethnogenesis
-{{< figure src="../images/steppe_replacement_of_IE_males_by_altaics_A_for_Andronovo.jpg" title="" class="thumbnail">}}
+![](../images/steppe_replacement_of_IE_males_by_altaics_A_for_Andronovo.jpg)
+{caption="" class="thumbnail"}
 
 > ethnogenesis of central Asian Turks happened via "progressive Easternization" old steppe Iranians incorporated into Turkic Khanates originating in Mongolia. The Mongols brought further east Asian ancestry. - MT
 

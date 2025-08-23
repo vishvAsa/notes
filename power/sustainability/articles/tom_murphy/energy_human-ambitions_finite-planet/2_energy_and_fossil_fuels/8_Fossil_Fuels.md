@@ -30,7 +30,8 @@ Independent of individual choices, if keeping within reason we're all looking at
 [^3]: Social scientists are trained to not label their own time as abnormal, as such thinking may reflect a sloppy bias that all people through history might be tempted to adopt. Yet, neither should we declare that abnormal times can never happen. Any quantitative assessment of the current human scale and planetary resource impact argues that we are justified in allowing ourselves an exception for the present age.
 
 
-{{< figure src="../images/muscle_firewood_fossil-fuels.jpg" title="" class="thumbnail">}}
+![](../images/muscle_firewood_fossil-fuels.jpg)
+{caption="" class="thumbnail"}
 
 Figure 8.1 should stimulate a swarm of questions. Where are we on the curve? When is the peak? Is the decline phase marked by escalating energy scarcity, or the advent of a renewable energy future? Might the far future look more like the past (muscle and firewood) than the present? Will this plot change how we interpret the world and our own plans for the future? The only fair conclusion is that we really do not know how the future will unfold. We can label the left side as "muscle and firewood," and the spike as fossil fuels, but the only credible occupant of the right-hand side is a gigantic question mark.
 

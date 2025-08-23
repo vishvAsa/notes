@@ -11,7 +11,8 @@ title: Greco Roman
 - Northeast Mediterranean really seems to have been part of a different ecumene from rest of Europe until the Migration Period/ Barbarian Invasions. Migrations back & forth to places as diverse as Syria & Northern Anatolia, but only once from the north prior to 279 BC.
 
 
-{{< figure src="../images/barbarian-invasions_into_roman-empire.png" title="" class="thumbnail">}}
+![](../images/barbarian-invasions_into_roman-empire.png)
+{caption="" class="thumbnail"}
 
 ### Greeks
 - Modern Greeks are roughly 30% Yamnaya, judging from [SD202103](https://www.sciencedirect.com/science/article/pii/S0092867421003706).

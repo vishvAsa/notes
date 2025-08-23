@@ -28,7 +28,8 @@ title = "Battery"
   - Desiderata
     - zero percent Hg
 
-{{< figure src="../images/battery-sizes.webp" title="" class="thumbnail">}}
+![](../images/battery-sizes.webp)
+{caption="" class="thumbnail"}
 
 
 ## Lead acid batteries

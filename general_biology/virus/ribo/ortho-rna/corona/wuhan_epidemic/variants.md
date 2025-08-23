@@ -2,7 +2,8 @@
 title = "Variants"
 +++
 
-{{< figure src="../../images/virus-lineages-202102.jpg" title="" class="thumbnail">}}
+![](../../images/virus-lineages-202102.jpg)
+{caption="" class="thumbnail"}
 
 
 ## Intro

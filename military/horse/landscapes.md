@@ -7,7 +7,8 @@ title = "Landscapes"
 - Relatively flat plains. Good horses need to run around in the first year.
 - More grass implies more horses.
 
-{{< figure src="../images/horse-biomes.png" title="" class="thumbnail">}}
+![](../images/horse-biomes.png)
+{caption="" class="thumbnail"}
 
 
 

@@ -27,8 +27,10 @@ title = "Wiring"
   - use more copper on most circuits, though less cable on physically long narrow shaped circuits. (More thickness needed.)
 - 2 way switches
 
-{{< figure src="../images/home_wiring_ring_radial_2way.gif" title="" class="thumbnail">}}
-{{< figure src="../images/ring_circuit.jpg" title="" class="thumbnail">}}
+![](../images/home_wiring_ring_radial_2way.gif)
+{caption="" class="thumbnail"}
+![](../images/ring_circuit.jpg)
+{caption="" class="thumbnail"}
 
 ### Series
 - \\(V = V_1 + V_2 = I(R_1 + R_2)\\)

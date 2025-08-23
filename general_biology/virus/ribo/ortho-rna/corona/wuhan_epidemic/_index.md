@@ -2,7 +2,8 @@
 title = "+Wuhan epidemic 2020"
 
 +++
-{{< figure src="../../../../saMskAra/saMskAra/mantraH/rogAH/images/corona-virus.jpg"  class="thumbnail">}}
+![](../../../../saMskAra/saMskAra/mantraH/rogAH/images/corona-virus.jpg)
+{class="thumbnail"}
 
 
 

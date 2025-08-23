@@ -28,6 +28,8 @@ Hybrid and off-grid need battery. Battery costs generally too high.
 - Excess units of current generated during summer will be accumulated. Some of these excess units will be used in cloudy season. Leftover will be purchased annually by electric company.
 - If grid power is down - solar power generation will not be sent to grid. 
 
-{{< figure src="../images/wiring-gross-metering-BESCOM.png" title="" class="thumbnail">}}
+![](../images/wiring-gross-metering-BESCOM.png)
+{caption="" class="thumbnail"}
 
-{{< figure src="../images/wiring-net-metering-BESCOM.png" title="" class="thumbnail">}}
+![](../images/wiring-net-metering-BESCOM.png)
+{caption="" class="thumbnail"}

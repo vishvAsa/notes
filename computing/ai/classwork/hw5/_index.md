@@ -14,7 +14,8 @@ title = "HW5"
 #### 2
 . Now, consider the following network, where the variables are all binary:
 
-{{< figure src="hw5_files/fig5x1b.jpg" title="" class="thumbnail">}}
+![](hw5_files/fig5x1b.jpg)
+{caption="" class="thumbnail"}
 
 
 X and Y are both uniformly distributed, and Z is the deterministic exclusive or of X and Y. Show that running MCMC on this structure with the evidence z=1 will estimate \\(P(x=1|z=1)\\) as either 1 or 0. Why does this happen?
@@ -61,7 +62,8 @@ Thus, we have shown that the probability of a variable given its Markov blanket 
 #### 2
 . The Markov chain traversed by the MCMC algorithm trying to estimate the value of \\(P(X=1|Z=1)\\) is shown below. The initial state can be any of the four shown, with equal probability. The order in which non evidence variables are sampled by the MCMC algorithm is assumed to be (x,y). Transitions (0,0)--(0,1) and (1,1)--(1,0) are not shown, as they never occur in a MCMC implementation using the (x,y) ordering while sampling.
 
-{{< figure src="markovChain.jpg" title="" class="thumbnail">}}
+![](markovChain.jpg)
+{caption="" class="thumbnail"}
 
 
  The above figure follows directly from the description of the MCMC algorithm provided in the textbook. The transition probabilities are calculated by finding the conditional probability of the changing variable taking the value shown in the destination state, given the values of its Markov Blanket neighbors.
@@ -168,7 +170,8 @@ EMV(suitableAction|predictionAboutSuccess)-EMV(dev)& &\\
 #### 3
 . The figure is shown below.
 
-{{< figure src="decisionTree.jpg" title="" class="thumbnail">}}
+![](decisionTree.jpg)
+{caption="" class="thumbnail"}
 
 #### 4
 . We know that \\(P(l) = P(l,s)+(l,\sim s) = P(l|s)P(s)+P(l|\sim s)P(\sim s)=.6*.6+.05*.4=.38\\).

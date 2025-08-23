@@ -8,7 +8,8 @@ Timur, the founder of the so-called Mogol dynasty of India, was originally not f
 
 The core Mogholistan was the Eastern Chagadai ulus. After one of their Khans Temur converted to marUnmAda, he launched into fury of jihads & in the end they probably controlled the whole of Uighuristan converting the Uighurs in toto. The prominent clan of Mongol beks of Mogholistan, Dughlats also conquered the southern regions shown as their possessions which at some point encompassed the "oases" cities of Khotan, Yarkhand and Kashgar. 
 
-{{< figure src="../../images/timur-birth.jpg" title="" class="thumbnail">}}
+![](../../images/timur-birth.jpg)
+{caption="" class="thumbnail"}
 
 Ghazi Timur was born in Shahrisabz, the red dot in the map provided above. While his bloody jihads carried him over vast swaths of Asia he finally died at the edge of core Mogholistan in what's today Kazakhstan not far from he was born. 
 

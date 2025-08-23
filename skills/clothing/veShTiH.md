@@ -58,9 +58,11 @@ title = "वेष्टिः"
 - वेगवद्रीतिः [अत्र](https://www.youtube.com/watch?v=ZJ8pa9_2MCY)। अत्र युतकवद् उत्तरीय-वन्धनम् अपि प्रदर्शितम्। 
 
 ## विपरीतकच्छम्
-{{< figure src="../images/veShTiH_viparIta-kachCham.jpg" title="" class="thumbnail">}}
+![](../images/veShTiH_viparIta-kachCham.jpg)
+{caption="" class="thumbnail"}
 
-{{< figure src="../images/sakhyamanuShya-veShTiH_shakorukam.png" title="" class="thumbnail">}}
+![](../images/sakhyamanuShya-veShTiH_shakorukam.png)
+{caption="" class="thumbnail"}
 
 ## उप-स्यूतम्
 - [गौडीयरीतिः](https://youtu.be/1LGS4OXt0rY?t=394)

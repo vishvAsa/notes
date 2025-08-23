@@ -14,7 +14,8 @@ title: Zoro empires
 >
 > \[[MT](https://manasataramgini.wordpress.com/2017/11/07/of-lives-of-men-of-times-of-men-i/)\]
 
-{{< figure src="../persia/kAmbUjiya_killing_pharaoh.webp" title="" class="thumbnail">}}
+![](../persia/kAmbUjiya_killing_pharaoh.webp)
+{caption="" class="thumbnail"}
 
 
 ## Parthian empire

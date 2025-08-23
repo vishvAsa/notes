@@ -65,7 +65,8 @@ A nuclide is any unique combination of nucleons, so that every nucleus is one of
 
 [[241]]
 
-{{< figure src="../images/proton_vs_neutron-numbers.png" title="" class="thumbnail">}}
+![](../images/proton_vs_neutron-numbers.png)
+{caption="" class="thumbnail"}
 
 (Figure 15.3: Layout of the Chart of the Nuclides, showing positions of naturally-occurring nuclei (stable or long-lived enough to be present on Earth). Stable nuclei tend to have more neutrons than protons-especially for heavier nuclei. This is why the track of stable nuclei bends away from the N = Z diagonal line. Arrows point to important elements of iron, lead, thorium, and uranium at Z values of 26, 82, 90, and 92, respectively.)
 
@@ -149,7 +150,8 @@ Time(min), Half Lives, Remain, Prob.
 Luckily, radioactive decays don't go just any which way, but stick to a very small menu of possible routes. When a decay happens, the nucleus always spits something out, which could be an electron, a positron, a helium nucleus (called an alpha particle), a photon, or more rarely might spit out one or more individual protons or neutrons. Because these particles can emerge at high speed (high energy), they are like little bullets firing at random times and directions into their surroundings. These bullets are potentially damaging to materials and biological tissues-especially DNA, able to cause mutations and/or initiate cancerous growth. The primarγ decay mechanisms pertaining to the vast majority of decays are listed below and accompanied by Figure 15.5.
 
 
-{{< figure src="../images/alpha_electron_positron_decay.png" title="" class="thumbnail">}}
+![](../images/alpha_electron_positron_decay.png)
+{caption="" class="thumbnail"}
 
 Figure 15.5: Radioactive decay mechanisms for a, β, and βt. Protons are colored red, and neutrons light purple. The total nucleon counts are correct for the two beta decays, but only schematic for the larger 144Nd nucleus used to illustrate alpha decay, which is predominantly seen only in heavier nuclei (aside from 5Li and 8Be). The positron is an anti-electron: a positively-charged antimatter counterpart to the electron. Neutrinos are sometimes called "ghost" particles for their near-complete non-interactivity with ordinary matter.
 
@@ -173,7 +175,8 @@ Figure 15.7 demonstrates the motion of each of these decays on the Chart of the 
 
 (Figure 15.6: Gamma decay of an excited nucleus.)
 
-{{< figure src="../images/radioactive-decay_on_neuclide-chart.png" title="" class="thumbnail">}}
+![](../images/radioactive-decay_on_neuclide-chart.png)
+{caption="" class="thumbnail"}
 
 Figure 15.7: Radioactive decays shown as moves on the "chess board" of the Chart of the Nuclides. The different decay types are color-coded to match Figure 15.8, and are only shown in a few representative squares. Decays frequently occur in a series, one after the other (a decay chain), as hinted by the double-sequence starting at and ending on 12C. Note that the square of every unstable nuclide indicates a decay type, even if arrows are not present.
 
@@ -193,7 +196,8 @@ Example 15.2.2 What will the fate of He be, according to Figure 15.4?
 We can play this chess game! According to the chart, the primarγ decay mechanism of He8 is β with a half-life of about a tenth of a second. It will become Li, which hangs around for about a second before undergoing another βdecay to Be. This one lasts almost no time at all (~ \\(10^{-16}\\) s) before a decay into two alpha particles (two *He). Such a sequence is called a **decay chain**+++(5)+++.
 </details>
 
-{{< figure src="../images/nuclide-decay-chart.png" title="" class="thumbnail">}}
+![](../images/nuclide-decay-chart.png)
+{caption="" class="thumbnail"}
 
 Figure 15.8: Another view of the Chart of the Nuclides, color coded to indicate prevailing decay modes as a function of position on the chart. Note that β+ sometimes captures an electron rather than emitting a positron, but amounting to the same thing, essentially. From U.S. DOE.
 
@@ -258,7 +262,8 @@ Since mass and energy are intimately related, it is common to express masses in 
 
 [[247]]
 
-{{< figure src="../images/binding-energy-mass.png" title="" class="thumbnail">}}
+![](../images/binding-energy-mass.png)
+{caption="" class="thumbnail"}
 
 Figure 15.9: One must add energy to overcome nuclear binding energy in order to bust up a nucleus into its constituent nucleons (left). Thus, the collective mass of a nucleus plus the mass associated with the energy it takes to break it apart (via $E = mc^2$) must be equal to the sum of the masses of the constituent parts (middle). Therefore, if we compare the mass of the nucleus alone (removing the energy's mass from the scale) it must be less than the mass of the loose collection of nucleons (right).
 
@@ -335,7 +340,8 @@ Therefore, the difference between the sum-of-parts mass and actual nucleus mass 
 
 Notice that the first entry in Table 15.5 for the single-proton hydrogen atom has no binding energy in the nucleus: the lonely proton has no other nucleon to which it might bind. But deuterium (2H) has a proton and a neutron, held together by 2.2 MeV of binding energy. [[248]] The binding energy per nucleon in the last column of Table 15.5 starts out small, but soon settles to the 7-9 range for most of the entries. It is extremely insightful to plot the binding energy per nucleon as a function of the nucleon mass number, A, which we do in Figure 15.10.
 
-{{< figure src="../images/binding-energy_vs_nuclear-mass-number.png" title="" class="thumbnail">}}
+![](../images/binding-energy_vs_nuclear-mass-number.png)
+{caption="" class="thumbnail"}
 
 Binding Energy Per Nucleon (MeV) vs Nuclear Mass Number, A
 
@@ -361,7 +367,8 @@ Figure 15.11: Turning the binding energy curve upside-down makes it easier to co
 ## 15.4 Fission
 Having covered some fundamentals, we are ready to tackle aspects of nuclear energy. Really it is very simple. Enough nuclear material in a small space will get hot, for reasons detailed below. The heat is used to boil water into high-pressure steam, which then turns a turbine and generator (Figure 15.12). Note that a nuclear fission plant has much in common with a coal-fired power plant, as evidenced by the similarity of Figure 15.12 to Fig. 6.2 (p. 90). Only the source of heat is much different in origin.
 
-{{< figure src="../images/nuclear-power-plant-schema.png" title="" class="thumbnail">}}
+![](../images/nuclear-power-plant-schema.png)
+{caption="" class="thumbnail"}
 
 [[250]]
 
@@ -380,7 +387,8 @@ nucleus.
 
 [^24]: No forces prevent a neutron from approaching a nucleus. Happening to hit the tiny nucleus is the only barrier.
 
-{{< figure src="../images/u235_fission.png" title="" class="thumbnail">}}
+![](../images/u235_fission.png)
+{caption="" class="thumbnail"}
 
 Other nuclei would not break up, just accepting the new neutron and possibly converting a neutron to a proton via βdecay.
 
@@ -409,7 +417,8 @@ Then the main trick is to prevent a runaway that could occur if too many neutron
 ### 15.4.3 Fission Accounting
 The nucleus (uranium in the present discussion) always breaks up into two largish pieces, possibly accompanied by a few liberated spare neutrons. Because of the way the track of stable elements curves on the Chart of the Nuclides, the resultant pieces are likely to be neutron rich, to the right of the stable nuclei. To understand this, refer to Figure 15.14 and the associated caption.
 
-{{< figure src="../images/u235_fission-yield-distribution.png" title="" class="thumbnail">}}
+![](../images/u235_fission-yield-distribution.png)
+{caption="" class="thumbnail"}
 
 Figure 15.14: Fission of 235U (small red square, upper right) tends to produce two neutron-rich fragments. If it split exactly in two, the result would lie at the midpoint of the orange line connecting 235U to the origin, at the yellow circle. In practice, an equal split is highly unlikely, as one fragment tends to be around A 95 and the other around A 140, as depicted by the probability histogram in green. The two green stars separated along the orange line represent a more likely outcome for the two fragments. As long as the green stars are located so that the yellow circle is exactly between them, the accounting of proton and neutron number is satisfied. Because the orange line lies to the right of the stable nuclei, the fission products tend to be neutron-rich and undergo a series of radioactive β-decays before reaching stability, which could take a very long time in some cases.
 
@@ -447,7 +456,8 @@ Typically, about 2-3 neutrons are left out of the final fragments, and can go on
 
 Being a probabilistic (random) process, each fission can result in a large set of possible "daughter" nuclei-only one set of which was explored in Example 15.4.1. As long as the masses all add up, and the two-hump probability distribution in Figure 15.14 is respected, anything goes. In other words, we have no control over exactly what pieces come out. 
 
-{{< figure src="../images/u235_fission-yield-halflife-distribution.png" title="" class="thumbnail">}}
+![](../images/u235_fission-yield-halflife-distribution.png)
+{caption="" class="thumbnail"}
 
 Figure 15.15: Various fission product outcomes are possible, indicated here by four sets of colored star pairs and connecting lines. The average position of each pair is the yellow circle (the stars are diametrically opposite the circle), which guarantees that the total number of neutrons and protons is unchanged from the parent nucleus to the daughter nuclei. To the extent that additional neutrons are left behind like crumbs, the stars will displace to the left of their indicated positions a bit, as hinted by the lighter-shaded "ghost" stars, whose offsets from the nominal star positions will also vary depending on how many neutrons are left out of the two final fragments. The coloring of the histogram indicates radioactive lifetime for the decay chain of a neutron-rich fragment at each mass number, matching the half-life color scheme used in Figure 15.4.
 
@@ -667,9 +677,11 @@ Well, it turns out that despite its not being one of the three fissile nuclei, w
 
 Figure 15.17 highlights this process in a simplified region of the Chart of the Nuclides, while Figure 15.18 shows complete details for the entire region around the fissile materials-the ones with red isotope names which can be used to track the sequence outlined above.
 
-{{< figure src="../images/Pu-breeder-route.png" title="" class="thumbnail">}}
+![](../images/Pu-breeder-route.png)
+{caption="" class="thumbnail"}
 
-{{< figure src="../images/neuclide-chart_fission-region.png" title="" class="thumbnail">}}
+![](../images/neuclide-chart_fission-region.png)
+{caption="" class="thumbnail"}
 
 
 The result is that sterile 238U can be turned into fissile 239Pu that can be used in fission reactors. This process of transmuting an inert nucleus into a fissile one is called breeding, and is how we get any plutonium at all.[^44] A nuclear reactor is a great place to introduce 238U to neutrons: both are already in attendance. 
@@ -697,7 +709,8 @@ As we saw in our description of the fission process, the fragments distribute ov
 
 The lighter of the two fission fragments has a 59% chance of landing on a stable nucleus within a day or so. For the heavier fragment, it's a 45% chance. The rest get hung up on some longer half-life nuclide, and could remain radioactive for a matter of weeks or in some cases millions of years. The colors in the fission probability histograms in Figure 15.15 provide a visual guide for the mass numbers that reach stability promptly (gray) vs. those that get hung up for a long time (blue is more than 10 years). For example, the histogram element at A = 90 is blue because 90Sr-discussed below-stands in the way of a fast path to stability.
 
-{{< figure src="../images/u235_fission_decay-activity.png" title="" class="thumbnail">}}
+![](../images/u235_fission_decay-activity.png)
+{caption="" class="thumbnail"}
 
 Figure 15.19:  
 Decay activity of fragments from 1 kg of fissioned 235U over time, on a log-log plot. The vertical axis is the power of radioactive emission, in W, for a variety of relevant isotopes-each having their own characteristic half life. The black line at the top is the total activity (sum of all contributions), and some of the key individuals are separated out. The dashed line for actinides is an approximate representative indicator of the role played by heavy nuclides formed in the reactor by uranium absorption of neutrons. Minor tick marks are at multipliers of 2, 4, 6, and 8 for each axis. As a matter of possible interest, the exponential decays of each element on this log-log plot have the functional form of exponential curves drawn upside-down.
@@ -709,7 +722,8 @@ The bottom line is that fission leaves a trash heap of radioactive waste that re
 
 [^47]: Breeder reactors can "burn" the actinides, reducing some of the long-term waste threat, but will unavoidably still be left with all the radioactive fission products.
 
-{{< figure src="../images/spent-fuel-rod-storage-pit.png" title="" class="thumbnail">}}
+![](../images/spent-fuel-rod-storage-pit.png)
+{caption="" class="thumbnail"}
 
 Figure 15.20: A spent fuel rod being lowered into a storage grid in a pool of water at a nuclear power plant. Source: U.S. DOE.
 
@@ -750,7 +764,8 @@ A properly operating nuclear facility actually emits less radioactivity than doe
 
 However, things can go wrong. The U.S. had a scare in 1979 when a six-month-old nuclear plant at Three Mile Island in Pennsylvania (Figure 15.21) suffered a loss-of-cooling incident that resulted in severe damage to (meltdown of) the core. But the containment vessel held and no significant radioactivity was released to the environment. Workers at the plant received a dose equivalent to an extra 100 days of natural[^53] exposure. So we dodged a bullet.
 
-{{< figure src="../images/3-mile-island-reactor-cores-cooling-towers.png" title="" class="thumbnail">}}
+![](../images/3-mile-island-reactor-cores-cooling-towers.png)
+{caption="" class="thumbnail"}
 
 Figure 15.21: Three Mile Island nuclear plant in Pennsylvania. The two reactor cores are in the foreground of the larger cooling towers behind. Source: U.S. DOE.
 
@@ -895,7 +910,8 @@ Let's say that by the year 2050, we will have mastered the art and can build a 1
 
 [^74]:... 10-20% for PV and perhaps 90% for fusion?
 
-{{< figure src="../images/iter-tokamak-fusion-plasma-container.png" title="" class="thumbnail">}}
+![](../images/iter-tokamak-fusion-plasma-container.png)
+{caption="" class="thumbnail"}
 
 Figure 15.23: ITER tokamak cut-away where the plasma would be created. The white outer chamber is the size of a six-story building. From the ITER Organization.
 

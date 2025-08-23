@@ -2,7 +2,8 @@
 title = "+कृष्ण-तात-देशिकः"
 +++
 
-{{< figure src="../../images/tirupputkuzhi-svAmi_kRShNa-tAta-deshikaH.jpg" title="" class="thumbnail">}}
+![](../../images/tirupputkuzhi-svAmi_kRShNa-tAta-deshikaH.jpg)
+{caption="" class="thumbnail"}
 
 - Aka Tirupputkuzhi-svAmi, श्रीमद्-वेदान्त-देशिक-सम्प्रदाय-दुरन्धरः महामहोपाध्यायः  पॆरुमाळ्-कोविल्-एडूर्-इम्मडि-कोटि-कन्यादान-कृष्ण-तातार्य-महा-देशिकः
 - Aippasi Ayilyam (Aaslesha Nakshatram)

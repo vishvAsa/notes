@@ -3,7 +3,8 @@ title = "Hawala"
 +++
 
 ## Modus operandi
-{{< figure src="../images/hawala.png" title="" class="thumbnail">}}
+![](../images/hawala.png)
+{caption="" class="thumbnail"}
 
 - A customer (A, left-hand side) approaches a hawala broker (X) in one city and gives a sum of money (red arrow) that is to be transferred to a recipient (B, right-hand side) in another, usually foreign, city. Along with the money, he usually specifies something like a password that will lead to the money being paid out (blue arrows). 
 - The hawa calls another hawala broker M in the recipient's city, and informs M about the agreed password, or gives other disposition of the funds.

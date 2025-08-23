@@ -4,8 +4,10 @@ title: Ethnicity
 
 
 ## Depictions
-{{< figure src="../images/seated_scribe_2600BCE.jpg" title="Seated scribe ~ 2600 BCE" class="thumbnail">}}
-{{< figure src="../images/heminunu_great_pyramid_architect_2600BCE.jpg" title="Seated scribe ~ 2600 BCE" class="thumbnail">}}
+![](../images/seated_scribe_2600BCE.jpg)
+{caption="Seated scribe ~ 2600 BCE" class="thumbnail"}
+![](../images/heminunu_great_pyramid_architect_2600BCE.jpg)
+{caption="Seated scribe ~ 2600 BCE" class="thumbnail"}
 
 
 - [Old images](https://mathildasanthropologyblog.wordpress.com/2008/07/22/the-faces-of-ancient-egypt/) . Note the contrasting depictions applied to Tutankhamen.

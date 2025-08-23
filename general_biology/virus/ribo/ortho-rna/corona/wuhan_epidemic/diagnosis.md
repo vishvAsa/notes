@@ -5,7 +5,8 @@ title = "Diagnosis"
 ## Presymptomatic phase
 Infection can be 2-14 days before symptoms appear. CDF from  https://www.acpjournals.org/doi/10.7326/M20-0504 below.
 
-{{< figure src="../images/cumulative_distribution_function_of_the_covid-19_incubation_period_estimate.jpg" title="" class="thumbnail">}}
+![](../images/cumulative_distribution_function_of_the_covid-19_incubation_period_estimate.jpg)
+{caption="" class="thumbnail"}
 
 So, a 10 day quarantine catches about 90% of the cases. 11.5 days (CI, 8.2 to 15.6 days) for 97.5% of infected persons 
 

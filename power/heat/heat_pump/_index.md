@@ -7,4 +7,5 @@ title = "+Heat pump"
 - a condenser, an expansion valve, an evaporator and a compressor.
 - Few moving parts - low maintenance.
 
-{{< figure src="images/Refrigeration_PV_diagram.svg" title="" class="thumbnail">}}
+![](images/Refrigeration_PV_diagram.svg)
+{caption="" class="thumbnail"}

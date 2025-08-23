@@ -8,7 +8,8 @@ Horse cavalry grants great military advantages - see [horse page](/notes/history
 
 India simply didn't have any answer to grand cavalry forces. Battle of Agincourt was fought in a place where archers held advantage due to topography. English were helped by topography in most places. Indian northern plains and Bengal had rarely such topographical advantages. Which is why Rajputana hill states, Orissa and Assam (with mountains and low water table + vegetation) survived better while the plains lost. Orissa finally was lost due to being weakened by Vijayanagara wars.
 
-{{< figure src="../images/india-water-rables-map.png" title="" class="thumbnail">}}
+![](../images/india-water-rables-map.png)
+{caption="" class="thumbnail"}
 
 
 

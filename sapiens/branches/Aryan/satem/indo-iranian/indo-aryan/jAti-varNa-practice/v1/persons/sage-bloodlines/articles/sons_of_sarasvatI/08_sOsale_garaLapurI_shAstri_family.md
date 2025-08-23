@@ -475,11 +475,13 @@ He consolidated his power fully during the tragic prelude to Sadāśiva’s comi
 A bloody battle for succession followed the death in 1542 C.E. of Acyuta Rāya, Kr̥ṣṇadēva Rāya’s successor. Acyuta had placed his son and heir Veṇkaṭa, still a child, under the charge of his brother, most likely Raṇga \[Sharma and Gopal 1978, p. 180\]. Raṇga, with the support of many nobles, including Rāma Rāya, imprisoned Veṇkaṭa in an attempt to seize power. *Pedda* and *Cinna* Tirumala, the late king’s brothers-in-law, intervened on Veṇkaṭa’s behalf, with little effect. Varadāmba, the queen mother, solicited the ‘Ādil Śāh’s help. Coming to their senses, the nobles now threw their support to Raṇga, averting disaster. 
 
 
-{{< figure src="../images/narapati-line.png" title="" class="thumbnail">}}
+![](../images/narapati-line.png)
+{caption="" class="thumbnail"}
 
 Plate 39: Narapati genealogy, as per Aiyangār \[1919\], the Dēvanahaḷḷi inscription, the *Bālabhāgavatam,* and the *Narapativijayamu.* Tātapinnama’s great-grandfather is said to have been Vijjala, who usurped the Cāḷukyan throne. Pinnama is described in inscriptions as being the lord of Āravīṭipura. His son Āravīṭi Bukka was a general of the Vijayanagara emperor Sāḷuva Narasiṁha. The kings of the Āravīḍu dynasty of Vijayanagara were all descendants of Śrīraṇga, at right. See Plate 40. 
 
-{{< figure src="../images/ĀravIDu-line.png" title="" class="thumbnail">}}
+![](../images/ĀravIDu-line.png)
+{caption="" class="thumbnail"}
 
 Plate 40: The Āravīḍu genealogy continued from Plate 39. Names and years of reign for Vijayanagara emperors appear in boldface. *Aḷiya* Rāma Rāya was never formally emperor, and his son *Pedda* Timma ruled only Ānēgondi. The descendants of *Aḷiya* Rāma Rāya continued to be associated with Ānēgondi, while Tirumala I’s descendants were associated with Penukoṇḍa and other Vijayanagara capitals of the post-Tāḷikōṭe period. 
 

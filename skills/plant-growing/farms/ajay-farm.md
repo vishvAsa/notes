@@ -19,7 +19,8 @@ Animals - rats, snakes, peacocks, mongooses, rabbits, dogs, cheetahs, cows.
   - There are many more things you can grow (ginger/turmeric) as the bottom-most layer. Cinnamon at the centre of 4 coconut trees. Etc..
 
 
-{{< figure src="../../images/palekar-36ft-grid.png" title="" class="thumbnail">}}
+![](../../images/palekar-36ft-grid.png)
+{caption="" class="thumbnail"}
 
 ### Crop rotation
 In each 8 foot strip, cattle fodder (maize) is grown, alternated with nava-graha pulses (which do nitrogen fixation). 

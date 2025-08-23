@@ -21,7 +21,8 @@ title = "HW3"
 ### Solution
 The Minmax values for all nodes in the game tree are shown in the below figure.
 
-{{< figure src="gametreeSoln.jpg" title="" class="thumbnail">}}
+![](gametreeSoln.jpg)
+{caption="" class="thumbnail"}
 
 
 1. MAX should choose node D, because it yields the best returns against an optimal opponent.

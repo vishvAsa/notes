@@ -6,7 +6,8 @@ short_title = "Proper pramANas"
 Proper pramANa-s
 
 
-{{< figure src="../images/genetics-pramANas.png" title="" class="thumbnail">}}
+![](../images/genetics-pramANas.png)
+{caption="" class="thumbnail"}
 
 The above is from \[[Nature16](http://www.nature.com/nature/journal/v541/n7637/full/nature21347.html)\].  
 

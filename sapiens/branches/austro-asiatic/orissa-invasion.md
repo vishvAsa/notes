@@ -11,8 +11,10 @@ This was the male-biased Munda influx (likely via sea route into Orissa region) 
 - [MT19](https://twitter.com/blog_supplement/status/1107890973311451136)
 
 ## Observations
-- {{< figure src="../images/austro-asiatic-asi-pca.png" title="Austro Asiatic ASI PCA" >}}
-- "Southeast Asian component is stronger in the southern cluster of Munda groups than in the northern cluster." {{< figure src="../images/munda-o2a1-m95.png" title="Munda O2A1-M95 distribution" >}}
+- ![](../images/austro-asiatic-asi-pca.png)
+{caption="Austro Asiatic ASI PCA"}
+- "Southeast Asian component is stronger in the southern cluster of Munda groups than in the northern cluster." ![](../images/munda-o2a1-m95.png)
+{caption="Munda O2A1-M95 distribution"}
 - The Austroasiatic languages are a coherent family like IE with populations in India and East Asia like Vietnam, Cambodia, Thailand and Malaysia. In India there are multiple branches in Meghalaya/greater Bengal like Khasic; Munda like Santhal; and Nicobaric of the Nicobar Islands.
 - "Munda populations are Indian populations with a Southeast Asian component that was introduced by a small male Austroasiatic founder population, with no particular connection to Khasi. The indigenous South Asian population was less influenced from ANI populations from the Northwest than all current dominantly ASI populations. The admixture has been dated to either the Neolithic or Chalcolithic in a location that had not yet experienced Indo-Aryan influx."
 - The genomic data indicates that the core Indian group Munda is primarily acquired their Austroasiatic ancestry from SouthEast Asia perhaps from the same group that also reached the Malaysia. The Indian movement was clearly male-biased. The position of the Indian AA people position in the above PCA overlaps with the Dravidian Gond and the related Asur people of Jharkhand who speak an AA language.

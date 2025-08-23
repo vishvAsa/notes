@@ -37,7 +37,8 @@ One way to capture the physical connection to economic activity is to represent 
 [^4]: GDP is a measure of total monetary value of goods and services produced in a country within a year.
 
 
-{{< figure src="../images/per-capita-energy_vs_gdp.png" title="" class="thumbnail">}}
+![](../images/per-capita-energy_vs_gdp.png)
+{caption="" class="thumbnail"}
 
 Figure 2.1: Per capita energy use as a function of GDP on a logarithmic scale. Per capita GDP is the sum total of a country's economy divided by population, effectively indicating average annual income. The rate at which an individual uses energy is expressed as a power, in Watts. A strong correlation exists here across many orders-ofmagnitude: rich countries use more energy, per person [^r6] [^r7] [^r8]. A few instructive cases (red dots) are labeled. The dot areas are scaled to population.
 
@@ -67,7 +68,8 @@ Energy intensity therefore provides a measure of how resource-heavy a country is
 
 We will cover units of energy in Chapter 5. For now, it is sufficient to know that a Joule (J) is a unit of energy, and that MJ means megajoules, or $10^{6}$ J. 
 
-{{< figure src="../images/energy-intensity_vs_per-capita-gdp.png" title="" class="thumbnail">}}
+![](../images/energy-intensity_vs_per-capita-gdp.png)
+{caption="" class="thumbnail"}
 
 Figure 2.2: Energy intensity of countries, on a log-log plot. The vertical axis shows how energetically "hungry" each country is in relation to its economic output, while the horizontal axis sorts countries by economic output per person. A few instructive cases (red dots) are labeled. The dot areas are scaled to population. Prosperous countries tend to have lower intensity than developing countries, but part of this may relate to moving manufacturing from the former to the latter [^r6][^r7][^r8].
 
@@ -147,7 +149,8 @@ LED 75-120
 
 [^r11]: Luminous Efficacy. Wikipedia. Sources: various, cited from Wikipedia page. URL: https: /en.wikipedia.org/wiki/Luminous efficacy (cited on pages 21, 22).
 
-{{< figure src="../images/luminous-efficiency_vs_year.png" title="" class="thumbnail">}}
+![](../images/luminous-efficiency_vs_year.png)
+{caption="" class="thumbnail"}
 
 Figure 2.3: Historical progress of lighting efficiency on a logarithmic plot, using bars to indicate the approximate range of time and performance. The dashed line at top represents the maximum theoretical luminous efficacy for white light (no waste heat). The dotted line rises by our customary factor of ten per century (2.3% annual rate). Note that the guiding line reaches the theoretical maximum mid-century (red star), indicating that this centuries-long ride cannot continue much longer [^r10] [^r11].
 
@@ -235,7 +238,8 @@ Efficiency improvements are not capable of resolving resource demand.
 
 ## 2.3 Physically Forced Economic Limits 
 
-{{< figure src="../images/post-saturation-economy-scale.png" title="" class="thumbnail">}}
+![](../images/post-saturation-economy-scale.png)
+{caption="" class="thumbnail"}
 
 Figure 2.4: Model evolution of the economy after physical resources saturate. The blue curve is the scale of the physical economy (leveling out, or saturating). The solid red curve is the total economic scale, which we force to adhere to a constant growth rate (10x per century, or 2.3% annual rate). The magenta curve is the percentage of the economy in non-physical sectors, and the red dashed curve is a more realistic reaction of the economy to a saturating physical sector. Colored arrows point to the scale that each curve should use -logarithmic on the left for economic scales and linear on the right for the percentage curve. This model is constructed simply to illustrate the overall behavior: time scales and other quantitative details should not be taken literally.
 

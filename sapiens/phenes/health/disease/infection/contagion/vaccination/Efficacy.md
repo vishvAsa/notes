@@ -8,4 +8,5 @@ title = "Efficacy"
 - If you have antibody resistence to the vector being used in the vaccine, the vaccination effectiveness is much reduced.
 - The rule of thumb with the Vaccines" the first vaccine is not necessarily the best and the last".
 
-{{< figure src="images/vaccine_efficacy.jpg" title="" class="thumbnail">}}
+![](images/vaccine_efficacy.jpg)
+{caption="" class="thumbnail"}

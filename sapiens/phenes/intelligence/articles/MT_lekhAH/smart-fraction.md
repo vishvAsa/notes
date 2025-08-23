@@ -4,7 +4,8 @@ title = "Smart fraction"
 
 How the smart fraction (vide Griffe du Lion); physician fraction &scientist fraction scale with mean IQ in the range. I arrived at values for physician fraction &scientist fractions independently by myself but it is notable that a noted IQ worker Gottfredson give similar values.
 
-{{< figure src="../../../images/doctor-scientist-smart-fraction_vs_mean-iq_MT.jpg" title="" class="thumbnail">}}
+![](../../../images/doctor-scientist-smart-fraction_vs_mean-iq_MT.jpg)
+{caption="" class="thumbnail"}
 
 (I0: the IQ threshold beyond which the area under the distribution curve gives you the IQ fraction required for being part of smart fraction or being a doctor or a scientist)
 

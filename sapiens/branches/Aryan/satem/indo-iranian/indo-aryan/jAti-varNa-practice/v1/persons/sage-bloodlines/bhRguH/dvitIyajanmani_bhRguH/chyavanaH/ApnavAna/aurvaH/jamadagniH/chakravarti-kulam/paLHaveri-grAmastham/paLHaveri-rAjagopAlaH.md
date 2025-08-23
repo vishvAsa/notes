@@ -2,9 +2,11 @@
 title = "पऴवेरि-राजगोपालः"
 +++
 
-{{< figure src="../images/paLHaveri-chakravarti-rAjagopAlAchAryaH.jpg" title="" class="thumbnail">}}
+![](../images/paLHaveri-chakravarti-rAjagopAlAchAryaH.jpg)
+{caption="" class="thumbnail"}
 
-{{< figure src="../images/rAjagopAla_injimeDu_shrIvatsAnka_devanAthAdi.jpg" title="" class="thumbnail">}}
+![](../images/rAjagopAla_injimeDu_shrIvatsAnka_devanAthAdi.jpg)
+{caption="" class="thumbnail"}
 
 "सार-सार-ज्ञः" पलवेरि-चक्रवर्ति-राजगोपालाचार्यः।  
 १९२५-०९-१७ - २०११ ।  

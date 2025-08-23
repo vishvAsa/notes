@@ -2,7 +2,8 @@
 title: 01 Iranian farmer influx
 ---
 
-{{< figure src="../images/Arya-iranian-farmers-asi-service-castes-pca.png" title="Arya-iranian-farmers-asi-service-castes-pca" >}}
+![](../images/Arya-iranian-farmers-asi-service-castes-pca.png)
+{caption="Arya-iranian-farmers-asi-service-castes-pca"}
 
 ## References
  - [MT_TW19](https://twitter.com/blog_supplement/status/1109307670866075649)
