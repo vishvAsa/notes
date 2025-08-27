@@ -3,6 +3,9 @@ title = "US actions"
 +++
 
 ## 2025
+### New envoy
+Given the long track record of deep vengefulness and perfidy of the Anglo-abrahmosphere, the Indian leadership has to be supervigilant about the duShTa-pichChilu~Nga's agent being sent as a special "envoy". As the rAmAyaNa has taught us, envoys can wreak havoc.
+
 ### pAki US visit
 As we have remarked repeatedly: the undergirdings of Anglo-Abrahmospheric power and the H as a heathen civilization have a deep-rooted incompatibility. Sooner or later, this will come to a head. One can easily predict that the mahAmlechCha and their vassals will try to destabilize the Indian state as they have done many times in the past using their marUnmatta, preta and paTTa force transmitters. It seems the laTapati has read this and is ready to make a stand. Hope, he succeeds.
 
