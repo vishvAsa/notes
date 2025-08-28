@@ -15,9 +15,10 @@ title: 02 Aryan invasion
 ![](../genetics/images/yAmnAya_corded-ware_farmer_mixture_18.jpg)
 {caption="" attribution_link="https://www.biorxiv.org/content/early/2018/03/31/292581"}
 
-The mAnasatarangiNIkAra and others have spoken on this here: [MT1803](https://manasataramgini.wordpress.com/2018/04/01/a-brief-note-on-some-new-developments-regarding-the-genomics-of-indians/), N[201803](https://www.biorxiv.org/content/early/2018/03/31/292581), [20151212](https://manasataramgini.wordpress.com/2015/12/12/a-note-on-the-early-expansions-of-the-indo-europeans/) (mindmup [map](https://rebrand.ly/IA_MT), [img](../images/mt_2015.png), base file [here](https://drive.google.com/file/d/1NOmH-j3NARqK7pDt8Gq2EJyVJ2xHvNr9/view?usp=sharing)), [RK16](http://www.unz.com/gnxp/the-dravidian-migration-theory-vindicated/), [H17](http://www.thehindu.com/sci-tech/science/how-genetics-is-settling-the-aryan-migration-debate/article19090301.ece),[20151219](https://manasataramgini.wordpress.com/2015/12/19/a-reiteration-regarding-the-heart-of-the-fundamental-conflict/), [2015BX](https://app.box.com/s/9t5jawga2ocoovvkhrsc), [201209](https://manasataramgini.wordpress.com/2012/07/09/nishada-s-and-shabara-s-of-jambudvipa-what-you-see-is-what-it-is/). Also see notes in the "genetics" page.
+The mAnasatarangiNIkAra and others have spoken on this here: [MT1803](https://manasataramgini.wordpress.com/2018/04/01/a-brief-note-on-some-new-developments-regarding-the-genomics-of-indians/), N[201803](https://www.biorxiv.org/content/early/2018/03/31/292581), MT mindmaps [here](../indian-forming-chart), [RK16](http://www.unz.com/gnxp/the-dravidian-migration-theory-vindicated/), [H17](http://www.thehindu.com/sci-tech/science/how-genetics-is-settling-the-aryan-migration-debate/article19090301.ece),[20151219](https://manasataramgini.wordpress.com/2015/12/19/a-reiteration-regarding-the-heart-of-the-fundamental-conflict/), [2015BX](https://app.box.com/s/9t5jawga2ocoovvkhrsc), [201209](https://manasataramgini.wordpress.com/2012/07/09/nishada-s-and-shabara-s-of-jambudvipa-what-you-see-is-what-it-is/). Also see notes in the "genetics" page.
 
 The (more credible) AIT narrative of Bronze age events. For an account of the rapid radiation in Europe, Iran and Central Asia, see other pages.
+
 
 ## Textual provenance
 ### Spatio-temporal coordinates
