@@ -1,0 +1,41 @@
+\subsection{Clustered Low Rank Approximation}
+An alternative approach related to the latent factor model is to compute a different (than the spectral) low rank approximation of the combined adjacency matrix $\C$. For many real world social networks it is observed that the set of nodes form fairly good clusters. In the \textit{clustered low rank approximtion}, \cite{savas10c,song10} the clustering strucure of the network is utilzed in the low rank approximation. We will illustrate the procedure by clustering the the nodes into two clusters. Assume that the nodes $\calV = \{1, 2, \dots, |\calV | \}$ are clustered in two disjoint clusters, i.e. $\calV_1 \cup \calV_2 = \calV$ and $\calV_1 \cap \calV_2 = \emptyset$. Then by permuting rows and columns of $\C$  according to the cluster belongings of the nodes we obtain 
+\[
+ \PP \C \PP^T = \bar{\C} = 
+\begin{bmatrix}
+\bar{\C}_{11} & \bar{\C}_{12} \\
+\bar{\C}_{21} & \bar{\C}_{22}
+\end{bmatrix},
+\]
+where $\PP$ is a permuations matrix that reorders rows of $\C$ so that the first $|\calV_1|$ rows corespond to nodes from the first cluster, and the remaining $|\calV_2|$ rows correspond to nodes from cluster two. The edges between nodes from cluster one will then from the non-zeros of $\bar{\C}_{11}$ and the edges between nodes from cluster two form the non-zeros of $\bar{\C}_{22}$. Then the non-zeros in $\bar{\C}_{12}$ and $\bar{\C}_{21}$ correspond to edges from vertices in cluster one to vertices in cluster two (and the other way arround). Assuming the graph is clusterable,  as is the case for many real world social networks, then the edges/non-zeros of $\bar{\C}$ will be concentrated in the diagonal blocks, i.e. $\bar{\C}_{11}$ and $\bar{\C}_{22}$. The ammount of edges/non-zeros in the off-diagonal blocks depend on how well the graph clusters, and usually this part is only a small fraction of all edges. In a particula example, with five clusters on the Youtube data set, only about 10\% of the edges are between vertices from different clusters. After a clustering of the nodes is obtained, by e.g. using highly efficient multilevel algorithms \cite{dhillon07,karypis98a}, a low rank approximation is computed of each diagonal block matrix of $\bar{\C}$.  The cluster-wise low rank approximations are computed independently and may be obtained as the dominant spectral approximation, e.g. with two clusters we have 
+\[
+\bar{\C}_{11} \approx \bar{\V}_1 \bar{\Lambda}_1 \bar{\V}_1^T \qquad  
+\bar{\C}_{22} \approx \bar{\V}_2 \bar{\Lambda}_2 \bar{\V}_2^T.
+\]
+The two cluster-wise approximations are then used to obtain an approximation for the entire $\bar{\C}$,
+\begin{equation}
+ \label{e:clustLowRankC}
+ \bar{\C} = 
+\begin{bmatrix}
+\bar{\C}_{11} & \bar{\C}_{12} \\
+\bar{\C}_{21} & \bar{\C}_{22}
+\end{bmatrix} \approx
+\begin{bmatrix}
+\bar{\V}_1 & 0 \\
+0 & \bar{\V}_2
+\end{bmatrix}
+\begin{bmatrix}
+\bar{\D}_{11} & \bar{\D}_{12} \\
+\bar{\D}_{21} & \bar{\D}_{22}
+\end{bmatrix}
+\begin{bmatrix}
+\bar{\V}_1 & 0 \\
+0 & \bar{\V}_2
+\end{bmatrix}^T,
+\end{equation}
+where $\bar{\D}_{ij} = \bar{\V}_i^T \bar{\C}_{ij} \bar{\V}_j$ and clearly if $i = j$ we have $\bar{\D}_{ii} = \bar{\Lambda}_{ii}$. If the rank of the approximation in each $\bar{\C}_{ii}$ is $d$ we see that Equation \eqref{e:clustLowRankC} yields a rank-$2d$ approximation of $\bar{\C}$. An important observation is that the memory usage for the rank-$2d$ clustered low rank approximation is almost the same as the memory usage for a regular rank-$d$ approximation. Recall that $\bar{\V}_i$ are ``long-skinny'', i.e. $d \ll N_u$, thus most of the memory in the low rank approximation is used by the eigenvectors. Although the cluster-wise low rank approximations do not involve off-diagonal blocks, e.g. $\bar{\C}_{12}$, information on these blocks in the approximation of $\bar{\C}$ is included due to the inclusion of $\bar{D}_{12}$. Experiments show that much more accurate low rank approximations are obtained with the clustered low rank approximation compared to the dominant spectral approximation, when both approximations have the same memory usage. Interested readers are reffered to \cite{savas10c} and \cite{song10}.
+
+The clustered low rank approximation in \eqref{e:clustLowRankC} may then be used both in the graph proximity model to compute various \textsf{Katz} measures and in the latent factors model.
+
+
+

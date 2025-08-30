@@ -1,0 +1,303 @@
+[[data]]
+Entity = 'row'
+Operation = 'select'
+Feature = 'mango query'
+Subfeature = 'index used'
+Importance = ''
+Universality = 'couchdb api '
+Syntax = "curl -sg localhost:5984/animaldb/_explain -H content-type:application/json -d '{\"selector\":{\"diet\":\"omnivore\"}}'"
+Description = ''
+
+[[data]]
+Entity = 'row'
+Operation = 'select'
+Feature = 'mango query'
+Subfeature = 'syntax'
+Importance = ''
+Universality = 'couchdb'
+Syntax = '''
+{"selector": someMangoQuery,
+"sort": ["title:string"],
+"fields": [...]
+}'''
+Description = ''
+
+[[data]]
+Entity = 'row'
+Operation = 'select'
+Feature = 'scalar condition'
+Subfeature = 'full text search'
+Importance = ''
+Universality = 'couchdb'
+Syntax = '''
+{ "$text": "Bond"}
+'''
+Description = ''
+
+[[data]]
+Entity = 'record'
+Operation = 'add'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = 'couchdb api'
+Syntax = '''
+curl -X PUT http://127.0.0.1:5984/some_db/some_key -d '{"title":"There is Nothing Left to Lose","artist":"Foo Fighters"}'
+'''
+Description = ''
+
+[[data]]
+Entity = 'record'
+Operation = 'validation'
+Feature = 'setup'
+Subfeature = ''
+Importance = ''
+Universality = 'couchdb'
+Syntax = '''
+{
+  "_id": "_design/my_validation_name",
+  "validate_doc_update": "function(newDoc, oldDoc, userCtx) {throw({forbidden : 'not able now!'});}"
+}'''
+Description = 'add doc like this.'
+
+[[data]]
+Entity = 'user'
+Operation = ''
+Feature = 'add'
+Subfeature = ''
+Importance = ''
+Universality = 'couchdb'
+Syntax = """
+curl -X PUT http://xyz:abc@vedavaapi.org:5984/_users/org.couchdb.user:USERNAME \\
+     -H \"Accept: application/json\" \\
+     -H \"Content-Type: application/json\" \\
+     -d '{\"name\": \"USERNAME\", \"password\": \"something\", \"roles\": [], \"type\": \"user\"}'"""
+Description = '''
+Or add using fauxton.
+Either way, password is automatically encrypted.'''
+
+[[data]]
+Entity = 'index = view'
+Operation = 'create'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = 'couchdb flauxton web'
+Syntax = 'DB -> Design Doc-> New View'
+Description = ''
+
+[[data]]
+Entity = 'index = view'
+Operation = 'query'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = 'couchdb'
+Syntax = 'Just use flauxton and copy api url.'
+Description = '''
+http://127.0.0.1:5984/test/_design/item_shop_price/_view/item-to-price?limit=5&reduce=false&inclusive_end=false&start_key=%22ba%22
+limit=10&reduce=false&include_docs=true&keys=%5B"hari"%5D'''
+
+[[data]]
+Entity = 'index = view'
+Operation = 'storage'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = 'couchdb'
+Syntax = 'stored as _something in the DB.'
+Description = ''
+
+[[data]]
+Entity = 'database'
+Operation = 'design doc'
+Feature = 'concept'
+Subfeature = ''
+Importance = ''
+Universality = 'couchdb'
+Syntax = 'keys like _something'
+Description = 'validation functions, views, etc..'
+
+[[data]]
+Entity = 'database'
+Operation = 'dump'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = 'couchdb'
+Syntax = 'curl -X GET http://localhost:5984/<DATABASE_NAME>/_all_docs?include_docs=true | python -m json.tool > FILE.txt'
+Description = ''
+
+[[data]]
+Entity = 'database'
+Operation = 'dump'
+Feature = '@cloudant/couchbackup'
+Subfeature = ''
+Importance = ''
+Universality = 'couchdb'
+Syntax = '''
+export COUCH_URL=http://xyz:uvw@localhost:5984
+export COUCH_DB=dcs_books
+couchbackup > ${COUCH_DB}.txt'''
+Description = ''
+
+[[data]]
+Entity = 'database'
+Operation = 'restore'
+Feature = '@cloudant/couchbackup'
+Subfeature = ''
+Importance = ''
+Universality = 'couchdb'
+Syntax = '''
+export COUCH_URL=http://xyz:uvw@localhost:5984
+cat ${COUCH_DB}.txt|couchrestore  --db ${COUCH_DB}'''
+Description = ''
+
+[[data]]
+Entity = 'database'
+Operation = 'admin databases'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = 'couchdb'
+Syntax = '''
+_users
+_replication
+_global_changes'''
+Description = '''
+These 3 must be recreated upon installation.
+_users, when created, will automatically include auth code to restrict edits only to admins'''
+
+[[data]]
+Entity = 'database'
+Operation = 'list'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = 'couchdb api'
+Syntax = 'curl -X GET http://127.0.0.1:5984/_all_dbs'
+Description = ''
+
+[[data]]
+Entity = 'database'
+Operation = 'put'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = 'couchdb api'
+Syntax = '''
+curl -X PUT http://127.0.0.1:5984/baseball
+'''
+Description = ''
+
+[[data]]
+Entity = 'database'
+Operation = 'delete'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = 'couchdb api'
+Syntax = 'curl -vX DELETE http://127.0.0.1:5984/albums-backup'
+Description = ''
+
+[[data]]
+Entity = 'db server'
+Operation = 'config'
+Feature = 'ssl'
+Subfeature = ''
+Importance = ''
+Universality = 'couchdb'
+Syntax = '''
+in etc/local.ini:
+httpsd = {couch_httpd, start_link, [https]}
+[ssl]
+cert_file = /etc/ssl/certs/ssl-cert-snakeoil.pem
+key_file = /etc/ssl/private/ssl-cert-snakeoil.key
+'''
+Description = '''
+Default port: 6984
+reg: 5984'''
+
+[[data]]
+Entity = 'db server'
+Operation = 'details'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = 'couchdb api'
+Syntax = '''
+curl http://127.0.0.1:5984/
+'''
+Description = ''
+
+[[data]]
+Entity = 'db server'
+Operation = 'config'
+Feature = 'file'
+Subfeature = ''
+Importance = ''
+Universality = 'couchdb'
+Syntax = '''
+~couchdb/couchdb/etc/default.ini has defaults - gets overwritten.
+~couchdb/couchdb/etc/local.ini overrides it.'''
+Description = ''
+
+[[data]]
+Entity = 'db server'
+Operation = 'config'
+Feature = 'connect from anywhere'
+Subfeature = ''
+Importance = ''
+Universality = 'couchdb'
+Syntax = '''
+bind_address = 127.0.0.1
+bind_address = 0.0.0.0 # connect fom anywhere
+Or just use fauxton'''
+Description = ''
+
+[[data]]
+Entity = 'db server'
+Operation = 'config'
+Feature = 'ports'
+Subfeature = ''
+Importance = ''
+Universality = 'couchdb'
+Syntax = ''
+Description = ''
+
+[[data]]
+Entity = 'db server'
+Operation = 'query server'
+Feature = 'python'
+Subfeature = ''
+Importance = ''
+Universality = 'couchdb'
+Syntax = '''
+In local.ini :
+[query_servers]
+python=/usr/bin/couchpy'''
+Description = ''
+
+[[data]]
+Entity = 'db client'
+Operation = ''
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = 'couchdb'
+Syntax = '''
+raw http api.
+fauxuton web tool'''
+Description = ''
+
+[[data]]
+Entity = 'db client'
+Operation = ''
+Feature = 'load'
+Subfeature = ''
+Importance = ''
+Universality = 'couchdb fauxton'
+Syntax = '''
+http://127.0.0.1:5984/_utils/
+'''
+Description = 'Must use js console to look at errors sometimes.'

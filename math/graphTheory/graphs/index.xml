@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Graphs on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/graphTheory/graphs/</link>
+    <description>Recent content in &#43;Graphs on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/math/graphTheory/graphs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clique tree of G</title>
+      <link>https://vishvAsa.github.io/notes/math/graphTheory/graphs/clique_tree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/graphTheory/graphs/clique_tree/</guid>
+      <description>&lt;p&gt;Look at maximal cliques, pick a set of such cliques so that every edge is in some clique, make corresponding clique-nodes, make a tree by adding paths between cliques passing through shared-vertex-set nodes.&lt;/p&gt;&#xA;&lt;p&gt;Eg: 1-2-3 has clique tree (1,2)-2-(2,3).&lt;/p&gt;&#xA;&lt;p&gt;G can have multiple clique tree.&lt;/p&gt;&#xA;&lt;h2 id=&#34;junction-tree-property&#34;&gt;Junction tree property&lt;/h2&gt;&#xA;&lt;p&gt;Take any path in the clique tree between cliques \(C_1\) and \(C_2\); then \(C_1 \inters C_2\) appears in every shared-vertex-set node inbetween them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Random walks on G</title>
+      <link>https://vishvAsa.github.io/notes/math/graphTheory/graphs/random_walks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/graphTheory/graphs/random_walks/</guid>
+      <description>&lt;h2 id=&#34;markov-process-with-state-graph-g&#34;&gt;Markov process with state graph G&lt;/h2&gt;&#xA;&lt;p&gt;Take a Markov chain with probability matrix \(P_{u, v} = \frac{1}{deg(u)}\). \(\pi_{v}=\frac{d(v)}{2|E|}\). \chk&lt;/p&gt;&#xA;&lt;h2 id=&#34;hitting-and-cover-times&#34;&gt;Hitting and cover times&lt;/h2&gt;&#xA;&lt;p&gt;Hitting time \(h_{u,v}\): expected time to get to v from u. Commute time: \(C_{u,v} = h_{u,v} + h_{v, u}\). \(h_{u,v}&amp;lt;2|E|\) \why.&lt;/p&gt;&#xA;&lt;p&gt;Cover time C(G) = \(\max_{v}\) E[time to hit all nodes starting from v]. \(C(G) &amp;lt; 4|V||E|\) \why.&lt;/p&gt;&#xA;&lt;h2 id=&#34;connection-with-resistive-electric-networks&#34;&gt;Connection with resistive electric networks&lt;/h2&gt;&#xA;&lt;p&gt;Let every \(e\in E\) have resistance 1, thence get n/w N(G). \(R_{u,v}\): effective resistance between u, v. \(C_{u, v} = 2m R_{u, v}\) \why.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vertex set: metrics, norms</title>
+      <link>https://vishvAsa.github.io/notes/math/graphTheory/graphs/vertex_set_metrics_norms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/graphTheory/graphs/vertex_set_metrics_norms/</guid>
+      <description>&lt;p&gt;Similarity measures between u and v are inverses of distance metrics.&lt;/p&gt;&#xA;&lt;h2 id=&#34;based-on-paths-and-random-walks&#34;&gt;Based on paths and random walks&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(shortest path).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;katz-measure&#34;&gt;Katz measure&lt;/h3&gt;&#xA;&lt;p&gt;\(sim(u,v) = \sum_{l=1}^{\infty} \gb^{l}|paths_{u,v}(l)|\). Matrix of scores, \(K = \sum_{i=1}^{\infty} \gb^{i}A^{i}\).&lt;/p&gt;&#xA;&lt;h4 id=&#34;the-damping-parameter&#34;&gt;The damping parameter&lt;/h4&gt;&#xA;&lt;p&gt;\(K = (I - \gb A)^{-1} - I\) if the sum converges. Use \(A = U\EW U^{&lt;em&gt;}\): EW decomposition, with \(\ew_{i}\) ordered in descending order. \(\sum_{i=1}^{\infty} \gb^{i}A^{i} = U(\sum_{i=1}^{\infty} \gb^{i}\EW^{i})U^{&lt;/em&gt;}\) does not converge \(\forall \gb \geq 0\) and multiplication by \(\infty\) is not well defined. Condition for convergence: \(\gb \ew_{1} &amp;lt; 1\).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
