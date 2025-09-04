@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Articles on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/history/hindu/articles/</link>
+    <description>Recent content in &#43;Articles on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://vishvAsa.github.io/notes/math/history/hindu/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rudraṭa knights tour - GSS Murthy</title>
+      <link>https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/</guid>
+      <description>&lt;p&gt;The Knight’s Tour Problem and Rudraṭa’s Verse:&lt;/p&gt;&#xA;&lt;p&gt;A View of the Indian Facet of the Knight’s Tour&lt;/p&gt;&#xA;&lt;p&gt;By&lt;/p&gt;&#xA;&lt;p&gt;G S S Murthy&lt;/p&gt;&#xA;&lt;p&gt;[Affiliation: FIETE; Corresponding author: G S S Murthy Email:murthygss gmail]&lt;/p&gt;&#xA;&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;If a chess-knight is moved on a vacant chess-board [8x8 square] such that it visits each one of the 64 squares once and once only, the knight is said to execute a Knight’s Tour. Solution to the knight’s tour problem was known in India as early as the 9&lt;sup&gt;th&lt;/sup&gt; century AD as a demonstration of wizardry in composing 32-syllable verses in Sanskrit. A pair of meaningful verses is composed in such a manner that when one verse is written serially (left to right and top to bottom) one syllable a square to fill up 8x4 cells –half of a chess board- the other verse appears as the Knight’s Tour. The earliest example of this skill in poetry-composition is given in a Sanskrit treatise on poetics, kāvyālaṅkāra written by Rudraṭa who lived around the ninth century A.D. Knight’s Tour as a mathematical problem was first noticed and discussed in the West by Leonard Euler in the eighteenth century. After providing the back ground to the subject as a puzzle on the chess-board, a problem in mathematics and as a challenge in verse-composition, the article discusses the special characteristic of Rudrata’s example where the pair of verses reduces to a single verse.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
