@@ -6,6 +6,13 @@ title: +China
 ## Han push 
 - han chinese push into south china (south of yangzi) looks to be 75% or so replacement.
 
+### Late events
+- Inner mongolia - suppressed mongol language and culture. Led to 2020 protests.
+- The manchus tried manchuifying the han ([Queue_(hairstyle)](https://en.wikipedia.org/wiki/Queue_(hairstyle)) ) before getting hanified themselves as the Qing weakened.
+- uyghur
+  - Laws by Tang and subsequent dynasties enforced distinction (dress codes, social segregation), but over time Uyghurs in Xinjiang experienced both forced and voluntary mixing, settlement, and adoption of certain Han practices.
+  
+
 ## Inner and outer coat
 ### Inner coat - Legalism
 See separate page - [economics > state-level > government](/notes/economics/state-level/government/legalism/) .

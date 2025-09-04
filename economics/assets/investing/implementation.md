@@ -48,33 +48,10 @@ Joint accounts only possible with majors, not minors.
 - https://upstox.com → mutual-funds login
 
 
-#### Upstox
-- Tax reporting - As per agent 202208 - "No high value transactions (HVT) reported to IT department." 
-- Customer support - Despite rough patches in the past, ok customer service as of 202208.
+#### dhan
+Fairly good support as of 2025. 0 AMC promised.
 
-##### Dormancy
-> As per Exchange guidelines, if no trades/investments/transactions have been made from your Upstox Trading and Demat or MCX account in the last 12 months we make it inactive/dormant.
-
-Consequence - 
-
-- You can’t place any new trades in Equity, F&O, Commodity or Currency segment
-- You can’t sell any existing holdings
-- You can't add or withdraw funds
-- You can invest in IPOs but will not be able to sell the IPO allocated shares
-- Can get dividents etc..
-
-Reactivation 
-
-- Post 12 months - can do it on app.
-- Post 24 months - must redo KYC
-
-##### Transfers
-- Deposit via NEFT - no fees.
-- Withdrawal (post Mutual fund sales, not stock sales) via NEFT/ RTGS - no fees. See transfers section [here](/notes/economics/financial_services/banking/01_Operation.md).
-
-##### Mutual funds
-- funds for buying Mutual Fund units will be deducted directly from your registered bank account. And on redemption of these units they will be credited to your registered bank account. Not brokerage pool account.
-- A DP (Depository Participant) charge of ₹18+ GST is applicable on the redemption of Mutual Fund units. This will be deducted from your Upstox wallet and not from your bank account.
+No joint account as of 2025.
 
 #### FundsIndia
 - Easy account opening, support. Excellent UI.
@@ -93,6 +70,44 @@ Reactivation
 - Paytm Money
   - No transaction fee on investments & withdrawals. 0 fees.
   - No joint account as of 2022.
+
+
+<details><summary>History - Upstox</summary>
+
+Promised lifetime 0 AMC and then reneged in 2025.
+
+- Tax reporting - As per agent 202208 - "No high value transactions (HVT) reported to IT department." 
+- Customer support - Despite rough patches in the past, ok customer service as of 202208.
+
+**Dormancy**
+
+> As per Exchange guidelines, if no trades/investments/transactions have been made from your Upstox Trading and Demat or MCX account in the last 12 months we make it inactive/dormant.
+
+Consequence - 
+
+- You can’t place any new trades in Equity, F&O, Commodity or Currency segment
+- You can’t sell any existing holdings
+- You can't add or withdraw funds
+- You can invest in IPOs but will not be able to sell the IPO allocated shares
+- Can get dividents etc..
+
+Reactivation 
+
+- Post 12 months - can do it on app.
+- Post 24 months - must redo KYC
+
+**Transfers**
+
+- Deposit via NEFT - no fees.
+- Withdrawal (post Mutual fund sales, not stock sales) via NEFT/ RTGS - no fees. See transfers section [here](/notes/economics/financial_services/banking/01_Operation.md).
+
+**Mutual funds**
+
+- funds for buying Mutual Fund units will be deducted directly from your registered bank account. And on redemption of these units they will be credited to your registered bank account. Not brokerage pool account.
+- A DP (Depository Participant) charge of ₹18+ GST is applicable on the redemption of Mutual Fund units. This will be deducted from your Upstox wallet and not from your bank account.
+
+</details>
+ 
 
 
 ## Discipline

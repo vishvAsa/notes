@@ -3,6 +3,13 @@ title = "US actions"
 +++
 
 ## 2025
+### Navarro
+One of the problems with the H is that they give too much unneeded exposure to attention whores like that duShTa-mUrkha-pichChilAnuyAyin. He probably is delighted that he has gotten more press than he ever got, even when he was in the govt and blabbered some nonsense during the Wuhan disease or when the gardabha-s cast him in jail.
+
+However, one thing should be kept in mind: this is all coming straight from the unmatta-pichChilu~Nga.
+
+One can now appreciate the gardabha-s for putting that jAragarbha adviser of the pichChilaka in jail. They should have thrown the keys away.
+
 ### New envoy
 Given the long track record of deep vengefulness and perfidy of the Anglo-abrahmosphere, the Indian leadership has to be supervigilant about the duShTa-pichChilu~Nga's agent being sent as a special "envoy". As the rAmAyaNa has taught us, envoys can wreak havoc.
 
