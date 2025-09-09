@@ -6,11 +6,21 @@ title = "Knowledge preservation"
 
 See - https://rebrand.ly/dg-archive
 
+Here is a survey of various inputs for archival preservation.
+
 ## Media and pigments
 
 Lists of oldest surviving documents - [wiki](https://en.wikipedia.org/wiki/List_of_oldest_documents)
 
 Generally, the amount of energy expended in bonding the pigment to the medium is equal to the energy required in dissociating them. Eg. 1300 degrees Celsius for ceramic microfilms, UV light for UV bonded pigments etc..
+
+### Current top options
+In descending order of longevity and utility-
+
+- ceramic tile page stamps (for offset printing) 
+- ceramic tile pages with laser engraving or fused dyes
+- Stable metal (eg. Nickel) sheet page stamps
+- Stable metal pages with laser engraving
 
 ### 6k+ yr
 #### Ceramics
@@ -142,6 +152,9 @@ In Bharat,  a one time investment of about $250 K, and approximately Rs 5K per w
 #### Palm leaf / birch manuscripts
 Last few decades to 600 years, depending on local climatic conditions.
 
+Laser engraving on palm leaves, Pune 2024 : [TW](https://sifworld.com/palm-leaf-sutra#join).  
+
+
 #### Papyrus
 Made from plant leaves. No fold-endurance - Used as a scroll. Degrades due to acidic nature.
 
@@ -158,10 +171,9 @@ after which point a new copy of the media must be generated.
 
 #### Parchment (Skin)
 Treated animal skin. If reused, called palimpest.  
-Parchments from 1600 years ago survive - many were in regular use for hundreds of years.
+Parchments from 1600 years ago survive - many were in regular use for hundreds of years. [YT](https://www.youtube.com/watch?v=6nJmyo45dqY)
 
-Source: [TW](https://www.youtube.com/watch?v=6nJmyo45dqY)
-
+Laser engraving on skin is possible.
 
 #### DNA
 
@@ -225,6 +237,9 @@ Quite brittle.
 #### Vinyl records
 Last 100 yrs under good conditions.
 
+#### Aluminium sheets
+Corroded with holes in 50 years in tropical outdoors.
+
 ### CDs, Hard disk
 CDs are vulnerable to wear   
 hard drives limited by lifespan of only 4-5 years
@@ -239,6 +254,12 @@ Grammaphone doesn't require electricity to play sound. It's relatively easy to c
 
 > If you rely on proprietary software to store your material (office, databases, cloud-subscriptions, etc.), everything will be gone in less than half a century (at least if you don’t have more resources than US government and NASA: Many of the recordings of the space explorations of the 60ies are now inaccessible: neither the machines nor the knowledge is available today to access it). - [digitaldharma](https://digitaltibetan.github.io/DigitalTibetan/docs/digital_dharma_is_fragile.html)
 
+### Offset printing process
+Typical workflow - 
+
+- On some sheets (eg. aluminium/ plastic), they can print 1 set of around 32 pages at a time. 
+- Then, they use these aluminium sheets with ink to press on paper like rubber stamping.
+- In case of Al - You can recast these sheets a few times for new pages, after which they're discarded.
 
 ## Storage
 - Cold storage reduces chemical decay rate.

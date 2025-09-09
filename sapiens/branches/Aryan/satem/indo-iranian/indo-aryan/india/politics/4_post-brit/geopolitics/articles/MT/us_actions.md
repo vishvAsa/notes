@@ -3,6 +3,9 @@ title = "US actions"
 +++
 
 ## 2025
+### Imperial swagger
+When the mahAmlechCha under the duShTa-pichChikaka humiliates even its vassals like Korea and Japan, is it a surprise that they are mouthing hate towards the v1s and the desh? From speaking softly and carrying a big stick (African proverb?), the new way is: walk chest puffed up, talk loudly, and give a few knocks with the stick. The transition to full imperial display is complete. H need to be very wary of this imperial swagger.
+
 ### Navarro
 One of the problems with the H is that they give too much unneeded exposure to attention whores like that duShTa-mUrkha-pichChilAnuyAyin. He probably is delighted that he has gotten more press than he ever got, even when he was in the govt and blabbered some nonsense during the Wuhan disease or when the gardabha-s cast him in jail.
 
