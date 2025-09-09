@@ -4,7 +4,7 @@ title = "Knowledge preservation"
 
 **How to best preserve our knowledge (physical and spiritual) and texts?**
 
-See - https://rebrand.ly/dg-archive
+See - https://rebrand.ly/dg-archive for context.
 
 Here is a survey of various inputs for archival preservation.
 
