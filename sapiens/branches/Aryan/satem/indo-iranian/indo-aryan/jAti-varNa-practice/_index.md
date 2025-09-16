@@ -15,6 +15,14 @@ Theory considered in [Agama pages](/AgamaH/AryaH/hinduism/social-cultivation/cla
 - brAhmaNa-s learned in the dharmashAstra-s adjudicated disputes regarding varNa-assignment.
 - More details in [varNa subpage](varNa/).
 
+## jAti pride
+It is only due to jAti pride that in case of v1s -
+
+- PhDs throw away money, and even marriage prospects to serve the Gods in obscure village temples; 
+- spend decades learning and preserving recitation of negligible economic value etc.. 
+
+
+
 ## Sentimental life, rituals and Ananda pursuit
 - This closely followed the theory described [here](../varna-theory/) (search term: Ananda).
 - In some cases, brAhmaNa-s accepted non-brAhmaNa saints as honored gurus.
