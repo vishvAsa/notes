@@ -187,7 +187,7 @@ Laser engraving on skin is possible.
 
 
 ### .1k-.3k yr
-#### Museium grade paper
+#### Museum grade paper
 Curators love these papers because they’re made of 100% cotton rag and have no OBAs. The base stock is both acid- and lignin-free. The coating is acid-free.
 
 it must be manufactured using pure cotton fibres (a.k.a. cotton rag) or pure alpha cellulose fibres, which are naturally more durable than wood pulp.
@@ -208,22 +208,6 @@ Files can be stored on paper - **PaperBack** -
 > If you have a good laser printer with the 600 dpi resolution, you can save up to 500,000 bytes of uncompressed data on the single A4/Letter sheet. Integrated packer allows for much better data density - up to 3,000,000+ (three megabytes) of C code per page. Source: [TW](https://www.ollydbg.de/Paperbak/)
 
 
-#### Pigment Ink
-\~ 50 yrs before beginning to fade.
-
-#### Photo grade paper
-Most photo-grade paper is resin-coated and designed to look and feel like modern photo lab paper. The core is covered by a thin layer of polyethylene (plastic) coating, which gives the paper its photo feel, stability (flatness), water resistance, handling resistance, and excellent feed consistency. 
-
-All resin-coated papers fall short of archival-grade for two reasons. First, the plastic content is not technically archival by museum standards. Second, the resin coating is slightly acidic, which will deteriorate the paper over time.
-
-#### Dye ink
-\~ 20 yrs before beginning to fade.
-
-#### Common paper
-Paper, having acid, degrades over time.  
-Wood pulp is oft used. Has lignin, which breaks down to acid over time.  
-you can put stable ink on non-archival paper and still achieve 70 years of on-display life.
-
 #### UV ink on ceramic tiles
 UV flatbed printing uses UV-cured inks that sit on top of the tile surface. While these inks are durable, water-resistant, and fade-resistant under normal conditions, they can degrade over long periods, especially with prolonged UV exposure, abrasion, or harsh environmental conditions. The inks are not fused into the tile body but rather bonded to the surface, making them less durable than kiln-fired ceramics
 
@@ -240,7 +224,32 @@ Last 100 yrs under good conditions.
 #### Aluminium sheets
 Corroded with holes in 50 years in tropical outdoors.
 
-### CDs, Hard disk
+#### Magnetic tape
+LTO Tape made with Barium Ferrite 50 yrs.  [FF](https://www.fujifilm.com/in/en/business/data-management/datastorage/ltotape) 
+
+#### Pigment Ink
+\~ 50 yrs before beginning to fade.
+
+#### Photo grade paper
+Most photo-grade paper is resin-coated and designed to look and feel like modern photo lab paper. The core is covered by a thin layer of polyethylene (plastic) coating, which gives the paper its photo feel, stability (flatness), water resistance, handling resistance, and excellent feed consistency.
+
+All resin-coated papers fall short of archival-grade for two reasons. First, the plastic content is not technically archival by museum standards. Second, the resin coating is slightly acidic, which will deteriorate the paper over time.
+
+#### Dye ink
+4 - 20 yrs before beginning to fade.
+
+#### Powder ink
+20 to 50 years on acid free paper.
+
+> "Toner for Xerox colour copiers that is displayed in normal lighting (no UV, no sunlight) should show minimal fading after four years. After fifteen years it will fade about 30%. The toner should stay bonded to the paper for the life of the paper."
+
+
+#### Common paper
+Paper, having acid, degrades over time.  
+Wood pulp is oft used. Has lignin, which breaks down to acid over time.  
+you can put stable ink on non-archival paper and still achieve 70 years of on-display life.
+
+#### CDs, Hard disk
 CDs are vulnerable to wear   
 hard drives limited by lifespan of only 4-5 years
 
