@@ -134,9 +134,28 @@ It can withstand the high and low extremes of freezing, fire and temperatures of
 #### Silicon Waferfiche
 Source: [TW](https://taraprakashana.org/long-term-archival/)
 
-- temperature and water-resistant
+
+- temperature, fire and water-resistant
 - Needs only a magnifying glass to read.
 - photolithographic inscription small copies
+
+#### Material
+Layers - Silicon wafer base + metal letters + micron thin glass layer.  
+Glass layer prevents metal migration and oxidation.  
+Si-metal bond only disintegrates at 1000K. 
+
+Metal used is usually Al or Au.  
+
+[YT](https://www.youtube.com/watch?v=KMi9P4FdAqw)
+
+#### Process
+
+- Buy silicon wafer.
+- Add photoresist layer.  
+- Project text image. 
+- Get metal to bond with photoresist layer parts matching letters.
+- wash away photoresist layer.
+- Add glass layer.
 
 ##### Cost
 > it costs about ten times less to store documents on Waferfiche than on microfilm.
@@ -147,10 +166,28 @@ Source: [TW](https://taraprakashana.org/long-term-archival/)
 In Bharat,  a one time investment of about $250 K, and approximately Rs 5K per waferfiche.
 
 #### Archival DVDs
-- 1000 Years Archival Hitachi/LG Digital Storage Blank M-Disc DVD+R | 4.7GB | 3 Pack Jewel Case
+- 1000 Years claimed life. 100+ years as per accelerated aging testing.
+  - write-once (WORM) media
+  - Non-contact read/write technology
+  - Durable and resilient in a wide range of environmental conditions
+  - Resistant to water damage
+  - Readable more than one million times
+- [W](https://en.wikipedia.org/wiki/M-DISC)
+- Capacities
+  - Sony Optical Disc Archive (ODA) discontinued  
+    - [W](https://en.m.wikipedia.org/wiki/Optical_Disc_Archive)
+    - 5.5 TB. Average read rate of 375MB/s
+    -  humidity-proof polycarbonate media substrate (similar to M-Disc) which is not affected by electromagnetic/gamma/alpha radiation, most chemicals or fluid contaminants
+    - standard 405 nm optical laser
+  - 100GB disks available.
+  - Hitachi/LG Digital Storage Blank M-Disc DVD+R | 4.7GB | 3 Pack Jewel Case
 
 #### Palm leaf / birch manuscripts
 Last few decades to 600 years, depending on local climatic conditions.
+
+Classical techniques -  
+
+- Engrave letters with a stylus, then fill with ink. (Even when ink fades away, the engraving stays. So can be read with multi-spectral imaging.)
 
 Laser engraving on palm leaves, Pune 2024 : [TW](https://sifworld.com/palm-leaf-sutra#join).  
 
@@ -213,6 +250,14 @@ UV flatbed printing uses UV-cured inks that sit on top of the tile surface. Whil
 
 UV flatbed printers - While UV-cured inks are designed to withstand sunlight, excessive exposure to UV rays can cause fading and discoloration over time. To minimize this risk, consider applying a UV-protective coating or installing shading devices, such as awnings or pergolas, in outdoor areas.
 
+#### 3D printed plastics
+[YT](https://youtu.be/KMi9P4FdAqw?t=1694)
+
+PETG 
+
+-  withstands 200 deg C.
+- Combined with a resin, it is UV resistent.
+
 ### .01k yr
 
 #### Shellac records
@@ -225,7 +270,7 @@ Last 100 yrs under good conditions.
 Corroded with holes in 50 years in tropical outdoors.
 
 #### Magnetic tape
-LTO Tape made with Barium Ferrite 50 yrs.  [FF](https://www.fujifilm.com/in/en/business/data-management/datastorage/ltotape) 
+- LTO Tape made with Barium Ferrite 50 yrs.  [FF](https://www.fujifilm.com/in/en/business/data-management/datastorage/ltotape) 
 
 #### Pigment Ink
 \~ 50 yrs before beginning to fade.
@@ -274,6 +319,13 @@ Typical workflow -
 - Cold storage reduces chemical decay rate.
 - Low humidity prevents mold.
 - Store away from insects and rodents.
+
+### Redundancy
+- Industry standard best practice 3-2-1 strategy
+  - 3 copies of data
+  - 2 different storage technologies
+  - 1 copy air-gapped (offline)
+
 
 ## Profession
 - Record keepers
