@@ -2,6 +2,15 @@
 title = "2025 trump actions"
 +++
 
+## Chaos
+This is not informed political analysis but just a gut feeling: the pichChilaka might trigger much hardship and chaos in the near future. 
+
+It might devolve in two directions,  
+either by triggering a period of prolonged unrest/retrograde movement in his own land  
+or an attempt to return it to some type of status quo via the loss of his pakSha. 
+
+Certain players who are in plain sight to the discerning but too dangerous to be named will benefit either way.
+
 ## Epstein factor
 I'm not deep into the Apastiya issue, but it does seem that, like war with Iran, it could fracture the younger base of the nAri~Nga. That said, it raises a few issues even to the casual observer: 
 
