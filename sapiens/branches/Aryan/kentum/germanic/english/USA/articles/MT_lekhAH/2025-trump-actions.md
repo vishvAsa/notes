@@ -2,6 +2,18 @@
 title = "2025 trump actions"
 +++
 
+## viveka
+While many here like to condemn viveka, we don't see him as part of the problem, but rather a symptom of the brewing trouble among the mahAmlechCha. 
+
+Those who have studied the mUlavAtUla-s knew that they always adopted the strategy of hedging bets with both sides. That was a potentially viable strategy for the H. But they lacked the deep sense of self-nonself recognition and ingroup cohesion of the mUla-rakShasAdhaka-s.  Hence, when trouble comes, H were not able to cohesively respond in a way that helps their interests. 
+
+Given the pichChilu~Nga's first term, it was a reasonable hedge to go with him as opposed to mahAhAsA, who definitely had a big anti-H agenda on her pakSha. More those who read the ground more closely realized that the lu~Nga was likely to win. 
+
+However, this had to be tempered by the knowledge that a large constituency of nAri~Nga's pakSha hates H (svabhAva-vairam via pretonmAda), feels threatened by them (elite competition) or has a melanophobia. There was always a danger that faction would come to guide the nAri~Nga's actions. 
+
+Initial signals like the Turtle, basil and anUpapatnI,  suggested that supporting nAri~nga might have paid off. But when viveka was fired and mahAmuShka was protected, it became clear that that faction would likely dominate this term. That's where we are now.
+
+
 ## Chaos
 This is not informed political analysis but just a gut feeling: the pichChilaka might trigger much hardship and chaos in the near future. 
 
