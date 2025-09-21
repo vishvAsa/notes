@@ -62,22 +62,20 @@ Air tickets should be purchased from ([F. No. 31011/12/2022-Estt.A-IV](https://d
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-2018-2021 (3 Delhi, 1 anywhere)
+2020-2023 (3 Delhi, 1 anywhere)
 
 - Joined Oct 2019. Covid lockdown and LTC encashment used.
+- 2020 - Nothing.
 - 2021 - V, Su delhi train. Rest - wasted.
-
-2022-2025 (3 Delhi, 1 anywhere)
-
 - 2022 - KRV, V, Vaj, Su, Sh - Delhi
 - 2023 - KRV, V, Sh, Su, Vaj - Assam etc.
+
+2024-2027 (3 Delhi, 1 anywhere)
+
 - 2024 - V, Sh, Su, Vaj - Delhi
-
-Confirm eligibility.
-
 - 2025 - Ladhak ? ("hometown trip: one of these can be converted to a trip to UT of J&K and Ladakh")
-- 2026 vasante - (hometown trip) Delhi ? 
-- 2027 - Andamans?
+- 2026 - Andamans
+- 2027 - vasante - (hometown trip) Delhi ?
 
 > My LTC trips can be as follows for first 8 years:  
 2020-2022 (three years hometown trip)  

@@ -9,3 +9,11 @@ People in that above-average IQ range often, in certain real-life contexts, fare
 Source: [TW](https://twitter.com/blog_supplement/status/1717358382296756450)
 
 Irrespective of whether a people have a low or a high IQ, they try to alter the world to the advantage of those within their perceived ingroup radius. The actions of those with higher IQ have higher impact. However, even those with high IQ cannot run against mathematical theorems. 
+
+## Mathematicians
+While we have seen this repeatedly over the years, it never ceases to amaze/amuse us: despite being among most intelligent people, mathematicians have huge blind spots in understanding socio-political issues. This perhaps explains why selection balances out such types in the population.
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+Inattention to data gathering?
+</details>
