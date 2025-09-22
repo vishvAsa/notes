@@ -2,6 +2,14 @@
 title = "Pollutants"
 
 +++
+
+## Smoke
+Wood smoke is worse than cigarette smoke.
+
+- more toxins
+- more severe toxins - dioxins.
+- longer lasting free radicals.
+
 ## Allergens
 - The period at the end of this sentence is approximately 400 microns in size. 
 - Pollen grains are 30 microns, dust mite waste particles are about 20 microns, and cat allergen particles vary from about 1 to 20 microns in size.
@@ -22,3 +30,4 @@ title = "Pollutants"
 
 ### Sources
 - Dust from sweeping on concrete yard in Mountain view raised PM2.5 levels from 20μg/m3 to 148 μg/m3. 
+
