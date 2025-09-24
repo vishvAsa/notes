@@ -271,7 +271,18 @@ Corroded with holes in 50 years in tropical outdoors.
 
 #### Magnetic tape
 - LTO Tape made with Barium Ferrite 50 yrs.  [FF](https://www.fujifilm.com/in/en/business/data-management/datastorage/ltotape) 
-
+- Capacity (Native uncompressed) per Tapes (Data Cartridge):
+  - LTO-7 6 TB
+  - LTO-8 12 TB
+  - LTO-9 18 TB
+  - LTO-10 30 TB
+- Cost (India 2025):
+  - LTO Tapes (Data Cartridge) ₹ 500-750 / TB
+  - LTO Tape Drive (can vary depending on internal, standalone, Type-C, SAS, SATA etc.):
+    - Used LTO-7 ₹ 1.80 lakhs + GST
+    - New LTO-8 ₹ 3.50 lakhs + GST
+    - New LTO-9 ₹ 4.15 lakhs + GST
+    - New LTO-10 ₹ 10+ lakhs + GST
 #### Pigment Ink
 \~ 50 yrs before beginning to fade.
 
