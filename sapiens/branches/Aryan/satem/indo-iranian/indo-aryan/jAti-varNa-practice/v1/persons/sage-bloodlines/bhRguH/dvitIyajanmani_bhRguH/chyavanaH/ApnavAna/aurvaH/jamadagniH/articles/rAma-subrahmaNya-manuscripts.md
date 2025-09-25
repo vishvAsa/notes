@@ -2,6 +2,8 @@
 title = "rAma-subrahmaNya manuscripts"
 +++
 
+Source: [TW](https://www.academia.edu/1119793/R%C4%81masubrahma%E1%B9%87ya_s_Manuscripts_A_Kaveri_Delta_Collection_Then_and_Now_preprint_version_)
+
 [[P1]]
 Rāmasubrahmaṇya's Manuscripts: A Kaveri Delta Collection Then and Now
 

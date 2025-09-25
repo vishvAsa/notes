@@ -210,7 +210,7 @@ after which point a new copy of the media must be generated.
 Treated animal skin. If reused, called palimpest.  
 Parchments from 1600 years ago survive - many were in regular use for hundreds of years. [YT](https://www.youtube.com/watch?v=6nJmyo45dqY)
 
-Laser engraving on skin is possible.
+Laser engraving on skin is possible. [YT](https://www.youtube.com/watch?v=dv40hx9Cvv8) 
 
 #### DNA
 
@@ -319,13 +319,6 @@ Grammaphone doesn't require electricity to play sound. It's relatively easy to c
 
 > If you rely on proprietary software to store your material (office, databases, cloud-subscriptions, etc.), everything will be gone in less than half a century (at least if you don’t have more resources than US government and NASA: Many of the recordings of the space explorations of the 60ies are now inaccessible: neither the machines nor the knowledge is available today to access it). - [digitaldharma](https://digitaltibetan.github.io/DigitalTibetan/docs/digital_dharma_is_fragile.html)
 
-### Offset printing process
-Typical workflow - 
-
-- On some sheets (eg. aluminium/ plastic), they can print 1 set of around 32 pages at a time. 
-- Then, they use these aluminium sheets with ink to press on paper like rubber stamping.
-- In case of Al - You can recast these sheets a few times for new pages, after which they're discarded.
-
 ## Storage
 - Cold storage reduces chemical decay rate.
 - Low humidity prevents mold.
@@ -338,7 +331,19 @@ Typical workflow -
   - 1 copy air-gapped (offline)
 
 
-## Profession
+### Area calculation
+Page capacities
+
+- A4 ( 21.0 cm x 29.7 cm) = 623.7 sqcm . (42.8% zoom)
+  - Fits about closely packed 6800 devanAgarI akShara-s with minimal margines and common sandhi/ saMhitA.
+  - Luxurient verse spacing
+
+Example requirements
+
+- shrIbhAShyam 32.5k akShara-s.
+  - 47-50 A4s
+
+### Profession
 - Record keepers
   - Recordkeepers are responsible for documents from the moment they are created by an entity up to and beyond the point when they are preserved solely as archives
 - Archivists
@@ -356,17 +361,10 @@ Other efforts
 - Memory of Mankind [archive](https://www.memory-of-mankind.com/?ref=longnow.org) - Hallstatt/Austria
   - The geological structure of the surrounding rock must not destroy the archive.
 
-## Area calculation
-Page capacities
 
-- A4 ( 21.0 cm x 29.7 cm) = 623.7 sqcm . (42.8% zoom) 
-  - Fits about closely packed 6800 devanAgarI akShara-s with minimal margines and common sandhi/ saMhitA.
-  - Luxurient verse spacing
-
-Example requirements
-
-- shrIbhAShyam 32.5k akShara-s. 
-  - 47-50 A4s
+## Recording
+- Paper printing see: [TW](https://sanskrit-coders.github.io/content/books/publish/paper-printing)
+- Laser engraving see: [TW](https://sanskrit-coders.github.io/content/books/publish/laser-engraving)
 
 ## Content
 - Global village construction kit [here](https://wiki.opensourceecology.org/wiki/Main_Page)
