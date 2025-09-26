@@ -44,21 +44,14 @@ Ceramic toner is made of inorganic pigments and materials that are stable at hig
 
 Inkjet ceramic inks - Liquid ceramic pigment suspensions.
 
-In kiln-fired ceramic tile printing ( CPP or ceramic pigment printing), the ceramic pigments are fused into the tile surface at very high temperatures (around 1400°C). This process vitrifies the pigments, making the image an integral part of the tile body, highly resistant to scratching, fading, chemicals, and weathering
 
+##### Longevity
+High quality ceramic tiles don't break that easily. Smaller size will reduce shattering too.  
 
-Technology - 
+And even if broken, pieces will remain legible.
 
-- digital inkjet - ~300–360 DPI native. 
-  - Non-contact - Good for tiles with textures too.
-  - After printing, tiles go through glazing and high-temperature firing (1200–1400°C) to permanently fuse the ink.
-  - commonly 300–360 DPI native, effective resolutions can exceed 1000 DPI with multi-pass or greyscale
-- laser or electrophotographic printers. 
-  - Resolution tends to be lower and image quality less smooth compared to inkjet.
-  - Fired at lower temperatures (~1100°C) to integrate pigment into glaze.
-  - Parshwa home decor Jakkur - 650 INR/sqft (2025). Low res. Other providers - min order 200.
-
-
+Plus if installed on wall or floor, no falling chance. We have beautiful ceramic tiles from roman times.  
+But these tiles can be stored just as they are - in special wood cases and such as MoM switzerland does. 
 
 #### Clay tablets
 Babylonian clay tablets have survived from 4000 BCE (=7k years). But they are fragile - and need to be preserved.
