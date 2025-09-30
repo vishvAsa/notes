@@ -2,6 +2,8 @@
 title = "MaisUru pradhAns"
 +++
 
+Source: [TW]( https://mdl.mandayamsabha.in/uploads/book/bk_1587628770.pdf)
+
 THE MYSORE PRADHANS  
 M.A. SRINIVASACHARYA  
 &  
@@ -457,15 +459,17 @@ I have received your letter of the 31st July 1799 and am very thankful to you fo
 39 
 your return from Seringapatam in July last, and I have grea satisfaction in assuring you that your conduct appears to me to have been uniformly regulated by the warmest zeal for the interest of your Mistress the Rana and by good faith and attachment to the English Government. 
 It would have given me the greatest pleasure to have heard that your long and faithful services had been recompensed by your having been placed under your Rana in the situation that would have been most agreeable to you. But as circumstances with which I am not acquainted have opposed such an arrangement immediately upon the restoration of the Rajah's Government, you have had an additional opportunity, of proving your attachment by retiring from the scene, and of showing your judgment by relying on the justice of the English Government. 
+
 I most earnestly recommend to you to continue in the same judicious course, and to place your whole confidence in Mr. Webbe and in Col. Close, whose honour, judgment and abilities are held in the highest consideration and for whom I feel a respect-equal to that which I bear towards my own brother, who is also your friend, and who will always give you the most honorable and candid opinion. 
 
-You may firmly rely upon any service it may be in my power to render you. But as the Governor-General has the direction of all things, and as Mr. Webbe and Colonel Close have most deservedly the confidence of Lord Wellesley and of Lord Clive, you can derive material service only through their just representations ff your merits. 
-merits. Let me hear frequently of your welfare. What can I say more than that I am your true friend. 
+You may firmly rely upon any service it may be in my power to render you. But as the Governor-General has the direction of all things, and as Mr. Webbe and Colonel Close have most deservedly the confidence of Lord Wellesley and of Lord Clive, you can derive material service only through their just representations ff your merits. Let me hear frequently of your welfare. What can I say more than that I am your true friend. 
+
 (Sd.) JOHN SULLIVAN. 
 
 ### R. Mornington on Tirumal Row
 (Extract from a copy of the minutes of Lord Mornington, Governor-General of India, about Tirumal Row.) 
-5753. In the course of my correspondence with the commissioners for the affairs of Mysore, the Board will have observed the name of Mysore Tirumal Row. This person is well known to the Comany's Government in this part of India, and is 
+
+5753\. In the course of my correspondence with the commissioners for the affairs of Mysore, the Board will have observed the name of Mysore Tirumal Row. This person is well known to the Comany's Government in this part of India, and is 
 40 
 distinguished as well by his zealous and faithful attachment to the Family now elevated to the Musnud, as by the misfortunes which his negotiations on their behalf have brought on himself and his family. 
 I lay before the Board an address from Tirumal Row from which the Board will observe that he has strong claims on the family of Mysore; and I accordingly propose that he be placed on a footing of entire equality in point of allowance with the officers of the late Government distinguished by the Title of Meer Meeran, and that his allowance be secured by the Company. 
