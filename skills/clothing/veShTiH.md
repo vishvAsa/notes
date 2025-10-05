@@ -12,8 +12,10 @@ title = "वेष्टिः"
 ## Standard sizes
 - panchakachCha + angavastra. Often comes uncut - so can make dhoti longer.
 
-9x5 or 10x6 indicates the length of  dhoti/uttareeyam..  
-9x5 indicates the panche is 9 muzham (ಮೊಳ) approx 9*1.5=13.5ft= 4.15 metres length and the uttareeya will be 5 muzham -approx 2.3 metres. This is suitable for Indians with normal stature.
+9+5 or 10+6 indicates the length of  dhoti/ uttareeyam.  
+9+5 indicates the panche is 9 muzham (ಮೊಳ) approx 9mu * 1.5 ft/mu = 13.5ft = 4.15 metres length and the uttareeya will be 5 muzham -approx 2.3 metres.  This is suitable for Indians with normal stature.  
+
+Width will be 1.14 M.
 
 10x6 indicates the panche is 10 muzham (ಮೊಳ) approx 4.6 metres length and the uttareeya will be 6 muzham -approx 2.75 metres. This is suitable for large individuals.
 

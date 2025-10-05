@@ -175,6 +175,9 @@ In Bharat,  a one time investment of about $250 K, and approximately Rs 5K per w
   - 100GB disks available.
   - Hitachi/LG Digital Storage Blank M-Disc DVD+R | 4.7GB | 3 Pack Jewel Case
 
+#### Washi paper
+- Hand crafted to last 1k years - [bbc](https://www.bbc.com/reel/video/p0m4mg2j/washi-the-japanese-paper-crafted-to-last-1-000-years)
+
 #### Palm leaf / birch manuscripts
 Last few decades to 600 years, depending on local climatic conditions.
 

@@ -3,6 +3,11 @@ title = "US actions"
 +++
 
 ## 2025
+### Competitor
+Source: [TW](https://x.com/blog_supplement/status/1973942591692411137)
+
+duShTa jarilaputra has incidentally dropped some information on how the mahAmlechCha view India. Not as an ally as some think, but as a competitor similar to chIna. While he is known for his generally anti-H position as a pretabhAnaka, here he is probably reflecting the views of nAri~Nga's foreign policy inner circle: "don't make the mistake of letting India rise like we did with the chIna-s"
+
 ### Imperial swagger
 When the mahAmlechCha under the duShTa-pichChikaka humiliates even its vassals like Korea and Japan, is it a surprise that they are mouthing hate towards the v1s and the desh? From speaking softly and carrying a big stick (African proverb?), the new way is: walk chest puffed up, talk loudly, and give a few knocks with the stick. The transition to full imperial display is complete. H need to be very wary of this imperial swagger.
 

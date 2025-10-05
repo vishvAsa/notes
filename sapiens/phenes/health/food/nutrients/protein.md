@@ -39,6 +39,17 @@ title = "Protein"
 | all-India      | 60.7                   | 60.3            |
 </details>
 
+### yash's tips
+Yash (good bicep marATha) -  
+
+- whey - 25 g 
+  - Muscle Blaze used. Protein X higher end?
+  - Milk whey causes bloating to some people, plant whey is suggested in such cases
+- paneer
+- rAjma 7-8 g in 50-100g
+- oats 3-4 g in 30 g
+- curd 
+- soy chucks - 20g in 40 g
 
 ## Sources
 - A healthy way to ensure adequate intake of protein is to eat proteins in all 3 major meals. If you are into intense workouts, consider consuming your protein shake/ protein meal 15-30 minutes post-workout in addition.
