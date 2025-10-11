@@ -305,6 +305,23 @@ you can put stable ink on non-archival paper and still achieve 70 years of on-di
 CDs are vulnerable to wear   
 hard drives limited by lifespan of only 4-5 years
 
+## Binding
+### 1k yr
+- sewn bindings (long-fiber linen or similar high-strength threads) 
+  - they distribute stress evenly across the spine, minimizing wear compared to glued bindings. 
+  - stitching often outlasts the paper itself.
+
+### .1k yr
+- Monel Staples: Monel is a nickel-copper alloy known for its exceptional corrosion resistance, especially in marine or industrial environments, surpassing even stainless steel in longevity for extremely harsh conditions
+- Stainless steel staples (304 or 316) rarely rust, even in harsh or humid conditions, due to their high chromium content which forms a passive oxide layer that protects the metal from corrosion.
+
+### .01k yr
+- Zinc or nickel coated steel wire staples are relatively rust free. [TW](https://www.amazon.in/Kangaro-24-Staples-Pack-Packs/dp/B07FF62YBG/)
+  - In typical indoor or dry environments, these staples may resist rust for 20 to 50 years, but their corrosion resistance is much lower in outdoor, humid, coastal, or polluted areas
+- Steel wire Staples begin to rust and decolorize paper in a quite fast. 
+- Metal Spiral (Steel/Aluminum), Wire-O Binding (Double-Loop Wire) - several years to decades
+- Plastic Spiral (PVC/Polypropylene) rib - to High (5-10 years)
+
 ## Retrieval/ playback
 Grammaphone doesn't require electricity to play sound. It's relatively easy to construct.
 
