@@ -279,8 +279,14 @@ Corroded with holes in 50 years in tropical outdoors.
     - New LTO-8 ₹ 3.50 lakhs + GST
     - New LTO-9 ₹ 4.15 lakhs + GST
     - New LTO-10 ₹ 10+ lakhs + GST
+
 #### Pigment Ink
-\~ 50 yrs before beginning to fade.
+Pigment inks offer fade resistance of 70-200+ years under proper conditions.
+
+- UV and moisture resistant due to particle structure
+- Particles bond with paper fibers for permanent adhesion
+- Water resistance once fully dried
+
 
 #### Photo grade paper
 Most photo-grade paper is resin-coated and designed to look and feel like modern photo lab paper. The core is covered by a thin layer of polyethylene (plastic) coating, which gives the paper its photo feel, stability (flatness), water resistance, handling resistance, and excellent feed consistency.
@@ -292,6 +298,9 @@ All resin-coated papers fall short of archival-grade for two reasons. First, the
 
 #### Powder ink
 20 to 50 years on acid free paper.
+
+- Physical toner particles can detach from paper over time, unlike absorbed inks
+- Toner particles easily break down under UV light exposure
 
 > "Toner for Xerox colour copiers that is displayed in normal lighting (no UV, no sunlight) should show minimal fading after four years. After fifteen years it will fade about 30%. The toner should stay bonded to the paper for the life of the paper."
 
