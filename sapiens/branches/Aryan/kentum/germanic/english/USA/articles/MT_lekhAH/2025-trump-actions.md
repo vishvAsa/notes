@@ -2,6 +2,10 @@
 title = "2025 trump actions"
 +++
 
+## preta nationalist takeover
+Just as the ShaNDa-s realized that they could take control of piNDaka and run the state on his behalf, a xenophobic preta nationalist cabal realized that they could do the same with nAri~Nga with anUpa as their frontman. Thus, we are squarely in the age of rule by puppet mlechCharAT-s in mahAmlechCha politics.
+
+
 ## viveka
 While many here like to condemn viveka, we don't see him as part of the problem, but rather a symptom of the brewing trouble among the mahAmlechCha. 
 
