@@ -12,7 +12,7 @@ CHARLES PÉGUY
 
 In 1831, to reach no further back, the prefect of Ariège described the population of his Pyrenean valleys as savage “and as brutal as the bears it breeds." In 1840, an army staff officer found the Morvandiaux of Fours "uttering cries as savage as the beasts themselves." Officials, soldiers-who else would venture into the wild countryside, especially the lost regions south of the Loire? In 1843, an infantry battalion marching through the marshy Landes northeast of Dax discovered still more savages: poor, backward, wild.1 The whole region was savage: wastelands, marshes, moors, heath. In 1832, when Georges (later Baron) Haussmann visited the district of Houeillès in the southwest corner of Lot-et-Garonne, he found no road or landmark, and the highway inspector who guided him had to use a compass.2 These were only the petites landes; in the Landes proper, as the proverb had it, birds crossing the moors had to carry their own food. Before 1857, when the planting of stands of pine ushered in the dawn of a new era (but only a dim dawn as yet), references to savagery abound, applied equally to the landscape, the conditions, and the population. Pilgrims en route to Santiago de Compostela feared to cross the Landes because they found there "neither bread nor wine nor fish nor fountain.”3 Indeed, Taine declared that he preferred the desert. When Edouard4 
 
-THE WAY THINGS WERE 
+
 
 Feret published his massive Statistique générale du département de la Gironde in 1874, the draining of marshy Médoc was still within living memory, and many Bordelais remembered the fevers and stagnant waters that justified its original name—in medio aquae. As for the great moors to the south of Bordeaux, they still stood unimproved-savage, waterless, the home of pellagra and fever among a population as wild as its environment.\* +++(5)+++ 
 
@@ -24,9 +24,15 @@ peasant is just that, sin, original sin, still persistent and visible in all its
 
 [[118]]
 
-The popular risings of December 1851 produced their own crop of references: savage horde, a land of savages, barbarians. One does well to remember that to hurl the abusive expression sauvage at someone was considered slanderous and could lead to a fine or even a prison sentence if a case came to court.1o Yet the litany goes on: in the early 1860's the savagery is waning in Nièvre, but it persists into the 1870's in Sarthe, where the "savage" moorland people live like "troglodytes" and sleep near the fire in their huts "on stalks of briar like cats on wood shavings." It persists in Brittany, too, where the children entering school "are like those of countries where civilization has not penetrated: savage, dirty, and don't understand a word of the language” (1880).12 And a musical folklorist ranging the west from Vendée to the Pyrenees compared the local folk to children and savages who, happily, like all primitive peoples, showed a pronounced taste for rhythm.13 As late as 1903, the theme of rural savagery was still being sounded by a professional travel writer, who on a visit to the Limousin, just north of Brive, was struck by the 
+The popular risings of December 1851 produced their own crop of references: savage horde, a land of savages, barbarians. One does well to remember that to hurl the abusive expression sauvage at someone was considered slanderous and could lead to a fine or even a prison sentence if a case came to court.1o Yet the litany goes on: in the early 1860's the savagery is waning in Nièvre, but it persists into the 1870's in Sarthe, where the "savage" moorland people live like "troglodytes" and sleep near the fire in their huts "on stalks of briar like cats on wood shavings." 
 
-A Country of Savages 
+It persists in Brittany, too, where the children entering school "are like those of countries where civilization has not penetrated: savage, dirty, and don't understand a word of the language” (1880).12 
+
+And a musical folklorist ranging the west from Vendée to the Pyrenees compared the local folk to children and savages who, happily, like all primitive peoples, showed a pronounced taste for rhythm.13 
+
+As late as 1903, the theme of rural savagery was still being sounded by a professional travel writer, who on a visit to the Limousin, just north of Brive, was struck by the 
+
+
 
 [[5]]
 
@@ -44,7 +50,7 @@ Incomplete, of course, in terms of a model to which he did not conform, and for 
 
 [[6]]
 
-THE WAY THINGS WERE 
+
 
 like to beasts and children, and one whom even sympathetic observers found decidedly odd. In 1830 Stendhal spoke of that deadly triangle between Bordeaux, Bayonne, and Valence, where "people believe in witches, don't know how to read, and don't speak French." And Flaubert, walking around Rosporden fair in 1846 like a tourist through some exotic bazaar, noted of the peasants around him: "suspicious, anxious, bewildered by everything he sees and doesn't understand, he makes great haste to leave the town."22 However keen his vision, Flaubert made the great mistake of judging the peasant by the way he behaved in town, a place that he came to only when he had to. "Because he finds only people who assume a superior and mocking air with him," explained an observer in Bourbonnais, the peasant was always ill at ease and constrained in town, and superficial observers took this as evidence of "savagery and dissimulation." In effect the savagery was dissimulation, enhanced by surliness. This would be worse in an area like Brittany, where the peasant could not be sure who among the townsmen (apart from small tradesmen and artisans) spoke his language.23 As we shall see, French-speakers there and elsewhere needed interpreters, which did not make for easier communication or mutual understanding. 
 
@@ -52,7 +58,7 @@ Ill at ease in urban settings, the peasant made his urban observers ill at ease;
 
 In the mid-eighteenth century, the famous Encyclopédie had expressed the established view: "Many people see little difference between this class of men and the animals they use to farm our lands; this manner of thinking is very 
 
-A Country of Savages 
+
 
 [[7]]
 
@@ -66,7 +72,7 @@ The peasant was ashamed to be a peasant; he was ashamed to be uncivilized; he ag
 
 [[8]]
 
-THE WAY THINGS WERE 
+
 
 [[9933]]
 
@@ -78,7 +84,7 @@ This sort of question begs its answer, but a precise answer is difficult to form
 
 Typically, the distinguished sociologist Maurice Halbwachs made a survey of life-styles in 1907 that covered 87 households, 33 of peasants, 54 of urban workers, but referred specifically only to the urban group (and even then concentrated mostly on five families of Paris workers) when he presented his data in 1939.35 In this he was no different from the rest of his contemporaries, for whom Parisian life and national life were leagues apart, and only the former counted. Thus, Ferdinand Buisson's great pedagogical dictionary of the 1880's, bible of a generation of schoolteachers, includes neither patois, nor idiome, nor dialecte. Similarly, at the turn of the century the great debate in and around the university turned on whether the teaching of Latin and Greek should take precedence over French, completely ignoring the problems posed 
 
-A Country of Savages 
+
 
 [[9]]
 
@@ -95,7 +101,7 @@ In 1845 Benjamin Disraeli had published Sybil with its perceptive reference to t
 
 IO 
 
-THE WAY THINGS WERE 
+
 
 to the rich and the poor ("the Privileged and the People"), and to the reforms needed to knit a people together. His ideas, or very similar ones, were discussed and sometimes applied at the urban level. But they applied as aptly to France's rural situation--a situation noticed only rarely and by those few whose interest drew them to subjects that the dominant center deemed unimportant. 
 
@@ -109,7 +115,7 @@ Such time lags and the disparities that ensued from different rates of change ar
 
 In July 1789, after news of the fall of the Bastille, mountain peasants of the Saint-Romain region in Mâconnais revolted and carried their spontaneous jacquerie into the plains, which remembered this always as the time of the brigands. The rebels caused great damage-pillaging and burning—until finally put down by the urban militias of Mâcon, Cluny, and Tournus. Many were hanged at the gates of Cluny or in the town square of Tournus. Tradi- 
 
-A Country of Savages 
+
 
 II 
 
@@ -133,7 +139,7 @@ Of course they were not. And the advantages all urban dwellers seemed to have ov
 
 [[12]]
 
-THE WAY THINGS WERE 
+
 
 Nor, as we have seen, did the hostility reflect a clear-cut sense of class divisions. On the contrary, the evidence suggests that peasants distrusted anything with the taint of the town. Around Limoges in the 1840's, young Republicans of the middle classes preached the doctrines of Pierre Leroux, Saint- Simon, Cabet, and Fourier to the local workers, and converted some of them. But neither the burghers nor the workers of the town could get through to the rural masses. Socialist militants trying to indoctrinate the peasantry in patois got a few leagues from town, as far as their legs could carry them in one day, but seem to have had little or no impact.\*9 
 
@@ -148,7 +154,7 @@ In August 1840, when the Conseil Général of Loiret considered a series of ques
 
 songs 
 
-A Country of Savages 
+
 
 13 was the incidence of peasant wealth that when a villager managed to grow rich his success was likely to be attributed to trafficking with the devil or to criminal activity. In 1856 one Catherine Raoux of Ally (Cantal) was caught stealing from the mill where she worked, her employers having been alerted by her "acquisition of a pair of shoes, an umbrella, and two handkerchiefs in quick succession, and the purchase of these items in cash."52 Proverbs and reflect the situation: "When one has nothing, one has nothing to lose," says the Limousin; and "A patched coat lasts longer than a new one." The tale of Hansel and Gretel, abandoned in the woods by parents too poor to feed them, is told in Auvergne about little Jean and Jeannette. The best known bourrée of Auvergne and one of the gayest has a swain wondering how to get married on practically nothing. He has five sous, his love has four, they will buy one spoon, they will buy one bowl, and eat their soup together.+++(5)+++ 
 
@@ -162,7 +168,7 @@ One evidence of poverty, often cited by contemporaries, was the sale of women's 
 
 Extreme poverty could and did persist, of course, even in areas that were not poor: the Allier valley, Lauragais, Beauce, Berry. As an army officer remarked in 1850, after traveling from Clermont to Billom along the Allier valley: "The country itself is rich, the farmers are miserable." The situation was entirely normal, as the passing reflection of an Ariège tax collector on the life of a poor farmer attests: "His occupation allows him to live miserably, like all the working class."56 What did this mean? Many lacked a table, a cupboard, even a chair, bedded down on straw or fern, had practically no clothes. From Yonne this police report on a search of a shoemaker's household: "No bed, no linen, no shirts, just nothing, absolutely nothing!" +++(5)+++ From the stony mountains of Puy, an equally dismal report by a local squire describing the huts, or rather the lairs, where men and beasts huddled together around a feeble fire built of peat and smoking heavily. Only the grandsire had a chair; the father squatted on a stone, the children on the peat blocks that would14 
 
-THE WAY THINGS WERE 
+
 
 provide the next day's fuel. All slept on dried leaves.57 
 
@@ -193,7 +199,7 @@ That the release was often yearned for is attested by the Alpine adage: "heyrous
 
 \* René Dumont, Voyages en France d'un agronome, p. 305. One hectare 10,000 square meters = 2.47 acres. One are 100 square meters = 119.60 square yards. 
 
-A Country of Savages 
+
 
 [[15]]
 
@@ -212,7 +218,7 @@ But the peasant of Bourbonnais feared both, judging by his traditional prayer fo
 
 [[16]]
 
-THE WAY THINGS WERE 
+
 
 not have been much use had they not been aggressive), mad dogs were not always easy to spot and could easily bite several persons before being identified. It is not surprising that Pasteur became such a national hero. 
 
@@ -227,7 +233,7 @@ The greatest fire hazard lay in the thatched roofs that covered so many structur
 
 \*Emile Duché calls this the favorite crime of the lower orders (Le Crime d'incendie, Paris, 1913, p. 33). And Gabriel Tarde notes: "A la campagne, incendier la grange de son ennemi, quand on sait qu'elle n'est pas assurée, est le moyen de vengeance le plus souvent et le plus impunément employé" (Essais et mélanges sociologiques, Lyon, 1895, p. 121). 
 
-A Country of Savages 
+
 
 [[17]]
 
@@ -239,7 +245,11 @@ Hunger and the fear of it were a more constant dread even than fire, the ubiquit
 
 In 1773 a royal official at Foix remarked that the poor "keep more fasts than the Church orders." The nineteenth century had its share of disettes: 1812, 1817, 1837, 1853, and especially the great hunger of 1846-47. In Ariège families ate grass, hungry peasants were "eager to get into prison," mendicancy was chronic, armies of beggars descended into the plains, and to the end of the century, travelers were beset by legions of children seeking alms.68 
 
-Songs and sayings record the wisdom of dearth: "Year of beechnut, year of famine; year of acorns, year of naught." "Bare arse goes along, empty belly goes no more." "Never mind about rags so long as there is food." "Full of cabbage, full of turnips, as long as one is full." And the importance of conserving precious bread: "Hard bread makes a safe house." Warm bread could mean ruin; one ate too much of it. Stale bread encouraged frugality. As Cobb emphasizes, the problems of subsistence-that is, of a minimum substantially below subsistence-level-persisted well into the nineteenth century. Hungry peasants facing a grain shortage behaved as their forefathers had: blockading 
+Songs and sayings record the wisdom of dearth: "Year of beechnut, year of famine; year of acorns, year of naught." "Bare arse goes along, empty belly goes no more." "Never mind about rags so long as there is food." "Full of cabbage, full of turnips, as long as one is full." 
+
+And the importance of conserving precious bread: "Hard bread makes a safe house." 
+
+Warm bread could mean ruin; one ate too much of it. Stale bread encouraged frugality. As Cobb emphasizes, the problems of subsistence-that is, of a minimum substantially below subsistence-level-persisted well into the nineteenth century. Hungry peasants facing a grain shortage behaved as their forefathers had: blockading or plundering convoys of grain.
 
 [[09]]
 
@@ -247,18 +257,26 @@ Songs and sayings record the wisdom of dearth: "Year of beechnut, year of famine
 
 [[18]]
 
-THE WAY THINGS WERE 
 
-or plundering convoys of grain. From the 1830's on, to the end of the Second Empire, ministers, prefects, and sub-prefects kept an anxious eye on crops; and police chiefs reported monthly and sometimes weekly on the state of crops in their area and of grain supplies in general. As the prefect of Loiret recognized in October 1856, distress and want were inevitable "in this season." One could only congratulate oneself if an extreme calamity was avoided. A year when want did not stir up trouble was cause for official comment. In 1854 government measures, public works and aid in Maine-et-Loire kept the countryside calm through a hungry winter and a hungrier spring. "For the first time...a calamitous year will have passed without sedition and almost without muttering," boasted the local prefect.7° 
+
+From the 1830's on, to the end of the Second Empire, ministers, prefects, and sub-prefects kept an anxious eye on crops; and police chiefs reported monthly and sometimes weekly on the state of crops in their area and of grain supplies in general. As the prefect of Loiret recognized in October 1856, distress and want were inevitable "in this season." One could only congratulate oneself if an extreme calamity was avoided. A year when want did not stir up trouble was cause for official comment. In 1854 government measures, public works and aid in Maine-et-Loire kept the countryside calm through a hungry winter and a hungrier spring. "For the first time...a calamitous year will have passed without sedition and almost without muttering," boasted the local prefect.7° 
 
 ## Railways and famine
-Even at this late date, a rigorous winter, a barren spring, a crop failure, could still cause misery and grain riots that called for public works, subsidies, charitable initiatives, and police action. Slowly-but only very slowly-roads and railroads were getting the better of the situation. In 1847 the Orléans Company was ready to proclaim its "glorious satisfaction that the lands along its railway have been spared [not hunger, but] the scenes of disorder that food shortages have caused elsewhere." The directors of the company rejoiced too soon, but the point would be made by others with better reason: Lavergne in 1855, glad that new rail links could stave off a disette even when the price of wheat was high; J. A. Barral in 1884, relieved that with the railway the Limousin was no longer exposed to frequent famines."1 
+Even at this late date, a rigorous winter, a barren spring, a crop failure, could still cause misery and grain riots that called for public works, subsidies, charitable initiatives, and police action. Slowly-but only very slowly- roads and railroads were getting the better of the situation. In 1847 the Orléans Company was ready to proclaim its "glorious satisfaction that the lands along its railway have been spared [not hunger, but] the scenes of disorder that food shortages have caused elsewhere." 
 
-Though provisioning the populace was a continuing problem to the very end of the Empire, there were fewer and fewer food riots, evidence of a growing success in solving subsistence problems. In 1868, a bad year, turbulence marked the hungry months of spring and summer, when the grain from the previous harvest ran out before the new harvest had been brought in. Soaring prices, along with rumors of hoarding and speculation, set off food riots from Manche to Ardèche and Tarn. Serious disturbances broke out at Gaillac and Albi, and magistrates in Toulouse reported the tensest situation in 15 years.72 But this seems to have been the last old-fashioned food crisis. Increased productivity and improved communications together banished the fear of hunger from the public to the private sphere, from the general to the particular level. Dearth, which had ruled social life for thousands of years, became an exceptional event. For clear evidence of how dearth left its impress on society we can look at the most intimate of indexes: between 1836 and 1860 we see a statistically significant correlation between the price of grain and the marriage rate (-0.61); between 1876 and 1900 the correlation disappears (-0.04).73 
+The directors of the company rejoiced too soon, but the point would be made by others with better reason: Lavergne in 1855, glad that new rail links could stave off a disette even when the price of wheat was high; J. A. Barral in 1884, relieved that with the railway the Limousin was no longer exposed to frequent famines."1 
+
+Though provisioning the populace was a continuing problem to the very end of the Empire, there were fewer and fewer food riots, evidence of a growing success in solving subsistence problems. 
+
+In 1868, a bad year, turbulence marked the hungry months of spring and summer, when the grain from the previous harvest ran out before the new harvest had been brought in. Soaring prices, along with rumors of hoarding and speculation, set off food riots from Manche to Ardèche and Tarn. Serious disturbances broke out at Gaillac and Albi, and magistrates in Toulouse reported the tensest situation in 15 years.72 But this seems to have been the last old-fashioned food crisis. 
+
+Increased productivity and improved communications together banished the fear of hunger from the public to the private sphere, from the general to the particular level. Dearth, which had ruled social life for thousands of years, became an exceptional event. 
+
+For clear evidence of how dearth left its impress on society we can look at the most intimate of indexes: between 1836 and 1860 we see a statistically significant correlation between the price of grain and the marriage rate (-0.61); between 1876 and 1900 the correlation disappears (-0.04).73 
 
 Something else, though hard to define, began to disappear about that time: the habitual peasant resignation. The militant Louise Michel remembered what an old woman in her native village had said, recalling a year when profiteers threw the region into famine: "Of course the poor people have to resign themselves to the things they can't prevent!"74 Endure what you can- 
 
-A Country of Savages 
+
 
 [[19]]
 
@@ -279,7 +297,7 @@ The right to work was utopia indeed. The need to work was not. In the northern h
 
 [[20]]
 
-THE WAY THINGS WERE 
+
 
 Royal, for example, could find no better way to mortify themselves than to work in the fields or carve clogs. But in the countryside, where work appeared to be a necessary part of life and where most knew no other way to keep body and soul together, work became a virtue, perhaps the greatest virtue to be found in man or wife. 
 
@@ -289,7 +307,7 @@ Of course, men worked because they had to. "Man works and scrimps," reasoned the
 
 Clearly the prefect of Haute-Vienne could envisage no means of relief from present need or need to come other than drudgery or charity. In 1858 necessity still ruled life, and its hold would relax very slowly. As it relaxed, we hear more references to work as an obligation, a duty to society and to God. Mandatory labor requires increasing justification and defense as it becomes less truly mandatory. Or, rather, as need becomes less ponderous and the obligation to work less stringent. Once it was clear which way the wind was blowing, there was a veritable chorus of comment from outside observers (prefects and other officials, authors of statistics and reports, teachers, priests, and travelers), all in praise of sobriety and the simple life, and deprecating what was most often described as luxury, which is to say, the tendency to live above one's station, trying to eat, dress, act, and even relax as the upper classes did. The earliest references to this regrettable trend were aimed not at the peasants but at the urban workers, too quick to "adopt the ways of the idle class." 
 
-A Country of Savages 
+
 
 [[21]]
 
@@ -305,7 +323,7 @@ By the 1890's Baudrillart had to marvel at the luxury and rising standard of liv
 
 [[22]]
 
-THE WAY THINGS WERE 
+
 
 us a clue, for by this time the standards of mid-century had so changed that what had once constituted a comfortable living was now felt to be a relatively spare and spartan existence. Théron de Montaugé saw the point clearly as early as 1869: the more the general well-being improved, the higher the poverty line. 
 
