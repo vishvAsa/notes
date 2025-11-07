@@ -2,6 +2,11 @@
 title = "2025 trump actions"
 +++
 
+## Forecast - tearing apart?
+Source: [TW](https://x.com/blog_supplement/status/1986632412739100758)
+
+It is quite possible that the xenophobic MAGA core will tear apart their coalition and bring down the hastin-s in the process. The question is how much of the navyonmAda, kR^iShNArAdhana, ShaNDamati and the like return with the gardabha-s. It is also possible that eventually the tech bros turn against the core MAGA and dump the hastin-s. That would be a good thing. Some people see everything by working out the theory and its predictions through observations. Some people need a "lived experience" of the theory before they can learn it. Perhaps, viveka will be in that category of learning it the hard way. Some here from our own pakSha want to dump on him for that. It may seem foolish, but they should stand by him for either way it will be a good thing.
+
 ## preta nationalist takeover
 Just as the ShaNDa-s realized that they could take control of piNDaka and run the state on his behalf, a xenophobic preta nationalist cabal realized that they could do the same with nAri~Nga with anUpa as their frontman. Thus, we are squarely in the age of rule by puppet mlechCharAT-s in mahAmlechCha politics.
 
