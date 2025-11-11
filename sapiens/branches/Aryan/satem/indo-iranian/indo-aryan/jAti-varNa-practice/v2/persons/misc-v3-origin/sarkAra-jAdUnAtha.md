@@ -19,3 +19,12 @@ He regularly exercised too. In his Bengali self-reflection ‘Smṛti o Anubhava
 He made a policy not to comment publicly on contemporary politics, and not get close to politicians. In private he was certainly critical of Gandhi/Nehru as well as Bose. In a letter to RC Majumdar he says tellingly on what he thought of these people and where they would take India. 
 
 Towards the end of his days, he was very troubled mentally and financially because of untimely tragic deaths of his two sons, one daughter and two sons-in-law — all in quick succession. In advanced age of 80+ he and his wife were caring for their many parent-less grandchildren. 
+
+## Discrediting effort
+Left academia left no stone unturned to discredit Sir Jadunath Sarkar.
+
+In 1958 — the same year Sarkar died — Irfan Habib submitted his doctoral thesis on Mughals. Therein Habib did his best to either ignore or minimize Sarkar, or emphasize his mistakes in translations etc - without noting that Sarkar had himself readily admitted his difficulty in translating the source from a single and defective manuscript that he had found.
+
+Leftists - from Sarvepalli Gopal to Satish Chandra - worked overtime to discredit Sarkar as a pro-british non-historian.
+
+(snippets - Dipesh Chakraborty, Calling of History)
