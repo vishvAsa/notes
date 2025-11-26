@@ -2,8 +2,10 @@
 title = "+चक्रवर्ति-कुलम्"
 +++
 
-## नल्लान्-चक्रवर्ती
-Tirumalai Nallan Chakravarti was a sishyA of Ramanuja and is said to have converted even some hunters into Sri Vaishnavaites. These hunters were the ones who helped our Sri Ramanuja when he was in exile due to the atrocities commited by the KrimikanTa chOlan. On seeing their bhakthi when Sri Ramanuja asked them as to who taught them all these things, they replied that it was their AchArya by name Thirumalai nallAn, for which Sri Ramanuja said "nallAn enRa kALamEgham ippadi varshikkiradhE" (The dark cloud named 'nallAn' is pouring the grace and the bhakthi in a great manner so that everyone is benefitted).
+## चक्रवर्ति-कुल-शाखाः
+केचित् तिरुपति-क्षेत्रं गताः, केचिद् ग्रामान्तरम्।  
+६-तमाहोबिलयतिस् तत्र तत्राग्रहारान् स्थापयित्वा पुनः पल्लवदेशे विकिराञ् चकार। 
+
 
 ## श्रीरङ्ग-महागुरुः
 - पिता - Tirumala-charya Nallanchakravarthy । माता रुक्मिणी।
