@@ -19,3 +19,5 @@ unicode_script: devanagari
 
 - lozenges
 
+## Sleep
+Gently move head, shift sleeping postures, use kerchiefs and sleep.
