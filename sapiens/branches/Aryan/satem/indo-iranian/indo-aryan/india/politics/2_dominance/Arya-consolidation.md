@@ -4,6 +4,8 @@ title: Arya consolidation
 
 
 ## Spread within India
+> I agree with tradition that there was initially an ikShvAku imperial unification even if shortlived prior to the kuru-pa~nchAla one. - MT
+
 - From baudhAyana and manu, it is clear that kuru-pAnchAla realm was where major brAhmaNa vedic consolidation happened. Gradually, this culture and its carriers (mainly in the form of brAhmaNa-s) spread elsewhere in India and beyond. {[GA_17](https://twitter.com/GhorAngirasa/status/926791318109429761)}
   - baudhAyana-dharma-sUtra implies that vaidika karma-s can only be conducted in the "madhya-desha", not even in kalinga, vanga, AraTTa, gAndhAra etc.. - going where expiation is required \[[TW](https://twitter.com/GhorAngirasa/status/874755837155082240)\]. Yet, we observe baudhAyana-s and vaidika-s in kerala and TN.
   - "Almost none of the elite definitions: brahmavarta, brahmaRSidesha or madhyadesha. That region is indeed sacred for all Hindus today but there was a time when it was not held in high esteem by the kurupa~ncalas/madhyadeshis. In the baudhAyana shrauta sUtra, right after choosing the priests for his yaj~na, a yajamAna has to "deposit" all evils & illnesses in him in various "safe" places which were deemed suitable for storing those undesirable elements - It starts, "my anger in a lion, hunger in wolf..." & later has "may my bile (excess) settle among ikSvAkus & elephantisis among videhas"!!"
