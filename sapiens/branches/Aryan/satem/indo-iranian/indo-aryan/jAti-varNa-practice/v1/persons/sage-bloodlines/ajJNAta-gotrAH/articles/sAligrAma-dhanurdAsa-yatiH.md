@@ -5,7 +5,7 @@ title = "SAligrAma dhanurdAsa yatiH"
 Maternal great grandson of Karpangadu venkatacharyar swamy.
 
 ## viraktiH
-Was an IT pzerson abroad. Had 2 kids with a vaDakalai shaThamarShaNa family wife.  
+Was an IT person abroad. Had 2 kids with a vaDakalai shaThamarShaNa family wife.  
 Disagreement over vedAdhyayana led to break up.
 
 ## shrIranga-vAsaH
