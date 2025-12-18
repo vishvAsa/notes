@@ -11,6 +11,15 @@ title = "+Version Control"
 ## git
 <div class="spreadsheet" src="../git.toml" fullHeightWithRowsPerScreen=8> </div>  
 
+<details><summary>Common tasks</summary>
+
+```
+git submodule add --depth 1 https://github.com/sanskrit-coders/sanskrit-documentation-theme-hugo themes/sanskrit-documentation-theme-hugo
+```
+
+</details>
+
+
 ### Remember credentials
 `git config --global credential.helper store` avoids needing to retype credentials each time.
 
@@ -19,11 +28,20 @@ title = "+Version Control"
 
 ### Splitting subdir to differnt branch and including it
 ```
-git subtree split --prefix=subdir_path -b some_branch
+git subtree split --prefix=content -b some_branch
 git push origin some_branch
 git rm -rf subdir_path
 git submodule add -b some_branch -f https://github.com/XYZ/UVW subdir_path
 ```
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+git subtree split --prefix=content -b content
+git push origin content
+git rm -rf content
+git submodule add -b content -f https://github.com/vishvAsa/gItam_vaiShNavam content
+</details>
+
 
 ### Large pushes
 
