@@ -12,7 +12,7 @@ Lieutent colonel william kirkpatrick
 
 
 ## Haidar
-Shamaiya had met Hyder when he was a young man. He rose to the height of his power when he was appointed as the head of the post office and police which also served many other functions (Anche Guritana) in 1776 (Some historians put this date at 1779) after helping catch a corrupt official in hiding who had run off with significant money from the state treasury who is referred to as Anche Thimmaih. It is said he used his agents and network of emissaries to track him down and bring him back to face justice.
+Shamaiya had met Hyder when he was a young man. He rose to the height of his power when he was appointed as the head of the post office and police which also served many other functions (Anche Guritana) in 1776 (Some historians put this date at 1779) after helping catch a corrupt official in hiding who had run off with significant money from the state treasury who is referred to as Anche timmayya. It is said he used his agents and network of emissaries to track him down and bring him back to face justice.
 
 He was honoured with an umbrella, medal, pearl necklace, received 5000 varahas as reward and 1000 varahas as allowance from Hyder Ali. Shamaiah enjoyed great success as an all round administrator during the time of Hyder. It was said that shamaiah was so trusted and an important figure that all courtiers except shamaiah were to compulsorily attend Tippoos wedding. Shamaih was left free to look after the affairs of the state even when the most important nobles and administrators were forced to attend the wedding. Shamaih was the only Hindu allowed to wear the mohammeden elite noble green headdress and ride on a palanquin during the time of Hyder.
 
