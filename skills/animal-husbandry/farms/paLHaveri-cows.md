@@ -4,7 +4,7 @@ title = "PaLHaveri farms"
 
 (Palaveri village near kAnchIpuram, till 1991.)
 
-
+## Food and mating
 Most village houses had cows.  
 They were fed grass from a nearby patch in the morning;  
 and later they were driven to a large common pasture outside the village, followed by cowherds.  
@@ -16,9 +16,15 @@ she made a peculiar sound in the morning.
 Then, they would send their cows with the other cattle to the large pasture;  
 where they would get impregnated naturally.  
 
+## Exchange and donation
+The farmers used bulls and oxen for ploughing and load-bearing.  
+v1s usually did not need them - so they would give away male offspring to others; occassionally receiving a cow in return.
+
+## Death
 Old cows were fed till they died, then they were buried outside the village.
 
 The kine used to drink water and be bathed when needed from the far side of the rain-fed village lake. 
 
+## Sacredness
 Cows and calves were never slaughtered or sold for slaughter.  
 People used to go around cows in a pradaxiNa manner when they encountered them.
