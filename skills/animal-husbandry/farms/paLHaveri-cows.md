@@ -1,5 +1,5 @@
 +++
-title = "PaLHaveri farms"
+title = "PaLHaveri cows"
 +++
 
 (Palaveri village near kAnchIpuram, till 1991.)
