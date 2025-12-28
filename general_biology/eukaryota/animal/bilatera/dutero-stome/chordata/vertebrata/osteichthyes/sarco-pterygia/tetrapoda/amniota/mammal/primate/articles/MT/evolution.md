@@ -14,4 +14,6 @@ Source: [TW](https://x.com/blog_supplement/status/2004604972542173188)
 
 From around 56 to 34 million years ago, North America was a lemurian paradise with a diversity of lemur-like (adapiform) and tarsier-like (omomyoid) primates that went entirely extinct. Barring one migrant that might have reached around 30-26 Mya from East Asia, there were no primates thereafter until Homo sapiens invaded the continent 10s of thousands of years ago.
 
+The first extinction of the primates in North America is correlated with the mass loss of forest habitats and the emergence of more open grassy landscapes. This in turn is correlated with a global cooling and build up of ice. Why that happened is not clear.
+
 Between 30-26 million years back, about 5 million years after the primates had gone completely extinct in North America, a mysterious primitive primate Ekgmowechashala appeared in the Midwest and Western USA from Asia. It briefly established the primates on the continent once more before going extinct again. It may have been more distantly related to the lemur-like form Sivaladapis from the Indian Sivaliks
