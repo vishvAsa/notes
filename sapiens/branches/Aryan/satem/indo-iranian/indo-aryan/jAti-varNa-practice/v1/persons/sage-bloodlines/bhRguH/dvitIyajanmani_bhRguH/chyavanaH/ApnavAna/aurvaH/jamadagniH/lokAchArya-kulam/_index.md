@@ -9,3 +9,5 @@ title = "+LokAchArya kulam"
 अयः प्रवादः प्रमाणहीनः श्रूयते -
 
 >  लोकाचार्यैः श्रीरङ्गे म्लेच्छोपद्रवे संपन्ने भगवत्सन्निधौ पुष्पं समर्प्य  दिव्यमङ्गलविग्रहस्य आलयात् बहिर्गमनं युक्तं  आलये स्थापनं वा युक्तमिति नियमनप्रश्नकाले आलये स्थापनमेव वरमिति आगतम्। परन्तु  तन्नियमनमतिक्रम्य बहिर्गमनात्  तस्य मध्ये मार्गं प्राणवियोगस्समजनि। 
+
+> Pillai Lokacharya left Srirangam with Sriranganatha, he was once again almost 100... 110 plus anyway. As per their record it is 118. He was born in 1205, he died in 1323.

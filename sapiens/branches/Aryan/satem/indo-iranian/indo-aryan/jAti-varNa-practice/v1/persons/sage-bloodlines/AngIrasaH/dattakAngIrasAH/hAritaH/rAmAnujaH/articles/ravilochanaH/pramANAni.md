@@ -20,34 +20,63 @@ Earliest acharyas did not connect Krimikantha with Kulottunga II - So, claiming 
 Back to Yatiraja Vaibhavam. The only anachronistic thing that can be claimed abt it - is that it refers to Ramanuja bringing from Ramapriya murti from Delhi. These days, it is said that he brought the murti back from a Sultan's palace & that his daughter merged with the Lord. There was no sultan in Delhi at that time. And despite what some may want to argue, there is no evidence for any M incursion into Karnataka from Islamic states during the 11th century. But once again, YV proves to be very different compared to other texts. YV doesn't say that the ruler of Delhi was a Muslim or a Mleccha. It simply says ruler of Delhi. None of the other early texts claim that the ruler was a Muslim either. This opinion seems to have cropped up in later era when Delhi became Sultanate iconoclasts' capital
 
 ## Earliest inscriptions
+
+### viShNuvardhana 1111
+There is an inscription of Vishnuvardhana in srirangam belonging to the year 1111 ce which matches with the return of ramanuja from melkote after 12 yrs (his entry in melkote was in 1098 as per traditional claims). 
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+rAmAnuja was extremely old during exile (81-93 years).
+</details>
+
+
+
+Belur temple inscription shows that the temple was built in 1117ce or so.
+
+All this supports the date of ramanuja and his exile into karntaka prior to 1133ce.
+
+
+### Kodai Ravivarman 1156
 Earliest clear reference to Sri Ramanuja in an epigraph comes from inscription dated 19th Nov 1156 CE in Srirangam temple. A Southern Kerala ruler, Kodai Ravivarman had offered lamp and camphor to the Lord as per orders of Emperumanar (a title of Sri Ramanuja). Per tradition, Ramanuja attained paramapada in 1137 CE. 
 
 While the inscription says that the offering is as per Ramanuja's orders, it doesn't necessarily refer to him as alive during that year. Rather the words seem to indicate past order being given effect.  
 Also, the inscription merely says that he fulfilled an order/advice/wish of ramanuja. Iirc, the words are emperumananar thiru-ullappadi.. or something like that.  
-It is also possible that it was his wish and the venad ruler came to know about it during his visit in  1156 when he fulfilled it. (Venad was not exactly on good terms with cholas and it is not easy to do this when the diplomatic relations are not so good.)
+It is also possible that it was his wish and the venad ruler came to know about it during his visit in 1156 when he fulfilled it. (Venad was not exactly on good terms with cholas and it is not easy to do this when the diplomatic relations are not so good.)
 
 (Quite interesting fact is that this offering was made by Venad (Southern Kerala) ruler whose descendants are the current Travancore Royal family.) 
 
+#### Ilaiyazhvaan in toNDanUr
 The only possible earlier reference to Ramanuja is from Tondanur (Kere Tonnur) in Karnataka. The epigraphy is in 12th century characters and refers to the donee being a sishya of Ilaiyazhvaan (a Tamil Sri Vaishnava word for Ramanuja/Lakshmana). Name of the year is lost due to time but we can read that the tithi was amavasya with Anuradha star on Thursday. Amavasya in Anuradha can happen in Tamil months of Karthigai-Margazhi-Thai. 
 
+### toNNur 1135?
 There is another inscription of 1135 CE referring to a Tamil couple offering donations in Tonnur in Margazhi month. It is seen that Amavasya of Margazhi in that year does match the inscription. 5th Dec 1135 - Margazhi Amavasya with Anuradha star and Thursday. If this is indeed the date of the inscription, then it might be the earliest datable reference to Sri Ramanuja in an epigraph. But the lack of year name or number is a problem.
 
+## Indologist speculation
 > The traditional date of Rāmānuja’s death, 1137 CE, is now widely regarded - see Carman \(1974: 27\) and Young \(2007: 236\) - as 30 or 40 years too early.
 
-30-40 yrs too early is just a 'subjective' opinion unsubstantiated by anything solid. There is an inscription of Vishnuvardhana in srirangam belonging to the year 1111 ce which matches with the return of ramanuja from melkote after 12 yrs (his entry in melkote was in 1098 as per traditional claims). Belur temple inscription shows that the temple was built in 1117ce or so. All this supports the date of ramanuja and his exile into karntaka prior to 1133ce.
+30-40 yrs too early is just a 'subjective' opinion unsubstantiated by anything solid.
 
-The only claim that they to 'establish' a later date for ramanuja is an inscription in srirangam from 1155/56 ce where it is mentioned that a venad ruler gave a golden lamp to srirangam temple as per the advice of emperumanar. Some indologists take it to mean that ramanuja was alive at that time. Which they substantiate with a 15th century guruparampara text which gives the year of completion of sribhashyam as 1156 or so. Now, this GP text has several other errors in dates (including major errors like year name and saka year number not matching - missing by a decade or so). So the GP text written four centuries later cannot be taken seriously. 
+The only claim that they to 'establish' a later date for ramanuja is an inscription in srirangam from 1155/56 ce where it is mentioned that a venad ruler gave a golden lamp to srirangam temple as per the advice of emperumanar. Some indologists take it to mean that ramanuja was alive at that time.
+
+Which they substantiate with a 15th century guruparampara text which gives the year of completion of sribhashyam as 1156 or so. Now, this GP text has several other errors in dates (including major errors like year name and saka year number not matching - missing by a decade or so). So the GP text written four centuries later cannot be taken seriously.
 
 The inscription itself doesn't say that ramanuja was alive at the time. It could as well be a reference to an older order/advice. Otoh the dates of Belur inscription, srirangam inscription as well as inscription from 1135 ce which refers to Ramanuja in Karnataka disproves all these attempts to date ramanujas birth to 1100ce
 
+
+
 ## On Nagaswamy's work
-Nagasamy has made many omissions and commissions in his life. His work on Ramanuja is a combo of both. That Kulottunga II removed Govindaraja from Srirangam is attested by his court poet. Kuresa confirms persecution of Ramanuja in his work. As for Nagasamy's lack of objectivity one just has to see how he treats the requirements of epigraphs wrt Ramanuja vis a vis Sankara.
+Nagasamy has made many omissions and commissions in his life. His work on Ramanuja is a combo of both. As for Nagasamy's lack of objectivity one just has to see how he treats the requirements of epigraphs wrt Ramanuja vis a vis Sankara.
 
 Of course, he had also stated that Ramanuja was alive in 1156 CE based on a Srirangam epigraph. If accepted, then one can argue that Kulottunga II & Krimikanta are one. I don't agree with such a view either.
 
-Vishnuvardhana was in Srirangam in 1111CE (12 yrs after Ramanuja entered Melkote) - which coincides with Ramanuja's return to the holy town. So Kulottunga II & Krimikantha are not one.
+### Kulottunga II & Krimikanta
+Vishnuvardhana was in Srirangam in 1111CE (12 yrs after Ramanuja entered Melkote) - which coincides with Ramanuja's return to the holy town. So Kulottunga II +++(being later)+++ & Krimikantha are not one.
+
+That Kulottunga II removed Govindaraja from Srirangam is attested by his court poet.  
+Kuresa confirms persecution of Ramanuja in his work.
 
 Finally, some persecution of Vaishnavas by Kulottunga II is indirectly confirmed by his son whose meikeerthi says that he uplifted the Vaishnava faith which had fallen. Said son was also a Shaiva by faith. But he stopped persecution of Vaishnavas as per near contemporary texts which is confirmed by this meikeerthi as well.
+
 
 ## Ramanuja and viShNuvardhana
 As per tradition, Ramanuja's disciple Mudaliyandan/Dasarathi was appointed by the Acharya to consecrate the Panchanarayanas established by Vishnuvardhana. Belur Chennakesava was consecrated on 10th Mar 1117 CE - on caitra sukla pancami tithi. Date is given in an inscription of Vishnuvardhana - see Epigraphia Carnatica Vol 5 Page 134 (Belur inscription no.58). Vishnuvardhana's inscription is found in Srirangam temple dated to 1111CE (12 years after Ramanuja's entry into Melukote) as per tradition.
@@ -57,7 +86,7 @@ We know that Ramanuja most probably left Srirangam ca.1070 CE. The belief that h
 Srirangam inscription also holds 1111 CE as 15th year of Vishnuvardhana's reign. So, he must have been co-ruler or heir apparent or at least ruler of a portion of the Hoysala territory from 1096 CE. This confirms story about VV being ruler when Ramanuja reached Melkote. Presuming that VV accompanied Ramanuja on his trip back to Srirangam in 1111CE after 12 yrs in Melkote - Ramanuja seems to have visited Karnataka again in 1117CE for the consecration of Pancanarayana temples. Perhaps a short visit - Yatiraja Vaibhavam is silent about this visit.
 
 ## pANDyan connection
-- The Pandyas are known to have conquered Mangalore in the 8th century. The Alupas from that period seem to have been descended from the Pandyas who were placed to govern that place. Their descendants even proclaimed their connection to Madurai in their inscriptions.
-- The Pandya-Alupa Dynasty also has an interesting connection with Ramanuja's date. It is known that a Pandya Manabharana was a sishya of Nanjiyar - a Sri Vaishnava acharya who lived in later half of 12th century. That there was a Jatavarma Srivallabha who ruled from Madurai in the 12th century and he had a son named Manabharana - is known from Rajasingamangalam inscription (South Indian inscriptions Vol 14 no.225). Some consider this Manabharana as the father in law of Kavi Alupendra.
-- But it is known that there was a Manabharana who was elder brother of a Srivallabha. This Manabharana was son of a Sinhala princess Matti and he also married his uncle's daughter, another Sinhala princess. Matti was sister of Vijayabahu who ruled during 1055-1110 CE. Matti's son Manabharana married a daughter of Kulottunga I. It is also seen that the Jatavarman Srivallabha mentioned above reconfirmed a donation from 31st year of Kulottunga's reign during his own 10th year of reign (SII Vol 14, no.226). The Srirangam inscription of Vira Kavi Alupendra refers to his father in law Manabharana as Chozhakulantaka and Madhuradhisvara. This Manabharana cannot be son of Srivallabha. Rather he must be the elder brother of Srivallabha - who married Kulottunga's daughter.
+It is known that a Pandya Manabharana was a sishya of Nanjiyar - a Sri Vaishnava acharya who lived in later half of 12th century. 
+
+
 
