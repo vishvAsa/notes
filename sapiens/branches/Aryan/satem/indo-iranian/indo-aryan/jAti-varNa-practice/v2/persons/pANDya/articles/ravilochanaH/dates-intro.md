@@ -1,5 +1,5 @@
 +++
-title = "Ravilochana dates"
+title = "Dates intro"
 +++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -18,7 +18,10 @@ His successor was Jayantavarman. He's called in Tamil as Sendan.
 
 
 ## Arikesari Parankusa mAravarmA nAyanmAr
-Jayantavarman's son is a mAravarmA, considered a nAyanmAr. This Nedumaran started ruling only after 700.  There is one stone inscription which talks about his 50th year of reign.
+690 to 740 CE (Ravilochana)  
+Wrong - 650-700 CE (nAgasvAmI)
+
+Jayantavarman's son is a mAravarmA, considered a nAyanmAr. There is one stone inscription which talks about his 50th year of reign.
 
 ### nammALHvAr
 mAran/ parAnkusha/ nammALHvAr likely named after him by his father the courtier.
@@ -39,21 +42,45 @@ And this battle was fought during the reign of Pallavamalla the... Pallavamalla 
 
 
 ## Chadaiyan Ranadhira
+740 to 744 CE (Ravilochana)
+
 some of these Pandya rulers, they claimed themselves as rulers of all the three nations, Chola, Chera, Pandya.  Ranadhiran was the son of this Parankusa Maravarman. 
 
-### Post rAjasiMha
-Now Ranadhira claims to be so, but the point, problem is these people are giving Ranadhira the time of Rajasimha Pallava. But Rajasimha was a very strong Pallava ruler. Chola Nadu was completely under his control. There is no evidence for Rajasimha having lost Chola Nadu ever.
+### pallavamalla time
+Now Ranadhira claims to be ruler of choLa nADu, but the point, problem is these people are giving Ranadhira the time of Rajasimha Pallava. But Rajasimha was a very strong Pallava ruler. Chola Nadu was completely under his control. There is no evidence for Rajasimha having lost Chola Nadu ever.
 
+Should be dated to the early years of Pallavamalla
 
-- Maravarman Rajasimha I
+## Maravarman Rajasimha I
+744 to 768 CE (Ravilochana)   
+730-768CE (nAgasvAmI [TW](https://tamilartsacademy.com/articles/article08.xml))
+
+praised as Pallavabhanjana in the Srivaramangalam Copper Plates
 
 ## vara-guNa-pANDya, jaTila-parAntaka
-He calls himself parama-vaiShNava. His rule was from 768 till 815 or so. Earlier there used to be some confusion but the Dalavaipuram copper plates have made it very clear that Jatila Parantaka and Varaguna the first are one and the same.
+768 to 811/15 CE (Ravilochana)
+
+He calls himself parama-vaiShNava. His rule was from 768 till 815 or so. Earlier there used to be some confusion but the Dalavaipuram copper plates have made it very clear that Jatila Parantaka and Varaguna the first are one and the same. Contrafactually, there are those who consider Jatila Parantaka and Varaguna I to not be the same rulers but two different rulers with former's reign being 768-790 CE and latter from 790-815CE.
+
+
 
 ## Srimara Srivallabha, vara-guNa
+811/15 to 862 CE (Ravilochana)
+
 after him comes Srimara Srivallabha.
 
+## vara-guNa
 His son, **vara-guNa** the second who ruled from 862. This Varaguna the second indeed calls himself a Shaiva. And he was the person who was brought up a lot by Manikkavasagar but then he lost the battle against the Cholas.
+
+Initially, there seems to have been a peaceful relationship between Varaguna Pandyan and Nandivarma III of the Pallava dynasty as evidenced from the inscription in Lalgudi which is dated to the 5th regnal year of Varaguna’s reign (867CE).
+
+<details><summary>shaivist invention (द्रष्टुं नोद्यम्)</summary>
+
+shaivists want to make a difference between Jatila Parantaka and Varaguna the first. He keeps Jatila Parantaka till 790 or 800 and then brings Varaguna the first inside. He claims that the Varaguna who is mentioned by Manikkavasagar is the Varaguna the first who is who was a Shaiva who lived in 800.
+
+They invent a Varaguna rather who lived before this Shaiva Varaguna who lived before this Srimara Srivallabha.
+</details>
+
 
 
 ## alUpa connection

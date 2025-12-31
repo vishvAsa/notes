@@ -86,7 +86,7 @@ We know that Ramanuja most probably left Srirangam ca.1070 CE. The belief that h
 Srirangam inscription also holds 1111 CE as 15th year of Vishnuvardhana's reign. So, he must have been co-ruler or heir apparent or at least ruler of a portion of the Hoysala territory from 1096 CE. This confirms story about VV being ruler when Ramanuja reached Melkote. Presuming that VV accompanied Ramanuja on his trip back to Srirangam in 1111CE after 12 yrs in Melkote - Ramanuja seems to have visited Karnataka again in 1117CE for the consecration of Pancanarayana temples. Perhaps a short visit - Yatiraja Vaibhavam is silent about this visit.
 
 ## pANDyan connection
-It is known that a Pandya Manabharana was a sishya of Nanjiyar - a Sri Vaishnava acharya who lived in later half of 12th century. 
+A pandya prince was sishya of nanjiyar as he heard his discourse in Srirangam. As recorded in eedu. And it is not manabharana in the original either. It is presumed to be manabharana by sri vaishnava sri krishnamacharya.
 
 
 
