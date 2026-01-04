@@ -2,6 +2,38 @@
 title = "Date"
 +++
 
+## Video presentations
+ANDAL of tiruppAvai, periyALvAr/ viShNuchitta, mANikkavAcakar, appar .. shaiva fraud chronology
+
+Source: [TW](https://youtu.be/fK1WXODxJP8)
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Credits to ravilochanan Iyengar for guidence
+
+00:00 - Intro
+01:45 - tiruppAvai day
+04:45 - Parameters - dhanur-mAsa, full moon
+07:45 - Parameters - chirping birds, twilight
+11:00 - Parameters - Jupiter and venus
+15:00 - Parameters - periyALvAr's loss of godA, reference to neDumAran pANDya
+17:40 - Parameters - vallabhadeva of guru-paramparA-prabhAva
+18:50 - Parameters - pANDya dynasty chronology
+21:00 - Parameters - Should precede nAthamuni
+23:00 - 696 CE fits astronomically
+26:10 - 696 CE fits neDumAran arikesari mAravarma parAnkusha nAyanmAr
+30:36 - 886 CE, 861 CE - astronomical misfits https://x.com/tskrishnan/status/2005103432924069938
+32:30 - JayashrI sAranAthan's BCE dates https://x.com/jayasartn/status/2005818329672605993
+33:36 - No neDumAran in 886.
+35:25 - Crooked shaivas want to place mANikkavAchaka's tiruvempAvai before tiruppAvai.
+38:00 - Intro to ravilochana iyengar
+39:30 - Propert pANDya dynasty dates
+41:30 - jnAnasambandhar, appar/ tirunAvukkarasar, paranjyotiSh times
+43:10 - shaiva biased archeologist nAgasvAmi / nAgaswami mistranslates a verse about mahendravarma pallava, and shaiva-s begin "correcting" periya-purANa to say guNa-bhara instead of guNa-dhara
+44:45 - Good Hindu astronomy channel - https://www.youtube.com/@RavindraGodbole
+</details>
+
+
 ## Data
 ### धनुर्-मासः, पूर्ण-चन्द्रः
 Entire tiruppAvai is about 1 day.
@@ -15,14 +47,18 @@ Entire tiruppAvai is about 1 day.
 
 ### उषसि पक्षिणः
 > पुळ्ळुं+++(=पक्षिणोऽपि)+++ शिलम्बिन काण्  
+> 
 > बाले त्वं **न शृणोषि** किं खग-रुतान्य्,
 > 
-> कीशु कीश् ऎन्ऱ् ऎङ्गुं आनैच्चात्तन्,  
+> कीशु कीश् ऎन्ऱ् ऎङ्गुं आनैच्-चात्तन्,  
+> 
 > त्वं कीचुकीचीत्य् अमून्
 
 > कीऴ्+++(=पूर्व)+++वानं+++(=खं)+++ वॆळ्ळ्+++(=बॆळ्ळ्)+++ ऎन्ऱु,
 > 
 > **दृष्ट्रवा** प्राच्यां प्रकाशं, तद्-अनु यदु-वरैर् **मुच्यमाना** महिष्यः,
+
+> शिट्रं+++(=अल्पं)+++-शिऱु+++(=किरु)+++-काले वन्द् उन्नै सेवित्तु +++(नमनेन)+++
 
 nautical twilight (eastern sky brightens, Sun is between 6° and 12° below the horizon, limited stars)  
 between Astronomical twilight (Sun is between 12° and 18° below the horizon), and civil twilight. 
@@ -49,7 +85,7 @@ Caveat - The particular Astronomical sight inspiring the poetess is probable, bu
 viShNuchitta / periyALvAr describes his lost daughter (DP_२९९) - 
 
 > ऒरु मगळ् तऩ्ऩै उडैयेऩ्, उलगम् निऱैन्द पुगऴाल्  
-तिरुमगळ् पोल वळर्त्तेऩ्, सॆङ्-गण्-माल् ताऩ् कॊण्डु पोऩाऩ्,
+तिरु-मगळ् पोल वळर्त्तेऩ्, सॆङ्-गण्-माल् ताऩ् कॊण्डु पोऩाऩ्,
 
 > I have only one daughter  
 and I raised her like Lakshmi, the beautiful goddess:  
@@ -83,7 +119,7 @@ So, yAmuna was born around 937.
 So, his grandfather nAthamuni must have preceeded 880.  
 To make viShNuchitta and ANDAL contemporaneous with the compiler of their texts, nAthamuni, would be nonsensical.
 
-## 696 पक्षः
+## 696 CE पक्षः
 guru sets at the beginning of nautical twilight (sun being about 11.5 deg below horizon).
 
 #### mAravarmA

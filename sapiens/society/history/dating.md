@@ -21,3 +21,8 @@ Tree ring dating
 
 ## Genetic dating
 Graham Hancock's theory about lost ancient Pleistocene civilizations which seeded future civilizations - Razib points out that as a geneticist, we would see a record of this in the genomes of domesticated plants or animals. But we don't see it (except in dog), ruling out "lost civilizations."
+
+## Inscriptions
+
+### Backdating
+Which is the earliest inscriptional attestation of "kali-yuga"?  Let us say it's 100CE. If so, one must ask - "why is there no inscription for thousands of years since the start of kali?" One solution would be that this "kali yuga" start date represents merely the consensus of latter day people who wanted to backdate the mahAbhArata.

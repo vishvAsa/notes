@@ -12,8 +12,6 @@ Full Article due to be published by C.P. Ramaswamy Aiyar Institute in 2026.
 defeats the Kalabhras.
 
 ## avanI-chUDAmaNi-mAravarmA
-(Likely referred to by periyALvAr.)
-
 His successor was Jayantavarman. He's called in Tamil as Sendan.
 
 
@@ -64,7 +62,7 @@ He calls himself parama-vaiShNava. His rule was from 768 till 815 or so. Earlier
 
 
 
-## Srimara Srivallabha, vara-guNa
+## Srimara Srivallabha
 811/15 to 862 CE (Ravilochana)
 
 after him comes Srimara Srivallabha.

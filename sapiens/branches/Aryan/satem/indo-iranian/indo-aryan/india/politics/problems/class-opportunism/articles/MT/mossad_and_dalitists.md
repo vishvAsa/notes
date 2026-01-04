@@ -2,7 +2,10 @@
 title = "Mossad and Dalitists"
 +++
 
-I don't know what karikaDaipayyan posted 🙂. But here is something that the younger generation often ignores. In the 1980s/90s the jewish agency, Mossad, informed the Indian intelligence that the Indian state faced a grave danger from the nIladrApi's putraka-s. Now at that point in time the 1st responders of the Mossad in the subcontinent were limited. So it was not a case of the Mossad threatening the Ind int but passing some information either in return for something or because it was of low value to them. So the question becomes whom did they get it from & who were the ones building up the anuyAyin-s of the said entity. 
+I don't know what karikaDaipayyan posted 🙂. But here is something that the younger generation often ignores. In the 1980s/90s the jewish agency, Mossad, informed the Indian intelligence that the Indian state faced a grave danger from the nIladrApi's putraka-s. (IIRC in the 1980s-1990 and conveyed to B.Raman or R. Kao. You can find it B.Raman's reminiscence)
+
+
+Now at that point in time the 1st responders of the Mossad in the subcontinent were limited. So it was not a case of the Mossad threatening the Ind int but passing some information either in return for something or because it was of low value to them. So the question becomes whom did they get it from & who were the ones building up the anuyAyin-s of the said entity. 
 
 It was not something superficial, because we know how the faux mahAtman at the peak of this following had to come to the table with nIladrApi. Subsequently, his kAshmiraka disciple also had to capitulate to the said entity & try to accommodate him in a manner no different from the padma-s of today. What it means is that even before independence the Indian leadership knew that with nIladrApi, they had built up a potential large force who could operate on the behalf of the mlechCha-s. In this light, we have to admit that nIladrApi & his forces were built up by the mahAmlechCha & Mossad had wind of that intelligence. 
 

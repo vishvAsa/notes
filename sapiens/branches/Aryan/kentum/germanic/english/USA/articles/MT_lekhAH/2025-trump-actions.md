@@ -1,6 +1,33 @@
 +++
-title = "2025 trump actions"
+title = "2025+ trump actions"
 +++
+
+## Venezuela Maduro
+While the mahAmlechCha have no real challengers and are like the big boy bullying little kids, their actions repeatedly solidify Natanyahoo's truism: "the arc of history bends towards power."
+
+The H twtr seems split on the mahAmlechCha extraction of the strongman of upavenesiya. Some feel they should throw their lot with the mahAdaNDavant mahAmlechCha, others are with the underdog strongman, and yet others want to neutrally watch the fun. 
+
+Whatever your position, it doesn't matter at all because, as stated in the last twt, all that matters is who wields the mahAdaNDa. If you don't have one, you have to sit quiet. 
+
+However, the anxiety is understandable. Every such exploit of the a~NglamlechCha confederation is a reminder that they continue to dominate the world and will continue to undermine anyone who is wielding a smaller daNDa, or is trying to get one.
+
+For H a lot of the anxiety comes from understanding that they lack a daNDa of any great size. This is illustrated daily by the inability to protect H in the neighborhood or even within. But sometimes it is good to come to terms with life in the margins.
+
+## Discontent
+Source: [TW](https://x.com/blog_supplement/status/2006532336125645009)
+
+As the civil year draws to a close, the regime of the pichChilaka and anUpa is increasingly looking like that of piNDaka in magnitude, even if the direction might be different. 
+
+Barring the roaring "heritage" types, it does seem there is a broadly growing discontent among the mahAmlechCha, which suggests that the hastin-s will be overthrown by the gardabhin-s in elections in the coming year. This will weaken the capacity of the nAri~Nga to do anything substantial beyond harassing the weak with his Tonton Macoutes. 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Tonton Macoutes were a paramilitary and secret police force in Haiti, created in 1959 by dictator François "Papa Doc" Duvalier. Known as "Bogeymen," they enforced his regime through terror, assassinations, disappearances, and violence to suppress opposition. The group was disbanded in 1986 after his son's rule ended.
+</details>
+
+
+We suspect what is likely to happen is a pendulum swing that will bring much ferment to the mahAmlechCha. For one, the pichChilu~Nga or his duShTAnuyAyin-s would receive no further support from the minuscule H community.
+
 
 ## Forecast - tearing apart?
 Source: [TW](https://x.com/blog_supplement/status/1986632412739100758)
