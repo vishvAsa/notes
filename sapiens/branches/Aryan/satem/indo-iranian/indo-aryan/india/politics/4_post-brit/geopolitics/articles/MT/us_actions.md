@@ -2,6 +2,16 @@
 title = "US actions"
 +++
 
+## 2026
+### Challenges
+Source: [TW](https://x.com/blog_supplement/status/2007985238765449457)
+
+As 2026 proceeds, it seems like everything is shaping in the direction for the H to face major challenges from their mlechCha-marUnmatta-saMyoga. 
+
+There are some who think that the pichChilaka's support base are the main enemies of the H. They are, but if one thinks the liberals of the other pakSha are friends, open your eyes -- they are as much for the overthrow of H as the piciChilu~Nga's men. 
+
+As the laTanaresha ages, he will have to lead the H in his crisis. The question is who will be the successor -- one has to game scenarios like what the marahaTTa-s faced after rAjArAma's demise.
+
 ## 2025
 ### Competitor
 Source: [TW](https://x.com/blog_supplement/status/1973942591692411137)
