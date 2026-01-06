@@ -45,6 +45,9 @@ Comprehending passages reached a peak while preparing for the GRE general test. 
 ### Write while reading!
 Read with writing material. Make notes. Copy (after OCR-ing) the article into your notes and start annotating it. This has become a favored technique since the advent of note taking on internet/ computer.
 
+
+See [annotation notes](../notes).
+
 ### Seeking ideas
 
 #### Grossness and separation
@@ -95,7 +98,12 @@ Consider relationships with previous knowledge. Besides being very natural and e
 
 ### Dealing with dense passages
 
-Read with writing material. Complicated passages may require diagrams and external symbol manipulation to understand. Also, while reading mathematics, writing the important parts and leaving out the fluff helps immensely. Also, tracing mathematical formulae, which are dense in information, ensures that all essential information is noticed.
+Read with writing material. 
+
+Complicated passages may require diagrams and external symbol manipulation to understand. 
+
+Also, while reading mathematics, writing the important parts and leaving out the fluff helps immensely.  
+Also, tracing mathematical formulae, which are dense in information, ensures that all essential information is noticed.
 
 Considering the ideas presented themselves is described elsewhere.
 
