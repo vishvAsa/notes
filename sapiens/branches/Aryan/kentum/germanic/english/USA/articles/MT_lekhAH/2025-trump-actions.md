@@ -2,6 +2,11 @@
 title = "2025+ trump actions"
 +++
 
+## Distraction
+Source: [TW](https://x.com/blog_supplement/status/2009497466853367950)
+
+The mahAmlechCha situation is heating up: nAri~Nga and anUpa's actions are driving up unrest at home while building armies for war outside. Possibly, the idea is to trigger some wars so that the internal ferment is distracted and they can proceed with their internal agenda. But the internal ferment could end their electoral hopes before they achieve success in the wars.
+
 ## Venezuela Maduro
 While the mahAmlechCha have no real challengers and are like the big boy bullying little kids, their actions repeatedly solidify Natanyahoo's truism: "the arc of history bends towards power."
 
