@@ -2,6 +2,9 @@
 title = "2025+ trump actions"
 +++
 
+## City vs Empire
+The clash between the imperial court running the nAri~NgapuruSha and gardabha-run oligarchic city states -- megalopolises is beginning to shape up among the mahAmlechCha. This also fits the Spenglerian pattern well of the clash between the Caesar (nAri~Nga run by his controls) and the megalopolitan oligarchs backing the gardabha-s.
+
 ## Distraction
 Source: [TW](https://x.com/blog_supplement/status/2009497466853367950)
 
