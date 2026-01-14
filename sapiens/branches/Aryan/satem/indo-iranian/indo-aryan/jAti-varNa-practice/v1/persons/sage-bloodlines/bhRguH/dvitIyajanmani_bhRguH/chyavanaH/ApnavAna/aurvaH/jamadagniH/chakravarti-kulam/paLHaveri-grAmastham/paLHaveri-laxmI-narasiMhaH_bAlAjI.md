@@ -3,7 +3,7 @@ title = "पऴवेरि-लक्ष्मी-नरसिंहः / बा
 +++
 
 ![](../images/paLHaveri-chakravarti-laxmI-narasiMhaH_bAlAjI.png)
-{caption="" class="thumbnail">}
+{caption="" class="thumbnail"}
 
 
 ## पितृ-प्रभावः, बाल-शिक्षा

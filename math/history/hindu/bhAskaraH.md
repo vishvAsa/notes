@@ -10,7 +10,7 @@ sin(θ°) ≈ 4θ(180 - θ) / (40500 - θ(180 - θ))
 It's extremely accurate. Likely derivation by interpolation.
 
 ![](../images/math/history/hindu/images/bhAskara-sin-approx.svg)
-{caption="" class="thumbnail">}
+{caption="" class="thumbnail"}
 
 
 Aradhana Anand's vids -
