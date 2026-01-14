@@ -2,7 +2,7 @@
 title = "वडुक-नम्बि-रङ्गाचार्यः"
 +++
 
-![]("/notes/sapiens/branches/Aryan/satem/indo-iranian/indo-aryan/jAti-varNa-practice/v1/persons/sage-bloodlines/vasiShThaH/kauNDinyaH/images/sAligrAma-vaDuka-nambi-rangAchAryaH.jpg")
+![](/notes/sapiens/branches/Aryan/satem/indo-iranian/indo-aryan/jAti-varNa-practice/v1/persons/sage-bloodlines/vasiShThaH/kauNDinyaH/images/sAligrAma-vaDuka-nambi-rangAchAryaH.jpg)
 {caption="" class="thumbnail">}
 
 

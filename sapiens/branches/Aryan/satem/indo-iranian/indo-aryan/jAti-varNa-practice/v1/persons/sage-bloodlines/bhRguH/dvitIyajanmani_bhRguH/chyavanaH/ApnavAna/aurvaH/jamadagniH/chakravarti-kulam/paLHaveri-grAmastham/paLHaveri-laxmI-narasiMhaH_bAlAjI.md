@@ -2,7 +2,7 @@
 title = "पऴवेरि-लक्ष्मी-नरसिंहः / बालाजी"
 +++
 
-![]("../images/paLHaveri-chakravarti-laxmI-narasiMhaH_bAlAjI.png")
+![](../images/paLHaveri-chakravarti-laxmI-narasiMhaH_bAlAjI.png)
 {caption="" class="thumbnail">}
 
 
