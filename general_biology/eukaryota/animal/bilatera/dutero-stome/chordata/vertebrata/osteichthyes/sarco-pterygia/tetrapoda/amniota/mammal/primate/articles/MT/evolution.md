@@ -40,3 +40,12 @@ It probably became extinct only around 11-12000 years ago. They were also there 
 ## sahelanthropus
 A good anatomical study of Sahelanthropus, a 6-7  My old ape, very close to the Homo-chimp split but likely on the Homo side of the tree. Contrary to some previous studies, it supports the idea that while Sahelanthropus might have knuckle-walked in terrestrial settings, it was also probably an incipient biped that spent a good amount of time on two legs when on the ground. So the chimp is a reasonably good approximation of our last common ancestor with them.
 https://science.org/doi/10.1126/sciadv.adv0130#
+
+## Habilis vs erectus
+H.habilis and H.erectus, two early Homo species, were anatomically very distinct and unlike to share an ancestor-descendant relationship. Both probably diverged from an even earlier primitive Homo, probably earlier than 2.06 Mya, to give rise to two men who occupied distinct niches. This niche partition probably allowed the much smaller H.habilis to survive alongside the bigger and more massive H.erectus for 100s of 1000s of years. 
+
+H.habilis, with more primitive proportions, was probably better off in the trees than H.erectus. 
+
+This interestingly mirrors the situation with Homo naledi, with a more primitive brain and torso but more advanced hands and feet living beside early H.sapiens.
+
+It shows that Homo species with different combinations of primitive and derived features coexisted for a couple of million years before H. sapiens destroyed all his congenerics.
