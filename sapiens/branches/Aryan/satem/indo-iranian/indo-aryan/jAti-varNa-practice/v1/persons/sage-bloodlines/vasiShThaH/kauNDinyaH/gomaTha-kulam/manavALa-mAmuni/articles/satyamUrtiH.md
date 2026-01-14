@@ -1,0 +1,814 @@
++++
+title = "Satyam Urti H"
++++
+
+SRI RAMANUJA
+A BIOGRAPHICAL SKETCH OF
+MANAVALA MAMUNIGAL
+BY
+SRI S. SATYAMURTHI IYENGAR, GWALIAR
+ADAPTED FROM
+THE TAMIL TEXT OF
+JAGADACHARYA. P. B. ANNANGARACHARYA SWAMI
+SRI RAMANUJAN PUBLICATION
+Printed at
+Granthamala Office,
+L. KANCHEEPURAM.
+[Price: 0-30
+SREE
+A BIOGRAPHICAL SKETCH OF
+MANAVALA MAMUNIGAL
+[An English version of Srl P. B. Anangaracharya Swami's
+love-laden and awe-inspiring Tamil biography, published in
+"Sri Ramanujan-190,” by Sri S. Satyamurthi lyengar, Gwalior.]
+INTRODUCTION
+Of the two distinct realms emprised in the Lord's kingdom, namely,
+'Nityavibhuthi'and Leclavibhuthi', the latter is looked upon by the
+realised souls (gnanis) as the land of darkness or nescience. The darkness
+alluded to here is not its physical aspect, which can be dispelled by
+luminous bodies like fire, Sun, Moon etc., but the darkness within, the
+impenetrable age-long mental stupor, which could be blotted out only by
+that extraordinary Sun, which appeared on the spiritual firmament, in the
+person of Sri Ramanuja. After vanquishing the athiests, agnostics and
+heretics, who had brought about a sort of moral paralysis unto the soulelevating doctrines of the Vedas, through his all-conquering erudition and
+enlightenment, and resuscitating the Vedas and putting them on their true
+and legitimate Pedestal, he completed the mission of his Avatar (descent),
+by ensuring the schenmatic propagation of the great hymns of the Azhwars
+and the happy preservation of the Divya Desams (pilgrim centres) hallowed
+by their songs, before returning to the Supreme Realn, whence he had come.
+It is against this background, that Sri Ramanuja is extolled as the fostermother of the Divya Prabandhams, yielded by the Azhwars, but nourished
+and stabilised by him. However, after some time, the fate, which had
+earlier befallen the Sanskrit Vedas leading to the advent of Sri Ramanuja,
+overtook Dramida Vedas (Divya Prabandhams) also. At the Lords's behest,
+Sri Ramanuja re-incarnated as Manavala Mamunigal and excelled his previous
+record in many ways and performed the great miracle of transforming this
+abode, notorious for its ignorance, into one of enlightenment and faith in the
+Supreme. His unique qualities of hend and heart would baffle description
+even by the thousand-headed'Adi Sesha', who, incidentally, is but another
+manifestation of himself,
+The illustrious hierarchy of the Vaishnavite preceptors, known in
+Vaishnavite Parlance as "poorvacharyas" has its happy culmination in
+2 SRI RAMANUJAN—195
+Manavala Mamunigal and none, after him, could join that great panel, however exalted. The personification of sweetness, it was in the fitness of things
+that Mamunigal completed the great galaxy. This only redounds to the
+wisdom of the Omniscient Lord. c.f. the dictum. [*மதுரேணஸமாபயேத்*)
+During His many incarnations, the Lord had the most unenviable
+experience. As Dasaratha-Rama, he bowed before sage Viswamitra and served
+him, ever ready to serve still more, and it was only some time later,
+he came to,know from sage Sadanand, in the wake of Ahalya's reclamation
+from her terrific curse, the life history of Viswamitra, marking him out as a
+combination of the Rajasic and Tamasic traits. Rama sought refuge in
+Sugreeva, the monkey king, but was soon driven to the necessity of
+admonishing him severely through Lakshmana. And then, failure on the
+part of the king of the ocean to respond to Rama's entreaty to open up
+a causeway in the sea, chagrined Rama to the extent of threatening complete
+dehydration of the whole brine.
+In the next Avatar as Krishna, He fared no better. He went
+through the rigours of learning, studying under Sandipani. At the conclusion
+of the course, the disciple solicited the Guru's choice in regard to the
+reward (fee) payable by the former for the lessons imparted to him, only
+to be called upon to regrant his son, swept off by the sea long back.
+The great Lord in the garb of a human disciple was indeed stung by
+the remorseful thought of a Guru, longing for such ephemeral wordly gains.
+Having met with disappointment, at every turn, during the ‘Vibhava
+Avatars', the Lord was bent upon retrieving the position in 'Archa Avatar', as
+Ranganatha (enshrined in the temple at Srirangam), through a Guru of the
+pre-eminence of Mamunigal. A brief sketch of the life-history of Mamunigal
+of such unique excellence, the stead-fast pillar of Vaishnavism, has been
+attempted below.
+THE BIRTH OF MAMUNIGAL
+The line of succession in the hierarchy of the 'Poorvacharyas' from
+and after Sri Ramanuja runs as follows :-
+1. Sri Ramanuja.
+2. Embar.
+3. Parasara Bhattar.
+4. Nanjeeyar.
+5. Nampillai.
+6. Vadakku Thiruveedhi Pillai.
+7. Pillai Lokacharya.
+8. Tiruvoimozhippillai.
+9. Sri Manavala Mamunigal.
+"MANAVALA MAMUNIGAL" 13
+Note: EMBAR (2): It was, by virtue of his pre-eminence, that
+he could earn his place, in the line of succession, next to Sri Ramanuja,
+although there were hundreds of disciples gathered round Sri Ramanuja,
+during his life-time.
+Mamunigal was born as the son of the illustrious Thirunaveerudaiya
+Piran Dasarannar, in the 4472nd year or Kaliyuga, under the influence
+of the star 'Moolam' in the Tamil month of Aippasi (October-November), at
+Thirukkurugoor, (Azhwar Tirunagari) in Tirunelvely district, South India, the
+birth place of saint Nammazwar. It was a red-letter day in the annals of
+Vaishnavism, which, however, sounded the death-knell of the obstinate,
+perverse and misdirected logicians, entangled in interminable logomachy and
+covering the land with a thick gloom of nihilism. The excellence of this day
+has been proclaimed in the following verse, by his ardent votaries:
+"The exalted Manavala Muni of everlasting fame came down to our midst, on
+the gem-set day in Aippasi, presided by the star 'Moolam';
+The day of rejoicing of Scholars famed for clarity, well-versed in the Tami!
+Vedas, sweet and chaste;
+The day, when the great Lokacharya's precious works shone forth, in all their
+splendour;
+The day, which boosted, to the high Heavens, the very duds on earth;
+The day, which spurted up the gospel of Savants of immaculate knowledge like
+Yathiraja (Ramanuja, the Prince among ascetics);
+The day, which shed lustre on the hyms of saint Nammazhwar of Kurugoor,
+surrounded by orchids, full of fragrance;
+The day, which feasted the dazzled eyes of the sky-blue Lord of Srirangam."
+Desirous of giving this babe of unique grandeur and excellence, the name
+of Lord Ranganatha, the parents named him as "Alagiya Manavalan", alias
+" Alagiya Manavala Nayanar." He went through the ritualistic rites of
+‘Annaprasana', 'Choula' and 'Upanayanam', at the appropriate phases.
+4 SRI RAMANUJAN-195
+EDUCATION
+An incarnation of Adisesha, * (ஸ்தோத்ராத்ன ஸ்லோகம்-39) the repository
+of immense might and knowledge, Nayanar was himself an ocean of knowledge,
+and yet he learnt at the feet of his erudite father and others, the Vedas and
+Vedangas and the Shastras, in the same way as Sri Rama and Sri Krishna had,
+during their stay on earth, gone through a course of studies under sages
+Vasishtha, Viswamitra, Sandipani etc. In due time, he entered upon the duties
+of a householder and led an exemplary life in the manner portrayed by
+Sri Kulasekahra Azhwar in his hymns entitled "Perumal Thirumozhi", the
+sparkling gem of true Vaishnavism. *[ப்ரக்ருஷ்டவிஜ்ஞானபலைகதாமநி.)
+COURTING A PRECEPTOR
+Thirumalai Azhwar, the successor to Pillai Lokacharya. in the chain
+of the great preceptors (Poorvacharyas), had studied at the feet of that great
+master, all the Sastras and esoteric texts of Vaishnavism and acquired the
+name of Thiruvoimozhippillai, by dint of his love of unique intensity for
+the radiant and refreshing hymns of the Azhwars, in general, and saint
+Nammazhwar's Thiruvoimozhi, in particular. He was looking out anxiously
+for his successor, in the apostolic line, who would propagate Vaishnavism
+after his tenure of life on earth. By a strange coincidence, Nayanar also
+pined for an Acharya (preceptor), like Thiruvoimozhippillai. Prostrating
+before him the young supplicant prayed, in all humility, that an insignificant
+and shallow being like himself be enlisted as his disciple and pulled up.
+The master's joy knew no bounds at the prospect of having a disciple of
+the excellence and conduct of Nayanar and hugged him close to his bosom.
+A hot favourite that Nayanar was, the great master imparted to him all that
+massive learning, transmitted through the unbroken succession of Masters.
+THE THRILLING MANDATE FROM THE ACHARYA
+(THIRUVOIMOZHI PILLAI)
+One day, the great Master (Thiruvoimozhippillai) beckoned Nayanar
+and addressed him as follows with great feeling and affection:
+"O Azhagiya Manavalar! It is my great good fortune that has made
+me your preceptor, in the same way as Peria Nambi, Thirumalai Andan
+etc., functioned as teachers for the self-luminous Ramanuja, an incarnation of Adiseshai You stand possesed of perfect knewledge, in all branches.
+I am sure you are aware of the fact that (Koorathu) Azhwan, Bhattar,
+"MANAVALA MAMUNIGAL" 5
+Nampillai änd others of that illustrious line, though fully conversant with all
+the Shastras, had a special predilection for the sweet hymns of the Azhwars and
+abided in them, all the time. Did not Periavachan Pillai lay down a clear-cut
+code, when he commended to his disciples, the example of the great Nampillai,
+and advised them to get themselves initiated in 'Dvayam' the Mantra-Ratna
+(gem of a mantra), then pass on to an intense study of the Ithihasas
+(Ramayana and Mahabharatha), thereafter acquire a knowledge of 'Nyaya
+and 'Meemamsa', so as to be able to deal with their religious opponents,
+suitably in any disquisition, and eke out the rest of their lives in the all-tooabsorbing enjoyment, study and dlscourse of the bymns of the Azhwars
+(gracefully bequeathed to our parched-up lips)? May you also emulate the
+illustrious forebears and walk in their footsteps by propagating the Divya
+Prabandhams'. This is my yearning and I shall rest at peace, when I realise
+that you have responded and taken up this sacred mission whole-heartedly."
+Well, this was exactly Nayanar's own bent of mind and now that
+it received his Acharya's official sanction, he was overwhelmed with joy and
+fell at the Master's feet, like an uprooted tree, declaring, in the name
+of those blessed feet, his avidity to fulfil the sacred mission and seeking
+their unfailing grace to get him through. That very moment, the loving
+Master picked up the disciple, caressed him and showered on him the
+choicest blessings. Thenceforward, the zealous master poured forth on
+Nayanar all the accumulated treasures of knowledge and this was gratefully
+acknowledged by the latter, who exclaimed' that he had in his Master, a
+wholesome combination of mother's uninhibited love, the father's chastising care, the preceptor's grace galore, the means and blissful end rolled into
+one, God and what not,-the great one, who granted his disciple his very
+existence. The ingratiation went the whole hog out and the disciple's mission,
+whole and sole, was the service of his master, apart from whom he
+knew no God.
+ACQUIRING A NEW NAME, "YATHEENDRA PRAVANAR"
+One day, while meditating on the great qualities of Emberumanar
+(Ramanuja), Thiruvoimozhippillai pondered over those stanzas of
+Thiruvarangathamudanar, which describe Ramanuja as a staunch devotee of
+saint Nammazhvar (Maran), who proclaimed to the inhabitants of this wide
+world, end to end, the great glory of the Azhvar's hymns and ran riotous with
+the joy spouting from those hymns, like unto the intoxication of an elephant in
+rut. This led Thiruvoimozhippillai to think in terms of raising a fitting
+2
+6 SRI RAMANUJAN
+nemorial for Ramanuja in Thirunagari, the birth place of Nammazhvar. So, a
+temple was built and an image of Ramanuja installed therein, duly consecrated.
+The surrounding streets named as "Sri Ramanuja Chaturvedi Mangalam" were
+permanently inhabited exclusively by the ardent worshippers of Ramanuja and
+the zealous disciple, Alagia Manavala Nayanar was called upon to stay there
+and look after the daily routine of the temple. Nayanar's extra-ordinary
+devotion to this great cause earned the approbation of Thiruvoimozhippillai,
+who started calling Nayanar as "Yatheendra Pravanar", to signify the enormous
+love borne by him for Ramanuja, the prince of ascetics, a name which soon
+gained currency and became wide-spread.
+SANSKRIT HYMNS ON RAMANUJA, ENTITLED
+"YATHIRAJA VIMSATI"
+At the behest of Thiruvoimozhippillai, Nayanar composed twenty
+Sanskrit Slokas in adoration of Ramanuja, known as 'Yathiraja Vimsati'. In
+one of these Slokas, "Sriman Yateendra! Tava Divya Padabja Sevam", he has
+referred to the devotional services of his Acharya (Thiruvoimozhippillai) at the
+lotus-feet of Ramanuja, which again is an expression of his gratitude to the
+Master. Nayanar's co-disciples composed a verse to commemorate the birth
+of these twenty Slokas, eulogising the author and his hymns, which would sustain
+the entire horde of devotees and make them flourish. As regards the sweetness and grace of these Slokas, the reader has only to refer to Anna's.
+'Varavaramuni Satakam' where he has paid glowing tributes to these Slokas.
+Some might question the propriety of Nayanar, himself an incarnation of
+Ramanuja, extolling Ramanuja and reducing himself to abject humility. The
+answer to this is, that this is quite in keeping with any Avatar; c. f. Sri Rama,
+an incarnation of Bhagwan Narayana, who worshipped the idols of Narayana,
+i.e. Lord Ranganatha.
+GETTING A SON
+A son was born to the Swami (Nayanar) like unto a moon shining
+against the expansive milky ocean and was named"Ramanujappillai ", as
+advised by Thiruvoimozhippillai. It was Ramanujappillai's son, Jeeyar
+Nayanar, who flourished as a celebrated scholar and author.
+THIRUVOIMOZHIPPILLAI RETURNS TO THE CELESTIAL ABODE
+The mortal coils of the great Master were withering with age and he
+prayed intensively to his Acharya (Pillai Lokacharya) for the early release from
+دو
+MANAVALA MAMUNIGAL"
+bondage, The Acharya did respond and appearing before the devout disciple
+7
+in a dream, one night, commanded that he shall repair to the land of
+interminable bliss (heaven). Thiruvoimozhippillai at once got up from bed
+and jubilántly pored over the stanzas of Nammazhvar referring to his ascent to
+heaven through the Lord's grace. The next morning, he summoned all h's
+disciples and told the gathering that his Acharya having been pleased to take
+him to his (Acharya's) glorious feet in heaven, they should thenceforward pay
+obeisance to Alagiya Manavala Nayanar, regarding him as none other than a
+re-incarnation of Ramanuja and take refuge in him. Right then, he installed
+Nayanar in the Master's Gadi, exclaiming that all his hopes for the glorious
+expansion and propagation of Vaishnavism were pinned on him, even as king
+Janaka had set all hopes on Sita and bade her bring undying fame to the family
+of her origin, through her wedding with Dasaratha-Ranıa. Pillai added that
+there was little more for him to tell a true and trusted lieutenant of proven mettle
+and devotion, like Nayanar, but, at the same time, the Acharya's parting desire
+was that Nayanar should take up his residence at Srirangam, the hallowed land,
+where the Azhvars and Acharyas had concentrated most lovingly and
+propagated Vaishnavism, and. persevere in the good old activities of his
+previous Avatar as Ramanuja, namely eradicating, root and branch, the other
+pernicious systems of philosophy, preservation of the wealth of Tennarangar
+(the glory and traditional worship of Lord Ranganatha) in its pristine purity,
+clear-cut exegesis of the Vedas through the media of the works of Nammazhvar,
+thereby raising a golden age on earth, transforming this land of gloom
+darkness into a veritable heaven, famed for its unalloyed bliss and beatitude.
+After the due worship of the deity enshrined in the local temple, "Polindu
+Ninra Piran" and of Nammazhvar, Pillai passed away, meditating intently upon
+the blissful feet of his master (Pillai Lokacharya). All the disciples headed by
+Nayanar performed the obsequies with the utmost devotion.
+SRI VANAMAMALAI JEEYAR SEEKS SWAMI'S TUTELAGE
+The Swami's avra, emanating from his full-fledged learning and implicit
+obedience to his Acharya's directions, attracted several great persons, from far
+and wide, to Thirunagari and they sought refuge at his feet. Important among
+them was Sri Ramanuja Jeeyar of Vanamamalai (a great scholar, by name,
+Azhagiya Varadar, turned ascetic, in renunciation of wordly pleasures), known
+also as Ponnadikkal Jeeyar, an inseparabie associate of the Swami.
+8 SRI RAMANUJAN
+PROCEEDING TO SRIRANGAM, AFTER TAKING LEAVE
+OF NAMMAZHVAR AT HIS SHRINE
+While chanting Ramanuja's 'Gadya Thrayam' on a Thiruvadirai day
+(the day when the moon transited the star Thiruvadirai, the birth-star of
+Ramanuja), the Swami came upon the line therein, which ordains Sri Ramanuja
+(and through him every Vaishnavite) to reside in Srirangam till the end of his
+life, which at once reminded him of his Acharya's own mandate to this effect.
+Thereafter, the Swami lost no time in implementing it and begged leave of
+Nammazhvar at his shrine, to proceed to Srirangam. The requisite permission
+coupled with the sweet blessings of the Azhvar baving been granted for the
+happy consummation of his life's mission at the feet of Lord Ranganatha, the
+Swami left Thirunagari for Srirangam.
+PILGRIMAGE TO SRIRANGAM
+A recipient of the sweet benedictions of Nammazhvar, Nayanar was
+jubilant over the certain prospect of Lord Ranganatha focussing His Grace on
+him and set out on his pilgrimage to Srirangam, in high spirits. He, along
+with his disciples, visited, enroute, Srivilliputhur, the birth place of Sri Andal,
+where nature has lavished her bounty and the swans strut about with gentle
+grace, full of yearning for the sight of the galden feet of the Lord, enshrined in
+the local temple (Vatapatra Sayi) and worshipped at that shrine, as well as the
+shrines of Periazhvar and Andal. After staying there for a few days, in
+res ponse to the requests of the local residents, edifying those who gathered
+around and solicited his grace, Nayanar proceeded to Thirumalirumsolai, near
+Mathurai and worshipped the famous Azhagar, enshrined in the temple at
+the foot of the hill, after bathing in the waterfall at the top of the hill, which
+attracts even the angelic damsels from their celestial abodes, their anklets
+jingling musically. At the very place, where Koorathazhvan had stayed and
+composed his panegyric, entitled 'Sundarbahu Sthava', in adoration of the
+local deity with handsome shoulders, the Swami discoursed on this laudation,
+before resuming his journey to Srirangam. As the party wended its way to
+Srirangam, the members regaled themselves with the sweet recital of the hymns
+of the Azhvars and the slokas sung by the great devotees of yore, in adoration
+of the glorious setting of Srirangam, the Lord enshrined there, and the sacred
+river, Cauvery, girdling it. On reaching the destination, Nayanar had the
+supreme satisfaction of being then, at the very feet of the Godliest of Gods.
+After finishing his daily ablutions, he got along inside the temple and was
+A
+"MANAVALA MAMUNIGAL" 9
+delighted to see the seven sets of streets, one behind the other, encircling
+the shrine of Lord Ranganatha and proclaiming the piety. of the kings of old.
+At that time, there lived in Srirangam an august person by name
+'Annar'. When Nayanar called on 'Annar', the latter received the former
+with all honours, having already heard about his greatness. After conversing
+with Nayanar for a short while, Annar was convinced beyond doubt about the
+supremacy of Nayanar's learning and equipment and, therefore, he decided to
+have him received at the temple with due honours. The in-charge, Thirumalai
+Thantha Perumal Bhattar was sent for, who arrived and soon realised and
+averred before all present there, that Nayanar was none other than Ramanuia
+re-incarnate, and saw to it that he was received inside the temple with all
+honours and given all facilities for worship.
+WORSHIP AT SRIRANGAM TEMPLES
+Accompanied by his disciples and several others, Nayanar began his
+round of worship at the shrine of Srirangam, by entering the shrine of Saint
+Ramanuja (Emperumanar), where, enthralled by the exquisite beauty of the
+Image, he exclaimed that all the images of Ramanuja, worshipped by him
+at the various places, were no doubt sweet, but he had his heart's fill only on
+seeing this marvel of an Image at Srirangam. Thereafter, Nayanar worshipped
+Lord Ranganatha, surrounded by His celestial paraphernalia, reciting with
+intense feeling and devotion the Prabandhams--'Thirumalai', 'Amalanadipiran'
+etc. and Stotras like 'Sri Rangaraja Sthavam'. Great was the delight of the
+Lord, who spake thus, through the temple priest:-
+"We have at long last, got the very person We were after, all along:
+Our reputation for being absolutely full and perfect, free from desire of any
+kind, acquires a meaning only today".
+The priest lavished all honours on Nayanar, who, however, ascribed
+all that glory to his blessed contact with the great ones like Annar and Bhattar,
+referred to earlier.
+Nayanar then visited the residence of Pillai Lokacharya. Prostrating at
+the door-step, the Swami kissed the very earth, sanctified by the birth of
+the esoteric tenets of Vaishnavism. His devotion didn't stop there. Hе
+visited that hallowed spot, every day and discoursed on the secret texts, both
+for his own edification, as well as that of his audience.
+3
+10 SRI RAMANUJAN
+PILGRIMAGE TO THE DIVYA DESAMS
+(PLACES HALLOWED BY THEIR MENTION IN THE HYMNS
+OF THE AZHVARS)
+Nayanar, desirous of visiting all the Thirupathis (important pilgrim
+centres of the Vaishnavites) in Choia kingdom and, Tondaimandalam region,
+obtained from Lord Ranganatha, the requisite permission and started on the
+pilgrimage, along with his disciples. In the course of their itinerary, the
+party reached the Thirupathi Hills (Thiruvenkatam) in the Tamil month of
+Purattasi, on the eve of the annual festival of the Deity. After partaking
+of the blissful experience in that great pilgrim centre, Nayanar and party
+set out for Kancheepuram (Perumal Koil, in Vaishnavite parlance).
+PROPITIATION OF PERARULALAN (DEVARAJA)
+After offering worship at all the Vaishnavite shrines around
+Kancheepuram, Nayanar worshipped Lord Varadaraja and His divine Consort
+Perundevi. Deeply absorbed in the nectarine charm of the Image of
+Varadaraja, he readily responded to the request of his disciples and sang the
+hymns entitled "Sri Devaraja Mangalam", in adoration of that Deity. The
+elders have it that, on this occasion, Nayanar also composed two Slokas,
+in praise of all the Deities (Vishnu) in that region.
+THE SWAMI'S INITIAL ROLE AS A STUDENT, AND THEN
+AS AN EXPONENT, OF 'SRI BHASHYAM
+Out of deference to his Acharya's wish, the Swami studied, under the
+illustrious Kidambi Nayanar at Kanchi, 'Sri Bhashyam', the famous commentary
+on the Brahma Sutras of Badarayana or Vyasa, by Sri Ramanuja (the previous
+Avatar of the Swami). Before embarking on the study in question, the Swami
+went to Sriperumbudur, the birth place of Ramanuja, to secure his blessings
+and permission. History has it that the Swami melted into ecstacy at the
+mere sight of that place and exclaimed as follows:-
+"Is this that Sriperumbudur, where Yathiraja (the king of ascetics) was
+born, to rid us of all our miseries?
+Indeed, this place is just as famous as Thirunagari, where Saint
+Nammazhvar was born and where the limpid waters of the river Porunal
+(Thamraparni) flow.
+"MANAVALA MAMUNIGAL" 11
+Have I actually reached the hallowed Sriperumbudur, where my Lord
+Yathiraja took birth, to redeem us all? Is it a mere hallucination or a
+real bliss flowing from the sweet grace of Saint Nammazhvar, whose chest
+is adorned by a garland of narcissus?"
+After completing the study of Sri Bashyam, Nayanar, the erstwhile pupil.
+taught Sri Bashyam for a whole year in the temple of Yathoktakari, in
+response to the requests from several scholars. To this day Mamunigal's
+image in the said temple bears only a'Vyakhyana Mudra' (i. e.) the
+posture of discoursing, instead of the normal Anjali Mudra (palms joined
+in worship), as in other temples.
+SWAMI'S EXTRA-ORDINARY COMMAND OVER THE SASTRAS
+Both as a student of 'Sri Bhashya' and later, as an exponent thereof,
+the Swami's intimate knowledge of Nyaya, Mimamsa and all other Sastras
+was very much in evidence. That he was head and shoulders above several
+others well-versed in these Sastras, is reflected in every word of his works
+(the commentaries). The cream and essence of the Sastras run through every
+line of these and one can't but marvel at his extra-ordinary proficiency in
+every one of the subjects dealt with, and exclaim whether that was the
+'be-all' and 'end-all' of his studies, thereby enabling him to secure such
+a high degree of specialisation in that subject. It is no exaggeration to
+say that Sri Tirumangai Azhvar's allusion to 'the combined eloquence in
+chaste Tamil and Sanskrit could refer only to the Swami and none
+else, in this world.
+RETURN TO SRIRANGAM
+After a year's illumining stay at Kanchi, the Swami returned to
+Srirangam. Flooded by the grace of Lord Ranganatha, the Swami delighted
+his disciples with his splendid discourses, the elixir, which banished all ills
+and evils and brought instead, an inexaustible fund of felicity, transforming
+this harrowing land into a veritable heaven (Nityavibhuti).
+THE SWAMI TAKES TO SANYASA
+The frequent incidence of pollution as a Grihastha with several
+consanguinous relations, due to births and deaths, occuring in their
+households, very badly interfered with the Swami's daily worship of Lord
+Ranganatha and discourses, and drove him to the sheer necessity of
+12 SRI RAMANUJAN
+entering the ascetic order. Taking advantage of the presence at that time, in
+Srirangam, of an ascetic by name Satakopa Jeeyar, of sterling qualities, a
+happy combination of sound learning and a perfect code of conduct, the
+Swami got himself initiated into the holy order by the Jeeyar, and presented
+himself before Lord Ranganatha. The Lord was pleased to grant the new
+ascetic, His very name, Azhagiya Manavala Mamunigal, and also gifted
+away to him the Mutt, known as Pallavarayan Mantapam. Mamunigal,
+greatly elated by the Lord's torrential grace, occupied the Mutt. and his
+fame spread far and wide, attracting many a person from the different
+corners of the country to his sweet fold. The votaries did feel that in
+Mamunigal, they had easily the aggregate of all the Acharyas, who had gone
+before him, Nathamunigal, Alavandar, Ramanuja etc., a happy combination
+and consummation of them al1.
+SETTİNG UP AN AUDITORIUM, NAMED
+THIRUMALAI AŽHVAR MANТАР'
+(THE VENUE OF THE SWAMI'S DISCOURSES)
+Mamunigal set apart a hall in the Mutt, for delivering discourses and
+named it after his Acharya (Thiruvoimozhippillai), as "Thirumalai Azhvar
+Mantap", to give it a special halo. As a further step in imparting additional
+sanctity to the place, it was smeared with the earth, from which sprouted
+the secret tenets of Vaishnavism (the earth picked up from the residence of
+Pillai Lokacharya, the great exponent of the esoteric tenets of Vaishnavism).
+Mamunigal's devotion to his Acharya was so great and intense, that he
+regarded the Mantap as a 'Guru Kula', whence he disseminated the
+'Grand Elixir', eagerly sought out by the God-bound, his fame radiating in all
+directions.
+PATTAR PIRAN JEEYAR BECOMES THE SWAMI'S DISCIPLE
+Mamunigal's scintillating discourses cast their spell over the entire length
+and breadth of the country. Finding that he was a preceptor of rare and
+incomparable excellence, people flocked to him in large numbers every day and
+sought refuge at his feet. Noteworthy among them was an ascetic by name
+Govinda Dasarappan, better known as Pattarpiran Jeeyar, who became a close
+associate of Mamunigal, a part and parcel of the Swami, at it were, like unto
+Embar for Ramanuja.
+KOIL KANDAI ANNAN ALSO BECOMES SWAMI'S DISCIPLE
+Kandadai Annan, an Acharya of Srirangam, installed on one of the
+traditional Gadis set up by Ramanuja, also felt a sincere urge to become a
+"MANAVALA MAMUNIGAL." 13
+disciple of Mamunigal. After seeking the permission of Lord Ranganatha, he
+and his followers sought spiritual asylum at the feet of Mamunigal. Thencеforward Annan functioned as a confidant of the Swami and grew grey in the
+Swami's service.
+THE SWAMI SEEKS OUT PRATIVADI-BHAYANKARAM ANNAN.
+While in quest of a suitable propagator of Vaishnavism after him, the
+Swami had comforting news about the great qualities of head and heart of
+Prativadi Bhayankaram Annan, who had settled down in Thirumalai Hills
+with his family, rendering unblemished and unremitting service to Lord
+Venkatesa. Bleşsing Annan inward!y with all the fervour at his command,
+the Swami sent out a letter to Annan through two Vaishnavites, specially
+commissioned to go to Thirumalai Hills and escort him to Srirangam.
+THE MEETING GROUND OF MUTUAL LONGING
+Sri Annan, known as 'Anna', to distinguish him from koil Annan,
+referred to earlier, had studied Vedanta under Nayana Varadachariar Swami
+of Kancheepuram and earned the title of 'Prativadi Bhayankarar.' Intent
+upon staying at the Thiruvenkatam Hills and eking out his existence
+through service to the Lord, he went there and got himself absorbed in
+the sacred task of fetching water from 'Akasa Ganga', the water falls,
+about three miles further up the hill, for the daily puja and ritualistic
+bath of the Deity.
+One of these days, a great devotee of Mamunigal, who visited the
+Thirumalai Hills from Srirangam, was most lovingly entertained by Anna.
+Anna went into raptures over the account rendered by the distinguished
+visitor, of the great Saint at Srirangam, his attainments and achievements,
+and longed to hear more and more of these. It so happened that the very
+next evening after the arrival of the guest from Srirangam, Anna, accompanied
+by his guest, went to Akasa Ganga, did his customary ablutions and returned
+with the water-pot intended for the Deity's puja. However, instead of
+spicing the water with the flavouring materials, then and there and carrying the pot to the temple, Anna just lost count of time and was so deeply
+engrossed in the new-comer's delightful description of the great Master,
+that he invited the wrath of the temple priest, who badly. missed Anna
+at the appropriate moment, rushed out and literally snatched from Anna
+the water pot, still remaining unspiced, and ran back to the sanctum. The
+4
+14 SRI RAMANUJAN
+penitent Anna went post haste to the temple with the spices, only to find the
+puja, already commenced, and in progress. with great mental pangs, Anna
+got near the priest, handed over the spices to him and retreated outside the sanctum, ashamed of his hopeless dereliction of duty. The Lord,
+Who is all love for His sincere devotees, at once placated Anna and established
+the greatness of Manavala Mamunigal, through the following stimulating
+words, delivered through the priest:
+"Come ye Anna! We find the water brought by you, this morning,
+the most exhilarating so far, abounding in exceptional sweetness and
+fragrance. What is the fun of your sinking into dejection, when in fact,
+We are extremely pleased with your devotion?"
+Anna, his deep gloom thus shaken off, realised at once that this extra-ordinary phenomenon of the water acquiring a natural auroma of
+such a high degree, bespoke the greatness of Mamunigal, about whom
+he was hearing and meditating, all the time. This only whetted the appetite, already aroused in him, to be at the feet of Mamunigal at the
+earliest possible moment. The urge became irresistible and Anna took
+leave of Thirumalai Appan, the Deity of Thirumalai and set out for
+Srirangam, followed by his entire family. They reached Kanchi enroute
+and stayed there for a couple of days, revelling at the feet of Lord Devaraja.
+The two emissaries, sent after Anna by Mamunigal, also arrived at Kanchi,
+just then. They overjoyed at meeting Anna nearer home and delivered
+Mamunigal's note to him. Need it be said that Anna grew hysterical over
+such a happy turn of events, being sent for by the very person he was
+after, a thrilling experience reminiscent only of the bliss enjoyed by the
+Azhvars? Anna recited with deep feeling the lines from Divya Prabandham
+recounting a similar experience of the Azhvars. Anna gloated over the
+redemptive grace of Mamunigal and left for Srirangam the next morning along with the two escorts.
+On reaching Srirangam, Anna went through his daily ritualistic routine
+and then reached the Mutt of Mamunigal, like unte the calf seeking the
+mother-cow, and fell prostrate at his feet, like an uprooted tree, and remained
+insensate for a while, swayed by emotion. Mamunigal affectionately gathered
+Anna up in his sweet embrace and made solicitous enquiries of Anna's
+welfare. All this happened during the currency of a discourse by Mamunigal
+on the hymns of. Nammazhvar in the fourth centum, tenth decade of
+Thiruvoimozhi. The Swami, resuming the discourse, expounded the meanings
+“MANAVALA MAMUNIGAL" 15
+of the stanzas in all their ramifications, bringing to bear upon the subject
+his superb learning and mastery of the Shastras, in lucid style, flowing with
+the grandeur and majesty of the mighty river Ganga, full and flooding. Anna
+was so overwhelmed by the masterly exposition of the 'Divine Wisdom'
+(Bhagavat Vishayam), that he praised the Swami profusely (precisely what a
+pupil should do in respect of his Guru), wondering whether he (Anna)
+nad not seen in the Swami, a perfect blending of all the Azhvars and
+Poorvacharyas. When Anna begged that he be also admitted into the
+Swami's fold, the very thing the Swami was pining for, the Swami pointed out
+słyly, with a graceful smile, the Prima Facie incompatibility of the
+two of them getting together, Anna, the 'Prativadi Bhayankarar' and
+himself, a Sadhu (a soft and gentle ascetic). This was too much for Anna
+to bear and he cried out that the appellation, 'Prativadi Bhayankarar' only
+signified that he was to be dreaded only by the enemies of the faith while, in
+respect of Sri Vaishnavas, he was the humblest servant of them all, and
+added, with tears rolling down his cheecks, that his salvation lay only
+at the feet of the Swami. There upon, Mamunigal was deeply moved by the
+remarkable soul-force of Anna and accepted him as a disciple. Anna,
+who went through the five purificatory rituals (Pancka Samskaras) at the
+hands of the illustrious Master and got from him also the sacramental name
+Sri Vaishnava Dasan'-the servant of Sri Vaishnavas, poured out his
+gratitude, to the Master, in a series of Tamil verses, entitled ' Amalanathipiran'
+and a hundred Sanskrit Slokas in adoration of the Swami, entitled 'Vara
+Vara Muni Satakam'. In the opening stanza of the Tamil verses, Anna
+throws out the great challenge, born of the new-born robust faith, as
+follows:-
+"What is there for me to fear, having sighted the lotus feet of
+Manavala Yogi (Saint Manavala), nectarine and blissful, an antidote for
+all ills and evils?"
+Thenceforth, Anna, a close confidant of the Swami, studied at his
+holy feet the commentaries of the Divya Prabandams, secret texts, etc.,
+and remained blissfully happу.
+MAMUNIGAL GOES AGAIN ON A PILGRIMAGE
+Desirous of visiting, once more, the shrines at Azhvar Thirunagari
+and elswhere, Mamunigal took leave of Lord Ranganatha and reached
+Azhvar Thirunagari, where he stayed for some time, delivering discourses.
+16 SRI RAMANUJAN
+Thereafter, he returned to Srirangaın, propitiating the Deities in the
+Vaishnavite shrines in Pandya Nad (Mathurai and around) enroute.
+YERUMBI APPА ВЕСOMES SWAMI'S DISCIPLE
+One Devarajachariar, otherwise known as Yerumbi Appa, a famous
+Vidvan of Yerumbi, a village near the pilgrim centre 'Thirukkadigai
+(Chola Simhapuram) went to Srirangam to worship Lord Ranganatha
+(Namperumal) and was the guest of Koil Annan. During his stay in
+Srirangam, the visitor had the extra-ordinary fortune of listening to the
+discourses of Mamunigal, in the company of Koil Annan. Although he (Yerumbi
+Appa) felt very much delighted at Mamunigal's extensive knowledge and
+depth of learning, he (Appa) was not fortunate enough, then, to feel the
+urge to seek refuge in the Saint and returned to his village, without even
+partaking of the holy water and the dedicated offerings at the Mutt. But
+what happened to him on the very day of his arrival at his place? The
+door of the shrine housing his tutelary God, refused to open, when he
+attempted to go about his usual routine of a puja. All attempts to
+have it opened having proved abortive, Appa was completely non-plussed
+and at the end of a care-worn day without food, he had a dream that
+night, in which the household God appeared and severely admonished
+him for his impudence in having come away from Srirangam, without
+seeking spiritual asylum at the feet of "Our most beloved Mamunigal
+of unrivalled excellence". It was further made known to Appa that
+Mamunigal was an incarnation of Adi-Sesha (Anantha), ranking first among
+the three celestial chiefs (Anantha. Garuda and Vishvaksena), and that unless
+Appa went back to Srirangam and got purified by enlisting himself as
+Mamunigal's disciple, there was no hope of his ever resuming the worship
+of his household God. With this clarification, Appa got up from bed,
+disclosed the contents of his dream to all his well-wishers and set out for
+Srirangam then and then, alone.
+When Appa reached the Mutt of Mamunigal, the latter was about
+to leave for the temple. Appa fell at his feet and sought refuge in him,
+after narrating all that had happened in the intervening period. A new
+vista opened up before Appa, the new votary, who was the recipient
+of the Swami's full-fledged grace and unremitting attention. The spiritually
+rejuvenated Yerumbi Appa's overwhelming devotion to Mamunigal found its
+natural outlet in several laudations, in praise of Mamunigal, in various styles,
+Kavya, Nataka, Champu and so on.
+"MANAVALA MAMUNIGAL" 17
+To cut a long story short, there were many others, who flocked to
+Mamunigal and reaped such rich harvests, perfect bliss, here, there and everywhere.
+EXPOUNDING 'EADU', THE INSPIRED COMMENTARY
+(OF PROFOUND EXCELLENCE) ON 'THIRUVOIMOZHI’ IN THE
+DIVINE PRESENCE (BEFORE LORD RANGANATHA)
+When Mamunigal was shedding his unique lustre all around, in the
+manner described in the earlier paragraphs, Lord Ranganatha was pleased to
+beckon him one day and command that he should expound, from the next
+day onwards, Nammazhvar's Thiruvoimozhi, in the light of that copious
+commentary, the inspired outpourings of Nampillai, known as 'Eadu', recorded
+faithfully by his disciple, Vadakku Thiruveethi Pillai (father of Pillai
+Lokacharya), in the spacious Mantap of the temple, known as Periya (Big)
+Mantap. Taking it as the supreme Grace descended from the Great Lord,
+Mamunigal, started off his torrential discourses in the said Mantap, the very
+next day, as scheduled. The audience remained spell-bound, amazed at the
+Swami's vast repertory of knowledge and masterly exposition and wondered
+whether they should compare his speech with the on-rush of the Gangetic
+waters, or the still purer Kaveri, in spate. Included in the audience were,
+of course, Lord Ranganatha, and His Divine Consorts, seated on splendid
+thrones, surrounded by Thiruvananthazhvan (Adi-Sesha), Garuda, Vishvaksena
+(Senapathi or Commander-in-Chief) and other parivaras (celestial retinue),
+the Azhvars etc., as it was at the Lord's behest that the discourses were
+commenced. This august assembly of unprecedented grandeur and dimensions
+was in session for a whole year, uninterruptedly. Mamunigal's discourses,
+initiated by Lord Ranganatha Himself, naturally took precedence over all
+other festivals, diurnal, weekly, fortnightly, monthly, annual etc., all of which
+were suspended during that particular year. Lord Ranganatha, the convener,
+wishing to provide a fitting finale to this illuminating series, pondered within
+Himself, as follows:-
+"During Our Avatars, We did study, in keeping with the spirit of the
+Avataras, under some teachers, but that none of them had all the traits of a
+perfect Guru, full and complete, has been a matter of lurking regret and
+frustration for Us. What a mighty recompense, these days, with Mamunigal,
+the very acme of perfection! Shall We not proclaim our appreciation
+and acknowledgment of this fact, in the shape of a 'Thanian' (invocation),
+before this august assembly, at a suitable moment and immortalise that event
+and thus discharge Our paramount duty as a disciple?"
+5
+18 SRI RAMANUJAN
+THE ADVENT OF 'SRI SAILESA TIRUMANTRAM
+The last stanza in the last decad of the last centunm of 'Thiruvoimozhi'
+had just been expounded by the Great Master and the further ceremonial
+proceedings marking the conclusion of the year-long discourses were to be gone
+through. Just then, the great wonder of wonders came off. Lord Ranganatha,
+assuming the form of a four year old boy, pierced through the gathering, in
+great haste, unmindful of the opposition offered by the elders, stood before
+Mamunigal with joined palms and recited, in clear-accent and a resonant
+voice, the following invocation:-
+"Srisailesa-daya-patram Dheebhakthyadi-gunarnavam;
+Yatindra-pravanam Vande Ramyajamataram Munim."
+and disappeared instantly, leaving the assemblage agape, with wonder.
+This verse with such a divine background, regarded as a holy mantra,
+was recorded then and there on a palm-leaf and consecrated with turmeric
+paste. The sacred document was then placed at the feet of Lord Ranganatha
+and kept in a plate. The event was celebrated with great eclat. This Sloka
+has since then been accorded the same stature as 'Pranava' and even as the
+latter is chanted both while commencing and ending the recital of the Sanskrit
+Vedas, this sloka is sung, both at the commencement and at the end of the
+recitations of the Dramida Vedas, viz. the Divya Prabandhams of Azhvars.
+The disciples of Mamunigal also compiled, under the orders of Lord
+Ranganatha, certain Tamil verses, beginning with "Blessed be Manavala
+Mamunigal, who thrives on the grace of Thiruvoimozhippillai" and the
+çonvention was set up that these verses shall also be recited in continuation of
+the 'Srisailesa' mantra, to mark a finale of the recitation of the Divya
+Prabandhams.
+Thereafter, Lord Ranganatha drew Mamunigal nearer, inside the
+sanctum Sanctorium, and flooded him with honours and then had him
+escorted to the Mutt with temple honours and paraphernalia, in a resounding
+procession round the streets. It was only then, that God Ranganatha derived
+the satisfaction of having fulfilled His mission. (c. f) Kritakrityas Tada
+Ramo Vijwarah pramumoda ha!
+MAMUNIGAL'S WORKS.
+As revealed by himself, in the 28th stanza of his hymns entitled 'Aarthi
+Prabandham', Mamunigal's chief aim was to propagate the works and teachings
+of the earlier Acharyas and it was far from his intention to bring out original
+MANAVALA MAMUNIGAL "
+19
+works, or commentaries of his own. And yet, he produced the following
+works, excelling the combined sweetness of honey, milk and sugar-candy. This
+is ascribable to the divine command and the solicitous prayers of his disciples,
+coupled with our great good fortune.
+(1) Commentaries on:
+(a) Three most important works out of the eighteen esoteric treatises
+of Pillai Lokacharya-'Sri Vachana Bhushanam', 'Tatvatrayam' and
+'Mumukshuppadi';
+(b) 'Acharya Hridayam', a gem of a Rahasya Grantha (esoteric text)
+by Alagiya Manavala Perumal Nayanar, the illustrious younger brother of
+Pillai Lockacharya;
+(c) Periya Azhvar Thirumozhi' up to and inclusive of the first stanza,
+in the first decad of the fifth section, (i.e.) 421 stanzas, in all, the palm-leaves
+containing the relative commentaries of Periavachan Pillai, who had written
+up his commentaries, on all the four thousand stanzas of the Divya
+Prabandhams, having been ravaged by white ants. Mamunigal's commentaries,
+supplying just the missing gap, are so sweet and lucid that scholars pine for his
+commentaries on all the remaining stanzas of the Divya Prabandham also and
+even go to the extent of wishing that the fate, which befell the commentaries
+of the 421 stanzas, referred to above, had over-taken the rest of the earlier
+commentaries, too, so that Mamunigal could have made good the deficiencyу,
+in its entirety. This should not detract from the greatness of Periavachan
+Pillai, who has the reputation of being the Vyakhyana Chakravarti', but
+only emphasise the excellence of Mamunigal's writings.
+(d) 'Ramanuja Nootrandadi', the lyrical outpouring of Amudanar,
+(also called Tiruvarangattamudanar), on Ramanuja.
+(e) 'Gita Thathparya Deepa', on Bhagavat Gita. This is, however, not
+extant, having been lost at some stage and lost for ever.
+(2) Original Works:
+(a) Yathiraja Vimsathi referred to earlier, in this book.
+(b) Devaraja Mangalam
+[c] Upadesa Rathnamalai
+Tamil [d] Thiruvoimozhi Nootrandadi
+[e] Aarthi Prabandham
+[f] A compendium of quotations, occuring in the commentary
+on Thiruvoimozhi, known as 'Eadu, Thirty Six thousand',
+20 SRI RAMANUJANA
+iwand [g[ Added to "Gnana Saram' and 'Prameya Saram' (the works ow
+and ghaso-gof Arulala Perumal : Emberumanar), theappropriatedtow
+1Purana Slokas. 6ou ot oldadivoan i
+(The reader may please add to this list, other-works, if any, of Mamuni
+gal, within his knowledge)
+rerilont al THE EXCELLENCE OF MAMUNIGAL'S WORKS
+bnsThe works of Mamunigal stand on a pedestal of their own and excel
+those of other Acharyas, by reason of their exceptional mellifluence, dignity of
+style, depth of meaning and elegance, unique feel and flavour, all of which
+constitute a class by themselves. His commentaries closely follow the original,
+shorn of all extraneous matter, not germane to the theme commented upon.
+It will not amount to a hyperbole, if it is said that no other author has ever
+acquired the art of bringing out commentaries in a like manner. In his
+commentaries on "Tatva Trayam', the triple entities (viz) Jeeva (chit), matter
+(Achit), and God (Easwara), Mamunigal has, no doubt, refuted the differing
+doctrines of other religions and even so, he has studiously refrained from heat
+and passion, that might give a jar or jolt to any one, derision and ridicule,
+which the disputants generally resort to, as a matter of course. On the other
+hand, it will be crystal-clear to any one, who turns over the pages of
+Mamunigal's works, that he is expounding, all the time, only the Shastraic
+trends and that, with remarkable ease, which at once reveals the profundity of
+his knowledge of the Shastras and makes one confidently assert that he is the
+one and only one, in the whole universe, who has such a thorough mastery
+over the entire range of the Shastras. And then, his works are absolutely free
+from the faults noticeable in other commentaríes, namely, skipping over
+abstruse and knotty passages in the original texts, equivocation, quibbling,
+mis-interpretation, over-interpretation etc His illuminating preambles to the
+esoteric aphorisms of Pillai Lokacharya, his wonderful presentation of the
+meanings of the texts, in a clear and analytical style, resolving, in an admirable
+manner, the apparent contradictions and inconsistencies with other parts
+of the same text, as well as other texts, are bound to send the discerning reader
+into raptures and melt down, in ecstacy.
+Literally speaking, he who has gone through Mamunigal's works, will
+hardly turn his love and attention to the works of others, and if he did, it
+would be just as unnatural as the honey-gathering bee, going after the dry
+thorny flower, in preference to the lotus flower bursting with honey c. f. the
+line in Alavandar's Stotra Ratna-(Sthithe Aravinde Makarandanirbhare
+Madhuvratho Nekshurakam hi Veekshathe). Why beat about the bush?
+"MANAVALA MAMUNIGAL" 21
+When we go through the writings of others, we are quite in a position to guage
+the depth of their learning. But, when we pore over the commentaries of
+Manavala Mamunigal, we have only to think of Sri Rama's glowing reference
+to Hanuman's attainments. In the Adi-Kavya of Valmiki, it has been
+exclaimed by Rama that only a person, who is well-versed in all the three
+Vedas, Rig, Yajur and Sama, who has mastered the Sanskrit grammar, in its
+entirety, and who has studied it all, from many angles and many sources, could
+speak such immaculate and beautiful language as Hanuman. The Tamil poet,
+Kamban has embellished it still further, in his inimitable style, in his immortal
+Ramayana, through the following posers:-
+"You, my younger brother with great prowess in archery! Is there any
+one including Brahma and Siva mounted on his bull, who can excel Hanuman
+in speech? When Hanuman speaks, there springs a melody, unheard of any
+where else and at any time before, and his words create a veritable ocean of
+knowledge and bring to the fore many an untaught art."
+The dispassionate among us, free from the pangs of jealousy, are bound
+to agree that these words of praise apply most aptly to Mamunigal.
+THE "ASHTA DIGGAJAS” (THE EIGHT ELEPHANTS DEFENDING
+THE VAISHNAVITE FAITH IN THE EIGHT DIRECTIONS
+Of the several thousands of disciples, who enjoyed bliss and happiness
+at the feet of Mamunigal, the following eight persons (three Sanyasis and five
+Grihasthas), known as "Ashta Diggajas" were the most prominent:
+(1) Vanamamalai Jeeyar,
+(2) Pattarpiran Jeeyar,
+(3) Thiruvenkata Ramanuja Jeeyar,
+(4) Koil Annan,
+(5) Prativadi Bhayankaram Annan,
+(6) Yerumbi Appa,
+(7) Appillai, and
+(8) Appullar.
+CONCLUSION
+The author of this brief biographical sketch is fully aware that the
+historical record of the life, teachings and achievements of Mamunigal was just
+as expansive and extensive as that of his great precursor, Sri Ramanuja and yet
+he (author) has deemed this short sketch adequate for the daily musing by the
+Bhaktas (devotees). It is significant that the author has not included within
+the compass of this treatise, Mamunigal's return to the Supreme Realm,
+whence he had come to this abode of ours. This is not an omission and even
+6
+22 SRI RAMANUJAN
+if it were to be so construed, it is a deliberate omission, fully justified by our
+invocation at the temples, praying unto Manavala Mamunigal every time, to
+stay in this land of exhilarating bliss, favoured by the cool fragrance of the
+hymns of Satakopa (Nammazvar) surrounded on all sides by the seas, for
+a hundred years more, to make the dovotees thrive and the city of Arangam
+(or the city enshrining Arangan (i.e.) Lord Ranganatha) flourish.
+The historically-minded can easily appreciate the value and authenticity
+of internal evidence. Even as Nammazhvar has revealed his virtues through
+his hymns "Thuvalil Mamanimadam" (Thiruvoimozhi 6-5), Mamunigal has
+also given a clear picture of his own ideals, view and way of life, in a stanza
+occuring in his work "Aarthi Prabandham", the gist of which is given below.
+It will be appreciated that this song is by-no-means for the Swami's selfglorification, but is meant for constant meditation by us, so that we may strive
+after the ideal set therein and attain purity and salvation.
+"Oh! what a bliss!
+Bestowed unto us is the sweet grace of Lord Ranganatha;
+(As a result thereof)
+We have secured our dwelling in Srirangam;
+Food, We have in plenty the hymns of the exalted Maran
+(Nammazhvar);
+Anchored in us are Madura-Kavi's words of steadfast devotion to
+the Acharya;
+We have for our meditation the vast treasures of knowledge,
+bequeathed to us by the great galaxy of Acharyas;
+We have it in us that we shall revel all the time in the said
+treasures of knowledge;
+We have also the gift of a mind firm, not straying elsewere;
+and above all, We have acquired the greatness of not being
+jealous over the affluence of others!
+[We seek refuge in the Jeeyar's blissful feet.]
+[Manavalamamunigal Thiruvadigale Saranam.]

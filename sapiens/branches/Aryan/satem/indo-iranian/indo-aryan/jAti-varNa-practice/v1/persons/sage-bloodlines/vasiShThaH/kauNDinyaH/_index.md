@@ -16,8 +16,20 @@ title = "+कौण्डिन्यः"
 ### ज्ञानसम्बन्धः
 This crowning glory of कौण्डिन्यगोत्र of the वसिष्ठाः quelled the बौद्ध & जैन hostilities against वैदिकधर्म & शैवमत with his nectarine tamizh poetry. How fitting that he who rejuvenated dharma should take descent from the ऋषि who gave the मृत्युञ्जय मन्त्र?!
 
-### मणवाळमामुनिः
-luminary of तॆङ्कलैसम्प्रदाय wrote many works in tamizh/मणिप्रवाळ. So beautiful was his erudition that रङ्गनाथस्वामि (viṣṇu) invited him to give discourses at the temple on the sacred तिरुवाय्मॊऴि & at it's end, accepted him as his own आचार्य.
+### प्रथम-परकाल-यतिः
+
+The first pontiff of 'Sri Brahmatanthra Swatanthra Parakala Matha' - 'Sri Lakshmi Hayagriva Divya Paduka Sevaka Sri Sri Sri Brahmatanthra Swatanthra Mahadeshika' also belongs to 'Koundinya Gothra,' known as 'Sri Varadarajacharya' ( Bhadrapada / Kanya Shravana ) in purvashrama, was considered as incarnation of "Sri Devaraja / Varadaraja Parabrahma".
+
+
+हस्तीशं लोकविख्यातं कौण्डिन्य-विदुषां वरम् ।  
+रामानुजार्यसिद्धान्त-स्थापनाचार्यमाश्रये ।।
+
+> He was already a sanyasin by 1359. So this taniyan must have been written prior to that year. It is interesting that AM uses this taniyan whereas Nadathur family today uses paryaaya bhashyakaaraaya only afaik
+
+पर्यायभाष्यकाराय प्रणतार्तिं विधून्वते।  
+ब्रह्मतन्त्रस्वतन्त्राय द्वितीयब्रह्मणे नमः॥
+
+composed by Ghatikāśatakam-Ammal
 
 ### अघोरशिवाचार्यः
 - genius who headed अमर्दकमठ at मध्यप्रदेश but eventually settled at चिदम्बर, TN. His क्रिय-क्रम-द्योतिका, an unmatched ritual manual, is still used at every major TN शिवालय. 
