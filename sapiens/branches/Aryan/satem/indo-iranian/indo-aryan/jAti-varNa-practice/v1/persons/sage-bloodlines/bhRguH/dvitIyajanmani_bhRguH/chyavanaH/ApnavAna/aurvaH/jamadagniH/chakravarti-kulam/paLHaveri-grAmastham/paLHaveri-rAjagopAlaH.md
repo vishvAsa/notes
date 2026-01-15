@@ -8,7 +8,7 @@ title = "पऴवेरि-राजगोपालः"
 ![](../images/rAjagopAla_injimeDu_shrIvatsAnka_devanAthAdi.jpg)
 {caption="" class="thumbnail"}
 
-"सार-सार-ज्ञः" पलवेरि-चक्रवर्ति-राजगोपालाचार्यः।  
+"सार-सार-ज्ञः" पऴवेरि-चक्रवर्ति-राजगोपालाचार्यः।  
 १९२५-०९-१७ - २०११ ।  
 
 ## जन्मादि
