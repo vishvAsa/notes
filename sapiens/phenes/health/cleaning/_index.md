@@ -8,10 +8,12 @@ title = "+Cleaning"
 - Massage gums daily: pull the gums up with 2 fingers. Gums may bleed if there is inflammation, but massaging is good. Can use electric toothbrush.
 
 ### Cleaning paste
+- soap nut powder generates lather. 38Rs/g in 2025
+- haritaki powder - 33Rs/g in 2026: [TW](https://www.amazon.in/gp/product/B019RV7H9O)
 - Baking soda + water is good. [TW](https://www.healthline.com/health/baking-soda-toothpaste) . Long term use can damage enamel.
 - salt occassionally - can permanently damage your tooth enamel.
 
-- sopa nut powder generates lather.
+### Sticks
 - neem stick chewed in the end to make a brush.
 - "Pong and Blue berry sticks too work."
 
