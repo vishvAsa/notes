@@ -4,7 +4,8 @@ title = "Supr"
 
 ## Current classes
 - Math, history, misc topics (विश्वसः)
-- Science, programming (श्रुतिः)
+- Science (श्रुतिः)
+- Indica geology book. 
 - tamiL - shrIvaiShNava texts and mags (बालकृष्णः)
 - Telugu rAmAyaNa (श्रीदेवी)
 - Taekwondo (**Iban-Jhop**)
@@ -15,8 +16,8 @@ title = "Supr"
 - Portuguese - daily 5 min (duolingo)
 - रहस्य-त्रय-सारादि - पऴवेरि-लक्ष्मीनरसिंहः (अर्धावधानेन)
 - वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**प्रदीप-सिंहः**)
-- परवस्तु-सामानि (विश्वसः)
-- पञ्चतन्त्रम् (विश्वसः)
+- परवस्तु-सामानि (**विश्वसः**)
+- पञ्चतन्त्रम् (**विश्वसः**)
 
 ## Past
 - swimming (rAhul)
@@ -28,6 +29,14 @@ title = "Supr"
 Class and ritual timings give structure.
 
 Rituals - tarpaNa, brahmayajna, sandhyAvandana, ijyA, japa, sandhyAvandana, samidAdhAna
+
+## 2025-12
+- tamiL class frequency cut to 50%.
+- telugu class frequency cut to 2 per week.
+
+## 2025-11
+- telugu class frequency cut to 50%.
+- Started reading Indica.
 
 ## 2025-04
 - भरत-नृत्यम् - कविता (पन्द-नल्लूरु-शैली). 1k monthly, 800 admission.

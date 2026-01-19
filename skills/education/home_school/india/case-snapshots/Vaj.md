@@ -3,14 +3,14 @@ title = "vajr"
 +++
 
 ## Current classes
-- Science in english (nAgaratnA)
-- tamiL (बालकृष्ण-पत्नी)
+- maths, comics in english (**nAgaratnA**)
+- tamiL (बालकृष्णः)
 - Taekwondo (**Iban-Jhop**)
 - कर्णाटक-कण्ठ-सङ्गीतम् (**स्नेहश्री**, **राजलक्ष्मी**)
-- भरत-नृत्तम् - कविता (पन्दनल्लूर्-शैली)
-- tablA (**kulakaraNI**)
-- Telugu rAmAyaNa - secondary (श्रीदेवी)
-- परवस्तु-सामानि (विश्वसः)
+- भरत-नृत्तम् - **कविता** (पन्दनल्लूर्-शैली)
+- tablA (**विश्वनाथः**)
+- Telugu kids textbooks, chandamama (**श्रीदेवी**)
+- परवस्तु-सामानि (**विश्वसः**)
 - वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**प्रदीप-सिंहः**)
 
 ## Routine
@@ -18,8 +18,15 @@ Class and ritual timings give structure.
 
 Rituals - tarpaNa, brahmayajna, sandhyAvandana, ijyA, japa, sandhyAvandana, samidAdhAna
 
+## 2025-12
+- tablA - switched to vishvanAth - 1-1 classes, 2 days a week, 1k monthly.
+- tamiL - started 1-1 classes, alternate days
+
+## 2025-11
+- telugu - started 1-1 classes 
+
 ## 2025-07
-- tablA started (**kulkarNi**, 1.1km away, 1k monthly, 2 days / week)
+- tablA started (**kulkarNi**, 1.1km away, 1k monthly, 2 days / week. very crowded, less hands-on practice).
 
 ## 2025-06
 - Evening math/ english shifted to nAgaratnA (shruti irritable).
