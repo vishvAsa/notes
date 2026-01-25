@@ -17,15 +17,32 @@ The epoch making Shivaji rose in a small corner to protect the Hindu religion. T
 
 <details><summary>Uday Kulkarni</summary>
 
+अटक नदीचे अलीकडे दक्षिण समुद्र पावेतो हिंदूंचे स्थान - तुरुकस्थान नव्हे - हे आपली हद्द पांडवांपासून विक्रमादित्यापर्यंत होती . त्यामागे राज्यकर्ते नादान निघाले . यवनांचे प्राबल्य आले त्यानंतर कैलासवासी शिवाजी महाराज शककर्ते व धर्म राखते निघाले .. हल्ली श्रीमंताचे पुण्यप्रतापेकरून राजश्री पाटील बावांचे ( महादजी शिंदे यांचे) बुद्धी व तलवारीच्या पराक्रमेकडून सर्व (राज्य ) घरास आले . 
+
 From the river at Attock to the southern sea, is the land of the Hindu race. It is not Turkastan! This has been our border from the Pandavas to king Vikramjit (Vikramaditya). Then we had rulers who were inept and incompetent. The rule of the yavanas became powerful. Hastinapur was taken by the Chaghtai. Then in Alamgir’s time, we had to endure that those with the sacred thread had to pay three and a half rupees as jiziya. Then the late Kailaswasi Shakakarta and Protector of the dharma Shivaji maharaj was born and he protected the dharma. Later late Kailaswasi Nanasaheb and Bhausaheb - like valorous suns came… Scindia and Holkar became the two arms of the kingdom. At present with Shrimant’s punya and valour and Patilbaba’s intelligence and prowess with sword, all has come home. 
 </details>
+
+> ( महादजी शिंदेमुळे ) अलभ्य गोष्टी घडल्या . उग्याच दौलती पुसत घरास आल्या ...यवनांचे मनांत की काफरशाही जाली हे बोलतात . लेकिन ज्यांनी ज्यांनी हिंदुस्थानात शिरे उचलली त्यांची त्यांची मस्तके पाटीलबाबानी फोडली ....
+
+> "Mahadaji Shinde achieved unattainable glories. Yavanas are saying in their minds that the rule of kaafirs have arrived. But whoever dared to raise their heads, PatilBaba smashed all of them. 
 
 
 The Patil-bova (Mahadji) broke the heads of those who tried to raise them. All wished him ill luck, but he did accomplish his object dauntlessly. This victory will surely bear the desired fruit on the model of the great Shivaji. Let no evil eye soil this glorious result. Not only have territories and kingdoms been acquired by this victory, but the protection of the Vedas and the Shastras, the foundation of religion and unmolested worship, the preservation of Brahmans and cows: in fact, this suzerain regal power of the Marathas, this fame and gloryall have now been achieved and proclaimed in the loudest accents to the world. To preserve this grandeur will be the glory of Patil-bova and yourself.
 
-You must not be remiss in this task. All doubts about our supremacy over India have been set at rest. Grand Maratha armies must now be stationed on the plains of Lahore, for there exist countless evil-doers, who rejoice at our reverses and try to compass our downfall.
+You must not be remiss in this task. All doubts about our supremacy over India have been set at rest. 
+
+
+> या उपरी हे जमाव व या फौजा 'लाहोरच्या' मैदानात असाव्यात , त्यांचे मनसुबे दौडावे , वेत्यास पडावे , तमाशे पहावे ...."
+
+> Hereafter armies should be permanently deployed in plains of Lahore & execute the plans"
+
+Grand Maratha armies must now be stationed on the plains of Lahore, for there exist countless evil-doers, who rejoice at our reverses and try to compass our downfall.
 
 <details><summary>Uday Kulkarni</summary>
 
+अगर मुसलमान कोणी असे केले , तरी मोठे मोठे तवारीखनामे (जाहिरातबाजी)आले असते .  
+यवनाच्या जातीत तिळाइतकी चांगली गोष्ट जाल्यास गगनाबरोबर (तुलना ) करून शोभवावी ; आमचे हिंदूत गगना इतकी झाली असता उच्चार न करावा हे चाल आहे.
+
 … Had there been a Mussalman patshah, big histories and tawarikhnamas would’ve been written. Among the yavanas, a good deed the size of a sesame seed is blown sky high to the heavens. Amongst us Hindus even if a good deed as high as the heavens is done, we should not utter a word (about it). This has been the practice. The yavanas feel that rule of the infidels (kafirs) has come. Whoever raised his head in Hindustan, their heads were smashed by Patil baba. Like the shakakarta, this arrangement should be utilised. It is not just territory or political power, it is time to reestablish the Vedashastra, establish the dharma and be the sovereigns in our own hands. Blow the trumpets of success and fame.
 </details>
+
