@@ -2,6 +2,7 @@
 title = "2025+ trump actions"
 +++
 
+
 ## City vs Empire
 The clash between the imperial court running the nAri~NgapuruSha and gardabha-run oligarchic city states -- megalopolises is beginning to shape up among the mahAmlechCha. This also fits the Spenglerian pattern well of the clash between the Caesar (nAri~Nga run by his controls) and the megalopolitan oligarchs backing the gardabha-s.
 
@@ -9,6 +10,10 @@ The clash between the imperial court running the nAri~NgapuruSha and gardabha-ru
 Source: [TW](https://x.com/blog_supplement/status/2009497466853367950)
 
 The mahAmlechCha situation is heating up: nAri~Nga and anUpa's actions are driving up unrest at home while building armies for war outside. Possibly, the idea is to trigger some wars so that the internal ferment is distracted and they can proceed with their internal agenda. But the internal ferment could end their electoral hopes before they achieve success in the wars.
+
+For the pichChilaka's court, war will increasingly become the best option to come out of the mess that they are creating within and without. In a sense pichChilaka has become like his predecessor piNDaka -- a puttalikA run by maga-duShTa-s like gharaTTaka and  anUpa who plays to their jarilonmattAnuyAyin base.
+
+The pichChilu~Nga is like an accelerant speeding many a geopolitical fire.
 
 ## Venezuela Maduro
 While the mahAmlechCha have no real challengers and are like the big boy bullying little kids, their actions repeatedly solidify Natanyahoo's truism: "the arc of history bends towards power."

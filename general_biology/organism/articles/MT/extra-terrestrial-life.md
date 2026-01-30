@@ -20,3 +20,6 @@ Too little entropy and everything frozen in excessive regularity.
 Too much entropy and there is too much disorder for the molecular structures of life to persist. 
 
 There are relatively rare belts that allow such a regime. But given the enormity of the number of stars in the Galaxy we can still say there might *conservatively* up to 300 million stars that have such conditions for supporting replicating life. However, dormant life could spread over greater zones.
+
+## Kepler
+Johannes Kepler thought there were at least two species of aliens on the Moon, one on the bright side and one on the dark side. He conceived them as hibernating, giant, scaly creatures. He also thought Jupiter has advanced aliens on it.

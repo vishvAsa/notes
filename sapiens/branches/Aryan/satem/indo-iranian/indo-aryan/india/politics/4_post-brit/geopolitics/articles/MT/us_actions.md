@@ -4,6 +4,8 @@ title = "US actions"
 
 ## 2026
 ### Challenges
+H will probably face challenging times in the relatively near future from the A~NglamlechCha directly or more likely via their marUnmatta allies.
+
 Source: [TW](https://x.com/blog_supplement/status/2007985238765449457)
 
 As 2026 proceeds, it seems like everything is shaping in the direction for the H to face major challenges from their mlechCha-marUnmatta-saMyoga. 
