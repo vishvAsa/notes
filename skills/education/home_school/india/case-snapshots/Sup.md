@@ -37,7 +37,15 @@ Rituals - tarpaNa, brahmayajna, sandhyAvandana, ijyA, japa, sandhyAvandana, sami
 ## 2026-01
 - न्याय-सुधा-मङ्गल-कार्यक्रम-दर्शनं कुक्के-सुब्रह्मण्य-क्षेत्रे। Small kumAra-parvata-trek. Poor performance in subrahmaNyana-hoLe in agrahAra.
 - Started reading Geology text Indica.
-- भरत-नृत्यम् - कविता (पन्द-नल्लूरु-शैली) class ended. (Unlike others, demanded full 1k, despite 50% cut in classes - that too rudely with 2 month arrears. She got 1k.)
+- भरत-नृत्यम् - कविता (पन्द-नल्लूरु-शैली) class ended.
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+भरत-नृत्यम् - कविता -
+
+Unlike others, demanded full 1k, despite 50% cut in classes - that too rudely with 2 month arrears. She got 1k.
+</details>
+
 
 ## 2025-12
 - tamiL class frequency cut to 50%.
