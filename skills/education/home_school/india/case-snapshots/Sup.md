@@ -5,23 +5,23 @@ title = "Supr"
 ## Current classes
 - Math, history, misc topics (विश्वसः)
 - Science (श्रुतिः)
-- Indica geology book. 
 - tamiL - shrIvaiShNava texts and mags (बालकृष्णः)
 - Telugu rAmAyaNa (श्रीदेवी)
 - Taekwondo (**Iban-Jhop**)
 - कर्णाटक-कण्ठ-सङ्गीतम् (**स्नेहश्री**, **राजलक्ष्मी**)
 - कर्णाटक-सङ्गीतम् - Violin (**राजलक्ष्मी**)
-- भरत-नृत्तम् - कविता (पन्दनल्लूर्-शैली)
 - Spanish - daily 5 min (duolingo)
 - Portuguese - daily 5 min (duolingo)
 - रहस्य-त्रय-सारादि - पऴवेरि-लक्ष्मीनरसिंहः (अर्धावधानेन)
 - वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**प्रदीप-सिंहः**)
 - परवस्तु-सामानि (**विश्वसः**)
+- swimming (rAhul)
 - पञ्चतन्त्रम् (**विश्वसः**)
+- Indica geology book. (self)
+- Amar chitra kathA kindle comics. (self)
 
 ## Past
-- swimming (rAhul)
-- नृत्यम् - अनूषा, राधिका
+- नृत्यम् - अनूराधा-गणः (कलाक्षेत्र-शैली), अनूषा, सरोजिनी (ताञ्जावूरु-शैली), राधिका (पन्द-नल्लूरु-शैली), कविता (पन्दनल्लूर्-शैली)
 - kannaDa, english reading (श्रुतिः)
 - Goodreads [here](https://www.goodreads.com/review/list/184092601?shelf=read)
 
@@ -30,20 +30,37 @@ Class and ritual timings give structure.
 
 Rituals - tarpaNa, brahmayajna, sandhyAvandana, ijyA, japa, sandhyAvandana, samidAdhAna
 
+## 2026-02
+- Restarted swimming classes
+
+
+## 2026-01
+- न्याय-सुधा-मङ्गल-कार्यक्रम-दर्शनं कुक्के-सुब्रह्मण्य-क्षेत्रे। Small kumAra-parvata-trek. Poor performance in subrahmaNyana-hoLe in agrahAra.
+- Started reading Geology text Indica.
+- भरत-नृत्यम् - कविता (पन्द-नल्लूरु-शैली) class ended. (Unlike others, demanded full 1k, despite 50% cut in classes - that too rudely with 2 month arrears. She got 1k.)
+
 ## 2025-12
 - tamiL class frequency cut to 50%.
 - telugu class frequency cut to 2 per week.
+- भरत-नृत्यम् class frequency cut to 1 per week.
 
 ## 2025-11
 - telugu class frequency cut to 50%.
 - Started reading Indica.
 
+## 2025-10
+- Leh, sindhu, pangong trip
+- Started reading many comics on Kindle.
+
 ## 2025-04
 - भरत-नृत्यम् - कविता (पन्द-नल्लूरु-शैली). 1k monthly, 800 admission.
 - वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**प्रदीप-सिंहः**)
 
+## 2025-03
+- भरत-नृत्यम् - nRtyoma **राधिका** class ended. (Asked 6k for compulsory "annual day".)
+
 ## 2024-12
-- भरत-नृत्यम् - nRtyoma **राधिका** (पन्द-नल्लूरु-शैली). 1k monthly, 2k admission. Later asked 6k for compulsory "annual day".
+- भरत-नृत्यम् - nRtyoma **राधिका** (पन्द-नल्लूरु-शैली). 1k monthly, 2k admission. 
 
 ## 2024-11
 - Started Portuguese on **Duolingo**
