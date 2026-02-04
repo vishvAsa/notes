@@ -18,3 +18,5 @@ An Islamic author talks of the pagan, like Uighur, khan: "Joined by shamans in a
 
 Thus the title idiqut seen close to chingizid times. The Turkic & Mongolic Khans seems to have believed that that this qut was acquired by Khan at the Ötüken mountain in Mongolia. The Chingizid capital Qaraqorum was built in its vicinity & they saw it as the holy spot of the Earth goddess.
 
+## Etymology
+It is interesting that the modern Turkish word for "civilized" uygar/uygur is derived from the ethnonym Uighur, the Turkic confederation that founded the 3rd great Turkic Khaghanate.

@@ -49,3 +49,10 @@ H.habilis, with more primitive proportions, was probably better off in the trees
 This interestingly mirrors the situation with Homo naledi, with a more primitive brain and torso but more advanced hands and feet living beside early H.sapiens.
 
 It shows that Homo species with different combinations of primitive and derived features coexisted for a couple of million years before H. sapiens destroyed all his congenerics.
+
+## Gravettians
+The Gravettians(Early European Modern Humans) were a tall and relatively slender group of sapiens that came after their predecessors, the Aurignacians, had destroyed the Neanderthals. 
+
+They are defined by their technology, the Gravette point, a small stone blade and their elaborate funerary rituals. A recent analysis shows that this young Gravettian male from Italy is possibly the first documented fossil of a human killed by a cave bear. His jaw was broken in half by the bear, and his skull was gouged by the bear's claw.
+
+https://t.co/pkcbqpwNfy
