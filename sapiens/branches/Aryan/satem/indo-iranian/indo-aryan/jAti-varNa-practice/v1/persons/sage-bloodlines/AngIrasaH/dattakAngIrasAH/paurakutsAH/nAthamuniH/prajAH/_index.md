@@ -39,7 +39,7 @@ Aka Srisailanatha, shrIshailapUrNa. Not to be confused with periya-nambi / mahAp
   (Pillan) was his jnana Putra and successor.
 
 ## Tirumalai Srinivasacharya
-> He was one of the most trusted disciples of Sri Vedanta Desika (13th and 14th Centuries AD). Tradition has it, that Sri Vedanta Desika who was attending to the worship of Lord Varadaraja, later entrusted the responsibility to Sri Srinivasacharya, whom be considered as the best choice for this service. Thus the Srikaryam of the Temple devolved upon him and, later on his descendants.
+He was one of the most trusted disciples of Sri Vedanta Desika (13th and 14th Centuries AD). Tradition has it, that Sri Vedanta Desika who was attending to the worship of Lord Varadaraja, later entrusted the responsibility to Sri Srinivasacharya, whom be considered as the best choice for this service. Thus the Srikaryam of the Temple devolved upon him and, later on his descendants.
 
 
 ## Later royal perceptors
