@@ -228,7 +228,7 @@ it must be manufactured using pure cotton fibres (a.k.a. cotton rag) or pure alp
 Must still be saved from acidic mats and sunlight.
 
 #### Archival paper
-Archival papers are (~100%) acid-free and lignin-free.  
+Archival papers are (~100%) acid-free and lignin-free. Superior to acid-free paper.  
 They can be made of virgin tree fiber (alpha-cellulose) or 25% to 100% cotton rag.  
 Oft  contains an alkaline reserve of calcium or magnesium carbonate to prevent acid degradation. This alkaline reserve can be achieved by adding bicarbonate during the drying process, which converts to calcium or magnesium carbonate. To last at least 100 years, archival paper needs an alkaline reserve of at least 2%.
 
@@ -240,6 +240,11 @@ Files can be stored on paper - **PaperBack** -
 
 > If you have a good laser printer with the 600 dpi resolution, you can save up to 500,000 bytes of uncompressed data on the single A4/Letter sheet. Integrated packer allows for much better data density - up to 3,000,000+ (three megabytes) of C code per page. Source: [TW](https://www.ollydbg.de/Paperbak/)
 
+
+##### Difference from acid-free paper
+Acid-free = neutral/alkaline pH, no acids/lignin.  
+Archival = acid-free + lignin-free + buffered + often made from cotton rag + meets certification standards.  
+While all archival paper is acid-free, not all acid-free paper is archival.  For long-term preservation, choose paper labeled archival with certifications like ISO 9706 or ANSI Z39.48-1992.
 
 #### UV ink on ceramic tiles
 UV flatbed printing uses UV-cured inks that sit on top of the tile surface. While these inks are durable, water-resistant, and fade-resistant under normal conditions, they can degrade over long periods, especially with prolonged UV exposure, abrasion, or harsh environmental conditions. The inks are not fused into the tile body but rather bonded to the surface, making them less durable than kiln-fired ceramics
