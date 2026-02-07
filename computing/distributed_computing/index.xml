@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Distributed computing on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/distributed_computing/</link>
+    <description>Recent content in &#43;Distributed computing on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/distributed_computing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Designing</title>
+      <link>https://vishvAsa.github.io/notes/computing/distributed_computing/designing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/distributed_computing/designing/</guid>
+      <description>&lt;h2 id=&#34;by-designing-action-systems&#34;&gt;By designing action systems&lt;/h2&gt;&#xA;&lt;p&gt;By specifying the safety and progress properties the distributed computation should have, you can then design a compliant action system. Then you can refine this in various ways to get different looking implementations.&lt;/p&gt;&#xA;&lt;h2 id=&#34;coordinating-processes&#34;&gt;Coordinating processes&lt;/h2&gt;&#xA;&lt;p&gt;There is always an initiator process.&lt;/p&gt;&#xA;&lt;h3 id=&#34;general-signalling-constructs&#34;&gt;General signalling constructs&lt;/h3&gt;&#xA;&lt;p&gt;See programming ref. Callback, polling.&lt;/p&gt;&#xA;&lt;h3 id=&#34;synchronization&#34;&gt;Synchronization&lt;/h3&gt;&#xA;&lt;h4 id=&#34;blocking&#34;&gt;Blocking&lt;/h4&gt;&#xA;&lt;p&gt;Process A may be listening in the channel, and may be blocked until it receives a message.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reasoning</title>
+      <link>https://vishvAsa.github.io/notes/computing/distributed_computing/reasoning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/distributed_computing/reasoning/</guid>
+      <description>&lt;h2 id=&#34;common-assumptions&#34;&gt;Common assumptions&lt;/h2&gt;&#xA;&lt;p&gt;A channel eventually (maybe at \(t=\infty\)) delivers all packets without corruption or dropping, in the correct order.&lt;/p&gt;&#xA;&lt;p&gt;Processes can run at arbitrary, non 0 speed.&lt;/p&gt;&#xA;&lt;p&gt;Don&amp;rsquo;t care about efficiency, focus on safety and progress.&lt;/p&gt;&#xA;&lt;p&gt;Assume you have infinite buffers.&lt;/p&gt;&#xA;&lt;h3 id=&#34;synchronized-communication&#34;&gt;Synchronized communication&lt;/h3&gt;&#xA;&lt;p&gt;Sometimes, this is needed. Max time to deliver a message is some t.&lt;/p&gt;&#xA;&lt;h2 id=&#34;proving-algorithm-efficacy&#34;&gt;Proving algorithm efficacy&lt;/h2&gt;&#xA;&lt;p&gt;Axiomatize the system, and use pure logic.&lt;/p&gt;&#xA;&lt;p&gt;Usually 2 stages: safety property: you won&amp;rsquo;t fall into a wrong state; and progress property.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
