@@ -2,7 +2,7 @@
 title = "paLHaveri-bAlAjI and village"
 +++
 
-palaveri village in pallava-desha near kAnchIpuram hosted an agrahAra, where rAjagopAla, a reknowned shrIvaiShNava scholar resided. His son, popularly known as bAlAjI, also a scholar, was raised there till early 1990s (age 20). These are some recollections pertaining to village life.
+palaveri village in pallava-desha near kAnchIpuram hosted an agrahAra, where rAjagopAla, a reknowned shrIvaiShNava scholar resided. His son, popularly known as bAlAjI, also a scholar, was raised there form 1973 till early 1990s (age 20). These are some recollections pertaining to village life.
 
 Abbreviations for the 4 varna-s - v1, v2, v3, v4.
 
@@ -86,6 +86,19 @@ Some 10 houses in a nearby village belonged to vaiShNava shUdras who wouldn't bo
 Other vaiShNava-s were similar. 
 
 Their antya-karmans involved nArAyaNa bali, unlike drumming and such of their non-vaiShNava fellows.
+
+In his village, there were 2 vaiShNava shUdra males who had taken samAshrayaNa in from different tenkalai AchArya-s - one of them wore a yajnopavIta, and another didn't. Both used to rise in respect when his father, though younger, passed by. A roughly 13 year old bAlAjI asked them about the upavIta difference. Their responses 
+
+- The one not wearing the upavIta said that his AchArya only taught him to do kIrtana-s and serve v1s. He felt that wearing the upavIta by v4s is contrary to shAstra-s.
+- The one wearing the upavIta said that his AchArya told him - v4s anyway are made to wear an upavIta during marriage. So, by the same logic he is to wear it daily post initiation.
+
+There exist obscure pAncharAtra upanayana provisions, eg. in परम-संहिता 
+
+> शूद्रं तु तन्त्रजैर् मन्त्रैर्  
+दासान्तं नाम च स्मृतम् ।  
+उपवीतं च वस्त्रं च  
+गुणमन्त्रेण योजयेत् ॥
+
 
 ### Haters
 In a nearby town, tellAr, where he went to a polytechnic college, once a roughly 50 year old soda-shop owner called him over from a bus-stand, and asked him to read something (year approx. 1989). As he bent over, the man took a handful of water from the soda-bucket, splashed it on his forehead and wiped off his tilaka. Then he told him - "you look better without it, don't wear it henceforth." When told about it, his father told him to not react, and just wear the puNDra upon returning home.
