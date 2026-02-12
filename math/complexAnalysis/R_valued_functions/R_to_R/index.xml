@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;R to R on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/complexAnalysis/R_valued_functions/R_to_R/</link>
+    <description>Recent content in &#43;R to R on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/math/complexAnalysis/R_valued_functions/R_to_R/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Differential</title>
+      <link>https://vishvAsa.github.io/notes/math/complexAnalysis/R_valued_functions/R_to_R/differential/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/complexAnalysis/R_valued_functions/R_to_R/differential/</guid>
+      <description>&lt;h2 id=&#34;definition&#34;&gt;Definition&lt;/h2&gt;&#xA;&lt;h3 id=&#34;rate-of-change&#34;&gt;Rate of change&lt;/h3&gt;&#xA;&lt;p&gt;The differential function, aka derivative, is \&#xA;\(f&amp;rsquo;(x) = \frac{df}{dx}= \lim_{\change x \to 0} \frac{f(x+\change x) - f(x)}{\change x}\), if the limit exists.&lt;/p&gt;&#xA;&lt;h3 id=&#34;linear-approximation-view&#34;&gt;Linear approximation view&lt;/h3&gt;&#xA;&lt;p&gt;Hence, \(f(x + \change x) = f(x) + \change(x) f&amp;rsquo;(x)\), as \(\change x \to 0\).&#xA;As the primary use of the differential function is to be able to make linear/ polynomial approximations to \(f\), one can view the differntial function as a measure of \(f(x + \change x) - f(x)\) as \(\change x \to 0\).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Misc functions</title>
+      <link>https://vishvAsa.github.io/notes/math/complexAnalysis/R_valued_functions/R_to_R/misc_functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/complexAnalysis/R_valued_functions/R_to_R/misc_functions/</guid>
+      <description>&lt;h2 id=&#34;classification-by-dependence-on-parameters&#34;&gt;Classification by dependence on parameters&lt;/h2&gt;&#xA;&lt;p&gt;See probability ref.&lt;/p&gt;&#xA;&lt;h2 id=&#34;recurrance-equations&#34;&gt;Recurrance equations&lt;/h2&gt;&#xA;&lt;p&gt;Eg: \(a&amp;rsquo;h_{i+2}+b&amp;rsquo;h_{i+1}+c&amp;rsquo;h_{i}=0\) (Linear, homogenous). Get characteristic eqn by supposing \(h_{i} = tx^{i}\); Get roots and multiplicity: \((r_{1},2), (r_{2},1)\); Then, \(h_{i} = ar_{1}^{i} + bir_{1}^{i} + cr_{2}^{i}\); Solve for a, b, c with boundary conditions. Or, use telescoping sum.&lt;/p&gt;&#xA;&lt;h2 id=&#34;polynomial-p-over-field-k&#34;&gt;Polynomial P over field K&lt;/h2&gt;&#xA;&lt;p&gt;Polynomial over field K has coefficients from K.&lt;/p&gt;&#xA;&lt;p&gt;Rational function: ratio of polynomials.&lt;br&gt;&#xA;For \(\perp\) polynomials, see Approx theory ref.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>N to R</title>
+      <link>https://vishvAsa.github.io/notes/math/complexAnalysis/R_valued_functions/R_to_R/N_to_R/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/complexAnalysis/R_valued_functions/R_to_R/N_to_R/</guid>
+      <description>&lt;h2 id=&#34;convergent-sequences-s_n-t_n-in-a-field&#34;&gt;Convergent sequences \((s_{n), (t_{n})\) in a field&lt;/h2&gt;&#xA;&lt;p&gt;Also see Topology ref, properties noted in lin alg ref.&lt;/p&gt;&#xA;&lt;p&gt;Sums, products, quotients (sans 0 denominator) of convergent sequences are convergent.&lt;/p&gt;&#xA;&lt;h3 id=&#34;boundedness&#34;&gt;Boundedness&lt;/h3&gt;&#xA;&lt;p&gt;Upper and lower bounds.&lt;/p&gt;&#xA;&lt;h3 id=&#34;montonicity&#34;&gt;Montonicity&lt;/h3&gt;&#xA;&lt;p&gt;Monotone increasing and decreasing sequences.&lt;/p&gt;&#xA;&lt;p&gt;A monotone increasing sequence that is bounded above must converge: imagine points on real line; similarly monotone decreasing sequence that is bounded below.&lt;/p&gt;&#xA;&lt;p&gt;(Bolzano, Weierstrass): Every bounded sequence has a subsequence which converges: let M be the bound; either [-M, 0] or [0, M] has \(\infty\) elements; so use this repeatedly to find monotone, bounded subsequence; this converges. Also holds for \(R^{n}\).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Investing on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/economics/assets/investing/</link>
+    <description>Recent content in &#43;Investing on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/economics/assets/investing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Funds</title>
+      <link>https://vishvAsa.github.io/notes/economics/assets/investing/funds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/economics/assets/investing/funds/</guid>
+      <description>&lt;h2 id=&#34;meta&#34;&gt;Meta&lt;/h2&gt;&#xA;&lt;h3 id=&#34;relying-on-experts-or-algorithms&#34;&gt;Relying on experts or algorithms&lt;/h3&gt;&#xA;&lt;p&gt;One can mitigate risks by relying on experts or well-tested algorithms to manage funds. In USA, publicly traded companies which follow the value investing philosophy include: Berkshire Hathaway, BBTEX, Boyar, Tweedy Borwne, YACKX.&lt;/p&gt;&#xA;&lt;p&gt;Index funds for a given economic sector simply invest in major companies in proportion to their market value. One relys on the less riskier supposition that the entire sector is likely to grow, rather than any single security belonging to that sector.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Goal setting</title>
+      <link>https://vishvAsa.github.io/notes/economics/assets/investing/goal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/economics/assets/investing/goal/</guid>
+      <description>&lt;h2 id=&#34;importance-of-planning&#34;&gt;Importance of planning&lt;/h2&gt;&#xA;&lt;p&gt;An individual earns money from employment when young and healthy; but eventually they retire or get sick- either early or after going old.&lt;/p&gt;&#xA;&lt;p&gt;Many expenses are very predictable. Hence set up a retirement fund, children’s education fund, health/ emergency fund. Many people fail at doing this.&lt;/p&gt;&#xA;&lt;h2 id=&#34;goals&#34;&gt;Goals&lt;/h2&gt;&#xA;&lt;h3 id=&#34;investment-horizon-and-age&#34;&gt;Investment horizon and age&lt;/h3&gt;&#xA;&lt;p&gt;One should be clear about the investment horizon: when does one intend to withdraw money from the fund, with what frequency etc..&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Implementation</title>
+      <link>https://vishvAsa.github.io/notes/economics/assets/investing/implementation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/economics/assets/investing/implementation/</guid>
+      <description>&lt;h2 id=&#34;execution-summary&#34;&gt;Execution Summary&lt;/h2&gt;&#xA;&lt;h3 id=&#34;समकरणम-rebalancing&#34;&gt;समीकरणम् (rebalancing)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;करवृद्धिरहित-लेखासु यथेष्टम् काले काले&lt;/li&gt;&#xA;&lt;li&gt;करव्याप्तौ स्थितासु लेखासु वर्षे वर्षे। कराधिक्यम् वारयितुम्।&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;अमरकष&#34;&gt;अमेरिकेषु&lt;/h3&gt;&#xA;&lt;p&gt;TODO: What about Ch Schwab?&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TD Ameritrade इत्यत्र my account → portfolio planner प्रयोगः पूर्वतटव्यवहारसमये। Use total money to be invested.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;reg-t-good-faith-violation&#34;&gt;Reg T, Good faith violation&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;For stocks traded on US exchanges, settlement is currently three business days after the trade.&lt;/li&gt;&#xA;&lt;li&gt;Dividend reinvestment (automatic) is technically considered a trade and thus is subject to the same settlement process as a normal trade you would place.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;example&#34;&gt;Example&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;On Monday, Janet holds $10,000 worth of XYZ.&lt;/li&gt;&#xA;&lt;li&gt;On Tuesday, Janet sells her entire XYZ position for $10,500, which will settle Thursday.&lt;/li&gt;&#xA;&lt;li&gt;Wednesday morning, Janet buys $10,500 of FAHN on good faith that XYZ&amp;rsquo;s sale will settle.&lt;/li&gt;&#xA;&lt;li&gt;Wednesday afternoon, Janet sells FAHN for $11,000, making a $500 profit. However, FAHN&amp;rsquo;s original purchase wasn&amp;rsquo;t fully paid for because XYZ&amp;rsquo;s sale hadn&amp;rsquo;t yet settled.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;td-ameritrade&#34;&gt;TD Ameritrade&lt;/h5&gt;&#xA;&lt;p&gt;TODO: What about Ch Schwab?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Portfolio</title>
+      <link>https://vishvAsa.github.io/notes/economics/assets/investing/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/economics/assets/investing/portfolio/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;Also see &lt;a href=&#34;../implementation&#34;&gt;implementation summary&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Pick a simple asset allocation model, stick to it, rebalance occasionally.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Possibly put a small portion of money in high-risk high-reward places. (NN Taleb&amp;rsquo;s barbell strategy.)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Initially, be equity heavy. But put some money in bonds (negatively correlated with equity).&#xA;&lt;ul&gt;&#xA;&lt;li&gt;USA - TSM core 5/8, SV tilt 3/8.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Switch to fixed income heavy portfolio when retiring.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;ldquo;Let us call the first set ensemble probability (concerned with a collection of people) and the second one time probability or ergodicity (concerned with one person through time). When you read investment recommendations based on long term returns of market - beware&amp;hellip; they&amp;rsquo;re conflating the two. If the investor has to reduce exposure to the market due to big expenses, his returns will be divorced from the market, period.&amp;rdquo; - NN Taleb paraphrased.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;More in &lt;a href=&#34;https://checkvist.com/checklists/113019/tasks/7086822&#34;&gt;CV&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Risk</title>
+      <link>https://vishvAsa.github.io/notes/economics/assets/investing/risk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/economics/assets/investing/risk/</guid>
+      <description>&lt;h2 id=&#34;risk-and-return-advantage-types&#34;&gt;Risk and return-advantage types&lt;/h2&gt;&#xA;&lt;p&gt;Risk in the investment is the potential to loose money. Risk is paired with advantage: investors promised a bigger return will tolerate some risk.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credit-default-risk&#34;&gt;Credit default risk&lt;/h3&gt;&#xA;&lt;p&gt;This risk is particularly relevant for bonds. This is the risk of businesses not repaying their loans.&lt;/p&gt;&#xA;&lt;p&gt;The advantage is that riskier bonds yield bigger returns.&lt;/p&gt;&#xA;&lt;h4 id=&#34;credit-rating-agencies&#34;&gt;Credit rating agencies&lt;/h4&gt;&#xA;&lt;p&gt;Sometimes, the ultimate owners of bonds sometimes do not have a clear idea about the risk involved.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Valuation</title>
+      <link>https://vishvAsa.github.io/notes/economics/assets/investing/valuation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/economics/assets/investing/valuation/</guid>
+      <description>&lt;h2 id=&#34;beliefs-and-market-positions&#34;&gt;Beliefs and market positions&lt;/h2&gt;&#xA;&lt;p&gt;Agents, in trading securities, bet on change in market’s evaluation of securities. Thus, the market price of securities is adjusted continually.&lt;/p&gt;&#xA;&lt;p&gt;If agents believe that a security will increase in value, they are said to act from a bullish/ long position. If the reverse is true, they are said to act from a bearish/ short position.&lt;/p&gt;&#xA;&lt;p&gt;Agents may also believe a certain company will outperform or underperform other companies in the sector.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

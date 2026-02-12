@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Inference on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/inference/</link>
+    <description>Recent content in &#43;Inference on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/math/inference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Expressiveness</title>
+      <link>https://vishvAsa.github.io/notes/math/inference/expressiveness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/inference/expressiveness/</guid>
+      <description>&lt;h2 id=&#34;propositional-logic-0th-order-logic&#34;&gt;Propositional logic: 0th order logic&lt;/h2&gt;&#xA;&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;&#xA;&lt;p&gt;&amp;lsquo;Harry is sick&amp;rsquo; or &amp;lsquo;sick&amp;rsquo; can be handled, but not &amp;lsquo;x is sick&amp;rsquo;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;first-order-predicate-logic&#34;&gt;First order predicate logic&lt;/h2&gt;&#xA;&lt;p&gt;Propositional logic with predicates, quantifiers. See Propositional logic section: many properties carry over.&lt;/p&gt;&#xA;&lt;h3 id=&#34;limitations-1&#34;&gt;Limitations&lt;/h3&gt;&#xA;&lt;p&gt;Can&amp;rsquo;t talk about relations over relations. Eg: G(R(x,y),z).&lt;/p&gt;&#xA;&lt;h2 id=&#34;fuzzy-logic&#34;&gt;Fuzzy logic&lt;/h2&gt;&#xA;&lt;p&gt;Could be 0.7 correct: not just correct or incorrect.&lt;/p&gt;&#xA;&lt;h2 id=&#34;temporal-logic&#34;&gt;Temporal logic&lt;/h2&gt;&#xA;&lt;p&gt;Entailment. Also see co operator in distributed computing ref.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Inference</title>
+      <link>https://vishvAsa.github.io/notes/math/inference/inference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/inference/inference/</guid>
+      <description>&lt;h2 id=&#34;proving-validity-of-theorems&#34;&gt;Proving validity of theorems&lt;/h2&gt;&#xA;&lt;p&gt;We are given a set of axioms and valid statements/ additional rules of inference \(S = \set{s_i}\). Does \(S \implies^{*} p\)? Or is \(p \equiv q\)? So, want to see if a certain relationship between propositions holds.&lt;/p&gt;&#xA;&lt;p&gt;This is akin to the search for proofs.&lt;/p&gt;&#xA;&lt;h2 id=&#34;use-rules-of-inference&#34;&gt;Use rules of inference&lt;/h2&gt;&#xA;&lt;p&gt;Eg: Modus ponens: \((p \land (p \implies q)) \implies q\). Strengthening and weakening of implications.&lt;/p&gt;&#xA;&lt;p&gt;De Morgan law: \(\lnot(p \land q) \equiv \lnot p \lor \lnot q\).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ontology</title>
+      <link>https://vishvAsa.github.io/notes/math/inference/ontology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/inference/ontology/</guid>
+      <description>&lt;h2 id=&#34;theme&#34;&gt;Theme&lt;/h2&gt;&#xA;&lt;p&gt;Ontology is concerned with entities: their classification and relationship. Every entity has certain properties.&lt;/p&gt;&#xA;&lt;h3 id=&#34;motivation&#34;&gt;Motivation&lt;/h3&gt;&#xA;&lt;p&gt;The main benefit of ontology is that one can reason about an entity using general statements about the corresponding entity type.&lt;/p&gt;&#xA;&lt;p&gt;Ontologies are very useful, for example, in the case of understanding speech - where many different words (eg: man, indian .. ) are used to hint at the same entity.&lt;/p&gt;&#xA;&lt;h2 id=&#34;entity-types&#34;&gt;Entity-types&lt;/h2&gt;&#xA;&lt;p&gt;Entities having several properties in common can be viewed as being instances of a single entity-type. Various entity-types may be related by specialization (is-a) and composition (has-a) relationships.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Statement</title>
+      <link>https://vishvAsa.github.io/notes/math/inference/statement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/inference/statement/</guid>
+      <description>&lt;p&gt;Aka formula.&lt;/p&gt;&#xA;&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;&#xA;&lt;h3 id=&#34;syntax&#34;&gt;Syntax&lt;/h3&gt;&#xA;&lt;p&gt;All sentences are written with symbols/ words drawn from some alphabet, in a formal language. A statement/ formula is said to be well formed if it makes sense according to some formal grammar.&lt;/p&gt;&#xA;&lt;h4 id=&#34;values&#34;&gt;Values&lt;/h4&gt;&#xA;&lt;p&gt;The most basic statements are the values T / TRUE and F/ FALSE.&lt;/p&gt;&#xA;&lt;h3 id=&#34;semantics&#34;&gt;Semantics&lt;/h3&gt;&#xA;&lt;p&gt;Corresponding to languages of various levels of expressiveness, there are Logics/ calculii which specify the semantics. They, for example, specify what &amp;lsquo;P&amp;rsquo;, \(\lnot P\) etc.. stand for. Truth of a proposition often follows from the semantics: \(2&amp;gt;3\) is F.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

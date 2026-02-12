@@ -1,0 +1,999 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | &#43;Classification complexity</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.143.0">
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/notes/computing/colt/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/notes/computing/colt/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:url" content="https://vishvAsa.github.io/notes/computing/colt/">
+  <meta property="og:site_name" content="Vishvas&#39;s notes">
+  <meta property="og:title" content="&#43;Classification complexity">
+  <meta property="og:description" content="Aka COLT/ computational learning theory, Binary classification and Queries: Theory
+Themes Consider the classification task described in the statistics survey. Computational learning theory is about binary classification problem, and getting the best classifier using 0/1 loss.
+Hardness of (accurately/ approximately) learning a concept in a concept class in terms of time, space, sample size: Upper (\textbf{Efficient Learning Algorithm design}) and Lower bounds. Doing this: Agnostic or gnostic of distribution; In the presence or absence of noise (in label or in input); relative to ease of evaluation of a concept; Proper learning vs learning using a different Hypothesis concept class.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="website">
+
+  <meta itemprop="name" content="&#43;Classification complexity">
+  <meta itemprop="description" content="Aka COLT/ computational learning theory, Binary classification and Queries: Theory
+Themes Consider the classification task described in the statistics survey. Computational learning theory is about binary classification problem, and getting the best classifier using 0/1 loss.
+Hardness of (accurately/ approximately) learning a concept in a concept class in terms of time, space, sample size: Upper (\textbf{Efficient Learning Algorithm design}) and Lower bounds. Doing this: Agnostic or gnostic of distribution; In the presence or absence of noise (in label or in input); relative to ease of evaluation of a concept; Proper learning vs learning using a different Hypothesis concept class.">
+  <meta itemprop="wordCount" content="1246">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="&#43;Classification complexity">
+  <meta name="twitter:description" content="Aka COLT/ computational learning theory, Binary classification and Queries: Theory
+Themes Consider the classification task described in the statistics survey. Computational learning theory is about binary classification problem, and getting the best classifier using 0/1 loss.
+Hardness of (accurately/ approximately) learning a concept in a concept class in terms of time, space, sample size: Upper (\textbf{Efficient Learning Algorithm design}) and Lower bounds. Doing this: Agnostic or gnostic of distribution; In the presence or absence of noise (in label or in input); relative to ease of evaluation of a concept; Proper learning vs learning using a different Hypothesis concept class.">
+<script type="text/javascript">
+    
+    let baseURL = "https:\/\/vishvAsa.github.io\/notes\/";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022build_img\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/actions\/workflows\/build.yml\/badge.svg\u0022,\u0022build_url\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/actions\/workflows\/build.yml\u0022,\u0022contactlink\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/issues\/new\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/edit\/content\/\u0022,\u0022js_extras\u0022:[\u0022mathjax\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022देवः\u0022,\u0022url\u0022:\u0022..\/devaH\/\u0022},{\u0022title\u0022:\u0022आगमः\u0022,\u0022url\u0022:\u0022..\/AgamaH\/\u0022},{\u0022title\u0022:\u0022आगमः शैवः\u0022,\u0022url\u0022:\u0022..\/AgamaH_shaivaH\/\u0022},{\u0022title\u0022:\u0022आगमः वैष्णवः\u0022,\u0022url\u0022:\u0022..\/AgamaH_vaiShNavaH\/\u0022},{\u0022title\u0022:\u0022रामानुजीयम्\u0022,\u0022url\u0022:\u0022..\/rAmAnujIyam\/\u0022},{\u0022title\u0022:\u0022माध्वम्\u0022,\u0022url\u0022:\u0022..\/mAdhvam\/\u0022},{\u0022title\u0022:\u0022आगमः ब्राह्मः\u0022,\u0022url\u0022:\u0022..\/AgamaH_brAhmaH\/\u0022},{\u0022title\u0022:\u0022कल्पान्तरम्\u0022,\u0022url\u0022:\u0022..\/kalpAntaram\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022वेदाः\u0022,\u0022url\u0022:\u0022..\/vedAH\/\u0022},{\u0022title\u0022:\u0022वेदाः - ऋक्\u0022,\u0022url\u0022:\u0022..\/vedAH_Rk\/\u0022},{\u0022title\u0022:\u0022वेदाः - यजुः\u0022,\u0022url\u0022:\u0022..\/vedAH_yajuH\/\u0022},{\u0022title\u0022:\u0022वेदाः - साम\u0022,\u0022url\u0022:\u0022..\/vedAH_sAma\/\u0022},{\u0022title\u0022:\u0022पुराणम्\u0022,\u0022url\u0022:\u0022..\/purANam\u0022},{\u0022title\u0022:\u0022पुराणम् वैष्णवम्\u0022,\u0022url\u0022:\u0022..\/purANam_vaiShNavam\/\u0022},{\u0022title\u0022:\u0022महाभारतम्\u0022,\u0022url\u0022:\u0022..\/mahAbhAratam\/\u0022},{\u0022title\u0022:\u0022रामायणम्\u0022,\u0022url\u0022:\u0022..\/rAmAyaNam\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvyam\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022ಕನ್ನಡ\u0022,\u0022url\u0022:\u0022..\/kannaDa\/\u0022},{\u0022title\u0022:\u0022त्रिपिटकम्\u0022,\u0022url\u0022:\u0022..\/tipiTaka\/\u0022},{\u0022title\u0022:\u0022पाळयः\u0022,\u0022url\u0022:\u0022..\/pALi\/\u0022},{\u0022title\u0022:\u0022भाषान्तरम्\u0022,\u0022url\u0022:\u0022..\/bhAShAntaram\/\u0022},{\u0022title\u0022:\u0022English Lit\u0022,\u0022url\u0022:\u0022..\/english\/\u0022},{\u0022title\u0022:\u0022Book pub\u0022,\u0022url\u0022:\u0022..\/book-pub\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vishvAsa.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    
+    var pageRelUrlTree = {};
+</script>
+
+    
+    <script type="text/javascript">
+  let pageVars = {};
+  pageVars.pageUrlMinusBasePath = "\/notes\/computing\/colt\/".replace(basePath, "/");
+  pageVars.pageParams = {};
+  pageVars.pageSource = "computing\/colt\/_index.md";
+  console.log(pageVars.pageSource);
+  var pageDefaults;
+  for (let possiblePageDefaults of pageDefaultsList) {
+    if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+      pageDefaults = possiblePageDefaults.values
+    }
+  }
+    
+</script>
+
+
+    <script src="/notes/webpack_dist/uiLib-bundle.js"></script>
+
+
+<script>
+
+
+MathJax = {
+  tex: {
+    inlineMath: [ ["@#", "#@"], ["\\(", "\\)"] ],
+    displayMath: [ ["$$","$$"], ["\\[", "\\]"] ],
+    processEscapes: true,  
+  },
+  svg: {
+    fontCache: 'global'
+  },
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore|dno"
+  }
+};
+</script>
+<script type="text/javascript" id="MathJax-script" async
+        src="/notes/non_webpack_js/mathjax/tex-svg.js">
+</script>
+
+
+
+
+
+
+    <link rel="stylesheet" href="/notes/webpack_dist/uiLib.css">
+<link rel="stylesheet" href="/notes/css/uiLibPrint.css" media="print" >
+<link rel="stylesheet" href="/notes/css/fonts.css" >
+<link rel="stylesheet" href="/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+
+<link rel="stylesheet" href="/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+
+<link rel="alternate" hreflang="sa-Deva" href="https://vishvAsa.github.io/notes/computing/colt/" />
+<link rel="alternate" hreflang="sa-Deva" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=devanagari" />
+
+<link rel="alternate" hreflang="sa-Knda" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=kannada" />
+<link rel="alternate" hreflang="sa-Mlym" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=malayalam" />
+<link rel="alternate" hreflang="sa-Telu" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=telugu" />
+<link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=tamil_superscripted" />
+<link rel="alternate" hreflang="sa-Taml" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=tamil" />
+<link rel="alternate" hreflang="sa-Gran" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=grantha" />
+
+<link rel="alternate" hreflang="sa-Gujr" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=gujarati" />
+<link rel="alternate" hreflang="sa-Guru" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=gurmukhi" />
+<link rel="alternate" hreflang="sa-Shar" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=sharada" />
+<link rel="alternate" hreflang="sa-Dogr" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=dogra" />
+<link rel="alternate" hreflang="sa-Phag" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=phags_pa" />
+<link rel="alternate" hreflang="sa-Tibt" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=tibetan" />
+<link rel="alternate" hreflang="sa-Sidd" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=siddham" />
+<link rel="alternate" hreflang="sa-Newa" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=newa" />
+<link rel="alternate" hreflang="sa-Modi" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=modi" />
+<link rel="alternate" hreflang="sa-Tirh" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=tirhuta_maithili" />
+<link rel="alternate" hreflang="sa-Gong" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=gondi_gujala" />
+<link rel="alternate" hreflang="sa-Gonm" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=gondi_masaram" />
+
+
+<link rel="alternate" hreflang="sa-Orya" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=oriya" />
+<link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=assamese" />
+<link rel="alternate" hreflang="sa-Beng" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=bengali" />
+<link rel="alternate" hreflang="sa-Mtei" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=manipuri" />
+<link rel="alternate" hreflang="sa-Sinh" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=sinhala" />
+<link rel="alternate" hreflang="sa-Limb" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=limbu" />
+<link rel="alternate" hreflang="sa-Lepc" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=lepcha" />
+
+
+<link rel="alternate" hreflang="sa-Cyrl" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=cyrillic" />
+<link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iso" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=iso" />
+<link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=iast" />
+<link rel="alternate" hreflang="sa-Aran" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=urdu" />
+<link rel="alternate" hreflang="sa-Avst" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=avestan" />
+
+<link rel="alternate" hreflang="sa-Brah" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=brahmi" />
+<link rel="alternate" hreflang="sa-Khar" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=kharoshthi" />
+<link rel="alternate" hreflang="sa-Zanb" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=zanbazar_square" />
+<link rel="alternate" hreflang="sa-Bhks" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=bhaiksuki" />
+
+<link rel="alternate" hreflang="sa-Bali" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=balinese" />
+<link rel="alternate" hreflang="sa-Java" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=javanese" />
+<link rel="alternate" hreflang="sa-Laoo" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=lao" />
+<link rel="alternate" hreflang="sa-Laoo-t-sa-Laoo-m0-Laopali" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=lao_pali" />
+<link rel="alternate" hreflang="sa-Mymr" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=burmese" />
+<link rel="alternate" hreflang="sa-Mymr-t-sa-Mymr-m0-Mon" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=mon" />
+<link rel="alternate" hreflang="sa-Cham" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=cham" />
+<link rel="alternate" hreflang="sa-Khmr" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=khmer" />
+<link rel="alternate" hreflang="sa-Thai" href="https://vishvAsa.github.io/notes/computing/colt/?transliteration_target=thai" />
+
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+\(
+% groupings of objects.
+\newcommand{\set}[1]{\left\{ #1 \right\}}
+\newcommand{\seq}[1]{\left(#1\right)}
+\newcommand{\ang}[1]{\langle#1\rangle}
+\newcommand{\tuple}[1]{\left(#1\right)}
+\newcommand{\size}[1]{\left| #1\right|}
+
+\newcommand{\comp}{\circ}
+
+
+% numerical shortcuts.
+\newcommand{\abs}[1]{\left| #1\right|}
+\newcommand{\floor}[1]{\left\lfloor #1 \right\rfloor}
+\newcommand{\ceil}[1]{\left\lceil #1 \right\rceil}
+
+% linear algebra shortcuts.
+\newcommand{\change}{\Delta}
+\newcommand{\norm}[1]{\left\| #1\right\|}
+\newcommand{\dprod}[1]{\langle#1\rangle}
+\newcommand{\linspan}[1]{\langle#1\rangle}
+\newcommand{\conj}[1]{\overline{#1}}
+\newcommand{\der}[1]{\frac{d#1}{dx}}
+\newcommand{\lap}{\Delta}
+\newcommand{\kron}{\otimes}
+\newcommand{\nperp}{\nvdash}
+
+\newcommand{\mat}[1]{\left[ \begin{smallmatrix}#1 \end{smallmatrix} \right]}
+
+% derivatives and limits
+\newcommand{\partder}[2]{\frac{\partial #1}{\partial #2}}
+\newcommand{\partdern}[3]{\frac{\partial^{#3 #1}}{\partial #2^{#3}}}
+\newcommand{\gradient}{\nabla}
+\newcommand{\subdifferential}{\partial}
+
+% Arrows
+\newcommand{\diverge}{\nearrow}
+\newcommand{\notto}{\nrightarrow}
+\newcommand{\up}{\uparrow}
+\newcommand{\down}{\downarrow}
+% gets and gives are defined!
+
+% ordering operators
+\newcommand{\oleq}{\preceq}
+\newcommand{\ogeq}{\succeq}
+
+% programming and logic operators
+\newcommand{\dfn}{:=}
+\newcommand{\assign}{:=}
+\newcommand{\co}{\ co\ }
+\newcommand{\en}{\ en\ }
+
+
+% logic operators
+\newcommand{\xor}{\oplus}
+\newcommand{\Land}{\bigwedge}
+\newcommand{\Lor}{\bigvee}
+\newcommand{\finish}{\Box}
+\newcommand{\contra}{\Rightarrow \Leftarrow}
+\newcommand{\iseq}{\stackrel{_?{=}}}
+
+
+% Set theory
+\newcommand{\symdiff}{\Delta}
+\newcommand{\setdiff}{\backslash}
+\newcommand{\union}{\cup}
+\newcommand{\inters}{\cap}
+\newcommand{\Union}{\bigcup}
+\newcommand{\Inters}{\bigcap}
+\newcommand{\nullSet}{\phi}
+
+
+% graph theory
+\newcommand{\nbd}{\Gamma}
+
+% Script alphabets
+% For reals, use \Re
+
+% greek letters
+\newcommand{\eps}{\epsilon}
+\newcommand{\del}{\delta}
+\newcommand{\ga}{\alpha}
+\newcommand{\gb}{\beta}
+\newcommand{\gd}{\del}
+\newcommand{\gp}{\pi}
+\newcommand{\gf}{\phi}
+\newcommand{\gh}{\eta}
+\newcommand{\gF}{\Phi}
+\newcommand{\gl}{\lambda}
+\newcommand{\gm}{\mu}
+\newcommand{\gn}{\nu}
+\newcommand{\gr}{\rho}
+\newcommand{\gs}{\sigma}
+\newcommand{\gth}{\theta}
+\newcommand{\gx}{\xi}
+\newcommand{\gw}{\omega}
+
+\newcommand{\sw}{\sigma}
+\newcommand{\SW}{\Sigma}
+\newcommand{\ew}{\lambda}
+\newcommand{\EW}{\Lambda}
+
+\newcommand{\Del}{\Delta}
+\newcommand{\gD}{\Delta}
+\newcommand{\gG}{\Gamma}
+\newcommand{\gW}{\Omega}
+\newcommand{\gS}{\Sigma}
+\newcommand{\gTh}{\Theta}
+
+% Bold english letters.
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bB}{\mathbf{B}}
+\newcommand{\bC}{\mathbf{C}}
+\newcommand{\bD}{\mathbf{D}}
+\newcommand{\bE}{\mathbf{E}}
+\newcommand{\bF}{\mathbf{F}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bI}{\mathbf{I}}
+\newcommand{\bJ}{\mathbf{J}}
+\newcommand{\bK}{\mathbf{K}}
+\newcommand{\bL}{\mathbf{L}}
+\newcommand{\bM}{\mathbf{M}}
+\newcommand{\bN}{\mathbf{N}}
+\newcommand{\bO}{\mathbf{O}}
+\newcommand{\bP}{\mathbf{P}}
+\newcommand{\bQ}{\mathbf{Q}}
+\newcommand{\bR}{\mathbf{R}}
+\newcommand{\bS}{\mathbf{S}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bU}{\mathbf{U}}
+\newcommand{\bV}{\mathbf{V}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\bX}{\mathbf{X}}
+\newcommand{\bY}{\mathbf{Y}}
+\newcommand{\bZ}{\mathbf{Z}}
+
+\newcommand{\bba}{\mathbf{a}}
+\newcommand{\bbb}{\mathbf{b}}
+\newcommand{\bbc}{\mathbf{c}}
+\newcommand{\bbd}{\mathbf{d}}
+\newcommand{\bbe}{\mathbf{e}}
+\newcommand{\bbf}{\mathbf{f}}
+\newcommand{\bbg}{\mathbf{g}}
+\newcommand{\bbh}{\mathbf{h}}
+\newcommand{\bbk}{\mathbf{k}}
+\newcommand{\bbl}{\mathbf{l}}
+\newcommand{\bbm}{\mathbf{m}}
+\newcommand{\bbn}{\mathbf{n}}
+\newcommand{\bbp}{\mathbf{p}}
+\newcommand{\bbq}{\mathbf{q}}
+\newcommand{\bbr}{\mathbf{r}}
+\newcommand{\bbs}{\mathbf{s}}
+\newcommand{\bbt}{\mathbf{t}}
+\newcommand{\bbu}{\mathbf{u}}
+\newcommand{\bbv}{\mathbf{v}}
+\newcommand{\bbw}{\mathbf{w}}
+\newcommand{\bbx}{\mathbf{x}}
+\newcommand{\bby}{\mathbf{y}}
+\newcommand{\bbz}{\mathbf{z}}
+\newcommand{\0}{\mathbf{0}}
+\newcommand{\1}{\mathbf{1}}
+
+% Caligraphic english alphabet
+\newcommand{\cA}{\mathcal{A}}
+\newcommand{\cB}{\mathcal{B}}
+\newcommand{\cC}{\mathcal{C}}
+\newcommand{\cD}{\mathcal{D}}
+\newcommand{\cE}{\mathcal{E}}
+\newcommand{\cF}{\mathcal{F}}
+\newcommand{\cG}{\mathcal{G}}
+\newcommand{\cH}{\mathcal{H}}
+\newcommand{\cI}{\mathcal{I}}
+\newcommand{\cJ}{\mathcal{J}}
+\newcommand{\cK}{\mathcal{K}}
+\newcommand{\cL}{\mathcal{L}}
+\newcommand{\cM}{\mathcal{M}}
+\newcommand{\cN}{\mathcal{N}}
+\newcommand{\cO}{\mathcal{O}}
+\newcommand{\cP}{\mathcal{P}}
+\newcommand{\cQ}{\mathcal{Q}}
+\newcommand{\cR}{\mathcal{R}}
+\newcommand{\cS}{\mathcal{S}}
+\newcommand{\cT}{\mathcal{T}}
+\newcommand{\cU}{\mathcal{U}}
+\newcommand{\cV}{\mathcal{V}}
+\newcommand{\cW}{\mathcal{W}}
+\newcommand{\cX}{\mathcal{X}}
+\newcommand{\cY}{\mathcal{Y}}
+\newcommand{\cZ}{\mathcal{Z}}
+
+
+% Formatting shortcuts
+\newcommand{\red}[1]{\textcolor{red}{#1}}
+\newcommand{\blue}[1]{\textcolor{blue}{#1}}
+\newcommand{\htext}[2]{\texorpdfstring{#1}{#2}}
+
+% Statistics
+\newcommand{\distr}{\sim}
+\newcommand{\stddev}{\sigma}
+\newcommand{\covmatrix}{\Sigma}
+\newcommand{\mean}{\mu}
+\newcommand{\param}{\theta}
+\newcommand{\gthEst}{\hat{\theta}}
+\newcommand{\ftr}{\phi}
+\newcommand{\est}[1]{\hat{#1}}
+
+% General utility
+\newcommand{\todo}[1]{\textbf{[TODO]}] \footnote{TODO: #1}}
+\newcommand{\tbc}{[\textbf{Incomplete}]}
+\newcommand{\chk}{[\textbf{Check}]}
+\newcommand{\why}{[\textbf{Find proof}]}
+\newcommand{\opt}[1]{\textit{#1}}
+
+\newcommand{\experience}[1]{[\textbf{Personal Experience}]: #1 \blacktriangle}
+\newcommand{\pf}[1]{[\textbf{Proof}]: #1 \Box}
+\newcommand{\core}[1]{\textbf{Core Idea}: #1 \Arrowvert}
+\newcommand{\example}[1]{\textbf{Example}: #1 \blacktriangle}
+\newcommand{\error}[1]{\textbf{Error alert}: #1 \triangle}
+\newcommand{\oprob}{[\textbf{OP}]: }
+
+
+\renewcommand{\~}{\htext{$\sim$}{~}}
+
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+
+
+\)
+
+
+
+    
+<header class="p-1 bg-yellow noPrint">
+    <nav role="navigation" class="col">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> &#43;Classification complexity</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <button class="btn btn-light"  href="#transliterationDropdown" data-toggle="collapse">
+            ✍
+          </button>
+          <select id="transliterationDropdown" size="1" class="collapse" onchange="module_uiLib.default.content.updateTransliteration()">
+            <optgroup label="🌍">
+              <option value="iso">āISO</option>
+              <option value="iso_vedic">āi-āu</option>
+              <option value="cyrillic">пу</option>
+              <option value="urdu">نس</option>
+              <option value="??">🌍??</option>
+            </optgroup>
+            <optgroup label="🛕🧭S">
+              <option value="kannada">ಅ</option>
+              <option value="malayalam">അ</option>
+              <option value="telugu">క</option>
+              <option value="tamil_superscripted">க²</option>
+              <option value="tamil_extended">க</option>
+              <option value="grantha">𑌅</option>
+            </optgroup>
+            <optgroup label="🛕🧭N">
+              <option value="devanagari" selected="">स</option>
+              <option value="gujarati">અ</option>
+              <option value="gurmukhi">ਅ</option>
+            </optgroup>
+            <optgroup label="🛕🧭E">
+              <option value="oriya">ଅ</option>
+              <option value="assamese">অস</option>
+              <option value="bengali">অ</option>
+            </optgroup>
+            <optgroup label="🛕🏺📜">
+              <option value="sharada">𑆑𑇀𑆰</option>
+              <option value="brahmi">𑀅</option>
+            </optgroup>
+            <optgroup label="🛕🌋">
+              <option value="balinese">ᬩᬮᬶ</option>
+            </optgroup>
+          </select>
+          <div>
+          <button class="btn btn-outline-secondary btn-sm"  href="#transliterationDropdownAlt" data-toggle="collapse">
+          (✍)
+          </button>
+          <select id="transliterationDropdownAlt" size="1"  style="font-size:12px" class="bg-light-yellow collapse" onchange="module_uiLib.default.content.updateTransliteration()">
+            <optgroup label="🌍">
+              <option value="iso">āISO</option>
+              <option value="iso_vedic">āi-āu</option>
+              <option value="cyrillic">пу</option>
+              <option value="urdu">نس</option>
+              <option value="??">🌍??</option>
+            </optgroup>
+            <optgroup label="🛕🧭S">
+              <option value="kannada">ಅ</option>
+              <option value="malayalam">അ</option>
+              <option value="telugu">క</option>
+              <option value="tamil_superscripted">க²</option>
+              <option value="tamil_extended">க</option>
+              <option value="grantha">𑌅</option>
+            </optgroup>
+            <optgroup label="🛕🧭N">
+              <option value="devanagari" selected="">स</option>
+              <option value="gujarati">અ</option>
+              <option value="gurmukhi">ਅ</option>
+            </optgroup>
+            <optgroup label="🛕🧭E">
+              <option value="oriya">ଅ</option>
+              <option value="assamese">অস</option>
+              <option value="bengali">অ</option>
+            </optgroup>
+            <optgroup label="🛕🏺📜">
+              <option value="sharada">𑆑𑇀𑆰</option>
+              <option value="brahmi">𑀅</option>
+            </optgroup>
+            <optgroup label="🛕🌋">
+              <option value="balinese">ᬩᬮᬶ</option>
+            </optgroup>
+          </select>
+          </div>
+          <div class="row col d-flex  dropdown">
+            <button class="btn btn-secondary-outline btn-sm dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              A±
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <a class="btn btn-secondary btn-sm" onclick="module_uiLib.changeTextSize(2)">A+</a>
+            <a class="btn btn-secondary btn-sm" onclick="module_uiLib.changeTextSize(-2)">A-</a>
+            </div>
+          </div>
+          <button class="btn btn-light btn-sm"  href="#commentStyleDropdown" data-toggle="collapse">
+            🗨
+          </button>
+          <select id="commentStyleDropdown" class="collapse" size="1" onchange="module_uiLib.default.content.updateCommentStyleFromDropdown()">
+            <option value="on">✔</option>
+            <option value="hidden">✗</option>
+          </select>
+          <div><a id="expandAllButton" class="btn btn-secondary" onclick="module_uiLib.default.query.setParamsAndGo({'expandDetails': '.*'})">↕️️</a></div>
+          <div id="printStyleDiv" class="row col d-flex  dropdown">
+          <button class="btn btn-light btn-sm dropdown-toggle"  href="#printStyleDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          🖨
+          </button>
+            <div class="dropdown-menu col" aria-labelledby="printStyleDropdown">
+              <div class="row justify-content-center">
+                <p>Cols:</p>
+                <input type="number" min="1" max="10" value="2" step="1" id="tbColumns" style="width: 3ch;"  accesskey="c"/>
+              </div>
+              <div class="row justify-content-center">
+                <p>A±:</p> <input type="text" id="tbBodyFontSize" value="0.4cm" style="width: 6ch;"  accesskey="f"></input>
+              </div>
+              <div class="row justify-content-center">
+                <p>Incl:</p> <input checked type="checkbox" id="tbIncludeStyle" value="on"></input>
+                <button id="btnPrintStyle" onclick="module_uiLib.default.content.updatePrintStyle()">🖨
+                </button>
+              </div>
+            </div>
+        </div>
+        </div>
+        <div id="audioDiv" class="row col d-flex  dropdown">
+          <button class="btn btn-secondary-outline btn-sm dropdown-toggle" type="button" id="audioDropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            🎧
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <a id="speakerButton" class="btn btn-outline-secondary btn-sm" onclick="module_uiLib.default.content.handleSpeakToggle()">⏯</a>
+          <button id="speakerPauseButton" class="btn btn-outline-secondary btn-sm">⏸</button>
+            <div id="audioOptionsDiv" class="row justify-content-center" >
+              <div>
+                <p class="lead">Vol</p>
+                <input type="range" min="0" max="1" value="1" step="0.1" id="volume" />
+                <span id="volume-label" class="ms-2">1</span>
+              </div>
+              <div class="mx-5">
+                <p class="lead">Rate</p>
+                <input type="range" min="0.1" max="10" value="1" id="rate" step="0.1" />
+                <span id="rate-label" class="ms-2">1</span>
+              </div>
+              <div>
+                <p class="lead">Pitch</p>
+                <input type="range" min="0" max="2" value="1" step="0.1" id="pitch" />
+                <span id="pitch-label" class="ms-2">1</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a href="https://vishvAsa.github.io/notes/search"  class="btn btn-light btn-sm">🥽🔦</a>
+        <div class="row col  d-flex justify-content-center">
+          <div><a id="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a id="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border noPrint " id="sidebar">
+          <div id="fastSearch">
+              <datalist id="pageDataList"></datalist>
+              <input id="searchInput" placeholder="शीर्षिकान्विष्यताम्" list="pageDataList" onchange="module_uiLib.default.navigation.pageLoader()">
+          </div>
+          <details open  class="bg-light-gray" >
+              <summary id="sidebarToggleLink" onclick="module_uiLib.default.navigation.sidebarToggleHandler()">
+            Menu
+              </summary>
+              <ul id="sidebarBody" class="list pl2 p-0 bg-yellow">
+              </ul>
+          </details>
+      </aside>
+      <main class="col p-3" role="main" data-pagefind-body>
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="&#43;Classification complexity">&#43;Classification complexity</h1>
+    
+    <a id="editLink" class="btn btn-primary noPrint"  href="https://github.com/vishvAsa/notes/edit/content/computing/colt/_index.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<main>
+    <article>
+  <aside id="toc_card" class="card border noPrint ">
+    <details id="toc_header">
+        <summary>What's in this page?</summary>
+      <div id="toc_body" class="p-0">
+        
+        <ul id="toc_ul" class="list p-0">
+        </ul>
+      </div>
+    </details>
+    <div id="progressBarDiv" class="row d-flex justify-content-center">
+      🐎💪<progress id="progressLoading" value="0" max="100"> 32% </progress>
+    </div>
+  </aside>
+  <div id="post_content">
+  <p>Aka COLT/ computational learning theory, Binary classification and Queries: Theory</p>
+<h2 id="themes">Themes</h2>
+<p>Consider the classification task described in the statistics survey. Computational learning theory is about binary classification problem, and getting the best classifier using 0/1 loss.</p>
+<p>Hardness of (accurately/ approximately) learning a concept in a concept class in terms of time, space, sample size: Upper (\textbf{Efficient Learning Algorithm design}) and Lower bounds. Doing this: Agnostic or gnostic of distribution; In the presence or absence of noise (in label or in input); relative to ease of evaluation of a concept; Proper learning vs learning using a different Hypothesis concept class.</p>
+<p>What concept classes are more general?</p>
+<p>How many mistakes does an algorithm make whilst efficiently learning a concept class? Learning using bunch of experts.</p>
+<p>Judge the importance of problem/ model: Consider real-life learning scenarios where they are useful. Consider if lower / upper bound for some important scenario may be obtained.</p>
+<h3 id="interplay-with-other-areas">Interplay with other areas.</h3>
+<p>Observe similarities between compression and learning: learning which is more than mere memorization usually (kNN being an example to the contrary) involves learning some concise, general things from the examples.</p>
+<p>Cryptography and learning: opposites.</p>
+<h3 id="folk-theorems">Folk theorems</h3>
+<p>The only C we know to learn are polynomials (Eg PTF).</p>
+<h3 id="characterization-of-research-effort">Characterization of research effort</h3>
+<p>See computational complexity theory ref and algorithms ref; emphasis is on the former.</p>
+<h3 id="notation">Notation</h3>
+<h4 id="the-sample">The sample</h4>
+<p>Universal set of possible inputs \(X\). An example := (\(x \in X\), label \(l\)). Label is \({1,0}\) or \({1,-1}\) depending on context. Bits in \(x\): \(x_{1}\dots x_{n}\). Sample set S, \(|S|=m\)</p>
+<h4 id="concepts-and-their-sets">Concepts and their sets</h4>
+<p>Target concept (classifier function) in a certain representation: \(c\); Concept class \(C\); Concept representation class \(R\), representation dimension (f(input size)) or number of binary vars in \(x\): \(n\), sampling distribution \(D\); hypothesis concept h, hypothesis class H.</p>
+<p>\(|H_{n,m}|\): H restricted to \
+algorithms with \(m\) \(n\)-dimensional examples. \chk</p>
+<h4 id="learning-algorithm">Learning algorithm</h4>
+<p>Learning algorithm \(L\), attribute/ variable list V.</p>
+<h3 id="the-binary-classifier-c">The binary classifier c</h3>
+<p>For different ways of looking at c, see boolean fn ref. For VCD proofs/ measuring complexity of representation classes, it is profitable to view a hypothesis as the dichotomy it induces on X.</p>
+<h2 id="representation-classes-of-classifiers">Representation classes of classifiers</h2>
+<h3 id="properties-of-representation-classes">Properties of representation classes</h3>
+<h4 id="error-regions">Error regions</h4>
+<p>Class of error regions: \(\Del(c)=\set{c \Del h]}\).</p>
+<h5 id="epsilon-net-of-examples">epsilon net of examples</h5>
+<p>\textbf{\(\eps\) net}: A set of examples which hits all error regions (\(\Del_{\eps}(c)\)) of weight \(\geq \eps\) under D. A bad hypothesis h: \(c \Del h \in \Del_{\eps}(c)\).</p>
+<h4 id="monotonicity">Monotonicity</h4>
+<p>To understand monotonicity of boolean functions, see boolean functions reference.</p>
+<p>Transformation to non-monotone R by introducing n new literals, if n finite.</p>
+<h4 id="closures">Closures</h4>
+<h5 id="projection-closure">Projection closure</h5>
+<p>Take partial assignment P; let P/A: an assignment to V first using P, then using A for unassigned vars. Projection of an example using P. Projection closed concept class: Take any f in \(C\), fix values of some variables using P, get another \(f_P=f(P/A)\) in \(C\).</p>
+<h5 id="embedding-closure">Embedding closure</h5>
+<p>Embedding one domain of variables into another; embedding a concept into a domain of variables. Embedding an example. Embedding closed concept class: Take f, rename variables, add irrelevant variables to the domai\(n\), f is still in \(C\).</p>
+<h5 id="pec-classes">PEC classes</h5>
+<p>Most useful concept classes are projection and embedding \
+closed (pec), or are contained in some projection and embedding closed \(C\).</p>
+<h3 id="some-representation-classes">Some representation classes</h3>
+<h4 id="geometric-classes">Geometric classes</h4>
+<p>Also see boolean functions ref for halfspaces etc.. Axis aligned rectangles (good basic example).</p>
+<h4 id="boolean-functions">Boolean functions</h4>
+<p>See boolean functions ref: k-DNF. k-CNF, Conjunctions. Disjunctions. Decision lists. Decision trees. T-augmented decision trees. Polynomial size DNF. D-PTF. Halfspaces: common benchmark for machine learning algs. Intervals in R. Polyhedra in \(R^{n}\). The class of parity functions with length k: PARITY(k).</p>
+<h4 id="classes-of-continuous-fns">Classes of Continuous fns</h4>
+<p>See complex analysis ref.</p>
+<h4 id="restricted-concept-classes">Restricted concept classes</h4>
+<p>\(C_n\): concepts depending on a set of n vars. \(C_{r,n}\) Concepts in \(C_n\) with at most \(r\) relevant variables.</p>
+<h4 id="some-pac-reductions">Some PAC Reductions</h4>
+<p>k-CNF to Conjunctions. k-decision list to 1-decision list.</p>
+<p>Boolean formula to Log-space turing machine: Parse the circuit, Have identifier for each node.</p>
+<p>Log-space turing machine concept class (max klogn space) to Deterministic Finite Automaton (DFA) concept class: DFA state = \(&lt;\)state, possible tape content, head location\(&gt;\), Transitions = L/R, \(x \to x.x&hellip;x\).</p>
+<h3 id="measure-complexity-of-c">Measure complexity of C</h3>
+<p>Consider \(n\), size(c) (\(\approx \log |C|\)). Find VCD; Plot dichotomy count \(D_{C}(m)\): these are described in the boolean functions survey. Find sample complexity.</p>
+<h4 id="sq-dimension-sqd-or-d">SQ dimension (sqd or d)</h4>
+<h5 id="definition">Definition</h5>
+<p>Take c: \
+\(\set{-1, 1}^{n} \to \set{-1, 1}\), \(C = \set{c}\). \(sqd_{D}(C) = \max d | \exists S_{D} = \set{f_{1}, .., f_{d}} \subseteq C\) with \(|corr_{x \distr D}(f_{i}f_{j})| = |E_{x \distr D}(f_{i}(x)f_{j}(x))| \leq d^{-1}\); \
+\(sqd(C) = \max_{D} sqd_{D}(C)\).</p>
+<p>Applications: Learning in the presense of noise.</p>
+<h5 id="bounds-on-sqd">Bounds on SQD</h5>
+<p>Max sqd  = max \(|C|\) = \(2^{n}\). Parity fn \(p_{S}(x) = \prod_{x_{i} \in S} x_{i}\); \(C = \set{p_{S}: |S|\leq n}\) has max sqd: Sets S, T differ in some \(x_{d}: E_{x_{i} \distr U}[p_{S}(x)p_{T}(x)] = E[x_{d}]E[..] = 0\).</p>
+<p>\(sqd(C) = \Omega(VCD(C))\): Construct the set \(\set{f_{i}}\): Take uniform distr on the shattered set; select two fns \(\set{f_{i}}\) solving it for set of 2 examples \(\set{x_i}\); assume for \(2^{i}\); make \(\set{f_{i}}\) vs \(\set{x_i}\) sign matrix M; get matrix for \(2^{i+1}\): \(\mat{M &amp; M\M &amp; -M}\); extend proof for those between \(2^{i-1}\) and \(2^{i}\) by using matreces for powers of 2.</p>
+<p>\(sqd(C) = 2^{O(VCD(C))}\). \why</p>
+<h5 id="other-properties">Other properties</h5>
+<p>All in the corr-shattered set \(S_{D} = \set{f_{i}}\) linearly independent. Proof by contr: If d is sqd, \(c_{i}f_{i} = 0\), take \(c_{m} = max(\set{c_{i}})\), so \(f_{m} = \sum_{i \neq m} \frac{c_{i}}{c_{m}}f_{i}\), so \(1 = E[f_{m}f_{m}] = \sum_{i \neq m} \frac{c_{i}}{c_{m}} E[f_{m}f_{i}]\); but \(\frac{c_{i}}{c_{m}} \in [-1, 1]\), \(E[f_{m}f_{i}] \leq d^{-1}\), so absurdity.</p>
+<h4 id="other-measures">Other measures</h4>
+<p>\textbf{Unique -ve dimension}: UND(C) = Max Subclass \(C&rsquo; \in C\) with unique -ve examples.</p>
+<p>Can use covering and packing numbers. These measures of the size of sets are described in the topology ref.</p>
+<h2 id="resources-used-by-the-learner">Resources used by the learner</h2>
+<h3 id="queries-and-oracles">Queries and oracles</h3>
+<p>An oracle provides examples according to D. A teacher answers membership and equivalence queries.</p>
+<p>Example oracle \(EX_D(c)\). \
+Membership query (mq): mq(x) yields c(x). Equivalence query (eq): eq(h) yields counterexample. MQ(c), EQ(c) oracles.</p>
+<p>\(EX_U(c)\) can be simulated using MQ(c). In PAC setting, EQ(c) can be simulated by the EX oracle.</p>
+<h4 id="probabilistic-oracle">Probabilistic oracle</h4>
+<p>PEX(f) for fn \(f:\set{0, 1}^n \to [-1, 1]\): produces (x, b) where \(x \distr U\), b is \(\pm 1\) binary RV with mean f(x). For boolean f, this is UPAC oracle EX(f, U). Models random noise under U: PEX(tf) is an oracle for f(x) with random noise of rate \(1/2-t/2\): simply see how to make binary RV b with mean tE[f].</p>
+<p>Statistical dist: \(D(PEX(f), PEX(g)) = E_x[|f(x)-g(x)|] \leq \norm{f-g}\). So, upon querying, an algorithm notices difference between PEX(f) and PEX(g) with prob \(\leq \norm{f-g}\). (See probability ref.)</p>
+<h3 id="non-adaptive-mq-namq">Non adaptive mq (namq)</h3>
+<p>Points on which mq&rsquo;s are made do not depend on concept being learnt. So, many concepts can be learnt from same set of query points: like the brain. Also, easier parallizability.</p>
+<h3 id="relative-power-of-various-queries">Relative power of various queries</h3>
+<p>As they solve iterated products problem, polynomial sized circuits are not learnable using random examples. By modifying the circuits to encode the ckt at certain fixed points, ye get a class learnable with namq but not with random examples alone. By placing the encoding at varying locations, but encoding the location of the encodings at certain fixed points, ye get a class learnable with mq, but not with namq.</p>
+<h3 id="attribute-efficient-ae-learning">Attribute efficient (ae) learning</h3>
+<p>r: Number of relevant attributes. \
+Alg is poly time, calls to oracle is \(p(r, |c|)h(n), h(n) = o(n)\).</p>
+<p>Strong ae learning:
+\(h(n) = O((\log n)^{k})\). Or, calls to oracle polynomial in \(|c|\), not in n.</p>
+
+  </div>
+</article>
+
+    
+    <div class="css-treeview box">
+        
+<ul>
+    <li><input type="checkbox" id="section-tree-item-&#43;Classification complexity" checked="checked" /><label for="section-tree-item-&#43;Classification complexity">&#43;Classification complexity</label>
+        <ul>
+            
+
+
+
+    <aside class="card border noPrint" id="section-tree-item-computing_colt__index_md">
+        <div class="card-title bg-light-gray border d-flex justify-content-between">
+            <a href="https://vishvAsa.github.io/notes/computing/colt/">&#43;Classification complexity </a>
+            <a data-toggle="collapse" href="#section-tree-item-body-computing_colt__index_md" role="button" aria-expanded="false" aria-controls="section-tree-item-body-computing_colt__index_md" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+        </div>
+        <nav id="section-tree-item-body-computing_colt__index_md" class="card-body p-0 collapse">
+            
+            <li>draft: false</li>
+            
+            <li>iscjklanguage: false</li>
+            
+            <li>title: &#43;Classification complexity</li>
+            
+        </nav>
+    </aside>
+
+
+            
+            
+            
+            
+            
+            
+            <li>
+                
+
+
+
+    <aside class="card border noPrint" id="section-tree-item-computing_colt_complexity__index_md">
+        <div class="card-title bg-light-gray border d-flex justify-content-between">
+            <a href="https://vishvAsa.github.io/notes/computing/colt/complexity/">&#43;Complexity </a>
+            <a data-toggle="collapse" href="#section-tree-item-body-computing_colt_complexity__index_md" role="button" aria-expanded="false" aria-controls="section-tree-item-body-computing_colt_complexity__index_md" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+        </div>
+        <nav id="section-tree-item-body-computing_colt_complexity__index_md" class="card-body p-0 collapse">
+            
+            <li>draft: false</li>
+            
+            <li>iscjklanguage: false</li>
+            
+            <li>title: &#43;Complexity</li>
+            
+        </nav>
+    </aside>
+
+
+            </li>
+            
+            
+            
+            
+            
+            <li>
+                
+<ul>
+    <li><input type="checkbox" id="section-tree-item-&#43;Complexity" checked="checked" /><label for="section-tree-item-&#43;Complexity">&#43;Complexity</label>
+        <ul>
+            
+
+
+
+    <aside class="card border noPrint" id="section-tree-item-computing_colt_complexity__index_md">
+        <div class="card-title bg-light-gray border d-flex justify-content-between">
+            <a href="https://vishvAsa.github.io/notes/computing/colt/complexity/">&#43;Complexity </a>
+            <a data-toggle="collapse" href="#section-tree-item-body-computing_colt_complexity__index_md" role="button" aria-expanded="false" aria-controls="section-tree-item-body-computing_colt_complexity__index_md" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+        </div>
+        <nav id="section-tree-item-body-computing_colt_complexity__index_md" class="card-body p-0 collapse">
+            
+            <li>draft: false</li>
+            
+            <li>iscjklanguage: false</li>
+            
+            <li>title: &#43;Complexity</li>
+            
+        </nav>
+    </aside>
+
+
+            
+            
+            
+            
+            
+            
+            <li>
+                
+
+
+
+    <aside class="card border noPrint" id="section-tree-item-computing_colt_complexity_Active_learning_md">
+        <div class="card-title bg-light-gray border d-flex justify-content-between">
+            <a href="https://vishvAsa.github.io/notes/computing/colt/complexity/Active_learning/">Active learning </a>
+            <a data-toggle="collapse" href="#section-tree-item-body-computing_colt_complexity_Active_learning_md" role="button" aria-expanded="false" aria-controls="section-tree-item-body-computing_colt_complexity_Active_learning_md" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+        </div>
+        <nav id="section-tree-item-body-computing_colt_complexity_Active_learning_md" class="card-body p-0 collapse">
+            
+            <li>draft: false</li>
+            
+            <li>iscjklanguage: false</li>
+            
+            <li>title: Active learning</li>
+            
+        </nav>
+    </aside>
+
+
+            </li>
+            
+            
+            
+            
+            <li>
+                
+
+
+
+    <aside class="card border noPrint" id="section-tree-item-computing_colt_complexity_Learnability_despite_noise_md">
+        <div class="card-title bg-light-gray border d-flex justify-content-between">
+            <a href="https://vishvAsa.github.io/notes/computing/colt/complexity/Learnability_despite_noise/">Learnability despite noise </a>
+            <a data-toggle="collapse" href="#section-tree-item-body-computing_colt_complexity_Learnability_despite_noise_md" role="button" aria-expanded="false" aria-controls="section-tree-item-body-computing_colt_complexity_Learnability_despite_noise_md" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+        </div>
+        <nav id="section-tree-item-body-computing_colt_complexity_Learnability_despite_noise_md" class="card-body p-0 collapse">
+            
+            <li>draft: false</li>
+            
+            <li>iscjklanguage: false</li>
+            
+            <li>title: Learnability despite noise</li>
+            
+        </nav>
+    </aside>
+
+
+            </li>
+            
+            
+            
+            
+            <li>
+                
+
+
+
+    <aside class="card border noPrint" id="section-tree-item-computing_colt_complexity_Learning_the_best_hypothesis_md">
+        <div class="card-title bg-light-gray border d-flex justify-content-between">
+            <a href="https://vishvAsa.github.io/notes/computing/colt/complexity/Learning_the_best_hypothesis/">Learning the best hypothesis </a>
+            <a data-toggle="collapse" href="#section-tree-item-body-computing_colt_complexity_Learning_the_best_hypothesis_md" role="button" aria-expanded="false" aria-controls="section-tree-item-body-computing_colt_complexity_Learning_the_best_hypothesis_md" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+        </div>
+        <nav id="section-tree-item-body-computing_colt_complexity_Learning_the_best_hypothesis_md" class="card-body p-0 collapse">
+            
+            <li>draft: false</li>
+            
+            <li>iscjklanguage: false</li>
+            
+            <li>title: Learning the best hypothesis</li>
+            
+        </nav>
+    </aside>
+
+
+            </li>
+            
+            
+            
+            
+            <li>
+                
+
+
+
+    <aside class="card border noPrint" id="section-tree-item-computing_colt_complexity_Mistake_bounded_models_md">
+        <div class="card-title bg-light-gray border d-flex justify-content-between">
+            <a href="https://vishvAsa.github.io/notes/computing/colt/complexity/Mistake_bounded_models/">Mistake bounded models </a>
+            <a data-toggle="collapse" href="#section-tree-item-body-computing_colt_complexity_Mistake_bounded_models_md" role="button" aria-expanded="false" aria-controls="section-tree-item-body-computing_colt_complexity_Mistake_bounded_models_md" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+        </div>
+        <nav id="section-tree-item-body-computing_colt_complexity_Mistake_bounded_models_md" class="card-body p-0 collapse">
+            
+            <li>draft: false</li>
+            
+            <li>iscjklanguage: false</li>
+            
+            <li>title: Mistake bounded models</li>
+            
+        </nav>
+    </aside>
+
+
+            </li>
+            
+            
+            
+            
+            <li>
+                
+
+
+
+    <aside class="card border noPrint" id="section-tree-item-computing_colt_complexity_PAC_learning_md">
+        <div class="card-title bg-light-gray border d-flex justify-content-between">
+            <a href="https://vishvAsa.github.io/notes/computing/colt/complexity/PAC_learning/">PAC learning </a>
+            <a data-toggle="collapse" href="#section-tree-item-body-computing_colt_complexity_PAC_learning_md" role="button" aria-expanded="false" aria-controls="section-tree-item-body-computing_colt_complexity_PAC_learning_md" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+        </div>
+        <nav id="section-tree-item-body-computing_colt_complexity_PAC_learning_md" class="card-body p-0 collapse">
+            
+            <li>draft: false</li>
+            
+            <li>iscjklanguage: false</li>
+            
+            <li>title: PAC learning</li>
+            
+        </nav>
+    </aside>
+
+
+            </li>
+            
+            
+            
+            
+            
+        </ul>
+    </li>
+</ul>
+
+            </li>
+            
+        </ul>
+    </li>
+</ul>
+
+    </div>
+</main>
+
+        
+
+        
+
+
+
+    <aside class="card border noPrint" id="section-tree-item-computing_colt__index_md">
+        <div class="card-title bg-light-gray border d-flex justify-content-between">
+            <a href="https://vishvAsa.github.io/notes/computing/colt/">&#43;Classification complexity </a>
+            <a data-toggle="collapse" href="#section-tree-item-body-computing_colt__index_md" role="button" aria-expanded="false" aria-controls="section-tree-item-body-computing_colt__index_md" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+        </div>
+        <nav id="section-tree-item-body-computing_colt__index_md" class="card-body p-0 collapse">
+            
+            <li>draft: false</li>
+            
+            <li>iscjklanguage: false</li>
+            
+            <li>title: &#43;Classification complexity</li>
+            
+        </nav>
+    </aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1 noPrint" role="contentinfo">
+  
+
+  <div id="div_foot_nav_bar" class="row">
+    <a href="https://vishvAsa.github.io/notes/search"  class="btn btn-light btn-sm">🥽🔦</a>
+    <div class="row col  d-flex justify-content-center">
+      <div><a id="previousPageFoot" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+      <div ><a id="nextPageFoot" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+    </div>
+      <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+      </ul>
+  </div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vishvAsa/notes/issues/new" >
+      ✉️Contact
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      
+      <a href="https://github.com/vishvAsa/notes/actions/workflows/build.yml"><img src="https://github.com/vishvAsa/notes/actions/workflows/build.yml/badge.svg"> Built </a> on 2026 Feb 12 01:34:45 UTC. (<a href="http://google.com/search?q=01%3a34%3a45%20UTC to IST">IST</a>)
+    </div>
+  </div>
+</footer>
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-33H08JSLQR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-33H08JSLQR');
+</script>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_uiLib.onDocumentReadyTasks();
+  </script>
+  
+</html>

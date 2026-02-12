@@ -1,0 +1,69 @@
+[[data]]
+Software = 'intellij idea'
+"Operand Type" = 'settings'
+Syntax = 'file -> settings'
+
+[[data]]
+Software = 'intellij idea'
+"Operand Type" = 'settings'
+Feature = 'save'
+Syntax = 'file -> settings repository'
+
+[[data]]
+Software = 'intellij idea'
+"Operand Type" = 'Platform settings'
+Syntax = 'right click project, open module settings'
+Description = 'can set scala/ java sdk, classpath'
+
+[[data]]
+Software = 'intellij idea'
+"Operand Type" = 'Project settings'
+Syntax = 'right click project, open module settings'
+Description = 'Set source, path, dependencies'
+
+[[data]]
+Software = 'intellij idea'
+"Operand Type" = 'Project settings'
+Feature = 'version control exclusion'
+Syntax = '''Don't share workspace.xml and tasks.xml.'''
+
+[[data]]
+Software = 'intellij idea'
+"Operand Type" = 'Module settings'
+Syntax = 'right click project, open module settings'
+Description = 'Set source, path, dependencies'
+
+[[data]]
+Software = 'intellij idea'
+"Operand Type" = 'Module settings'
+Feature = 'source dir'
+Subfeature = 'caveat'
+Description = 'Script directories was mistaken to be a source directory, leading to compilation problems.'
+
+[[data]]
+Software = 'intellij idea'
+"Operand Type" = 'editor'
+Feature = 'auto fix/ light bulb'
+Syntax = '''
+select or click on appropriate word. 
+Or use alt-enter.'''
+
+[[data]]
+Software = 'intellij idea'
+"Operand Type" = 'editor'
+Feature = 'macros'
+Subfeature = 'concept'
+Description = 'can record, assign shortcut, invoke. very useful.'
+
+[[data]]
+Software = 'intellij idea'
+"Operand Type" = 'editor'
+Feature = 'regex'
+Subfeature = 'multiline'
+Syntax = '\t\t\t+"[\s\S]+" rather than \t\t\t+".+"'
+
+[[data]]
+Software = 'intellij idea'
+"Operand Type" = 'Code inspection'
+Syntax = 'Analyze -> Inspect code'
+Description = 'Can have multiple scopes per inspection - different severity'

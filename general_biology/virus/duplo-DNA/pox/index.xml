@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Pox on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/general_biology/virus/duplo-DNA/pox/</link>
+    <description>Recent content in &#43;Pox on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/general_biology/virus/duplo-DNA/pox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#43;Monkey pox</title>
+      <link>https://vishvAsa.github.io/notes/general_biology/virus/duplo-DNA/pox/monkey-pox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/general_biology/virus/duplo-DNA/pox/monkey-pox/</guid>
+      <description>&lt;h2 id=&#34;symptoms&#34;&gt;Symptoms&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;similar to smallpox symptoms, but milder. 2-4 weeks.&lt;/li&gt;&#xA;&lt;li&gt;rash, Swollen lymph nodes&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Variola</title>
+      <link>https://vishvAsa.github.io/notes/general_biology/virus/duplo-DNA/pox/variola/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/general_biology/virus/duplo-DNA/pox/variola/</guid>
+      <description>&lt;p&gt;Causes small pox, chicken pox etc.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

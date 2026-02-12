@@ -1,0 +1,980 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | &#43;Homework Assignment #1: Search</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.143.0">
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/notes/computing/ai/classwork/hw1/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/notes/computing/ai/classwork/hw1/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:url" content="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/">
+  <meta property="og:site_name" content="Vishvas&#39;s notes">
+  <meta property="og:title" content="&#43;Homework Assignment #1: Search">
+  <meta property="og:description" content="683 Homework Assignment Due: September 26, 2007
+My answers are italicized. - vishvAs vAsuki
+(12%) Iterative lengthening search is an iterative analogue of uniform-cost search. The basic idea is to use increasing limits on path cost. If a node is generated whose path cost exceeds the current limit, it is immediately discarded. For each new iteration, the limit is set to the lowest path cost of any node discarded in the previous iteration.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="website">
+
+  <meta itemprop="name" content="&#43;Homework Assignment #1: Search">
+  <meta itemprop="description" content="683 Homework Assignment Due: September 26, 2007
+My answers are italicized. - vishvAs vAsuki
+(12%) Iterative lengthening search is an iterative analogue of uniform-cost search. The basic idea is to use increasing limits on path cost. If a node is generated whose path cost exceeds the current limit, it is immediately discarded. For each new iteration, the limit is set to the lowest path cost of any node discarded in the previous iteration.">
+  <meta itemprop="wordCount" content="3147">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="&#43;Homework Assignment #1: Search">
+  <meta name="twitter:description" content="683 Homework Assignment Due: September 26, 2007
+My answers are italicized. - vishvAs vAsuki
+(12%) Iterative lengthening search is an iterative analogue of uniform-cost search. The basic idea is to use increasing limits on path cost. If a node is generated whose path cost exceeds the current limit, it is immediately discarded. For each new iteration, the limit is set to the lowest path cost of any node discarded in the previous iteration.">
+<script type="text/javascript">
+    
+    let baseURL = "https:\/\/vishvAsa.github.io\/notes\/";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022build_img\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/actions\/workflows\/build.yml\/badge.svg\u0022,\u0022build_url\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/actions\/workflows\/build.yml\u0022,\u0022contactlink\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/issues\/new\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/edit\/content\/\u0022,\u0022js_extras\u0022:[\u0022mathjax\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022देवः\u0022,\u0022url\u0022:\u0022..\/devaH\/\u0022},{\u0022title\u0022:\u0022आगमः\u0022,\u0022url\u0022:\u0022..\/AgamaH\/\u0022},{\u0022title\u0022:\u0022आगमः शैवः\u0022,\u0022url\u0022:\u0022..\/AgamaH_shaivaH\/\u0022},{\u0022title\u0022:\u0022आगमः वैष्णवः\u0022,\u0022url\u0022:\u0022..\/AgamaH_vaiShNavaH\/\u0022},{\u0022title\u0022:\u0022रामानुजीयम्\u0022,\u0022url\u0022:\u0022..\/rAmAnujIyam\/\u0022},{\u0022title\u0022:\u0022माध्वम्\u0022,\u0022url\u0022:\u0022..\/mAdhvam\/\u0022},{\u0022title\u0022:\u0022आगमः ब्राह्मः\u0022,\u0022url\u0022:\u0022..\/AgamaH_brAhmaH\/\u0022},{\u0022title\u0022:\u0022कल्पान्तरम्\u0022,\u0022url\u0022:\u0022..\/kalpAntaram\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022वेदाः\u0022,\u0022url\u0022:\u0022..\/vedAH\/\u0022},{\u0022title\u0022:\u0022वेदाः - ऋक्\u0022,\u0022url\u0022:\u0022..\/vedAH_Rk\/\u0022},{\u0022title\u0022:\u0022वेदाः - यजुः\u0022,\u0022url\u0022:\u0022..\/vedAH_yajuH\/\u0022},{\u0022title\u0022:\u0022वेदाः - साम\u0022,\u0022url\u0022:\u0022..\/vedAH_sAma\/\u0022},{\u0022title\u0022:\u0022पुराणम्\u0022,\u0022url\u0022:\u0022..\/purANam\u0022},{\u0022title\u0022:\u0022पुराणम् वैष्णवम्\u0022,\u0022url\u0022:\u0022..\/purANam_vaiShNavam\/\u0022},{\u0022title\u0022:\u0022महाभारतम्\u0022,\u0022url\u0022:\u0022..\/mahAbhAratam\/\u0022},{\u0022title\u0022:\u0022रामायणम्\u0022,\u0022url\u0022:\u0022..\/rAmAyaNam\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvyam\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022ಕನ್ನಡ\u0022,\u0022url\u0022:\u0022..\/kannaDa\/\u0022},{\u0022title\u0022:\u0022त्रिपिटकम्\u0022,\u0022url\u0022:\u0022..\/tipiTaka\/\u0022},{\u0022title\u0022:\u0022पाळयः\u0022,\u0022url\u0022:\u0022..\/pALi\/\u0022},{\u0022title\u0022:\u0022भाषान्तरम्\u0022,\u0022url\u0022:\u0022..\/bhAShAntaram\/\u0022},{\u0022title\u0022:\u0022English Lit\u0022,\u0022url\u0022:\u0022..\/english\/\u0022},{\u0022title\u0022:\u0022Book pub\u0022,\u0022url\u0022:\u0022..\/book-pub\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vishvAsa.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    
+    var pageRelUrlTree = {};
+</script>
+
+    
+    <script type="text/javascript">
+  let pageVars = {};
+  pageVars.pageUrlMinusBasePath = "\/notes\/computing\/ai\/classwork\/hw1\/".replace(basePath, "/");
+  pageVars.pageParams = {};
+  pageVars.pageSource = "computing\/ai\/classwork\/hw1\/_index.md";
+  console.log(pageVars.pageSource);
+  var pageDefaults;
+  for (let possiblePageDefaults of pageDefaultsList) {
+    if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+      pageDefaults = possiblePageDefaults.values
+    }
+  }
+    
+</script>
+
+
+    <script src="/notes/webpack_dist/uiLib-bundle.js"></script>
+
+
+<script>
+
+
+MathJax = {
+  tex: {
+    inlineMath: [ ["@#", "#@"], ["\\(", "\\)"] ],
+    displayMath: [ ["$$","$$"], ["\\[", "\\]"] ],
+    processEscapes: true,  
+  },
+  svg: {
+    fontCache: 'global'
+  },
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore|dno"
+  }
+};
+</script>
+<script type="text/javascript" id="MathJax-script" async
+        src="/notes/non_webpack_js/mathjax/tex-svg.js">
+</script>
+
+
+
+
+
+
+    <link rel="stylesheet" href="/notes/webpack_dist/uiLib.css">
+<link rel="stylesheet" href="/notes/css/uiLibPrint.css" media="print" >
+<link rel="stylesheet" href="/notes/css/fonts.css" >
+<link rel="stylesheet" href="/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+
+<link rel="stylesheet" href="/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+
+<link rel="alternate" hreflang="sa-Deva" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/" />
+<link rel="alternate" hreflang="sa-Deva" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=devanagari" />
+
+<link rel="alternate" hreflang="sa-Knda" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=kannada" />
+<link rel="alternate" hreflang="sa-Mlym" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=malayalam" />
+<link rel="alternate" hreflang="sa-Telu" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=telugu" />
+<link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=tamil_superscripted" />
+<link rel="alternate" hreflang="sa-Taml" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=tamil" />
+<link rel="alternate" hreflang="sa-Gran" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=grantha" />
+
+<link rel="alternate" hreflang="sa-Gujr" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=gujarati" />
+<link rel="alternate" hreflang="sa-Guru" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=gurmukhi" />
+<link rel="alternate" hreflang="sa-Shar" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=sharada" />
+<link rel="alternate" hreflang="sa-Dogr" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=dogra" />
+<link rel="alternate" hreflang="sa-Phag" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=phags_pa" />
+<link rel="alternate" hreflang="sa-Tibt" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=tibetan" />
+<link rel="alternate" hreflang="sa-Sidd" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=siddham" />
+<link rel="alternate" hreflang="sa-Newa" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=newa" />
+<link rel="alternate" hreflang="sa-Modi" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=modi" />
+<link rel="alternate" hreflang="sa-Tirh" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=tirhuta_maithili" />
+<link rel="alternate" hreflang="sa-Gong" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=gondi_gujala" />
+<link rel="alternate" hreflang="sa-Gonm" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=gondi_masaram" />
+
+
+<link rel="alternate" hreflang="sa-Orya" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=oriya" />
+<link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=assamese" />
+<link rel="alternate" hreflang="sa-Beng" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=bengali" />
+<link rel="alternate" hreflang="sa-Mtei" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=manipuri" />
+<link rel="alternate" hreflang="sa-Sinh" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=sinhala" />
+<link rel="alternate" hreflang="sa-Limb" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=limbu" />
+<link rel="alternate" hreflang="sa-Lepc" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=lepcha" />
+
+
+<link rel="alternate" hreflang="sa-Cyrl" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=cyrillic" />
+<link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iso" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=iso" />
+<link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=iast" />
+<link rel="alternate" hreflang="sa-Aran" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=urdu" />
+<link rel="alternate" hreflang="sa-Avst" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=avestan" />
+
+<link rel="alternate" hreflang="sa-Brah" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=brahmi" />
+<link rel="alternate" hreflang="sa-Khar" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=kharoshthi" />
+<link rel="alternate" hreflang="sa-Zanb" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=zanbazar_square" />
+<link rel="alternate" hreflang="sa-Bhks" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=bhaiksuki" />
+
+<link rel="alternate" hreflang="sa-Bali" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=balinese" />
+<link rel="alternate" hreflang="sa-Java" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=javanese" />
+<link rel="alternate" hreflang="sa-Laoo" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=lao" />
+<link rel="alternate" hreflang="sa-Laoo-t-sa-Laoo-m0-Laopali" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=lao_pali" />
+<link rel="alternate" hreflang="sa-Mymr" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=burmese" />
+<link rel="alternate" hreflang="sa-Mymr-t-sa-Mymr-m0-Mon" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=mon" />
+<link rel="alternate" hreflang="sa-Cham" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=cham" />
+<link rel="alternate" hreflang="sa-Khmr" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=khmer" />
+<link rel="alternate" hreflang="sa-Thai" href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/?transliteration_target=thai" />
+
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+\(
+% groupings of objects.
+\newcommand{\set}[1]{\left\{ #1 \right\}}
+\newcommand{\seq}[1]{\left(#1\right)}
+\newcommand{\ang}[1]{\langle#1\rangle}
+\newcommand{\tuple}[1]{\left(#1\right)}
+\newcommand{\size}[1]{\left| #1\right|}
+
+\newcommand{\comp}{\circ}
+
+
+% numerical shortcuts.
+\newcommand{\abs}[1]{\left| #1\right|}
+\newcommand{\floor}[1]{\left\lfloor #1 \right\rfloor}
+\newcommand{\ceil}[1]{\left\lceil #1 \right\rceil}
+
+% linear algebra shortcuts.
+\newcommand{\change}{\Delta}
+\newcommand{\norm}[1]{\left\| #1\right\|}
+\newcommand{\dprod}[1]{\langle#1\rangle}
+\newcommand{\linspan}[1]{\langle#1\rangle}
+\newcommand{\conj}[1]{\overline{#1}}
+\newcommand{\der}[1]{\frac{d#1}{dx}}
+\newcommand{\lap}{\Delta}
+\newcommand{\kron}{\otimes}
+\newcommand{\nperp}{\nvdash}
+
+\newcommand{\mat}[1]{\left[ \begin{smallmatrix}#1 \end{smallmatrix} \right]}
+
+% derivatives and limits
+\newcommand{\partder}[2]{\frac{\partial #1}{\partial #2}}
+\newcommand{\partdern}[3]{\frac{\partial^{#3 #1}}{\partial #2^{#3}}}
+\newcommand{\gradient}{\nabla}
+\newcommand{\subdifferential}{\partial}
+
+% Arrows
+\newcommand{\diverge}{\nearrow}
+\newcommand{\notto}{\nrightarrow}
+\newcommand{\up}{\uparrow}
+\newcommand{\down}{\downarrow}
+% gets and gives are defined!
+
+% ordering operators
+\newcommand{\oleq}{\preceq}
+\newcommand{\ogeq}{\succeq}
+
+% programming and logic operators
+\newcommand{\dfn}{:=}
+\newcommand{\assign}{:=}
+\newcommand{\co}{\ co\ }
+\newcommand{\en}{\ en\ }
+
+
+% logic operators
+\newcommand{\xor}{\oplus}
+\newcommand{\Land}{\bigwedge}
+\newcommand{\Lor}{\bigvee}
+\newcommand{\finish}{\Box}
+\newcommand{\contra}{\Rightarrow \Leftarrow}
+\newcommand{\iseq}{\stackrel{_?{=}}}
+
+
+% Set theory
+\newcommand{\symdiff}{\Delta}
+\newcommand{\setdiff}{\backslash}
+\newcommand{\union}{\cup}
+\newcommand{\inters}{\cap}
+\newcommand{\Union}{\bigcup}
+\newcommand{\Inters}{\bigcap}
+\newcommand{\nullSet}{\phi}
+
+
+% graph theory
+\newcommand{\nbd}{\Gamma}
+
+% Script alphabets
+% For reals, use \Re
+
+% greek letters
+\newcommand{\eps}{\epsilon}
+\newcommand{\del}{\delta}
+\newcommand{\ga}{\alpha}
+\newcommand{\gb}{\beta}
+\newcommand{\gd}{\del}
+\newcommand{\gp}{\pi}
+\newcommand{\gf}{\phi}
+\newcommand{\gh}{\eta}
+\newcommand{\gF}{\Phi}
+\newcommand{\gl}{\lambda}
+\newcommand{\gm}{\mu}
+\newcommand{\gn}{\nu}
+\newcommand{\gr}{\rho}
+\newcommand{\gs}{\sigma}
+\newcommand{\gth}{\theta}
+\newcommand{\gx}{\xi}
+\newcommand{\gw}{\omega}
+
+\newcommand{\sw}{\sigma}
+\newcommand{\SW}{\Sigma}
+\newcommand{\ew}{\lambda}
+\newcommand{\EW}{\Lambda}
+
+\newcommand{\Del}{\Delta}
+\newcommand{\gD}{\Delta}
+\newcommand{\gG}{\Gamma}
+\newcommand{\gW}{\Omega}
+\newcommand{\gS}{\Sigma}
+\newcommand{\gTh}{\Theta}
+
+% Bold english letters.
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bB}{\mathbf{B}}
+\newcommand{\bC}{\mathbf{C}}
+\newcommand{\bD}{\mathbf{D}}
+\newcommand{\bE}{\mathbf{E}}
+\newcommand{\bF}{\mathbf{F}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bI}{\mathbf{I}}
+\newcommand{\bJ}{\mathbf{J}}
+\newcommand{\bK}{\mathbf{K}}
+\newcommand{\bL}{\mathbf{L}}
+\newcommand{\bM}{\mathbf{M}}
+\newcommand{\bN}{\mathbf{N}}
+\newcommand{\bO}{\mathbf{O}}
+\newcommand{\bP}{\mathbf{P}}
+\newcommand{\bQ}{\mathbf{Q}}
+\newcommand{\bR}{\mathbf{R}}
+\newcommand{\bS}{\mathbf{S}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bU}{\mathbf{U}}
+\newcommand{\bV}{\mathbf{V}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\bX}{\mathbf{X}}
+\newcommand{\bY}{\mathbf{Y}}
+\newcommand{\bZ}{\mathbf{Z}}
+
+\newcommand{\bba}{\mathbf{a}}
+\newcommand{\bbb}{\mathbf{b}}
+\newcommand{\bbc}{\mathbf{c}}
+\newcommand{\bbd}{\mathbf{d}}
+\newcommand{\bbe}{\mathbf{e}}
+\newcommand{\bbf}{\mathbf{f}}
+\newcommand{\bbg}{\mathbf{g}}
+\newcommand{\bbh}{\mathbf{h}}
+\newcommand{\bbk}{\mathbf{k}}
+\newcommand{\bbl}{\mathbf{l}}
+\newcommand{\bbm}{\mathbf{m}}
+\newcommand{\bbn}{\mathbf{n}}
+\newcommand{\bbp}{\mathbf{p}}
+\newcommand{\bbq}{\mathbf{q}}
+\newcommand{\bbr}{\mathbf{r}}
+\newcommand{\bbs}{\mathbf{s}}
+\newcommand{\bbt}{\mathbf{t}}
+\newcommand{\bbu}{\mathbf{u}}
+\newcommand{\bbv}{\mathbf{v}}
+\newcommand{\bbw}{\mathbf{w}}
+\newcommand{\bbx}{\mathbf{x}}
+\newcommand{\bby}{\mathbf{y}}
+\newcommand{\bbz}{\mathbf{z}}
+\newcommand{\0}{\mathbf{0}}
+\newcommand{\1}{\mathbf{1}}
+
+% Caligraphic english alphabet
+\newcommand{\cA}{\mathcal{A}}
+\newcommand{\cB}{\mathcal{B}}
+\newcommand{\cC}{\mathcal{C}}
+\newcommand{\cD}{\mathcal{D}}
+\newcommand{\cE}{\mathcal{E}}
+\newcommand{\cF}{\mathcal{F}}
+\newcommand{\cG}{\mathcal{G}}
+\newcommand{\cH}{\mathcal{H}}
+\newcommand{\cI}{\mathcal{I}}
+\newcommand{\cJ}{\mathcal{J}}
+\newcommand{\cK}{\mathcal{K}}
+\newcommand{\cL}{\mathcal{L}}
+\newcommand{\cM}{\mathcal{M}}
+\newcommand{\cN}{\mathcal{N}}
+\newcommand{\cO}{\mathcal{O}}
+\newcommand{\cP}{\mathcal{P}}
+\newcommand{\cQ}{\mathcal{Q}}
+\newcommand{\cR}{\mathcal{R}}
+\newcommand{\cS}{\mathcal{S}}
+\newcommand{\cT}{\mathcal{T}}
+\newcommand{\cU}{\mathcal{U}}
+\newcommand{\cV}{\mathcal{V}}
+\newcommand{\cW}{\mathcal{W}}
+\newcommand{\cX}{\mathcal{X}}
+\newcommand{\cY}{\mathcal{Y}}
+\newcommand{\cZ}{\mathcal{Z}}
+
+
+% Formatting shortcuts
+\newcommand{\red}[1]{\textcolor{red}{#1}}
+\newcommand{\blue}[1]{\textcolor{blue}{#1}}
+\newcommand{\htext}[2]{\texorpdfstring{#1}{#2}}
+
+% Statistics
+\newcommand{\distr}{\sim}
+\newcommand{\stddev}{\sigma}
+\newcommand{\covmatrix}{\Sigma}
+\newcommand{\mean}{\mu}
+\newcommand{\param}{\theta}
+\newcommand{\gthEst}{\hat{\theta}}
+\newcommand{\ftr}{\phi}
+\newcommand{\est}[1]{\hat{#1}}
+
+% General utility
+\newcommand{\todo}[1]{\textbf{[TODO]}] \footnote{TODO: #1}}
+\newcommand{\tbc}{[\textbf{Incomplete}]}
+\newcommand{\chk}{[\textbf{Check}]}
+\newcommand{\why}{[\textbf{Find proof}]}
+\newcommand{\opt}[1]{\textit{#1}}
+
+\newcommand{\experience}[1]{[\textbf{Personal Experience}]: #1 \blacktriangle}
+\newcommand{\pf}[1]{[\textbf{Proof}]: #1 \Box}
+\newcommand{\core}[1]{\textbf{Core Idea}: #1 \Arrowvert}
+\newcommand{\example}[1]{\textbf{Example}: #1 \blacktriangle}
+\newcommand{\error}[1]{\textbf{Error alert}: #1 \triangle}
+\newcommand{\oprob}{[\textbf{OP}]: }
+
+
+\renewcommand{\~}{\htext{$\sim$}{~}}
+
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+
+
+\)
+
+
+
+    
+<header class="p-1 bg-yellow noPrint">
+    <nav role="navigation" class="col">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> &#43;Homework Assignment #1: Search</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <button class="btn btn-light"  href="#transliterationDropdown" data-toggle="collapse">
+            ✍
+          </button>
+          <select id="transliterationDropdown" size="1" class="collapse" onchange="module_uiLib.default.content.updateTransliteration()">
+            <optgroup label="🌍">
+              <option value="iso">āISO</option>
+              <option value="iso_vedic">āi-āu</option>
+              <option value="cyrillic">пу</option>
+              <option value="urdu">نس</option>
+              <option value="??">🌍??</option>
+            </optgroup>
+            <optgroup label="🛕🧭S">
+              <option value="kannada">ಅ</option>
+              <option value="malayalam">അ</option>
+              <option value="telugu">క</option>
+              <option value="tamil_superscripted">க²</option>
+              <option value="tamil_extended">க</option>
+              <option value="grantha">𑌅</option>
+            </optgroup>
+            <optgroup label="🛕🧭N">
+              <option value="devanagari" selected="">स</option>
+              <option value="gujarati">અ</option>
+              <option value="gurmukhi">ਅ</option>
+            </optgroup>
+            <optgroup label="🛕🧭E">
+              <option value="oriya">ଅ</option>
+              <option value="assamese">অস</option>
+              <option value="bengali">অ</option>
+            </optgroup>
+            <optgroup label="🛕🏺📜">
+              <option value="sharada">𑆑𑇀𑆰</option>
+              <option value="brahmi">𑀅</option>
+            </optgroup>
+            <optgroup label="🛕🌋">
+              <option value="balinese">ᬩᬮᬶ</option>
+            </optgroup>
+          </select>
+          <div>
+          <button class="btn btn-outline-secondary btn-sm"  href="#transliterationDropdownAlt" data-toggle="collapse">
+          (✍)
+          </button>
+          <select id="transliterationDropdownAlt" size="1"  style="font-size:12px" class="bg-light-yellow collapse" onchange="module_uiLib.default.content.updateTransliteration()">
+            <optgroup label="🌍">
+              <option value="iso">āISO</option>
+              <option value="iso_vedic">āi-āu</option>
+              <option value="cyrillic">пу</option>
+              <option value="urdu">نس</option>
+              <option value="??">🌍??</option>
+            </optgroup>
+            <optgroup label="🛕🧭S">
+              <option value="kannada">ಅ</option>
+              <option value="malayalam">അ</option>
+              <option value="telugu">క</option>
+              <option value="tamil_superscripted">க²</option>
+              <option value="tamil_extended">க</option>
+              <option value="grantha">𑌅</option>
+            </optgroup>
+            <optgroup label="🛕🧭N">
+              <option value="devanagari" selected="">स</option>
+              <option value="gujarati">અ</option>
+              <option value="gurmukhi">ਅ</option>
+            </optgroup>
+            <optgroup label="🛕🧭E">
+              <option value="oriya">ଅ</option>
+              <option value="assamese">অস</option>
+              <option value="bengali">অ</option>
+            </optgroup>
+            <optgroup label="🛕🏺📜">
+              <option value="sharada">𑆑𑇀𑆰</option>
+              <option value="brahmi">𑀅</option>
+            </optgroup>
+            <optgroup label="🛕🌋">
+              <option value="balinese">ᬩᬮᬶ</option>
+            </optgroup>
+          </select>
+          </div>
+          <div class="row col d-flex  dropdown">
+            <button class="btn btn-secondary-outline btn-sm dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              A±
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <a class="btn btn-secondary btn-sm" onclick="module_uiLib.changeTextSize(2)">A+</a>
+            <a class="btn btn-secondary btn-sm" onclick="module_uiLib.changeTextSize(-2)">A-</a>
+            </div>
+          </div>
+          <button class="btn btn-light btn-sm"  href="#commentStyleDropdown" data-toggle="collapse">
+            🗨
+          </button>
+          <select id="commentStyleDropdown" class="collapse" size="1" onchange="module_uiLib.default.content.updateCommentStyleFromDropdown()">
+            <option value="on">✔</option>
+            <option value="hidden">✗</option>
+          </select>
+          <div><a id="expandAllButton" class="btn btn-secondary" onclick="module_uiLib.default.query.setParamsAndGo({'expandDetails': '.*'})">↕️️</a></div>
+          <div id="printStyleDiv" class="row col d-flex  dropdown">
+          <button class="btn btn-light btn-sm dropdown-toggle"  href="#printStyleDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          🖨
+          </button>
+            <div class="dropdown-menu col" aria-labelledby="printStyleDropdown">
+              <div class="row justify-content-center">
+                <p>Cols:</p>
+                <input type="number" min="1" max="10" value="2" step="1" id="tbColumns" style="width: 3ch;"  accesskey="c"/>
+              </div>
+              <div class="row justify-content-center">
+                <p>A±:</p> <input type="text" id="tbBodyFontSize" value="0.4cm" style="width: 6ch;"  accesskey="f"></input>
+              </div>
+              <div class="row justify-content-center">
+                <p>Incl:</p> <input checked type="checkbox" id="tbIncludeStyle" value="on"></input>
+                <button id="btnPrintStyle" onclick="module_uiLib.default.content.updatePrintStyle()">🖨
+                </button>
+              </div>
+            </div>
+        </div>
+        </div>
+        <div id="audioDiv" class="row col d-flex  dropdown">
+          <button class="btn btn-secondary-outline btn-sm dropdown-toggle" type="button" id="audioDropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            🎧
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <a id="speakerButton" class="btn btn-outline-secondary btn-sm" onclick="module_uiLib.default.content.handleSpeakToggle()">⏯</a>
+          <button id="speakerPauseButton" class="btn btn-outline-secondary btn-sm">⏸</button>
+            <div id="audioOptionsDiv" class="row justify-content-center" >
+              <div>
+                <p class="lead">Vol</p>
+                <input type="range" min="0" max="1" value="1" step="0.1" id="volume" />
+                <span id="volume-label" class="ms-2">1</span>
+              </div>
+              <div class="mx-5">
+                <p class="lead">Rate</p>
+                <input type="range" min="0.1" max="10" value="1" id="rate" step="0.1" />
+                <span id="rate-label" class="ms-2">1</span>
+              </div>
+              <div>
+                <p class="lead">Pitch</p>
+                <input type="range" min="0" max="2" value="1" step="0.1" id="pitch" />
+                <span id="pitch-label" class="ms-2">1</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a href="https://vishvAsa.github.io/notes/search"  class="btn btn-light btn-sm">🥽🔦</a>
+        <div class="row col  d-flex justify-content-center">
+          <div><a id="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a id="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border noPrint " id="sidebar">
+          <div id="fastSearch">
+              <datalist id="pageDataList"></datalist>
+              <input id="searchInput" placeholder="शीर्षिकान्विष्यताम्" list="pageDataList" onchange="module_uiLib.default.navigation.pageLoader()">
+          </div>
+          <details open  class="bg-light-gray" >
+              <summary id="sidebarToggleLink" onclick="module_uiLib.default.navigation.sidebarToggleHandler()">
+            Menu
+              </summary>
+              <ul id="sidebarBody" class="list pl2 p-0 bg-yellow">
+              </ul>
+          </details>
+      </aside>
+      <main class="col p-3" role="main" data-pagefind-body>
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="&#43;Homework Assignment #1: Search">&#43;Homework Assignment #1: Search</h1>
+    
+    <a id="editLink" class="btn btn-primary noPrint"  href="https://github.com/vishvAsa/notes/edit/content/computing/ai/classwork/hw1/_index.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<main>
+    <article>
+  <aside id="toc_card" class="card border noPrint ">
+    <details id="toc_header">
+        <summary>What's in this page?</summary>
+      <div id="toc_body" class="p-0">
+        
+        <ul id="toc_ul" class="list p-0">
+        </ul>
+      </div>
+    </details>
+    <div id="progressBarDiv" class="row d-flex justify-content-center">
+      🐎💪<progress id="progressLoading" value="0" max="100"> 32% </progress>
+    </div>
+  </aside>
+  <div id="post_content">
+  <p>683 Homework Assignment
+Due: September 26, 2007</p>
+<p>My answers are italicized. - vishvAs vAsuki</p>
+<ul>
+<li>
+<p>(12%) Iterative lengthening search is an iterative analogue of uniform-cost search. The basic idea is to use increasing limits on path cost. If a node is generated whose path cost exceeds the current limit, it is immediately discarded. For each new iteration, the limit is set to the lowest path cost of any node discarded in the previous iteration.</p>
+<ul>
+<li>
+<p>(3%) Show that this algorithm is optimal for general path costs.</p>
+</li>
+<li>
+<p>Suppose that N is the set of all nodes which are in the explored part of the search tree. (Every node belonging to the explored part of the search tree has undergone the &ldquo;goal test&rdquo;.) Also, let NF stand for the set of all nodes in the fringe of the explored part of the search tree.</p>
+</li>
+<li>
+<p>Initially, N and NF consist of only the node corresponding to the initial state. Initially, the limit used by iterative lengthening is 0.</p>
+</li>
+<li>
+<p>Each successive iteration of Iterative lengthening works by generating all the successors of the fringe nodes, and discarding all nodes which exceed the current limit. Amongst those nodes which are discarded, the lowest path cost is set to be the limit used by iterative lengthening during the next iteration.</p>
+</li>
+<li>
+<p>So, if the search progresses by one more iteration, N grows by the addition of the nodes with the least path cost, from amongst all the nodes which do not already belong to N. Thus, all nodes which are not part of N have a path cost greater than the maximum path cost for the nodes belonging to N. [Observation 1.1.1]</p>
+</li>
+<li>
+<p>During each iteration of the algorithm, N grows by exactly by the number of nodes whose path cost equals the limit for the iteration. These nodes undergo the goal test. If one of these nodes is identified as a &ldquo;goal node&rdquo;, the algorithm halts. So, whenever the algorithm proceeds to another iteration, it is implied that all nodes which have been previously added to N have undergone the goal test, and they are known to be non-goal nodes. [Observation 1.1.2]</p>
+</li>
+<li>
+<p>Now, suppose that during some search iteration, the goal node is found. Considering [Observation 1.1.2] and [Observation 1.1.1], there does not exist another goal node with a lower path cost - because, if there were such a node, it would be part of N, and the algorithm would have halted. Hence, the algorithm is optimal.</p>
+</li>
+<li>
+<p>(4%) Consider a uniform tree with branching factor <em>b</em>, solution depth <em>d</em>, and unit step costs (each action costs one unit). How many iterations will iterative lengthening require?</p>
+</li>
+<li>
+<p>If d=0, then the initial state is also the goal state. The limit is initially 0. In the solution below, in counting the number of iterations required, I count the iteration described above.</p>
+</li>
+<li>
+<p>In order to find the goal node, the algorithm, for this problem, will have to undergo d+1 iterations (including the first iteration, where the maximum path cost is 0).</p>
+</li>
+<li>
+<p>(5%) Now consider step costs drawn from the continuous range [e,1] for some 0 &lt; e &lt; 1. How many iterations are required in the <em>worst case</em>?</p>
+</li>
+<li>
+<p>Note that the question specifies the lower bound on the step size, e. Then, iterative lengthening will undergo at most d/e iterations.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>(12%) Suppose you were doing an A* search and there were a number of different ways that you could compute an admissible heuristic value. Suppose that some were very cheap to compute but also very inaccurate estimators while others were very expensive to compute but were very accurate estimators. How would you determine which computation to use for a given application?</p>
+<ul>
+<li>There are limitations on the space and time available to an agent for computation. This is especially true where the agent is required to respond in real-time. In dynamic environments, the situation may change during the time the agent spends in thought. If, for a given problem, an agent does not have the luxury computing a complex heuristic without incurring a penalty, the agent should choose the simple heuristic. Humans, for example, use simple heuristics in daily life.</li>
+<li>On the other hand, if the agent were dealing with a static envronment, and if the agent had all the time it needed, it would use the more expensive, but accurate heuristic in the hopes of safely arriving at the solution faster. This, of course, assumes that the heuristic function is cheaper to compute than the problem of exploring the problem search tree directly. (That is, if the heuristic is not exponential in time.)</li>
+<li>One would consider the reduction in the number of nodes expanded against the computational complexity of the expensive heuristic. If the more-accurate heuristic is accurate enough to guarantee subexponential growth in the number of nodes expanded with comparitively little computational cost, one would choose the more accurate heuristic. (This happens when the error in the heuristic function at node n &lt;= O(log( actual cost to get to the goal from node n)).)</li>
+</ul>
+</li>
+<li>
+<p>(12%) Give an example of a search space in which A* would generate a node first with a <em>g</em>-value that is not the shortest distance between that node and the initial state. To do that, draw a small graph, designate one node as an initial state and one node as the goal state. Assign path costs to edges and an admissible heuristic estimate to each node.</p>
+<ul>
+<li>
+<p>(5%) Show the graph and trace the execution of A* until it terminates.</p>
+</li>
+<li>
+<p>The graph is as follows:<br>
+<figure class="">
+
+    <a href="ai3.jpg" target="_blank" rel="noopener">
+        <img src="ai3.jpg" alt="diagram of the example for question 3" title="">
+    </a>
+
+    
+
+</figure>
+</p>
+</li>
+<li>
+<p>The path taken by A* to the solution, with reference to the above diagram, is traced below:</p>
+</li>
+<li>
+<p>A* starts at node A.</p>
+</li>
+<li>
+<p>A* generates node B, using the longer, but direct, path. But, B is not expanded.</p>
+</li>
+<li>
+<p>A* generates node C, whose f-value is equal to the F value of B, as generated above.</p>
+</li>
+<li>
+<p>A* arbitrarily chooses to expand node C, and finds a shorter route to node B.</p>
+</li>
+<li>
+<p>In the final step, A* expands node B to arrive at the goal, the node D.</p>
+</li>
+<li>
+<p>(4%) Is your heuristic function consistent? Is it generally possible to create such an example when the heuristic is consistent?</p>
+</li>
+<li>
+<p>In case of Consistent or monotonous heuristics, the f-value never decreases along a path in the search tree.</p>
+</li>
+<li>
+<p>My heuristic function is not consisitent. It is not generally possible to create such an example when the heuristic is consistent. (A proof is not provided, as it was not asked for.)</p>
+</li>
+<li>
+<p>(3%) In general, will A* still find the optimal solution when this happens (i.e., a node is generated with a <em>g</em>-value greater than the shortest distance from the initial state)?</p>
+</li>
+<li>
+<p>A* will still find the optimal solution when this happens! This happens because the algorithm will faithfully switch to using the shorter path, if necessary. The optimality of A* has been guaranteed and proved in the class.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>(16%) In this exercise, we consider the choice between two <em>admissible</em> heuristic functions, one of which is always &ldquo;at least as accurate&rdquo; as the other. More precisely, for a fixed goal, let h1 and h2 be two admissible heuristic functions such that h1(n) &lt;= h2(n) for every node n in the search tree.<br>
+Now recall that the A* algorithm expands nodes according to their f values, but the order in which nodes of equal f values are expanded can vary, depending on the implementation. For a given heuristic function h, we say that an ordering of the nodes in the search tree is h-legal if expanding the nodes in that order is consistent with A* search using h.<br>
+Let N denote the set of nodes expanded by an A* search using h1 (the &ldquo;less accurate&rdquo; heuristic function). Prove that there is always some search ordering that is h2-legal that expands only a (not necessarily strict) subset of the nodes in N.<br>
+That is, prove that it is always <em>possible</em> that h2 leads to a smaller search space than h1. (Note that the question asks you to find <em>some</em> search ordering such that certain properties hold. Do you see why it is not possible, in general, to show that these properties hold for an <em>arbitrary</em> search ordering?)</p>
+<ul>
+<li>Let C = optimum solution path cost. Also, let f1 and f2 be the f values corresponding to h1 and h2.</li>
+<li>A* using h2 will never expand more nodes than A* using h1, except possibly for some nodes with f(n)=C. This is proved below.</li>
+<li>It was proven in class that every node with f(n)&lt;C is surely expanded. In other words, every node with h(n)&lt;C-g(n) is expanded.</li>
+<li>But, as h2 is at least as big as h1 for all nodes, every node which is surely expanded by h2 is also surely expanded by h1. In other words, all nodes for which f2&lt;C are definitely expanded by both heuristics. [Observation 4.1]</li>
+<li>But, consider the nodes for whom fn(n)=C. The set of these nodes will include the goal node, for which g=C and h=0. Let N1=set of such nodes for h1, and N2= set of such nodes for h2. It follows directly from the data that all nodes present in N2 are either present in N1, or f1(n)&lt;C for them.</li>
+<li>For nodes present in both N2 and N1, suppose that h1 arbitrarily chooses a node to expand, and that it turns out to be the goal node. In this case, h1 will immediately terminate. Also suppose that h2 were to expand the goal node only after it expanded every node present in N2. In this case, h2 will have expanded nodes which h1 did not have to expand! [Observation 4.2]</li>
+<li>But, if both h2 and h1 were to follow the same ordering of nodes to expand when fn(n)=C for both heuristics, we can say that every node, for which f2(n)=C, which expanded by h2 is also expanded by h1. [Observation 4.3]</li>
+<li>So, from [Observation 4.1] and [Observation 4.3], we conclude that for some search ordering, the set of nodes expanded by h2 is a subset of the set of nodes expanded by h1. Also, from [Observation 4.2], we see that this does not hold for any arbitrary ordering.</li>
+</ul>
+</li>
+<li>
+<p>(24%) A knight moves on a chessboard two squares up, down, left, or right followed by one square in one of the two directions perpendicular to the first part of the move (i.e., the move is L-shaped). Suppose the knight is on an unbounded board at square (0,0) and we wish to move it to square (x,y) in the smallest number of moves. (For example, to move from (0,0) to (1,1) requires two moves.)</p>
+<ul>
+<li>
+<p>(4%) Explain how to decide whether the required number of moves is even or odd without constructing a solution.</p>
+</li>
+<li>
+<p>Consider a knight at the position (0,0). Suppose that the knight wanted to move either to (1,0) or to (0,1). This can be accomplished with 3 moves. Suppose instead that the knight wanted to move to (1,1). This can be accomplished with 2 moves. Suppose instead that the knight wanted to move to (1,2). This can be accomplished with 1 move.</p>
+</li>
+<li>
+<p>From the above observations, we make the following generalization: If a &ldquo;target square&rdquo; can be reached from the origin-square by only making diagonal moves of arbitrary length and direction, then, a knight starting from the origin-square will be able to reach the &ldquo;target square&rdquo; using an even number of moves. Otherwise, the knight will only be able to reach the target square using an odd number of moves.</p>
+</li>
+<li>
+<p>A proof of the above generalization is outlined here (A rigorous proof is not provided, as it was not asked for.): Color the unbounded chessboard such that all diagonally connected squares share the same color. An inescapable property of a knight&rsquo;s movement is that the &ldquo;color&rdquo; of its square changes with each move. Using this property, it may be proved by induction that to reach a square of the same color, a knight has to undertake an even number of moves, and to reach a square of the opposite color, the knight has to undertake an odd number of moves.</p>
+</li>
+<li>
+<p>(6%) Design an admissible heuristic function for estimating the minimum number of moves required; it should be as accurate as you can make it. Prove rigorously that your heuristic is admissible.</p>
+</li>
+<li>
+<p>I define the term &ldquo;hvd distance from A to B&rdquo; to mean the number of moves required by a King (a chess piece which can move diagonally, vertically or horizontally one square in any direction) to reach square A from square B. Consider all the squares surrounding a square (x,y), such that they fall within a hvd distance of 2. There are 9 such squares (including the original square).</p>
+</li>
+<li>
+<p>The heuristic algorithm computes the hvd distance from the origin square to the target square. It then divides this number by 2 and rounds it off to the next highest natural number, to arrive at a number called &ldquo;the ring ordinal&rdquo;. If the &ldquo;the ring ordinal&rdquo; is odd, but the expected actual number of moves is even, (or vice versa) the &ldquo;ring ordinal&rdquo; is incremented by 1. The value of the heuristic is the &ldquo;ring ordinal&rdquo; we finally reach. (One can decide whether even or odd number of moves are required for reaching the target square by using the reasoning provided in answer to the question 5.1.)</p>
+</li>
+<li>
+<p>Rigorous proof of admissibility:</p>
+</li>
+<li>
+<p>It immediately follows from the definition of the knight&rsquo;s move that a knight cannot travel more than 2 hvd distance units per move. So, at maximum, the knight can reach a square 2*&ldquo;number of knight-moves&rdquo; away in terms of hvd distance. In other words, &ldquo;hvd distance&rdquo; &lt;= 2*&ldquo;number of knight-moves&rdquo;.</p>
+</li>
+<li>
+<p>From the above observation, it follows that ceil(&ldquo;hvd distance&rdquo;/2) cannot be greater than the number of moves required by the knight. ceil(&ldquo;hvd distance&rdquo;/2) represents the real number &ldquo;hvd distance&rdquo;/2 rounded off to the next highest natural number.</p>
+</li>
+<li>
+<p>But, if one were to observe that ceil(&ldquo;hvd distance&rdquo;/2), the lower bound on the number of knight-moves required, is odd, but knows that an even number of moves are required (as deduced using the reasoning provided in answer to the question 5.1.), one can safely increment the lower bound to ceil(&ldquo;hvd distance&rdquo;/2) +1, with the guarantee that admissibility is maintained. This conclusion follows from the facts mentioned in the antecedent of the above sentence. One may similarly prove that ceil(&ldquo;hvd distance&rdquo;/2) +1 remains admissible in the case where ceil(&ldquo;hvd distance&rdquo;/2) is even and the number of knight-moves required is known to be odd.</p>
+</li>
+<li>
+<p>Hence, we claim that the heuristic described has been proved.</p>
+</li>
+<li>
+<p>(14%) Use your own implementation of A* to solve the problem using your heuristic; measure and plot the number of nodes expanded and computation time as a function of solution length for randomly generated problem instances.</p>
+</li>
+<li>
+<p>I have written the program and gathered the data. The java program may be found in /courses/cs600/cs683/vvasuki/hw1ai/knightMoves , under the package &ldquo;knightMoves&rdquo;. The object-oriented code is found among the files ChessBoard.java, ProblemSolvedException.java and Square.java.</p>
+</li>
+</ul>
+<figure class="">
+
+    <a href="knightMovesNodesVsCost.jpg" target="_blank" rel="noopener">
+        <img src="knightMovesNodesVsCost.jpg" alt="Graph of nodes expanded vs Solution Cost" title="">
+    </a>
+
+    
+
+</figure>
+<figure class="">
+
+    <a href="knightMovesRutimeVsCost.jpg" target="_blank" rel="noopener">
+        <img src="knightMovesRutimeVsCost.jpg" alt="Runtime vs Solution Cost plot" title="">
+    </a>
+
+    
+
+</figure>
+</li>
+<li>
+<p>(24%) The traveling salesperson problem (TSP) can be solved via the minimum spanning tree (MST) heuristic, which is used to estimate the cost of completing the tour, given that a partial tour has already been constructed. The MST cost of a set of cities is the smallest sum of the link costs of any tree that connects all the cities.</p>
+<ul>
+<li>
+<p>(4%) Formulate the TSP as a search problem and show that the MST heuristic can be derived from a relaxed version of the TSP.</p>
+</li>
+<li>
+<p>States: Each state corresponds to the path traced by the travelling salesperson so far. It is a sequence of verteces V eg: &lt;v1, v4, v5, v2&gt;. The verteces are numbered v1 to vx, where x is the number of verteces. The cost of the edge between any pair of verteces is known. Valid states do not contain repeated verteces, except when the circuit represented by the state contains all verteces.</p>
+</li>
+<li>
+<p>Initial state: The salesperson has not visited any vertex.</p>
+</li>
+<li>
+<p>Goal test: The salesperson has traced a circuit through all the nodes. The optimal goal state corresponds to the minimum cost circuit which can be traced by the salesperson.</p>
+</li>
+<li>
+<p>Path cost: The total distance travelled by the salesperson in the path corresponding to the state the agent is exploring.</p>
+</li>
+<li>
+<p>Successor function: The successor function generates a list of states, each of which corresponds to the addition of a particular city (say: city vx) to the path traversed, subject to the condition that the state generated is a valid state, as defined above.</p>
+</li>
+<li>
+<p>Proof that MST heuristic can be derived from a relaxed version of the TSP:</p>
+</li>
+<li>
+<p>Consider the TSP, as formulated above. Each state represents a path traversed by the travelling salesperson.</p>
+</li>
+<li>
+<p>Suppose that N is the set of all cities. Suppose that the set G is the set of all cities which are part of a partially completed tour, which ends at node A and begins at O. The TSP problem, at each stage of the construction of the tour, would be to start from A and return to O after touring all nodes in N-G, with the minimum path-cost. This is the problem the salesperson has to face at each stage of the construction of the tour. We will relax this problem to obtain the MST heuristic.</p>
+</li>
+<li>
+<p>Suppose that instead of having to find a tour through the cities in the set N-G to O, the salesperson were to find a minimum spanning tree through those nodes. By definition, a relaxed problem has fewer and/or relaxed constraints when compared with the original problem. Here we relax the original problem by asking the salesperson to find a MST through the cities, rather than asking him to find a *minimal path* through those nodes. (A path is a special kind of tree.) Hence, by virtue of relaxing the constraints on the TSP, we have arrived at the MST heuristic.</p>
+</li>
+<li>
+<p>(6%) Write a problem generator for instances of TSP where cities are represented by random points in the unit square (i.e., each coordinate is between 0 and 1). The number of cities to be generated should be a parameter.</p>
+</li>
+<li>
+<p>I have written a Java program, Landscape, to do this. It may be found in the edlab machine, at the path /courses/cs600/cs683/vvasuki/hw1ai/TSP, under the package tsp, as the file Landscape.java. Its results, for a given example, are shown below:</p>
+</li>
+<li>
+<p>25-Sep-07 11:47:22 AM tsp.Landscape main<br>
+INFO: Landscape is:<br>
+x:0.8188087348668529 y:0.8347283669342086<br>
+x:0.9157016699580921 y:0.07731264935036142<br>
+x:0.4308491888584558 y:0.884557718125406</p>
+</li>
+<li>
+<p>(14%) Find an efficient algorithm in the literature for constructing the MST, and use it with A* search to solve instances of the TSP; measure and plot the number of nodes expanded and computation time as a fuction of the number of cities for randomly generated problem instances.</p>
+</li>
+<li>
+<p>I have used the Kruskal algorithm for constructing MST&rsquo;s.</p>
+</li>
+<li>
+<p>I have written a Java program, Landscape, to do this. It may be found in the edlab machine, at the path /courses/cs600/cs683/vvasuki/hw1ai/TSP, under the package tsp, as the classes Landscape, City, Edge and Tour.</p>
+</li>
+<li>
+<figure class="">
+
+    <a href="graphSizeNodesExpanded.jpg" target="_blank" rel="noopener">
+        <img src="graphSizeNodesExpanded.jpg" alt="Graph Size vs Nodes Expanded" title="">
+    </a>
+
+    
+
+</figure>
+</li>
+<li>
+<figure class="">
+
+    <a href="graphSizeVsRuntime.jpg" target="_blank" rel="noopener">
+        <img src="graphSizeVsRuntime.jpg" alt="Graph Size vs Runtime" title="">
+    </a>
+
+    
+
+</figure>
+</li>
+</ul>
+</li>
+</ul>
+
+  </div>
+</article>
+
+    
+    <div class="css-treeview box">
+        
+<ul>
+    <li><input type="checkbox" id="section-tree-item-&#43;Homework Assignment #1: Search" checked="checked" /><label for="section-tree-item-&#43;Homework Assignment #1: Search">&#43;Homework Assignment #1: Search</label>
+        <ul>
+            
+
+
+
+    <aside class="card border noPrint" id="section-tree-item-computing_ai_classwork_hw1__index_md">
+        <div class="card-title bg-light-gray border d-flex justify-content-between">
+            <a href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/">&#43;Homework Assignment #1: Search </a>
+            <a data-toggle="collapse" href="#section-tree-item-body-computing_ai_classwork_hw1__index_md" role="button" aria-expanded="false" aria-controls="section-tree-item-body-computing_ai_classwork_hw1__index_md" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+        </div>
+        <nav id="section-tree-item-body-computing_ai_classwork_hw1__index_md" class="card-body p-0 collapse">
+            
+            <li>draft: false</li>
+            
+            <li>iscjklanguage: false</li>
+            
+            <li>title: &#43;Homework Assignment #1: Search</li>
+            
+            <li>unicode_script: devanagari</li>
+            
+        </nav>
+    </aside>
+
+
+            
+            
+            
+            
+            
+            
+            
+        </ul>
+    </li>
+</ul>
+
+    </div>
+</main>
+
+        
+
+        
+
+
+
+    <aside class="card border noPrint" id="section-tree-item-computing_ai_classwork_hw1__index_md">
+        <div class="card-title bg-light-gray border d-flex justify-content-between">
+            <a href="https://vishvAsa.github.io/notes/computing/ai/classwork/hw1/">&#43;Homework Assignment #1: Search </a>
+            <a data-toggle="collapse" href="#section-tree-item-body-computing_ai_classwork_hw1__index_md" role="button" aria-expanded="false" aria-controls="section-tree-item-body-computing_ai_classwork_hw1__index_md" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+        </div>
+        <nav id="section-tree-item-body-computing_ai_classwork_hw1__index_md" class="card-body p-0 collapse">
+            
+            <li>draft: false</li>
+            
+            <li>iscjklanguage: false</li>
+            
+            <li>title: &#43;Homework Assignment #1: Search</li>
+            
+            <li>unicode_script: devanagari</li>
+            
+        </nav>
+    </aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1 noPrint" role="contentinfo">
+  
+
+  <div id="div_foot_nav_bar" class="row">
+    <a href="https://vishvAsa.github.io/notes/search"  class="btn btn-light btn-sm">🥽🔦</a>
+    <div class="row col  d-flex justify-content-center">
+      <div><a id="previousPageFoot" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+      <div ><a id="nextPageFoot" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+    </div>
+      <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+      </ul>
+  </div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vishvAsa/notes/issues/new" >
+      ✉️Contact
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      
+      <a href="https://github.com/vishvAsa/notes/actions/workflows/build.yml"><img src="https://github.com/vishvAsa/notes/actions/workflows/build.yml/badge.svg"> Built </a> on 2026 Feb 12 01:34:45 UTC. (<a href="http://google.com/search?q=01%3a34%3a45%20UTC to IST">IST</a>)
+    </div>
+  </div>
+</footer>
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-33H08JSLQR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-33H08JSLQR');
+</script>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_uiLib.onDocumentReadyTasks();
+  </script>
+  
+</html>

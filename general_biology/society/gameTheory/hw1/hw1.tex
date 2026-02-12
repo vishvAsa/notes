@@ -1,0 +1,135 @@
+\documentclass[10pt]{amsart}
+\usepackage{amssymb, algorithm2e}
+
+\input{../../macros}
+
+\input{../../amsartMacros}
+
+%opening
+\title{Game Theory: Answers to Homework 2, Bonus question from hw 1}
+\author{vishvAs vAsuki}
+
+\begin{document}
+
+\maketitle
+\begin{rem}
+All external references point to \cite{algGameTheory}.
+\end{rem}
+
+\section{4.6 on page 101}
+Consider the algorithm described in Section 4.5 on page 93. Below, we use the same notation as the text. We want to improve the swap regret bound to $O(\sqrt{NT\log N})$.
+
+We observe that the total loss experienced by the R external regret minimizing algorithms $A_{i}$ is at most T. So, each $A_{i}$ experiences a loss which is at most $x_{i}T$, such that: $0 \leq x_{i} \leq 1$ and $\sum_{i=1}^{N}x_{i} \leq 1$.
+
+Now consider theorem 4.6 described in page 87. It says: $L_{PW}^{T} \leq L_{k}^{T} + \eta Q_{k}^{T} + \frac{\ln N}{\eta}$ for $\eta \leq 1/2$, $Q_{k}^{T} = \sum_{t=1}^{T}(l_{k}^{t})^{2}$. We apply this to the algorithm $A_{i}$. We observe: $Q_{k}^{T} \leq \sum_{t=1}^{T}(l_{k}^{t}) \leq x_{i}T$. We take $\eta = \min \set{\sqrt{\frac{\ln N}{x_{i}T}}, 1/2}$. Now, we get that external regret $R_{i}$ for $A_{i}$ is at most $2\sqrt{x_{i}T \ln N}$.
+
+Consider equation 4.1 on page 93. For $A_{i}$, we have: $\sum_{i=1}^{T}p_{i}^{t}\dprod{q_{i}^{t}, l^{t}} \leq \sum_{t=1}^{T}p_{i}^{t}l_{j^{t}} + 2\sqrt{x_{i}T \ln N}$.
+
+As in section 4.5, we sum these up to get: $L_{H} \leq L_{H, F} + 2\sum_{i=1}^{N}\sqrt{x_{i}T \ln N}$. But, by Jensen's inequality, as $\sqrt{}$ is concave, we have $\frac{\sum_{i=1}^{N}\sqrt{x_{i}}}{N} \leq \sqrt{\frac{\sum_{i=1}^{N}x_{i}}{N}} \leq \frac{1}{\sqrt{N}}$.
+
+Thus, we have: $L_{H} \leq L_{H, F} + O(\sqrt{NT\log N})$.
+
+\section{5.1 on page 133}
+Consider the linear case of the Fisher model, where utilities are 0 or 1. The strongly polynomial algorithm will be identical to the algorithm described in  Section 1.8 (pages 24, 25), except the process of finding a tight set during each iteration will be different. This process is described below.
+
+Let x be the current uniform price, A the remaining set of goods, B the remaining set of buyers. Using x, construct the max-flow network as described in the book. Using the residual flow network, find the surplus money $s_{b}$ for each buyer b. Now, for each good $j \in A$, compute $s_{j} = \sum_{b \in \nbd(j)}s_{b}$, the total surplus money possessed by the buyers interested in good j. Now, uniformly increase the price of each good by adding $\min_{j \in A} \frac{s_{j}}{a_{j}}$, where $a_{j}$ is the amount of the good j. Now, $\set{argmin_{j \in A} \frac{s_{j}}{a_{j}}}$ is a tight set.
+
+The rest of the algorithm proceeds as usual.
+
+The old algorithm was weakly polynomial only because it relied on binary search during each iteration in order to find the price $x^{*}$ required to create a tight set. Thus, its running time depended on the numerical values of $m_{i}, a_{j}$. However, the modification described above removes this dependency. Hence, we have a strongly polynomial algorithm.
+
+\begin{rem}
+ Answer known to be incorrect.
+\end{rem}
+
+
+\section{5.7 on page 134}
+We want to find simple algorithms for single source multiple sink markets where the underlying graph is a path or a tree. The algorithm needs to satisfy KKT conditions 1 and 3 mentioned in section 5.13 (page 125). Both the algorithms described below find equilibrium prices satisfying these conditions.
+
+\subsection{The case of the path}
+A sink, by definition, has no outgoing edges. So, here we have a path from a source to a sink. Let m be the money available at the sink. The algorithm simply finds the set of t edges (bottlenecks) in the path with the minimal capacity c, and sets the price of a unit flow in these edges to $\frac{m}{tc}$. The prices of all other edges are set to 0.
+
+An alternative would be to simply set the price of a flow in one of the minimum capacity edges to be $\frac{m}{c}$.
+
+\subsection{The case of the tree}
+Without loss of generality we assume that the set of sinks is exactly the same as the set of leaves of the tree. Let c(e) denote the capacity of edge e. Let N(e) denote the (directed) edges whose tails are adjascent to the head of e. For each node v, define m(v) to be the total money possessed by all sinks which are in the subtree rooted at v.
+
+We maintain a quantity called flow-capacity or fc(e) for each edge e. Doing a bottom-up traversal of the tree, we update fc for each edge e as follows: If e is adjascent to a leaf, set fc(e) = c(e). Otherwise, $fc(e) = \min(c(e), \sum_{e' \in N(e)}fc(e'))$. If $fc(e) = c(e)$, the edge e = (u, v) is said to be a bottleneck for the subtree rooted at v.
+
+For every sink / leaf t, we find the bottleneck edge e = (u,v) which is closest to the root. We then set the price of a flow in that edge to be $\frac{m(v)}{c(e)}$.
+
+\begin{rem}
+ Answer known to be incorrect.
+\end{rem}
+
+\section{6.1 on page 158: Cobbs Douglas derivation only.}
+Take equations in section 6.2 on page 141. We see that, when $x_{i,j}\neq 0$, $\lambda_{i,j} = 0$. We use this in equation 6.4 to obtain $\forall j$:
+
+\begin{eqnarray*}
+\frac{e_{i}}{u_{i}(x_{i})}\partder{u_{i}(x_{i})}{x_{i,j}} &=& \pi_{j} \\
+\frac{e_{i}}{\prod_{j}x_{i,j}^{a_{i, j}}} \frac{a_{i,j}\prod_{j}x_{i,j}^{a_{i, j}}}{x_{i,j}}&=& \pi_{j}\\
+\frac{e_{i}a_{i,j}}{x_{i,j}}&=& \pi_{j}\\
+\frac{e_{i}a_{i,j}}{\pi_{j}}&=& x_{i,j}(\pi)\\
+\end{eqnarray*}
+
+
+\begin{rem}
+Comparison of answer to formula 6.7 on page 149 is done by setting $\rho \to 0$, $e_{i} = \sum_{k}\pi_{k}w_{i,k}$ and $\sum_{k}\alpha_{ik} = 1$. Indeed, the answer proves true.
+\end{rem}
+
+
+\section{6.2 on page 158}
+Following the same reasoning as in page 149, we observe that equilibrium price is the set $\pi \in R_{++}$ such that, $\forall j$: $\sum_{i}x_{i,j}(\pi) \leq \sum_{i}w_{i,j}$. Using the answer to the previous question, the constraints are of the form  $\sum_{i}\frac{e_{i}a_{i,j}}{\pi_{j}} \leq \sum_{i}w_{i,j}$, where  $e_{i} = \sum_{k} \pi_{k} w_{i,k}$. This may be rewritten as: $\sum_{i}a_{i,j}\sum_{k} \pi_{k} w_{i,k} \leq \pi_{j}\sum_{i}w_{i,j}$.
+
+Clearly, both sides of the inequality are linear.
+
+So, equilibrium price may be charactarized as solutions to a linear feasability program.
+
+\section{1.6 on page 27 [Bonus question from homework 1]}
+\subsection{Preliminaries}
+Consider a two player game, between the column player c and the row player r. Take any pair of mixed strategies $(P^{c}, P^{r})$ constituting a Nash equilibrium for this game. Let the supports of these strategies be $S^{c}$ and $S^{r}$ respectively. Let their size be at most n. Let $N'$ be the maximum utility which any player can obtain for any pure strategy pair.
+
+Let M be the expected utility to c from the strategy $P^{c}$ under this equilibrium. Let N be the analogous expected utility for r. Let $u_{r}(s_{r}, s_{c})$ be the utility for r when r plays the pure strategy $s_{r}$ and c plays the pure strategy $s_{c}$. Let $u_{c}(s_{r}, s_{c})$ be the analogous utility for c.
+
+\subsection{Building multisets}
+Build a multiset $\hat{S^{c}}$ of pure strategies by picking \\
+$O(\log n / (\eps^2))$ independent samples from the distribution $P^{c}$ over $S^{c}$. By an analogous process of sampling from the distribution $P^{r}$, build the multiset $\hat{S}^{r}$. Let $|\hat{S_{r}}| = t$ and  $|\hat{S_{c}}| = v$.
+
+Let $U^{c}$ and $U^{r}$ represent the uniform distributions with the supports $\hat{S^{c}}$ and $\hat{S^{r}}$ respectively. We want to show that, with high probability, if c and r play $U^{c}$ and $U^{r}$, they can expect utility close to M and N respectively.
+
+\subsection{Deviation bounds used}
+We now introduce deviation bounds which prove useful in our analysis.
+
+Consider n iid random variables $\set{X_{i}}$, taking on values in [0,c], with mean $\mu$. The Hoeffding bound $Pr(|\frac{\sum_{i}X_{i}}{n} - \mu| \geq \eps c)\leq 2e^{-\frac{n\eps^{2}}{2}}$ is used. We call this the mean estimator bound.
+
+\subsection{Comparing expected utilities of pure strategies relative to  $U^{r}$ and $P^{r}$}
+First, we show that, for a fixed $s_c$, $u_{c}(s_c) = E_{s_{r} \distr P^{r}}[u_{c}(s_{r}, s_{c})]$ is close to $v_{c}(s_c) = E_{s_{r} \distr U^{r}}[u_{c}(s_{r}, s_{c})] = \frac{\sum_{s_r \in \hat{S_r}} u_{c}(s_{r}, s_{c})}{t}$ with probability $\geq 1 - n^{-3}$ for large enough t. Using the mean estimator bound, $Pr(|v_{c}(s_c) - u_{c}(s_c)|\geq \eps N') \leq 2e^{-t\eps^{2}} = n^{-3}$ for some $t = O(\log n / (\eps^2))$.
+
+Applying the union bound, we conclude that, with probability $\geq 1 - tn^{-3} \geq 1-n^{-2}$, for every $s_c \in \hat{S}^{c}$, $|u_{c}(s_c) - v_c(s_c)| \leq \eps N'$. So, \\
+$|\sum_{s_c \in \hat{S_c}} u_{c}(s_c) - \sum_{s_c \in \hat{S_c}} v_{c}(s_c)| \leq \eps nN'$ with high probability. This means that $|\frac{\sum_{s_c \in \hat{S_c}} u_{c}(s_c)}{v} - \frac{\sum_{s_c \in \hat{S_c}} v_{c}(s_c)}{v}| \leq N'\eps$ with high probability.
+
+\subsection{Comparing expected utility of $U^{c}$ and M}
+We now show that the expected utility of $U^{c}$ is close to M with high probability.
+
+We note, using the mean estimator bound, that $Pr(|\frac{\sum_{s_c \in \hat{S_c}} u_{c}(s_c)}{v} - M| \geq \eps N') \leq 2e^{-v\eps^{2}/2}$. So, for some $v = O(\log n / (\eps^2))$, we can conclude that $|\frac{\sum_{s_c \in \hat{S_c}} u_{c}(s_c)}{v} - M| \leq \eps N'$ with probability $1-n^{-2}$.
+
+Using results shown earlier, and applying the union bound, we can say that, with probability $1 - O(n^{-2})$, $|M - \frac{\sum_{s_c \in \hat{S_c}} v_{c}(s_c)}{v}| \leq 2N'\eps$.
+
+\subsection{Concluding remarks}
+Therefore, given any $\eps' = 2(M + N' + N)\eps$, we can construct $(U^{c}, U^{r})$ with $O(\log n / (\eps^2))$ sized supports, such that, with high probability, the expected utility of $(U^{c}, U^{r})$ for c is at most $\eps' M$ away from M.
+
+Similar arguments as those presented above will show that r will achieve a utility at most $\eps' N$ away from N with high probability.
+
+Applying the union bound, we see that, with high probability, both c and r achieve utility close to M and N respectively.
+
+\subsection{An $\eps$ approximate Nash equilibrium?}
+% Note that the best responses to the pure strategies in $\hat{S^{c}}$ are contained in $S^{r}$. M, being the utility of the Nash equilibrium strategy, is the local maximum of the c's utility. By unilaterally playing any other strategy, c cannot improve his utility by more than $M\eps$. The mixed strategy described above, together with $P^{r}$, therefore forms an $\eps$ approximate Nash equilibrium.
+
+I do not yet have a clear and complete argument about why $(U^{c}, U^{r})$ would be an $\eps$ approximate Nash equilibrium. Intuition tells me that this is not the case in general.
+
+
+\bibliographystyle{plain}
+\bibliography{../gameTheory}
+
+
+\end{document}

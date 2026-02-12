@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Computer Networks on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/computer_networks/</link>
+    <description>Recent content in &#43;Computer Networks on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/computer_networks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data transfer</title>
+      <link>https://vishvAsa.github.io/notes/computing/computer_networks/data-transfer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/computer_networks/data-transfer/</guid>
+      <description>&lt;p&gt;What is the best way to share - say 40GBs of data for someone to download?&lt;/p&gt;&#xA;&lt;h2 id=&#34;direct-sharing&#34;&gt;Direct sharing&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;If both parties are simultaneously online - &lt;a href=&#34;https://github.com/schollz/croc&#34;&gt;croc&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://share.ipfs.io/#/&#34;&gt;IPFS&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;cloud-storage&#34;&gt;Cloud Storage&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://web3.storage/&#34;&gt;web3 storage&lt;/a&gt; offers 1TB free.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Layers</title>
+      <link>https://vishvAsa.github.io/notes/computing/computer_networks/layers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/computer_networks/layers/</guid>
+      <description>&lt;p&gt;Given a computer network, suppose that we want to get any $k$ given computers to communicate accurately and easily in order to provide a variety of services to the users. This involves many common/ separate tasks which can be implemented as separate modules, which inturn can be arranged as a stack or hierarchy of layers. For details, see software architecture survey.&lt;/p&gt;&#xA;&lt;p&gt;Common layers are described below, with TCP/IP protocol stack as a specific common instantiation, which dominated other standards due to it being open-source.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Service providers</title>
+      <link>https://vishvAsa.github.io/notes/computing/computer_networks/service-providers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/computer_networks/service-providers/</guid>
+      <description>&lt;h2 id=&#34;service-history&#34;&gt;Service history&lt;/h2&gt;&#xA;&lt;div class=&#34;spreadsheet&#34; src=&#34;../service-history.toml&#34; fullHeightWithRowsPerScreen=8&gt; &lt;/div&gt;  &#xA;&lt;ul&gt;&#xA;&lt;li&gt;Comparisons &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1S8vd3QOw0CZ0H9xyblz0Fjt7q_ZV9XEAOMKTrvv8XEg/edit#gid=4&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

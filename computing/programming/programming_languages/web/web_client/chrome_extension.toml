@@ -1,0 +1,320 @@
+[[data]]
+"Operand Type" = 'run'
+Feature = 'load unpacked'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'chrome://extensions in developer mode '
+Description = ''
+
+[[data]]
+"Operand Type" = 'run'
+Feature = 'update'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'chrome://extensions at the top'
+Description = ''
+
+[[data]]
+"Operand Type" = 'run'
+Feature = 'console debug'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'open background.html from chrome://extensions'
+Description = ''
+
+[[data]]
+"Operand Type" = 'manifest.json'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+  {
+    "name": "Getting Started Example",
+    "version": "1.0",
+    "description": "Build an Extension!",
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+    "manifest_version": 2
+  }'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'manifest.json'
+Feature = 'permissions'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+"permissions": [
+"contextMenus", "identity", "storage", "tabs", "notifications", "http://*/*", "https://*/*"
+],
+'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'manifest.json'
+Feature = 'extension settings'
+Subfeature = 'icons'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+    "icons" : {
+        "48" : "icon48.png",
+        "128" : "icon128.png"
+    },
+'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'manifest.json'
+Feature = 'shortcut'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+    "commands": {
+      "_execute_browser_action": {
+        "suggested_key": {
+          "default": "Ctrl+Shift+F",
+          "mac": "MacCtrl+Shift+F"
+        },
+        "description": "Opens hello.html"
+      }
+    }'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'js'
+Feature = 'storage API'
+Subfeature = 'set'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+chrome.storage.sync.set({color: '#3aa757'}, function() {
+      console.log("The color is green.");
+    });'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'js'
+Feature = 'storage API'
+Subfeature = 'get'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+ chrome.storage.sync.get('color', function(data) {
+    changeColor.style.backgroundColor = data.color;
+    changeColor.setAttribute('value', data.color);
+  });'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'js'
+Feature = 'tab'
+Subfeature = 'query'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
+      chrome.tabs.executeScript(
+          tabs[0].id,
+          {code: 'document.body.style.backgroundColor = "' + color + '";'});
+    });'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'js'
+Feature = 'tab'
+Subfeature = 'modify html'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+      chrome.tabs.executeScript(
+          tabs[0].id,
+          {code: 'document.body.style.backgroundColor = "' + color + '";'});
+    }'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'js'
+Feature = 'tab'
+Subfeature = 'message'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+ chrome.tabs.sendMessage(tabs[0].id, {"action": "startLightbox"});
+chrome.runtime.onMessage.addListener(
+  function(request, sender, sendResponse) { ..});'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'generic html'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+  <html> <head> <style>
+button { height: 30px;
+          width: 30px;
+          outline: none;}
+      </style> </head> <body>
+      <button id="changeColor"></button>
+    <script src="popup.js"></script>
+    </body>
+  </html>'''
+Description = 'used for defining toolbar button popup, settings page'
+
+[[data]]
+"Operand Type" = 'background script'
+Feature = 'events'
+Subfeature = 'onInstalled'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+  chrome.runtime.onInstalled.addListener(function() {...}
+'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'toolbar button'
+Feature = 'visible always'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'manifest declaration'
+Syntax = '''
+
+    "browser_action": {
+        "default_icon": "icon16.png",
+        "default_popup": "options.html"
+    },
+'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'toolbar button'
+Feature = 'conditional visibility'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'manifest declaration'
+Syntax = '''
+"page_action": {
+      "default_popup": "popup.html"
+    }'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'toolbar button'
+Feature = 'settings'
+Subfeature = 'icon, title, popup'
+Importance = ''
+"Implementation Type" = 'manifest declaration'
+Syntax = '''
+"default_icon": {                    // optional
+            "16": "images/icon16.png",           // optional
+            "24": "images/icon24.png",           // optional
+            "32": "images/icon32.png"            // optional
+          },
+          "default_title": "Google Mail",      // optional;tooltip
+          "default_popup": "popup.html"        // optional'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'toolbar button'
+Feature = 'set badge text'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'chrome.browserAction.setBadgeText( {text: "loading", tabId: 2 }, function OPTcallback)'
+Description = ''
+
+[[data]]
+"Operand Type" = 'settings page'
+Feature = 'use'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'chrome extension settings page'
+Description = ''
+
+[[data]]
+"Operand Type" = 'settings page'
+Feature = 'settings'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'manifest'
+Syntax = ' "options_page": "options.html",'
+Description = ''
+
+[[data]]
+"Operand Type" = 'settings page'
+Feature = 'html'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+ <!DOCTYPE html>
+  <html>
+    <body>
+      <div id="buttonDiv">      </div>
+    </body>
+    <script src="options.js"></script>
+  </html>'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'settings page'
+Feature = 'js'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+button.addEventListener('click', function() {...
+        })
+      });'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'context menu js'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'location'
+Syntax = 'background js'
+Description = ''
+
+[[data]]
+"Operand Type" = 'context menu js'
+Feature = 'contexts'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '["page","selection","link","editable", "image","video","audio"];'
+Description = ''
+
+[[data]]
+"Operand Type" = 'context menu js'
+Feature = 'create'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'var id = chrome.contextMenus.create({"title": title, "contexts":[context], "onclick": genericOnClick});'
+Description = ''
+
+[[data]]
+"Operand Type" = 'context menu js'
+Feature = 'create'
+Subfeature = 'child'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+var parent = chrome.contextMenus.create({"title": "Test parent item"});
+var child1 = chrome.contextMenus.create(
+  {"title": "Child 1", "parentId": parent, "onclick": genericOnClick});'''
+Description = ''

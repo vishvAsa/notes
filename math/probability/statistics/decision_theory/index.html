@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Decision theory</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.143.0">
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/notes/math/probability/statistics/decision_theory/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/notes/math/probability/statistics/decision_theory/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:url" content="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/">
+  <meta property="og:site_name" content="Vishvas&#39;s notes">
+  <meta property="og:title" content="Decision theory">
+  <meta property="og:description" content="Certain elements common to probability density estimation, distribution structure learning (including classification) etc.. can be studied within the abstract framework of decision theory.
+Agents: Actions, policies How should an agent act in the face of uncertainty, given some observations? Our objective is to find good decision procedures for the agent.
+Like a game against nature. See game theory reference for adversarial games.
+State and parameters State space The state of nature changes, possibly in response to actions made by an agent. The agent must act optimally in some sense in the presence of uncertainty.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="math">
+
+  <meta itemprop="name" content="Decision theory">
+  <meta itemprop="description" content="Certain elements common to probability density estimation, distribution structure learning (including classification) etc.. can be studied within the abstract framework of decision theory.
+Agents: Actions, policies How should an agent act in the face of uncertainty, given some observations? Our objective is to find good decision procedures for the agent.
+Like a game against nature. See game theory reference for adversarial games.
+State and parameters State space The state of nature changes, possibly in response to actions made by an agent. The agent must act optimally in some sense in the presence of uncertainty.">
+  <meta itemprop="wordCount" content="1686">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Decision theory">
+  <meta name="twitter:description" content="Certain elements common to probability density estimation, distribution structure learning (including classification) etc.. can be studied within the abstract framework of decision theory.
+Agents: Actions, policies How should an agent act in the face of uncertainty, given some observations? Our objective is to find good decision procedures for the agent.
+Like a game against nature. See game theory reference for adversarial games.
+State and parameters State space The state of nature changes, possibly in response to actions made by an agent. The agent must act optimally in some sense in the presence of uncertainty.">
+<script type="text/javascript">
+    
+    let baseURL = "https:\/\/vishvAsa.github.io\/notes\/";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022build_img\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/actions\/workflows\/build.yml\/badge.svg\u0022,\u0022build_url\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/actions\/workflows\/build.yml\u0022,\u0022contactlink\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/issues\/new\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/edit\/content\/\u0022,\u0022js_extras\u0022:[\u0022mathjax\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022देवः\u0022,\u0022url\u0022:\u0022..\/devaH\/\u0022},{\u0022title\u0022:\u0022आगमः\u0022,\u0022url\u0022:\u0022..\/AgamaH\/\u0022},{\u0022title\u0022:\u0022आगमः शैवः\u0022,\u0022url\u0022:\u0022..\/AgamaH_shaivaH\/\u0022},{\u0022title\u0022:\u0022आगमः वैष्णवः\u0022,\u0022url\u0022:\u0022..\/AgamaH_vaiShNavaH\/\u0022},{\u0022title\u0022:\u0022रामानुजीयम्\u0022,\u0022url\u0022:\u0022..\/rAmAnujIyam\/\u0022},{\u0022title\u0022:\u0022माध्वम्\u0022,\u0022url\u0022:\u0022..\/mAdhvam\/\u0022},{\u0022title\u0022:\u0022आगमः ब्राह्मः\u0022,\u0022url\u0022:\u0022..\/AgamaH_brAhmaH\/\u0022},{\u0022title\u0022:\u0022कल्पान्तरम्\u0022,\u0022url\u0022:\u0022..\/kalpAntaram\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022वेदाः\u0022,\u0022url\u0022:\u0022..\/vedAH\/\u0022},{\u0022title\u0022:\u0022वेदाः - ऋक्\u0022,\u0022url\u0022:\u0022..\/vedAH_Rk\/\u0022},{\u0022title\u0022:\u0022वेदाः - यजुः\u0022,\u0022url\u0022:\u0022..\/vedAH_yajuH\/\u0022},{\u0022title\u0022:\u0022वेदाः - साम\u0022,\u0022url\u0022:\u0022..\/vedAH_sAma\/\u0022},{\u0022title\u0022:\u0022पुराणम्\u0022,\u0022url\u0022:\u0022..\/purANam\u0022},{\u0022title\u0022:\u0022पुराणम् वैष्णवम्\u0022,\u0022url\u0022:\u0022..\/purANam_vaiShNavam\/\u0022},{\u0022title\u0022:\u0022महाभारतम्\u0022,\u0022url\u0022:\u0022..\/mahAbhAratam\/\u0022},{\u0022title\u0022:\u0022रामायणम्\u0022,\u0022url\u0022:\u0022..\/rAmAyaNam\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvyam\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022ಕನ್ನಡ\u0022,\u0022url\u0022:\u0022..\/kannaDa\/\u0022},{\u0022title\u0022:\u0022त्रिपिटकम्\u0022,\u0022url\u0022:\u0022..\/tipiTaka\/\u0022},{\u0022title\u0022:\u0022पाळयः\u0022,\u0022url\u0022:\u0022..\/pALi\/\u0022},{\u0022title\u0022:\u0022भाषान्तरम्\u0022,\u0022url\u0022:\u0022..\/bhAShAntaram\/\u0022},{\u0022title\u0022:\u0022English Lit\u0022,\u0022url\u0022:\u0022..\/english\/\u0022},{\u0022title\u0022:\u0022Book pub\u0022,\u0022url\u0022:\u0022..\/book-pub\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vishvAsa.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    
+    var pageRelUrlTree = {};
+</script>
+
+    
+    <script type="text/javascript">
+  let pageVars = {};
+  pageVars.pageUrlMinusBasePath = "\/notes\/math\/probability\/statistics\/decision_theory\/".replace(basePath, "/");
+  pageVars.pageParams = {};
+  pageVars.pageSource = "math\/probability\/statistics\/decision_theory.md";
+  console.log(pageVars.pageSource);
+  var pageDefaults;
+  for (let possiblePageDefaults of pageDefaultsList) {
+    if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+      pageDefaults = possiblePageDefaults.values
+    }
+  }
+    
+</script>
+
+
+    <script src="/notes/webpack_dist/uiLib-bundle.js"></script>
+
+
+<script>
+
+
+MathJax = {
+  tex: {
+    inlineMath: [ ["@#", "#@"], ["\\(", "\\)"] ],
+    displayMath: [ ["$$","$$"], ["\\[", "\\]"] ],
+    processEscapes: true,  
+  },
+  svg: {
+    fontCache: 'global'
+  },
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore|dno"
+  }
+};
+</script>
+<script type="text/javascript" id="MathJax-script" async
+        src="/notes/non_webpack_js/mathjax/tex-svg.js">
+</script>
+
+
+
+
+
+
+    <link rel="stylesheet" href="/notes/webpack_dist/uiLib.css">
+<link rel="stylesheet" href="/notes/css/uiLibPrint.css" media="print" >
+<link rel="stylesheet" href="/notes/css/fonts.css" >
+<link rel="stylesheet" href="/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+
+<link rel="stylesheet" href="/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+
+<link rel="alternate" hreflang="sa-Deva" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/" />
+<link rel="alternate" hreflang="sa-Deva" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=devanagari" />
+
+<link rel="alternate" hreflang="sa-Knda" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=kannada" />
+<link rel="alternate" hreflang="sa-Mlym" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=malayalam" />
+<link rel="alternate" hreflang="sa-Telu" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=telugu" />
+<link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=tamil_superscripted" />
+<link rel="alternate" hreflang="sa-Taml" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=tamil" />
+<link rel="alternate" hreflang="sa-Gran" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=grantha" />
+
+<link rel="alternate" hreflang="sa-Gujr" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=gujarati" />
+<link rel="alternate" hreflang="sa-Guru" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=gurmukhi" />
+<link rel="alternate" hreflang="sa-Shar" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=sharada" />
+<link rel="alternate" hreflang="sa-Dogr" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=dogra" />
+<link rel="alternate" hreflang="sa-Phag" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=phags_pa" />
+<link rel="alternate" hreflang="sa-Tibt" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=tibetan" />
+<link rel="alternate" hreflang="sa-Sidd" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=siddham" />
+<link rel="alternate" hreflang="sa-Newa" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=newa" />
+<link rel="alternate" hreflang="sa-Modi" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=modi" />
+<link rel="alternate" hreflang="sa-Tirh" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=tirhuta_maithili" />
+<link rel="alternate" hreflang="sa-Gong" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=gondi_gujala" />
+<link rel="alternate" hreflang="sa-Gonm" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=gondi_masaram" />
+
+
+<link rel="alternate" hreflang="sa-Orya" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=oriya" />
+<link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=assamese" />
+<link rel="alternate" hreflang="sa-Beng" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=bengali" />
+<link rel="alternate" hreflang="sa-Mtei" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=manipuri" />
+<link rel="alternate" hreflang="sa-Sinh" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=sinhala" />
+<link rel="alternate" hreflang="sa-Limb" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=limbu" />
+<link rel="alternate" hreflang="sa-Lepc" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=lepcha" />
+
+
+<link rel="alternate" hreflang="sa-Cyrl" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=cyrillic" />
+<link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iso" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=iso" />
+<link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=iast" />
+<link rel="alternate" hreflang="sa-Aran" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=urdu" />
+<link rel="alternate" hreflang="sa-Avst" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=avestan" />
+
+<link rel="alternate" hreflang="sa-Brah" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=brahmi" />
+<link rel="alternate" hreflang="sa-Khar" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=kharoshthi" />
+<link rel="alternate" hreflang="sa-Zanb" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=zanbazar_square" />
+<link rel="alternate" hreflang="sa-Bhks" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=bhaiksuki" />
+
+<link rel="alternate" hreflang="sa-Bali" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=balinese" />
+<link rel="alternate" hreflang="sa-Java" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=javanese" />
+<link rel="alternate" hreflang="sa-Laoo" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=lao" />
+<link rel="alternate" hreflang="sa-Laoo-t-sa-Laoo-m0-Laopali" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=lao_pali" />
+<link rel="alternate" hreflang="sa-Mymr" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=burmese" />
+<link rel="alternate" hreflang="sa-Mymr-t-sa-Mymr-m0-Mon" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=mon" />
+<link rel="alternate" hreflang="sa-Cham" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=cham" />
+<link rel="alternate" hreflang="sa-Khmr" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=khmer" />
+<link rel="alternate" hreflang="sa-Thai" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/?transliteration_target=thai" />
+
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+\(
+% groupings of objects.
+\newcommand{\set}[1]{\left\{ #1 \right\}}
+\newcommand{\seq}[1]{\left(#1\right)}
+\newcommand{\ang}[1]{\langle#1\rangle}
+\newcommand{\tuple}[1]{\left(#1\right)}
+\newcommand{\size}[1]{\left| #1\right|}
+
+\newcommand{\comp}{\circ}
+
+
+% numerical shortcuts.
+\newcommand{\abs}[1]{\left| #1\right|}
+\newcommand{\floor}[1]{\left\lfloor #1 \right\rfloor}
+\newcommand{\ceil}[1]{\left\lceil #1 \right\rceil}
+
+% linear algebra shortcuts.
+\newcommand{\change}{\Delta}
+\newcommand{\norm}[1]{\left\| #1\right\|}
+\newcommand{\dprod}[1]{\langle#1\rangle}
+\newcommand{\linspan}[1]{\langle#1\rangle}
+\newcommand{\conj}[1]{\overline{#1}}
+\newcommand{\der}[1]{\frac{d#1}{dx}}
+\newcommand{\lap}{\Delta}
+\newcommand{\kron}{\otimes}
+\newcommand{\nperp}{\nvdash}
+
+\newcommand{\mat}[1]{\left[ \begin{smallmatrix}#1 \end{smallmatrix} \right]}
+
+% derivatives and limits
+\newcommand{\partder}[2]{\frac{\partial #1}{\partial #2}}
+\newcommand{\partdern}[3]{\frac{\partial^{#3 #1}}{\partial #2^{#3}}}
+\newcommand{\gradient}{\nabla}
+\newcommand{\subdifferential}{\partial}
+
+% Arrows
+\newcommand{\diverge}{\nearrow}
+\newcommand{\notto}{\nrightarrow}
+\newcommand{\up}{\uparrow}
+\newcommand{\down}{\downarrow}
+% gets and gives are defined!
+
+% ordering operators
+\newcommand{\oleq}{\preceq}
+\newcommand{\ogeq}{\succeq}
+
+% programming and logic operators
+\newcommand{\dfn}{:=}
+\newcommand{\assign}{:=}
+\newcommand{\co}{\ co\ }
+\newcommand{\en}{\ en\ }
+
+
+% logic operators
+\newcommand{\xor}{\oplus}
+\newcommand{\Land}{\bigwedge}
+\newcommand{\Lor}{\bigvee}
+\newcommand{\finish}{\Box}
+\newcommand{\contra}{\Rightarrow \Leftarrow}
+\newcommand{\iseq}{\stackrel{_?{=}}}
+
+
+% Set theory
+\newcommand{\symdiff}{\Delta}
+\newcommand{\setdiff}{\backslash}
+\newcommand{\union}{\cup}
+\newcommand{\inters}{\cap}
+\newcommand{\Union}{\bigcup}
+\newcommand{\Inters}{\bigcap}
+\newcommand{\nullSet}{\phi}
+
+
+% graph theory
+\newcommand{\nbd}{\Gamma}
+
+% Script alphabets
+% For reals, use \Re
+
+% greek letters
+\newcommand{\eps}{\epsilon}
+\newcommand{\del}{\delta}
+\newcommand{\ga}{\alpha}
+\newcommand{\gb}{\beta}
+\newcommand{\gd}{\del}
+\newcommand{\gp}{\pi}
+\newcommand{\gf}{\phi}
+\newcommand{\gh}{\eta}
+\newcommand{\gF}{\Phi}
+\newcommand{\gl}{\lambda}
+\newcommand{\gm}{\mu}
+\newcommand{\gn}{\nu}
+\newcommand{\gr}{\rho}
+\newcommand{\gs}{\sigma}
+\newcommand{\gth}{\theta}
+\newcommand{\gx}{\xi}
+\newcommand{\gw}{\omega}
+
+\newcommand{\sw}{\sigma}
+\newcommand{\SW}{\Sigma}
+\newcommand{\ew}{\lambda}
+\newcommand{\EW}{\Lambda}
+
+\newcommand{\Del}{\Delta}
+\newcommand{\gD}{\Delta}
+\newcommand{\gG}{\Gamma}
+\newcommand{\gW}{\Omega}
+\newcommand{\gS}{\Sigma}
+\newcommand{\gTh}{\Theta}
+
+% Bold english letters.
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bB}{\mathbf{B}}
+\newcommand{\bC}{\mathbf{C}}
+\newcommand{\bD}{\mathbf{D}}
+\newcommand{\bE}{\mathbf{E}}
+\newcommand{\bF}{\mathbf{F}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bI}{\mathbf{I}}
+\newcommand{\bJ}{\mathbf{J}}
+\newcommand{\bK}{\mathbf{K}}
+\newcommand{\bL}{\mathbf{L}}
+\newcommand{\bM}{\mathbf{M}}
+\newcommand{\bN}{\mathbf{N}}
+\newcommand{\bO}{\mathbf{O}}
+\newcommand{\bP}{\mathbf{P}}
+\newcommand{\bQ}{\mathbf{Q}}
+\newcommand{\bR}{\mathbf{R}}
+\newcommand{\bS}{\mathbf{S}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bU}{\mathbf{U}}
+\newcommand{\bV}{\mathbf{V}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\bX}{\mathbf{X}}
+\newcommand{\bY}{\mathbf{Y}}
+\newcommand{\bZ}{\mathbf{Z}}
+
+\newcommand{\bba}{\mathbf{a}}
+\newcommand{\bbb}{\mathbf{b}}
+\newcommand{\bbc}{\mathbf{c}}
+\newcommand{\bbd}{\mathbf{d}}
+\newcommand{\bbe}{\mathbf{e}}
+\newcommand{\bbf}{\mathbf{f}}
+\newcommand{\bbg}{\mathbf{g}}
+\newcommand{\bbh}{\mathbf{h}}
+\newcommand{\bbk}{\mathbf{k}}
+\newcommand{\bbl}{\mathbf{l}}
+\newcommand{\bbm}{\mathbf{m}}
+\newcommand{\bbn}{\mathbf{n}}
+\newcommand{\bbp}{\mathbf{p}}
+\newcommand{\bbq}{\mathbf{q}}
+\newcommand{\bbr}{\mathbf{r}}
+\newcommand{\bbs}{\mathbf{s}}
+\newcommand{\bbt}{\mathbf{t}}
+\newcommand{\bbu}{\mathbf{u}}
+\newcommand{\bbv}{\mathbf{v}}
+\newcommand{\bbw}{\mathbf{w}}
+\newcommand{\bbx}{\mathbf{x}}
+\newcommand{\bby}{\mathbf{y}}
+\newcommand{\bbz}{\mathbf{z}}
+\newcommand{\0}{\mathbf{0}}
+\newcommand{\1}{\mathbf{1}}
+
+% Caligraphic english alphabet
+\newcommand{\cA}{\mathcal{A}}
+\newcommand{\cB}{\mathcal{B}}
+\newcommand{\cC}{\mathcal{C}}
+\newcommand{\cD}{\mathcal{D}}
+\newcommand{\cE}{\mathcal{E}}
+\newcommand{\cF}{\mathcal{F}}
+\newcommand{\cG}{\mathcal{G}}
+\newcommand{\cH}{\mathcal{H}}
+\newcommand{\cI}{\mathcal{I}}
+\newcommand{\cJ}{\mathcal{J}}
+\newcommand{\cK}{\mathcal{K}}
+\newcommand{\cL}{\mathcal{L}}
+\newcommand{\cM}{\mathcal{M}}
+\newcommand{\cN}{\mathcal{N}}
+\newcommand{\cO}{\mathcal{O}}
+\newcommand{\cP}{\mathcal{P}}
+\newcommand{\cQ}{\mathcal{Q}}
+\newcommand{\cR}{\mathcal{R}}
+\newcommand{\cS}{\mathcal{S}}
+\newcommand{\cT}{\mathcal{T}}
+\newcommand{\cU}{\mathcal{U}}
+\newcommand{\cV}{\mathcal{V}}
+\newcommand{\cW}{\mathcal{W}}
+\newcommand{\cX}{\mathcal{X}}
+\newcommand{\cY}{\mathcal{Y}}
+\newcommand{\cZ}{\mathcal{Z}}
+
+
+% Formatting shortcuts
+\newcommand{\red}[1]{\textcolor{red}{#1}}
+\newcommand{\blue}[1]{\textcolor{blue}{#1}}
+\newcommand{\htext}[2]{\texorpdfstring{#1}{#2}}
+
+% Statistics
+\newcommand{\distr}{\sim}
+\newcommand{\stddev}{\sigma}
+\newcommand{\covmatrix}{\Sigma}
+\newcommand{\mean}{\mu}
+\newcommand{\param}{\theta}
+\newcommand{\gthEst}{\hat{\theta}}
+\newcommand{\ftr}{\phi}
+\newcommand{\est}[1]{\hat{#1}}
+
+% General utility
+\newcommand{\todo}[1]{\textbf{[TODO]}] \footnote{TODO: #1}}
+\newcommand{\tbc}{[\textbf{Incomplete}]}
+\newcommand{\chk}{[\textbf{Check}]}
+\newcommand{\why}{[\textbf{Find proof}]}
+\newcommand{\opt}[1]{\textit{#1}}
+
+\newcommand{\experience}[1]{[\textbf{Personal Experience}]: #1 \blacktriangle}
+\newcommand{\pf}[1]{[\textbf{Proof}]: #1 \Box}
+\newcommand{\core}[1]{\textbf{Core Idea}: #1 \Arrowvert}
+\newcommand{\example}[1]{\textbf{Example}: #1 \blacktriangle}
+\newcommand{\error}[1]{\textbf{Error alert}: #1 \triangle}
+\newcommand{\oprob}{[\textbf{OP}]: }
+
+
+\renewcommand{\~}{\htext{$\sim$}{~}}
+
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+
+
+\)
+
+
+
+    
+<header class="p-1 bg-yellow noPrint">
+    <nav role="navigation" class="col">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Decision theory</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <button class="btn btn-light"  href="#transliterationDropdown" data-toggle="collapse">
+            ✍
+          </button>
+          <select id="transliterationDropdown" size="1" class="collapse" onchange="module_uiLib.default.content.updateTransliteration()">
+            <optgroup label="🌍">
+              <option value="iso">āISO</option>
+              <option value="iso_vedic">āi-āu</option>
+              <option value="cyrillic">пу</option>
+              <option value="urdu">نس</option>
+              <option value="??">🌍??</option>
+            </optgroup>
+            <optgroup label="🛕🧭S">
+              <option value="kannada">ಅ</option>
+              <option value="malayalam">അ</option>
+              <option value="telugu">క</option>
+              <option value="tamil_superscripted">க²</option>
+              <option value="tamil_extended">க</option>
+              <option value="grantha">𑌅</option>
+            </optgroup>
+            <optgroup label="🛕🧭N">
+              <option value="devanagari" selected="">स</option>
+              <option value="gujarati">અ</option>
+              <option value="gurmukhi">ਅ</option>
+            </optgroup>
+            <optgroup label="🛕🧭E">
+              <option value="oriya">ଅ</option>
+              <option value="assamese">অস</option>
+              <option value="bengali">অ</option>
+            </optgroup>
+            <optgroup label="🛕🏺📜">
+              <option value="sharada">𑆑𑇀𑆰</option>
+              <option value="brahmi">𑀅</option>
+            </optgroup>
+            <optgroup label="🛕🌋">
+              <option value="balinese">ᬩᬮᬶ</option>
+            </optgroup>
+          </select>
+          <div>
+          <button class="btn btn-outline-secondary btn-sm"  href="#transliterationDropdownAlt" data-toggle="collapse">
+          (✍)
+          </button>
+          <select id="transliterationDropdownAlt" size="1"  style="font-size:12px" class="bg-light-yellow collapse" onchange="module_uiLib.default.content.updateTransliteration()">
+            <optgroup label="🌍">
+              <option value="iso">āISO</option>
+              <option value="iso_vedic">āi-āu</option>
+              <option value="cyrillic">пу</option>
+              <option value="urdu">نس</option>
+              <option value="??">🌍??</option>
+            </optgroup>
+            <optgroup label="🛕🧭S">
+              <option value="kannada">ಅ</option>
+              <option value="malayalam">അ</option>
+              <option value="telugu">క</option>
+              <option value="tamil_superscripted">க²</option>
+              <option value="tamil_extended">க</option>
+              <option value="grantha">𑌅</option>
+            </optgroup>
+            <optgroup label="🛕🧭N">
+              <option value="devanagari" selected="">स</option>
+              <option value="gujarati">અ</option>
+              <option value="gurmukhi">ਅ</option>
+            </optgroup>
+            <optgroup label="🛕🧭E">
+              <option value="oriya">ଅ</option>
+              <option value="assamese">অস</option>
+              <option value="bengali">অ</option>
+            </optgroup>
+            <optgroup label="🛕🏺📜">
+              <option value="sharada">𑆑𑇀𑆰</option>
+              <option value="brahmi">𑀅</option>
+            </optgroup>
+            <optgroup label="🛕🌋">
+              <option value="balinese">ᬩᬮᬶ</option>
+            </optgroup>
+          </select>
+          </div>
+          <div class="row col d-flex  dropdown">
+            <button class="btn btn-secondary-outline btn-sm dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              A±
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <a class="btn btn-secondary btn-sm" onclick="module_uiLib.changeTextSize(2)">A+</a>
+            <a class="btn btn-secondary btn-sm" onclick="module_uiLib.changeTextSize(-2)">A-</a>
+            </div>
+          </div>
+          <button class="btn btn-light btn-sm"  href="#commentStyleDropdown" data-toggle="collapse">
+            🗨
+          </button>
+          <select id="commentStyleDropdown" class="collapse" size="1" onchange="module_uiLib.default.content.updateCommentStyleFromDropdown()">
+            <option value="on">✔</option>
+            <option value="hidden">✗</option>
+          </select>
+          <div><a id="expandAllButton" class="btn btn-secondary" onclick="module_uiLib.default.query.setParamsAndGo({'expandDetails': '.*'})">↕️️</a></div>
+          <div id="printStyleDiv" class="row col d-flex  dropdown">
+          <button class="btn btn-light btn-sm dropdown-toggle"  href="#printStyleDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          🖨
+          </button>
+            <div class="dropdown-menu col" aria-labelledby="printStyleDropdown">
+              <div class="row justify-content-center">
+                <p>Cols:</p>
+                <input type="number" min="1" max="10" value="2" step="1" id="tbColumns" style="width: 3ch;"  accesskey="c"/>
+              </div>
+              <div class="row justify-content-center">
+                <p>A±:</p> <input type="text" id="tbBodyFontSize" value="0.4cm" style="width: 6ch;"  accesskey="f"></input>
+              </div>
+              <div class="row justify-content-center">
+                <p>Incl:</p> <input checked type="checkbox" id="tbIncludeStyle" value="on"></input>
+                <button id="btnPrintStyle" onclick="module_uiLib.default.content.updatePrintStyle()">🖨
+                </button>
+              </div>
+            </div>
+        </div>
+        </div>
+        <div id="audioDiv" class="row col d-flex  dropdown">
+          <button class="btn btn-secondary-outline btn-sm dropdown-toggle" type="button" id="audioDropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            🎧
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <a id="speakerButton" class="btn btn-outline-secondary btn-sm" onclick="module_uiLib.default.content.handleSpeakToggle()">⏯</a>
+          <button id="speakerPauseButton" class="btn btn-outline-secondary btn-sm">⏸</button>
+            <div id="audioOptionsDiv" class="row justify-content-center" >
+              <div>
+                <p class="lead">Vol</p>
+                <input type="range" min="0" max="1" value="1" step="0.1" id="volume" />
+                <span id="volume-label" class="ms-2">1</span>
+              </div>
+              <div class="mx-5">
+                <p class="lead">Rate</p>
+                <input type="range" min="0.1" max="10" value="1" id="rate" step="0.1" />
+                <span id="rate-label" class="ms-2">1</span>
+              </div>
+              <div>
+                <p class="lead">Pitch</p>
+                <input type="range" min="0" max="2" value="1" step="0.1" id="pitch" />
+                <span id="pitch-label" class="ms-2">1</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a href="https://vishvAsa.github.io/notes/search"  class="btn btn-light btn-sm">🥽🔦</a>
+        <div class="row col  d-flex justify-content-center">
+          <div><a id="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a id="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border noPrint " id="sidebar">
+          <div id="fastSearch">
+              <datalist id="pageDataList"></datalist>
+              <input id="searchInput" placeholder="शीर्षिकान्विष्यताम्" list="pageDataList" onchange="module_uiLib.default.navigation.pageLoader()">
+          </div>
+          <details open  class="bg-light-gray" >
+              <summary id="sidebarToggleLink" onclick="module_uiLib.default.navigation.sidebarToggleHandler()">
+            Menu
+              </summary>
+              <ul id="sidebarBody" class="list pl2 p-0 bg-yellow">
+              </ul>
+          </details>
+      </aside>
+      <main class="col p-3" role="main" data-pagefind-body>
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Decision theory">Decision theory</h1>
+    
+    <a id="editLink" class="btn btn-primary noPrint"  href="https://github.com/vishvAsa/notes/edit/content/math/probability/statistics/decision_theory.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border noPrint ">
+    <details id="toc_header">
+        <summary>What's in this page?</summary>
+      <div id="toc_body" class="p-0">
+        
+        <ul id="toc_ul" class="list p-0">
+        </ul>
+      </div>
+    </details>
+    <div id="progressBarDiv" class="row d-flex justify-content-center">
+      🐎💪<progress id="progressLoading" value="0" max="100"> 32% </progress>
+    </div>
+  </aside>
+  <div id="post_content">
+  <p>Certain elements common to probability density estimation, distribution structure learning (including classification) etc.. can be studied within the abstract framework of decision theory.</p>
+<h2 id="agents-actions-policies">Agents: Actions, policies</h2>
+<p>How should an agent act in the face of uncertainty, given some observations? Our objective is to find good decision procedures for the agent.</p>
+<p>Like a game against nature. See game theory reference for adversarial games.</p>
+<h3 id="state-and-parameters">State and parameters</h3>
+<h4 id="state-space">State space</h4>
+<p>The state of nature changes, possibly in response to actions made by an agent. The agent must act optimally in some sense in the presence of uncertainty.</p>
+<h4 id="parameter-space-t">Parameter space T</h4>
+<p>Some parameters \(\gth \in T\) describe the state of nature (the ground truth), especially as it relates to the action-space of an agent; and they are unknown.</p>
+<h4 id="state-transitions">State transitions</h4>
+<p>Some parameters describe state transitions. These are aka population parameters. In some problems, we are to estimate some properties of a population by drawing random samples from it. This unknown parameter/ pattern of the population, \(t = g(\gth)\), is a constant. Eg: mean, variance of heights.</p>
+<h3 id="action-space-a">Action space A</h3>
+<p>Given any change in its knowledge, the agent can act. Its action is chosen from the action space \(A = \set{a}\). Actions can change the state of nature and the parameters which specify it.</p>
+<h4 id="common-examples">Common examples</h4>
+<p>In case of density estimation, given the data point \(x\), \(A\) could be the choice of the density function \(f_{\hat{t}}(x)\) as a function of the estimated density \(\hat{t}\). In this case, the state of nature is usually not affected by our guess about its parameters.</p>
+<p>In hypothesis testing, it could be the probability of the observation \(x\), which is a function of the hypothesis chosen earlier.</p>
+<p>In case of classification, \(A\) would correspond to the various possible labellings of a data point \(x\).</p>
+<h3 id="goodness-of-actions">Goodness of actions</h3>
+<h4 id="loss-function-l">Loss function L</h4>
+<p>\(L:T\times A \to \Re\). You pick the loss function to best model the situation faced by the agent, and also for mathematical tractability - this is often the modeler&rsquo;s job.</p>
+<h4 id="examples">Examples</h4>
+<p>Squared error between prediction and label in case of classification.</p>
+<p>\(-f_{\hat{t}}(x)\) in case of probability distribution modeling.</p>
+<h3 id="decision-procedure-d">Decision procedure d</h3>
+<h4 id="mapping-observation-d-to-actions">Mapping observation D to actions</h4>
+<p>Denote an observation by the random variable \(D\). Decision procedures take as input \(o \in ran(D)\) and return an action \(a \in A\). Their pre-image can be often be replaced with sufficient statistics drawn from observations.</p>
+<p>Note that the observation \(D\) to which a decision procedure is supposed to respond +++(is different from the training set of prior observations which may have been used to learn \(d\)!)+++</p>
+<h4 id="deterministic-procedures">Deterministic procedures</h4>
+<p>Deterministic decision procedures make decisions which are a function of the new observation.</p>
+<p>A deterministic decision procedure is \(d:ran(D) \to A\).</p>
+<h4 id="randomized-procedures">Randomized procedures</h4>
+<p>A randomized decision procedure takes decisions with some randomness, given new observations. So, the randomized procedure is in the convex hull of certain decision procedures.</p>
+<p>If the decision procedure randomized, range is the set of random variables with range \(A\).</p>
+<h5 id="combining-decision-procedures">Combining decision procedures</h5>
+<p>Randomized procedures can often be written as a 2-step meta-procedure with step 1: random choice of decision procedures, and step 2: application of the decision procedure chosen.</p>
+<h4 id="examples-1">Examples</h4>
+<p>In case classification, the classification rule can be considered to be a decision procedure.</p>
+<p>In the case of distribution estimation, given a point (the observation), the estimated pdf can be considered to be the decision procedure.</p>
+<p>In case of hypothesis testing, a certain hypothesis can be considered to be the decision procedure.</p>
+<h2 id="risk-r-of-decision-procedure-d">Risk R of decision procedure d</h2>
+<h3 id="motivation-and-setting">Motivation and setting</h3>
+<p>We want to choose a decision procedure from \(H_n\) (so named because it is often learned after looking at a sample of size \(n\)). We want to pick decision procedure with least expected loss; that motivates the following definition. This is essentially the problem of statistical inference.</p>
+<h3 id="risk">Risk</h3>
+<p>\(R:T\times\set{d} \to \Re\). \(R(\gth,d) = E_{D}[L(\gth,d(D))]\). In case \(d\) is randomized, the expectation is also over random bits used by \(d\).</p>
+<p>In case of the estimation or prediction problem, if you use squared distance as \(L\), you get the bias - variance decomposition: See estimation section.</p>
+<h3 id="uncertain-ground-truth-case">Uncertain ground truth case</h3>
+<h4 id="the-need">The need</h4>
+<p>Suppose that \(\gth\) is constant every time you apply the chosen \(d\). Even so: When you pick \(d\), you don&rsquo;t know \(\gth\), the ground truth.</p>
+<p>Also, maybe \(\gth\), which decides the goodness of response, changes with the actions taken by the decision procedure.</p>
+<p>For example, in classification, \(\gth\) corresponds to the label \(y\) corresponding to the example \(x\) seen by the classifier. Even if the classifier knew the distribution \(f_{Y|X}(y|x)\) generating the examples, it cannot in general be certain about \(y\) given \(x\).</p>
+<h4 id="frequentist-and-epistemological-approaches">Frequentist and epistemological approaches</h4>
+<p>Rooted in the two distinct but overlapping interpretations of probability, we observe two overlapping approaches to statistical inference. The frequentist approach tries to deal with uncertainty by relying on sampling, while only partially restricting the hypothesis space.</p>
+<p>Bayesian/ epistemological inference approach tends to posit and quantify prior beliefs about the ideal decision, and use this together with sample evidence to reach a conclusion.</p>
+<h4 id="prior-beliefs-about-ground-truth">Prior beliefs about ground truth</h4>
+<p>We can model the uncertainty in the ground truth using a probability distribution \(\gth \distr P_T\) over \(T\); so now take\ \(R&rsquo;(d) = E_{D, P_T}[L(\gth,d(D))] = \int_T E_D[L(\gth,d(D))]P_T(\gth) d \gth\).</p>
+<p>As probability theory is being fully used to model uncertainty, this is called Bayesian risk evaluation.</p>
+<h4 id="prior-beliefs-about-best-d">Prior beliefs about best d</h4>
+<p>For every \(\gth\), there is a best decision procedure \(d(D)\). So, alternatively, one model uncertainty in what the best decision procedure is directly as \(d \distr P&rsquo;(d)\) and look at \(\gth = f(d_1)\). Then, one can write the risk \(R&rsquo;(d) = E_{D, P&rsquo;}[L(f(d_1),d(D))] = \sum_{d_1} E_D[L(f(d_1),d(D))]P&rsquo;(d_1)\).</p>
+<h4 id="additive-form">Additive form</h4>
+<p>Let \(g(d; d_1) = E_D[L(\gth,d(D))] = E_D[L(f(d_1),d(D))]\). \Then, \(R&rsquo;(d) = E_{P&rsquo;}g(d; d_1)\). If the loss \(g(d; d_1)\) had a sharp drop around \(d\), or if \(P&rsquo;(d)\) was highly concentrated around \(d_1\), we could approximate this as \(R&rsquo;(d) = g(d; d_1) P&rsquo;(d)\).</p>
+<p>For convenience for use in optimization problems, one often takes logarithms on both sides to get: \(R&rsquo;&rsquo;(d) = \log g(d; d) + \log P&rsquo;(d)\).</p>
+<p>This roughly motivates the following form used in practice: \(R&rsquo;&rsquo;(d) = R(d) + l r(d)\), where \(L\) is loss function, r() is regularizer. The regularizer, r() ensures that the prior belief about \(\gth\) is taken into account while evaluating the risk of decision procedure \(d\).</p>
+<p>Example: Suppose that we are estimating \(\mean\): eg: avg age. But, prior belief is that it is \(\mean_0\). Thence a decision procedure: \(R(\mean, \hat{\mean}(D))  = 0.2 \mean_0 + 0.8 n^{-1}\sum X_i\).</p>
+<h5 id="strict-restrictions">Strict restrictions</h5>
+<p>Finding \(\min_d R(d) + l r(d)\) is same as \(\min R(d) : r(d) \leq c_l\). This is a strict restriction on the choice of \(d\), unlike a more flexible prior assumption about the pdf of \(d\) which is the hallmark of epistemological/ Bayesian inference; where irrespective of a low prior probability assigned to a certain \(d\), the weight of evidence could lead to choosing that \(d\).</p>
+<h3 id="geometry-of-r">Geometry of R</h3>
+<p>Visualize \(R(\gth, d)\) with \(\gth \in T\). Make a function space, label each dimension with some \(\gth \in T\). For any fixed \(d\), \(R(\gth, d)\) is a vector in this space. Given set \(S = \set{d}\), can get set \(S&rsquo;\) of all randomized decision procedures derivable from these. Risks \(R(S&rsquo;)\) are points in the convex hull of \(R(\gth, d) \forall d\in S\). In 2 d: it is a convex polygon: only straight edges.</p>
+<h3 id="empirical-risk">Empirical risk</h3>
+<p>Aka empirical avg loss. \(\hat{R}(d;D) = n^{-1}\sum_{x_i \in D} L(\gth, d(x_i))\). You have: \(R(d) = E_D[\hat{R}(d;D)]\).</p>
+<p>Where we have prior beliefs about the nature of the best \(\gth\) or \(d\), empirical risk is used with a regularization function to define an alternate risk function. See Bayesian risk evaluation for details.</p>
+<h3 id="minimal-risk">Minimal risk</h3>
+<h4 id="definition">Definition</h4>
+<p>The lowest (expected) risk any decision procedure \(d\) can achieve is often called the Bayes Risk.</p>
+<p>It is not necessarily \(0\). For example, suppose that we were considering classification of points drawn from the distribution \(f_{Y|X}(y|x), f_X(x)\). Even if the decision procedure had complete knowledge of \(f_{Y|X}(y|x), f_X(x)\), its risk in general would not be 0 as there is the possibility that \(\hat{y} = argmax_y f_{Y|X}(y|x)\) is the wrong labeling for \(x\).</p>
+<h4 id="risk-consistency-of-d">Risk Consistency of d</h4>
+<p>Let \(D_i\) be data of \(i\) sample points. Then does \(d(D) \to^p \gth\) [In case of the parameter estimation task]? Or does \(R(\gth, d) \to^p minRisk\)?</p>
+<h4 id="risk-persistence">Risk persistence</h4>
+<p>Ground truth \(\gth\). Let \(\hat{t}\) be the chosen decision procedure. \Take \(\hat{\gth} = \argmin_{t\in H_n} R(t)\). How close is \(R(\hat{t})\) to \(R(\hat{\gth})\)?</p>
+<p>As \(n \to \infty\), usually want \(\hat{t} \to \gth \) or better: \(R(\hat{t}) - R(\gth)\to 0\). But it may not be possible as decision procedures can&rsquo;t get to it, or maybe \(\gth\) changes with n.</p>
+<p>Approximation error \(R(\hat{\gth}) - R(\gth)\). Then does \(d\) at least minimize estimation error \(R(\hat{t}) - R(\hat{\gth})\)?</p>
+<h4 id="in-high-dimensional-setting">In High dimensional setting</h4>
+<p>Let the dimensionality of data-points be \(p\). Suppose \(p&raquo;n\) and we still want a decision procedure which works well. What is risk persistence here? Hence a new notion: As \(n \to \infty\), we still want check if \(R(\hat{t}) - R(\hat{\gth}) \to 0\); while \(p\) scales with \(n\).</p>
+<h2 id="as-a-pomdp">As a POMDP</h2>
+<p>POMDP&rsquo;s are well suited to abstract active learning; but it is informative to consider it more generally.</p>
+<h3 id="state-and-observation">State and observation</h3>
+<p>The ground truth, or parameter \(T\) corresponds to the state of the world in case of a POMDP. The observation \(D\) gives some clue about the current state.</p>
+<h3 id="transitions">Transitions</h3>
+<p>Unlike active learning problems, often the state transitions and observations thereof are independent of the agent&rsquo;s actions. So, the agent often has no control over input distribution. &lsquo;Parameters&rsquo; in decision theory may confusingly include both those describing the ground truth and those describing the transition function.</p>
+<h3 id="action-and-loss">Action and Loss</h3>
+<p>The loss function corresponds to the reward which depends on current state and the action taken.</p>
+<h3 id="policy">Policy</h3>
+<p>The decision procedure \(d\) corresponds to the POMDP&rsquo;s policy; except that the belief state is not explicitly considered for our purposes.</p>
+<h3 id="risk-vs-value">Risk vs value</h3>
+<p>In the case of MDP&rsquo;s, it is common to assess policies using the total expected reward over a possibly infinite horizon, so a discounting factor \(g \in [0, 1]\) is needed. [Expected] risk of a decision procedure focuses on the expected reward.</p>
+
+  </div>
+</article>
+
+
+        
+
+        
+
+
+
+    <aside class="card border noPrint" id="section-tree-item-math_probability_statistics_decision_theory_md">
+        <div class="card-title bg-light-gray border d-flex justify-content-between">
+            <a href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/">Decision theory </a>
+            <a data-toggle="collapse" href="#section-tree-item-body-math_probability_statistics_decision_theory_md" role="button" aria-expanded="false" aria-controls="section-tree-item-body-math_probability_statistics_decision_theory_md" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+        </div>
+        <nav id="section-tree-item-body-math_probability_statistics_decision_theory_md" class="card-body p-0 collapse">
+            
+            <li>draft: false</li>
+            
+            <li>iscjklanguage: false</li>
+            
+            <li>title: Decision theory</li>
+            
+        </nav>
+    </aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1 noPrint" role="contentinfo">
+  
+
+  <div id="div_foot_nav_bar" class="row">
+    <a href="https://vishvAsa.github.io/notes/search"  class="btn btn-light btn-sm">🥽🔦</a>
+    <div class="row col  d-flex justify-content-center">
+      <div><a id="previousPageFoot" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+      <div ><a id="nextPageFoot" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+    </div>
+      <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+      </ul>
+  </div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vishvAsa/notes/issues/new" >
+      ✉️Contact
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      
+      <a href="https://github.com/vishvAsa/notes/actions/workflows/build.yml"><img src="https://github.com/vishvAsa/notes/actions/workflows/build.yml/badge.svg"> Built </a> on 2026 Feb 12 01:34:45 UTC. (<a href="http://google.com/search?q=01%3a34%3a45%20UTC to IST">IST</a>)
+    </div>
+  </div>
+</footer>
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-33H08JSLQR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-33H08JSLQR');
+</script>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_uiLib.onDocumentReadyTasks();
+  </script>
+  
+</html>

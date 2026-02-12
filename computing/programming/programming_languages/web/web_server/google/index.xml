@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Google on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/web/web_server/google/</link>
+    <description>Recent content in &#43;Google on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/web/web_server/google/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>App Engine</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/web/web_server/google/app_engine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/web/web_server/google/app_engine/</guid>
+      <description>&lt;h2 id=&#34;credentials&#34;&gt;Credentials&lt;/h2&gt;&#xA;&lt;p&gt;Client ID: get &lt;a href=&#34;https://console.developers.google.com/apis/credentials?project=sanskritnlp&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ref&#34;&gt;Ref&lt;/h2&gt;&#xA;&lt;div class=&#34;spreadsheet&#34; src=&#34;../app_engine.toml&#34; fullHeightWithRowsPerScreen=8&gt; &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>App script</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/web/web_server/google/apps_script/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/web/web_server/google/apps_script/</guid>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;&#xA;&lt;p&gt;JavaScript cloud scripting language that provides easy ways to automate tasks across Google products and third party services and build web applications.&lt;/p&gt;&#xA;&lt;p&gt;Location &lt;a href=&#34;script.google.com&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;document&#34;&gt;Document&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;var doc = DocumentApp.create(&amp;#39;Hello, world!&amp;#39;);&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;email&#34;&gt;Email&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;  var email = Session.getActiveUser().getEmail();&#xA;var subject = doc.getName();&#xA;  var body = &amp;#39;Link to your doc: &amp;#39; + url;&#xA;  GmailApp.sendEmail(email, subject, body);&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    <item>
+      <title>Popular web services</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/web/web_server/google/web_services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/web/web_server/google/web_services/</guid>
+      <description>&lt;h2 id=&#34;archiveorg&#34;&gt;Archive.org&lt;/h2&gt;&#xA;&lt;p&gt;Item manager example &lt;a href=&#34;https://archive.org/item-mgr.php?identifier=paNDit-papers&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

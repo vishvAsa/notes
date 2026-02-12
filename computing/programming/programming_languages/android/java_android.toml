@@ -1,0 +1,599 @@
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'gradle build'
+Feature = 'duplicate exclusions'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+packagingOptions {
+    exclude 'META-INF/DEPENDENCIES'
+    exclude 'META-INF/LICENSE'
+    exclude 'META-INF/LICENSE.txt'
+    exclude 'META-INF/license.txt'
+    exclude 'META-INF/NOTICE'
+    exclude 'META-INF/NOTICE.txt'
+    exclude 'META-INF/notice.txt'
+    exclude 'META-INF/ASL2.0'
+}'''
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'gradle build'
+Feature = 'set id, version etc..'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+defaultConfig {
+        applicationId "sanskritcode.sanskritdictionaryupdater"
+        minSdkVersion 13
+        targetSdkVersion 21
+        versionCode 2
+        versionName "1.1"
+    }'''
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'gradle build'
+Feature = 'android libraries'
+Subfeature = 'recommended'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+    compile 'com.android.support:support-v4:21.0.0'
+    compile 'com.android.support:appcompat-v7:21.0.0'
+'''
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'UI Widget'
+Feature = ''
+Subfeature = 'updates'
+Importance = ''
+"Implementation Type" = 'caveat'
+Syntax = ''
+Description = '''
+use FindByViewId before update rather than using a stored ( static or object) reference.
+As of 201703 several textview and buttonview did not update from some other threads in some activities.'''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'Activity'
+Feature = 'Setup'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+public class CreateMemeActivity extends ActionBarActivity {
+  @Override
+  protected void onCreate(Bundle savedInstanceState) {
+    super.onCreate(savedInstanceState);
+    setContentView(R.layout.activity_xml_name);
+}
+onRestart
+onResume 
+onBackPressed etc..'''
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'Activity'
+Feature = 'lifecycle'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'http://stackoverflow.com/questions/6509791/onrestart-vs-onresume-android-lifecycle-question'
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'Activity'
+Feature = 'create with Android studio'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'Use the UI.'
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'Activity'
+Feature = 'close and return to previous activity'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '            finish();'
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'Activity'
+Feature = 'close all'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '                    finishAffinity(); # since api 16'
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'Intent'
+Feature = 'concept'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'A means to start new activity, pass info to it.'
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'Intent'
+Feature = 'start'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+{
+Intent intent = new Intent(this, DisplayMessageActivity.class);
+startActivity(intent);
+}'''
+Description = 'Ensure that the key used is unique (in case multiple activities can start an intent).'
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'Intent'
+Feature = 'start'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+    Intent intent = new Intent();       
+    intent.setComponent(new ComponentName(getPackageName(), getPackageName() + ".ChildActivity"));
+    startActivity(intent);'''
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'Intent'
+Feature = 'start'
+Subfeature = 'pass context'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+intent.putExtra("anyKey", anySerializableObj);
+'''
+Description = '''Can't rely on static variables in a multithreaded environment.'''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'Intent'
+Feature = 'stop'
+Subfeature = 'get context info'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'HashMap<String, String> hashMap = (HashMap<String, String>)intent.getSerializableExtra("someKey");'
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'email intent'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+        Intent emailIntent = new Intent(Intent.ACTION_SEND);
+        emailIntent.setType("vnd.android.cursor.dir/email");
+        String to[] = {"vishvas.vasuki+STARDICTAPP@gmail.com"};
+        emailIntent.putExtra(Intent.EXTRA_EMAIL, to);
+        emailIntent .putExtra(Intent.EXTRA_STREAM, Uri.fromFile(outputFile));
+        emailIntent .putExtra(Intent.EXTRA_SUBJECT, "Stardict Updater App Failure report.");
+        startActivity(Intent.createChooser(emailIntent , "Email failure report to maker?..."));
+'''
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'Resource class'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+R.id.top_text
+R.drawable...'''
+Description = 'In R.java.'
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'log'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Log.d(LOG_TAG, "onCreate");
+Log.v(TAG, "index=" + i);
+ Log.v() Log.d() Log.i() Log.w() and Log.e()'''
+Description = 'Debug logs are compiled in but stripped at runtime. Error, warning and info logs are always kept.'
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'file IO'
+Feature = 'sdcard location'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+File sdcard = Environment.getExternalStorageDirectory();
+downloadsDir = Environment.getDownloadCacheDirectory();
+'''
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'file IO'
+Feature = 'get file'
+Subfeature = 'app-specific dir'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+File file = new File(context.getFilesDir(), filename);
+'''
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'file IO'
+Feature = 'get file'
+Subfeature = 'app-specific dir'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+String filename = "myfile";
+String string = "Hello world!";
+FileOutputStream outputStream;
+
+try {
+  outputStream = openFileOutput(filename, Context.MODE_PRIVATE);
+  outputStream.write(string.getBytes());
+  outputStream.close();
+} catch (Exception e) {
+  e.printStackTrace();
+}'''
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'file IO'
+Feature = 'get file'
+Subfeature = 'cache'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+File file = new File(context.getCacheDir(), filename);
+'''
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'file IO'
+Feature = 'delete file'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+// Use File API or:
+myContext.deleteFile(fileName);'''
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'key-value pairs file IO'
+Feature = 'open file'
+Subfeature = 'Non-activity specific file'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Context context = getActivity();
+SharedPreferences sharedPref = context.getSharedPreferences(
+        getString(R.string.preference_file_key), Context.MODE_PRIVATE);
+'''
+Description = ''' use a name that's uniquely identifiable to your app, such as "com.example.myapp.PREFERENCE_FILE_KEY"'''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'key-value pairs file IO'
+Feature = 'open file'
+Subfeature = 'activity-specific file'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+SharedPreferences sharedPref = getActivity().getPreferences(Context.MODE_PRIVATE);
+'''
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'key-value pairs file IO'
+Feature = 'add value'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+SharedPreferences.Editor editor = sharedPref.edit();
+editor.putInt(getString(R.string.saved_high_score), newHighScore);
+editor.commit();
+'''
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'key-value pairs file IO'
+Feature = 'get value'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+SharedPreferences sharedPref = getActivity().getPreferences(Context.MODE_PRIVATE);
+int defaultValue = getResources().getInteger(R.string.saved_high_score_default);
+long highScore = sharedPref.getInt(getString(R.string.saved_high_score), defaultValue);'''
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'couchbase-lite'
+Feature = 'setup'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+dependencies {
+    compile 'com.couchbase.lite:couchbase-lite-android:+'
+    compile 'com.couchbase.lite:couchbase-lite-android-forestdb:+'
+}'''
+Description = 'forestdb is better.'
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'couchbase-lite'
+Feature = 'use packaged database'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+try {    manager = new Manager(new AndroidContext(getApplicationContext()), Manager.DEFAULT_OPTIONS);
+} catch (IOException e) {    e.printStackTrace();}
+try {    database = manager.getExistingDatabase("todo");} catch (CouchbaseLiteException e) {    e.printStackTrace();
+}
+if (database == null) {
+    try {        ZipUtils.unzip(getAssets().open("todo.zip"), manager.getContext().getFilesDir());    } catch (IOException e) {        e.printStackTrace();    }
+}'''
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'permissions'
+Feature = 'check and request'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+if (ContextCompat.checkSelfPermission(this, Manifest.permission.READ_LOGS) == PackageManager.PERMISSION_GRANTED) {
+            Log.d(getLocalClassName(), "Got READ_LOGS permissions");
+        } else {
+            Log.e(getLocalClassName(), "Don't have READ_LOGS permissions");
+            ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.READ_LOGS}, 103);
+            Log.i(getLocalClassName(), "new READ_LOGS permission: " + ContextCompat.checkSelfPermission(this, Manifest.permission.READ_LOGS));
+        }'''
+Description = 'See Android manifest entries separately.'
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'network status'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+ConnectivityManager cm =        (ConnectivityManager)context.getSystemService(Context.CONNECTIVITY_SERVICE);
+NetworkInfo activeNetwork = cm.getActiveNetworkInfo();
+boolean isConnected = activeNetwork != null &&
+                      activeNetwork.isConnectedOrConnecting();
+boolean isWiFi = activeNetwork.getType() == ConnectivityManager.TYPE_WIFI;'''
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'View'
+Feature = 'find by id'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+EditText topEditText = (EditText) findViewById(R.id.top_text_edit);
+'''
+Description = '''
+returns first match.
+Finds a view that was identified by the id attribute from the XML that was processed in onCreate(Bundle).'''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'TextView'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+TextView text = new TextView(getApplicationContext());
+text.setBackgroundColor(Color.YELLOW);
+text.setTextColor(Color.BLACK);
+text.setLayoutParams(new LinearLayout.LayoutParams(
+    LinearLayout.LayoutParams.MATCH_PARENT,
+    LinearLayout.LayoutParams.WRAP_CONTENT));
+text.setVisibility(View.VISIBLE);
+'''
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'Checkbox'
+Feature = 'add dynamically'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+CheckBox cb = new CheckBox(getApplicationContext());
+cb.setText(name);
+cb.setHint(indexUrls.get(name));
+cb.setTextColor(Color.BLACK);
+cb.setOnCheckedChangeListener(checkboxListener);
+layout.addView(cb, layout.getChildCount());
+checkBoxes.add(cb);
+checkBox.setChecked(false); // calls checkboxListener
+checkBox.setEnabled(false); // does not call checkboxListener
+'''
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'ProgressBar'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+                progressBar.setMax(totalSize);
+                progressBar.setProgress(bytesWritten);
+                progressBar.setVisibility(View.VISIBLE);
+'''
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'Event Listener'
+Feature = 'TextWatcher'
+Subfeature = 'attach'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+TextView topText = (TextView) findViewById(R.id.top_text);
+EditText topEditText = (EditText) findViewById(R.id.top_text_edit);
+topEditText.addTextChangedListener(new CopyTextWatcher(topText));'''
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'Event Listener'
+Feature = 'TextWatcher'
+Subfeature = 'define'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'Async task'
+Feature = 'define'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+ private class DownloadFilesTask extends AsyncTask<URL, Integer, Long> {
+     protected Long doInBackground(URL... urls) {
+         int count = urls.length;
+         long totalSize = 0;
+......
+             publishProgress((int) ((i / (float) count) * 100));
+......
+             if (isCancelled()) break;
+         }
+         return totalSize;
+     }
+
+     // Runs on UI thread when publishProgress is called.
+     protected void onProgressUpdate(Integer... progress) {
+         setProgressPercent(progress[0]);
+     }
+
+     // Runs on UI thread when it is all done.
+     protected void onPostExecute(Long result) {
+         showDialog("Downloaded " + result + " bytes");
+     }
+ }'''
+Description = 'This should be a nested class inside the activity, so that onPostExecute and onProgressUpdate can do what is appropriate.'
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'Async task'
+Feature = 'call'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ' new DownloadFilesTask().execute(url1, url2, url3);'
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'Async task'
+Feature = 'cancel'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ' task.cancel(boolean)'
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'Async task'
+Feature = 'check status from UI'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'if(task.getStatus() == AsyncTask.Status.FINISHED){}'
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'Async http client'
+Feature = 'set up'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'AsyncHttpClient client = new AsyncHttpClient();'
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'Async http client'
+Feature = 'set up'
+Subfeature = 'gradle'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+dependencies {
+  compile 'com.loopj.android:android-async-http:1.4.5'
+}'''
+Description = ''
+
+[[data]]
+Language = 'Java android'
+"Operand Type" = 'Async http client'
+Feature = 'download file'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+AsyncHttpClient client = new AsyncHttpClient();
+client.get("http://example.com/file.png", new FileAsyncHttpResponseHandler() {
+    @Override
+    public void onSuccess(int statusCode, Header[] headers, File response) {
+        // Do something with the file `response`
+    }
+});'''
+Description = ''

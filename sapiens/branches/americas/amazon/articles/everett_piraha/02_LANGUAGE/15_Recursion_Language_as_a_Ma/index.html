@@ -1,0 +1,745 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | 15 Recursion: Language as a Matrioshka Doll</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.143.0">
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:url" content="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/">
+  <meta property="og:site_name" content="Vishvas&#39;s notes">
+  <meta property="og:title" content="15 Recursion: Language as a Matrioshka Doll">
+  <meta property="og:description" content="Theories affect our perceptions. They are part of the cultural information that constrains the way we see the world around us. There are many examples of culture-perception connections that don’t involve science but which illustrate my point, such as the time I mistook an anaconda for a floating log. My culture told me to look for logs when traveling by boat (universally good advice!). And it gave me information on what floating logs look like in a river. But it didn’t have anything to tell me about what very large anacondas look like swimming toward you.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="sapiens">
+
+  <meta itemprop="name" content="15 Recursion: Language as a Matrioshka Doll">
+  <meta itemprop="description" content="Theories affect our perceptions. They are part of the cultural information that constrains the way we see the world around us. There are many examples of culture-perception connections that don’t involve science but which illustrate my point, such as the time I mistook an anaconda for a floating log. My culture told me to look for logs when traveling by boat (universally good advice!). And it gave me information on what floating logs look like in a river. But it didn’t have anything to tell me about what very large anacondas look like swimming toward you.">
+  <meta itemprop="wordCount" content="7682">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="15 Recursion: Language as a Matrioshka Doll">
+  <meta name="twitter:description" content="Theories affect our perceptions. They are part of the cultural information that constrains the way we see the world around us. There are many examples of culture-perception connections that don’t involve science but which illustrate my point, such as the time I mistook an anaconda for a floating log. My culture told me to look for logs when traveling by boat (universally good advice!). And it gave me information on what floating logs look like in a river. But it didn’t have anything to tell me about what very large anacondas look like swimming toward you.">
+<script type="text/javascript">
+    
+    let baseURL = "https:\/\/vishvAsa.github.io\/notes\/";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022build_img\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/actions\/workflows\/build.yml\/badge.svg\u0022,\u0022build_url\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/actions\/workflows\/build.yml\u0022,\u0022contactlink\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/issues\/new\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/edit\/content\/\u0022,\u0022js_extras\u0022:[\u0022mathjax\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022देवः\u0022,\u0022url\u0022:\u0022..\/devaH\/\u0022},{\u0022title\u0022:\u0022आगमः\u0022,\u0022url\u0022:\u0022..\/AgamaH\/\u0022},{\u0022title\u0022:\u0022आगमः शैवः\u0022,\u0022url\u0022:\u0022..\/AgamaH_shaivaH\/\u0022},{\u0022title\u0022:\u0022आगमः वैष्णवः\u0022,\u0022url\u0022:\u0022..\/AgamaH_vaiShNavaH\/\u0022},{\u0022title\u0022:\u0022रामानुजीयम्\u0022,\u0022url\u0022:\u0022..\/rAmAnujIyam\/\u0022},{\u0022title\u0022:\u0022माध्वम्\u0022,\u0022url\u0022:\u0022..\/mAdhvam\/\u0022},{\u0022title\u0022:\u0022आगमः ब्राह्मः\u0022,\u0022url\u0022:\u0022..\/AgamaH_brAhmaH\/\u0022},{\u0022title\u0022:\u0022कल्पान्तरम्\u0022,\u0022url\u0022:\u0022..\/kalpAntaram\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022वेदाः\u0022,\u0022url\u0022:\u0022..\/vedAH\/\u0022},{\u0022title\u0022:\u0022वेदाः - ऋक्\u0022,\u0022url\u0022:\u0022..\/vedAH_Rk\/\u0022},{\u0022title\u0022:\u0022वेदाः - यजुः\u0022,\u0022url\u0022:\u0022..\/vedAH_yajuH\/\u0022},{\u0022title\u0022:\u0022वेदाः - साम\u0022,\u0022url\u0022:\u0022..\/vedAH_sAma\/\u0022},{\u0022title\u0022:\u0022पुराणम्\u0022,\u0022url\u0022:\u0022..\/purANam\u0022},{\u0022title\u0022:\u0022पुराणम् वैष्णवम्\u0022,\u0022url\u0022:\u0022..\/purANam_vaiShNavam\/\u0022},{\u0022title\u0022:\u0022महाभारतम्\u0022,\u0022url\u0022:\u0022..\/mahAbhAratam\/\u0022},{\u0022title\u0022:\u0022रामायणम्\u0022,\u0022url\u0022:\u0022..\/rAmAyaNam\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvyam\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022ಕನ್ನಡ\u0022,\u0022url\u0022:\u0022..\/kannaDa\/\u0022},{\u0022title\u0022:\u0022त्रिपिटकम्\u0022,\u0022url\u0022:\u0022..\/tipiTaka\/\u0022},{\u0022title\u0022:\u0022पाळयः\u0022,\u0022url\u0022:\u0022..\/pALi\/\u0022},{\u0022title\u0022:\u0022भाषान्तरम्\u0022,\u0022url\u0022:\u0022..\/bhAShAntaram\/\u0022},{\u0022title\u0022:\u0022English Lit\u0022,\u0022url\u0022:\u0022..\/english\/\u0022},{\u0022title\u0022:\u0022Book pub\u0022,\u0022url\u0022:\u0022..\/book-pub\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vishvAsa.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    
+    var pageRelUrlTree = {};
+</script>
+
+    
+    <script type="text/javascript">
+  let pageVars = {};
+  pageVars.pageUrlMinusBasePath = "\/notes\/sapiens\/branches\/americas\/amazon\/articles\/everett_piraha\/02_LANGUAGE\/15_Recursion_Language_as_a_Ma\/".replace(basePath, "/");
+  pageVars.pageParams = {};
+  pageVars.pageSource = "sapiens\/branches\/americas\/amazon\/articles\/everett_piraha\/02_LANGUAGE\/15_Recursion_Language_as_a_Ma.md";
+  console.log(pageVars.pageSource);
+  var pageDefaults;
+  for (let possiblePageDefaults of pageDefaultsList) {
+    if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+      pageDefaults = possiblePageDefaults.values
+    }
+  }
+    
+</script>
+
+
+    <script src="/notes/webpack_dist/uiLib-bundle.js"></script>
+
+
+<script>
+
+
+MathJax = {
+  tex: {
+    inlineMath: [ ["@#", "#@"], ["\\(", "\\)"] ],
+    displayMath: [ ["$$","$$"], ["\\[", "\\]"] ],
+    processEscapes: true,  
+  },
+  svg: {
+    fontCache: 'global'
+  },
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore|dno"
+  }
+};
+</script>
+<script type="text/javascript" id="MathJax-script" async
+        src="/notes/non_webpack_js/mathjax/tex-svg.js">
+</script>
+
+
+
+
+
+
+    <link rel="stylesheet" href="/notes/webpack_dist/uiLib.css">
+<link rel="stylesheet" href="/notes/css/uiLibPrint.css" media="print" >
+<link rel="stylesheet" href="/notes/css/fonts.css" >
+<link rel="stylesheet" href="/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+
+<link rel="stylesheet" href="/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+
+<link rel="alternate" hreflang="sa-Deva" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/" />
+<link rel="alternate" hreflang="sa-Deva" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=devanagari" />
+
+<link rel="alternate" hreflang="sa-Knda" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=kannada" />
+<link rel="alternate" hreflang="sa-Mlym" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=malayalam" />
+<link rel="alternate" hreflang="sa-Telu" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=telugu" />
+<link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=tamil_superscripted" />
+<link rel="alternate" hreflang="sa-Taml" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=tamil" />
+<link rel="alternate" hreflang="sa-Gran" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=grantha" />
+
+<link rel="alternate" hreflang="sa-Gujr" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=gujarati" />
+<link rel="alternate" hreflang="sa-Guru" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=gurmukhi" />
+<link rel="alternate" hreflang="sa-Shar" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=sharada" />
+<link rel="alternate" hreflang="sa-Dogr" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=dogra" />
+<link rel="alternate" hreflang="sa-Phag" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=phags_pa" />
+<link rel="alternate" hreflang="sa-Tibt" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=tibetan" />
+<link rel="alternate" hreflang="sa-Sidd" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=siddham" />
+<link rel="alternate" hreflang="sa-Newa" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=newa" />
+<link rel="alternate" hreflang="sa-Modi" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=modi" />
+<link rel="alternate" hreflang="sa-Tirh" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=tirhuta_maithili" />
+<link rel="alternate" hreflang="sa-Gong" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=gondi_gujala" />
+<link rel="alternate" hreflang="sa-Gonm" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=gondi_masaram" />
+
+
+<link rel="alternate" hreflang="sa-Orya" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=oriya" />
+<link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=assamese" />
+<link rel="alternate" hreflang="sa-Beng" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=bengali" />
+<link rel="alternate" hreflang="sa-Mtei" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=manipuri" />
+<link rel="alternate" hreflang="sa-Sinh" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=sinhala" />
+<link rel="alternate" hreflang="sa-Limb" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=limbu" />
+<link rel="alternate" hreflang="sa-Lepc" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=lepcha" />
+
+
+<link rel="alternate" hreflang="sa-Cyrl" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=cyrillic" />
+<link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iso" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=iso" />
+<link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=iast" />
+<link rel="alternate" hreflang="sa-Aran" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=urdu" />
+<link rel="alternate" hreflang="sa-Avst" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=avestan" />
+
+<link rel="alternate" hreflang="sa-Brah" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=brahmi" />
+<link rel="alternate" hreflang="sa-Khar" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=kharoshthi" />
+<link rel="alternate" hreflang="sa-Zanb" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=zanbazar_square" />
+<link rel="alternate" hreflang="sa-Bhks" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=bhaiksuki" />
+
+<link rel="alternate" hreflang="sa-Bali" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=balinese" />
+<link rel="alternate" hreflang="sa-Java" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=javanese" />
+<link rel="alternate" hreflang="sa-Laoo" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=lao" />
+<link rel="alternate" hreflang="sa-Laoo-t-sa-Laoo-m0-Laopali" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=lao_pali" />
+<link rel="alternate" hreflang="sa-Mymr" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=burmese" />
+<link rel="alternate" hreflang="sa-Mymr-t-sa-Mymr-m0-Mon" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=mon" />
+<link rel="alternate" hreflang="sa-Cham" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=cham" />
+<link rel="alternate" hreflang="sa-Khmr" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=khmer" />
+<link rel="alternate" hreflang="sa-Thai" href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/?transliteration_target=thai" />
+
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+\(
+% groupings of objects.
+\newcommand{\set}[1]{\left\{ #1 \right\}}
+\newcommand{\seq}[1]{\left(#1\right)}
+\newcommand{\ang}[1]{\langle#1\rangle}
+\newcommand{\tuple}[1]{\left(#1\right)}
+\newcommand{\size}[1]{\left| #1\right|}
+
+\newcommand{\comp}{\circ}
+
+
+% numerical shortcuts.
+\newcommand{\abs}[1]{\left| #1\right|}
+\newcommand{\floor}[1]{\left\lfloor #1 \right\rfloor}
+\newcommand{\ceil}[1]{\left\lceil #1 \right\rceil}
+
+% linear algebra shortcuts.
+\newcommand{\change}{\Delta}
+\newcommand{\norm}[1]{\left\| #1\right\|}
+\newcommand{\dprod}[1]{\langle#1\rangle}
+\newcommand{\linspan}[1]{\langle#1\rangle}
+\newcommand{\conj}[1]{\overline{#1}}
+\newcommand{\der}[1]{\frac{d#1}{dx}}
+\newcommand{\lap}{\Delta}
+\newcommand{\kron}{\otimes}
+\newcommand{\nperp}{\nvdash}
+
+\newcommand{\mat}[1]{\left[ \begin{smallmatrix}#1 \end{smallmatrix} \right]}
+
+% derivatives and limits
+\newcommand{\partder}[2]{\frac{\partial #1}{\partial #2}}
+\newcommand{\partdern}[3]{\frac{\partial^{#3 #1}}{\partial #2^{#3}}}
+\newcommand{\gradient}{\nabla}
+\newcommand{\subdifferential}{\partial}
+
+% Arrows
+\newcommand{\diverge}{\nearrow}
+\newcommand{\notto}{\nrightarrow}
+\newcommand{\up}{\uparrow}
+\newcommand{\down}{\downarrow}
+% gets and gives are defined!
+
+% ordering operators
+\newcommand{\oleq}{\preceq}
+\newcommand{\ogeq}{\succeq}
+
+% programming and logic operators
+\newcommand{\dfn}{:=}
+\newcommand{\assign}{:=}
+\newcommand{\co}{\ co\ }
+\newcommand{\en}{\ en\ }
+
+
+% logic operators
+\newcommand{\xor}{\oplus}
+\newcommand{\Land}{\bigwedge}
+\newcommand{\Lor}{\bigvee}
+\newcommand{\finish}{\Box}
+\newcommand{\contra}{\Rightarrow \Leftarrow}
+\newcommand{\iseq}{\stackrel{_?{=}}}
+
+
+% Set theory
+\newcommand{\symdiff}{\Delta}
+\newcommand{\setdiff}{\backslash}
+\newcommand{\union}{\cup}
+\newcommand{\inters}{\cap}
+\newcommand{\Union}{\bigcup}
+\newcommand{\Inters}{\bigcap}
+\newcommand{\nullSet}{\phi}
+
+
+% graph theory
+\newcommand{\nbd}{\Gamma}
+
+% Script alphabets
+% For reals, use \Re
+
+% greek letters
+\newcommand{\eps}{\epsilon}
+\newcommand{\del}{\delta}
+\newcommand{\ga}{\alpha}
+\newcommand{\gb}{\beta}
+\newcommand{\gd}{\del}
+\newcommand{\gp}{\pi}
+\newcommand{\gf}{\phi}
+\newcommand{\gh}{\eta}
+\newcommand{\gF}{\Phi}
+\newcommand{\gl}{\lambda}
+\newcommand{\gm}{\mu}
+\newcommand{\gn}{\nu}
+\newcommand{\gr}{\rho}
+\newcommand{\gs}{\sigma}
+\newcommand{\gth}{\theta}
+\newcommand{\gx}{\xi}
+\newcommand{\gw}{\omega}
+
+\newcommand{\sw}{\sigma}
+\newcommand{\SW}{\Sigma}
+\newcommand{\ew}{\lambda}
+\newcommand{\EW}{\Lambda}
+
+\newcommand{\Del}{\Delta}
+\newcommand{\gD}{\Delta}
+\newcommand{\gG}{\Gamma}
+\newcommand{\gW}{\Omega}
+\newcommand{\gS}{\Sigma}
+\newcommand{\gTh}{\Theta}
+
+% Bold english letters.
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bB}{\mathbf{B}}
+\newcommand{\bC}{\mathbf{C}}
+\newcommand{\bD}{\mathbf{D}}
+\newcommand{\bE}{\mathbf{E}}
+\newcommand{\bF}{\mathbf{F}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bI}{\mathbf{I}}
+\newcommand{\bJ}{\mathbf{J}}
+\newcommand{\bK}{\mathbf{K}}
+\newcommand{\bL}{\mathbf{L}}
+\newcommand{\bM}{\mathbf{M}}
+\newcommand{\bN}{\mathbf{N}}
+\newcommand{\bO}{\mathbf{O}}
+\newcommand{\bP}{\mathbf{P}}
+\newcommand{\bQ}{\mathbf{Q}}
+\newcommand{\bR}{\mathbf{R}}
+\newcommand{\bS}{\mathbf{S}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bU}{\mathbf{U}}
+\newcommand{\bV}{\mathbf{V}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\bX}{\mathbf{X}}
+\newcommand{\bY}{\mathbf{Y}}
+\newcommand{\bZ}{\mathbf{Z}}
+
+\newcommand{\bba}{\mathbf{a}}
+\newcommand{\bbb}{\mathbf{b}}
+\newcommand{\bbc}{\mathbf{c}}
+\newcommand{\bbd}{\mathbf{d}}
+\newcommand{\bbe}{\mathbf{e}}
+\newcommand{\bbf}{\mathbf{f}}
+\newcommand{\bbg}{\mathbf{g}}
+\newcommand{\bbh}{\mathbf{h}}
+\newcommand{\bbk}{\mathbf{k}}
+\newcommand{\bbl}{\mathbf{l}}
+\newcommand{\bbm}{\mathbf{m}}
+\newcommand{\bbn}{\mathbf{n}}
+\newcommand{\bbp}{\mathbf{p}}
+\newcommand{\bbq}{\mathbf{q}}
+\newcommand{\bbr}{\mathbf{r}}
+\newcommand{\bbs}{\mathbf{s}}
+\newcommand{\bbt}{\mathbf{t}}
+\newcommand{\bbu}{\mathbf{u}}
+\newcommand{\bbv}{\mathbf{v}}
+\newcommand{\bbw}{\mathbf{w}}
+\newcommand{\bbx}{\mathbf{x}}
+\newcommand{\bby}{\mathbf{y}}
+\newcommand{\bbz}{\mathbf{z}}
+\newcommand{\0}{\mathbf{0}}
+\newcommand{\1}{\mathbf{1}}
+
+% Caligraphic english alphabet
+\newcommand{\cA}{\mathcal{A}}
+\newcommand{\cB}{\mathcal{B}}
+\newcommand{\cC}{\mathcal{C}}
+\newcommand{\cD}{\mathcal{D}}
+\newcommand{\cE}{\mathcal{E}}
+\newcommand{\cF}{\mathcal{F}}
+\newcommand{\cG}{\mathcal{G}}
+\newcommand{\cH}{\mathcal{H}}
+\newcommand{\cI}{\mathcal{I}}
+\newcommand{\cJ}{\mathcal{J}}
+\newcommand{\cK}{\mathcal{K}}
+\newcommand{\cL}{\mathcal{L}}
+\newcommand{\cM}{\mathcal{M}}
+\newcommand{\cN}{\mathcal{N}}
+\newcommand{\cO}{\mathcal{O}}
+\newcommand{\cP}{\mathcal{P}}
+\newcommand{\cQ}{\mathcal{Q}}
+\newcommand{\cR}{\mathcal{R}}
+\newcommand{\cS}{\mathcal{S}}
+\newcommand{\cT}{\mathcal{T}}
+\newcommand{\cU}{\mathcal{U}}
+\newcommand{\cV}{\mathcal{V}}
+\newcommand{\cW}{\mathcal{W}}
+\newcommand{\cX}{\mathcal{X}}
+\newcommand{\cY}{\mathcal{Y}}
+\newcommand{\cZ}{\mathcal{Z}}
+
+
+% Formatting shortcuts
+\newcommand{\red}[1]{\textcolor{red}{#1}}
+\newcommand{\blue}[1]{\textcolor{blue}{#1}}
+\newcommand{\htext}[2]{\texorpdfstring{#1}{#2}}
+
+% Statistics
+\newcommand{\distr}{\sim}
+\newcommand{\stddev}{\sigma}
+\newcommand{\covmatrix}{\Sigma}
+\newcommand{\mean}{\mu}
+\newcommand{\param}{\theta}
+\newcommand{\gthEst}{\hat{\theta}}
+\newcommand{\ftr}{\phi}
+\newcommand{\est}[1]{\hat{#1}}
+
+% General utility
+\newcommand{\todo}[1]{\textbf{[TODO]}] \footnote{TODO: #1}}
+\newcommand{\tbc}{[\textbf{Incomplete}]}
+\newcommand{\chk}{[\textbf{Check}]}
+\newcommand{\why}{[\textbf{Find proof}]}
+\newcommand{\opt}[1]{\textit{#1}}
+
+\newcommand{\experience}[1]{[\textbf{Personal Experience}]: #1 \blacktriangle}
+\newcommand{\pf}[1]{[\textbf{Proof}]: #1 \Box}
+\newcommand{\core}[1]{\textbf{Core Idea}: #1 \Arrowvert}
+\newcommand{\example}[1]{\textbf{Example}: #1 \blacktriangle}
+\newcommand{\error}[1]{\textbf{Error alert}: #1 \triangle}
+\newcommand{\oprob}{[\textbf{OP}]: }
+
+
+\renewcommand{\~}{\htext{$\sim$}{~}}
+
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+
+
+\)
+
+
+
+    
+<header class="p-1 bg-yellow noPrint">
+    <nav role="navigation" class="col">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> 15 Recursion: Language as a Matrioshka Doll</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <button class="btn btn-light"  href="#transliterationDropdown" data-toggle="collapse">
+            ✍
+          </button>
+          <select id="transliterationDropdown" size="1" class="collapse" onchange="module_uiLib.default.content.updateTransliteration()">
+            <optgroup label="🌍">
+              <option value="iso">āISO</option>
+              <option value="iso_vedic">āi-āu</option>
+              <option value="cyrillic">пу</option>
+              <option value="urdu">نس</option>
+              <option value="??">🌍??</option>
+            </optgroup>
+            <optgroup label="🛕🧭S">
+              <option value="kannada">ಅ</option>
+              <option value="malayalam">അ</option>
+              <option value="telugu">క</option>
+              <option value="tamil_superscripted">க²</option>
+              <option value="tamil_extended">க</option>
+              <option value="grantha">𑌅</option>
+            </optgroup>
+            <optgroup label="🛕🧭N">
+              <option value="devanagari" selected="">स</option>
+              <option value="gujarati">અ</option>
+              <option value="gurmukhi">ਅ</option>
+            </optgroup>
+            <optgroup label="🛕🧭E">
+              <option value="oriya">ଅ</option>
+              <option value="assamese">অস</option>
+              <option value="bengali">অ</option>
+            </optgroup>
+            <optgroup label="🛕🏺📜">
+              <option value="sharada">𑆑𑇀𑆰</option>
+              <option value="brahmi">𑀅</option>
+            </optgroup>
+            <optgroup label="🛕🌋">
+              <option value="balinese">ᬩᬮᬶ</option>
+            </optgroup>
+          </select>
+          <div>
+          <button class="btn btn-outline-secondary btn-sm"  href="#transliterationDropdownAlt" data-toggle="collapse">
+          (✍)
+          </button>
+          <select id="transliterationDropdownAlt" size="1"  style="font-size:12px" class="bg-light-yellow collapse" onchange="module_uiLib.default.content.updateTransliteration()">
+            <optgroup label="🌍">
+              <option value="iso">āISO</option>
+              <option value="iso_vedic">āi-āu</option>
+              <option value="cyrillic">пу</option>
+              <option value="urdu">نس</option>
+              <option value="??">🌍??</option>
+            </optgroup>
+            <optgroup label="🛕🧭S">
+              <option value="kannada">ಅ</option>
+              <option value="malayalam">അ</option>
+              <option value="telugu">క</option>
+              <option value="tamil_superscripted">க²</option>
+              <option value="tamil_extended">க</option>
+              <option value="grantha">𑌅</option>
+            </optgroup>
+            <optgroup label="🛕🧭N">
+              <option value="devanagari" selected="">स</option>
+              <option value="gujarati">અ</option>
+              <option value="gurmukhi">ਅ</option>
+            </optgroup>
+            <optgroup label="🛕🧭E">
+              <option value="oriya">ଅ</option>
+              <option value="assamese">অস</option>
+              <option value="bengali">অ</option>
+            </optgroup>
+            <optgroup label="🛕🏺📜">
+              <option value="sharada">𑆑𑇀𑆰</option>
+              <option value="brahmi">𑀅</option>
+            </optgroup>
+            <optgroup label="🛕🌋">
+              <option value="balinese">ᬩᬮᬶ</option>
+            </optgroup>
+          </select>
+          </div>
+          <div class="row col d-flex  dropdown">
+            <button class="btn btn-secondary-outline btn-sm dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              A±
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <a class="btn btn-secondary btn-sm" onclick="module_uiLib.changeTextSize(2)">A+</a>
+            <a class="btn btn-secondary btn-sm" onclick="module_uiLib.changeTextSize(-2)">A-</a>
+            </div>
+          </div>
+          <button class="btn btn-light btn-sm"  href="#commentStyleDropdown" data-toggle="collapse">
+            🗨
+          </button>
+          <select id="commentStyleDropdown" class="collapse" size="1" onchange="module_uiLib.default.content.updateCommentStyleFromDropdown()">
+            <option value="on">✔</option>
+            <option value="hidden">✗</option>
+          </select>
+          <div><a id="expandAllButton" class="btn btn-secondary" onclick="module_uiLib.default.query.setParamsAndGo({'expandDetails': '.*'})">↕️️</a></div>
+          <div id="printStyleDiv" class="row col d-flex  dropdown">
+          <button class="btn btn-light btn-sm dropdown-toggle"  href="#printStyleDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          🖨
+          </button>
+            <div class="dropdown-menu col" aria-labelledby="printStyleDropdown">
+              <div class="row justify-content-center">
+                <p>Cols:</p>
+                <input type="number" min="1" max="10" value="2" step="1" id="tbColumns" style="width: 3ch;"  accesskey="c"/>
+              </div>
+              <div class="row justify-content-center">
+                <p>A±:</p> <input type="text" id="tbBodyFontSize" value="0.4cm" style="width: 6ch;"  accesskey="f"></input>
+              </div>
+              <div class="row justify-content-center">
+                <p>Incl:</p> <input checked type="checkbox" id="tbIncludeStyle" value="on"></input>
+                <button id="btnPrintStyle" onclick="module_uiLib.default.content.updatePrintStyle()">🖨
+                </button>
+              </div>
+            </div>
+        </div>
+        </div>
+        <div id="audioDiv" class="row col d-flex  dropdown">
+          <button class="btn btn-secondary-outline btn-sm dropdown-toggle" type="button" id="audioDropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            🎧
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <a id="speakerButton" class="btn btn-outline-secondary btn-sm" onclick="module_uiLib.default.content.handleSpeakToggle()">⏯</a>
+          <button id="speakerPauseButton" class="btn btn-outline-secondary btn-sm">⏸</button>
+            <div id="audioOptionsDiv" class="row justify-content-center" >
+              <div>
+                <p class="lead">Vol</p>
+                <input type="range" min="0" max="1" value="1" step="0.1" id="volume" />
+                <span id="volume-label" class="ms-2">1</span>
+              </div>
+              <div class="mx-5">
+                <p class="lead">Rate</p>
+                <input type="range" min="0.1" max="10" value="1" id="rate" step="0.1" />
+                <span id="rate-label" class="ms-2">1</span>
+              </div>
+              <div>
+                <p class="lead">Pitch</p>
+                <input type="range" min="0" max="2" value="1" step="0.1" id="pitch" />
+                <span id="pitch-label" class="ms-2">1</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a href="https://vishvAsa.github.io/notes/search"  class="btn btn-light btn-sm">🥽🔦</a>
+        <div class="row col  d-flex justify-content-center">
+          <div><a id="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a id="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border noPrint " id="sidebar">
+          <div id="fastSearch">
+              <datalist id="pageDataList"></datalist>
+              <input id="searchInput" placeholder="शीर्षिकान्विष्यताम्" list="pageDataList" onchange="module_uiLib.default.navigation.pageLoader()">
+          </div>
+          <details open  class="bg-light-gray" >
+              <summary id="sidebarToggleLink" onclick="module_uiLib.default.navigation.sidebarToggleHandler()">
+            Menu
+              </summary>
+              <ul id="sidebarBody" class="list pl2 p-0 bg-yellow">
+              </ul>
+          </details>
+      </aside>
+      <main class="col p-3" role="main" data-pagefind-body>
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="15 Recursion: Language as a Matrioshka Doll">15 Recursion: Language as a Matrioshka Doll</h1>
+    
+    <a id="editLink" class="btn btn-primary noPrint"  href="https://github.com/vishvAsa/notes/edit/content/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border noPrint ">
+    <details id="toc_header">
+        <summary>What's in this page?</summary>
+      <div id="toc_body" class="p-0">
+        
+        <ul id="toc_ul" class="list p-0">
+        </ul>
+      </div>
+    </details>
+    <div id="progressBarDiv" class="row d-flex justify-content-center">
+      🐎💪<progress id="progressLoading" value="0" max="100"> 32% </progress>
+    </div>
+  </aside>
+  <div id="post_content">
+  <p><strong>T</strong>heories affect our perceptions. They are part of the cultural information that constrains the way we see the world around us. There are many examples of culture-perception connections that don’t involve science but which illustrate my point, such as the time I mistook an anaconda for a floating log. My culture told me to look for logs when traveling by boat (universally good advice!). And it gave me information on what floating logs look like in a river. But it didn’t have anything to tell me about what very large anacondas look like swimming toward you.</p>
+<p>We were traveling out of the village in our own motorboat, all the way to Humaitá to catch the bus to Pôrto Velho. Keren had made tuna sandwiches with homemade bread and we had Kool-Aid to drink. As I piloted the boat down the Maici and then the Marmelos, everyone was relaxed. Shannon was reading the Brazilian comic book <em>Monica</em> while the others dozed or watched the scenery go by.</p>
+<p>We came to my favorite part of the entire trip, the <em>encontro das aguas,</em> where the dark green water of the Marmelos meets the chocolate-milk-colored water of the Madeira. I shouted for everyone to look and we all watched as the two colors of water ran for a bit side by side, then we saw swirls of muddy water in the green water, then finally the green water was absorbed, about five hundred yards past the mouth.</p>
+<p>I then turned my attention upriver, as we skirted the island that sits at the mouth of the Marmelos, motoring toward the Auxiliadora, where we would spend the night. The Madeira River is so named for the trees that are washed from its muddy banks and float down it toward the Amazon. There are huge trunks and branches in the river, especially dangerous when they float invisibly just beneath the surface. About two hundred yards upriver I saw a log floating in the fast current. It was twisted. When I first began to travel the Amazon system, I expected to see new things in this new world, so I mistook every log in the river for a snake, because the water makes wood seem to undulate. This log seemed to undulate as well, though by now I knew enough not to mistake it for a snake. And I also knew that snakes were not as big as logs. This one, as I watched it more closely, was perhaps forty feet long and three feet thick.</p>
+<p>I shifted to look at two macaws flying and squawking overhead. Then I looked back at the log. It was closer to us now. Strange, I thought, the log is floating toward the bank, perpendicular to the current.</p>
+<p>Then as it got closer, I saw that it really was undulating. Suddenly it came straight toward my end of the boat. This was no log. This was the largest anaconda I had ever seen. Its head was larger than mine. Its body was much thicker than mine and over thirty feet long. It opened its mouth wide and swam toward me. I swerved sharply, throwing my family to the side hard, and I managed to hit the snake with the propeller of my 15-horsepower outboard motor as it dove under the boat.<em>Thud.</em> A solid hit. I thought I had hit it in the head, but I wasn’t sure.</p>
+<p>The snake disappeared. Then a second later the entire snake’s body stood up out of the water, towering above the boat, but receding behind us as we pressed forward, at about ten miles per hour. I looked at the entire length of the snake’s whitish underbelly as it fell backward with a loud, large splash into the Madeira River.</p>
+<p>I didn’t know anacondas could to that, I thought. That damned thing could have jumped in the boat with us!</p>
+<p>I was just staring. Shannon looked up now from her comic and said “Wow!”</p>
+<p>This experience of mistaken perception taught me what psychologists have long known: perception is learned. We perceive the world, both as theoreticians and as citizens of the universe, according to our experiences and expectations, not always, perhaps even never, according to how the world actually is.</p>
+<p>As I became more fluent in Pirahã, I began to harbor a suspicion that the people were keeping their speech simple for my sake. When they spoke to me, the sentences seemed short, with only one verb each. So I decided that it would be worth listening more carefully to how they spoke to one another, rather than basing my conclusions on how they spoke to me. My best opportunity, I knew, would come from Báígipóhoái, Xahoábisi’s wife. Each morning she talked loudly, beginning around five o’clock, sitting up in her hut in the dark, with Xahoábisi getting the fire going strong, only a few feet from my bedroom. She spoke to the entire village about what she had dreamed. She asked people by name what they were going to do that day. She told men leaving in canoes what kind of fish to catch, where the best places to fish were, how foreigners could be best avoided, and on and on. She was the village crier and gossip rolled into one. She was enjoyable to listen to. There was a certain artistry to her discourse, with her deep voice, the range of intonation in her talk (from very low to very high and back down again), the stylistically different way she pronounced her words—as if breath were going into her lungs and mouth rather than coming out. If ever there was a speaker that was speaking Pirahã for Pirahãs and not for me, the linguist, Báígi was it. Important for me, as I recorded then transcribed her sentences, they were structured identically to the sentences spoken to me by Kóhoi and other teachers—just one verb each.</p>
+<p>This was especially challenging, since in my analysis of Pirahã grammar, I tried hard to collect examples where one phrase or sentence occurred inside another, as any linguist would, since such structures are supposed to reveal the grammar better than the simple sentences I was collecting. I began by looking for sentences like <em>The man who caught the fish is in the house,</em> where a sentence-like relative clause (<em>who caught the fish</em>) occurs within a noun phrase (<em>The man . . .</em>), which occurs within another sentence (<em>The man is in the house</em>). At the time, I believed that relative clauses existed in all languages.</p>
+<p>In trying to figure out whether or not Pirahã had relative clauses, I decided to ask Kóhoi one day to tellme if I was “talking pretty”when I said, “The man came into the house. He was tall.” These are two simple sentences. In English, though, we would prefer to put the second sentence inside the former, to get a relative clause—“The man who was tall came into the house.” When I asked the Pirahã men whether my speech was pretty or not, usually they would say yes, to avoid rudeness. But then, if I had in fact expressed myself poorly, they would repeat the sentence I had mangled back to me in correct Pirahã, without ever telling me I was wrong. I was therefore hoping when I asked this particular question that Kóhoi would utter a corrective sentence and say something like “The man who is tall came into the house.” But, no, Kóhoi just said I was speaking pretty and repeated the phrases after me just as I had said them originally, something that the Pirahãs rarely do if the grammar is incorrect.</p>
+<p>I experimented with various sentences using several different Pirahã teachers. All would either answer that I was speaking pretty or say “<em>Xaió!</em>” (Correct!)</p>
+<p>So in a draft section of my Pirahã grammar about relative clauses I wrote that there were none in the language. But then one day Kóhoi was making a fishing arrow and needed a nail for the tip.</p>
+<p>He spoke to his son, Paitá: <em>“Ko Paitá, tapoá xigaboopaáti. Xoogiai hi goo tapoá xoáboi. Xaisigíai”</em> (Hey Paitá, bring back some nails. Dan bought those very nails. They are the same).</p>
+<p>I heard this and it stopped me in my tracks. I realized that these phrases were functioning together like a single sentence with a relative clause and that they could even be translated as such a sentence in En glish, but that their form was significantly different. They were three separate sentences, not one sentence with another sentence inside of it as in English. This Pirahã construction therefore lacked a relative clause in the sense that linguists usually mean. Crucially, the last sentence, <em>Xaisigíai</em> (They are the same), equated the word <em>nails</em> from the first two sentences. In English we would say, “Bring back <em>the nails that Dan bought</em>” (I have italicized the relative clause portion). I was thus seeing the separate clauses interpreted together even though they were not part of the same sentence. So there was a way of producing something like a relative clause in meaning, even if there were no relative clauses proper.</p>
+<p>A sentence to most linguists is the expression in words of a proposition, an unspoken unit of meaning that represents a single thought, such as <em>I ate, John saw Bill,</em> or a single state, such as <em>The ball is red, I have a hammer,</em> and so on. Most languages not only have simple sentences like these, though, but they also have a way of putting one sentence or one phrase inside of another. This matrioshka-doll characteristic is known as recursion by computer scientists, linguists, psychologists, and philosophers. This issue is currently setting linguistics, philosophy of language, anthropology, and psychology ablaze, in a debate on the potential significance of Pirahã’s grammar for the understanding of humans and their languages.</p>
+<p>In this respect, the evidence I was collecting was beginning to build support for two ideas I later came to hold about Pirahã sentence structure. The first was that Pirahã sentences lacked recursion. The second idea was that recursion wasn’t all that important—apparently, whatever you could say with recursion in one language, you could say without it in another. Linguists have long believed, though not always using the same terminology, that recursion is very important in language. And so I knew that any evidence that Pirahã could bring to bear on the issue would be important.</p>
+<p>Chomsky was one of the first to ask how humans could produce so many sentences, an unbounded number, with only finite brains. There must be some tool available to allow us to make, as the common linguistics saying goes, “infinite use of finite means” (though I don’t think any linguist could really provide a coherent story of what that expression really means in scientific terms). Chomsky claimed that the fundamental tool that underlies all of this creativity of human language is recursion.</p>
+<p>Recursion has traditionally been defined as the ability to put one item inside another of the same type (for the more mathematically inclined, it is a function with a procedure or a subroutine whose implementation references itself). A visual form of recursion occurs when you hold a mirror up to a mirror and see an infinite regress of mirrors in the reflection. And an auditory form of recursion is feedback, the squeal from an amplifier picking up and continuing to amplify its own output over and over.</p>
+<p>These are the standard definitions of recursion. In syntax, again, this would translate into putting one unit inside another unit of the same type. Take a phrase like <em>John’s brother’s son,</em> which contains the noun phrases <em>John, his brother,</em> and <em>his son.</em> And a sentence like <em>I said that you are ugly</em> contains the sentence <em>you are ugly.</em></p>
+<p>In 2002, in the journal <em>Science,</em> Marc Hauser, Noam Chomsky, and Tecumseh Fitch placed a great burden on recursion by labeling it the unique component of human language. They claimed that recursion is the key to the creativity of language, in that as a grammar possesses this formal device, it can produce an infinite number of sentences of unbounded length.</p>
+<p>However, as word has reached the scientific world of my claim that Pirahã lacks recursion in the mathematical, matrioshka-doll sense, a curious thing has happened. The definition of recursion has changed among some followers of Chomsky. In a sense this is an example of something the philosopher Richmond Thomason used to say to people who changed their mind on some subjects: “If at first you don’t succeed, redefine success.”</p>
+<p>The newest definition of recursion to emerge from Chomsky’s school makes recursion a form of compositionality. Simply put, it says that you can put parts together to make something new and you can do that endlessly. Under this novel notion of recursion, which is not accepted by any mathematical linguists or computer scientists that I know of, if I can put words together to form a sentence, that is recursion, and if I can put sentences together to form a story, that is recursion.</p>
+<p>My own reaction to this is that it errs by conflating reasoning with language. People clearly can put sentences together and then interpret them as a whole story. But this is the same ability crime scene investigators use when they interpret apparently disparate bits of evidence and assemble them into a story of how the crime was committed. This is not language, it is reasoning. Yet the major appeal of Chomskyan theory for most scientists is that it has separated reasoning and language, and in particular that Chomsky has distinguished the structure of stories from the structure of sentences and phrases. He has claimed many times that stories and sentences are put together by very different principles. So failing to draw that distinction in this new notion of recursion is, ironically, inconsistent with Chomsky’s own theory but consistent with mine.</p>
+<p>If I am right about Pirahã lacking recursion, Chomsky and other researchers have some head scratching to do. They need to suggest how a language without recursion can fit into a theory in which recursion is the crucial component of language.</p>
+<p>One answer that Chomsky and others have given to my claim that Pirahã lacks recursion is that recursion is a tool that’s made available by the brain, but it doesn’t have to be used. But then that’s very difficult to reconcile with the idea that it’s an essential property of human language, because if recursion doesn’t have to appear in one given language, then, in principle, it doesn’t have to appear in any language. This places them in the unenviable position of claiming that the unique property of human language does not actually have to be found in any human language.</p>
+<p>It is not that hard, really, to tell whether recursion does any work in figuring out the grammar of a specific language. Quite simply, the question is twofold. First, can the grammar you write without recursion handle the language you are studying more simply than a grammar with recursion? Second, what kinds of phrases would you expect to find if the grammar did in fact have recursion? A language without recursion will look different from a language that has recursion. The main way is that it will not have phrases inside other phrases. If you find a phrase within a phrase, the language has recursion, period. If you don’t, it might not, though more data will be needed. The first question, then, is whether there are phrases within phrases in Pirahã. The answer is that there are not, following the standard argumentation used in theoretical linguistics to establish this: it lacks the pitch marking, words, or sentence size of a language with recursion.</p>
+<p>The grammars of the world’s languages employ various markers to indicate that a given structure is recursive, that is, that one phrase is inside another. Such marking is not required, but it is very common. Some of these markers are independent words. In English, we say things like <em>I said that he was coming.</em> In this sentence, the phrase <em>he was coming</em> is located inside the phrase <em>I said . . . ; He was coming</em> is the content of what was said. In English, <em>that</em> is a frequently used “complementizer” for marking recursion. If we look at the relative clause complex that Kóhoi gave me, we see three independent sentences, interpreted jointly, without a shred of evidence that one sentence is inside another.</p>
+<p>Another common marker of recursion is intonation, the use of pitch to mark different meaning and structural relations between sentences and their parts. The verb phrases of main clauses, for example, often get a higher pitch in English than the verb phrases of subordinate clauses. For example, in the most common pronunciation of the sentence <em>The man that you saw yesterday is here, is here</em> gets a higher pitch than <em>saw yesterday.</em> This is because <em>saw yesterday</em> is the subordinate, or embedded verb, phrase and <em>is here</em> is the main verb phrase. But Robert Van Valin and I, in a three-year National Science Foundation project dedicated to the study of intonation and its relation to syntax in five Amazonian languages, found no evidence that Pirahã uses intonation as an alternative marker of recursion. Now, Pirahã intonation does group sets of sentences together in paragraphs and stories, but this is not recursion in the grammar proper, at least not according to the entire history of Chomskyan grammar (though many linguists disagree with Chomsky and do place stories in the grammar—I have no quarrel at all with these other schools of linguistics in this sense). It is recursion in reasoning. In fact, many specialists on the role of intonation in human speech believe that it would be naive to try to link intonation directly to the structure of sentences rather than to the meanings of sentences and how they are used in stories. If this is correct, then intonation has nothing conclusive to say about whether a language has recursion or not.</p>
+<p>Confusing language and reasoning is something that we have already seen to be a serious mistake. It is easy to confuse the two because reasoning involves many of the cognitive operations that some linguists associate with language, including recursion. Herbert Simon’s classic 1962 article, “The Architecture of Complexity,” gives a fascinating example of recursion outside of language. Simon’s example even shows how recursion can help your business! His example is worth citing in full:</p>
+<p><em>There once was</em> [sic] <em>two watchmakers, named Hora and Tempus, who manufactured very fine watches. Both of them were highly regarded, and the phones in their workshops rang frequently. New customers were constantly calling them. However, Hora prospered while Tempus became poorer and poorer and finally lost his shop. What was the reason?</em></p>
+<p><em>The watches the men made consisted of about</em> 1,000 <em>parts each. Tempus had so constructed his that if he had one partially assembled and had to put it down—to answer the phone, say—it immediately fell to pieces and had to be reassembled from the elements. The better the customers liked his watches the more they phoned him and the more difficult it became for him to find enough uninterrupted time to finish a watch.</em></p>
+<p><em>The watches Hora handled were no less complex than those of Tempus, but he had designed them so that he could put together subassemblies of about ten elements each. Ten of these subassemblies, again, could be put together into a larger subassembly and a system of ten of the latter constituted the whole watch. Hence, when Hora had to put down a partly assembled watch in order to answer the phone, he lost only a small part of his work, and he assembled his watches in only a fraction of the man-hours it took Tempus.</em></p>
+<p>This watchmaking example has nothing to do with language. So by this example, and many others, we know that human reasoning is recursive. In fact we know that many things in the world apart from humans are recursive (even atoms manifest recursivelike hierarchies in their construction from subatomic particles). Familiar Russian matrioshka dolls illustrate another type of recursion, known as nesting, where one doll is placed inside another of the same type, and that pair into another of the same type, and so on.</p>
+<p>An important inference from the presence of recursion is this: if a language has recursion then there should be no longest sentence in the language. For example, in English any sentence that someone utters can be made longer. <em>The cat that ate the rat is well</em> can be extended to <em>The cat that ate the rat that ate the cheese is well,</em> and so on.</p>
+<p>Crucially, <em>none of these diverse types of evidence for recursion is found in Pirahã.</em> The story about the panther that Kaaboogí told me is typical. No evidence along any of these dimensions is found in that or other Pirahã texts for recursion in the grammar.</p>
+<p>Most interesting, perhaps, for illustrating my point against recursion, is a sentence like the following, because there is no obvious way to make it longer in Pirahã: <em>Xahoapióxio xigihí toioxaagá hi kabatií xogií xi mahaháíhiigí xiboítopí piohoaó, hoíhio</em> (Another day an old man slowly butchered big tapirs by the side of the water, two of them). Anything else added to this, like the word <em>brown</em> in <em>big brown tapirs,</em> would render the sentence ungrammatical. Phrases can have a single modifier (phrases that are found in natural stories—I do have some artificial examples where I was able to get some Pirahãs to place more modifiers in the phrase, but they didn’t like it and never use more than one in a phrase in natural stories). A second one can occasionally be inserted at the end of the sentence as an afterthought—like the <em>two of them</em> at the end of this sentence. If this is correct, then Pirahã is finite and cannot be recursive.</p>
+<p>I should rule out one final bit of potential evidence for recursion in Pirahã that has been suggested to me by several linguists. The first linguist to do so was Professor Ian Roberts, the head of linguistics at Cambridge University, during a debate with me on the BBC’s radio program <em>Material World.</em> He claimed that Pirahã must have recursion if it can add or repeat words or phrases after sentences, because, as he put it, “Iteration is a form of recursion.” Logically this is correct. Putting one phrase inside another at the end of a sentence is mathematically identical to repeating elements after a phrase or sentence. If I say, “John says that he is coming,” the sentence <em>that he is coming</em> is placed inside the sentence <em>John says . . .</em> at the end. This is known as “tail recursion.”Mathematically or logically this is equivalent to saying, “John runs, he does,” where the sentence <em>he does</em> is just a sentence repeated after another sentence. Pirahã can, indeed must, have one sentence follow another sentence, as in “<em>Kóxoí soxóá kahapii. Hi xaoxai hiaba</em>” (Kóxoí already left. He is not here). But if mere repetition, iteration, of one sentence after another satisfies Hauser, Chomsky, and Fitch’s definition of recursion (as some of their followers tell me it would), then it is found in species other than <em>Homo sapiens.</em></p>
+<p>Our Rhodesian ridgeback, Bentley, is an emotional soul. Among the things he gets emotional about is other dogs passing our house—he wants to eat them or otherwise harm them. He always barks when they go by. I for one don’t think his barks are devoid of content. I think he is communicating with his barks something like “Get the hell out of my yard.” But it doesn’t matter what exactly he is communicating—he is communicating <em>something</em> with his barks. Now sometimes Bentley barks once or twice and then stops. This is because the dog he is barking at has left the lawn. Other times he barks repeatedly, that is, he iterates his barks, and this indicates his rising anger/desire that the dog leave our yard (or whatever it means to him). What does his repeated barking mean? Well, if iteration just is a form of recursion, it means Bentley has recursive barking. But Bentley is not a human. So recursion isn’t limited to humans. Or, more sensibly, iteration shouldn’t be considered recursion.</p>
+<p>Yet the reasons that lead me to claim that Pirahã lacks recursion are not merely negative. Saying that a language lacks recursion makes claims about what the language’s grammar will look like. We want to look at those predictions and see how they fare with respect to Pirahã.</p>
+<p>The pervasive immediacy of experience principle (IEP) could explain why Pirahã lacks embedded sentences. Consider relative clauses again, as in <em>The man who is tall is on the path.</em> This English sentence is composed of two smaller sentences: the main sentence, <em>The man is on the path,</em> and the embedded, or subordinate, sentence, <em>who is tall.</em> The new information, or what linguists call the assertion, is found in the main sentence, <em>The man is on the path.</em> The embedded sentence merely adds some old information shared by the hearer and the speaker—there is a tall man that we both know—and draws attention to a particular man in order to help the hearer know who the man on the path is. This is not an assertion. Embedded sentences rarely, if ever, are used to make assertions. So the IEP predicts that Pirahã will lack embedded sentences because it says that declarative utterances may contain only assertions. Containing an embedded clause would be to contain a nonassertion, in violation of the IEP.</p>
+<p>Another example comes from sentences like <em>The dog’s tail’s tip is broken.</em> This is something the Pirahãs would say regularly, since a high proportion of their dogs have damaged tails. One evening I noticed a dog in the village with the end of its tail missing. I said, <em>“Giopaí xígatoi xaóxio baábikoi,”</em> which is how I thought I should say, “The dog’s tail’s tip is malformed.” It literally means “Dog tail at the end is bad.” The Pirahãs responded, “<em>Xígatoi xaóxio baábikoi</em>” (The tip of the tail is bad).I didn’t think anything about the omission initially because omissions are common in any language when speakers share information in common—no need to restate that we’re talking about a dog; we all knew that already.</p>
+<p>But as I investigated further, the only way to get something like <em>The dog’s tail’s tip is broken</em> is <em>“Giopaí xígatoi baábikoi, xaóxio”</em> (The dog’s tail is bad, on the tip). What I discovered is that no more than one possessor can occur in a given phrase (<em>dog</em> is the possessor of <em>tail,</em> for example). If there were no recursion in the language, this would make sense. You can get one possessor without recursion by simply having a cultural or linguistic understanding shared by speakers that when two nouns are next to each other, the first one is interpreted as the possessor. But if you have two possessors in the clause, one of them has to be in a phrase that is within another phrase.</p>
+<p>Pirahã lacks these structures. It is hard for many linguists to see how culture could be responsible for this. And I agree that the route from a cultural constraint to complex noun phrases can seem a bit circuitous.</p>
+<p>Starting with subordinate clauses, the first thing to remember is that according to the IEP, the embedded clause is not allowed because it is not an assertion. The question this raises is how the grammar of Pirahã could eliminate the unwanted embedded clauses in order to obey a cultural taboo.</p>
+<p>There are three ways that it could do this. First, the grammar could prohibit the emergence of rules that create recursive structures—rules that are technically expressed like <em>A</em> → <em>AB.</em> If the grammar does not contain this rule, it cannot place one phrase or sentence immediately inside another phrase or sentence of the same type.</p>
+<p>Second, the grammar could fail to have evolved recursion. There is a growing consensus among linguists that grammars without recursion precede grammars with recursion evolutionarily and that even in grammars with recursion, nonrecursive structures are used in most environments.</p>
+<p>A final possibility is that Pirahã grammar simply fails to provide for structure in sentences. There would be no recursion because in effect there would be no phrases, only words placed side by side and interpreted as a sentence.</p>
+<p>Without syntax, Pirahã’s grammar would lack verb phrases, noun phrases, embedded sentences, and so forth. In fact it does seem possible to interpret all Pirahã sentences as beads on a string, with no need for more complex structure of the type that phrase structures would predict. A sentence would be simply the list of words needed to complete the meaning of a verb, plus a minimum of modification, usually no more than one adjectivelike or adverblike modifier per sentence. Pirahã would lack syntax, in my rather extreme view, to guarantee that nonassertions do not appear within declarative sentences, in violation of the IEP. The IEP allows declarative clauses to contain only assertions. Therefore the IEP constrains the grammar of Pirahã.</p>
+<p>Take the original relative clause sequence I overheard from Kóhoi: “Hey Paitá, bring back some nails. Dan bought those very nails. They are the same.” There are two assertions here, <em>Dan bought the nails</em> and <em>the nails are the same.</em> But in the English relative <em>the nails that Dan bought,</em> there is no assertion. So the immediacy of experience principle is violated.</p>
+<p>If my reasoning here is on the right track, what other predictions does it make about Pirahã grammar? Exactly the right ones, it turns out.</p>
+<p>It predicts that Pirahã will lack coordination, because this also involves the general property of recursion, something that has been eliminated from the grammar of Pirahã, as we have already discussed, in order to avoid having embedded nonassertions in declarative assertions. Coordinate structures are of course common in English and many other languages. Their recursion is shown in examples like <em>John and Bill came to town yesterday,</em> where the noun <em>John</em> and the noun <em>Bill</em> both occur in the longer noun phrase <em>John and Bill.</em> Coordination of verbs and sentences is also ruled out, so Pirahã has no sentences like <em>Bill ran and Sue watched</em> or <em>Sue ran and ate.</em></p>
+<p>The IEP’s restriction against recursion also correctly predicts that Pirahã will lack disjunction, as in <em>Either Bob or Bill will come, I had some white meat, chicken or pork,</em> and so on. Pirahã lacks disjunction because it, like coordination, requires putting phrases inside of other phrases—recursion. The Pirahãs would say, for example, rather than “Either Bob or Bill will come,” something like “Bob will come. Bill will come. Hmm. I don’t know.”</p>
+<p>These do not exhaust the predictable consequences of the lack of recursion in Pirahã. Other predictions are being tested now by a range of psychologists and anthropologists. This is interesting because the fact that there are testable predictions of the immediacy of experience principle shows that it is not simply a negative statement about what Pirahã lacks, but a positive statement about the nature of Pirahã grammar and how that grammar differs from many well-known grammars.</p>
+<p>The statement is positive because Pirahã imposes and enforces a cultural value on its grammar. It is not, again, simply that Pirahã accidentally lacks recursion. It doesn’t want it; it doesn’t allow it because of a cultural principle.</p>
+<p>In addition to the Pirahãs’ grammar, the IEP helps to account for the other gaps in the language we have already discussed, such as the absence of number and numerals, the absence of color words, the simplicity of the kinship system, and so on.</p>
+<p>The prohibition against abstractions and generalizations of the immediacy of experience principle is a very narrow prohibition. It by no means entails that Pirahã culture prohibits abstract thought. It is also not a prohibition against all abstractions or generalizations in the language. For example, the Pirahãs have words for kinds or categories of things, as all languages do, and these words, usually nouns, are by definition a type of abstraction. How is this seeming contradiction tolerated in Pirahã?</p>
+<p>Grammar had once seemed to me too complicated to derive from any general human cognitive properties. It appeared to cry out for a specialized component of the brain, or what some linguists call a language organ or instinct. But such an organ becomes implausible if we can show that it is not needed because there are other forces that can explain language as both ontogenetic and phylogenetic fact.</p>
+<p>Like most linguists today, I once believed that culture and language were largely independent. But if I am correct that culture can exercise major effects on grammar, then the theory I committed most of my research career to—the theory that grammar is part of the human genome and that the variations in the grammars of the world’s languages are largely insignificant—is dead wrong. There does not have to be a specific genetic capacity for grammar; the biological basis of grammar could also be the basis of gourmet cooking, of mathematical reasoning, and of medical advances. In other words, it could just be human reasoning.</p>
+<p>On the evolution of grammar, for example, many researchers have underscored the fact that our ancestors had to talk about things and events, about relative quantities, and about the contents of the minds of fellow members of their species, among other things. If you can’t talk about things and what happens to them (events) or what they are like (states), you can’t talk about anything. So all languages need verbs and nouns. But I have been convinced by the research of others, as well as my own, that if a language has these, then the basic skeleton of the grammar largely follows. The meanings of verbs require a certain number of nouns, and those nouns plus the verb make simple sentences, ordered in logically restricted ways. Other permutations of this foundational grammar follow from culture, contextual prominence, and modification of nouns and verbs. There are other components to grammar, but not all that many. Put like this, as I began to see things, there really doesn’t seem to be much need for grammar proper to be part of the human genome, as it were. Perhaps there is even much less need for grammar as an independent entity than we might have once thought.</p>
+<p>Although a language might possess a strong cultural constraint, like the immediacy of experience principle in Pirahã, such constraints cannot override general forces and results of evolution nor the nature of what it means to communicate. Nouns and certain kinds of generalizations are part of our evolutionary heritage and cultural principles can not override these, even though they do show that culture and grammar are intimately connected.</p>
+<p>On the other hand, research is ongoing. The issue of whether Pirahã does or does not have recursion is far from settled. But the evidence being gathered and interpreted by independent researchers is consistent with my conclusions.</p>
+<p>One phenomenon that has attracted my attention since the beginning of my reflection on the possible connections between grammar and culture is that theories, regardless of how useful they are in many ways, can impede novel thinking. Our theories are like cultures. Just as there are gaps in Pirahã culture for counting, color words, and so on, some theories can have gaps where other theories might have robust explanatory mechanisms. In this sense both theories and cultures shape our minds’ ability to perceive the world, sometimes positively and sometimes not so positively, depending on the goals they set for themselves.</p>
+<p>What are the implications for Pirahã grammar if it lacks recursion?First of all, a lack of recursion in its grammar would mean that its grammar is not infinite—there would be an upper limit to the number of sentences generated by it. But this would not mean that the <em>language</em> is finite, because recursion is found in Pirahã stories—parts of stories are built up, there are subplots, characters, events, and all sorts of relationships among all of these. This is interesting because it means that the role of grammar in the infinitude of a language is not so important—you can have a nonfinite language with a finite grammar, something Chomsky’s recent theory on the importance of recursion can neither accommodate nor elucidate. This would also entail that you could specify the upper size of a particular sentence in that language, though not the upper size of a discourse. That sounds bizarre for a language. Some linguists or cognitive scientists might even leap to the conclusion that an absence of a recursion could render a language deficient in some way. But this would not be correct.</p>
+<p>Even if a language’s grammar is finite, this doesn’t mean that the grammar is not rich or interesting, however. Think of something like chess, which has also got a finite number of moves. This finitude of chess moves doesn’t have much practical effect, though. Chess is an enormously productive game that can and has been played for centuries. The fact that chess is finite tells us very little about its richness or its importance. The Pirahãs discourse is rich, artistic, and able to express anything that they want to say within their self-imposed parameters.</p>
+<p>So if there were a finite grammar, this wouldn’t mean that the grammar was spoken by abnormal humans, nor would it mean that it was a poor source of communication. It wouldn’t even mean that the language with that grammar was finite. If there were such languages, however, where and under what conditions might we expect to find them?</p>
+<p>If you build into the foundation of your theory the constraint that all grammars are nonfinite and that they must therefore be recursive, the absence of recursion will elude you. Your theory will have hindered you, just as my culture’s lack of experience with dangerous animals outside of zoos could render me easy caiman prey.</p>
+<p>On the other hand, if our theory doesn’t require that recursion be a crucial component of language, where does recursion come from? No one can dispute that it is found in most human languages. Nor can anyone seriously doubt that it is found in all human thought. My view is that recursion comes from the brain’s general cognitive powers. It is part of how all humans think—even when it is not part of the structures of their languages. Humans have recursion because they are smarter than species without it, though recursion could be a cause or an effect of this greater intelligence—no one knows right now, regardless of what claims are found in the literature.</p>
+<p>In fact, as we saw earlier, Herbert Simon claimed almost exactly this in “The Architecture of Complexity.” As I noted, in this article he argued that recursive structures are fundamental to information processing and that we use them not just in language, but also in economics and problem solving.</p>
+<p>And recursion is crucial in almost all of the stories that we tell. Surprisingly, human discourses have never been the subject of Chomskyan research. But as we just saw, this is a massive oversight, since recursion can be found outside the grammar, tremendously reducing the importance of the grammar in understanding the nature of language and communication. Discourses are purposely ignored by Chomsky as social or at least nonlinguistic constructs. Yet when we examine the stories that the Pirahãs tell, we find recursion, not in individual sentences, but in the fact that ideas are built inside of other ideas—some parts of the story are subordinate to other parts of the story. Such recursion is not part of the syntax proper, but it is part of the way that they tell their stories.</p>
+<p>We might propose, following Simon, that recursion is absolutely essential to the human brain, and that it derives from the fact that humans have larger brains or brains with more convolutions than other species. Ultimately, though, it’s not even clear that recursion is unique to humans. And it most certainly is not clear that recursion is part of grammar, rather than coming into languages because it is a useful, preexistent cognitive tool.</p>
+<p>The crucial application of Simon’s proposal for studies of language is that hierarchical structures found in languages that have so long been the focus of Chomskyan research are “emergent” properties, rather than basic properties of language. That is, they appear in languages in response to the interaction of the brain’s ability to think recursively and problems or situations in the culture or society that are more efficiently communicated recursively.</p>
+<p>If recursion is proposed to be, as Chomsky and many of his followers would have it, the core faculty of the human language capacity, and if recursion is absent in one or more languages, then the Chomskyan proposal is falsified. But if recursion is not the core faculty, then Pirahã suggests that the kind of theory of language we need is not one in which language is an instinct. Instead, we might be better served by looking at syntax, along with the other components of language, as one part of the solution to the problem of communication, that is, the need to communicate appropriately in a specific environment.</p>
+<p>I doubt Pirahã is the only language that will challenge our thinking about recursion, human language, and the interaction of culture and grammar. If we look at other groups—groups in New Guinea, Australia, and Africa—we are likely to find similar cases of esoteric communication and societies of intimates that could lead to the lack of recursion. Esoteric communication could very well contribute to our explanation of the some of the more controversial aspects of Pirahã grammar.</p>
+<p>The usefulness of the concept of esoteric communication for understanding Pirahã is demonstrated in part in current research by the psychologists Thomas Roeper of the University of Massachusetts and Bart Hollebrandse of the University of Groningen. This research suggests that recursion might be a device that is useful for packing sentences with more information in societies with a higher degree of exoteric communication where more complex information is the rule, such as modern industrialized societies. But in a society like the Pirahãs’, the esoteric nature of their communication renders recursion less useful, while the immediacy of experience principle is incompatible with it.</p>
+<p>What we need to look for are groups that have been isolated, for various reasons, from larger cultures. The Pirahãs’ isolation is due to their very strong sense of superiority to and disdain for other cultures. Far from thinking of themselves as inferior because they lack anything found in other languages and cultures, they consider their way of life the best possible way of life. They’re not interested in assimilating other values. So we see little seepage from other cultures or languages into Pirahã. And these are the kinds of culture-language pairings we need to be studying.</p>
+<p>One way to describe the creative use of language is that human language, without reference to recursion, is free from control by the environment and is not restricted to merely “practical” functions. The American linguist Charles Hockett called this the “productivity” of language. We can talk about anything, in principle, as the received wisdom goes.</p>
+<p>Of course, practically this is false. We cannot talk about just anything. We are ignorant of most things there are to talk about. We do not even know that they exist. Moreover, many things we do or encounter every day, like the faces of people we have seen, directions to a familiar restaurant, and so on, can be very hard to talk about. That is why we find pictures and maps and other visual aids so useful.</p>
+<p>Nevertheless, the idea of creativity in language has been rightly influential for nearly four centuries. There is an obvious appeal to the notion that humans are special and that they are, at least in their minds, unfettered by the limitations that beset the rest of the animal kingdom. The French philosopher René Descartes, whom Chomsky popularized among linguists, believed that there is a separate mental, creative essence that distinguishes humans from animals. Hovering over this idea is the concomitant view that man has a spiritual essence alongside his physical structure. This dualism has a “breath of God”smell about it, namely, that human language is profoundly “special,”the idea that something animates the physical form of man, the mere dust that houses our consciousness.</p>
+<p>Instead of this quasi-religious and somewhat mystical dualism that underlies much of the work of Descartes and, on some readings, Chomsky’s work, I would propose a more concrete understanding of language. Language is a by-product of general properties of human cognition, rather than a special universal grammar, in conjunction with the constraints on communication that are common to evolved primates (such as the need for words to appear out of the mouth in a certain order, the need for units like words for things and events, and so on), and the overarching constraints of specific human cultures on the languages that evolve from them. It is clear that the original cultural circumstances can be lost. For example, a Pirahã moving to and adapting to life in Los Angeles would lose many of the cultural constraints of Pirahãs living along the Maici. His or her language might change. But if it didn’t, at least initially, this would show us that languages can indeed be separated from cultures.</p>
+<p>What I am suggesting here is trying to understand language in a situation as close to the original cultural context as possible. If this is on the right track, one cannot do linguistic field research apart from these cultural contexts—so I could not really hope to understand Pirahã by studying a Pirahã speaker in Los Angeles, or Navajo by studying a Navajo speaker in Tucson. I would need to study a language in its cultural context. I could study a language outside of its cultural context of course, and still discover many interesting things. But fundamental pieces to the puzzle of its grammar would be missing.</p>
+
+  </div>
+</article>
+
+
+        
+
+        
+
+
+
+    <aside class="card border noPrint" id="section-tree-item-sapiens_branches_americas_amazon_articles_everett_piraha_02_LANGUAGE_15_Recursion_Language_as_a_Ma_md">
+        <div class="card-title bg-light-gray border d-flex justify-content-between">
+            <a href="https://vishvAsa.github.io/notes/sapiens/branches/americas/amazon/articles/everett_piraha/02_LANGUAGE/15_Recursion_Language_as_a_Ma/">15 Recursion: Language as a Matrioshka Doll </a>
+            <a data-toggle="collapse" href="#section-tree-item-body-sapiens_branches_americas_amazon_articles_everett_piraha_02_LANGUAGE_15_Recursion_Language_as_a_Ma_md" role="button" aria-expanded="false" aria-controls="section-tree-item-body-sapiens_branches_americas_amazon_articles_everett_piraha_02_LANGUAGE_15_Recursion_Language_as_a_Ma_md" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+        </div>
+        <nav id="section-tree-item-body-sapiens_branches_americas_amazon_articles_everett_piraha_02_LANGUAGE_15_Recursion_Language_as_a_Ma_md" class="card-body p-0 collapse">
+            
+            <li>draft: false</li>
+            
+            <li>iscjklanguage: false</li>
+            
+            <li>title: 15 Recursion: Language as a Matrioshka Doll</li>
+            
+        </nav>
+    </aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1 noPrint" role="contentinfo">
+  
+
+  <div id="div_foot_nav_bar" class="row">
+    <a href="https://vishvAsa.github.io/notes/search"  class="btn btn-light btn-sm">🥽🔦</a>
+    <div class="row col  d-flex justify-content-center">
+      <div><a id="previousPageFoot" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+      <div ><a id="nextPageFoot" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+    </div>
+      <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+      </ul>
+  </div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vishvAsa/notes/issues/new" >
+      ✉️Contact
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      
+      <a href="https://github.com/vishvAsa/notes/actions/workflows/build.yml"><img src="https://github.com/vishvAsa/notes/actions/workflows/build.yml/badge.svg"> Built </a> on 2026 Feb 12 01:34:45 UTC. (<a href="http://google.com/search?q=01%3a34%3a45%20UTC to IST">IST</a>)
+    </div>
+  </div>
+</footer>
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-33H08JSLQR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-33H08JSLQR');
+</script>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_uiLib.onDocumentReadyTasks();
+  </script>
+  
+</html>

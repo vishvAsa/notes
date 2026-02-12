@@ -1,0 +1,447 @@
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'Copy'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+buff.CopyFrom(buff2); // Not typesafe
+buff = buff2; // Type safe
+buff.MergeFrom(buff2);
+// faster: no clearing
+T b = new T(b2); '''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'clear'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'buff.Clear()'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'delete subrange'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'proto->mutable_rep_field()->DeleteSubrange(i, 1);'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'name'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+// XyzAbc in proto definition
+set_xyzabc(), clear_xyzabc(),
+xyzabc()'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'name'
+Subfeature = 'If name is a C++ keyword'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'set_xyzabc_(), xyzabc_()'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'optional field'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'buff.has_opt_fld()'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'scalar field'
+Subfeature = 'get'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'auto& v = buff.attr()'
+Description = '''
+returns an immutable object in case of a protocol buffer.
+If the field is not set, returns the default value (not null, but an empty sub-message in case of message fields).'''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'scalar field'
+Subfeature = 'set'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'buff.set_attr(val), clear_attr()'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'scalar submessage'
+Subfeature = 'get'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+auto& s = buff.sub_msg(); // Returns a static default instance - a new one isn't created every time.
+
+'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'scalar submessage'
+Subfeature = 'set'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+auto& s = buff.mutable_sub_msg();
+s.ParseFromString()
+s.ParseFromStringPiece()
+s.MergeFromStringPiece()'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'scalar submessage'
+Subfeature = 'release pointer'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+#include "net/proto2/contrib/arena_utils/public/message_movers.h"
+using proto2::contrib::arena_utils::ArenaSafeUniquePtr;
+using proto2::contrib::arena_utils::ReleaseLast;
+using proto2::contrib::arena_utils::AddAllocated;
+
+Child* child = parent->release_child();        
+auto child = RELEASE_MESSAGE_FIELD(parent, child); // arena compat'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 3'
+Feature = 'scalar submessage'
+Subfeature = 'set preallocated'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+#include "net/proto2/contrib/arena_utils/public/message_movers.h"
+Child* c = new Child;
+parent->mutable_results()->AddAllocated(c);
+
+auto c = MakeArenaSafeUnique<Child>(nullptr);
+AddAllocated(std::move(c), parent->mutable_results); //Arena'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'repeated group'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Outer::MiddleAA::Inner x = 
+outerMsg.middleAA(i).inner(j);
+int k = inner_size();
+'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'repeated message'
+Subfeature = 'get'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+buff.attr(i).subattr(j)
+buff.attr() // Returns const RepeatedPtrField - can iterate
+buff.mutable_foo()'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'repeated message'
+Subfeature = 'size'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'buff.attr_size()'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'repeated message'
+Subfeature = 'add'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+auto& a = buff.add_attr()
+buff.add_attr(value) // for non-message attr'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'repeated message'
+Subfeature = 'edit'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'auto& a = buff.mutable_attr(i)'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'repeated message'
+Subfeature = 'clear'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'buff.clear_attr()'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'repeated message'
+Subfeature = 'release submessage'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Result* r = src->mutable_results()->ReleaseLast();        
+auto r = ReleaseLast(src->mutable_results()); // Arena compat'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'repeated message'
+Subfeature = 'add preallocated'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Child* c = new Child;
+parent->mutable_results()->AddAllocated(c);
+
+auto c = MakeArenaSafeUnique<Child>(nullptr);
+AddAllocated(std::move(c), parent->mutable_results); // Arena'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'repeated string'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+msg.add_foo(value);
+msg.set_foo(idx, val);
+// also has repeated message like api
+'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'repeated int'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+
+msg.add_foo(value);
+msg.set_foo(idx, val);'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'enum'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+bool Foo_IsValid(int value)
+const string& Foo_Name(int value)
+bool Foo_Parse(const string& name, Foo* value)
+'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'extension'
+Subfeature = 'scalar submessage'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'm.MutableExtension(fldName)'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'extension'
+Subfeature = 'scalar field'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Foo foo;
+foo.SetExtension(bar, 15.66);'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2_'
+Feature = 'extension'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+HasExtension(proto_package::fld_name), // non repeated extensions only in debug builds
+ ClearExtension(), // for both repeated and non repeated exts
+GetExtension(), 
+MutableExtension(), 
+AddExtension(), 
+ExtensionSize()'''
+Description = '''
+Each of these methods takes, as its first parameter, an extension identifier (described below), which identifies an extension field. The remaining parameters and the return value are exactly the same as those for the corresponding accessor methods that would be generated for a normal (non-extension) field of the same type as the extension identifier.
+So, GetExtension by default returns an empty proto.'''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2_'
+Feature = 'extension'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Foo foo;
+for (int i = 0; i < kSize; ++i) {
+  foo.AddExtension(repeated_bar, i)
+}'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2_'
+Feature = 'extension'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+assert(foo.ExtensionSize(repeated_bar) == kSize)
+for (int i = 0; i < kSize; ++i) {
+  assert(foo.GetExtension(repeated_bar, i) == i)
+}'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'serialize'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+str = foo.SerializeAsString();
+'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'serialize'
+Subfeature = 'ascii'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+foo.ToASCII(string* output)  // deprecated
+#include "net/proto2/public/text_format.h"
+proto2::TextFormat::PrintToString(this, output)
+foo.DebugString()'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'deserialize'
+Subfeature = 'ascii'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'bool_code =  foo.ParseASCII(str_input)'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'deserialize'
+Subfeature = 'ascii'
+Importance = ''
+"Implementation Type" = 'function'
+Syntax = '''
+#include "net/proto2/public/text_format.h"
+proto2::TextFormat::Parse(&str, &some_proto)
+proto2::TextFormat::ParseFromString(input, this)'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'deserialize'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'method'
+Syntax = 'foo.ParseFromString(data)'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'deserialize'
+Subfeature = 'caveat'
+Importance = ''
+"Implementation Type" = 'caveat'
+Syntax = ''
+Description = 'String corresponding to one type can often be forced into another without complaint.'
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'IO'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+RecordReader reader(file);
+reader.Read(pb);'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'IO'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+RecordWriter w(file);
+w.Write(pb);'''
+Description = ''

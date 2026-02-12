@@ -1,0 +1,751 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Misc functionals</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.143.0">
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/notes/math/linAlg/matrix_functions/misc_functionals/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/notes/math/linAlg/matrix_functions/misc_functionals/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:url" content="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/">
+  <meta property="og:site_name" content="Vishvas&#39;s notes">
+  <meta property="og:title" content="Misc functionals">
+  <meta property="og:description" content="Functionals over square matrices Also see functionals over &#43;ve definite A.
+Determinant of square A Definitions Det(A) or \(|A|\) : The recursive defn. Cofactor of \(A_{1,1}\): \(C_{1,1}\) = det of submatrix (minor) of A. Defn by properties: 1: det I = 1. 2: If 2 rows are equal, det(A) = 0. 3: det \(A\) depends linearly on first row.
+Properties So, there is sign change in Det(A) with row exchanges. Also, Det(A) is unchanged with \(row_{1} &#43;= k row_{2}\). So, 0 row means det \(A\) = 0. Also, for L or U, just multiply diagonal. Also, det \(A\) = 0 iff \(A\) singular.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="math">
+
+  <meta itemprop="name" content="Misc functionals">
+  <meta itemprop="description" content="Functionals over square matrices Also see functionals over &#43;ve definite A.
+Determinant of square A Definitions Det(A) or \(|A|\) : The recursive defn. Cofactor of \(A_{1,1}\): \(C_{1,1}\) = det of submatrix (minor) of A. Defn by properties: 1: det I = 1. 2: If 2 rows are equal, det(A) = 0. 3: det \(A\) depends linearly on first row.
+Properties So, there is sign change in Det(A) with row exchanges. Also, Det(A) is unchanged with \(row_{1} &#43;= k row_{2}\). So, 0 row means det \(A\) = 0. Also, for L or U, just multiply diagonal. Also, det \(A\) = 0 iff \(A\) singular.">
+  <meta itemprop="wordCount" content="1074">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Misc functionals">
+  <meta name="twitter:description" content="Functionals over square matrices Also see functionals over &#43;ve definite A.
+Determinant of square A Definitions Det(A) or \(|A|\) : The recursive defn. Cofactor of \(A_{1,1}\): \(C_{1,1}\) = det of submatrix (minor) of A. Defn by properties: 1: det I = 1. 2: If 2 rows are equal, det(A) = 0. 3: det \(A\) depends linearly on first row.
+Properties So, there is sign change in Det(A) with row exchanges. Also, Det(A) is unchanged with \(row_{1} &#43;= k row_{2}\). So, 0 row means det \(A\) = 0. Also, for L or U, just multiply diagonal. Also, det \(A\) = 0 iff \(A\) singular.">
+<script type="text/javascript">
+    
+    let baseURL = "https:\/\/vishvAsa.github.io\/notes\/";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022build_img\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/actions\/workflows\/build.yml\/badge.svg\u0022,\u0022build_url\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/actions\/workflows\/build.yml\u0022,\u0022contactlink\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/issues\/new\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/edit\/content\/\u0022,\u0022js_extras\u0022:[\u0022mathjax\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022देवः\u0022,\u0022url\u0022:\u0022..\/devaH\/\u0022},{\u0022title\u0022:\u0022आगमः\u0022,\u0022url\u0022:\u0022..\/AgamaH\/\u0022},{\u0022title\u0022:\u0022आगमः शैवः\u0022,\u0022url\u0022:\u0022..\/AgamaH_shaivaH\/\u0022},{\u0022title\u0022:\u0022आगमः वैष्णवः\u0022,\u0022url\u0022:\u0022..\/AgamaH_vaiShNavaH\/\u0022},{\u0022title\u0022:\u0022रामानुजीयम्\u0022,\u0022url\u0022:\u0022..\/rAmAnujIyam\/\u0022},{\u0022title\u0022:\u0022माध्वम्\u0022,\u0022url\u0022:\u0022..\/mAdhvam\/\u0022},{\u0022title\u0022:\u0022आगमः ब्राह्मः\u0022,\u0022url\u0022:\u0022..\/AgamaH_brAhmaH\/\u0022},{\u0022title\u0022:\u0022कल्पान्तरम्\u0022,\u0022url\u0022:\u0022..\/kalpAntaram\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022वेदाः\u0022,\u0022url\u0022:\u0022..\/vedAH\/\u0022},{\u0022title\u0022:\u0022वेदाः - ऋक्\u0022,\u0022url\u0022:\u0022..\/vedAH_Rk\/\u0022},{\u0022title\u0022:\u0022वेदाः - यजुः\u0022,\u0022url\u0022:\u0022..\/vedAH_yajuH\/\u0022},{\u0022title\u0022:\u0022वेदाः - साम\u0022,\u0022url\u0022:\u0022..\/vedAH_sAma\/\u0022},{\u0022title\u0022:\u0022पुराणम्\u0022,\u0022url\u0022:\u0022..\/purANam\u0022},{\u0022title\u0022:\u0022पुराणम् वैष्णवम्\u0022,\u0022url\u0022:\u0022..\/purANam_vaiShNavam\/\u0022},{\u0022title\u0022:\u0022महाभारतम्\u0022,\u0022url\u0022:\u0022..\/mahAbhAratam\/\u0022},{\u0022title\u0022:\u0022रामायणम्\u0022,\u0022url\u0022:\u0022..\/rAmAyaNam\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvyam\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022ಕನ್ನಡ\u0022,\u0022url\u0022:\u0022..\/kannaDa\/\u0022},{\u0022title\u0022:\u0022त्रिपिटकम्\u0022,\u0022url\u0022:\u0022..\/tipiTaka\/\u0022},{\u0022title\u0022:\u0022पाळयः\u0022,\u0022url\u0022:\u0022..\/pALi\/\u0022},{\u0022title\u0022:\u0022भाषान्तरम्\u0022,\u0022url\u0022:\u0022..\/bhAShAntaram\/\u0022},{\u0022title\u0022:\u0022English Lit\u0022,\u0022url\u0022:\u0022..\/english\/\u0022},{\u0022title\u0022:\u0022Book pub\u0022,\u0022url\u0022:\u0022..\/book-pub\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vishvAsa.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    
+    var pageRelUrlTree = {};
+</script>
+
+    
+    <script type="text/javascript">
+  let pageVars = {};
+  pageVars.pageUrlMinusBasePath = "\/notes\/math\/linAlg\/matrix_functions\/misc_functionals\/".replace(basePath, "/");
+  pageVars.pageParams = {};
+  pageVars.pageSource = "math\/linAlg\/matrix_functions\/misc_functionals.md";
+  console.log(pageVars.pageSource);
+  var pageDefaults;
+  for (let possiblePageDefaults of pageDefaultsList) {
+    if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+      pageDefaults = possiblePageDefaults.values
+    }
+  }
+    
+</script>
+
+
+    <script src="/notes/webpack_dist/uiLib-bundle.js"></script>
+
+
+<script>
+
+
+MathJax = {
+  tex: {
+    inlineMath: [ ["@#", "#@"], ["\\(", "\\)"] ],
+    displayMath: [ ["$$","$$"], ["\\[", "\\]"] ],
+    processEscapes: true,  
+  },
+  svg: {
+    fontCache: 'global'
+  },
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore|dno"
+  }
+};
+</script>
+<script type="text/javascript" id="MathJax-script" async
+        src="/notes/non_webpack_js/mathjax/tex-svg.js">
+</script>
+
+
+
+
+
+
+    <link rel="stylesheet" href="/notes/webpack_dist/uiLib.css">
+<link rel="stylesheet" href="/notes/css/uiLibPrint.css" media="print" >
+<link rel="stylesheet" href="/notes/css/fonts.css" >
+<link rel="stylesheet" href="/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+
+<link rel="stylesheet" href="/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+
+<link rel="alternate" hreflang="sa-Deva" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/" />
+<link rel="alternate" hreflang="sa-Deva" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=devanagari" />
+
+<link rel="alternate" hreflang="sa-Knda" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=kannada" />
+<link rel="alternate" hreflang="sa-Mlym" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=malayalam" />
+<link rel="alternate" hreflang="sa-Telu" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=telugu" />
+<link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=tamil_superscripted" />
+<link rel="alternate" hreflang="sa-Taml" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=tamil" />
+<link rel="alternate" hreflang="sa-Gran" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=grantha" />
+
+<link rel="alternate" hreflang="sa-Gujr" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=gujarati" />
+<link rel="alternate" hreflang="sa-Guru" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=gurmukhi" />
+<link rel="alternate" hreflang="sa-Shar" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=sharada" />
+<link rel="alternate" hreflang="sa-Dogr" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=dogra" />
+<link rel="alternate" hreflang="sa-Phag" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=phags_pa" />
+<link rel="alternate" hreflang="sa-Tibt" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=tibetan" />
+<link rel="alternate" hreflang="sa-Sidd" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=siddham" />
+<link rel="alternate" hreflang="sa-Newa" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=newa" />
+<link rel="alternate" hreflang="sa-Modi" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=modi" />
+<link rel="alternate" hreflang="sa-Tirh" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=tirhuta_maithili" />
+<link rel="alternate" hreflang="sa-Gong" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=gondi_gujala" />
+<link rel="alternate" hreflang="sa-Gonm" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=gondi_masaram" />
+
+
+<link rel="alternate" hreflang="sa-Orya" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=oriya" />
+<link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=assamese" />
+<link rel="alternate" hreflang="sa-Beng" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=bengali" />
+<link rel="alternate" hreflang="sa-Mtei" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=manipuri" />
+<link rel="alternate" hreflang="sa-Sinh" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=sinhala" />
+<link rel="alternate" hreflang="sa-Limb" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=limbu" />
+<link rel="alternate" hreflang="sa-Lepc" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=lepcha" />
+
+
+<link rel="alternate" hreflang="sa-Cyrl" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=cyrillic" />
+<link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iso" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=iso" />
+<link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=iast" />
+<link rel="alternate" hreflang="sa-Aran" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=urdu" />
+<link rel="alternate" hreflang="sa-Avst" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=avestan" />
+
+<link rel="alternate" hreflang="sa-Brah" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=brahmi" />
+<link rel="alternate" hreflang="sa-Khar" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=kharoshthi" />
+<link rel="alternate" hreflang="sa-Zanb" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=zanbazar_square" />
+<link rel="alternate" hreflang="sa-Bhks" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=bhaiksuki" />
+
+<link rel="alternate" hreflang="sa-Bali" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=balinese" />
+<link rel="alternate" hreflang="sa-Java" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=javanese" />
+<link rel="alternate" hreflang="sa-Laoo" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=lao" />
+<link rel="alternate" hreflang="sa-Laoo-t-sa-Laoo-m0-Laopali" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=lao_pali" />
+<link rel="alternate" hreflang="sa-Mymr" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=burmese" />
+<link rel="alternate" hreflang="sa-Mymr-t-sa-Mymr-m0-Mon" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=mon" />
+<link rel="alternate" hreflang="sa-Cham" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=cham" />
+<link rel="alternate" hreflang="sa-Khmr" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=khmer" />
+<link rel="alternate" hreflang="sa-Thai" href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/?transliteration_target=thai" />
+
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+\(
+% groupings of objects.
+\newcommand{\set}[1]{\left\{ #1 \right\}}
+\newcommand{\seq}[1]{\left(#1\right)}
+\newcommand{\ang}[1]{\langle#1\rangle}
+\newcommand{\tuple}[1]{\left(#1\right)}
+\newcommand{\size}[1]{\left| #1\right|}
+
+\newcommand{\comp}{\circ}
+
+
+% numerical shortcuts.
+\newcommand{\abs}[1]{\left| #1\right|}
+\newcommand{\floor}[1]{\left\lfloor #1 \right\rfloor}
+\newcommand{\ceil}[1]{\left\lceil #1 \right\rceil}
+
+% linear algebra shortcuts.
+\newcommand{\change}{\Delta}
+\newcommand{\norm}[1]{\left\| #1\right\|}
+\newcommand{\dprod}[1]{\langle#1\rangle}
+\newcommand{\linspan}[1]{\langle#1\rangle}
+\newcommand{\conj}[1]{\overline{#1}}
+\newcommand{\der}[1]{\frac{d#1}{dx}}
+\newcommand{\lap}{\Delta}
+\newcommand{\kron}{\otimes}
+\newcommand{\nperp}{\nvdash}
+
+\newcommand{\mat}[1]{\left[ \begin{smallmatrix}#1 \end{smallmatrix} \right]}
+
+% derivatives and limits
+\newcommand{\partder}[2]{\frac{\partial #1}{\partial #2}}
+\newcommand{\partdern}[3]{\frac{\partial^{#3 #1}}{\partial #2^{#3}}}
+\newcommand{\gradient}{\nabla}
+\newcommand{\subdifferential}{\partial}
+
+% Arrows
+\newcommand{\diverge}{\nearrow}
+\newcommand{\notto}{\nrightarrow}
+\newcommand{\up}{\uparrow}
+\newcommand{\down}{\downarrow}
+% gets and gives are defined!
+
+% ordering operators
+\newcommand{\oleq}{\preceq}
+\newcommand{\ogeq}{\succeq}
+
+% programming and logic operators
+\newcommand{\dfn}{:=}
+\newcommand{\assign}{:=}
+\newcommand{\co}{\ co\ }
+\newcommand{\en}{\ en\ }
+
+
+% logic operators
+\newcommand{\xor}{\oplus}
+\newcommand{\Land}{\bigwedge}
+\newcommand{\Lor}{\bigvee}
+\newcommand{\finish}{\Box}
+\newcommand{\contra}{\Rightarrow \Leftarrow}
+\newcommand{\iseq}{\stackrel{_?{=}}}
+
+
+% Set theory
+\newcommand{\symdiff}{\Delta}
+\newcommand{\setdiff}{\backslash}
+\newcommand{\union}{\cup}
+\newcommand{\inters}{\cap}
+\newcommand{\Union}{\bigcup}
+\newcommand{\Inters}{\bigcap}
+\newcommand{\nullSet}{\phi}
+
+
+% graph theory
+\newcommand{\nbd}{\Gamma}
+
+% Script alphabets
+% For reals, use \Re
+
+% greek letters
+\newcommand{\eps}{\epsilon}
+\newcommand{\del}{\delta}
+\newcommand{\ga}{\alpha}
+\newcommand{\gb}{\beta}
+\newcommand{\gd}{\del}
+\newcommand{\gp}{\pi}
+\newcommand{\gf}{\phi}
+\newcommand{\gh}{\eta}
+\newcommand{\gF}{\Phi}
+\newcommand{\gl}{\lambda}
+\newcommand{\gm}{\mu}
+\newcommand{\gn}{\nu}
+\newcommand{\gr}{\rho}
+\newcommand{\gs}{\sigma}
+\newcommand{\gth}{\theta}
+\newcommand{\gx}{\xi}
+\newcommand{\gw}{\omega}
+
+\newcommand{\sw}{\sigma}
+\newcommand{\SW}{\Sigma}
+\newcommand{\ew}{\lambda}
+\newcommand{\EW}{\Lambda}
+
+\newcommand{\Del}{\Delta}
+\newcommand{\gD}{\Delta}
+\newcommand{\gG}{\Gamma}
+\newcommand{\gW}{\Omega}
+\newcommand{\gS}{\Sigma}
+\newcommand{\gTh}{\Theta}
+
+% Bold english letters.
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bB}{\mathbf{B}}
+\newcommand{\bC}{\mathbf{C}}
+\newcommand{\bD}{\mathbf{D}}
+\newcommand{\bE}{\mathbf{E}}
+\newcommand{\bF}{\mathbf{F}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bI}{\mathbf{I}}
+\newcommand{\bJ}{\mathbf{J}}
+\newcommand{\bK}{\mathbf{K}}
+\newcommand{\bL}{\mathbf{L}}
+\newcommand{\bM}{\mathbf{M}}
+\newcommand{\bN}{\mathbf{N}}
+\newcommand{\bO}{\mathbf{O}}
+\newcommand{\bP}{\mathbf{P}}
+\newcommand{\bQ}{\mathbf{Q}}
+\newcommand{\bR}{\mathbf{R}}
+\newcommand{\bS}{\mathbf{S}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bU}{\mathbf{U}}
+\newcommand{\bV}{\mathbf{V}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\bX}{\mathbf{X}}
+\newcommand{\bY}{\mathbf{Y}}
+\newcommand{\bZ}{\mathbf{Z}}
+
+\newcommand{\bba}{\mathbf{a}}
+\newcommand{\bbb}{\mathbf{b}}
+\newcommand{\bbc}{\mathbf{c}}
+\newcommand{\bbd}{\mathbf{d}}
+\newcommand{\bbe}{\mathbf{e}}
+\newcommand{\bbf}{\mathbf{f}}
+\newcommand{\bbg}{\mathbf{g}}
+\newcommand{\bbh}{\mathbf{h}}
+\newcommand{\bbk}{\mathbf{k}}
+\newcommand{\bbl}{\mathbf{l}}
+\newcommand{\bbm}{\mathbf{m}}
+\newcommand{\bbn}{\mathbf{n}}
+\newcommand{\bbp}{\mathbf{p}}
+\newcommand{\bbq}{\mathbf{q}}
+\newcommand{\bbr}{\mathbf{r}}
+\newcommand{\bbs}{\mathbf{s}}
+\newcommand{\bbt}{\mathbf{t}}
+\newcommand{\bbu}{\mathbf{u}}
+\newcommand{\bbv}{\mathbf{v}}
+\newcommand{\bbw}{\mathbf{w}}
+\newcommand{\bbx}{\mathbf{x}}
+\newcommand{\bby}{\mathbf{y}}
+\newcommand{\bbz}{\mathbf{z}}
+\newcommand{\0}{\mathbf{0}}
+\newcommand{\1}{\mathbf{1}}
+
+% Caligraphic english alphabet
+\newcommand{\cA}{\mathcal{A}}
+\newcommand{\cB}{\mathcal{B}}
+\newcommand{\cC}{\mathcal{C}}
+\newcommand{\cD}{\mathcal{D}}
+\newcommand{\cE}{\mathcal{E}}
+\newcommand{\cF}{\mathcal{F}}
+\newcommand{\cG}{\mathcal{G}}
+\newcommand{\cH}{\mathcal{H}}
+\newcommand{\cI}{\mathcal{I}}
+\newcommand{\cJ}{\mathcal{J}}
+\newcommand{\cK}{\mathcal{K}}
+\newcommand{\cL}{\mathcal{L}}
+\newcommand{\cM}{\mathcal{M}}
+\newcommand{\cN}{\mathcal{N}}
+\newcommand{\cO}{\mathcal{O}}
+\newcommand{\cP}{\mathcal{P}}
+\newcommand{\cQ}{\mathcal{Q}}
+\newcommand{\cR}{\mathcal{R}}
+\newcommand{\cS}{\mathcal{S}}
+\newcommand{\cT}{\mathcal{T}}
+\newcommand{\cU}{\mathcal{U}}
+\newcommand{\cV}{\mathcal{V}}
+\newcommand{\cW}{\mathcal{W}}
+\newcommand{\cX}{\mathcal{X}}
+\newcommand{\cY}{\mathcal{Y}}
+\newcommand{\cZ}{\mathcal{Z}}
+
+
+% Formatting shortcuts
+\newcommand{\red}[1]{\textcolor{red}{#1}}
+\newcommand{\blue}[1]{\textcolor{blue}{#1}}
+\newcommand{\htext}[2]{\texorpdfstring{#1}{#2}}
+
+% Statistics
+\newcommand{\distr}{\sim}
+\newcommand{\stddev}{\sigma}
+\newcommand{\covmatrix}{\Sigma}
+\newcommand{\mean}{\mu}
+\newcommand{\param}{\theta}
+\newcommand{\gthEst}{\hat{\theta}}
+\newcommand{\ftr}{\phi}
+\newcommand{\est}[1]{\hat{#1}}
+
+% General utility
+\newcommand{\todo}[1]{\textbf{[TODO]}] \footnote{TODO: #1}}
+\newcommand{\tbc}{[\textbf{Incomplete}]}
+\newcommand{\chk}{[\textbf{Check}]}
+\newcommand{\why}{[\textbf{Find proof}]}
+\newcommand{\opt}[1]{\textit{#1}}
+
+\newcommand{\experience}[1]{[\textbf{Personal Experience}]: #1 \blacktriangle}
+\newcommand{\pf}[1]{[\textbf{Proof}]: #1 \Box}
+\newcommand{\core}[1]{\textbf{Core Idea}: #1 \Arrowvert}
+\newcommand{\example}[1]{\textbf{Example}: #1 \blacktriangle}
+\newcommand{\error}[1]{\textbf{Error alert}: #1 \triangle}
+\newcommand{\oprob}{[\textbf{OP}]: }
+
+
+\renewcommand{\~}{\htext{$\sim$}{~}}
+
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+
+
+\)
+
+
+
+    
+<header class="p-1 bg-yellow noPrint">
+    <nav role="navigation" class="col">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Misc functionals</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <button class="btn btn-light"  href="#transliterationDropdown" data-toggle="collapse">
+            ✍
+          </button>
+          <select id="transliterationDropdown" size="1" class="collapse" onchange="module_uiLib.default.content.updateTransliteration()">
+            <optgroup label="🌍">
+              <option value="iso">āISO</option>
+              <option value="iso_vedic">āi-āu</option>
+              <option value="cyrillic">пу</option>
+              <option value="urdu">نس</option>
+              <option value="??">🌍??</option>
+            </optgroup>
+            <optgroup label="🛕🧭S">
+              <option value="kannada">ಅ</option>
+              <option value="malayalam">അ</option>
+              <option value="telugu">క</option>
+              <option value="tamil_superscripted">க²</option>
+              <option value="tamil_extended">க</option>
+              <option value="grantha">𑌅</option>
+            </optgroup>
+            <optgroup label="🛕🧭N">
+              <option value="devanagari" selected="">स</option>
+              <option value="gujarati">અ</option>
+              <option value="gurmukhi">ਅ</option>
+            </optgroup>
+            <optgroup label="🛕🧭E">
+              <option value="oriya">ଅ</option>
+              <option value="assamese">অস</option>
+              <option value="bengali">অ</option>
+            </optgroup>
+            <optgroup label="🛕🏺📜">
+              <option value="sharada">𑆑𑇀𑆰</option>
+              <option value="brahmi">𑀅</option>
+            </optgroup>
+            <optgroup label="🛕🌋">
+              <option value="balinese">ᬩᬮᬶ</option>
+            </optgroup>
+          </select>
+          <div>
+          <button class="btn btn-outline-secondary btn-sm"  href="#transliterationDropdownAlt" data-toggle="collapse">
+          (✍)
+          </button>
+          <select id="transliterationDropdownAlt" size="1"  style="font-size:12px" class="bg-light-yellow collapse" onchange="module_uiLib.default.content.updateTransliteration()">
+            <optgroup label="🌍">
+              <option value="iso">āISO</option>
+              <option value="iso_vedic">āi-āu</option>
+              <option value="cyrillic">пу</option>
+              <option value="urdu">نس</option>
+              <option value="??">🌍??</option>
+            </optgroup>
+            <optgroup label="🛕🧭S">
+              <option value="kannada">ಅ</option>
+              <option value="malayalam">അ</option>
+              <option value="telugu">క</option>
+              <option value="tamil_superscripted">க²</option>
+              <option value="tamil_extended">க</option>
+              <option value="grantha">𑌅</option>
+            </optgroup>
+            <optgroup label="🛕🧭N">
+              <option value="devanagari" selected="">स</option>
+              <option value="gujarati">અ</option>
+              <option value="gurmukhi">ਅ</option>
+            </optgroup>
+            <optgroup label="🛕🧭E">
+              <option value="oriya">ଅ</option>
+              <option value="assamese">অস</option>
+              <option value="bengali">অ</option>
+            </optgroup>
+            <optgroup label="🛕🏺📜">
+              <option value="sharada">𑆑𑇀𑆰</option>
+              <option value="brahmi">𑀅</option>
+            </optgroup>
+            <optgroup label="🛕🌋">
+              <option value="balinese">ᬩᬮᬶ</option>
+            </optgroup>
+          </select>
+          </div>
+          <div class="row col d-flex  dropdown">
+            <button class="btn btn-secondary-outline btn-sm dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              A±
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <a class="btn btn-secondary btn-sm" onclick="module_uiLib.changeTextSize(2)">A+</a>
+            <a class="btn btn-secondary btn-sm" onclick="module_uiLib.changeTextSize(-2)">A-</a>
+            </div>
+          </div>
+          <button class="btn btn-light btn-sm"  href="#commentStyleDropdown" data-toggle="collapse">
+            🗨
+          </button>
+          <select id="commentStyleDropdown" class="collapse" size="1" onchange="module_uiLib.default.content.updateCommentStyleFromDropdown()">
+            <option value="on">✔</option>
+            <option value="hidden">✗</option>
+          </select>
+          <div><a id="expandAllButton" class="btn btn-secondary" onclick="module_uiLib.default.query.setParamsAndGo({'expandDetails': '.*'})">↕️️</a></div>
+          <div id="printStyleDiv" class="row col d-flex  dropdown">
+          <button class="btn btn-light btn-sm dropdown-toggle"  href="#printStyleDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          🖨
+          </button>
+            <div class="dropdown-menu col" aria-labelledby="printStyleDropdown">
+              <div class="row justify-content-center">
+                <p>Cols:</p>
+                <input type="number" min="1" max="10" value="2" step="1" id="tbColumns" style="width: 3ch;"  accesskey="c"/>
+              </div>
+              <div class="row justify-content-center">
+                <p>A±:</p> <input type="text" id="tbBodyFontSize" value="0.4cm" style="width: 6ch;"  accesskey="f"></input>
+              </div>
+              <div class="row justify-content-center">
+                <p>Incl:</p> <input checked type="checkbox" id="tbIncludeStyle" value="on"></input>
+                <button id="btnPrintStyle" onclick="module_uiLib.default.content.updatePrintStyle()">🖨
+                </button>
+              </div>
+            </div>
+        </div>
+        </div>
+        <div id="audioDiv" class="row col d-flex  dropdown">
+          <button class="btn btn-secondary-outline btn-sm dropdown-toggle" type="button" id="audioDropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            🎧
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <a id="speakerButton" class="btn btn-outline-secondary btn-sm" onclick="module_uiLib.default.content.handleSpeakToggle()">⏯</a>
+          <button id="speakerPauseButton" class="btn btn-outline-secondary btn-sm">⏸</button>
+            <div id="audioOptionsDiv" class="row justify-content-center" >
+              <div>
+                <p class="lead">Vol</p>
+                <input type="range" min="0" max="1" value="1" step="0.1" id="volume" />
+                <span id="volume-label" class="ms-2">1</span>
+              </div>
+              <div class="mx-5">
+                <p class="lead">Rate</p>
+                <input type="range" min="0.1" max="10" value="1" id="rate" step="0.1" />
+                <span id="rate-label" class="ms-2">1</span>
+              </div>
+              <div>
+                <p class="lead">Pitch</p>
+                <input type="range" min="0" max="2" value="1" step="0.1" id="pitch" />
+                <span id="pitch-label" class="ms-2">1</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a href="https://vishvAsa.github.io/notes/search"  class="btn btn-light btn-sm">🥽🔦</a>
+        <div class="row col  d-flex justify-content-center">
+          <div><a id="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a id="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border noPrint " id="sidebar">
+          <div id="fastSearch">
+              <datalist id="pageDataList"></datalist>
+              <input id="searchInput" placeholder="शीर्षिकान्विष्यताम्" list="pageDataList" onchange="module_uiLib.default.navigation.pageLoader()">
+          </div>
+          <details open  class="bg-light-gray" >
+              <summary id="sidebarToggleLink" onclick="module_uiLib.default.navigation.sidebarToggleHandler()">
+            Menu
+              </summary>
+              <ul id="sidebarBody" class="list pl2 p-0 bg-yellow">
+              </ul>
+          </details>
+      </aside>
+      <main class="col p-3" role="main" data-pagefind-body>
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Misc functionals">Misc functionals</h1>
+    
+    <a id="editLink" class="btn btn-primary noPrint"  href="https://github.com/vishvAsa/notes/edit/content/math/linAlg/matrix_functions/misc_functionals.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border noPrint ">
+    <details id="toc_header">
+        <summary>What's in this page?</summary>
+      <div id="toc_body" class="p-0">
+        
+        <ul id="toc_ul" class="list p-0">
+        </ul>
+      </div>
+    </details>
+    <div id="progressBarDiv" class="row d-flex justify-content-center">
+      🐎💪<progress id="progressLoading" value="0" max="100"> 32% </progress>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="functionals-over-square-matrices">Functionals over square matrices</h2>
+<p>Also see functionals over +ve definite A.</p>
+<h3 id="determinant-of-square-a">Determinant of square A</h3>
+<h4 id="definitions">Definitions</h4>
+<p>Det(A) or \(|A|\) : The recursive defn. <strong>Cofactor</strong> of \(A_{1,1}\): \(C_{1,1}\) = det of submatrix (minor) of A. Defn by properties: 1: det I = 1. 2: If 2 rows are equal, det(A) = 0. 3: det \(A\) depends linearly on first row.</p>
+<h4 id="properties">Properties</h4>
+<p>So, there is sign change in Det(A) with row exchanges. Also, Det(A) is unchanged with \(row_{1} += k row_{2}\). So, 0 row means det \(A\) = 0. Also, for L or U, just multiply diagonal. Also, det \(A\) = 0 iff \(A\) singular.</p>
+<h5 id="multiplicativity-and-consequences">Multiplicativity and consequences</h5>
+<p>\(|A||B|=|AB|\): See that \(\frac{|AB|}{|B|}\) has the 3 properties \(|A|\) should have.</p>
+<p>So, \(|A^{-1}| = \frac{1}{|A|}\). So, \(|Q|= \pm 1\). So, considering \(|PA| = |LU|\) and \(|A^{T}P^{T}| = |U^{T}L^{T}|\), \(Det(A^{T}) = Det(A)\). So, column operations don&rsquo;t alter det \(A\), there is sign change with col exchanges, write det \(A\) with column cofactors etc..</p>
+<h4 id="connection-with-ew-sw">Connection with ew, sw</h4>
+<p>Take characteristic polynomial \(p_A\). \(det(A) = p_{A}(0) = \prod_{i} (l_{i}-l)]_{l=0}\): also by considering \(A = QTQ^{*}\). Also, \(|det(A)| = \prod \sw_i(A)\).</p>
+<h5 id="connection-with-rank-and-semidefiniteness">Connection with rank and semidefiniteness</h5>
+<p>Thence, det(A) = 0 \(\equiv\) \(A\) is rank deficient. \(det(A) &lt; 0 \implies \)A\( \nsucceq 0\): implication is one directional.</p>
+<h4 id="find-deta">Find Det(A)</h4>
+<p>Reduce \(A\) to U, find det U. For each of the n! diagonals, multiply elements; add after accounting for permutation sign: From linearity property, get row exchanged diagonal matrices, consider relation between determinant sign and row exchanges; Hence note equivalence of definitions. Use eigenvalue decomposition: \(|A|=|S\EW S^{-1}|=|S||\EW||S|^{-1} = |\EW|\).</p>
+<p>Det(A) = volume spanned by row (or col) vectors: orthogonalize (parallelopiped changed to cube of equal volume): \(|A|\) unchanged; now \(AA^{T}\) is diagonal matrix; \(|AA^{T}| = |A|^{2} = vol^{2}\). <strong>Perm(A)</strong>: Same as Det(A), ignore sign.</p>
+<h5 id="block-matrices">Block matrices</h5>
+<p>Leibnitz: \
+\(X = \mat{A &amp; B \ C &amp; D } = \mat{A &amp; 0 \ C &amp; I } * \mat{I &amp; A^{-1}B \ 0 &amp; D-CA^{-1}B }\). Use this if \(A\) square, invertible, thence find determinant.</p>
+<p>If X symmetric, ie if \(B = C^{T}\): \(D-CA^{-1}B\) is the Schur complement of A.</p>
+<h3 id="trace-of-a">Trace of A</h3>
+<p>\(tr(A) = \sum_{i} a_{i,i}\).</p>
+<p>A linear map: tr(kA + lB) = k tr(A) + l tr(B): so convex.</p>
+<h4 id="trace-of-ab">Trace of AB</h4>
+<p>Trace is an inner product on matrices. It is same as vectorizing \(A\) and B and applying the standard inner product.</p>
+<p>\(tr(AB) =  \sum_{i} \sw_{i} \sw_{\pi(i)}\) for some permutation \(\pi\): from \(|A||B|=|AB|\).</p>
+<p>(Von Neumann): \(tr(AB) \leq \prod_{i} \sw_{i}(A)\sw_{i}(B)\) \why.</p>
+<h4 id="cyclicity-and-similarity-invariance">Cyclicity and similarity invariance</h4>
+<p>\(tr(AB) = tr(BA) = \sum_{i} \sum_{j} a_{i,j}b_{j,i}\); but \(tr(ABC) = tr(BCA) \neq tr(ACB)\).</p>
+<p>Similarity invariant: \(tr(P^{-1}AP) = tr(APP^{-1}) = tr(A)\).</p>
+<h4 id="trace-of-outer-products">Trace of outer products</h4>
+<p>\(tr(ab^{T}) = b^{T}a\) by algebra.</p>
+<h4 id="connection-with-ew">Connection with ew</h4>
+<p>Take characteristic polynomial \(p_A\). tr(A) = coefficient of \(l^{m-1}\) in \(p_{A}\) = \(\sum_{i} l_{i}\).</p>
+<h4 id="gradient-to-tr">Gradient to tr</h4>
+<p>By considering \(tr(f(X + \change X)) - tr(f(X))\), get: \(\gradient_X tr(X) = I, \gradient_X tr(XA) = \gradient_X tr(AX) = A^{T}, \gradient_X tr(BXA) = \gradient_X tr(ABX) = B^{T}A^{T}\).</p>
+<p>By considering \(tr(f(X + \change X)g(X + \change X))- tr(f(X)g(X))\), \
+\(\gradient_X tr(AXBX) = B^{T}X^{T}A^{T} + A^{T}X^{T}B^{T}\).</p>
+<h2 id="functionals-over-ve-definite-matrices">Functionals over +ve definite matrices</h2>
+<h3 id="log-det-divergence">Log det divergence</h3>
+<p>\(f(A) = \log det(A) = \sum_i \log \ew_i(A) = tr(\log(A))\);\
+often used because it is convex. \(\gradient \log det(A) = A^{-1}\) \why.</p>
+<h2 id="singular-values-sw">Singular values (sw)</h2>
+<p>See SVD section.</p>
+<h3 id="unitary-invariance">Unitary invariance</h3>
+<p>\(\SW \in R^{mn}\) always, so \(\SW = \SW^{<em>}\). \(\SW = U^{</em>}AV\): so, \(\SW\) is unitary invariant: \(\sw_{i}(A) = \sw_{i}(Q_{1}AQ_{2})\).</p>
+<p>Let \(a = (a_{i,i}), \sw = (\sw_{i})\): By direct computation using \(U\SW V^{<em>}\), \(a = Z\sw\), where \(Z = [u_{ij}v_{ij}] = (U.\bar{V})<em>{1:q, 1:q}\); take \(Q = |Z|\); get \(|a| \leq Q \sw\). \(\norm{q</em>{i}^{</em>}}<em>{1}^{2} = (\sum</em>{j} |u_{ij}v_{ij}|)^{2} \leq \sum_{j} |u_{ij}|^{2}\sum_{j} |v_{ij}|^{2} \leq 1\), by induction; also \(\norm{q_{i}}_{1} \leq 1\); so Q is substochastic.</p>
+<h3 id="effect-of-row-or-column-deletion">Effect of row or column deletion</h3>
+<p>\(A_{r}\): \(A\) with r rows or cols deleted; \(\sw_{k}(A) \geq \sw_{k}(A_{r}) \geq \sw_{k+r}(A)\). Prove for r=1, get general case thence. Pf where sth col is deleted: For upper bound, use \(\sw_{k}(A_{1}) = \max_{S \subset C^{n}, dim(S) = k} \min_{x \in S} \norm{Ax}<em>{2}\) with extra cond: \(x \perp e</em>{s}\); for lower bound use \
+\(\sw_{k}(A_{1}) = \min_{S \subset C^{n}, dim(S) = n-k} \max_{x \in S} \norm{Ax}_{2}\) with extra cond. For row deletion, consider \(A^{*}\).</p>
+<h4 id="sum-product-of-sw-of-square-a">Sum, product of sw of square A</h4>
+<h5 id="ew-sw-sum-comparison">ew sw sum comparison</h5>
+<p>By block multiplicity, for any arbit sq orth \(x\), Y: \(S_{k} = X_{k}^{<em>}AY_{k}^{</em>}\): upper left submatrix of \(S = X^{<em>}AY\); So, \(\sw_{i}(X_{k}^{</em>}AY_{k}^{<em>}) \leq \sw_{i}(X^{</em>}AY) = \sw_{i}(A)\). So, \(|det(X_{k}^{<em>}AY_{k})| = \prod_{i=1}^{k} \sw_{i}(X_{k}^{</em>}AY_{k}) \leq \prod_{i=1}^{k} \sw_{i}(A)\).</p>
+<p>For square \(A\), take \(A = QTQ^{<em>}\), \(T = Q^{</em>}AQ\), \((\ew_{i}) \downarrow\); so take k-principle submatrix, use block multiplicity to get: \(T_{k} = Q_{k}^{<em>}AQ_{k}\)\
+So, \(|det(T_{k})| = \prod_{i=1}^{k}|\ew_{i}(A)| = |det(Q_{k}^{</em>}AQ_{k})| \leq \prod_{i=1}^{k} \sw_{i}(A)\): = for k=m.</p>
+<p>By majorization lore, \(|tr(A)| \leq \sum_{i=1}^{q} |\ew_{i}(A)| \leq \sum_{i=1}^{q} \sw_{i}(A)\). Also, for any \(p&gt;0, \sum_{i=1}^{q} |\ew_{i}(A)|^{p} \leq \sum_{i=1}^{q} \sw_{i}(A)^{p}\).</p>
+<h5 id="sum-of-sw-of-matrix-products">Sum of sw of matrix products</h5>
+<p>\(A \in C^{mp}, B \in C^{pn}\).</p>
+<p>Take \(AB = U\SW V^{<em>}\); \(U_{k}^{</em>}ABV_k = \SW_{k}\); polar decomposition of
+$$BV_{k} = X_{k}Q; \
+Q^{2} = V_{k}^{<em>}B^{</em>}BV_{k};\ det(Q^{2}) \leq \prod_{i=1}^{k} \sw_{i}(B^{*}B) = \prod_{i=1}^{k}\sw_{i}(B)^{2}$$.</p>
+<p>So,
+$$\prod_{i=1}^{k} \sw_{i}(AB) = |det(U_{k}^{<em>}ABV_{k})| = |det(U_{k}^{</em>}AX_{k})det(Q)| \
+\leq \prod_{i=1}^{k}\sw_{i}(A) \sw_{i}(B)$$.</p>
+<p>By majorization lore, for \(p&gt;0, \sum_{i=1}^{q} \sw_{i}(AB)^{p} \leq \sum_{i=1}^{q} \sw_{i}(A)^{p}\sw_{i}(B)^{p}\).</p>
+<h5 id="sum-of-sw-as-trace-maximizer-of-svd-like-decompositions">Sum of sw as trace maximizer of SVD-like decompositions</h5>
+<p>$$\sum_{i=1}^{k}\sw_{i}(A)
+= \max \set{|tr(X^{<em>}AY)|: X^{</em>}X = Y^{*}Y = I, X \in C^{mk}, Y \in C^{nk}}\
+= \max \set{|tr(AC)| C \in C^{nm}\texttt{ is rank k partial isometry}}$$</p>
+<p>Pf: Can get C from Y, X: \(C = YX^{<em>}, \sw_{i}(C^{</em>}C) = \sw_{i}(XX^{<em>})= \sw_{i}(X^{</em>}X) = 1\); Can get Y, X from C: use SVD: \(C = U\SW V^{<em>} = U_{k}V^{</em>}<em>{k}\). \(|tr(AC)| = |\sum \ew</em>{i}(AC)| \leq \sum_{i=1}^{q} \sw_{i}(AC) \leq \sum_{i=1}^{q}\sw_{i}(A) \sw_{i}(C) = \sum_{i=1}^{k}\sw_{i}(A)\). Take \(A = U\SW V^{<em>}\), then for rank k isometry \(C = V\hat{I}_{k}U^{</em>}\), \(tr(AC) = tr(U\SW\hat{I}<em>{k}U^{*}) = \sum</em>{i=1}^{k}\sw_{i}(A)\).</p>
+<h5 id="triangle-inequality">Triangle inequality</h5>
+<p>All \(\sw_{i}\) in descending order; then: \
+\(\sum_{i=1}^{k}\sw_{i}(A+B) \leq \sum_{i=1}^{k}\sw_{i}(A) + \sum_{i=1}^{k}\sw_{i}(B)\).</p>
+<p>Pf: Let C be some rank k partial isometry:\
+$$\sum_{i=1}^{k}\sw_{i}(A+B) = \max \set{|tr((A+B)C)|} \leq \max \set{|tr(AC)| + |tr(BC)|} \
+\leq \max \set{|tr(AC)|} + \max \set{|tr(BC)|} = RHS$$.</p>
+<h3 id="convexity-concavity">Convexity, concavity</h3>
+<p>\(\sw_1(X)\) is convex, but \(\sw_n(X)\) is concave: \( \sw_1(tA + (1-t)B) = \sup_{\norm{x}=1} tAx + (1-t)Bx \leq \sw_1(A)x + \sw_1(B)x\).</p>
+<h3 id="properties-of-a-discerned-from-svd">Properties of A discerned from SVD</h3>
+<p>Rank(A) = num +ve singular values: By geometric action, or by algebra U, V unitary, \(\SW\) diagonal: \(|A|=|U\SW V^{<em>}|=|U||\SW| |V^{</em>}| =|\SW|\). Similarly, numerical Rank of \(A\) = num +ve not-close-to-0 \(\sw\). Good way to find rank.</p>
+<p>SVD is most accurate method for finding orthonormal basis for N(A) and range(A).</p>
+<p>\(A=\sum \sw_{i}u_{i}v_{i}^{*}\): \(\sum\) rank 1 matrices.</p>
+
+  </div>
+</article>
+
+
+        
+
+        
+
+
+
+    <aside class="card border noPrint" id="section-tree-item-math_linAlg_matrix_functions_misc_functionals_md">
+        <div class="card-title bg-light-gray border d-flex justify-content-between">
+            <a href="https://vishvAsa.github.io/notes/math/linAlg/matrix_functions/misc_functionals/">Misc functionals </a>
+            <a data-toggle="collapse" href="#section-tree-item-body-math_linAlg_matrix_functions_misc_functionals_md" role="button" aria-expanded="false" aria-controls="section-tree-item-body-math_linAlg_matrix_functions_misc_functionals_md" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+        </div>
+        <nav id="section-tree-item-body-math_linAlg_matrix_functions_misc_functionals_md" class="card-body p-0 collapse">
+            
+            <li>draft: false</li>
+            
+            <li>iscjklanguage: false</li>
+            
+            <li>title: Misc functionals</li>
+            
+        </nav>
+    </aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1 noPrint" role="contentinfo">
+  
+
+  <div id="div_foot_nav_bar" class="row">
+    <a href="https://vishvAsa.github.io/notes/search"  class="btn btn-light btn-sm">🥽🔦</a>
+    <div class="row col  d-flex justify-content-center">
+      <div><a id="previousPageFoot" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+      <div ><a id="nextPageFoot" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+    </div>
+      <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+      </ul>
+  </div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vishvAsa/notes/issues/new" >
+      ✉️Contact
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      
+      <a href="https://github.com/vishvAsa/notes/actions/workflows/build.yml"><img src="https://github.com/vishvAsa/notes/actions/workflows/build.yml/badge.svg"> Built </a> on 2026 Feb 12 01:34:45 UTC. (<a href="http://google.com/search?q=01%3a34%3a45%20UTC to IST">IST</a>)
+    </div>
+  </div>
+</footer>
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-33H08JSLQR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-33H08JSLQR');
+</script>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_uiLib.onDocumentReadyTasks();
+  </script>
+  
+</html>

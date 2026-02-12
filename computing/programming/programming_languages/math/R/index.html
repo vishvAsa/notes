@@ -1,0 +1,1010 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | R</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.143.0">
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/notes/computing/programming/programming_languages/math/R/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/notes/computing/programming/programming_languages/math/R/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:url" content="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/">
+  <meta property="og:site_name" content="Vishvas&#39;s notes">
+  <meta property="og:title" content="R">
+  <meta property="og:description" content="Introduction and use When to use Statistics is the emphasis, not matrix manipulation. It is an expression language.
+When not to use Text processing and general purpose programming are painful.
+Writing, Building and executing code Script execution source(&#34;/path/file.R&#34;).
+Reloading changed code library(“R.utils”);
+sourceDirectory(“work”, modifiedOnly=TRUE, \pattern=&#34;[A-Z]*[.]R$&#34;, recursive=FALSE);
+Important environment variables \verb R_LIBS : the place where R libraries are installed.
+Working environment getwd(), setwd(dir)
+options(): Example options(digits=3)
+Command history history(), savehistory, loadhistory.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="computing">
+
+  <meta itemprop="name" content="R">
+  <meta itemprop="description" content="Introduction and use When to use Statistics is the emphasis, not matrix manipulation. It is an expression language.
+When not to use Text processing and general purpose programming are painful.
+Writing, Building and executing code Script execution source(&#34;/path/file.R&#34;).
+Reloading changed code library(“R.utils”);
+sourceDirectory(“work”, modifiedOnly=TRUE, \pattern=&#34;[A-Z]*[.]R$&#34;, recursive=FALSE);
+Important environment variables \verb R_LIBS : the place where R libraries are installed.
+Working environment getwd(), setwd(dir)
+options(): Example options(digits=3)
+Command history history(), savehistory, loadhistory.">
+  <meta itemprop="wordCount" content="1916">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="R">
+  <meta name="twitter:description" content="Introduction and use When to use Statistics is the emphasis, not matrix manipulation. It is an expression language.
+When not to use Text processing and general purpose programming are painful.
+Writing, Building and executing code Script execution source(&#34;/path/file.R&#34;).
+Reloading changed code library(“R.utils”);
+sourceDirectory(“work”, modifiedOnly=TRUE, \pattern=&#34;[A-Z]*[.]R$&#34;, recursive=FALSE);
+Important environment variables \verb R_LIBS : the place where R libraries are installed.
+Working environment getwd(), setwd(dir)
+options(): Example options(digits=3)
+Command history history(), savehistory, loadhistory.">
+<script type="text/javascript">
+    
+    let baseURL = "https:\/\/vishvAsa.github.io\/notes\/";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022build_img\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/actions\/workflows\/build.yml\/badge.svg\u0022,\u0022build_url\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/actions\/workflows\/build.yml\u0022,\u0022contactlink\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/issues\/new\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/edit\/content\/\u0022,\u0022js_extras\u0022:[\u0022mathjax\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022देवः\u0022,\u0022url\u0022:\u0022..\/devaH\/\u0022},{\u0022title\u0022:\u0022आगमः\u0022,\u0022url\u0022:\u0022..\/AgamaH\/\u0022},{\u0022title\u0022:\u0022आगमः शैवः\u0022,\u0022url\u0022:\u0022..\/AgamaH_shaivaH\/\u0022},{\u0022title\u0022:\u0022आगमः वैष्णवः\u0022,\u0022url\u0022:\u0022..\/AgamaH_vaiShNavaH\/\u0022},{\u0022title\u0022:\u0022रामानुजीयम्\u0022,\u0022url\u0022:\u0022..\/rAmAnujIyam\/\u0022},{\u0022title\u0022:\u0022माध्वम्\u0022,\u0022url\u0022:\u0022..\/mAdhvam\/\u0022},{\u0022title\u0022:\u0022आगमः ब्राह्मः\u0022,\u0022url\u0022:\u0022..\/AgamaH_brAhmaH\/\u0022},{\u0022title\u0022:\u0022कल्पान्तरम्\u0022,\u0022url\u0022:\u0022..\/kalpAntaram\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022वेदाः\u0022,\u0022url\u0022:\u0022..\/vedAH\/\u0022},{\u0022title\u0022:\u0022वेदाः - ऋक्\u0022,\u0022url\u0022:\u0022..\/vedAH_Rk\/\u0022},{\u0022title\u0022:\u0022वेदाः - यजुः\u0022,\u0022url\u0022:\u0022..\/vedAH_yajuH\/\u0022},{\u0022title\u0022:\u0022वेदाः - साम\u0022,\u0022url\u0022:\u0022..\/vedAH_sAma\/\u0022},{\u0022title\u0022:\u0022पुराणम्\u0022,\u0022url\u0022:\u0022..\/purANam\u0022},{\u0022title\u0022:\u0022पुराणम् वैष्णवम्\u0022,\u0022url\u0022:\u0022..\/purANam_vaiShNavam\/\u0022},{\u0022title\u0022:\u0022महाभारतम्\u0022,\u0022url\u0022:\u0022..\/mahAbhAratam\/\u0022},{\u0022title\u0022:\u0022रामायणम्\u0022,\u0022url\u0022:\u0022..\/rAmAyaNam\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvyam\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022ಕನ್ನಡ\u0022,\u0022url\u0022:\u0022..\/kannaDa\/\u0022},{\u0022title\u0022:\u0022त्रिपिटकम्\u0022,\u0022url\u0022:\u0022..\/tipiTaka\/\u0022},{\u0022title\u0022:\u0022पाळयः\u0022,\u0022url\u0022:\u0022..\/pALi\/\u0022},{\u0022title\u0022:\u0022भाषान्तरम्\u0022,\u0022url\u0022:\u0022..\/bhAShAntaram\/\u0022},{\u0022title\u0022:\u0022English Lit\u0022,\u0022url\u0022:\u0022..\/english\/\u0022},{\u0022title\u0022:\u0022Book pub\u0022,\u0022url\u0022:\u0022..\/book-pub\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vishvAsa.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    
+    var pageRelUrlTree = {};
+</script>
+
+    
+    <script type="text/javascript">
+  let pageVars = {};
+  pageVars.pageUrlMinusBasePath = "\/notes\/computing\/programming\/programming_languages\/math\/R\/".replace(basePath, "/");
+  pageVars.pageParams = {};
+  pageVars.pageSource = "computing\/programming\/programming_languages\/math\/R.md";
+  console.log(pageVars.pageSource);
+  var pageDefaults;
+  for (let possiblePageDefaults of pageDefaultsList) {
+    if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+      pageDefaults = possiblePageDefaults.values
+    }
+  }
+    
+</script>
+
+
+    <script src="/notes/webpack_dist/uiLib-bundle.js"></script>
+
+
+<script>
+
+
+MathJax = {
+  tex: {
+    inlineMath: [ ["@#", "#@"], ["\\(", "\\)"] ],
+    displayMath: [ ["$$","$$"], ["\\[", "\\]"] ],
+    processEscapes: true,  
+  },
+  svg: {
+    fontCache: 'global'
+  },
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore|dno"
+  }
+};
+</script>
+<script type="text/javascript" id="MathJax-script" async
+        src="/notes/non_webpack_js/mathjax/tex-svg.js">
+</script>
+
+
+
+
+
+
+    <link rel="stylesheet" href="/notes/webpack_dist/uiLib.css">
+<link rel="stylesheet" href="/notes/css/uiLibPrint.css" media="print" >
+<link rel="stylesheet" href="/notes/css/fonts.css" >
+<link rel="stylesheet" href="/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+
+<link rel="stylesheet" href="/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+
+<link rel="alternate" hreflang="sa-Deva" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/" />
+<link rel="alternate" hreflang="sa-Deva" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=devanagari" />
+
+<link rel="alternate" hreflang="sa-Knda" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=kannada" />
+<link rel="alternate" hreflang="sa-Mlym" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=malayalam" />
+<link rel="alternate" hreflang="sa-Telu" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=telugu" />
+<link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=tamil_superscripted" />
+<link rel="alternate" hreflang="sa-Taml" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=tamil" />
+<link rel="alternate" hreflang="sa-Gran" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=grantha" />
+
+<link rel="alternate" hreflang="sa-Gujr" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=gujarati" />
+<link rel="alternate" hreflang="sa-Guru" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=gurmukhi" />
+<link rel="alternate" hreflang="sa-Shar" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=sharada" />
+<link rel="alternate" hreflang="sa-Dogr" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=dogra" />
+<link rel="alternate" hreflang="sa-Phag" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=phags_pa" />
+<link rel="alternate" hreflang="sa-Tibt" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=tibetan" />
+<link rel="alternate" hreflang="sa-Sidd" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=siddham" />
+<link rel="alternate" hreflang="sa-Newa" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=newa" />
+<link rel="alternate" hreflang="sa-Modi" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=modi" />
+<link rel="alternate" hreflang="sa-Tirh" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=tirhuta_maithili" />
+<link rel="alternate" hreflang="sa-Gong" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=gondi_gujala" />
+<link rel="alternate" hreflang="sa-Gonm" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=gondi_masaram" />
+
+
+<link rel="alternate" hreflang="sa-Orya" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=oriya" />
+<link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=assamese" />
+<link rel="alternate" hreflang="sa-Beng" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=bengali" />
+<link rel="alternate" hreflang="sa-Mtei" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=manipuri" />
+<link rel="alternate" hreflang="sa-Sinh" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=sinhala" />
+<link rel="alternate" hreflang="sa-Limb" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=limbu" />
+<link rel="alternate" hreflang="sa-Lepc" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=lepcha" />
+
+
+<link rel="alternate" hreflang="sa-Cyrl" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=cyrillic" />
+<link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iso" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=iso" />
+<link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=iast" />
+<link rel="alternate" hreflang="sa-Aran" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=urdu" />
+<link rel="alternate" hreflang="sa-Avst" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=avestan" />
+
+<link rel="alternate" hreflang="sa-Brah" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=brahmi" />
+<link rel="alternate" hreflang="sa-Khar" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=kharoshthi" />
+<link rel="alternate" hreflang="sa-Zanb" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=zanbazar_square" />
+<link rel="alternate" hreflang="sa-Bhks" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=bhaiksuki" />
+
+<link rel="alternate" hreflang="sa-Bali" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=balinese" />
+<link rel="alternate" hreflang="sa-Java" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=javanese" />
+<link rel="alternate" hreflang="sa-Laoo" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=lao" />
+<link rel="alternate" hreflang="sa-Laoo-t-sa-Laoo-m0-Laopali" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=lao_pali" />
+<link rel="alternate" hreflang="sa-Mymr" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=burmese" />
+<link rel="alternate" hreflang="sa-Mymr-t-sa-Mymr-m0-Mon" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=mon" />
+<link rel="alternate" hreflang="sa-Cham" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=cham" />
+<link rel="alternate" hreflang="sa-Khmr" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=khmer" />
+<link rel="alternate" hreflang="sa-Thai" href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/?transliteration_target=thai" />
+
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+\(
+% groupings of objects.
+\newcommand{\set}[1]{\left\{ #1 \right\}}
+\newcommand{\seq}[1]{\left(#1\right)}
+\newcommand{\ang}[1]{\langle#1\rangle}
+\newcommand{\tuple}[1]{\left(#1\right)}
+\newcommand{\size}[1]{\left| #1\right|}
+
+\newcommand{\comp}{\circ}
+
+
+% numerical shortcuts.
+\newcommand{\abs}[1]{\left| #1\right|}
+\newcommand{\floor}[1]{\left\lfloor #1 \right\rfloor}
+\newcommand{\ceil}[1]{\left\lceil #1 \right\rceil}
+
+% linear algebra shortcuts.
+\newcommand{\change}{\Delta}
+\newcommand{\norm}[1]{\left\| #1\right\|}
+\newcommand{\dprod}[1]{\langle#1\rangle}
+\newcommand{\linspan}[1]{\langle#1\rangle}
+\newcommand{\conj}[1]{\overline{#1}}
+\newcommand{\der}[1]{\frac{d#1}{dx}}
+\newcommand{\lap}{\Delta}
+\newcommand{\kron}{\otimes}
+\newcommand{\nperp}{\nvdash}
+
+\newcommand{\mat}[1]{\left[ \begin{smallmatrix}#1 \end{smallmatrix} \right]}
+
+% derivatives and limits
+\newcommand{\partder}[2]{\frac{\partial #1}{\partial #2}}
+\newcommand{\partdern}[3]{\frac{\partial^{#3 #1}}{\partial #2^{#3}}}
+\newcommand{\gradient}{\nabla}
+\newcommand{\subdifferential}{\partial}
+
+% Arrows
+\newcommand{\diverge}{\nearrow}
+\newcommand{\notto}{\nrightarrow}
+\newcommand{\up}{\uparrow}
+\newcommand{\down}{\downarrow}
+% gets and gives are defined!
+
+% ordering operators
+\newcommand{\oleq}{\preceq}
+\newcommand{\ogeq}{\succeq}
+
+% programming and logic operators
+\newcommand{\dfn}{:=}
+\newcommand{\assign}{:=}
+\newcommand{\co}{\ co\ }
+\newcommand{\en}{\ en\ }
+
+
+% logic operators
+\newcommand{\xor}{\oplus}
+\newcommand{\Land}{\bigwedge}
+\newcommand{\Lor}{\bigvee}
+\newcommand{\finish}{\Box}
+\newcommand{\contra}{\Rightarrow \Leftarrow}
+\newcommand{\iseq}{\stackrel{_?{=}}}
+
+
+% Set theory
+\newcommand{\symdiff}{\Delta}
+\newcommand{\setdiff}{\backslash}
+\newcommand{\union}{\cup}
+\newcommand{\inters}{\cap}
+\newcommand{\Union}{\bigcup}
+\newcommand{\Inters}{\bigcap}
+\newcommand{\nullSet}{\phi}
+
+
+% graph theory
+\newcommand{\nbd}{\Gamma}
+
+% Script alphabets
+% For reals, use \Re
+
+% greek letters
+\newcommand{\eps}{\epsilon}
+\newcommand{\del}{\delta}
+\newcommand{\ga}{\alpha}
+\newcommand{\gb}{\beta}
+\newcommand{\gd}{\del}
+\newcommand{\gp}{\pi}
+\newcommand{\gf}{\phi}
+\newcommand{\gh}{\eta}
+\newcommand{\gF}{\Phi}
+\newcommand{\gl}{\lambda}
+\newcommand{\gm}{\mu}
+\newcommand{\gn}{\nu}
+\newcommand{\gr}{\rho}
+\newcommand{\gs}{\sigma}
+\newcommand{\gth}{\theta}
+\newcommand{\gx}{\xi}
+\newcommand{\gw}{\omega}
+
+\newcommand{\sw}{\sigma}
+\newcommand{\SW}{\Sigma}
+\newcommand{\ew}{\lambda}
+\newcommand{\EW}{\Lambda}
+
+\newcommand{\Del}{\Delta}
+\newcommand{\gD}{\Delta}
+\newcommand{\gG}{\Gamma}
+\newcommand{\gW}{\Omega}
+\newcommand{\gS}{\Sigma}
+\newcommand{\gTh}{\Theta}
+
+% Bold english letters.
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bB}{\mathbf{B}}
+\newcommand{\bC}{\mathbf{C}}
+\newcommand{\bD}{\mathbf{D}}
+\newcommand{\bE}{\mathbf{E}}
+\newcommand{\bF}{\mathbf{F}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bI}{\mathbf{I}}
+\newcommand{\bJ}{\mathbf{J}}
+\newcommand{\bK}{\mathbf{K}}
+\newcommand{\bL}{\mathbf{L}}
+\newcommand{\bM}{\mathbf{M}}
+\newcommand{\bN}{\mathbf{N}}
+\newcommand{\bO}{\mathbf{O}}
+\newcommand{\bP}{\mathbf{P}}
+\newcommand{\bQ}{\mathbf{Q}}
+\newcommand{\bR}{\mathbf{R}}
+\newcommand{\bS}{\mathbf{S}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bU}{\mathbf{U}}
+\newcommand{\bV}{\mathbf{V}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\bX}{\mathbf{X}}
+\newcommand{\bY}{\mathbf{Y}}
+\newcommand{\bZ}{\mathbf{Z}}
+
+\newcommand{\bba}{\mathbf{a}}
+\newcommand{\bbb}{\mathbf{b}}
+\newcommand{\bbc}{\mathbf{c}}
+\newcommand{\bbd}{\mathbf{d}}
+\newcommand{\bbe}{\mathbf{e}}
+\newcommand{\bbf}{\mathbf{f}}
+\newcommand{\bbg}{\mathbf{g}}
+\newcommand{\bbh}{\mathbf{h}}
+\newcommand{\bbk}{\mathbf{k}}
+\newcommand{\bbl}{\mathbf{l}}
+\newcommand{\bbm}{\mathbf{m}}
+\newcommand{\bbn}{\mathbf{n}}
+\newcommand{\bbp}{\mathbf{p}}
+\newcommand{\bbq}{\mathbf{q}}
+\newcommand{\bbr}{\mathbf{r}}
+\newcommand{\bbs}{\mathbf{s}}
+\newcommand{\bbt}{\mathbf{t}}
+\newcommand{\bbu}{\mathbf{u}}
+\newcommand{\bbv}{\mathbf{v}}
+\newcommand{\bbw}{\mathbf{w}}
+\newcommand{\bbx}{\mathbf{x}}
+\newcommand{\bby}{\mathbf{y}}
+\newcommand{\bbz}{\mathbf{z}}
+\newcommand{\0}{\mathbf{0}}
+\newcommand{\1}{\mathbf{1}}
+
+% Caligraphic english alphabet
+\newcommand{\cA}{\mathcal{A}}
+\newcommand{\cB}{\mathcal{B}}
+\newcommand{\cC}{\mathcal{C}}
+\newcommand{\cD}{\mathcal{D}}
+\newcommand{\cE}{\mathcal{E}}
+\newcommand{\cF}{\mathcal{F}}
+\newcommand{\cG}{\mathcal{G}}
+\newcommand{\cH}{\mathcal{H}}
+\newcommand{\cI}{\mathcal{I}}
+\newcommand{\cJ}{\mathcal{J}}
+\newcommand{\cK}{\mathcal{K}}
+\newcommand{\cL}{\mathcal{L}}
+\newcommand{\cM}{\mathcal{M}}
+\newcommand{\cN}{\mathcal{N}}
+\newcommand{\cO}{\mathcal{O}}
+\newcommand{\cP}{\mathcal{P}}
+\newcommand{\cQ}{\mathcal{Q}}
+\newcommand{\cR}{\mathcal{R}}
+\newcommand{\cS}{\mathcal{S}}
+\newcommand{\cT}{\mathcal{T}}
+\newcommand{\cU}{\mathcal{U}}
+\newcommand{\cV}{\mathcal{V}}
+\newcommand{\cW}{\mathcal{W}}
+\newcommand{\cX}{\mathcal{X}}
+\newcommand{\cY}{\mathcal{Y}}
+\newcommand{\cZ}{\mathcal{Z}}
+
+
+% Formatting shortcuts
+\newcommand{\red}[1]{\textcolor{red}{#1}}
+\newcommand{\blue}[1]{\textcolor{blue}{#1}}
+\newcommand{\htext}[2]{\texorpdfstring{#1}{#2}}
+
+% Statistics
+\newcommand{\distr}{\sim}
+\newcommand{\stddev}{\sigma}
+\newcommand{\covmatrix}{\Sigma}
+\newcommand{\mean}{\mu}
+\newcommand{\param}{\theta}
+\newcommand{\gthEst}{\hat{\theta}}
+\newcommand{\ftr}{\phi}
+\newcommand{\est}[1]{\hat{#1}}
+
+% General utility
+\newcommand{\todo}[1]{\textbf{[TODO]}] \footnote{TODO: #1}}
+\newcommand{\tbc}{[\textbf{Incomplete}]}
+\newcommand{\chk}{[\textbf{Check}]}
+\newcommand{\why}{[\textbf{Find proof}]}
+\newcommand{\opt}[1]{\textit{#1}}
+
+\newcommand{\experience}[1]{[\textbf{Personal Experience}]: #1 \blacktriangle}
+\newcommand{\pf}[1]{[\textbf{Proof}]: #1 \Box}
+\newcommand{\core}[1]{\textbf{Core Idea}: #1 \Arrowvert}
+\newcommand{\example}[1]{\textbf{Example}: #1 \blacktriangle}
+\newcommand{\error}[1]{\textbf{Error alert}: #1 \triangle}
+\newcommand{\oprob}{[\textbf{OP}]: }
+
+
+\renewcommand{\~}{\htext{$\sim$}{~}}
+
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+
+
+\)
+
+
+
+    
+<header class="p-1 bg-yellow noPrint">
+    <nav role="navigation" class="col">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> R</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <button class="btn btn-light"  href="#transliterationDropdown" data-toggle="collapse">
+            ✍
+          </button>
+          <select id="transliterationDropdown" size="1" class="collapse" onchange="module_uiLib.default.content.updateTransliteration()">
+            <optgroup label="🌍">
+              <option value="iso">āISO</option>
+              <option value="iso_vedic">āi-āu</option>
+              <option value="cyrillic">пу</option>
+              <option value="urdu">نس</option>
+              <option value="??">🌍??</option>
+            </optgroup>
+            <optgroup label="🛕🧭S">
+              <option value="kannada">ಅ</option>
+              <option value="malayalam">അ</option>
+              <option value="telugu">క</option>
+              <option value="tamil_superscripted">க²</option>
+              <option value="tamil_extended">க</option>
+              <option value="grantha">𑌅</option>
+            </optgroup>
+            <optgroup label="🛕🧭N">
+              <option value="devanagari" selected="">स</option>
+              <option value="gujarati">અ</option>
+              <option value="gurmukhi">ਅ</option>
+            </optgroup>
+            <optgroup label="🛕🧭E">
+              <option value="oriya">ଅ</option>
+              <option value="assamese">অস</option>
+              <option value="bengali">অ</option>
+            </optgroup>
+            <optgroup label="🛕🏺📜">
+              <option value="sharada">𑆑𑇀𑆰</option>
+              <option value="brahmi">𑀅</option>
+            </optgroup>
+            <optgroup label="🛕🌋">
+              <option value="balinese">ᬩᬮᬶ</option>
+            </optgroup>
+          </select>
+          <div>
+          <button class="btn btn-outline-secondary btn-sm"  href="#transliterationDropdownAlt" data-toggle="collapse">
+          (✍)
+          </button>
+          <select id="transliterationDropdownAlt" size="1"  style="font-size:12px" class="bg-light-yellow collapse" onchange="module_uiLib.default.content.updateTransliteration()">
+            <optgroup label="🌍">
+              <option value="iso">āISO</option>
+              <option value="iso_vedic">āi-āu</option>
+              <option value="cyrillic">пу</option>
+              <option value="urdu">نس</option>
+              <option value="??">🌍??</option>
+            </optgroup>
+            <optgroup label="🛕🧭S">
+              <option value="kannada">ಅ</option>
+              <option value="malayalam">അ</option>
+              <option value="telugu">క</option>
+              <option value="tamil_superscripted">க²</option>
+              <option value="tamil_extended">க</option>
+              <option value="grantha">𑌅</option>
+            </optgroup>
+            <optgroup label="🛕🧭N">
+              <option value="devanagari" selected="">स</option>
+              <option value="gujarati">અ</option>
+              <option value="gurmukhi">ਅ</option>
+            </optgroup>
+            <optgroup label="🛕🧭E">
+              <option value="oriya">ଅ</option>
+              <option value="assamese">অস</option>
+              <option value="bengali">অ</option>
+            </optgroup>
+            <optgroup label="🛕🏺📜">
+              <option value="sharada">𑆑𑇀𑆰</option>
+              <option value="brahmi">𑀅</option>
+            </optgroup>
+            <optgroup label="🛕🌋">
+              <option value="balinese">ᬩᬮᬶ</option>
+            </optgroup>
+          </select>
+          </div>
+          <div class="row col d-flex  dropdown">
+            <button class="btn btn-secondary-outline btn-sm dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              A±
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <a class="btn btn-secondary btn-sm" onclick="module_uiLib.changeTextSize(2)">A+</a>
+            <a class="btn btn-secondary btn-sm" onclick="module_uiLib.changeTextSize(-2)">A-</a>
+            </div>
+          </div>
+          <button class="btn btn-light btn-sm"  href="#commentStyleDropdown" data-toggle="collapse">
+            🗨
+          </button>
+          <select id="commentStyleDropdown" class="collapse" size="1" onchange="module_uiLib.default.content.updateCommentStyleFromDropdown()">
+            <option value="on">✔</option>
+            <option value="hidden">✗</option>
+          </select>
+          <div><a id="expandAllButton" class="btn btn-secondary" onclick="module_uiLib.default.query.setParamsAndGo({'expandDetails': '.*'})">↕️️</a></div>
+          <div id="printStyleDiv" class="row col d-flex  dropdown">
+          <button class="btn btn-light btn-sm dropdown-toggle"  href="#printStyleDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          🖨
+          </button>
+            <div class="dropdown-menu col" aria-labelledby="printStyleDropdown">
+              <div class="row justify-content-center">
+                <p>Cols:</p>
+                <input type="number" min="1" max="10" value="2" step="1" id="tbColumns" style="width: 3ch;"  accesskey="c"/>
+              </div>
+              <div class="row justify-content-center">
+                <p>A±:</p> <input type="text" id="tbBodyFontSize" value="0.4cm" style="width: 6ch;"  accesskey="f"></input>
+              </div>
+              <div class="row justify-content-center">
+                <p>Incl:</p> <input checked type="checkbox" id="tbIncludeStyle" value="on"></input>
+                <button id="btnPrintStyle" onclick="module_uiLib.default.content.updatePrintStyle()">🖨
+                </button>
+              </div>
+            </div>
+        </div>
+        </div>
+        <div id="audioDiv" class="row col d-flex  dropdown">
+          <button class="btn btn-secondary-outline btn-sm dropdown-toggle" type="button" id="audioDropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            🎧
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <a id="speakerButton" class="btn btn-outline-secondary btn-sm" onclick="module_uiLib.default.content.handleSpeakToggle()">⏯</a>
+          <button id="speakerPauseButton" class="btn btn-outline-secondary btn-sm">⏸</button>
+            <div id="audioOptionsDiv" class="row justify-content-center" >
+              <div>
+                <p class="lead">Vol</p>
+                <input type="range" min="0" max="1" value="1" step="0.1" id="volume" />
+                <span id="volume-label" class="ms-2">1</span>
+              </div>
+              <div class="mx-5">
+                <p class="lead">Rate</p>
+                <input type="range" min="0.1" max="10" value="1" id="rate" step="0.1" />
+                <span id="rate-label" class="ms-2">1</span>
+              </div>
+              <div>
+                <p class="lead">Pitch</p>
+                <input type="range" min="0" max="2" value="1" step="0.1" id="pitch" />
+                <span id="pitch-label" class="ms-2">1</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a href="https://vishvAsa.github.io/notes/search"  class="btn btn-light btn-sm">🥽🔦</a>
+        <div class="row col  d-flex justify-content-center">
+          <div><a id="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a id="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border noPrint " id="sidebar">
+          <div id="fastSearch">
+              <datalist id="pageDataList"></datalist>
+              <input id="searchInput" placeholder="शीर्षिकान्विष्यताम्" list="pageDataList" onchange="module_uiLib.default.navigation.pageLoader()">
+          </div>
+          <details open  class="bg-light-gray" >
+              <summary id="sidebarToggleLink" onclick="module_uiLib.default.navigation.sidebarToggleHandler()">
+            Menu
+              </summary>
+              <ul id="sidebarBody" class="list pl2 p-0 bg-yellow">
+              </ul>
+          </details>
+      </aside>
+      <main class="col p-3" role="main" data-pagefind-body>
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="R">R</h1>
+    
+    <a id="editLink" class="btn btn-primary noPrint"  href="https://github.com/vishvAsa/notes/edit/content/computing/programming/programming_languages/math/R.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border noPrint ">
+    <details id="toc_header">
+        <summary>What's in this page?</summary>
+      <div id="toc_body" class="p-0">
+        
+        <ul id="toc_ul" class="list p-0">
+        </ul>
+      </div>
+    </details>
+    <div id="progressBarDiv" class="row d-flex justify-content-center">
+      🐎💪<progress id="progressLoading" value="0" max="100"> 32% </progress>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="introduction-and-use">Introduction and use</h2>
+<h3 id="when-to-use">When to use</h3>
+<p>Statistics is the emphasis, not matrix manipulation. It is an expression language.</p>
+<h3 id="when-not-to-use">When not to use</h3>
+<p>Text processing and general purpose programming are painful.</p>
+<h3 id="writing-building-and-executing-code">Writing, Building and executing code</h3>
+<h4 id="script-execution">Script execution</h4>
+<p>source(&quot;/path/file.R&quot;).</p>
+<h4 id="reloading-changed-code">Reloading changed code</h4>
+<p>library(&ldquo;R.utils&rdquo;);</p>
+<p>sourceDirectory(&ldquo;work&rdquo;, modifiedOnly=TRUE, \pattern=&quot;[A-Z]*[.]R$&quot;, recursive=FALSE);</p>
+<h4 id="important-environment-variables">Important environment variables</h4>
+<p>\verb R_LIBS : the place where R libraries are installed.</p>
+<h4 id="working-environment">Working environment</h4>
+<p>getwd(), setwd(dir)</p>
+<p>options(): Example options(digits=3)</p>
+<h4 id="command-history">Command history</h4>
+<p>history(), savehistory, loadhistory.</p>
+<p>Can use Ctrl+R as  in BASH.</p>
+<h4 id="good-ides">Good IDE&rsquo;s</h4>
+<h5 id="native-gui">Native GUI</h5>
+<p>Graphical data entry: data.entry(x), edit(x).</p>
+<h3 id="listing-and-memory">Listing and memory</h3>
+<p>objects() lists objects.</p>
+<p>rm(objA, objB) removes certain objects from memory. rm(list=ls()) removes all objects.</p>
+<p>exists() checks for the existance of an object.</p>
+<h3 id="development-environment">Development environment</h3>
+<p>RStudio is good. Interactivity with RapidMiner is useful.</p>
+<h3 id="debugging">Debugging</h3>
+<p>The following can be inserted in the midst of code:</p>
+<p>browser(): breaks execution and allows debugging with arbitrary code: like keyboard in matlab. Use cont to continue the program. Q halts execution.</p>
+<p>debug(): marks function for debugging.</p>
+<p>trace() function modifies a function to allow debug code to be temporarily inserted.</p>
+<p>setBreakpoint(&ldquo;fun.R#20&rdquo;)</p>
+<p>traceback() is useful when error is encountered.</p>
+<h3 id="help">Help</h3>
+<p>help(command), ?command, \
+apropos(&ldquo;log&rdquo;), help.search(&ldquo;log&rdquo;), example(commandName).</p>
+<h3 id="libraries">libraries</h3>
+<h4 id="seeking">Seeking</h4>
+<p>help.search(fnName);</p>
+<h4 id="using">Using</h4>
+<h4 id="installing">Installing</h4>
+<p>Many packages are listed in cran internet repository.</p>
+<p>chooseCRANmirror()</p>
+<p>install.packages(&ldquo;igraph&rdquo;). For usage, see the packages subsection.</p>
+<h2 id="data-types-values-variables">Data: types, values, variables</h2>
+<h3 id="names-and-namespace">Names and namespace</h3>
+<h4 id="valid-names">Valid names</h4>
+<p>a.b and a_b are valid name; but by doing so, you are not creating a structure named a. A name can start with &lsquo;.&rsquo;, but if so it cannot be followed by a digit.</p>
+<h4 id="namespace">Namespace</h4>
+<p>Uses: avoid name conflicts, structure code well.</p>
+<p>To call a function b in a namespace a, use: a::b(). If b is hidden, then use a:::b().</p>
+<h4 id="accessing-list-members-directly">Accessing list members directly</h4>
+<p>Use attach(Lst). detach() reverses this.</p>
+<h3 id="object">Object</h3>
+<p>Everything is actually an object with attributes.</p>
+<h4 id="accessing-attributes">Accessing attributes</h4>
+<p>attrName(objName)</p>
+<h4 id="setting-attributes">Setting attributes</h4>
+<p>attr(object, attribute) is used to get or set an attribute.</p>
+<p>Or one can use structure(object, attr=value).</p>
+<h4 id="important-attributes">Important attributes</h4>
+<p>mode: details about the type of data contained.</p>
+<p>length.</p>
+<h3 id="modes-and-type">Modes and type</h3>
+<p>Mode: details about the type of data contained. This is distinct from the type of the object itself (data.frame, or vector ..). So, type is akin to a generic/ template/ meta class in Java made concrete by specification of mode arguments corresponding to contents.</p>
+<h4 id="basic-modes">Basic modes</h4>
+<p>Boolean. Numeric. Integer.</p>
+<h3 id="scalar-values-and-operations">Scalar values and operations</h3>
+<h4 id="special-values">Special values</h4>
+<p>TRUE, FALSE. Inf. NA: &rsquo;not available&rsquo; or missing values. NaN is also a special case of NA.</p>
+<p>These can be checked using is.na() and isNaN functions.</p>
+<h3 id="data-conversion">Data conversion</h3>
+<p>as.array(), as.data.frame etc..</p>
+<p>Use methods(as) for a list of such methods.</p>
+<h3 id="vectors">Vectors</h3>
+<h4 id="the-basic-math-object">The basic math object</h4>
+<p>A scalar is actually a vector with one element in R. An array is also internally a vector. A string is a character array.</p>
+<h4 id="homegeneity">Homegeneity</h4>
+<p>Vectors are homogenous: their &lsquo;mode&rsquo; attribute is character, numeric, logical.</p>
+<h4 id="named-entries">Named entries</h4>
+<p>names(x) = stringList is a way of giving names to indices.</p>
+<h4 id="indexing">Indexing</h4>
+<p>A vector can be indexed with a vector of a] logical elements, b] positive integers, c] negative integers.</p>
+<p>Eg: x[1:10] picks 1st 10 elements. x[-2]: all but x[2].</p>
+<p>x[&lsquo;abc&rsquo;] is valid if entries are named.</p>
+<p>tail(x, k) picks the k last elements.</p>
+<p>To append to a vector: append(v, val)</p>
+<h4 id="creating-vectors">Creating vectors</h4>
+<p>Using the concatenation function - c(1, 23, 24) creates a vector of the given elements.</p>
+<p>seq(); This can be abbreviated using the : operator.</p>
+<p>rep(vector, timesToRepeat) is the replicator function.</p>
+<p>vector() creates an empty vector.</p>
+<h4 id="vector-statistics-functions">Vector statistics functions</h4>
+<p>length, max, min, sum, mean, median, cummax, cummin, cumsum, cumprod, range, prod. cor: correlation.</p>
+<p>which: gather &lsquo;TRUE&rsquo; values from boolean vector.</p>
+<h4 id="apply-scalar-functions">Apply scalar functions</h4>
+<p>lapply returns a list. sapply, a simpler wrapper around lapply, returns a vector by default. vapply is an</p>
+<p>apply returns an array or a vector but acts on arrays.</p>
+<h3 id="factor">Factor</h3>
+<p>Factors are ways of storing a label-vector. They can be created using factor(labelColumn).</p>
+<p>An important attribute is levels, which contains the set of labels used.</p>
+<h3 id="strings">Strings</h3>
+<p>These are character vectors. Enclosed in &quot;&quot; for brevity.</p>
+<h4 id="string-manipulation">String manipulation</h4>
+<p>concatenation: paste(vector). substr gets a substring.</p>
+<p>strsplit(v, sep) returns a list, having split each element in v.</p>
+<h3 id="dates">Dates</h3>
+<h4 id="string-connection">String connection</h4>
+<p><code>d&lt;-as.Date(&quot;1995/12/01&quot;,format=&quot;%Y/%m/%d&quot;)</code> converts string to date.</p>
+<p>format(dt) converts date to string.</p>
+<h4 id="arithmetic-operations">Arithmetic operations</h4>
+<p>Then, one can add days with d+20.</p>
+<h3 id="arrays-matrices">Arrays/ matrices</h3>
+<h4 id="as-special-vectors">As special vectors</h4>
+<p>Arrays are just vectors which support multiple subscript indexing. So all operations and restrictions that apply to vectors apply to arrays.</p>
+<p>Arrays are stored column by column.</p>
+<p>The dimensionality is stored as a vector in the dim attribute.</p>
+<h4 id="indexing-1">Indexing</h4>
+<p>A[a, &hellip;]. Any subscript can be replaced with the sort of vector used to index vectors. If a subscript is omitted all values in that dimension are chosen.</p>
+<p>Eg: A[,c(3:5)]: picks 3 cols.</p>
+<h4 id="data-creation">Data creation</h4>
+<p>array(vector, dimensions). Or just set the dim attribute after creating a vector.</p>
+<p>Or concatenate various vectors or arrays: c(v1, v2)</p>
+<h5 id="matrices">Matrices</h5>
+<p>x = matrix(vector, nrow = 3).
+matrix(0,nrow=n,ncol=n)</p>
+<p>Row or column binding functions: rbind(vec1, vec2); cbind.</p>
+<h4 id="dimension-wise-oeprations">Dimension-wise oeprations</h4>
+<p>apply applies functions to margins of an array; apply(x,1,max): gives row max.</p>
+<p>sweep(m, 2, colSums(m), FUN=&quot;/&quot;)</p>
+<h4 id="matrix-functions">Matrix functions</h4>
+<p>t(A): transpose.\
+%*%, %^%: matrix mult and exp.</p>
+<p>diag(A) extracts diagonal, creates a diagonal matrix depending on the argument.</p>
+<p>sum, rowSums, colSums, rowMeans, colMeans. cor: correlation.</p>
+<h5 id="linear-algebra">Linear algebra</h5>
+<p>eigen, svd, qr. solve(A, b). lsfit(A, b).</p>
+<h3 id="lists">Lists</h3>
+<p>Lists are heterogenous. They are a combination of a Hashmap and a list. They are very convenient to use as structures.</p>
+<h4 id="list-creation">List creation</h4>
+<p>$L &lt;-list(1, a, b)$ or $L &lt;-list(a1= 1, a2 = a, xyz = b)$ for named lists.</p>
+<h4 id="accessing-list-items">Accessing list items</h4>
+<p>L[[4]], L[[&ldquo;fieldName&rdquo;]], L$fieldName. While indexing, list names can be abbreviated: Eg: &lsquo;cov&rsquo; instead of &lsquo;covar&rsquo;, as long as the interpreter is still able to uniquely identify the intended member.</p>
+<p>TO see if a member exists, use: fieldName %in% colnames(Lst).</p>
+<h4 id="concatenation">Concatenation</h4>
+<p>c(L1, L2) returns a single list with members from both.</p>
+<h3 id="data-frame">Data frame</h3>
+<p>Data frames are the R concept for data tables or matrices which can consist of columns of mixed types which can also have a name.</p>
+<h4 id="creation">Creation</h4>
+<p>They are often read in from files - using read.csv for example.</p>
+<p>By concatenating vectors: df = data.frame(n, s, b).</p>
+<h4 id="conversion">Conversion</h4>
+<p>Or from a matrix: data.frame(A). It can be reconverted to a matrix using data.matrix.</p>
+<h4 id="indexing-2">Indexing</h4>
+<p>Indexing is done as in the case of two dimensional arrays. If column headers exist, they can be used for indexing.</p>
+<pre tabindex="0"><code>drops &lt;- c(&#34;x&#34;,&#34;z&#34;)
+DF[,!(names(DF) %in% drops)]
+DF$colName
+</code></pre><h4 id="searching">Searching</h4>
+<p>\verb which(sbux.df$Date == &ldquo;3/1/1994&rdquo;)</p>
+<h4 id="concatenation-1">Concatenation</h4>
+<p>As in the case of matrices</p>
+<h3 id="model-formulae">Model Formulae</h3>
+<p>~ operator is used to separate left and right sides of formulae.</p>
+<p>Syntax: response ~ predictor variables (separated by +).</p>
+<h3 id="functions">Functions</h3>
+<p>Functions are actually objects.</p>
+<h4 id="definition">Definition</h4>
+<pre tabindex="0"><code>my.mean &lt;- function(x1 = defaultValue, y1) codeBlock
+</code></pre><p>The value returned is the value evaluated by the last expression in the function definition. Multiple return values are usually handled using lists.</p>
+<h4 id="variables-used">Variables used</h4>
+<p>Usually variables have a local scope: they cannot be accessed outside a function.</p>
+<p>They can use variables from the parent scope, say g. The value of g is bound from the parent scope. If a normal assignment is made to g: $g &lt;- 0$, g is then taken to refer a local variable. If g is not bound to a value, but is required in the function definition, there is an error; as it is not bound either in the definition or by an argument. However, if $g &laquo;- 0$ is used, then the parent-scope variable is updated, and g acts as the &lsquo;state&rsquo; of the function.</p>
+<h4 id="operator-defintions">Operator defintions</h4>
+<p>The function name can be replaced by %*% for example.</p>
+<h4 id="invocation">Invocation</h4>
+<p>Invocation can be done as in C, using a sequence of values. Together with positionally specified values, one can pass named arguments in any order. Eg: f(3, a=1, b = 2) or f(a=1).</p>
+<h2 id="operator">Operator</h2>
+<h3 id="assignment">Assignment</h3>
+<p>$&lt;-, -&gt;$, assign(). $&laquo;-$ is used to make global assignments: assignment to a variable outside the local scope.</p>
+<h3 id="scalar-operators">Scalar operators</h3>
+<h4 id="arithmetic-operators">Arithmetic operators</h4>
+<p>As in C.</p>
+<h4 id="operators-on-booleans">Operators on booleans</h4>
+<p><code>|, &amp;, ||, &amp;&amp;</code>,  where the latter result in &lsquo;short-circuit&rsquo; evaluation, where the second argument is evaluated only if necessary.</p>
+<h4 id="operators-which-produce-booleans">Operators which produce booleans</h4>
+<p><code>&gt;, &lt;, ==</code>.</p>
+<h3 id="general-vector-operators">General Vector operators</h3>
+<h4 id="mapping-over-elements">Mapping over elements</h4>
+<p>lapply can be used to apply scalar functions to vector elements, while apply() can be used to apply vector functions on array rows.</p>
+<h4 id="arithmetic-and-boolean-ops">Arithmetic and boolean ops</h4>
+<p>All scalar arithmetic operators are extended to be meaningful when provided vector arguments: even when they are not of the same size.</p>
+<h4 id="lengthening-of-arguments">Lengthening of arguments</h4>
+<p>All shorter arguments are extended by repetition to have the size of the longest vector: Thus 1+c(2 3) is define.</p>
+<h5 id="examples">Examples</h5>
+<p>c(1,2,3,4)/c(4,3,2,1). c(1,2,3,4) + c(4,3) yields 5 5 5 8.</p>
+<h4 id="ifelse-op">ifelse op</h4>
+<p>ifelse operation uses a logical vector as a condition.</p>
+<h4 id="set-membership">Set membership</h4>
+<pre tabindex="0"><code>drops &lt;- c(&#34;x&#34;,&#34;z&#34;)
+DF[,!(names(DF) %in% drops)]
+</code></pre><h4 id="missing-value-identification">Missing value identification</h4>
+<p>is.na(x) returns true for both NA and NAN values. Note that this is different from the syntactically undecidable expression x == NA.</p>
+<h2 id="code-structure">Code structure</h2>
+<p>Every line of code is an expression or a sentence.</p>
+<h3 id="code-blocks">Code blocks</h3>
+<p>{} encloses code block.</p>
+<h3 id="sentence-syntax">Sentence syntax</h3>
+<p>Sentences end with newline or ;.</p>
+<p># comments.</p>
+<h3 id="decision-structures">Decision structures</h3>
+<p>if(..) codeBlock; optionally followed by else codeBlock. for(var in vector) codeBlock. while(cond) codeBlock.</p>
+<h3 id="packages">Packages</h3>
+<p>To be able to use a package, one says: library(packageName). Standard packages are automatically available. Note that this is distinct from the idea of a namespace.</p>
+<h3 id="organization-with-lists">Organization with lists</h3>
+<p>Can group functions in lists which are declared in separate files. These files are then (re)loaded using commands like source or sourceDirectory.</p>
+<h2 id="io">IO</h2>
+<h3 id="file-io">File I/O</h3>
+<p>To load data from a table, use read.table(), read.csv (fileName, header=FALSE, stringsAsFactors = FALSE), write.csv(x, file).</p>
+<p>Write in matlab format: library(R.matlab), writeMat(filename, A=mat).</p>
+<h3 id="user-interaction-io">User interaction I/O</h3>
+<h4 id="output">output</h4>
+<p>a+b prints a value, which is then lost.</p>
+<p>print. printf is available in the base package.</p>
+<p>sink(&lsquo;fileName&rsquo;) diverts output to a file. sink() restores it to STDIO.</p>
+<h4 id="input">Input</h4>
+<p>x= scan(): keyboard input, no commas.</p>
+<h3 id="plotting">Plotting</h3>
+<p><code>plot(y ~ x)</code> produces a scatter plot.</p>
+<div class="highlight"><div style="background-color:#f0f0f0;-moz-tab-size:2;-o-tab-size:2;tab-size:2;">
+<table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:2;-o-tab-size:2;tab-size:2;"><code><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:2;-o-tab-size:2;tab-size:2;"><code class="language-R" data-lang="R"><span style="display:flex;"><span><span style="color:#06287e">plot</span>(x, y, main<span style="color:#666">=</span><span style="color:#4070a0">&#34;title&#34;</span>, sub<span style="color:#666">=</span><span style="color:#4070a0">&#34;subtitle&#34;</span>,
+</span></span><span style="display:flex;"><span>  xlab<span style="color:#666">=</span><span style="color:#4070a0">&#34;X-axis label&#34;</span>, ylab<span style="color:#666">=</span><span style="color:#4070a0">&#34;y-axix label&#34;</span>,
+</span></span><span style="display:flex;"><span>  xlim<span style="color:#666">=</span><span style="color:#06287e">c</span>(xmin, xmax), ylim<span style="color:#666">=</span><span style="color:#06287e">c</span>(ymin, ymax))
+</span></span><span style="display:flex;"><span><span style="color:#06287e">plot</span>(<span style="color:#007020;font-weight:bold">NULL</span>, xlim<span style="color:#666">=</span><span style="color:#06287e">c</span>(<span style="color:#40a070">0</span>,<span style="color:#40a070">1000</span>), ylim<span style="color:#666">=</span><span style="color:#06287e">c</span>(<span style="color:#40a070">0</span>,<span style="color:#40a070">1000</span>), xlab<span style="color:#666">=</span><span style="color:#4070a0">&#34;Generations&#34;</span>, ylab <span style="color:#666">=</span> <span style="color:#4070a0">&#34;N_t&#34;</span>) <span style="color:#60a0b0;font-style:italic"># Empty plot</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h4 id="attributes">Attributes</h4>
+<div class="highlight"><div style="background-color:#f0f0f0;-moz-tab-size:2;-o-tab-size:2;tab-size:2;">
+<table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:2;-o-tab-size:2;tab-size:2;"><code><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:2;-o-tab-size:2;tab-size:2;"><code class="language-R" data-lang="R"><span style="display:flex;"><span><span style="color:#06287e">legend</span>( x<span style="color:#666">=</span><span style="color:#4070a0">&#34;topright&#34;</span>,
+</span></span><span style="display:flex;"><span>        legend<span style="color:#666">=</span><span style="color:#06287e">c</span>(<span style="color:#4070a0">&#34;k=2k&#34;</span>,<span style="color:#4070a0">&#34;k=1.5k&#34;</span>, <span style="color:#4070a0">&#34;k=1k&#34;</span>),
+</span></span><span style="display:flex;"><span>        col<span style="color:#666">=</span><span style="color:#06287e">c</span>(<span style="color:#4070a0">&#34;red&#34;</span>,<span style="color:#4070a0">&#34;blue&#34;</span>, <span style="color:#4070a0">&#34;green&#34;</span>))
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h4 id="add-to-same-plot">Add to same plot</h4>
+<div class="highlight"><div style="background-color:#f0f0f0;-moz-tab-size:2;-o-tab-size:2;tab-size:2;">
+<table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:2;-o-tab-size:2;tab-size:2;"><code><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:2;-o-tab-size:2;tab-size:2;"><code class="language-R" data-lang="R"><span style="display:flex;"><span><span style="color:#06287e">plot</span>(x,y1,type<span style="color:#666">=</span><span style="color:#4070a0">&#34;l&#34;</span>,col<span style="color:#666">=</span><span style="color:#4070a0">&#34;red&#34;</span>)
+</span></span><span style="display:flex;"><span><span style="color:#06287e">lines</span>(x,y2,col<span style="color:#666">=</span><span style="color:#4070a0">&#34;green&#34;</span>)
+</span></span><span style="display:flex;"><span><span style="color:#06287e">points</span>(x,y2,col<span style="color:#666">=</span><span style="color:#4070a0">&#34;blue&#34;</span>)
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h4 id="combine-plots">Combine plots</h4>
+<div class="highlight"><div style="background-color:#f0f0f0;-moz-tab-size:2;-o-tab-size:2;tab-size:2;">
+<table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:2;-o-tab-size:2;tab-size:2;"><code><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:2;-o-tab-size:2;tab-size:2;"><code class="language-R" data-lang="R"><span style="display:flex;"><span><span style="color:#06287e">par</span>(mfrow <span style="color:#666">=</span> <span style="color:#06287e">c</span>(<span style="color:#40a070">1</span>,<span style="color:#40a070">2</span>)) <span style="color:#60a0b0;font-style:italic"># Make 1*2 grid</span>
+</span></span><span style="display:flex;"><span><span style="color:#06287e">par</span>(mfg<span style="color:#666">=</span><span style="color:#06287e">c</span>(<span style="color:#40a070">1</span>,<span style="color:#40a070">1</span>)) <span style="color:#60a0b0;font-style:italic"># Set the first plot</span>
+</span></span><span style="display:flex;"><span><span style="color:#06287e">plot</span>(<span style="color:#007020;font-weight:bold">NULL</span>, xlim<span style="color:#666">=</span><span style="color:#06287e">c</span>(<span style="color:#40a070">0</span>,<span style="color:#40a070">1000</span>), ylim<span style="color:#666">=</span><span style="color:#06287e">c</span>(<span style="color:#40a070">0</span>,<span style="color:#40a070">1000</span>), xlab<span style="color:#666">=</span><span style="color:#4070a0">&#34;Generations&#34;</span>, ylab <span style="color:#666">=</span> <span style="color:#4070a0">&#34;N_t&#34;</span>)
+</span></span><span style="display:flex;"><span><span style="color:#06287e">par</span>(mfg<span style="color:#666">=</span><span style="color:#06287e">c</span>(<span style="color:#40a070">1</span>,<span style="color:#40a070">2</span>)) <span style="color:#60a0b0;font-style:italic"># Set the second plot</span>
+</span></span><span style="display:flex;"><span><span style="color:#06287e">plot</span>(<span style="color:#007020;font-weight:bold">NULL</span>, xlim<span style="color:#666">=</span><span style="color:#06287e">c</span>(<span style="color:#40a070">0</span>,<span style="color:#40a070">50</span>), ylim<span style="color:#666">=</span><span style="color:#06287e">c</span>(<span style="color:#40a070">0</span>,<span style="color:#40a070">1</span>), xlab<span style="color:#666">=</span><span style="color:#4070a0">&#34;Generations&#34;</span>, ylab <span style="color:#666">=</span> <span style="color:#4070a0">&#34;R_t&#34;</span>)
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="tables">Tables</h3>
+<p>Tables can be produced with <code>xtabs(y ~ x)</code>.</p>
+<h2 id="data-preparation-and-exploration">Data preparation and exploration</h2>
+<p>scale(x, center = TRUE, scale = TRUE) normalizes columns using the mean and standard deviation.</p>
+<p>Getting covariance matrix: cor(x, y = NULL, use = &ldquo;pairwise.complete.obs&rdquo;)</p>
+<h2 id="modeling">Modeling</h2>
+<p>Several useful functions are provided to evaluate fitted models in the package stats, which is loaded by default.</p>
+<h3 id="classification">Classification</h3>
+<p>Decision tree learning: rpart</p>
+<h4 id="logistic-regression">Logistic regression</h4>
+<pre tabindex="0"><code>glm(model, data=tblName, family = binomial())
+ret &lt;- glm.fit(x=X, y=z, family=binomial())
+</code></pre><p>Options for family include: binomial(link=logit)</p>
+<p>The return value is a list which includes coefficients and fitted.values.</p>
+<h4 id="logistic-regression-with-l1l2-regularization">Logistic regression with l1/l2 regularization</h4>
+<p>Use the glmnet package (requires gfortran).</p>
+<p>Example:</p>
+<pre tabindex="0"><code>returnList &lt;- cv.glmnet(X, y, family = &#34;binomial&#34;);
+</code></pre><p>returnList contains the following vectors: lambda (corresponding to the lagrangian multiplier for the l1-norm), cvm - the corresponding mean cross-validated errors, glmnet.fit: the fit weights.</p>
+<h4 id="decision-tree-rpart-and-tree">Decision tree: rpart and tree</h4>
+<pre tabindex="0"><code>ret &lt;- rpart(model, tblRet)
+print(ret)
+</code></pre><h2 id="other-library-functions">Other library functions</h2>
+<h3 id="random-sampling">Random sampling</h3>
+<p>Sampling from distributions: runif. sample(x, size, [replace=TRUE])</p>
+<h2 id="write-c-extensions">Write C extensions</h2>
+<h3 id="write-c-code">Write C code</h3>
+<p>Useful libraries: #include &lt;R.h&gt; #include &lt;Rmath.h&gt;</p>
+<p>Signature: void getSamples(int *input, int *output)</p>
+<h3 id="calling-c-code">Calling C code</h3>
+<p>Compile C code: R CMD SHLIB foo.c</p>
+<p>Loading: dyn.load(&ldquo;foo.so&rdquo;)</p>
+<p>Calling: .C(&ldquo;foo&rdquo;, n=as.integer(5), x=as.double(rnorm(5)))</p>
+<p>This returns a list of return.</p>
+<h2 id="ref">Ref</h2>
+<div class="spreadsheet" fullHeightWithRowsPerScreen=8 src="../R.toml"> </div>  
+
+  </div>
+</article>
+
+
+        
+
+        
+
+
+
+    <aside class="card border noPrint" id="section-tree-item-computing_programming_programming_languages_math_R_md">
+        <div class="card-title bg-light-gray border d-flex justify-content-between">
+            <a href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/">R </a>
+            <a data-toggle="collapse" href="#section-tree-item-body-computing_programming_programming_languages_math_R_md" role="button" aria-expanded="false" aria-controls="section-tree-item-body-computing_programming_programming_languages_math_R_md" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+        </div>
+        <nav id="section-tree-item-body-computing_programming_programming_languages_math_R_md" class="card-body p-0 collapse">
+            
+            <li>draft: false</li>
+            
+            <li>iscjklanguage: false</li>
+            
+            <li>title: R</li>
+            
+        </nav>
+    </aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1 noPrint" role="contentinfo">
+  
+
+  <div id="div_foot_nav_bar" class="row">
+    <a href="https://vishvAsa.github.io/notes/search"  class="btn btn-light btn-sm">🥽🔦</a>
+    <div class="row col  d-flex justify-content-center">
+      <div><a id="previousPageFoot" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+      <div ><a id="nextPageFoot" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+    </div>
+      <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+      </ul>
+  </div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vishvAsa/notes/issues/new" >
+      ✉️Contact
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      
+      <a href="https://github.com/vishvAsa/notes/actions/workflows/build.yml"><img src="https://github.com/vishvAsa/notes/actions/workflows/build.yml/badge.svg"> Built </a> on 2026 Feb 12 01:34:45 UTC. (<a href="http://google.com/search?q=01%3a34%3a45%20UTC to IST">IST</a>)
+    </div>
+  </div>
+</footer>
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-33H08JSLQR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-33H08JSLQR');
+</script>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_uiLib.onDocumentReadyTasks();
+  </script>
+  
+</html>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Contagion (General) on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/sapiens/phenes/health/disease/infection/contagion/</link>
+    <description>Recent content in &#43;Contagion (General) on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/sapiens/phenes/health/disease/infection/contagion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diagnosis</title>
+      <link>https://vishvAsa.github.io/notes/sapiens/phenes/health/disease/infection/contagion/diagnosis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/sapiens/phenes/health/disease/infection/contagion/diagnosis/</guid>
+      <description>&lt;h2 id=&#34;rt-pcr&#34;&gt;RT-PCR&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;RT-PCR = Reverse transcription (RNA to DNA) + polymerase chain reaction. Fluorescent dyes go bound to complementary DNA go and bind to any target DNA present.&lt;/li&gt;&#xA;&lt;li&gt;Amplification: &amp;ldquo;The machine cycles through temperatures that heat and cool the mixture to trigger specific chemical reactions that create new, identical copies of the target sections of viral DNA. The cycle is repeated over and over to continue copying the target sections of viral DNA. Each cycle doubles the previous number: two copies become four, four copies become eight, and so on. A standard real time RT–PCR set-up usually goes through 35 cycles, which means that, by the end of the process, around 35 billion new copies of the sections of viral DNA are created from each strand of the virus present in the sample.&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;The computer tracks the amount of fluorescence in the sample after each cycle. When a certain level of fluorescence is surpassed, this confirms that the virus is present. Scientists also monitor how many cycles it takes to reach this level in order to estimate the severity of the infection: the fewer the cycles, the more severe the viral infection is.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Examples</title>
+      <link>https://vishvAsa.github.io/notes/sapiens/phenes/health/disease/infection/contagion/examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/sapiens/phenes/health/disease/infection/contagion/examples/</guid>
+      <description>&lt;p&gt;Around 1978, a cat virus (feline parvovirus) jumped to dogs. Over the year or two, canine parvovirus  spread worldwide, infecting essentially every dog in the world. In puppies, over 70% lethal when untreated, more like 50% lethal in untreated adult dogs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Masks</title>
+      <link>https://vishvAsa.github.io/notes/sapiens/phenes/health/disease/infection/contagion/masks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/sapiens/phenes/health/disease/infection/contagion/masks/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Masks proved very effective during Wuhan contagion.&lt;/li&gt;&#xA;&lt;li&gt;Surgical masks are effective in screening upto 99.9% compared to 3 layered cloth mask which is effective upto 86.4% according to simulations.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;figure class=&#34;thumbnail&#34;&gt;&#xA;&#xA;    &lt;a href=&#34;images/surgical_vs_cloth_mask.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&#xA;        &lt;img src=&#34;images/surgical_vs_cloth_mask.jpg&#34; alt=&#34;&#34; title=&#34;&#34;&gt;&#xA;    &lt;/a&gt;&#xA;&#xA;    &#xA;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title>Treatment preparation</title>
+      <link>https://vishvAsa.github.io/notes/sapiens/phenes/health/disease/infection/contagion/treatment-preparation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/sapiens/phenes/health/disease/infection/contagion/treatment-preparation/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Every winter,hospitals in the west prepare themselves for winter surges with extra beds, extra oxygen and ICU beds.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;oxygen&#34;&gt;Oxygen&lt;/h2&gt;&#xA;&lt;h3 id=&#34;india&#34;&gt;India&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Under normal circumstances,a typical 500 bed hospital catering to multiples of specialities required Oxygen that was supplied through cylinders which cost very cheap INR 100-150.&lt;/li&gt;&#xA;&lt;li&gt;There was never a huge demand that individual hospitals or the govt had to invest in Oxygen plants at every district level. A typical Oxygen plant costs INR 75 lakhs to a hospital if they had to install one. It would take 8 to 10 years for any hospital investing this Oxygen plant to recover the money as the consumption was less.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,1948 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Rudraṭa knights tour - GSS Murthy</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.143.0">
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:url" content="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/">
+  <meta property="og:site_name" content="Vishvas&#39;s notes">
+  <meta property="og:title" content="Rudraṭa knights tour - GSS Murthy">
+  <meta property="og:description" content="The Knight’s Tour Problem and Rudraṭa’s Verse:
+A View of the Indian Facet of the Knight’s Tour
+By
+G S S Murthy
+[Affiliation: FIETE; Corresponding author: G S S Murthy Email:murthygss gmail]
+Abstract If a chess-knight is moved on a vacant chess-board [8x8 square] such that it visits each one of the 64 squares once and once only, the knight is said to execute a Knight’s Tour. Solution to the knight’s tour problem was known in India as early as the 9th century AD as a demonstration of wizardry in composing 32-syllable verses in Sanskrit. A pair of meaningful verses is composed in such a manner that when one verse is written serially (left to right and top to bottom) one syllable a square to fill up 8x4 cells –half of a chess board- the other verse appears as the Knight’s Tour. The earliest example of this skill in poetry-composition is given in a Sanskrit treatise on poetics, kāvyālaṅkāra written by Rudraṭa who lived around the ninth century A.D. Knight’s Tour as a mathematical problem was first noticed and discussed in the West by Leonard Euler in the eighteenth century. After providing the back ground to the subject as a puzzle on the chess-board, a problem in mathematics and as a challenge in verse-composition, the article discusses the special characteristic of Rudrata’s example where the pair of verses reduces to a single verse.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="math">
+
+  <meta itemprop="name" content="Rudraṭa knights tour - GSS Murthy">
+  <meta itemprop="description" content="The Knight’s Tour Problem and Rudraṭa’s Verse:
+A View of the Indian Facet of the Knight’s Tour
+By
+G S S Murthy
+[Affiliation: FIETE; Corresponding author: G S S Murthy Email:murthygss gmail]
+Abstract If a chess-knight is moved on a vacant chess-board [8x8 square] such that it visits each one of the 64 squares once and once only, the knight is said to execute a Knight’s Tour. Solution to the knight’s tour problem was known in India as early as the 9th century AD as a demonstration of wizardry in composing 32-syllable verses in Sanskrit. A pair of meaningful verses is composed in such a manner that when one verse is written serially (left to right and top to bottom) one syllable a square to fill up 8x4 cells –half of a chess board- the other verse appears as the Knight’s Tour. The earliest example of this skill in poetry-composition is given in a Sanskrit treatise on poetics, kāvyālaṅkāra written by Rudraṭa who lived around the ninth century A.D. Knight’s Tour as a mathematical problem was first noticed and discussed in the West by Leonard Euler in the eighteenth century. After providing the back ground to the subject as a puzzle on the chess-board, a problem in mathematics and as a challenge in verse-composition, the article discusses the special characteristic of Rudrata’s example where the pair of verses reduces to a single verse.">
+  <meta itemprop="wordCount" content="5582">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Rudraṭa knights tour - GSS Murthy">
+  <meta name="twitter:description" content="The Knight’s Tour Problem and Rudraṭa’s Verse:
+A View of the Indian Facet of the Knight’s Tour
+By
+G S S Murthy
+[Affiliation: FIETE; Corresponding author: G S S Murthy Email:murthygss gmail]
+Abstract If a chess-knight is moved on a vacant chess-board [8x8 square] such that it visits each one of the 64 squares once and once only, the knight is said to execute a Knight’s Tour. Solution to the knight’s tour problem was known in India as early as the 9th century AD as a demonstration of wizardry in composing 32-syllable verses in Sanskrit. A pair of meaningful verses is composed in such a manner that when one verse is written serially (left to right and top to bottom) one syllable a square to fill up 8x4 cells –half of a chess board- the other verse appears as the Knight’s Tour. The earliest example of this skill in poetry-composition is given in a Sanskrit treatise on poetics, kāvyālaṅkāra written by Rudraṭa who lived around the ninth century A.D. Knight’s Tour as a mathematical problem was first noticed and discussed in the West by Leonard Euler in the eighteenth century. After providing the back ground to the subject as a puzzle on the chess-board, a problem in mathematics and as a challenge in verse-composition, the article discusses the special characteristic of Rudrata’s example where the pair of verses reduces to a single verse.">
+<script type="text/javascript">
+    
+    let baseURL = "https:\/\/vishvAsa.github.io\/notes\/";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022build_img\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/actions\/workflows\/build.yml\/badge.svg\u0022,\u0022build_url\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/actions\/workflows\/build.yml\u0022,\u0022contactlink\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/issues\/new\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/edit\/content\/\u0022,\u0022js_extras\u0022:[\u0022mathjax\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022देवः\u0022,\u0022url\u0022:\u0022..\/devaH\/\u0022},{\u0022title\u0022:\u0022आगमः\u0022,\u0022url\u0022:\u0022..\/AgamaH\/\u0022},{\u0022title\u0022:\u0022आगमः शैवः\u0022,\u0022url\u0022:\u0022..\/AgamaH_shaivaH\/\u0022},{\u0022title\u0022:\u0022आगमः वैष्णवः\u0022,\u0022url\u0022:\u0022..\/AgamaH_vaiShNavaH\/\u0022},{\u0022title\u0022:\u0022रामानुजीयम्\u0022,\u0022url\u0022:\u0022..\/rAmAnujIyam\/\u0022},{\u0022title\u0022:\u0022माध्वम्\u0022,\u0022url\u0022:\u0022..\/mAdhvam\/\u0022},{\u0022title\u0022:\u0022आगमः ब्राह्मः\u0022,\u0022url\u0022:\u0022..\/AgamaH_brAhmaH\/\u0022},{\u0022title\u0022:\u0022कल्पान्तरम्\u0022,\u0022url\u0022:\u0022..\/kalpAntaram\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022वेदाः\u0022,\u0022url\u0022:\u0022..\/vedAH\/\u0022},{\u0022title\u0022:\u0022वेदाः - ऋक्\u0022,\u0022url\u0022:\u0022..\/vedAH_Rk\/\u0022},{\u0022title\u0022:\u0022वेदाः - यजुः\u0022,\u0022url\u0022:\u0022..\/vedAH_yajuH\/\u0022},{\u0022title\u0022:\u0022वेदाः - साम\u0022,\u0022url\u0022:\u0022..\/vedAH_sAma\/\u0022},{\u0022title\u0022:\u0022पुराणम्\u0022,\u0022url\u0022:\u0022..\/purANam\u0022},{\u0022title\u0022:\u0022पुराणम् वैष्णवम्\u0022,\u0022url\u0022:\u0022..\/purANam_vaiShNavam\/\u0022},{\u0022title\u0022:\u0022महाभारतम्\u0022,\u0022url\u0022:\u0022..\/mahAbhAratam\/\u0022},{\u0022title\u0022:\u0022रामायणम्\u0022,\u0022url\u0022:\u0022..\/rAmAyaNam\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvyam\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022ಕನ್ನಡ\u0022,\u0022url\u0022:\u0022..\/kannaDa\/\u0022},{\u0022title\u0022:\u0022त्रिपिटकम्\u0022,\u0022url\u0022:\u0022..\/tipiTaka\/\u0022},{\u0022title\u0022:\u0022पाळयः\u0022,\u0022url\u0022:\u0022..\/pALi\/\u0022},{\u0022title\u0022:\u0022भाषान्तरम्\u0022,\u0022url\u0022:\u0022..\/bhAShAntaram\/\u0022},{\u0022title\u0022:\u0022English Lit\u0022,\u0022url\u0022:\u0022..\/english\/\u0022},{\u0022title\u0022:\u0022Book pub\u0022,\u0022url\u0022:\u0022..\/book-pub\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vishvAsa.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    
+    var pageRelUrlTree = {};
+</script>
+
+    
+    <script type="text/javascript">
+  let pageVars = {};
+  pageVars.pageUrlMinusBasePath = "\/notes\/math\/history\/hindu\/articles\/rudraTa-knights-tour_gss-murthy\/".replace(basePath, "/");
+  pageVars.pageParams = {};
+  pageVars.pageSource = "math\/history\/hindu\/articles\/rudraTa-knights-tour_gss-murthy.md";
+  console.log(pageVars.pageSource);
+  var pageDefaults;
+  for (let possiblePageDefaults of pageDefaultsList) {
+    if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+      pageDefaults = possiblePageDefaults.values
+    }
+  }
+    
+</script>
+
+
+    <script src="/notes/webpack_dist/uiLib-bundle.js"></script>
+
+
+<script>
+
+
+MathJax = {
+  tex: {
+    inlineMath: [ ["@#", "#@"], ["\\(", "\\)"] ],
+    displayMath: [ ["$$","$$"], ["\\[", "\\]"] ],
+    processEscapes: true,  
+  },
+  svg: {
+    fontCache: 'global'
+  },
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore|dno"
+  }
+};
+</script>
+<script type="text/javascript" id="MathJax-script" async
+        src="/notes/non_webpack_js/mathjax/tex-svg.js">
+</script>
+
+
+
+
+
+
+    <link rel="stylesheet" href="/notes/webpack_dist/uiLib.css">
+<link rel="stylesheet" href="/notes/css/uiLibPrint.css" media="print" >
+<link rel="stylesheet" href="/notes/css/fonts.css" >
+<link rel="stylesheet" href="/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+
+<link rel="stylesheet" href="/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+
+<link rel="alternate" hreflang="sa-Deva" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/" />
+<link rel="alternate" hreflang="sa-Deva" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=devanagari" />
+
+<link rel="alternate" hreflang="sa-Knda" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=kannada" />
+<link rel="alternate" hreflang="sa-Mlym" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=malayalam" />
+<link rel="alternate" hreflang="sa-Telu" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=telugu" />
+<link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=tamil_superscripted" />
+<link rel="alternate" hreflang="sa-Taml" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=tamil" />
+<link rel="alternate" hreflang="sa-Gran" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=grantha" />
+
+<link rel="alternate" hreflang="sa-Gujr" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=gujarati" />
+<link rel="alternate" hreflang="sa-Guru" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=gurmukhi" />
+<link rel="alternate" hreflang="sa-Shar" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=sharada" />
+<link rel="alternate" hreflang="sa-Dogr" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=dogra" />
+<link rel="alternate" hreflang="sa-Phag" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=phags_pa" />
+<link rel="alternate" hreflang="sa-Tibt" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=tibetan" />
+<link rel="alternate" hreflang="sa-Sidd" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=siddham" />
+<link rel="alternate" hreflang="sa-Newa" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=newa" />
+<link rel="alternate" hreflang="sa-Modi" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=modi" />
+<link rel="alternate" hreflang="sa-Tirh" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=tirhuta_maithili" />
+<link rel="alternate" hreflang="sa-Gong" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=gondi_gujala" />
+<link rel="alternate" hreflang="sa-Gonm" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=gondi_masaram" />
+
+
+<link rel="alternate" hreflang="sa-Orya" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=oriya" />
+<link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=assamese" />
+<link rel="alternate" hreflang="sa-Beng" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=bengali" />
+<link rel="alternate" hreflang="sa-Mtei" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=manipuri" />
+<link rel="alternate" hreflang="sa-Sinh" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=sinhala" />
+<link rel="alternate" hreflang="sa-Limb" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=limbu" />
+<link rel="alternate" hreflang="sa-Lepc" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=lepcha" />
+
+
+<link rel="alternate" hreflang="sa-Cyrl" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=cyrillic" />
+<link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iso" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=iso" />
+<link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=iast" />
+<link rel="alternate" hreflang="sa-Aran" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=urdu" />
+<link rel="alternate" hreflang="sa-Avst" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=avestan" />
+
+<link rel="alternate" hreflang="sa-Brah" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=brahmi" />
+<link rel="alternate" hreflang="sa-Khar" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=kharoshthi" />
+<link rel="alternate" hreflang="sa-Zanb" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=zanbazar_square" />
+<link rel="alternate" hreflang="sa-Bhks" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=bhaiksuki" />
+
+<link rel="alternate" hreflang="sa-Bali" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=balinese" />
+<link rel="alternate" hreflang="sa-Java" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=javanese" />
+<link rel="alternate" hreflang="sa-Laoo" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=lao" />
+<link rel="alternate" hreflang="sa-Laoo-t-sa-Laoo-m0-Laopali" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=lao_pali" />
+<link rel="alternate" hreflang="sa-Mymr" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=burmese" />
+<link rel="alternate" hreflang="sa-Mymr-t-sa-Mymr-m0-Mon" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=mon" />
+<link rel="alternate" hreflang="sa-Cham" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=cham" />
+<link rel="alternate" hreflang="sa-Khmr" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=khmer" />
+<link rel="alternate" hreflang="sa-Thai" href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/?transliteration_target=thai" />
+
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+\(
+% groupings of objects.
+\newcommand{\set}[1]{\left\{ #1 \right\}}
+\newcommand{\seq}[1]{\left(#1\right)}
+\newcommand{\ang}[1]{\langle#1\rangle}
+\newcommand{\tuple}[1]{\left(#1\right)}
+\newcommand{\size}[1]{\left| #1\right|}
+
+\newcommand{\comp}{\circ}
+
+
+% numerical shortcuts.
+\newcommand{\abs}[1]{\left| #1\right|}
+\newcommand{\floor}[1]{\left\lfloor #1 \right\rfloor}
+\newcommand{\ceil}[1]{\left\lceil #1 \right\rceil}
+
+% linear algebra shortcuts.
+\newcommand{\change}{\Delta}
+\newcommand{\norm}[1]{\left\| #1\right\|}
+\newcommand{\dprod}[1]{\langle#1\rangle}
+\newcommand{\linspan}[1]{\langle#1\rangle}
+\newcommand{\conj}[1]{\overline{#1}}
+\newcommand{\der}[1]{\frac{d#1}{dx}}
+\newcommand{\lap}{\Delta}
+\newcommand{\kron}{\otimes}
+\newcommand{\nperp}{\nvdash}
+
+\newcommand{\mat}[1]{\left[ \begin{smallmatrix}#1 \end{smallmatrix} \right]}
+
+% derivatives and limits
+\newcommand{\partder}[2]{\frac{\partial #1}{\partial #2}}
+\newcommand{\partdern}[3]{\frac{\partial^{#3 #1}}{\partial #2^{#3}}}
+\newcommand{\gradient}{\nabla}
+\newcommand{\subdifferential}{\partial}
+
+% Arrows
+\newcommand{\diverge}{\nearrow}
+\newcommand{\notto}{\nrightarrow}
+\newcommand{\up}{\uparrow}
+\newcommand{\down}{\downarrow}
+% gets and gives are defined!
+
+% ordering operators
+\newcommand{\oleq}{\preceq}
+\newcommand{\ogeq}{\succeq}
+
+% programming and logic operators
+\newcommand{\dfn}{:=}
+\newcommand{\assign}{:=}
+\newcommand{\co}{\ co\ }
+\newcommand{\en}{\ en\ }
+
+
+% logic operators
+\newcommand{\xor}{\oplus}
+\newcommand{\Land}{\bigwedge}
+\newcommand{\Lor}{\bigvee}
+\newcommand{\finish}{\Box}
+\newcommand{\contra}{\Rightarrow \Leftarrow}
+\newcommand{\iseq}{\stackrel{_?{=}}}
+
+
+% Set theory
+\newcommand{\symdiff}{\Delta}
+\newcommand{\setdiff}{\backslash}
+\newcommand{\union}{\cup}
+\newcommand{\inters}{\cap}
+\newcommand{\Union}{\bigcup}
+\newcommand{\Inters}{\bigcap}
+\newcommand{\nullSet}{\phi}
+
+
+% graph theory
+\newcommand{\nbd}{\Gamma}
+
+% Script alphabets
+% For reals, use \Re
+
+% greek letters
+\newcommand{\eps}{\epsilon}
+\newcommand{\del}{\delta}
+\newcommand{\ga}{\alpha}
+\newcommand{\gb}{\beta}
+\newcommand{\gd}{\del}
+\newcommand{\gp}{\pi}
+\newcommand{\gf}{\phi}
+\newcommand{\gh}{\eta}
+\newcommand{\gF}{\Phi}
+\newcommand{\gl}{\lambda}
+\newcommand{\gm}{\mu}
+\newcommand{\gn}{\nu}
+\newcommand{\gr}{\rho}
+\newcommand{\gs}{\sigma}
+\newcommand{\gth}{\theta}
+\newcommand{\gx}{\xi}
+\newcommand{\gw}{\omega}
+
+\newcommand{\sw}{\sigma}
+\newcommand{\SW}{\Sigma}
+\newcommand{\ew}{\lambda}
+\newcommand{\EW}{\Lambda}
+
+\newcommand{\Del}{\Delta}
+\newcommand{\gD}{\Delta}
+\newcommand{\gG}{\Gamma}
+\newcommand{\gW}{\Omega}
+\newcommand{\gS}{\Sigma}
+\newcommand{\gTh}{\Theta}
+
+% Bold english letters.
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bB}{\mathbf{B}}
+\newcommand{\bC}{\mathbf{C}}
+\newcommand{\bD}{\mathbf{D}}
+\newcommand{\bE}{\mathbf{E}}
+\newcommand{\bF}{\mathbf{F}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bI}{\mathbf{I}}
+\newcommand{\bJ}{\mathbf{J}}
+\newcommand{\bK}{\mathbf{K}}
+\newcommand{\bL}{\mathbf{L}}
+\newcommand{\bM}{\mathbf{M}}
+\newcommand{\bN}{\mathbf{N}}
+\newcommand{\bO}{\mathbf{O}}
+\newcommand{\bP}{\mathbf{P}}
+\newcommand{\bQ}{\mathbf{Q}}
+\newcommand{\bR}{\mathbf{R}}
+\newcommand{\bS}{\mathbf{S}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bU}{\mathbf{U}}
+\newcommand{\bV}{\mathbf{V}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\bX}{\mathbf{X}}
+\newcommand{\bY}{\mathbf{Y}}
+\newcommand{\bZ}{\mathbf{Z}}
+
+\newcommand{\bba}{\mathbf{a}}
+\newcommand{\bbb}{\mathbf{b}}
+\newcommand{\bbc}{\mathbf{c}}
+\newcommand{\bbd}{\mathbf{d}}
+\newcommand{\bbe}{\mathbf{e}}
+\newcommand{\bbf}{\mathbf{f}}
+\newcommand{\bbg}{\mathbf{g}}
+\newcommand{\bbh}{\mathbf{h}}
+\newcommand{\bbk}{\mathbf{k}}
+\newcommand{\bbl}{\mathbf{l}}
+\newcommand{\bbm}{\mathbf{m}}
+\newcommand{\bbn}{\mathbf{n}}
+\newcommand{\bbp}{\mathbf{p}}
+\newcommand{\bbq}{\mathbf{q}}
+\newcommand{\bbr}{\mathbf{r}}
+\newcommand{\bbs}{\mathbf{s}}
+\newcommand{\bbt}{\mathbf{t}}
+\newcommand{\bbu}{\mathbf{u}}
+\newcommand{\bbv}{\mathbf{v}}
+\newcommand{\bbw}{\mathbf{w}}
+\newcommand{\bbx}{\mathbf{x}}
+\newcommand{\bby}{\mathbf{y}}
+\newcommand{\bbz}{\mathbf{z}}
+\newcommand{\0}{\mathbf{0}}
+\newcommand{\1}{\mathbf{1}}
+
+% Caligraphic english alphabet
+\newcommand{\cA}{\mathcal{A}}
+\newcommand{\cB}{\mathcal{B}}
+\newcommand{\cC}{\mathcal{C}}
+\newcommand{\cD}{\mathcal{D}}
+\newcommand{\cE}{\mathcal{E}}
+\newcommand{\cF}{\mathcal{F}}
+\newcommand{\cG}{\mathcal{G}}
+\newcommand{\cH}{\mathcal{H}}
+\newcommand{\cI}{\mathcal{I}}
+\newcommand{\cJ}{\mathcal{J}}
+\newcommand{\cK}{\mathcal{K}}
+\newcommand{\cL}{\mathcal{L}}
+\newcommand{\cM}{\mathcal{M}}
+\newcommand{\cN}{\mathcal{N}}
+\newcommand{\cO}{\mathcal{O}}
+\newcommand{\cP}{\mathcal{P}}
+\newcommand{\cQ}{\mathcal{Q}}
+\newcommand{\cR}{\mathcal{R}}
+\newcommand{\cS}{\mathcal{S}}
+\newcommand{\cT}{\mathcal{T}}
+\newcommand{\cU}{\mathcal{U}}
+\newcommand{\cV}{\mathcal{V}}
+\newcommand{\cW}{\mathcal{W}}
+\newcommand{\cX}{\mathcal{X}}
+\newcommand{\cY}{\mathcal{Y}}
+\newcommand{\cZ}{\mathcal{Z}}
+
+
+% Formatting shortcuts
+\newcommand{\red}[1]{\textcolor{red}{#1}}
+\newcommand{\blue}[1]{\textcolor{blue}{#1}}
+\newcommand{\htext}[2]{\texorpdfstring{#1}{#2}}
+
+% Statistics
+\newcommand{\distr}{\sim}
+\newcommand{\stddev}{\sigma}
+\newcommand{\covmatrix}{\Sigma}
+\newcommand{\mean}{\mu}
+\newcommand{\param}{\theta}
+\newcommand{\gthEst}{\hat{\theta}}
+\newcommand{\ftr}{\phi}
+\newcommand{\est}[1]{\hat{#1}}
+
+% General utility
+\newcommand{\todo}[1]{\textbf{[TODO]}] \footnote{TODO: #1}}
+\newcommand{\tbc}{[\textbf{Incomplete}]}
+\newcommand{\chk}{[\textbf{Check}]}
+\newcommand{\why}{[\textbf{Find proof}]}
+\newcommand{\opt}[1]{\textit{#1}}
+
+\newcommand{\experience}[1]{[\textbf{Personal Experience}]: #1 \blacktriangle}
+\newcommand{\pf}[1]{[\textbf{Proof}]: #1 \Box}
+\newcommand{\core}[1]{\textbf{Core Idea}: #1 \Arrowvert}
+\newcommand{\example}[1]{\textbf{Example}: #1 \blacktriangle}
+\newcommand{\error}[1]{\textbf{Error alert}: #1 \triangle}
+\newcommand{\oprob}{[\textbf{OP}]: }
+
+
+\renewcommand{\~}{\htext{$\sim$}{~}}
+
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+
+
+\)
+
+
+
+    
+<header class="p-1 bg-yellow noPrint">
+    <nav role="navigation" class="col">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Rudraṭa knights tour - GSS Murthy</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <button class="btn btn-light"  href="#transliterationDropdown" data-toggle="collapse">
+            ✍
+          </button>
+          <select id="transliterationDropdown" size="1" class="collapse" onchange="module_uiLib.default.content.updateTransliteration()">
+            <optgroup label="🌍">
+              <option value="iso">āISO</option>
+              <option value="iso_vedic">āi-āu</option>
+              <option value="cyrillic">пу</option>
+              <option value="urdu">نس</option>
+              <option value="??">🌍??</option>
+            </optgroup>
+            <optgroup label="🛕🧭S">
+              <option value="kannada">ಅ</option>
+              <option value="malayalam">അ</option>
+              <option value="telugu">క</option>
+              <option value="tamil_superscripted">க²</option>
+              <option value="tamil_extended">க</option>
+              <option value="grantha">𑌅</option>
+            </optgroup>
+            <optgroup label="🛕🧭N">
+              <option value="devanagari" selected="">स</option>
+              <option value="gujarati">અ</option>
+              <option value="gurmukhi">ਅ</option>
+            </optgroup>
+            <optgroup label="🛕🧭E">
+              <option value="oriya">ଅ</option>
+              <option value="assamese">অস</option>
+              <option value="bengali">অ</option>
+            </optgroup>
+            <optgroup label="🛕🏺📜">
+              <option value="sharada">𑆑𑇀𑆰</option>
+              <option value="brahmi">𑀅</option>
+            </optgroup>
+            <optgroup label="🛕🌋">
+              <option value="balinese">ᬩᬮᬶ</option>
+            </optgroup>
+          </select>
+          <div>
+          <button class="btn btn-outline-secondary btn-sm"  href="#transliterationDropdownAlt" data-toggle="collapse">
+          (✍)
+          </button>
+          <select id="transliterationDropdownAlt" size="1"  style="font-size:12px" class="bg-light-yellow collapse" onchange="module_uiLib.default.content.updateTransliteration()">
+            <optgroup label="🌍">
+              <option value="iso">āISO</option>
+              <option value="iso_vedic">āi-āu</option>
+              <option value="cyrillic">пу</option>
+              <option value="urdu">نس</option>
+              <option value="??">🌍??</option>
+            </optgroup>
+            <optgroup label="🛕🧭S">
+              <option value="kannada">ಅ</option>
+              <option value="malayalam">അ</option>
+              <option value="telugu">క</option>
+              <option value="tamil_superscripted">க²</option>
+              <option value="tamil_extended">க</option>
+              <option value="grantha">𑌅</option>
+            </optgroup>
+            <optgroup label="🛕🧭N">
+              <option value="devanagari" selected="">स</option>
+              <option value="gujarati">અ</option>
+              <option value="gurmukhi">ਅ</option>
+            </optgroup>
+            <optgroup label="🛕🧭E">
+              <option value="oriya">ଅ</option>
+              <option value="assamese">অস</option>
+              <option value="bengali">অ</option>
+            </optgroup>
+            <optgroup label="🛕🏺📜">
+              <option value="sharada">𑆑𑇀𑆰</option>
+              <option value="brahmi">𑀅</option>
+            </optgroup>
+            <optgroup label="🛕🌋">
+              <option value="balinese">ᬩᬮᬶ</option>
+            </optgroup>
+          </select>
+          </div>
+          <div class="row col d-flex  dropdown">
+            <button class="btn btn-secondary-outline btn-sm dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              A±
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <a class="btn btn-secondary btn-sm" onclick="module_uiLib.changeTextSize(2)">A+</a>
+            <a class="btn btn-secondary btn-sm" onclick="module_uiLib.changeTextSize(-2)">A-</a>
+            </div>
+          </div>
+          <button class="btn btn-light btn-sm"  href="#commentStyleDropdown" data-toggle="collapse">
+            🗨
+          </button>
+          <select id="commentStyleDropdown" class="collapse" size="1" onchange="module_uiLib.default.content.updateCommentStyleFromDropdown()">
+            <option value="on">✔</option>
+            <option value="hidden">✗</option>
+          </select>
+          <div><a id="expandAllButton" class="btn btn-secondary" onclick="module_uiLib.default.query.setParamsAndGo({'expandDetails': '.*'})">↕️️</a></div>
+          <div id="printStyleDiv" class="row col d-flex  dropdown">
+          <button class="btn btn-light btn-sm dropdown-toggle"  href="#printStyleDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          🖨
+          </button>
+            <div class="dropdown-menu col" aria-labelledby="printStyleDropdown">
+              <div class="row justify-content-center">
+                <p>Cols:</p>
+                <input type="number" min="1" max="10" value="2" step="1" id="tbColumns" style="width: 3ch;"  accesskey="c"/>
+              </div>
+              <div class="row justify-content-center">
+                <p>A±:</p> <input type="text" id="tbBodyFontSize" value="0.4cm" style="width: 6ch;"  accesskey="f"></input>
+              </div>
+              <div class="row justify-content-center">
+                <p>Incl:</p> <input checked type="checkbox" id="tbIncludeStyle" value="on"></input>
+                <button id="btnPrintStyle" onclick="module_uiLib.default.content.updatePrintStyle()">🖨
+                </button>
+              </div>
+            </div>
+        </div>
+        </div>
+        <div id="audioDiv" class="row col d-flex  dropdown">
+          <button class="btn btn-secondary-outline btn-sm dropdown-toggle" type="button" id="audioDropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            🎧
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <a id="speakerButton" class="btn btn-outline-secondary btn-sm" onclick="module_uiLib.default.content.handleSpeakToggle()">⏯</a>
+          <button id="speakerPauseButton" class="btn btn-outline-secondary btn-sm">⏸</button>
+            <div id="audioOptionsDiv" class="row justify-content-center" >
+              <div>
+                <p class="lead">Vol</p>
+                <input type="range" min="0" max="1" value="1" step="0.1" id="volume" />
+                <span id="volume-label" class="ms-2">1</span>
+              </div>
+              <div class="mx-5">
+                <p class="lead">Rate</p>
+                <input type="range" min="0.1" max="10" value="1" id="rate" step="0.1" />
+                <span id="rate-label" class="ms-2">1</span>
+              </div>
+              <div>
+                <p class="lead">Pitch</p>
+                <input type="range" min="0" max="2" value="1" step="0.1" id="pitch" />
+                <span id="pitch-label" class="ms-2">1</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a href="https://vishvAsa.github.io/notes/search"  class="btn btn-light btn-sm">🥽🔦</a>
+        <div class="row col  d-flex justify-content-center">
+          <div><a id="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a id="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border noPrint " id="sidebar">
+          <div id="fastSearch">
+              <datalist id="pageDataList"></datalist>
+              <input id="searchInput" placeholder="शीर्षिकान्विष्यताम्" list="pageDataList" onchange="module_uiLib.default.navigation.pageLoader()">
+          </div>
+          <details open  class="bg-light-gray" >
+              <summary id="sidebarToggleLink" onclick="module_uiLib.default.navigation.sidebarToggleHandler()">
+            Menu
+              </summary>
+              <ul id="sidebarBody" class="list pl2 p-0 bg-yellow">
+              </ul>
+          </details>
+      </aside>
+      <main class="col p-3" role="main" data-pagefind-body>
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Rudraṭa knights tour - GSS Murthy">Rudraṭa knights tour - GSS Murthy</h1>
+    
+    <a id="editLink" class="btn btn-primary noPrint"  href="https://github.com/vishvAsa/notes/edit/content/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border noPrint ">
+    <details id="toc_header">
+        <summary>What's in this page?</summary>
+      <div id="toc_body" class="p-0">
+        
+        <ul id="toc_ul" class="list p-0">
+        </ul>
+      </div>
+    </details>
+    <div id="progressBarDiv" class="row d-flex justify-content-center">
+      🐎💪<progress id="progressLoading" value="0" max="100"> 32% </progress>
+    </div>
+  </aside>
+  <div id="post_content">
+  <p>The Knight’s Tour Problem and Rudraṭa’s Verse:</p>
+<p>A View of the Indian Facet of the Knight’s Tour</p>
+<p>By</p>
+<p>G S S Murthy</p>
+<p>[Affiliation: FIETE; Corresponding author: G S S Murthy Email:murthygss gmail]</p>
+<h2 id="abstract">Abstract</h2>
+<p><em>If a chess-knight is moved on a vacant chess-board [8x8 square] such that it visits each one of the 64 squares once and once only, the knight is said to execute a Knight’s Tour. Solution to the knight’s tour problem was known in India as early as the 9<sup>th</sup> century AD as a demonstration of wizardry in composing 32-syllable verses in Sanskrit. A pair of meaningful verses is composed in such a manner that when one verse is written serially (left to right and top to bottom) one syllable a square to fill up 8x4 cells –half of a chess board- the other verse appears as the Knight’s Tour. The earliest example of this skill in poetry-composition is given in a Sanskrit treatise on poetics, kāvyālaṅkāra written by Rudraṭa who lived around the ninth century A.D. Knight’s Tour as a mathematical problem was first noticed and discussed in the West by Leonard Euler in the eighteenth century. After providing the back ground to the subject as a puzzle on the chess-board, a problem in mathematics and as a challenge in verse-composition, the article discusses the special characteristic of Rudrata’s example where the pair of verses reduces to a single verse.</em></p>
+<p><em>[ Key Words: Knight’s Tour Problem</em>, <em>Rudrata</em>, <em>citrakāvyam, turaṅga-padam, Sanskrit literature, cyclic permutation ]</em></p>
+<h2 id="10-introduction">1.0 Introduction</h2>
+<p>If a chess-knight is moved on a vacant chess-board [8x8 celle] such that it visits each one of the 64 squares once and once only, the knight is said to execute a Knight’s Tour. The particular sequence of squares which the knight takes is the path of the knight’s tour. [In this article, we shall use the word “cell” to denote “square”.] Working out a path is actually a mathematical problem and it is not at all easy to come up with a solution, by trial and error.</p>
+<p>Solution to the knight’s tour problem was known in India as early as the 9<sup>th</sup> century AD in the guise of exemplary skill in composing 32-syllable verses in Sanskrit. A pair of meaningful verses is composed in such a manner that when a specified verse of the pair is written serially (left to right and top to bottom) one syllable a cell to fill up 8x4 cells –half of a chess board- the other verse follows the path of the Knight’s Tour. The verses have to not only meet the requirements of prosody but also have to be contextually meaningful. The earliest example of this skill in poetry-composition is given in a Sanskrit treatise on poetics, kāvyālaṅkāra written by Rudraṭa who lived around the ninth century A.D. This type of literary wizardry in Sanskrit comes under the general category, citrakāvyam, which could be translated as “figure-poetry” or “amusing poetry”. “Citrakāvyam” is again a sub-category of “Śabda alaṅkāra”, which deals with “word-based ornamentation” of poetry.</p>
+<p>The knight’s tour problem which would have originated as a puzzle on the chess-board was later taken up as a problem in Mathematics. However in India it showed itself up as a way of demonstrating exemplary skill in composing verses in Sanskrit. The following paragraphs give a brief introduction to the knight’s tour problem, as a puzzle on the chess-board, as a problem in mathematics and as a challenge in verse-composition in Sanskrit.</p>
+<h2 id="20-knights-tour-as-a-chess-puzzle">2.0 Knight’s tour as a chess puzzle</h2>
+<p>It is believed that Chess had its origin in India, where it is called caturanga(having four divisions). A 12<sup>th</sup> century work Mānasollāsaḥ of king Someśvara, an encyclopaedic compendium meant for a king describes inter alia the game of caturanga. From a perusal of this work, one could surmise the following equivalence in the names of the pieces: rook = ratha (chariot), knight= turaga (horse), bishop= gaja (elephant), king =rājā (king), queen= mantrī (minister) and pawn =padāti (foot-soldier)<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>. The game seems to have spread from India via Persia to Arab countries where it was called “shatranj”, an obvious distortion of “caturanga”. The Sanskrit name for the manner a knight moves on the chess board is “turaga-pada”.</p>
+<p>A 10<sup>th</sup> century Arab, Abu Bakr Al-suli, who was a king’s companion, known for his skill in playing chess, wrote a book in Arabic on chess strategy, where he discussed the knight’s tour problem as a chess-puzzle [<a href="https://en.wikipedia.org/wiki/Abu_Bakr_bin_Yahya_al-Suli">https://en.wikipedia.org/wiki/Abu_Bakr_bin_Yahya_al-Suli</a>]. Mānasollāsaḥ, referred to above, which was written two centuries later also describes a solution of Knight’s tour as a puzzle. It is interesting to see how Someśvara, the author of Mānasollāsaḥ explains the solution. First he provides a co-ordinate system for the 8x8 chess board. For reasons of his own, he chooses the consonants c,g,n,d, ṭ,r,s,p to denote the 8 columns (or rows) and vowels “a ā i ī u ū e ai” to denote the 8 rows (or columns). The resulting co-ordinate system for the 8x8 chess board will be as shown in Fig. 1. Any cell is uniquely defined by the combination of the chosen consonant and vowel.</p>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th>A</th>
+          <th>B</th>
+          <th>C</th>
+          <th>D</th>
+          <th>E</th>
+          <th>F</th>
+          <th>G</th>
+          <th>H</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>1</td>
+          <td>च</td>
+          <td>चा</td>
+          <td>चि</td>
+          <td>ची</td>
+          <td>चु</td>
+          <td>चू</td>
+          <td>चे</td>
+          <td>चै</td>
+      </tr>
+      <tr>
+          <td>2</td>
+          <td>ग</td>
+          <td>गा</td>
+          <td>गि</td>
+          <td>गी</td>
+          <td>गु</td>
+          <td>गू</td>
+          <td>गे</td>
+          <td>गै</td>
+      </tr>
+      <tr>
+          <td>3</td>
+          <td>न</td>
+          <td>ना</td>
+          <td>नि</td>
+          <td>नी</td>
+          <td>नु</td>
+          <td>नू</td>
+          <td>ने</td>
+          <td>नै</td>
+      </tr>
+      <tr>
+          <td>4</td>
+          <td>द</td>
+          <td>दा</td>
+          <td>दि</td>
+          <td>दी</td>
+          <td>दु</td>
+          <td>दू</td>
+          <td>दे</td>
+          <td>दै</td>
+      </tr>
+      <tr>
+          <td>5</td>
+          <td>ट</td>
+          <td>टा</td>
+          <td>टि</td>
+          <td>टी</td>
+          <td>टु</td>
+          <td>टू</td>
+          <td>टे</td>
+          <td>टै</td>
+      </tr>
+      <tr>
+          <td>6</td>
+          <td>र</td>
+          <td>रा</td>
+          <td>रि</td>
+          <td>री</td>
+          <td>रु</td>
+          <td>रू</td>
+          <td>रे</td>
+          <td>रै</td>
+      </tr>
+      <tr>
+          <td>7</td>
+          <td>स</td>
+          <td>सा</td>
+          <td>सि</td>
+          <td>सी</td>
+          <td>सु</td>
+          <td>सू</td>
+          <td>से</td>
+          <td>सै</td>
+      </tr>
+      <tr>
+          <td>8</td>
+          <td>प</td>
+          <td>पा</td>
+          <td>पि</td>
+          <td>पी</td>
+          <td>पु</td>
+          <td>पू</td>
+          <td>पे</td>
+          <td>पै</td>
+      </tr>
+  </tbody>
+</table>
+<p>Fig 1. Co-ordinate system of Someśvara.</p>
+<p>Now he gives the knight’s tour as a sequence of 64 syllables broken into 8 sets of 8 syllables for convenience in memorizing. The 8 sets are as follows:</p>
+<p>pa si pu se ṭai ne cai gū ।</p>
+<p>nī cu gi ca nā ṭa sā pī ।</p>
+<p>sū pai re dai ge dū gu ci ।</p>
+<p>ga dā ra pā sī pū sai ṭe ।</p>
+<p>nai ce nū gai cū gī cā na ।</p>
+<p>ṭā sa pi su pe rai de nu ।</p>
+<p>ṭū rī di ṭu ri dī ru ṭi ।</p>
+<p>du ni cī gā da rā ṭī rū ।</p>
+<p>[प सि पु से टै ने चै गू ।</p>
+<p>नी चु गि च ना ट सा पी ।</p>
+<p>सू पै रे दै गे दू गु चि ।</p>
+<p>ग दा र पा सी पू सै टे ।</p>
+<p>नै चे नू गै चू गी चा न ।</p>
+<p>टा स पि सु पे रै दे नु ।</p>
+<p>टू री दि टु रि दी रु टि ।</p>
+<p>दु नि ची गा द रा टी रू ।]</p>
+<p>These sequences are devoid of any meaning or prosodic constraints.</p>
+<p>The resulting knight’s tour is shown in Fig 2. The knight’s tour can be traced by following the numbers in the cells 1,2,3 &mdash;64.</p>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th>A</th>
+          <th>B</th>
+          <th>C</th>
+          <th>D</th>
+          <th>E</th>
+          <th>F</th>
+          <th>G</th>
+          <th>H</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>1</td>
+          <td>12च</td>
+          <td>39चा</td>
+          <td>24चि</td>
+          <td>59ची</td>
+          <td>10चु</td>
+          <td>37चू</td>
+          <td>34चे</td>
+          <td>7चै</td>
+      </tr>
+      <tr>
+          <td>2</td>
+          <td>25ग</td>
+          <td>60गा</td>
+          <td>11गि</td>
+          <td>38गी</td>
+          <td>23गु</td>
+          <td>8गू</td>
+          <td>21गे</td>
+          <td>36गै</td>
+      </tr>
+      <tr>
+          <td>3</td>
+          <td>40न</td>
+          <td>13ना</td>
+          <td>58नि</td>
+          <td>9नी</td>
+          <td>48नु</td>
+          <td>35नू</td>
+          <td>6ने</td>
+          <td>33नै</td>
+      </tr>
+      <tr>
+          <td>4</td>
+          <td>61द</td>
+          <td>26दा</td>
+          <td>51दि</td>
+          <td>54दी</td>
+          <td>57दु</td>
+          <td>22दू</td>
+          <td>47दे</td>
+          <td>20दै</td>
+      </tr>
+      <tr>
+          <td>5</td>
+          <td>14ट</td>
+          <td>41टा</td>
+          <td>56टि</td>
+          <td>63टी</td>
+          <td>52टु</td>
+          <td>49टू</td>
+          <td>32टे</td>
+          <td>5टै</td>
+      </tr>
+      <tr>
+          <td>6</td>
+          <td>27र</td>
+          <td>62रा</td>
+          <td>53रि</td>
+          <td>50री</td>
+          <td>55रु</td>
+          <td>64रू</td>
+          <td>19रे</td>
+          <td>46रै</td>
+      </tr>
+      <tr>
+          <td>7</td>
+          <td>42स</td>
+          <td>15सा</td>
+          <td>2सि</td>
+          <td>29सी</td>
+          <td>44सु</td>
+          <td>17सू</td>
+          <td>4से</td>
+          <td>31सै</td>
+      </tr>
+      <tr>
+          <td>8</td>
+          <td>1प</td>
+          <td>28पा</td>
+          <td>43पि</td>
+          <td>16पी</td>
+          <td>3पु</td>
+          <td>30पू</td>
+          <td>45पे</td>
+          <td>18पै</td>
+      </tr>
+  </tbody>
+</table>
+<p>Fig. 2 Knight’s tour of Someśvara</p>
+<p>Someśvara also gives the possible knight moves from various cells as per the following:</p>
+<p>koṇapārśvasthitasyāsya turagasya padatrayam । 573 ॥</p>
+<p>koṇasthasya padadvandvaṃ prānte padacatuṣṭayam ।</p>
+<p>dvitīyavalaye koṇe haye padacatuṣṭayam ॥</p>
+<p>dvitīyavalaye&rsquo;nyatra padaṣaṭkaṃ nigadyate ।</p>
+<p>madhye ṣoḍaśa[koṣṭheṣu] sthitasya turagasya ca ॥</p>
+<p>padāṣṭakaṃ vinirdiṣṭaṃ caturaṅgaviśāradaiḥ ॥</p>
+<p>[कोणपार्श्वस्थितस्यास्य तुरगस्य पदत्रयम् । ५७३ ॥</p>
+<p>कोणस्थस्य पदद्वन्द्वं प्रान्ते पदचतुष्टयम् । द्वितीयवलये कोणे हये पदचतुष्टयम् ॥</p>
+<p>द्वितीयवलयेऽन्यत्र पदषट्कं निगद्यते । मध्ये षोडश[कोष्ठेषु] स्थितस्य तुरगस्य च ॥</p>
+<p>पदाष्टकं विनिर्दिष्टं चतुरङ्गविशारदैः ॥]</p>
+<p>A rough translation of this is given below:</p>
+<p>“When the knight is in the corner, it has 2 moves; when it is in the cell beside the corner it has 3 moves.  If it is in the side (other than the corner and the next cell) it has 4 moves; if it is in the corner of the second enclosure (inner 6x6 square) it has 4 moves, elsewhere in the second enclosure, it has 6 moves; In the central 16 cells it has 8 moves”. [ Fig. 3]</p>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>1</td>
+          <td>2</td>
+          <td>3</td>
+          <td>4</td>
+          <td>4</td>
+          <td>4</td>
+          <td>4</td>
+          <td>3</td>
+          <td>2</td>
+      </tr>
+      <tr>
+          <td>2</td>
+          <td>3</td>
+          <td>4</td>
+          <td>6</td>
+          <td>6</td>
+          <td>6</td>
+          <td>6</td>
+          <td>4</td>
+          <td>3</td>
+      </tr>
+      <tr>
+          <td>3</td>
+          <td>4</td>
+          <td>6</td>
+          <td>8</td>
+          <td>8</td>
+          <td>8</td>
+          <td>8</td>
+          <td>6</td>
+          <td>4</td>
+      </tr>
+      <tr>
+          <td>4</td>
+          <td>4</td>
+          <td>6</td>
+          <td>8</td>
+          <td>8</td>
+          <td>8</td>
+          <td>8</td>
+          <td>6</td>
+          <td>4</td>
+      </tr>
+      <tr>
+          <td>5</td>
+          <td>4</td>
+          <td>6</td>
+          <td>8</td>
+          <td>8</td>
+          <td>8</td>
+          <td>8</td>
+          <td>6</td>
+          <td>4</td>
+      </tr>
+      <tr>
+          <td>6</td>
+          <td>4</td>
+          <td>6</td>
+          <td>8</td>
+          <td>8</td>
+          <td>8</td>
+          <td>8</td>
+          <td>6</td>
+          <td>4</td>
+      </tr>
+      <tr>
+          <td>7</td>
+          <td>3</td>
+          <td>4</td>
+          <td>6</td>
+          <td>6</td>
+          <td>6</td>
+          <td>6</td>
+          <td>4</td>
+          <td>3</td>
+      </tr>
+      <tr>
+          <td>8</td>
+          <td>2</td>
+          <td>3</td>
+          <td>4</td>
+          <td>4</td>
+          <td>4</td>
+          <td>4</td>
+          <td>3</td>
+          <td>2</td>
+      </tr>
+  </tbody>
+</table>
+<p>Fig. 3 Possible moves for a knight as per Someśvara</p>
+<p>One needs to appreciate the precision and brevity Someśvara has achieved in the above explanation in Sanskrit.</p>
+<h2 id="30-knights-tour-as-a-problem-in-mathematics">3.0 Knight’s tour as a problem in mathematics</h2>
+<p>It is only in the 18<sup>th</sup> century that the famous mathematician and physicist Leonard Euler heard of the chess puzzle and looked at it as a problem in mathematics. One of the solutions to the problem given by Euler is shown in Fig. 4.[ <a href="https://www.researchgate.net/publication/265424016_Knight's_tours_for_cubes_and_boxes">https://www.researchgate.net/publication/265424016_Knight&rsquo;s_tours_for_cubes_and_boxes</a>]</p>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>1</td>
+          <td>26</td>
+          <td>15</td>
+          <td>20</td>
+          <td>7</td>
+          <td>32</td>
+          <td>13</td>
+          <td>22</td>
+      </tr>
+      <tr>
+          <td>16</td>
+          <td>19</td>
+          <td>8</td>
+          <td>25</td>
+          <td>14</td>
+          <td>21</td>
+          <td>6</td>
+          <td>31</td>
+      </tr>
+      <tr>
+          <td>27</td>
+          <td>2</td>
+          <td>17</td>
+          <td>10</td>
+          <td>29</td>
+          <td>4</td>
+          <td>23</td>
+          <td>12</td>
+      </tr>
+      <tr>
+          <td>18</td>
+          <td>9</td>
+          <td>28</td>
+          <td>3</td>
+          <td>24</td>
+          <td>11</td>
+          <td>30</td>
+          <td>5</td>
+      </tr>
+  </tbody>
+</table>
+<p>Fig 4. Euler’s knight’s tour</p>
+<p>His solution fills up the bottom-half of a 8x8 chess-board. But the solution is such that the 33<sup>rd</sup> move of the knight can take it to the bottom right corner cell of the top-half. A little reflexion will show that the top-half can be easily filled up following the route of the bottom-half. The 64<sup>th</sup> cell that the knight occupies is such that it can jump to the 1<sup>st</sup> cell. The solution is therefore re-entrant and the knight can indefinitely keep moving in the end-less circuit. Euler showed how new solutions can be generated from known solutions and how incomplete solutions could be repaired to lead to a knight’s tour. Euler also showed how solutions for larger chess-boards, say having 10x10 cells, could be obtained by suitably patching up solutions for smaller boards.</p>
+<p>The next important work in arriving at a solution for the knight’s tour problem was by Warnsdorff in the 19<sup>th</sup> century who gave a heuristic rule for choosing the next move for the knight.[ <a href="https://en.wikipedia.org/wiki/Knight%27s_tour#Warnsdorff's_rule">https://en.wikipedia.org/wiki/Knight%27s_tour#Warnsdorff&rsquo;s_rule</a>] As per Warnsdorff the knight should be moved to the cell from which the knight will have the fewest onward moves. Let us take an example for understanding this rule:</p>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th>A</th>
+          <th>B</th>
+          <th>C</th>
+          <th>D</th>
+          <th>E</th>
+          <th>F</th>
+          <th>G</th>
+          <th>H</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>1</td>
+          <td>1</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>7</td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>2</td>
+          <td></td>
+          <td></td>
+          <td>x</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>6</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>3</td>
+          <td></td>
+          <td>2</td>
+          <td></td>
+          <td>x</td>
+          <td></td>
+          <td>4</td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>4</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>3</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>5</td>
+      </tr>
+  </tbody>
+</table>
+<p>Fig. 5 Warnsdorff Rule</p>
+<p>Fig. 5 shows a partially filled knight’s tour where the knight has reached the 7<sup>th</sup> cell of the tour. For the next step there are 2 choices either cell C2 or cell D3. We see that from cell C2, three choices are available (A3,B4,E3) and from cell D3, 5 choices (C1,B2,B4,F4,F2) are available. As per Warnsdorff Rule, one should choose cell C2 which has less number of choices (3) and not D3 which has 5 choices. It is, of course, possible to have two or more choices for which the number of onward moves is equal; there are various methods for breaking such ties and we shall not go into the details.</p>
+<p>If we now have a re-look at Fig. 3 which gives the number of possible moves for a knight as per Someśvara, a thought occurs if around the 12<sup>th</sup> century a rule similar to Warnsdoff rule was known among experts in the field in India.</p>
+<p>Research work on the mathematics of the knight’s tour problem proliferated in the 20<sup>th</sup> century in several directions, such as extending the problem to squares and rectangles of different sizes and 3-D cuboids, calculating the number of all possible solutions etc. Treating the knight&rsquo;s tour problem as a simpler instance of the more general <a href="https://en.wikipedia.org/wiki/Hamiltonian_path_problem">Hamiltonian path problem</a> in <a href="https://en.wikipedia.org/wiki/Graph_theory">graph theory</a>, attempts have been made for finding out clever heuristics and efficient algorithms for arriving at a solution.</p>
+<p>In recent times Prof. D E Knuth, well known mathematician and computer theorist, has studied the problem and its history extensively and credit is due to him for having discovered and publicized the fact that the earliest solution to the problem originated in India not later than 9<sup>th</sup> Century AD. There are strips of his lectures on You Tube [<a href="https://www.youtube.com/watch?v=C95hHI7cVNs">https://www.youtube.com/watch?v=C95hHI7cVNs</a>] which give a glimpse of his deep interest in the subject.</p>
+<h2 id="40-śabda-alaṅkāra-word-based-ornamentation-and-citrakāvyam-figure-poetry">4.0 Śabda alaṅkāra (word-based ornamentation) and Citrakāvyam (Figure-poetry)</h2>
+<p>Before we get into the details of knight’s tour as a display of literary wizardry in Sanskrit, it is worthwhile knowing the background to such skills and their place in Sanskrit literature. We shall therefore provide a brief introduction to Śabda alaṅkāra and Citrakāvyam in the foregoing.</p>
+<p>Alliteration and rhyming are well recognized as techniques in composing verses and competent poets have judiciously employed them to advantage. Corresponding words in Sanskrit are “anuprāsa”(alliteration) and “yamaka” (rhyming). While the word, “rhyming” is often associated with the end of lines in a verse, “yamaka” has a broader meaning in Sanskrit.</p>
+<p>When a consonant is repeatedly used in a line of verse, it is called “anuprāsa”. If the repeated consonant is soft it could accentuate a mood of love or melancholy and if it is hard it could enhance a mood of valour and war. However, when a sequence of syllables is repeatedly used in a verse it is called “yamaka”. The sequence by itself need not be meaningful and even when meaningful, more often than not, the meaning will be different at each instance of repetition. “Anuprāsa” and “yamaka” were the earliest forms of  “Śabda alaṅkāra”, namely “word-based ornamentation”. Vālmīki’s Rāmāyaṇam, which holds an exalted position in world literature and which perhaps was written in 2<sup>nd</sup> century BC, has a display of yamaka (repetition of syllabic sequences) in the 5<sup>th</sup> canto of the 5<sup>th</sup> book, Sundarakāṇḍa as the following verse exemplifies:</p>
+<p>tataḥ sa madhyaṃgatamaṃśu<span style="text-decoration:underline;">mantaṃ</span> jyotsnāvitānaṃ muhurudva<span style="text-decoration:underline;">mantam</span> ।</p>
+<p>dadarśa dhīmān bhuvi bhānu<span style="text-decoration:underline;">mantaṃ</span> goṣṭhe vṛṣaṃ mattamiva bhra<span style="text-decoration:underline;">mantam</span> ॥</p>
+<p>[ततः स मध्यंगतमंशुमन्तं ज्योत्स्नावितानं मुहुरुद्वमन्तम् ।</p>
+<p>ददर्श धीमान् भुवि भानुमन्तं गोष्ठे वृषं मत्तमिव भ्रमन्तम्  ॥5-5-1||]</p>
+<p>“Then intelligent Hanuman looked at the brilliant Moon in the zenith of the sky spewing frequently a spread of moon-light, and wandering like a proud bull in its enclosure.”</p>
+<p>One cannot miss the pleasing repetition of the sequence &ldquo;mantam”[मन्तम्] and the fact that at each instance of repetition it occurs as a part of a different word.</p>
+<p>Kālidāsa who could not have been later than 5<sup>th</sup> century AD indulges in yamaka in his work Raghuvaṃśam at places. By the time poet Bhāravi composed his magnum opus, “Kirātārjunīyam” an epic poem sometime earlier to 7<sup>th</sup> century AD, Śabda alaṅkāra had widened its base beyond “anuprāsa” and “yamaka”. In the 15<sup>th</sup> canto of Kirātārjunīyam, Bhāravi demonstrates “Gomūtrikābandha” one of the earliest forms of citrakāvyam in the following verse. The verse is written in a figure [Fig. 6] which represents the zig-zag path traced on the ground by the urine of a cow as it urinates while walking. (go=cow, mūtra =urine, bandha=constraint)</p>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td></td>
+          <td></td>
+          <td>रो</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>ना</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>सं</td>
+          <td></td>
+          <td>न</td>
+          <td></td>
+          <td>क्ष</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>ना</td>
+          <td>सु</td>
+          <td></td>
+          <td>यं</td>
+          <td>न</td>
+          <td>वा</td>
+          <td></td>
+          <td>गो</td>
+          <td>ध</td>
+          <td>र</td>
+          <td></td>
+          <td>स्थो</td>
+          <td></td>
+          <td>रा</td>
+          <td></td>
+          <td>सः</td>
+      </tr>
+      <tr>
+          <td></td>
+          <td></td>
+          <td>खो</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>भो</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>णि</td>
+          <td></td>
+          <td>हि</td>
+          <td></td>
+          <td>ज</td>
+          <td></td>
+      </tr>
+  </tbody>
+</table>
+<p>Fig. 6: Gomūtrikābandha of Bhāravi</p>
+<p>nāsuro&rsquo;yaṃ na vā nāgo dharasaṃstho na rākṣasaḥ ।</p>
+<p>nāsukho&rsquo;yaṃ na vā bhogo dharaṇistho hi rājasaḥ ॥</p>
+<p>[नासुरोऽयं न वा नागो धरसंस्थो न राक्षसः ।</p>
+<p>नासुखोऽयं न वा भोगो धरणिस्थो हि राजसः ॥]</p>
+<p>(“He is not a daitya; he is not a nāga(serpent); he is not a demon of mountainous proportions; He is just a pleasant enthusiastic energetic human being walking on this earth.”)</p>
+<p>Similarly diagrams may represent a sword, a wheel, a lotus of 4,8,12,16 petals and such figure-verses are named after the thing the  figure represents, khaḍga-bandha (sword), cakra-bandha (wheel), aṣṭa-dala-padma-bandha (8-petalled lotus) etc. The main feature of these figure-verses (often called “citrabandha”s) is that some syllables are repeatedly used as pivots.</p>
+<p>While Bhāravi demonstrated only three types of figure-verses, Rājānaka Ratnākara who is believed to have lived in the 9<sup>th</sup> century devotes the 48th canto of his Haravijayam to several types of citrabandhas, where he has attempted the knight’s tour also. Haravijayam is the earliest of the poetic works where we come across the knight’s tour. Rudraṭa, who wrote, “Kāvyālaṅkāra”, a treatise on Literary Theory in the 9<sup>th</sup> century was the earliest among literary theorists who discussed śabda alaṅkāras and especially citrakāvyam including knight’s tour in detail. We could thus say that citrakāvyams had reached a stage of maturity by the time of Rudraṭa and that they came into vogue during the 8<sup>th</sup>-9<sup>th</sup> centuries.</p>
+<p>There are other types of constraints, employed in citrakāvyam, such as the following:</p>
+<ol>
+<li>The verse does not contain certain types of consonants say labials (pa-varga) or gutturals (ka-varga).</li>
+<li>The verse contains 1, 2 or 3 consonants only.</li>
+<li>The verse uses only one syllable. An example is</li>
+</ol>
+<p>yāyāyāyāyāyāyāyāyāyāyāyāyā ।</p>
+<p>yāyāyāyāyāyāyāyāyā yā yā yā yā yā yā yā ॥ Pādukāsahasram-30-26 ॥</p>
+<p>[यायायायायायायायायायायायाया ।</p>
+<p>यायायायायायायायाया या या या या या या या ॥ पादुकासहस्रम्-३०-२६ ॥]</p>
+<ol>
+<li></li>
+</ol>
+<p>The verse when read in reverse yields another meaningful, contextually relevant verse. There are works of this type where the verses, when read normally, narrate one story and when read in reverse narrate another story.</p>
+<ol>
+<li></li>
+</ol>
+<p>The verse written row-wise in a matrix yields another verse or same verse when read as per a specified manner. Knight’s tour comes in this category.</p>
+<p>Two factors associated with Sanskrit facilitate such literary acrobatics. 1. Possibility of splitting a compound word in different ways as per the rules of sandhi<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> and samāsa<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> 2. Existence of a large number of words which have multiple meanings.</p>
+<p>Later literary theorists who were not just compilers of knowledge but were also original thinkers did not speak highly of word-based ornamentations (śabda alaṅkāra s) as they could only be understood by the very learned among connoisseurs and as they often resulted in semantic banality. However, citrakāvyam continued to be popular among aspiring poets as a means of demonstrating their wizardry in versification. We thus see competent poets indulging in these literary acrobatics right up to the 20<sup>th</sup> and 21st<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup> centuries.</p>
+<h2 id="50-verse-pairs-for-knights-tour">5.0 Verse-pairs for Knight’s Tour</h2>
+<p>We shall now have a look at two verse-pairs composed as knight’s tour (turagabandha) the first by Vedāntadeśika in Pādukāsahasram and the second by Rājānaka Ratnākara in Haravijayam.</p>
+<p>Vedāntadeśika who lived in the later part of the 13<sup>th</sup> century was a pious devout person who led a simple life, an erudite scholar who wrote philosophical treatises and a gifted poet whose literary works have earned him a place among the pantheon of great Sanskrit poets. His work Pādukāsahasram<sup> </sup> consisting of 1000 verses is a hymn to the sandals of Śrīrāma which were worshipped by Bharata when the former lived in the forests. The work has 32 cantos and the 30<sup>th</sup> canto called citrapaddhati consists of 40 verses where Vedāntadeśika demonstrates his skill in citrabandhas and in every possible type of literary jugglery. Needless to say that it is not easy to understand the meaning of these verses without the help of a commentary written by an equally competent and erudite scholar.</p>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>स्थि1</td>
+          <td>रा30</td>
+          <td>ग9</td>
+          <td>सां20</td>
+          <td>स3</td>
+          <td>दा24</td>
+          <td>रा11</td>
+          <td>ध्या26</td>
+      </tr>
+      <tr>
+          <td>वि16</td>
+          <td>ह19</td>
+          <td>ता2</td>
+          <td>क29</td>
+          <td>त10</td>
+          <td>ता27</td>
+          <td>म4</td>
+          <td>ता23</td>
+      </tr>
+      <tr>
+          <td>स31</td>
+          <td>त्पा8</td>
+          <td>दु17</td>
+          <td>के14</td>
+          <td>स21</td>
+          <td>रा6</td>
+          <td>सा25</td>
+          <td>मा12</td>
+      </tr>
+      <tr>
+          <td>रं18</td>
+          <td>ग15</td>
+          <td>रा32</td>
+          <td>ज7</td>
+          <td>प28</td>
+          <td>द13</td>
+          <td>न्न22</td>
+          <td>य5</td>
+      </tr>
+  </tbody>
+</table>
+<p>Fig 7. Vedāntadeśika’s knight’s tour verses</p>
+<p>In this work of his, the pair of verses which demonstrates knight’s tour is as follows [Fig. 7].:</p>
+<p>sthirāgasāṃ sadārādhyā vihatākatatāmatā ।</p>
+<p>satpāduke sarā sāmā raṃgarājapadannaya ॥</p>
+<p>स्थिरागसां सदाराध्या विहताकततामता ।</p>
+<p>सत्पादुके सरासा मा रङ्गराजपदं नय ॥ 30-19||</p>
+<p>[ Oh Sandal-pair of the Creator! You are to be worshipped all the time by the ordinary folk whose sins are ever present. You demolish the sorrows and unpleasant happenings. Lead me jingling to the feet of God]</p>
+<p>sthitā samayarājatpā gatarā mādake gavi ।</p>
+<p>duraṃhasāṃ sannatā dā sādhyātāpakarāsarā ॥</p>
+<p>[स्थिता समयराजत्पा गतरा मादके गवि ।</p>
+<p>दुरंहसां सन्नतादा साध्यातापकरासरा ॥ 30-20 ||]</p>
+<p>[You protect those who shine in their timely conduct. You are stationed in the Sun. You receive riches. You remove the grief of hard sinners. Your devotees feel intoxicated by your Grace. Your rays render lack of distress possible. You move all around.]</p>
+<p>The knight’s tour verse can be read in Fig. 7 by following the cell no.s 1,2,3&mdash;-32. It is to be noted that if one learns by heart the twin verses one has learnt the knight’s tour. The elegance of this way of coding as compared to the meaningless codes that Someśvara has given [See section. 2 above] is quite striking.</p>
+<p>Bhoja is another important poet and critic who has given examples of knight’s tour in his book on poetics, “Sarasvatīkaṇṭhābharaṇam” It is seen that Rudraṭa, Bhoja and Vedāntadeśika employ a common knight’s tour whereas Ratnākara employs a different knight’s tour [Fig. 8]</p>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th>A</th>
+          <th>B</th>
+          <th>C</th>
+          <th>D</th>
+          <th>E</th>
+          <th>F</th>
+          <th>G</th>
+          <th>H</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>1</td>
+          <td>भा26</td>
+          <td>से11</td>
+          <td>द्धा24</td>
+          <td>हा5</td>
+          <td>त20</td>
+          <td>त9</td>
+          <td>न30</td>
+          <td>ना7</td>
+      </tr>
+      <tr>
+          <td>2</td>
+          <td>सा23</td>
+          <td>दि4</td>
+          <td>मा27</td>
+          <td>या10</td>
+          <td>द29</td>
+          <td>से6</td>
+          <td>वि19</td>
+          <td>ता16</td>
+      </tr>
+      <tr>
+          <td>3</td>
+          <td>सा12</td>
+          <td>स25</td>
+          <td>ह2</td>
+          <td>स्त21</td>
+          <td>त14</td>
+          <td>या17</td>
+          <td>शा8</td>
+          <td>न्त31</td>
+      </tr>
+      <tr>
+          <td>4</td>
+          <td>सा3</td>
+          <td>रा22</td>
+          <td>हि13</td>
+          <td>त28</td>
+          <td>स1</td>
+          <td>मि32</td>
+          <td>द्यु15</td>
+          <td>ता18</td>
+      </tr>
+  </tbody>
+</table>
+<p>Fig. 8 Ratnakara’s knight’s tour.</p>
+<p>The relevant verses of Ratnākara are as follows:</p>
+<p>tāmabhyayuṅkta yāsaṅkhyasaṅkhyāvadbhirvṛtā bhaṭaiḥ ।</p>
+<p>sūciromṇaḥ camūrnādaiḥ sūcitapralayāgamā ॥ 144 ॥</p>
+<p>bhāseddhāhātatananā sādimāyādasevitā ।</p>
+<p>sāsahastatayāśāntasārāhitasamidyutā ॥ 145 ||</p>
+<p>sahasādihāsenāśā tayāsesāhitadyutā ।</p>
+<p>yātā vitrastarāsāddhā sabhāmātadanantasit ॥ 146 ||</p>
+<p>[तामभ्ययुङ्क्त यासङ्ख्यसङ्ख्यावद्भिर्वृता भटैः ।</p>
+<p>सूचिरोम्णः चमूर्नादैः सूचितप्रलयागमा ॥ १४४ ॥</p>
+<p>भासेद्धाहाततनना सादिमायादसेविता ।</p>
+<p>सासहस्ततयाशान्तसाराहितसमिद्युता ॥ १४५ ॥</p>
+<p>सहसादितसेनाशा तयासेसाहितद्युता ।</p>
+<p>याता वित्रस्तरासाद्धा सभामातदनन्तसित् ॥ १४६ ॥ ]</p>
+<p>The three verses above form one sentence. The second verse is the main verse and the third verse is the knight’s tour verse. The meaning of the verses is roughly as follows:</p>
+<p>Suciroma’s lustrous angry army, which had a fear-less roar, which was served by horsemen and magicians, which had gained advantage by virtue of having swords in hand, which comprised of soldiers protected by the large army, whose sounds indicated the arrival of final annihilation and which attacked Kali, the divine force was defeated by her.</p>
+<p>It needs to be mentioned that Dr. Knuth was so much fascinated by the knight’s tour verses in Sanskrit that he composed a similar pair of verses in English! Whereas in Sanskrit each cell contains a syllable, in Knuth’s verses each cell contains a word. [Fig. 9 &amp; 10] [<a href="https://www.iiitb.ac.in/CSL/projects/Chitrakavya/visuals.html">https://www.iiitb.ac.in/CSL/projects/Chitrakavya/visuals.html</a>]</p>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th>A</th>
+          <th>B</th>
+          <th>C</th>
+          <th>D</th>
+          <th>E</th>
+          <th>F</th>
+          <th>G</th>
+          <th>H</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>1</td>
+          <td>26have</td>
+          <td>11some</td>
+          <td>24fun</td>
+          <td>5watch</td>
+          <td>20this</td>
+          <td>9or</td>
+          <td>30that</td>
+          <td>7word</td>
+      </tr>
+      <tr>
+          <td>2</td>
+          <td>23great</td>
+          <td>4four</td>
+          <td>27lines</td>
+          <td>10take</td>
+          <td>29out</td>
+          <td>6each</td>
+          <td>19gives</td>
+          <td>16eight</td>
+      </tr>
+      <tr>
+          <td>3</td>
+          <td>12left</td>
+          <td>25then</td>
+          <td>2two</td>
+          <td>21black</td>
+          <td>14and</td>
+          <td>17just</td>
+          <td>8here</td>
+          <td>31white</td>
+      </tr>
+      <tr>
+          <td>4</td>
+          <td>3three</td>
+          <td>22rook</td>
+          <td>13steps</td>
+          <td>28make</td>
+          <td>1one</td>
+          <td>32knight</td>
+          <td>15move</td>
+          <td>18right</td>
+      </tr>
+  </tbody>
+</table>
+<p>Fig. 9  Knuth’s  main verse \</p>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th>A</th>
+          <th>B</th>
+          <th>C</th>
+          <th>D</th>
+          <th>E</th>
+          <th>F</th>
+          <th>G</th>
+          <th>H</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>1</td>
+          <td>one</td>
+          <td>two</td>
+          <td>three</td>
+          <td>four</td>
+          <td>watch</td>
+          <td>each</td>
+          <td>word</td>
+          <td>here</td>
+      </tr>
+      <tr>
+          <td>2</td>
+          <td>or</td>
+          <td>take</td>
+          <td>some</td>
+          <td>left</td>
+          <td>steps</td>
+          <td>and</td>
+          <td>move</td>
+          <td>eight</td>
+      </tr>
+      <tr>
+          <td>3</td>
+          <td>just</td>
+          <td>right</td>
+          <td>gives</td>
+          <td>this</td>
+          <td>black</td>
+          <td>rook</td>
+          <td>great</td>
+          <td>fun</td>
+      </tr>
+      <tr>
+          <td>4</td>
+          <td>then</td>
+          <td>have</td>
+          <td>lines</td>
+          <td>make</td>
+          <td>out</td>
+          <td>that</td>
+          <td>white</td>
+          <td>knight</td>
+      </tr>
+  </tbody>
+</table>
+<p>Fig. 10  Knuth’s knight’s tour verse.</p>
+<h2 id="60-rudraṭas-verse">6.0 Rudraṭa’s Verse</h2>
+<p>Having had a look at knight’s tour verse-pairs, let us have a look at Rudraṭa’s composition which has a unique feature. The 15<sup>th</sup> verse of the 5<sup>th</sup> Chapter of his Kāvyālaṅkāra which reads as follows is a knight’s tour verse.</p>
+<p>senā līlīlīnā nālī līnānā nānālīlīlī ।</p>
+<p>nālīnālīle nālīnā līlīlī nānānānālī || 15 ||</p>
+<p>[सेना लीलीलीना नाली लीनाना नानालीलीली ।</p>
+<p>नालीनालीले नालीना लीलीली नानानानाली ॥ १५ ॥]</p>
+<p>It can be translated as follows:</p>
+<p>“I, a truthful well-read man, a leader of a group, helpful to servants, praise the army which has as its leader a man who praises playful persons”.</p>
+<p>Namisādhu_,_ the commentator, after explaining the meaning of the verse, gives a cryptic mnemonic verse in his commentary which reads as follows:</p>
+<p>kaśajhenāgabhaṭāya tathakheveñarāghabe ।</p>
+<p>ṣajethāḍhepacemeṭhe doṇasachalaḍephaṅe ॥</p>
+<p>[कशझेनागभटाय तथखेवेञराघबे ।</p>
+<p>षजेथाढेपचेमेठे दोणसछलडेफङे ॥]</p>
+<p>He further says, “Write this verse over_ “senā lī”_ [“सेनाली&mdash;“] verse serially each letter over its corresponding letter. Then following the alphabetical order of the letters in the mnemonic verse you can get the knight’s move verse.”</p>
+<p>The cryptic verse of Namisādhu has no meaning and contains each of the Sanskrit consonants from क(ka) to स(sa) only once. (There is apparently an error in the mnemonic verse, which has occurred while printing or copying manuscript. It reads थ instead of ध and that leads to double occurrence of थ and missing of ध.) Vowels attached to the consonants are just there to meet the constraints of prosody and have no value or meaning.</p>
+<p>Following Namisādhu’s explanation, the corrected mnemonic verse has been placed over Rudraṭa’s verse in Fig. 11. For clarity, Rudraṭa’s verse is in Roman script, while Namisādhu’s mnemonic is in Devanāgarī script.  Alphabetical serial number of the letter is also given.</p>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>क-1</td>
+          <td>श-30</td>
+          <td>झे-9</td>
+          <td>ना-20</td>
+          <td>ग-3</td>
+          <td>भ-24</td>
+          <td>टा-11</td>
+          <td>य-26</td>
+      </tr>
+      <tr>
+          <td>se</td>
+          <td>nā</td>
+          <td>lī</td>
+          <td>lī</td>
+          <td>lī</td>
+          <td>nā</td>
+          <td>nā</td>
+          <td>lī</td>
+      </tr>
+      <tr>
+          <td>त-16</td>
+          <td>ध-19</td>
+          <td>खे-2</td>
+          <td>वे-29</td>
+          <td>ञ-10</td>
+          <td>रा-27</td>
+          <td>घ-4</td>
+          <td>बे-२३</td>
+      </tr>
+      <tr>
+          <td>lī</td>
+          <td>nā</td>
+          <td>nā</td>
+          <td>nā</td>
+          <td>nā</td>
+          <td>lī</td>
+          <td>lī</td>
+          <td>lī</td>
+      </tr>
+      <tr>
+          <td>ष-31</td>
+          <td>जे-8</td>
+          <td>था-17</td>
+          <td>ढे-14</td>
+          <td>प-21</td>
+          <td>चे-6</td>
+          <td>मे-25</td>
+          <td>ठे-12</td>
+      </tr>
+      <tr>
+          <td>nā</td>
+          <td>lī</td>
+          <td>nā</td>
+          <td>lī</td>
+          <td>le</td>
+          <td>nā</td>
+          <td>lī</td>
+          <td>nā</td>
+      </tr>
+      <tr>
+          <td>दो-18</td>
+          <td>ण-15</td>
+          <td>स-32</td>
+          <td>छ-7</td>
+          <td>ल-28</td>
+          <td>डे-13</td>
+          <td>फ-22</td>
+          <td>ङे-5</td>
+      </tr>
+      <tr>
+          <td>lī</td>
+          <td>lī</td>
+          <td>lī</td>
+          <td>nā</td>
+          <td>nā</td>
+          <td>nā</td>
+          <td>nā</td>
+          <td>lī</td>
+      </tr>
+  </tbody>
+</table>
+<p>Fig. 11.  Rudraṭa’s verse and the knight’s tour</p>
+<p>If we follow the alphabetical order it clearly gives the knight’s tour, which turns out to be the same as what Vedāntadeśika has used for his verse-pair. [It is very likely that the poets knew the solution through an earlier knight’s tour verse-pair or a mnemonic verse, same as or similar to, the one given by Namisādhu_._]</p>
+<p>Rudraṭa_ _ has simplified the complexity of composition by adopting only 4 syllables. His composition is unique as his knight’s tour verse is the same as the main verse.</p>
+<p>It is natural to investigate if his use of only 4 distinct syllables is connected with the knight’s tour sequence yielding the same verse. It indeed turns out that in order that the knight’s tour sequence yield the same verse, there cannot be more than 4 distinct syllables in the verse.</p>
+<p>To prove this, we set up a table of equality (Fig. 12) where the 2 serial cell-numbers in a column have to be the same syllable:</p>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Main verse cell No.</td>
+          <td>1</td>
+          <td>2</td>
+          <td>3</td>
+          <td>4</td>
+          <td>5</td>
+          <td>6</td>
+          <td>7</td>
+          <td>8</td>
+          <td>9</td>
+          <td>10</td>
+          <td>11</td>
+          <td>12</td>
+          <td>13</td>
+          <td>14</td>
+          <td>15</td>
+          <td>16</td>
+      </tr>
+      <tr>
+          <td>Knight’s tour verse cell No.</td>
+          <td>1</td>
+          <td>11</td>
+          <td>5</td>
+          <td>15</td>
+          <td>32</td>
+          <td>22</td>
+          <td>28</td>
+          <td>18</td>
+          <td>3</td>
+          <td>13</td>
+          <td>7</td>
+          <td>24</td>
+          <td>30</td>
+          <td>20</td>
+          <td>26</td>
+          <td>9</td>
+      </tr>
+      <tr>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>Main verse cell No.</td>
+          <td>17</td>
+          <td>18</td>
+          <td>19</td>
+          <td>20</td>
+          <td>21</td>
+          <td>22</td>
+          <td>23</td>
+          <td>24</td>
+          <td>25</td>
+          <td>26</td>
+          <td>27</td>
+          <td>28</td>
+          <td>29</td>
+          <td>30</td>
+          <td>31</td>
+          <td>32</td>
+      </tr>
+      <tr>
+          <td>Knight’s tour verse cell No.</td>
+          <td>19</td>
+          <td>25</td>
+          <td>10</td>
+          <td>4</td>
+          <td>21</td>
+          <td>31</td>
+          <td>16</td>
+          <td>6</td>
+          <td>23</td>
+          <td>8</td>
+          <td>14</td>
+          <td>29</td>
+          <td>12</td>
+          <td>2</td>
+          <td>17</td>
+          <td>27</td>
+      </tr>
+  </tbody>
+</table>
+<p>Fig. 12.  Table of equality of cells to ensure that Rudraṭa’s main verse and knight’s tour verse are same</p>
+<p>This table of equality leads to the interesting result that</p>
+<p>the following cells have to have the same syllable:</p>
+<p>2,11,7,28,29,12,24,6,22,31,17,19,10,13,30.</p>
+<p>The following cells have to have the same syllable:</p>
+<p>3,5,32,27,14,20,4,15,26,8,18,25,23,16,9,</p>
+<p>These two sets of cells turn out to be the two disjoint cycles of the knight’s tour permutation. Cell no.1 and Cell No.21 can have distinct syllables.</p>
+<p>Rudraṭa’s verse adheres to the above criteria where cell No.1 contains syllable से ‘se’, cell No.2, 11 etc contain syllable  ना  ‘nā_’<em>, cell No.3,5 etc contain syllable ली ‘lī</em>‘ _and cell no.21 contains syllable ले ‘le’. It may be noted that the syllable in cell 21 of the main verse is also the syllable in cell 21 of the knight’s tour verse.</p>
+<p>Now a question arises. Let us suppose that instead of Rudraṭa’s knight’s tour we are interested in composing a verse based on any of the other knight’s tours we have had a look at. Then, what are the conditions that will need to be satisfied, if we want to ensure that the verse read along knight’s tour is the same as the main verse? The answer can be worked out in the same manner as was worked out in the case of Rudraṭa’s verse.</p>
+<p>It would however be appropriate to have a look at this procedure at an elementary level as follows. Supposing we permute a set of elements (a,b,c,d,e,f) as follows:</p>
+<p>a-&gt;b-&gt;c-&gt;a; d-&gt;e-&gt;d; f-&gt;f.</p>
+<p>This permutation can be written as (abc)(de)(f). The various alternatives can be listed as</p>
+<p>abc de f, bca ed f, cab de f, abc ed f, bca de f, cab ed f,</p>
+<p>The number of distinct alternatives is 6, LCM of the periods of the two cyclic permutations. If we say that the elements of the set are such that this permutation leaves the order of the elements of the set unchanged, it implies a=b=c; d=e. That means there can only be 3 independant elements, one for each disjoint cycle.</p>
+<p>This logic is clearly extendable to the case of Rudraṭa’s knight’s tour verse. In the case of the latter, the knight’s tour verse coincides with the main verse. When we set up the set of equations to enforce this coincidence, the disjoint cycles separate out automatically and we are led to the result that all the elements of a disjoint cycle will have to be a common syllable. In case of Rudraṭa’s knight’s tour as there are 2 disjoint cycles each having 15 elements and 2 fixed points there can be a maximum of 4 syllables only. Similarly for knight’s tours of Ratnākara, Someśvara and Euler, the maximum number of syllables that the verse can have in order that the knight’s tour verse be the same as main verse can be worked out and the details are as per Fig. 13.</p>
+<table>
+  <thead>
+      <tr>
+          <th>A Verse-pair of</th>
+          <th>B No.of syllables</th>
+          <th>C Syllable No.</th>
+          <th>D Cell No.s where the syllable has to appear (Also indicates the permutation structure:Fixed points and cyclic permutations)</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Rudraṭa (4x8)</td>
+          <td>4</td>
+          <td>1</td>
+          <td>Cell No. 1</td>
+      </tr>
+      <tr>
+          <td></td>
+          <td></td>
+          <td>2</td>
+          <td>Cell No. 21</td>
+      </tr>
+      <tr>
+          <td></td>
+          <td></td>
+          <td>3</td>
+          <td>Cells (2,11,7,28,29,12,24,6,22,31,17,19,10,13,30.) 15 cells</td>
+      </tr>
+      <tr>
+          <td></td>
+          <td></td>
+          <td>4</td>
+          <td>Cells No. (3,5,32,27,14,20,4,15,26,8,18,25,23,16,9) 15 cells</td>
+      </tr>
+      <tr>
+          <td>Ratnakara (4x8)</td>
+          <td>3</td>
+          <td>1</td>
+          <td>Cell No. 16</td>
+      </tr>
+      <tr>
+          <td></td>
+          <td></td>
+          <td>2</td>
+          <td>Cell No. 28</td>
+      </tr>
+      <tr>
+          <td></td>
+          <td></td>
+          <td>3</td>
+          <td>Cells No. (1,29,13,27,11,2,19,15,31,24,3,25,18,32,30, 7,8,23,9,6,14,21,20,5,4,10,12,17,22,26) 30 cells</td>
+      </tr>
+      <tr>
+          <td>Someśvara (8x8)</td>
+          <td>4</td>
+          <td>1</td>
+          <td>Cell No. 11</td>
+      </tr>
+      <tr>
+          <td></td>
+          <td></td>
+          <td>2</td>
+          <td>Cell No. 26</td>
+      </tr>
+      <tr>
+          <td></td>
+          <td></td>
+          <td>3</td>
+          <td>Cells No.(57,29,52,37,6,23,13,18,64,46,48,21,15, 50,44,53,43,59,4,55,45,63,36,16,60,10,5,40,17, 54,28,58,19,47,31,56,35,22,30,62,42,49,38,12,1) 45 cells</td>
+      </tr>
+      <tr>
+          <td></td>
+          <td></td>
+          <td>4</td>
+          <td>Cells No. (3,61,25,9,20,32,39,2,51,27,41,34,7,8,14,33,24) 17 cells</td>
+      </tr>
+      <tr>
+          <td>Euler 4x8</td>
+          <td>3</td>
+          <td>1</td>
+          <td>Cell No. 1</td>
+      </tr>
+      <tr>
+          <td></td>
+          <td></td>
+          <td>2</td>
+          <td>Cell No. 23</td>
+      </tr>
+  </tbody>
+</table>
+<p>Fig. 13. Required number of syllables and their cell no.s for the knight’s tour verse to be the same as main verse (4 different tours).</p>
+<p>Fig. 13 shows that among three 4x8 knight’s tours studied, Ratnakara’s and Euler’s require 3 syllables. Someśvara’s 8x8 knight’s tour will need a pair of main verses, each verse having 32 syllables and it will require 4 syllables.</p>
+<p>Fig. 13 (Column D) also indicates the structure of permutation in each of the four knight’s tours. Rudraṭa’s knight’s tour is a permutation of the elements of set 1,2,3,&mdash;-32 which maps the 15 elements of subset ( 2,11,7,28,29,12,24,6,22,31,17,19,10,13,30) to each other in a cyclic fashion and 15 elements of subset (3,5,32,27,14,20,4,15,26,8,18,25,23,16,9) to each other in a cyclic fashion, while elements 1 and 21 remain fixed. Similar statements can be made in respect of the other three knight’s tours. It is interesting and intriguing too, to note that there are two and only two fixed points in each of the four knight’s tours studied.</p>
+<h2 id="70-conclusion">7.0 Conclusion</h2>
+<p>Solution to the knight’s tour problem was known in India as early as the 9<sup>th</sup> century AD in the form of a literary skill, where a  32-syllable verse written on a 8x4 chess-board yields another meaningful verse if read as per the movement of a knight visiting all the 32-cells one and once only. Rudraṭa’’s Kāvyālaṅkāra_ _ provides a verse employing only 4 distinct syllables where the knight’s tour yields the same verse. This article, first gives an introduction to knight’s tour as a chess puzzle, as a mathematical problem and as demonstrator of wizardry in Sanskrit versification and then works out the maximum number of distinct  syllables that the verses could contain in order that the knight’s tour verse be the same as the main verse, in respect of four different knight’s tours. It is seen that only in respect of Rudraṭa’s knight’s tour  a maximum of 4 distinct syllables could be accommodated. The article also indicates the cyclic permutation associated with each of the four knight’s tours.</p>
+<h2 id="80-suggested-reading">8.0 Suggested Reading</h2>
+<p>Books</p>
+<p>[1] Śivaśekhara  Miśra: Mānasollās ek sāṃskṛtik adhyayan : Caukhambā vidyā bhavan Vārāṇasī 1966 (Hindī)</p>
+<p>[2] Rāma rūpa Pāṭhak : Citrakāvyakautukam : Motīlāl banārasī dās Delhi (Sanskrit)</p>
+<p>[3] H.J.R. Murray: A history of chess : Clarendon Press, Oxford</p>
+<p>[4] G K Srigondekar: Manasollasa of King Someswara : Baroda Oriental Institute (Sanskrit)</p>
+<p>[5] Pt. Durgaprasad and Panduranga Parab: Kiratarjuniya of Bharavi: Nirnayasagar Press, Mumbai ( Sanskrit)</p>
+<p>[6] Pt. Durgaprasad and Panduranga Parab: Haravijayam of Rajanaka Ratnakara: Nirnayasagar Press: Mumbai ( Sanskrit )</p>
+<p>[7] Pt. Kedaranatha and W L S Panashikar: Padukasahasra od Sri Venkatanatha Deshika: Nirnayasagar Press, Mumbai ( Sanskrit )</p>
+<p>[8]  Kavyamala Series: : Kavyalankara of  Rudrata:; Nirnayasagar Press: Mumbai ( Sanskrit )</p>
+<p>[9] Pt. Kedaranatha Sarma and Vasudeva Sarma: Sarasvatikanthabharanam of Sri Bhojadeva: Chaukhambha Orientalia: Varanasi (Sanskrit)</p>
+<h3 id="web-sites">Web sites</h3>
+<ol>
+<li><a href="https://plus.maths.org/content/knights-tour">https://plus.maths.org/content/knights-tour</a></li>
+<li><a href="http://eulerarchive.maa.org/">http://eulerarchive.maa.org/</a></li>
+<li><a href="http://www-history.mcs.st-and.ac.uk/Projects/MacQuarrie/Chapters/Ch3.html">http://www-history.mcs.st-and.ac.uk/Projects/MacQuarrie/Chapters/Ch3.html</a></li>
+<li><a href="https://www.researchgate.net/publication/265424016_Knight's_tours_for_cubes_and_boxes">https://www.researchgate.net/publication/265424016_Knight&rsquo;s_tours_for_cubes_and_boxes</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Knight%27s_tour#Warnsdorff's_rule">https://en.wikipedia.org/wiki/Knight%27s_tour#Warnsdorff&rsquo;s_rule</a></li>
+<li><a href="https://www.youtube.com/watch?v=C95hHI7cVNs">https://www.youtube.com/watch?v=C95hHI7cVNs</a></li>
+<li><a href="https://www.iiitb.ac.in/CSL/projects/Chitrakavya/visuals.html">https://www.iiitb.ac.in/CSL/projects/Chitrakavya/visuals.html</a></li>
+</ol>
+<h2 id="notes">Notes</h2>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Movements ascribed to the chariot (ratha) and elephant (gaja) in Mānasollāsaḥ are at variance with the movements prescribed to rook and bishop in modern chess.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>euphonic coalition causing modifications of the final letters of a word and the beginning letters of the next word in a sentence.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>Construction of compound words&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:4">
+<p>Dr S. Rajaraman has been presented with Vyas samman (2019) by The Government of India for his accomplishments in the genre of Citrakāvyam.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
+  </div>
+</article>
+
+
+        
+
+        
+
+
+
+    <aside class="card border noPrint" id="section-tree-item-math_history_hindu_articles_rudraTa-knights-tour_gss-murthy_md">
+        <div class="card-title bg-light-gray border d-flex justify-content-between">
+            <a href="https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/">Rudraṭa knights tour - GSS Murthy </a>
+            <a data-toggle="collapse" href="#section-tree-item-body-math_history_hindu_articles_rudraTa-knights-tour_gss-murthy_md" role="button" aria-expanded="false" aria-controls="section-tree-item-body-math_history_hindu_articles_rudraTa-knights-tour_gss-murthy_md" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+        </div>
+        <nav id="section-tree-item-body-math_history_hindu_articles_rudraTa-knights-tour_gss-murthy_md" class="card-body p-0 collapse">
+            
+            <li>draft: false</li>
+            
+            <li>iscjklanguage: false</li>
+            
+            <li>title: Rudraṭa knights tour - GSS Murthy</li>
+            
+        </nav>
+    </aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1 noPrint" role="contentinfo">
+  
+
+  <div id="div_foot_nav_bar" class="row">
+    <a href="https://vishvAsa.github.io/notes/search"  class="btn btn-light btn-sm">🥽🔦</a>
+    <div class="row col  d-flex justify-content-center">
+      <div><a id="previousPageFoot" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+      <div ><a id="nextPageFoot" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+    </div>
+      <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+      </ul>
+  </div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vishvAsa/notes/issues/new" >
+      ✉️Contact
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      
+      <a href="https://github.com/vishvAsa/notes/actions/workflows/build.yml"><img src="https://github.com/vishvAsa/notes/actions/workflows/build.yml/badge.svg"> Built </a> on 2026 Feb 12 01:34:45 UTC. (<a href="http://google.com/search?q=01%3a34%3a45%20UTC to IST">IST</a>)
+    </div>
+  </div>
+</footer>
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-33H08JSLQR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-33H08JSLQR');
+</script>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_uiLib.onDocumentReadyTasks();
+  </script>
+  
+</html>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Articles on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/sapiens/phenes/health/disease/infection/contagion/vaccination/articles/</link>
+    <description>Recent content in &#43;Articles on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/sapiens/phenes/health/disease/infection/contagion/vaccination/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virus vs mRNA</title>
+      <link>https://vishvAsa.github.io/notes/sapiens/phenes/health/disease/infection/contagion/vaccination/articles/virus_vs_mRNA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/sapiens/phenes/health/disease/infection/contagion/vaccination/articles/virus_vs_mRNA/</guid>
+      <description>&lt;p&gt;Live-attenuated virus vaccines are designed to replicate exponentially in the body (often many thousand- or million-fold from the initial dose) until the immune system shuts them down, whereas mRNA vaccines deliver a fixed, non-replicating dose whose protein output is strictly proportional to the number of transfected cells and then rapidly stops — no exponential spread, no uncontrolled amplification.&lt;/p&gt;&#xA;&lt;p&gt;A live-virus vaccine introduces an attenuated whole virus that replicates inside your cells, producing dozens of different viral proteins (not just the target antigen) and causing transient cell damage or stress, whereas an mRNA vaccine triggers production of only one precisely chosen protein (e.g., spike) with no viral replication or collateral disruption of infected cells.&lt;br&gt;&#xA;An mRNA vaccine does far &lt;em&gt;less&lt;/em&gt; (only one predefined protein, zero viral replication, no exponential amplification, no collateral viral proteins, no transient infection of cells) and does it in a far more controlled and predictable way than any live-attenuated (or even most inactivated/recombinant subunit) traditional vaccine.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

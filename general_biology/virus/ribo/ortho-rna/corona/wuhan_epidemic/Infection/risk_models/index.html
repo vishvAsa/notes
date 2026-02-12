@@ -1,0 +1,743 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Risk models</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.143.0">
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:url" content="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/">
+  <meta property="og:site_name" content="Vishvas&#39;s notes">
+  <meta property="og:title" content="Risk models">
+  <meta property="og:description" content="Overview Adjustible simulations/ models: natgeo 202008 Successful Infection = Virus Dose x Time Alternate \(I_r = \dfrac{N t C_q (Q_b)^2 p_m^2}{\gl_a V}\)
+Their key result is boiled down to this equation for Risk Index \(I_r\).
+N is the number of people in the enclosed space, t is the time spent therein. \(C_q\) is the concentration of exhaled infection quanta (virions) per cubic meter. \(Q_b\) is the exhaled volume in cubic meters per hour. \(Q_b\) exhaled volume rate is also square scaling: Hence, talking, shouting, singing are all increase the risk by square. \(p_m\) is mask penetration factor, \(0 &lt;= p_m &lt;= 1\), where 1 is no mask &amp; 0 is theoretical total blockade of particles of virion size or higher. it scales as the square of mask penetration: hence, some mask makes a notable difference relative to no mask. Better the mask square gain in risk reduction. \(\lambda_a\) is ventilation outflow rate per unit volume in m^3. V is volume of enclosed space. Indoor spaces “Indoor spaces, with limited air exchange or recycled air and lots of people, are concerning from a transmission standpoint. We know that 60 people in a volleyball court-sized room (choir) results in massive infections. Same situation with the restaurant and the call center. Social distancing guidelines don’t hold in indoor spaces where you spend a lot of time, as people on the opposite side of the room were infected. ..” - EB When weather conditions allow, increase fresh outdoor air by opening windows and doors. Use fans to increase the effectiveness of open windows. Avoid placing fans in a way that could potentially cause contaminated air to flow directly from one person over another. One helpful strategy is to use a window fan, placed safely and securely in a window, to exhaust room air to the outdoors. Decrease occupancy in areas where outdoor ventilation cannot be increased. Consider portable high-efficiency particulate air (HEPA) fan/filtration systems to help enhance air cleaning (especially in higher risk areas) earlier, 30 minute exposure to a crowded store could infect you. Now (with UK strain), 20 minute exposure is enough to infect you. AC systems Turn off any demand-controlled ventilation (DCV) controls that reduce air supply based on occupancy or temperature during occupied hours. In homes and buildings where the HVAC fan operation can be controlled at the thermostat, set the fan to the “on” position instead of “auto,” which will operate the fan continuously, even when heating or air-conditioning is not required. Open outdoor air dampers beyond minimum settings to reduce or eliminate HVAC air recirculation. In mild weather, this will not affect thermal comfort or humidity. However, this may be difficult to do in cold, hot, or humid weather. Consider using ultraviolet germicidal irradiation (UVGI) as a supplement to help inactivate SARS-CoV-2, especially if options for increasing room ventilation are limited. Outdoor spaces “Social distancing rules are really to protect you with brief exposures or outdoor exposures. In these situations there is not enough time to achieve the infectious viral load when you are standing 6 feet apart or where wind and the infinite outdoor space for viral dilution reduces viral load. … If I am outside, and I walk past someone, remember it is “dose and time” needed for infection. You would have to be in their airstream for 5&#43; minutes (optimistically assuming 20VP per minute) for a chance of infection. While joggers may be releasing more virus due to deep breathing, remember the exposure time is also less due to their speed.” Location “The main sources for infection are home, workplace, public transport, social gatherings, and restaurants. This accounts for 90% of all transmission events. In contrast, outbreaks spread from shopping appear to be responsible for a small percentage of traced infections. … When assessing the risk of infection (via respiration) at the grocery store or mall, you need to consider the volume of the air space (very large), the number of people (restricted), how long people are spending in the store (workers - all day; customers - an hour).” - EB Travel India: Risk of getting infected from another household is 9% but that becomes 79% while travelling with another infected for more than 6 hours. Air Travel: Mask is a must. Hand hygene essential. Air travel is safer than train or bus travel - but still risky. Modern airlines have started installing HEPA filters that suck air from outside through wings, mixes with inside air in 50:50 mix,warms it up and filters off any bacteria,fungus and Viruses. Children Wave 2 India and Brazil In Brazil,many children are dying. In India too Pediatricians are reporting wards getting filled with young kids presenting with very high fever and bowel disturbances which mimic like appendicitis. It is the inflammation of the terminal part of small bowel called ileum that are typically presenting with pain in abdomen and diarrhea. Many children are requiring intravenous immunoglobulins to salvage them from multi system inflammation resulted from the virus. 70% of confirmed children carry active virus without symptoms, and the duration of a case lasts as long as 36 days. Dead body CDC guidelines here . CDC 2020 said that risk from dead body is low (no respiratory droplets). Avoid touching the deceased person’s body. Wash your hands with soap and water for at least 20 seconds after any contact with the body. Super-spreader / single-source events -175 attendees attended a Biogen conference at Boston In February. A week later 99 people fell ill. Now,300,000 infections around the world and 1.6% of all the US infections can be traced back to this single gathering at Boston. The infection from this conference jumped to 29 countries and almost every part of USA.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="general_biology">
+
+  <meta itemprop="name" content="Risk models">
+  <meta itemprop="description" content="Overview Adjustible simulations/ models: natgeo 202008 Successful Infection = Virus Dose x Time Alternate \(I_r = \dfrac{N t C_q (Q_b)^2 p_m^2}{\gl_a V}\)
+Their key result is boiled down to this equation for Risk Index \(I_r\).
+N is the number of people in the enclosed space, t is the time spent therein. \(C_q\) is the concentration of exhaled infection quanta (virions) per cubic meter. \(Q_b\) is the exhaled volume in cubic meters per hour. \(Q_b\) exhaled volume rate is also square scaling: Hence, talking, shouting, singing are all increase the risk by square. \(p_m\) is mask penetration factor, \(0 &lt;= p_m &lt;= 1\), where 1 is no mask &amp; 0 is theoretical total blockade of particles of virion size or higher. it scales as the square of mask penetration: hence, some mask makes a notable difference relative to no mask. Better the mask square gain in risk reduction. \(\lambda_a\) is ventilation outflow rate per unit volume in m^3. V is volume of enclosed space. Indoor spaces “Indoor spaces, with limited air exchange or recycled air and lots of people, are concerning from a transmission standpoint. We know that 60 people in a volleyball court-sized room (choir) results in massive infections. Same situation with the restaurant and the call center. Social distancing guidelines don’t hold in indoor spaces where you spend a lot of time, as people on the opposite side of the room were infected. ..” - EB When weather conditions allow, increase fresh outdoor air by opening windows and doors. Use fans to increase the effectiveness of open windows. Avoid placing fans in a way that could potentially cause contaminated air to flow directly from one person over another. One helpful strategy is to use a window fan, placed safely and securely in a window, to exhaust room air to the outdoors. Decrease occupancy in areas where outdoor ventilation cannot be increased. Consider portable high-efficiency particulate air (HEPA) fan/filtration systems to help enhance air cleaning (especially in higher risk areas) earlier, 30 minute exposure to a crowded store could infect you. Now (with UK strain), 20 minute exposure is enough to infect you. AC systems Turn off any demand-controlled ventilation (DCV) controls that reduce air supply based on occupancy or temperature during occupied hours. In homes and buildings where the HVAC fan operation can be controlled at the thermostat, set the fan to the “on” position instead of “auto,” which will operate the fan continuously, even when heating or air-conditioning is not required. Open outdoor air dampers beyond minimum settings to reduce or eliminate HVAC air recirculation. In mild weather, this will not affect thermal comfort or humidity. However, this may be difficult to do in cold, hot, or humid weather. Consider using ultraviolet germicidal irradiation (UVGI) as a supplement to help inactivate SARS-CoV-2, especially if options for increasing room ventilation are limited. Outdoor spaces “Social distancing rules are really to protect you with brief exposures or outdoor exposures. In these situations there is not enough time to achieve the infectious viral load when you are standing 6 feet apart or where wind and the infinite outdoor space for viral dilution reduces viral load. … If I am outside, and I walk past someone, remember it is “dose and time” needed for infection. You would have to be in their airstream for 5&#43; minutes (optimistically assuming 20VP per minute) for a chance of infection. While joggers may be releasing more virus due to deep breathing, remember the exposure time is also less due to their speed.” Location “The main sources for infection are home, workplace, public transport, social gatherings, and restaurants. This accounts for 90% of all transmission events. In contrast, outbreaks spread from shopping appear to be responsible for a small percentage of traced infections. … When assessing the risk of infection (via respiration) at the grocery store or mall, you need to consider the volume of the air space (very large), the number of people (restricted), how long people are spending in the store (workers - all day; customers - an hour).” - EB Travel India: Risk of getting infected from another household is 9% but that becomes 79% while travelling with another infected for more than 6 hours. Air Travel: Mask is a must. Hand hygene essential. Air travel is safer than train or bus travel - but still risky. Modern airlines have started installing HEPA filters that suck air from outside through wings, mixes with inside air in 50:50 mix,warms it up and filters off any bacteria,fungus and Viruses. Children Wave 2 India and Brazil In Brazil,many children are dying. In India too Pediatricians are reporting wards getting filled with young kids presenting with very high fever and bowel disturbances which mimic like appendicitis. It is the inflammation of the terminal part of small bowel called ileum that are typically presenting with pain in abdomen and diarrhea. Many children are requiring intravenous immunoglobulins to salvage them from multi system inflammation resulted from the virus. 70% of confirmed children carry active virus without symptoms, and the duration of a case lasts as long as 36 days. Dead body CDC guidelines here . CDC 2020 said that risk from dead body is low (no respiratory droplets). Avoid touching the deceased person’s body. Wash your hands with soap and water for at least 20 seconds after any contact with the body. Super-spreader / single-source events -175 attendees attended a Biogen conference at Boston In February. A week later 99 people fell ill. Now,300,000 infections around the world and 1.6% of all the US infections can be traced back to this single gathering at Boston. The infection from this conference jumped to 29 countries and almost every part of USA.">
+  <meta itemprop="wordCount" content="955">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Risk models">
+  <meta name="twitter:description" content="Overview Adjustible simulations/ models: natgeo 202008 Successful Infection = Virus Dose x Time Alternate \(I_r = \dfrac{N t C_q (Q_b)^2 p_m^2}{\gl_a V}\)
+Their key result is boiled down to this equation for Risk Index \(I_r\).
+N is the number of people in the enclosed space, t is the time spent therein. \(C_q\) is the concentration of exhaled infection quanta (virions) per cubic meter. \(Q_b\) is the exhaled volume in cubic meters per hour. \(Q_b\) exhaled volume rate is also square scaling: Hence, talking, shouting, singing are all increase the risk by square. \(p_m\) is mask penetration factor, \(0 &lt;= p_m &lt;= 1\), where 1 is no mask &amp; 0 is theoretical total blockade of particles of virion size or higher. it scales as the square of mask penetration: hence, some mask makes a notable difference relative to no mask. Better the mask square gain in risk reduction. \(\lambda_a\) is ventilation outflow rate per unit volume in m^3. V is volume of enclosed space. Indoor spaces “Indoor spaces, with limited air exchange or recycled air and lots of people, are concerning from a transmission standpoint. We know that 60 people in a volleyball court-sized room (choir) results in massive infections. Same situation with the restaurant and the call center. Social distancing guidelines don’t hold in indoor spaces where you spend a lot of time, as people on the opposite side of the room were infected. ..” - EB When weather conditions allow, increase fresh outdoor air by opening windows and doors. Use fans to increase the effectiveness of open windows. Avoid placing fans in a way that could potentially cause contaminated air to flow directly from one person over another. One helpful strategy is to use a window fan, placed safely and securely in a window, to exhaust room air to the outdoors. Decrease occupancy in areas where outdoor ventilation cannot be increased. Consider portable high-efficiency particulate air (HEPA) fan/filtration systems to help enhance air cleaning (especially in higher risk areas) earlier, 30 minute exposure to a crowded store could infect you. Now (with UK strain), 20 minute exposure is enough to infect you. AC systems Turn off any demand-controlled ventilation (DCV) controls that reduce air supply based on occupancy or temperature during occupied hours. In homes and buildings where the HVAC fan operation can be controlled at the thermostat, set the fan to the “on” position instead of “auto,” which will operate the fan continuously, even when heating or air-conditioning is not required. Open outdoor air dampers beyond minimum settings to reduce or eliminate HVAC air recirculation. In mild weather, this will not affect thermal comfort or humidity. However, this may be difficult to do in cold, hot, or humid weather. Consider using ultraviolet germicidal irradiation (UVGI) as a supplement to help inactivate SARS-CoV-2, especially if options for increasing room ventilation are limited. Outdoor spaces “Social distancing rules are really to protect you with brief exposures or outdoor exposures. In these situations there is not enough time to achieve the infectious viral load when you are standing 6 feet apart or where wind and the infinite outdoor space for viral dilution reduces viral load. … If I am outside, and I walk past someone, remember it is “dose and time” needed for infection. You would have to be in their airstream for 5&#43; minutes (optimistically assuming 20VP per minute) for a chance of infection. While joggers may be releasing more virus due to deep breathing, remember the exposure time is also less due to their speed.” Location “The main sources for infection are home, workplace, public transport, social gatherings, and restaurants. This accounts for 90% of all transmission events. In contrast, outbreaks spread from shopping appear to be responsible for a small percentage of traced infections. … When assessing the risk of infection (via respiration) at the grocery store or mall, you need to consider the volume of the air space (very large), the number of people (restricted), how long people are spending in the store (workers - all day; customers - an hour).” - EB Travel India: Risk of getting infected from another household is 9% but that becomes 79% while travelling with another infected for more than 6 hours. Air Travel: Mask is a must. Hand hygene essential. Air travel is safer than train or bus travel - but still risky. Modern airlines have started installing HEPA filters that suck air from outside through wings, mixes with inside air in 50:50 mix,warms it up and filters off any bacteria,fungus and Viruses. Children Wave 2 India and Brazil In Brazil,many children are dying. In India too Pediatricians are reporting wards getting filled with young kids presenting with very high fever and bowel disturbances which mimic like appendicitis. It is the inflammation of the terminal part of small bowel called ileum that are typically presenting with pain in abdomen and diarrhea. Many children are requiring intravenous immunoglobulins to salvage them from multi system inflammation resulted from the virus. 70% of confirmed children carry active virus without symptoms, and the duration of a case lasts as long as 36 days. Dead body CDC guidelines here . CDC 2020 said that risk from dead body is low (no respiratory droplets). Avoid touching the deceased person’s body. Wash your hands with soap and water for at least 20 seconds after any contact with the body. Super-spreader / single-source events -175 attendees attended a Biogen conference at Boston In February. A week later 99 people fell ill. Now,300,000 infections around the world and 1.6% of all the US infections can be traced back to this single gathering at Boston. The infection from this conference jumped to 29 countries and almost every part of USA.">
+<script type="text/javascript">
+    
+    let baseURL = "https:\/\/vishvAsa.github.io\/notes\/";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022build_img\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/actions\/workflows\/build.yml\/badge.svg\u0022,\u0022build_url\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/actions\/workflows\/build.yml\u0022,\u0022contactlink\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/issues\/new\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/edit\/content\/\u0022,\u0022js_extras\u0022:[\u0022mathjax\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022देवः\u0022,\u0022url\u0022:\u0022..\/devaH\/\u0022},{\u0022title\u0022:\u0022आगमः\u0022,\u0022url\u0022:\u0022..\/AgamaH\/\u0022},{\u0022title\u0022:\u0022आगमः शैवः\u0022,\u0022url\u0022:\u0022..\/AgamaH_shaivaH\/\u0022},{\u0022title\u0022:\u0022आगमः वैष्णवः\u0022,\u0022url\u0022:\u0022..\/AgamaH_vaiShNavaH\/\u0022},{\u0022title\u0022:\u0022रामानुजीयम्\u0022,\u0022url\u0022:\u0022..\/rAmAnujIyam\/\u0022},{\u0022title\u0022:\u0022माध्वम्\u0022,\u0022url\u0022:\u0022..\/mAdhvam\/\u0022},{\u0022title\u0022:\u0022आगमः ब्राह्मः\u0022,\u0022url\u0022:\u0022..\/AgamaH_brAhmaH\/\u0022},{\u0022title\u0022:\u0022कल्पान्तरम्\u0022,\u0022url\u0022:\u0022..\/kalpAntaram\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022वेदाः\u0022,\u0022url\u0022:\u0022..\/vedAH\/\u0022},{\u0022title\u0022:\u0022वेदाः - ऋक्\u0022,\u0022url\u0022:\u0022..\/vedAH_Rk\/\u0022},{\u0022title\u0022:\u0022वेदाः - यजुः\u0022,\u0022url\u0022:\u0022..\/vedAH_yajuH\/\u0022},{\u0022title\u0022:\u0022वेदाः - साम\u0022,\u0022url\u0022:\u0022..\/vedAH_sAma\/\u0022},{\u0022title\u0022:\u0022पुराणम्\u0022,\u0022url\u0022:\u0022..\/purANam\u0022},{\u0022title\u0022:\u0022पुराणम् वैष्णवम्\u0022,\u0022url\u0022:\u0022..\/purANam_vaiShNavam\/\u0022},{\u0022title\u0022:\u0022महाभारतम्\u0022,\u0022url\u0022:\u0022..\/mahAbhAratam\/\u0022},{\u0022title\u0022:\u0022रामायणम्\u0022,\u0022url\u0022:\u0022..\/rAmAyaNam\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvyam\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022ಕನ್ನಡ\u0022,\u0022url\u0022:\u0022..\/kannaDa\/\u0022},{\u0022title\u0022:\u0022त्रिपिटकम्\u0022,\u0022url\u0022:\u0022..\/tipiTaka\/\u0022},{\u0022title\u0022:\u0022पाळयः\u0022,\u0022url\u0022:\u0022..\/pALi\/\u0022},{\u0022title\u0022:\u0022भाषान्तरम्\u0022,\u0022url\u0022:\u0022..\/bhAShAntaram\/\u0022},{\u0022title\u0022:\u0022English Lit\u0022,\u0022url\u0022:\u0022..\/english\/\u0022},{\u0022title\u0022:\u0022Book pub\u0022,\u0022url\u0022:\u0022..\/book-pub\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vishvAsa.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    
+    var pageRelUrlTree = {};
+</script>
+
+    
+    <script type="text/javascript">
+  let pageVars = {};
+  pageVars.pageUrlMinusBasePath = "\/notes\/general_biology\/virus\/ribo\/ortho-rna\/corona\/wuhan_epidemic\/Infection\/risk_models\/".replace(basePath, "/");
+  pageVars.pageParams = {};
+  pageVars.pageSource = "general_biology\/virus\/ribo\/ortho-rna\/corona\/wuhan_epidemic\/Infection\/risk_models.md";
+  console.log(pageVars.pageSource);
+  var pageDefaults;
+  for (let possiblePageDefaults of pageDefaultsList) {
+    if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+      pageDefaults = possiblePageDefaults.values
+    }
+  }
+    
+</script>
+
+
+    <script src="/notes/webpack_dist/uiLib-bundle.js"></script>
+
+
+<script>
+
+
+MathJax = {
+  tex: {
+    inlineMath: [ ["@#", "#@"], ["\\(", "\\)"] ],
+    displayMath: [ ["$$","$$"], ["\\[", "\\]"] ],
+    processEscapes: true,  
+  },
+  svg: {
+    fontCache: 'global'
+  },
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore|dno"
+  }
+};
+</script>
+<script type="text/javascript" id="MathJax-script" async
+        src="/notes/non_webpack_js/mathjax/tex-svg.js">
+</script>
+
+
+
+
+
+
+    <link rel="stylesheet" href="/notes/webpack_dist/uiLib.css">
+<link rel="stylesheet" href="/notes/css/uiLibPrint.css" media="print" >
+<link rel="stylesheet" href="/notes/css/fonts.css" >
+<link rel="stylesheet" href="/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+
+<link rel="stylesheet" href="/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+
+<link rel="alternate" hreflang="sa-Deva" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/" />
+<link rel="alternate" hreflang="sa-Deva" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=devanagari" />
+
+<link rel="alternate" hreflang="sa-Knda" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=kannada" />
+<link rel="alternate" hreflang="sa-Mlym" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=malayalam" />
+<link rel="alternate" hreflang="sa-Telu" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=telugu" />
+<link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=tamil_superscripted" />
+<link rel="alternate" hreflang="sa-Taml" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=tamil" />
+<link rel="alternate" hreflang="sa-Gran" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=grantha" />
+
+<link rel="alternate" hreflang="sa-Gujr" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=gujarati" />
+<link rel="alternate" hreflang="sa-Guru" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=gurmukhi" />
+<link rel="alternate" hreflang="sa-Shar" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=sharada" />
+<link rel="alternate" hreflang="sa-Dogr" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=dogra" />
+<link rel="alternate" hreflang="sa-Phag" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=phags_pa" />
+<link rel="alternate" hreflang="sa-Tibt" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=tibetan" />
+<link rel="alternate" hreflang="sa-Sidd" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=siddham" />
+<link rel="alternate" hreflang="sa-Newa" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=newa" />
+<link rel="alternate" hreflang="sa-Modi" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=modi" />
+<link rel="alternate" hreflang="sa-Tirh" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=tirhuta_maithili" />
+<link rel="alternate" hreflang="sa-Gong" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=gondi_gujala" />
+<link rel="alternate" hreflang="sa-Gonm" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=gondi_masaram" />
+
+
+<link rel="alternate" hreflang="sa-Orya" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=oriya" />
+<link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=assamese" />
+<link rel="alternate" hreflang="sa-Beng" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=bengali" />
+<link rel="alternate" hreflang="sa-Mtei" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=manipuri" />
+<link rel="alternate" hreflang="sa-Sinh" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=sinhala" />
+<link rel="alternate" hreflang="sa-Limb" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=limbu" />
+<link rel="alternate" hreflang="sa-Lepc" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=lepcha" />
+
+
+<link rel="alternate" hreflang="sa-Cyrl" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=cyrillic" />
+<link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iso" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=iso" />
+<link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=iast" />
+<link rel="alternate" hreflang="sa-Aran" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=urdu" />
+<link rel="alternate" hreflang="sa-Avst" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=avestan" />
+
+<link rel="alternate" hreflang="sa-Brah" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=brahmi" />
+<link rel="alternate" hreflang="sa-Khar" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=kharoshthi" />
+<link rel="alternate" hreflang="sa-Zanb" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=zanbazar_square" />
+<link rel="alternate" hreflang="sa-Bhks" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=bhaiksuki" />
+
+<link rel="alternate" hreflang="sa-Bali" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=balinese" />
+<link rel="alternate" hreflang="sa-Java" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=javanese" />
+<link rel="alternate" hreflang="sa-Laoo" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=lao" />
+<link rel="alternate" hreflang="sa-Laoo-t-sa-Laoo-m0-Laopali" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=lao_pali" />
+<link rel="alternate" hreflang="sa-Mymr" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=burmese" />
+<link rel="alternate" hreflang="sa-Mymr-t-sa-Mymr-m0-Mon" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=mon" />
+<link rel="alternate" hreflang="sa-Cham" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=cham" />
+<link rel="alternate" hreflang="sa-Khmr" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=khmer" />
+<link rel="alternate" hreflang="sa-Thai" href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/?transliteration_target=thai" />
+
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+\(
+% groupings of objects.
+\newcommand{\set}[1]{\left\{ #1 \right\}}
+\newcommand{\seq}[1]{\left(#1\right)}
+\newcommand{\ang}[1]{\langle#1\rangle}
+\newcommand{\tuple}[1]{\left(#1\right)}
+\newcommand{\size}[1]{\left| #1\right|}
+
+\newcommand{\comp}{\circ}
+
+
+% numerical shortcuts.
+\newcommand{\abs}[1]{\left| #1\right|}
+\newcommand{\floor}[1]{\left\lfloor #1 \right\rfloor}
+\newcommand{\ceil}[1]{\left\lceil #1 \right\rceil}
+
+% linear algebra shortcuts.
+\newcommand{\change}{\Delta}
+\newcommand{\norm}[1]{\left\| #1\right\|}
+\newcommand{\dprod}[1]{\langle#1\rangle}
+\newcommand{\linspan}[1]{\langle#1\rangle}
+\newcommand{\conj}[1]{\overline{#1}}
+\newcommand{\der}[1]{\frac{d#1}{dx}}
+\newcommand{\lap}{\Delta}
+\newcommand{\kron}{\otimes}
+\newcommand{\nperp}{\nvdash}
+
+\newcommand{\mat}[1]{\left[ \begin{smallmatrix}#1 \end{smallmatrix} \right]}
+
+% derivatives and limits
+\newcommand{\partder}[2]{\frac{\partial #1}{\partial #2}}
+\newcommand{\partdern}[3]{\frac{\partial^{#3 #1}}{\partial #2^{#3}}}
+\newcommand{\gradient}{\nabla}
+\newcommand{\subdifferential}{\partial}
+
+% Arrows
+\newcommand{\diverge}{\nearrow}
+\newcommand{\notto}{\nrightarrow}
+\newcommand{\up}{\uparrow}
+\newcommand{\down}{\downarrow}
+% gets and gives are defined!
+
+% ordering operators
+\newcommand{\oleq}{\preceq}
+\newcommand{\ogeq}{\succeq}
+
+% programming and logic operators
+\newcommand{\dfn}{:=}
+\newcommand{\assign}{:=}
+\newcommand{\co}{\ co\ }
+\newcommand{\en}{\ en\ }
+
+
+% logic operators
+\newcommand{\xor}{\oplus}
+\newcommand{\Land}{\bigwedge}
+\newcommand{\Lor}{\bigvee}
+\newcommand{\finish}{\Box}
+\newcommand{\contra}{\Rightarrow \Leftarrow}
+\newcommand{\iseq}{\stackrel{_?{=}}}
+
+
+% Set theory
+\newcommand{\symdiff}{\Delta}
+\newcommand{\setdiff}{\backslash}
+\newcommand{\union}{\cup}
+\newcommand{\inters}{\cap}
+\newcommand{\Union}{\bigcup}
+\newcommand{\Inters}{\bigcap}
+\newcommand{\nullSet}{\phi}
+
+
+% graph theory
+\newcommand{\nbd}{\Gamma}
+
+% Script alphabets
+% For reals, use \Re
+
+% greek letters
+\newcommand{\eps}{\epsilon}
+\newcommand{\del}{\delta}
+\newcommand{\ga}{\alpha}
+\newcommand{\gb}{\beta}
+\newcommand{\gd}{\del}
+\newcommand{\gp}{\pi}
+\newcommand{\gf}{\phi}
+\newcommand{\gh}{\eta}
+\newcommand{\gF}{\Phi}
+\newcommand{\gl}{\lambda}
+\newcommand{\gm}{\mu}
+\newcommand{\gn}{\nu}
+\newcommand{\gr}{\rho}
+\newcommand{\gs}{\sigma}
+\newcommand{\gth}{\theta}
+\newcommand{\gx}{\xi}
+\newcommand{\gw}{\omega}
+
+\newcommand{\sw}{\sigma}
+\newcommand{\SW}{\Sigma}
+\newcommand{\ew}{\lambda}
+\newcommand{\EW}{\Lambda}
+
+\newcommand{\Del}{\Delta}
+\newcommand{\gD}{\Delta}
+\newcommand{\gG}{\Gamma}
+\newcommand{\gW}{\Omega}
+\newcommand{\gS}{\Sigma}
+\newcommand{\gTh}{\Theta}
+
+% Bold english letters.
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bB}{\mathbf{B}}
+\newcommand{\bC}{\mathbf{C}}
+\newcommand{\bD}{\mathbf{D}}
+\newcommand{\bE}{\mathbf{E}}
+\newcommand{\bF}{\mathbf{F}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bI}{\mathbf{I}}
+\newcommand{\bJ}{\mathbf{J}}
+\newcommand{\bK}{\mathbf{K}}
+\newcommand{\bL}{\mathbf{L}}
+\newcommand{\bM}{\mathbf{M}}
+\newcommand{\bN}{\mathbf{N}}
+\newcommand{\bO}{\mathbf{O}}
+\newcommand{\bP}{\mathbf{P}}
+\newcommand{\bQ}{\mathbf{Q}}
+\newcommand{\bR}{\mathbf{R}}
+\newcommand{\bS}{\mathbf{S}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bU}{\mathbf{U}}
+\newcommand{\bV}{\mathbf{V}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\bX}{\mathbf{X}}
+\newcommand{\bY}{\mathbf{Y}}
+\newcommand{\bZ}{\mathbf{Z}}
+
+\newcommand{\bba}{\mathbf{a}}
+\newcommand{\bbb}{\mathbf{b}}
+\newcommand{\bbc}{\mathbf{c}}
+\newcommand{\bbd}{\mathbf{d}}
+\newcommand{\bbe}{\mathbf{e}}
+\newcommand{\bbf}{\mathbf{f}}
+\newcommand{\bbg}{\mathbf{g}}
+\newcommand{\bbh}{\mathbf{h}}
+\newcommand{\bbk}{\mathbf{k}}
+\newcommand{\bbl}{\mathbf{l}}
+\newcommand{\bbm}{\mathbf{m}}
+\newcommand{\bbn}{\mathbf{n}}
+\newcommand{\bbp}{\mathbf{p}}
+\newcommand{\bbq}{\mathbf{q}}
+\newcommand{\bbr}{\mathbf{r}}
+\newcommand{\bbs}{\mathbf{s}}
+\newcommand{\bbt}{\mathbf{t}}
+\newcommand{\bbu}{\mathbf{u}}
+\newcommand{\bbv}{\mathbf{v}}
+\newcommand{\bbw}{\mathbf{w}}
+\newcommand{\bbx}{\mathbf{x}}
+\newcommand{\bby}{\mathbf{y}}
+\newcommand{\bbz}{\mathbf{z}}
+\newcommand{\0}{\mathbf{0}}
+\newcommand{\1}{\mathbf{1}}
+
+% Caligraphic english alphabet
+\newcommand{\cA}{\mathcal{A}}
+\newcommand{\cB}{\mathcal{B}}
+\newcommand{\cC}{\mathcal{C}}
+\newcommand{\cD}{\mathcal{D}}
+\newcommand{\cE}{\mathcal{E}}
+\newcommand{\cF}{\mathcal{F}}
+\newcommand{\cG}{\mathcal{G}}
+\newcommand{\cH}{\mathcal{H}}
+\newcommand{\cI}{\mathcal{I}}
+\newcommand{\cJ}{\mathcal{J}}
+\newcommand{\cK}{\mathcal{K}}
+\newcommand{\cL}{\mathcal{L}}
+\newcommand{\cM}{\mathcal{M}}
+\newcommand{\cN}{\mathcal{N}}
+\newcommand{\cO}{\mathcal{O}}
+\newcommand{\cP}{\mathcal{P}}
+\newcommand{\cQ}{\mathcal{Q}}
+\newcommand{\cR}{\mathcal{R}}
+\newcommand{\cS}{\mathcal{S}}
+\newcommand{\cT}{\mathcal{T}}
+\newcommand{\cU}{\mathcal{U}}
+\newcommand{\cV}{\mathcal{V}}
+\newcommand{\cW}{\mathcal{W}}
+\newcommand{\cX}{\mathcal{X}}
+\newcommand{\cY}{\mathcal{Y}}
+\newcommand{\cZ}{\mathcal{Z}}
+
+
+% Formatting shortcuts
+\newcommand{\red}[1]{\textcolor{red}{#1}}
+\newcommand{\blue}[1]{\textcolor{blue}{#1}}
+\newcommand{\htext}[2]{\texorpdfstring{#1}{#2}}
+
+% Statistics
+\newcommand{\distr}{\sim}
+\newcommand{\stddev}{\sigma}
+\newcommand{\covmatrix}{\Sigma}
+\newcommand{\mean}{\mu}
+\newcommand{\param}{\theta}
+\newcommand{\gthEst}{\hat{\theta}}
+\newcommand{\ftr}{\phi}
+\newcommand{\est}[1]{\hat{#1}}
+
+% General utility
+\newcommand{\todo}[1]{\textbf{[TODO]}] \footnote{TODO: #1}}
+\newcommand{\tbc}{[\textbf{Incomplete}]}
+\newcommand{\chk}{[\textbf{Check}]}
+\newcommand{\why}{[\textbf{Find proof}]}
+\newcommand{\opt}[1]{\textit{#1}}
+
+\newcommand{\experience}[1]{[\textbf{Personal Experience}]: #1 \blacktriangle}
+\newcommand{\pf}[1]{[\textbf{Proof}]: #1 \Box}
+\newcommand{\core}[1]{\textbf{Core Idea}: #1 \Arrowvert}
+\newcommand{\example}[1]{\textbf{Example}: #1 \blacktriangle}
+\newcommand{\error}[1]{\textbf{Error alert}: #1 \triangle}
+\newcommand{\oprob}{[\textbf{OP}]: }
+
+
+\renewcommand{\~}{\htext{$\sim$}{~}}
+
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+
+
+\)
+
+
+
+    
+<header class="p-1 bg-yellow noPrint">
+    <nav role="navigation" class="col">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Risk models</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <button class="btn btn-light"  href="#transliterationDropdown" data-toggle="collapse">
+            ✍
+          </button>
+          <select id="transliterationDropdown" size="1" class="collapse" onchange="module_uiLib.default.content.updateTransliteration()">
+            <optgroup label="🌍">
+              <option value="iso">āISO</option>
+              <option value="iso_vedic">āi-āu</option>
+              <option value="cyrillic">пу</option>
+              <option value="urdu">نس</option>
+              <option value="??">🌍??</option>
+            </optgroup>
+            <optgroup label="🛕🧭S">
+              <option value="kannada">ಅ</option>
+              <option value="malayalam">അ</option>
+              <option value="telugu">క</option>
+              <option value="tamil_superscripted">க²</option>
+              <option value="tamil_extended">க</option>
+              <option value="grantha">𑌅</option>
+            </optgroup>
+            <optgroup label="🛕🧭N">
+              <option value="devanagari" selected="">स</option>
+              <option value="gujarati">અ</option>
+              <option value="gurmukhi">ਅ</option>
+            </optgroup>
+            <optgroup label="🛕🧭E">
+              <option value="oriya">ଅ</option>
+              <option value="assamese">অস</option>
+              <option value="bengali">অ</option>
+            </optgroup>
+            <optgroup label="🛕🏺📜">
+              <option value="sharada">𑆑𑇀𑆰</option>
+              <option value="brahmi">𑀅</option>
+            </optgroup>
+            <optgroup label="🛕🌋">
+              <option value="balinese">ᬩᬮᬶ</option>
+            </optgroup>
+          </select>
+          <div>
+          <button class="btn btn-outline-secondary btn-sm"  href="#transliterationDropdownAlt" data-toggle="collapse">
+          (✍)
+          </button>
+          <select id="transliterationDropdownAlt" size="1"  style="font-size:12px" class="bg-light-yellow collapse" onchange="module_uiLib.default.content.updateTransliteration()">
+            <optgroup label="🌍">
+              <option value="iso">āISO</option>
+              <option value="iso_vedic">āi-āu</option>
+              <option value="cyrillic">пу</option>
+              <option value="urdu">نس</option>
+              <option value="??">🌍??</option>
+            </optgroup>
+            <optgroup label="🛕🧭S">
+              <option value="kannada">ಅ</option>
+              <option value="malayalam">അ</option>
+              <option value="telugu">క</option>
+              <option value="tamil_superscripted">க²</option>
+              <option value="tamil_extended">க</option>
+              <option value="grantha">𑌅</option>
+            </optgroup>
+            <optgroup label="🛕🧭N">
+              <option value="devanagari" selected="">स</option>
+              <option value="gujarati">અ</option>
+              <option value="gurmukhi">ਅ</option>
+            </optgroup>
+            <optgroup label="🛕🧭E">
+              <option value="oriya">ଅ</option>
+              <option value="assamese">অস</option>
+              <option value="bengali">অ</option>
+            </optgroup>
+            <optgroup label="🛕🏺📜">
+              <option value="sharada">𑆑𑇀𑆰</option>
+              <option value="brahmi">𑀅</option>
+            </optgroup>
+            <optgroup label="🛕🌋">
+              <option value="balinese">ᬩᬮᬶ</option>
+            </optgroup>
+          </select>
+          </div>
+          <div class="row col d-flex  dropdown">
+            <button class="btn btn-secondary-outline btn-sm dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              A±
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <a class="btn btn-secondary btn-sm" onclick="module_uiLib.changeTextSize(2)">A+</a>
+            <a class="btn btn-secondary btn-sm" onclick="module_uiLib.changeTextSize(-2)">A-</a>
+            </div>
+          </div>
+          <button class="btn btn-light btn-sm"  href="#commentStyleDropdown" data-toggle="collapse">
+            🗨
+          </button>
+          <select id="commentStyleDropdown" class="collapse" size="1" onchange="module_uiLib.default.content.updateCommentStyleFromDropdown()">
+            <option value="on">✔</option>
+            <option value="hidden">✗</option>
+          </select>
+          <div><a id="expandAllButton" class="btn btn-secondary" onclick="module_uiLib.default.query.setParamsAndGo({'expandDetails': '.*'})">↕️️</a></div>
+          <div id="printStyleDiv" class="row col d-flex  dropdown">
+          <button class="btn btn-light btn-sm dropdown-toggle"  href="#printStyleDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          🖨
+          </button>
+            <div class="dropdown-menu col" aria-labelledby="printStyleDropdown">
+              <div class="row justify-content-center">
+                <p>Cols:</p>
+                <input type="number" min="1" max="10" value="2" step="1" id="tbColumns" style="width: 3ch;"  accesskey="c"/>
+              </div>
+              <div class="row justify-content-center">
+                <p>A±:</p> <input type="text" id="tbBodyFontSize" value="0.4cm" style="width: 6ch;"  accesskey="f"></input>
+              </div>
+              <div class="row justify-content-center">
+                <p>Incl:</p> <input checked type="checkbox" id="tbIncludeStyle" value="on"></input>
+                <button id="btnPrintStyle" onclick="module_uiLib.default.content.updatePrintStyle()">🖨
+                </button>
+              </div>
+            </div>
+        </div>
+        </div>
+        <div id="audioDiv" class="row col d-flex  dropdown">
+          <button class="btn btn-secondary-outline btn-sm dropdown-toggle" type="button" id="audioDropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            🎧
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <a id="speakerButton" class="btn btn-outline-secondary btn-sm" onclick="module_uiLib.default.content.handleSpeakToggle()">⏯</a>
+          <button id="speakerPauseButton" class="btn btn-outline-secondary btn-sm">⏸</button>
+            <div id="audioOptionsDiv" class="row justify-content-center" >
+              <div>
+                <p class="lead">Vol</p>
+                <input type="range" min="0" max="1" value="1" step="0.1" id="volume" />
+                <span id="volume-label" class="ms-2">1</span>
+              </div>
+              <div class="mx-5">
+                <p class="lead">Rate</p>
+                <input type="range" min="0.1" max="10" value="1" id="rate" step="0.1" />
+                <span id="rate-label" class="ms-2">1</span>
+              </div>
+              <div>
+                <p class="lead">Pitch</p>
+                <input type="range" min="0" max="2" value="1" step="0.1" id="pitch" />
+                <span id="pitch-label" class="ms-2">1</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a href="https://vishvAsa.github.io/notes/search"  class="btn btn-light btn-sm">🥽🔦</a>
+        <div class="row col  d-flex justify-content-center">
+          <div><a id="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a id="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border noPrint " id="sidebar">
+          <div id="fastSearch">
+              <datalist id="pageDataList"></datalist>
+              <input id="searchInput" placeholder="शीर्षिकान्विष्यताम्" list="pageDataList" onchange="module_uiLib.default.navigation.pageLoader()">
+          </div>
+          <details open  class="bg-light-gray" >
+              <summary id="sidebarToggleLink" onclick="module_uiLib.default.navigation.sidebarToggleHandler()">
+            Menu
+              </summary>
+              <ul id="sidebarBody" class="list pl2 p-0 bg-yellow">
+              </ul>
+          </details>
+      </aside>
+      <main class="col p-3" role="main" data-pagefind-body>
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Risk models">Risk models</h1>
+    
+    <a id="editLink" class="btn btn-primary noPrint"  href="https://github.com/vishvAsa/notes/edit/content/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border noPrint ">
+    <details id="toc_header">
+        <summary>What's in this page?</summary>
+      <div id="toc_body" class="p-0">
+        
+        <ul id="toc_ul" class="list p-0">
+        </ul>
+      </div>
+    </details>
+    <div id="progressBarDiv" class="row d-flex justify-content-center">
+      🐎💪<progress id="progressLoading" value="0" max="100"> 32% </progress>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="overview">Overview</h2>
+<ul>
+<li>Adjustible simulations/ models: natgeo <a href="https://www.nationalgeographic.com/science/2020/08/how-to-measure-risk-airborne-coronavirus-your-office-classroom-bus-ride-cvd/?cmpid=org=ngp::mc=social::src=twitter::cmp=editorial::add=tw20200811science-measurecoronavirusriskmodel::rid=&amp;sf236722474=1">202008</a></li>
+<li>Successful Infection = <strong>Virus Dose x Time</strong></li>
+</ul>
+<h2 id="alternate">Alternate</h2>
+<p>\(I_r = \dfrac{N t C_q (Q_b)^2 p_m^2}{\gl_a V}\)</p>
+<p>Their key result is boiled down to this equation for Risk Index \(I_r\).</p>
+<ul>
+<li>N is the number of people in the enclosed space, t is the time spent therein.</li>
+<li>\(C_q\) is the concentration of exhaled infection quanta (virions) per cubic meter.</li>
+<li>\(Q_b\) is the exhaled volume in cubic meters per hour.
+<ul>
+<li>\(Q_b\) exhaled volume rate is also square scaling: Hence, talking, shouting, singing are all increase the risk by square.</li>
+</ul>
+</li>
+<li>\(p_m\) is mask penetration factor, \(0 &lt;= p_m &lt;= 1\), where 1 is no mask &amp; 0 is theoretical total blockade of particles of virion size or higher.
+<ul>
+<li>it scales as the square of mask penetration: hence, some mask makes a notable difference relative to no mask. Better the mask square gain in risk reduction.</li>
+</ul>
+</li>
+<li>\(\lambda_a\) is ventilation outflow rate per unit volume in m^3. V is volume of enclosed space.</li>
+</ul>
+<h2 id="indoor-spaces">Indoor spaces</h2>
+<ul>
+<li>&ldquo;<strong>Indoor spaces</strong>, with limited air exchange or recycled air and lots of people, are concerning from a transmission standpoint. We know that 60 people in a volleyball court-sized room (choir) results in massive infections. Same situation with the restaurant and the call center. <strong>Social distancing guidelines don&rsquo;t hold</strong> in indoor spaces where you spend a lot of time, as people on the opposite side of the room were infected. ..&rdquo; - <a href="https://www.erinbromage.com/post/the-risks-know-them-avoid-them">EB</a></li>
+<li>When weather conditions allow, increase fresh outdoor air by opening windows and doors.</li>
+<li>Use fans to increase the effectiveness of open windows. Avoid placing fans in a way that could potentially cause contaminated air to flow directly from one person over another. One helpful strategy is to use a window fan, placed safely and securely in a window, to exhaust room air to the outdoors.</li>
+<li>Decrease occupancy in areas where outdoor ventilation cannot be increased.</li>
+<li>Consider portable high-efficiency particulate air (HEPA) fan/filtration systems to help enhance air cleaning (especially in higher risk areas)</li>
+<li>earlier, 30 minute exposure to a crowded store could infect you. Now (with UK strain), 20 minute exposure is enough to infect you.</li>
+</ul>
+<h3 id="ac-systems">AC systems</h3>
+<ul>
+<li>Turn off any demand-controlled ventilation (DCV) controls that reduce air supply based on occupancy or temperature during occupied hours.</li>
+<li>In homes and buildings where the HVAC fan operation can be controlled at the thermostat, set the fan to the “on” position instead of “auto,” which will operate the fan continuously, even when heating or air-conditioning is not required.</li>
+<li>Open outdoor air dampers beyond minimum settings to reduce or eliminate HVAC air recirculation. In mild weather, this will not affect thermal comfort or humidity. However, this may be difficult to do in cold, hot, or humid weather.</li>
+<li>Consider using ultraviolet germicidal irradiation (UVGI) as a supplement to help inactivate SARS-CoV-2, especially if options for increasing room ventilation are limited.</li>
+</ul>
+<h2 id="outdoor-spaces">Outdoor spaces</h2>
+<ul>
+<li>&ldquo;<strong>Social distancing</strong> rules are really to protect you with <strong>brief exposures</strong> or <strong>outdoor exposures</strong>. In these situations there is not enough time to achieve the infectious viral load when you are standing 6 feet apart or where wind and the infinite outdoor space for viral dilution reduces viral load. &hellip; If I am outside, and I walk past someone, remember it is “dose and time” needed for infection. You would have to be in their airstream for 5+ minutes (optimistically assuming 20VP per minute) for a chance of infection.  While joggers may be releasing more virus due to deep breathing, remember the exposure time is also less due to their speed.&rdquo;</li>
+</ul>
+<h2 id="location">Location</h2>
+<ul>
+<li>&ldquo;The main sources for infection are home, workplace, public transport, social gatherings, and restaurants. This accounts for 90% of all transmission events. In contrast, outbreaks spread from shopping appear to be responsible for a small percentage of traced infections. &hellip; When assessing the risk of infection (via respiration) at the grocery store or mall, you need to consider the <strong>volume of the air space</strong> (very large), the <strong>number of people</strong> (restricted), how long people are spending in the store (workers - all day; customers - an hour).&rdquo; - <a href="https://www.erinbromage.com/post/the-risks-know-them-avoid-them">EB</a></li>
+</ul>
+<h2 id="travel">Travel</h2>
+<ul>
+<li>India: Risk of getting infected from another household is 9% but that becomes 79% while travelling with another infected for more than 6 hours.</li>
+<li>Air Travel: Mask is a must. Hand hygene essential.</li>
+<li>Air travel is safer than train or bus travel - but still risky. Modern airlines have started installing HEPA filters that suck air from outside through wings, mixes with inside air in 50:50 mix,warms it up and filters off any bacteria,fungus and Viruses.</li>
+</ul>
+<h2 id="children">Children</h2>
+<ul>
+<li>Wave 2 India and Brazil
+<ul>
+<li>In Brazil,many children are dying. In India too Pediatricians are reporting wards getting filled with young kids presenting with very high fever and bowel disturbances which mimic like appendicitis.</li>
+<li>It is the inflammation of the terminal part of small bowel called ileum that are typically presenting with pain in abdomen and diarrhea.</li>
+<li>Many children are requiring intravenous immunoglobulins to salvage them from multi system inflammation resulted from the virus.</li>
+</ul>
+</li>
+<li>70% of confirmed children carry active virus without symptoms, and the duration of a case lasts as long as 36 days.</li>
+</ul>
+<h2 id="dead-body">Dead body</h2>
+<ul>
+<li>CDC guidelines <a href="https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/funeral-guidance.html">here</a> .</li>
+<li>CDC <a href="https://www.cdc.gov/coronavirus/2019-ncov/global-covid-19/COVID19-vs-Ebola-burial-guide.html">2020</a> said that risk from dead body is low (no respiratory droplets).</li>
+<li>Avoid touching the deceased person’s body. Wash your hands with soap and water for at least 20 seconds after any contact with the body.</li>
+</ul>
+<h2 id="super-spreader--single-source-events">Super-spreader / single-source events</h2>
+<p>-175 attendees attended a Biogen conference at Boston In February. A week later 99 people fell ill. Now,300,000 infections around the world and 1.6% of all the US infections can be traced back to this single gathering at Boston. The infection from this conference jumped to 29 countries and almost every part of USA.</p>
+<ul>
+<li>Tablighi jamAt gathering in Delhi.</li>
+</ul>
+
+  </div>
+</article>
+
+
+        
+
+        
+
+
+
+    <aside class="card border noPrint" id="section-tree-item-general_biology_virus_ribo_ortho-rna_corona_wuhan_epidemic_Infection_risk_models_md">
+        <div class="card-title bg-light-gray border d-flex justify-content-between">
+            <a href="https://vishvAsa.github.io/notes/general_biology/virus/ribo/ortho-rna/corona/wuhan_epidemic/Infection/risk_models/">Risk models </a>
+            <a data-toggle="collapse" href="#section-tree-item-body-general_biology_virus_ribo_ortho-rna_corona_wuhan_epidemic_Infection_risk_models_md" role="button" aria-expanded="false" aria-controls="section-tree-item-body-general_biology_virus_ribo_ortho-rna_corona_wuhan_epidemic_Infection_risk_models_md" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+        </div>
+        <nav id="section-tree-item-body-general_biology_virus_ribo_ortho-rna_corona_wuhan_epidemic_Infection_risk_models_md" class="card-body p-0 collapse">
+            
+            <li>draft: false</li>
+            
+            <li>iscjklanguage: false</li>
+            
+            <li>title: Risk models</li>
+            
+        </nav>
+    </aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1 noPrint" role="contentinfo">
+  
+
+  <div id="div_foot_nav_bar" class="row">
+    <a href="https://vishvAsa.github.io/notes/search"  class="btn btn-light btn-sm">🥽🔦</a>
+    <div class="row col  d-flex justify-content-center">
+      <div><a id="previousPageFoot" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+      <div ><a id="nextPageFoot" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+    </div>
+      <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+      </ul>
+  </div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vishvAsa/notes/issues/new" >
+      ✉️Contact
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      
+      <a href="https://github.com/vishvAsa/notes/actions/workflows/build.yml"><img src="https://github.com/vishvAsa/notes/actions/workflows/build.yml/badge.svg"> Built </a> on 2026 Feb 12 01:34:45 UTC. (<a href="http://google.com/search?q=01%3a34%3a45%20UTC to IST">IST</a>)
+    </div>
+  </div>
+</footer>
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-33H08JSLQR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-33H08JSLQR');
+</script>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_uiLib.onDocumentReadyTasks();
+  </script>
+  
+</html>

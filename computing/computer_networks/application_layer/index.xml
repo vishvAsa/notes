@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Application layer on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/computer_networks/application_layer/</link>
+    <description>Recent content in &#43;Application layer on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/computer_networks/application_layer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DNS</title>
+      <link>https://vishvAsa.github.io/notes/computing/computer_networks/application_layer/DNS/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/computer_networks/application_layer/DNS/</guid>
+      <description>&lt;h2 id=&#34;domain-name&#34;&gt;Domain name&lt;/h2&gt;&#xA;&lt;p&gt;To connect to an application on a remote computer, one needs to know the IP address of that computer, which is often supplied to the application externally - by a user for example. Strings, called domain names, tend to be easier to remember than IP addresses.&lt;/p&gt;&#xA;&lt;h3 id=&#34;translation&#34;&gt;Translation&lt;/h3&gt;&#xA;&lt;p&gt;So domain name resolution can be considered a sub-module used for translating domain names to IP addresses.&lt;/p&gt;&#xA;&lt;h3 id=&#34;hierarchy&#34;&gt;Hierarchy&lt;/h3&gt;&#xA;&lt;p&gt;Domain names take the form A.B..C. C is called the top level domain (eg: com, in, ..). A.B is a subdomain of B etc..&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

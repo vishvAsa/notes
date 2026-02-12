@@ -1,0 +1,904 @@
+[[data]]
+Entity = 'schema'
+Operation = 'concept'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = ''
+Description = 'a database, collection of tables.'
+
+[[data]]
+Entity = 'user'
+Operation = 'manage'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = '''
+SET PASSWORD FOR ’root’@’localhost’= PASSWORD(’secret_password’);p
+GRANT priv_type [(column_list)] [,priv_type [(column_list)] ...]
+ON {tbl_name | * | *.* | db_name.*}
+TO user_name [IDENTIFIED BY ’password’]
+[,user_name [IDENTIFIED BY ’password’] ...]
+[WITH GRANT OPTION]
+Correspondingly there is the REVOKE command.'''
+Description = ''
+
+[[data]]
+Entity = 'row'
+Operation = 'select'
+Feature = 'scalar condition'
+Subfeature = ''
+Importance = ''
+Universality = 'sparql wiki'
+Syntax = '''
+where {
+# some property has some item value
+  ?item wdt:P31 wd:Q1628520.
+# output options
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }'''
+Description = ''
+
+[[data]]
+Entity = 'row'
+Operation = 'select'
+Feature = 'scalar condition'
+Subfeature = 'prefix regex'
+Importance = ''
+Universality = ''
+Syntax = '{ <field>: /^PrefixPattern/<options> },'
+Description = 'Uses index more efficiently'
+
+[[data]]
+Entity = 'table'
+Operation = 'define'
+Feature = 'name'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = '[db.]tblName'
+Description = ''
+
+[[data]]
+Entity = 'table'
+Operation = 'define'
+Feature = 'describe'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'describe tableName [where not empty];'
+Description = ''
+
+[[data]]
+Entity = 'table'
+Operation = 'define'
+Feature = 'create'
+Subfeature = 'temporary'
+Importance = ''
+Universality = ''
+Syntax = 'create [temporary] table tableName(fld1 fldTyp1, .. constraint1, ..);'
+Description = ''
+
+[[data]]
+Entity = 'table'
+Operation = 'define'
+Feature = 'create'
+Subfeature = 'temporary'
+Importance = ''
+Universality = 'Not in dremel'
+Syntax = 'create (temporary) table tblName as selectStatement'
+Description = ''
+
+[[data]]
+Entity = 'table'
+Operation = 'define'
+Feature = 'alter definition'
+Subfeature = 'rename'
+Importance = ''
+Universality = ''
+Syntax = 'alter tableName rename colOld to newName'
+Description = ''
+
+[[data]]
+Entity = 'table'
+Operation = 'define'
+Feature = 'alter definition'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'alter tableName add column fieldDesc'
+Description = ''
+
+[[data]]
+Entity = 'table'
+Operation = 'define'
+Feature = 'contraint'
+Subfeature = 'primary key'
+Importance = ''
+Universality = ''
+Syntax = 'unique primary key(colNames)'
+Description = 'Maintain entity integrity'
+
+[[data]]
+Entity = 'table'
+Operation = 'define'
+Feature = 'contraint'
+Subfeature = 'foreign key'
+Importance = ''
+Universality = ''
+Syntax = 'FOREIGN KEY (AuthID) REFERENCES Authors (AuthID)'
+Description = 'Referential integrity'
+
+[[data]]
+Entity = 'table'
+Operation = 'define'
+Feature = 'contraint'
+Subfeature = 'check'
+Importance = ''
+Universality = ''
+Syntax = ''
+Description = 'Business rules.'
+
+[[data]]
+Entity = 'table'
+Operation = 'define'
+Feature = 'column'
+Subfeature = 'default'
+Importance = ''
+Universality = ''
+Syntax = '[autoincrement] during creation'
+Description = ''
+
+[[data]]
+Entity = 'table'
+Operation = 'write'
+Feature = 'delete row'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'delete from table where condition'
+Description = ''
+
+[[data]]
+Entity = 'table'
+Operation = 'write'
+Feature = 'insert row'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'insert into table(fields) values valueList;'
+Description = ''
+
+[[data]]
+Entity = 'table'
+Operation = 'write'
+Feature = 'insert row'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'insert into table(fields) select-statement;'
+Description = ''
+
+[[data]]
+Entity = 'table'
+Operation = 'write'
+Feature = 'insert row'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'load data infile fileName into table tblName ..'
+Description = ''
+
+[[data]]
+Entity = 'table'
+Operation = 'write'
+Feature = 'insert row'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = '''
+LOAD DATA INFILE 'fileName' INTO TABLE tmp.tblPlaces
+  FIELDS TERMINATED BY ',' ENCLOSED BY '"'
+  LINES TERMINATED BY '\r\n' '''
+Description = ''
+
+[[data]]
+Entity = 'table'
+Operation = 'write'
+Feature = 'update rows'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'update tableNames set (field1=value1, ..) where condition.'
+Description = ''
+
+[[data]]
+Entity = 'table'
+Operation = 'query source'
+Feature = 'join'
+Subfeature = 'cross'
+Importance = ''
+Universality = 'Not in Dremel'
+Syntax = 'table1 [as t1], table2'
+Description = 'Some dialects allow "as"  to be omitted.'
+
+[[data]]
+Entity = 'table'
+Operation = 'query source'
+Feature = 'join'
+Subfeature = 'cross'
+Importance = ''
+Universality = ''
+Syntax = 'table1 [as t1] JOIN table2'
+Description = ''
+
+[[data]]
+Entity = 'table'
+Operation = 'query source'
+Feature = 'join'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = ' tbl1 INNER JOIN tbl2 ON joinCondition'
+Description = '''
+Equi-join is a special case where the joinCondition involves an equality check, usually of the form tbl1.col1 = tbl2.col2. 
+Natural join is a special case of equi-join where the compared fields have the same name.
+'''
+
+[[data]]
+Entity = 'table'
+Operation = 'query source'
+Feature = 'join'
+Subfeature = 'left/ right/ full outer'
+Importance = ''
+Universality = ''
+Syntax = 'tbl1 LEFT OUTER JOIN tbl2 ON joinCondition'
+Description = 'Left outer join yields all rows from the corresponding inner join IJ, plus all rows in tbl1 - tbl2.'
+
+[[data]]
+Entity = 'table'
+Operation = 'select'
+Feature = 'select'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'select (distinct) fields from queryTable where condition [output modifiers]'
+Description = ''
+
+[[data]]
+Entity = 'table'
+Operation = 'select'
+Feature = 'select'
+Subfeature = 'with aggregation'
+Importance = ''
+Universality = ''
+Syntax = 'select fields from queryTable where condition'
+Description = ''
+
+[[data]]
+Entity = 'field'
+Operation = 'select'
+Feature = 'field'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = '[tblAlias.]fld1'
+Description = ''
+
+[[data]]
+Entity = 'field'
+Operation = 'select'
+Feature = 'field'
+Subfeature = ''
+Importance = ''
+Universality = 'sparql wiki'
+Syntax = '''
+SELECT ?item ?itemLabel ?description WHERE {...
+}'''
+Description = ''
+
+[[data]]
+Entity = 'field'
+Operation = 'select'
+Feature = 'all columns'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = '*'
+Description = ''
+
+[[data]]
+Entity = 'field'
+Operation = 'select'
+Feature = 'field alias'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'fld1 as f1'
+Description = ''
+
+[[data]]
+Entity = 'field'
+Operation = 'select'
+Feature = 'unique'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'DISTINCT'
+Description = 'Or use: group by'
+
+[[data]]
+Entity = 'field'
+Operation = 'select'
+Feature = 'output'
+Subfeature = 'random'
+Importance = ''
+Universality = ''
+Syntax = '''
+select fields, hash(some_timestamp_col) as ordkey ..
+order by ordkey [limit 100]'''
+Description = ''
+
+[[data]]
+Entity = 'field'
+Operation = 'select'
+Feature = 'output'
+Subfeature = 'random'
+Importance = ''
+Universality = ''
+Syntax = 'where rand() < 0.3'
+Description = ''
+
+[[data]]
+Entity = 'field'
+Operation = 'select'
+Feature = 'output'
+Subfeature = 'union'
+Importance = ''
+Universality = 'non dremel'
+Syntax = '(selectSt1) UNION (selectSt2)'
+Description = ''
+
+[[data]]
+Entity = 'field'
+Operation = 'select'
+Feature = 'output'
+Subfeature = 'format'
+Importance = ''
+Universality = ''
+Syntax = '--output=csv, line_graph, bar_graph, tabular, vertical'
+Description = 'While invoking dremel.'
+
+[[data]]
+Entity = 'record'
+Operation = 'select'
+Feature = 'aggregation'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = ''
+Description = 'described under functions -> aggregation within record'
+
+[[data]]
+Entity = 'row'
+Operation = 'select'
+Feature = 'condition'
+Subfeature = 'string '
+Importance = ''
+Universality = ''
+Syntax = '''strField = 'string', LIKE (for searching patterns), r"pattern". '''
+Description = ''
+
+[[data]]
+Entity = 'row'
+Operation = 'select'
+Feature = 'condition'
+Subfeature = 'string'
+Importance = 'search patterns'
+Universality = ''
+Syntax = 'upper(str_field) like "%WRECK%" // means *WRECK*'
+Description = ''
+
+[[data]]
+Entity = 'row'
+Operation = 'select'
+Feature = 'condition'
+Subfeature = 'arithmetic'
+Importance = ''
+Universality = ''
+Syntax = ' = ~= or <>, > < >= ..'
+Description = ''
+
+[[data]]
+Entity = 'row'
+Operation = 'select'
+Feature = 'condition'
+Subfeature = 'list'
+Importance = ''
+Universality = ''
+Syntax = 'field IN (possible values)'
+Description = ''
+
+[[data]]
+Entity = 'row'
+Operation = 'select'
+Feature = 'condition'
+Subfeature = 'connectors'
+Importance = ''
+Universality = ''
+Syntax = ' AND and OR'
+Description = ''
+
+[[data]]
+Entity = 'row'
+Operation = 'select'
+Feature = 'output'
+Subfeature = 'order by'
+Importance = ''
+Universality = ''
+Syntax = '''order by colname = 'ASC' ..'''
+Description = ''
+
+[[data]]
+Entity = 'row'
+Operation = 'select'
+Feature = 'output'
+Subfeature = 'group by'
+Importance = ''
+Universality = ''
+Syntax = 'group by colName'
+Description = ''
+
+[[data]]
+Entity = 'row'
+Operation = 'select'
+Feature = 'output'
+Subfeature = 'sorted count shortcut'
+Importance = ''
+Universality = ''
+Syntax = 'TOP_COUNT and TOP_MAXCOUNT'
+Description = ''
+
+[[data]]
+Entity = 'value'
+Operation = 'select'
+Feature = 'date / time'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = ''
+Description = ''
+
+[[data]]
+Entity = 'user'
+Operation = ''
+Feature = 'update delete add'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'Modify user table. '
+Description = 'Important fields: password, User.'
+
+[[data]]
+Entity = 'database'
+Operation = 'dump'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = 'mysql'
+Syntax = '''
+mysqldump
+mysqlhotcopy does the same, except it
+locks the databse while doing its job.
+'''
+Description = ''
+
+[[data]]
+Entity = 'database'
+Operation = 'restore'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = 'mysql'
+Syntax = '''
+mysql -u username -p database_name < file.sql
+mysql -u username -p < file.sql'''
+Description = ''
+
+[[data]]
+Entity = 'database'
+Operation = ''
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'use dbName'
+Description = ''
+
+[[data]]
+Entity = 'database'
+Operation = ''
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'create database'
+Description = ''
+
+[[data]]
+Entity = 'database'
+Operation = ''
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'alter database'
+Description = ''
+
+[[data]]
+Entity = 'database'
+Operation = 'transaction'
+Feature = 'commit/ rollback'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'begin transaction; and commit; or rollback'
+Description = ''
+
+[[data]]
+Entity = 'database'
+Operation = 'admin databases'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = 'mysql'
+Syntax = '''
+mysql : Having tables such as user ..
+• information schema.'''
+Description = ''
+
+[[data]]
+Entity = 'db server'
+Operation = 'stop'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = '''
+ db.shutdownServer() in mongo
+sudo /etc/init.d/mongodb restart'''
+Description = ''
+
+[[data]]
+Entity = 'db client'
+Operation = ''
+Feature = 'mysql shell'
+Subfeature = 'launch'
+Importance = ''
+Universality = 'mysql'
+Syntax = '''
+mysql [options] [database].
+Important options include:
+-u username -p.'''
+Description = ''
+
+[[data]]
+Entity = 'db client'
+Operation = ''
+Feature = 'mysql shell'
+Subfeature = 'command'
+Importance = ''
+Universality = 'mysql'
+Syntax = '\q quits.'
+Description = 'Within the shell, all commands not beginning with \ ends with a ;.'
+
+[[data]]
+Entity = 'db client'
+Operation = ''
+Feature = 'gui'
+Subfeature = ''
+Importance = ''
+Universality = 'mysql'
+Syntax = 'emma, mysql workbench'
+Description = ''
+
+[[data]]
+Entity = 'function'
+Operation = 'null values'
+Feature = 'caveat'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = ''
+Description = 'Division by zero, and most math done with a null value, evaluates to null, in Dremel.'
+
+[[data]]
+Entity = 'function'
+Operation = 'scalar'
+Feature = 'inline map'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = '''
+CASE WHEN fld = val1 then val2 
+WHEN fld = val2 then val3 
+ELSE fld END fld'''
+Description = ''
+
+[[data]]
+Entity = 'function'
+Operation = 'time'
+Feature = 'time parse'
+Subfeature = 'string'
+Importance = ''
+Universality = ''
+Syntax = '''
+FORMAT_[TIME|UTC]_USEC
+PARSE_[TIME|UTC]_USEC('YYYY-MM-DD [HH:MM:SS[.uuuuuu]]')'''
+Description = 'http://www.corp.google.com/eng/doc/devguide/dremel/functions.shtml#timestampfunctions'
+
+[[data]]
+Entity = 'function'
+Operation = 'time'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'now()'
+Description = ''
+
+[[data]]
+Entity = 'function'
+Operation = 'random'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'rand()'
+Description = 'uses current timestamp by default. Same value used throughout the script!'
+
+[[data]]
+Entity = 'function'
+Operation = 'random'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'rand(seed_num)'
+Description = ''
+
+[[data]]
+Entity = 'function'
+Operation = 'boolean output'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = '''
+< 
+>
+ ==
+is null
+is not null (!= null will not work)'''
+Description = ''
+
+[[data]]
+Entity = 'function'
+Operation = 'arithmetic'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'round'
+Description = ''
+
+[[data]]
+Entity = 'function'
+Operation = 'cast'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'HEX_STRING BOOL DOUBLE FLOAT (U)INT32 (U)INT64 STRING'
+Description = ''
+
+[[data]]
+Entity = 'function'
+Operation = 'aggregation'
+Feature = 'check if null'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'IFNULL(expr1, expr2)'
+Description = ''
+
+[[data]]
+Entity = 'function'
+Operation = 'aggregation'
+Feature = 'sum'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'sum'
+Description = 'sum returns null if there are no elements. Use with ifnull'
+
+[[data]]
+Entity = 'function'
+Operation = 'aggregation'
+Feature = 'count'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'count(1)'
+Description = 'includes null values'
+
+[[data]]
+Entity = 'function'
+Operation = 'aggregation'
+Feature = 'count'
+Subfeature = 'distinct'
+Importance = ''
+Universality = ''
+Syntax = 'count(distinct entity_key)'
+Description = ''
+
+[[data]]
+Entity = 'function'
+Operation = 'aggregation'
+Feature = 'caveat'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'sum(A and not B) will not consider fields where B is null!'
+Description = ''
+
+[[data]]
+Entity = 'function'
+Operation = 'aggregation'
+Feature = 'ordinal'
+Subfeature = 'nth, first'
+Importance = ''
+Universality = ''
+Syntax = ''
+Description = 'similar to last'
+
+[[data]]
+Entity = 'function'
+Operation = 'aggregation'
+Feature = 'concat'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = '''
+GROUP_CONCAT(string_expr [, separator]) 
+GROUP_CONCAT(fld1.rep_fld3 [, separator])        '''
+Description = 'Makes csv by default in dremel.'
+
+[[data]]
+Entity = 'function'
+Operation = 'aggregation'
+Feature = 'quantiles'
+Subfeature = 'over another field'
+Importance = ''
+Universality = ''
+Syntax = ''
+Description = 'Get a weighted sample by that field. Then do quantile.'
+
+[[data]]
+Entity = 'function'
+Operation = 'string'
+Feature = 'get prefix'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'left(str1, 2)'
+Description = ''
+
+[[data]]
+Entity = 'function'
+Operation = 'string'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'str1 contains str2'
+Description = ''
+
+[[data]]
+Entity = 'function'
+Operation = 'string'
+Feature = 'substring index'
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = '''INSTR('str1', 'str2')'''
+Description = 'Index starts at 1. Returns 0 if not found.'
+
+[[data]]
+Entity = 'function'
+Operation = 'string'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = '''
+RIGHT('str', numeric_expr)
+SUBSTR('str', const_from, const_len)
+[L|R]TRIM('str1' [, 'str2'])
+'''
+Description = ''
+
+[[data]]
+Entity = 'function'
+Operation = 'string'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = '''
+REPLACE('strToReplaceIn', 'str2', 'str3')
+UPPER LOWER'''
+Description = ''
+
+[[data]]
+Entity = 'function'
+Operation = 'string'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = '''RPAD('str1', numeric_expr, 'str2')'''
+Description = ''
+
+[[data]]
+Entity = 'function'
+Operation = 'string'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = '''
+UTF8LENGTH('str') LENGTH('str')
+'''
+Description = ''
+
+[[data]]
+Entity = 'Bigtable'
+Operation = 'Help'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = ''
+Description = 'http://en.wikipedia.org/wiki/Bigtable'
+
+[[data]]
+Entity = 'Bigtable'
+Operation = 'Efficient Operation'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'Single row lookup. Scan row ranges/ prefixes.'
+Description = ''
+
+[[data]]
+Entity = 'Bigtable'
+Operation = 'Efficient Operation'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = 'Scan column, timestamp ranges'
+Description = ''
+
+[[data]]
+Entity = 'bt read'
+Operation = 'Help'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = ''
+Syntax = ''
+Description = 'https://wiki.corp.google.com/twiki/bin/view/Main/ReaderLanguageReference'

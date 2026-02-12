@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Tips on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/programming/tips/</link>
+    <description>Recent content in &#43;Tips on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/programming/tips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comments, names, size</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/tips/comments_names_size/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/tips/comments_names_size/</guid>
+      <description>&lt;h2 id=&#34;readability-techniques-overview&#34;&gt;Readability techniques: Overview&lt;/h2&gt;&#xA;&lt;p&gt;To borrow from, but not fully copy, &amp;ldquo;literate programming&amp;rdquo; - a code segment (say a file) should read like a clear book chapter or short wiki article. Readability (ease of understanding) can be accomplished by a combination of good variable naming, function and file size and comments - in that order of preference.&lt;/p&gt;&#xA;&lt;p&gt;Comments are the last resort (as they get out of sync), but should be quite copious when necessary (to communicate design choices, problems, describing obscure language features etc.. for example). To the greatest extant possible, comments should be interleaved with the code itself (and not in some external file) - to keep them in greater sync. One should be able to generate API documentation thence.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Goals</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/tips/goals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/tips/goals/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;In roughly descending order of importance:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Easy to understand.&lt;/li&gt;&#xA;&lt;li&gt;Easy to modify.&lt;/li&gt;&#xA;&lt;li&gt;Few errors.&lt;/li&gt;&#xA;&lt;li&gt;High coding speed.&lt;/li&gt;&#xA;&lt;li&gt;High computational efficiency.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;understanding-specifications&#34;&gt;Understanding specifications&lt;/h2&gt;&#xA;&lt;p&gt;In the industry, this involves surveying customers, rapid prototyping, talking to end-users etc.. In research, the specifications come from the research problem.&lt;/p&gt;&#xA;&lt;h2 id=&#34;complexity&#34;&gt;Complexity&lt;/h2&gt;&#xA;&lt;p&gt;More complex code is harder to implement : sometimes, there one can make choices which lead to simpler code - by simplifying requirements or interface languages for example.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

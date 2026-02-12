@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Cryptography on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/cryptography/</link>
+    <description>Recent content in &#43;Cryptography on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/cryptography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Authentication</title>
+      <link>https://vishvAsa.github.io/notes/computing/cryptography/authentication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/cryptography/authentication/</guid>
+      <description>&lt;h2 id=&#34;using-assymetric-key-cryptography&#34;&gt;Using assymetric key cryptography&lt;/h2&gt;&#xA;&lt;p&gt;One simple way of authentication is to encrypt and return a challenge message using one&amp;rsquo;s secret key.&lt;/p&gt;&#xA;&lt;h2 id=&#34;using-a-password&#34;&gt;Using a password&lt;/h2&gt;&#xA;&lt;p&gt;This is very common - eg: it is used over to log into terminals.&lt;/p&gt;&#xA;&lt;p&gt;To beat snooping, passwords are transmitted over a secure channel (eg: ssh vs rsh).&lt;/p&gt;&#xA;&lt;h3 id=&#34;one-time-passwords&#34;&gt;One-time passwords&lt;/h3&gt;&#xA;&lt;p&gt;Passwords may be spoofed - even over a secure channel by an adversary who jumps into a session and replays the password message to, for example change the password. To guard against this, a one-time password can be used. These are often based on a one way function \(f\) with an initial point \(p\), which can be used to  generate a sequence \(f^i(p)\). To do this, people are often provided with a special physical device.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crypto primitives</title>
+      <link>https://vishvAsa.github.io/notes/computing/cryptography/crypto_primitives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/cryptography/crypto_primitives/</guid>
+      <description>&lt;h2 id=&#34;collision-resistant-hash-function&#34;&gt;Collision resistant hash function&lt;/h2&gt;&#xA;&lt;p&gt;A hash function where it is hard for an adversary to find y: h(x) = h(y), given h(x) and y.&lt;/p&gt;&#xA;&lt;h2 id=&#34;strength-of-hardness-assumptions&#34;&gt;Strength of hardness assumptions&lt;/h2&gt;&#xA;&lt;p&gt;If violation of hardness assumption A implies violation of assumption B, A is weaker than B. Weaker assumptions are preferred.&lt;/p&gt;&#xA;&lt;h3 class=&#34;.&#34; id=&#34;to-show-weakness-htexta--b&#34;&gt;To show weakness \htext{\(A &amp;lt; B\)}&lt;/h3&gt;&#xA;&lt;p&gt;Take poly time alg to break A and make poly time alg to break B whp.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Misc problems</title>
+      <link>https://vishvAsa.github.io/notes/computing/cryptography/misc_problems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/cryptography/misc_problems/</guid>
+      <description>&lt;h2 id=&#34;code-obfuscation&#34;&gt;Code obfuscation&lt;/h2&gt;&#xA;&lt;p&gt;Hide the intent of the code. Security with auxiliary input useful here. \(M \to O(M)\) with polynomial blowup in size, run-time. M, O(M) compute the same function: or maybe approximately. Virtual black box property: \(\forall\) polytime algs A, \(\exists\) simulator \(S^{M}\) with black box access to M: \(|Pr(A(O(M)) = 1) - Pr(S^{M}(1^{|M|}) = 1)| \leq \eps\): \(1^{|M|}\) bounds run-time; whatever property of M A can grok by looking at the code, S can grok just by looking at its behavior.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Public key to ID matching</title>
+      <link>https://vishvAsa.github.io/notes/computing/cryptography/match_public_key_with_id/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/cryptography/match_public_key_with_id/</guid>
+      <description>&lt;p&gt;Usually trusted key-servers are used.&lt;/p&gt;&#xA;&lt;h2 id=&#34;identity-based-encryption-ibe&#34;&gt;Identity based encryption (IBE)&lt;/h2&gt;&#xA;&lt;p&gt;IBE Authority (Auth) publishes public parameters (PP), has master secret key (MSK). \(Setup(l) \to (PP, MSK)\). c = E(PP, ID, m). \(SK_{id} = K(MSK, ID)\). \(m = D(SK, c, PP)\).&lt;/p&gt;&#xA;&lt;h3 id=&#34;security&#34;&gt;Security&lt;/h3&gt;&#xA;&lt;h4 id=&#34;semantic-security-under-cpa&#34;&gt;Semantic security under CPA&lt;/h4&gt;&#xA;&lt;p&gt;Challenger C, attacker A. C sends PP to A. A sends C \(\set{ID_{i}}\). C returns \(\set{SK_{i}}\). A chooses target \(ID^{&lt;em&gt;}\), sends it to C. A sends C \(m_{0}, m_{1}\). C randomly picks g and sends \(c = E(PP, ID^{&lt;/em&gt;}, m_g)\). A sends C \(\set{ID_{i}}\). C returns \(\set{SK_{i}}\). If A returns correct g wnnp advantage over random guessing, attack is successful.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Secure communication</title>
+      <link>https://vishvAsa.github.io/notes/computing/cryptography/secure_communication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/cryptography/secure_communication/</guid>
+      <description>&lt;p&gt;over an insecure channel.&lt;/p&gt;&#xA;&lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;&#xA;&lt;p&gt;A and B communicate, E evesdrops. E should not know what is communicated, and E should not be able to cause miscommunication between A and B.&lt;/p&gt;&#xA;&lt;h3 id=&#34;unbounded-adversary&#34;&gt;Unbounded adversary&lt;/h3&gt;&#xA;&lt;p&gt;(Shannon) Theory of perfect secrecy. Adversary assumed to have unlimited computational resources. Secure encryption system exists only if \(|S|\) is as large as \(|m|\).&lt;/p&gt;&#xA;&lt;h4 id=&#34;one-time-pad&#34;&gt;One time pad&lt;/h4&gt;&#xA;&lt;p&gt;\(E(pad, m) = m \xor pad\); \(D(pad, c) = c \xor pad\). Unbreakable even by computationally unbounded adversary: Modern cryptography abandons this. \(\forall m, c: Pr_{pad}(E(pad, m) = c) = 2^{-n}\): so perfectly secret. But not good for 2 messages: \(E(pad, m_1) \xor E(pad, m_2)\) reveals common bits.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

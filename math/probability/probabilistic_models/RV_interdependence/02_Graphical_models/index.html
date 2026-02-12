@@ -1,0 +1,875 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | 02 Graphical models</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.143.0">
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:url" content="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/">
+  <meta property="og:site_name" content="Vishvas&#39;s notes">
+  <meta property="og:title" content="02 Graphical models">
+  <meta property="og:description" content="Graphical model G of distribution The modeling problem Got RV’s \(X = (X_{i})\), \(f_X(x)\): joint probability density. RV’s as nodes. Edges representing dependencies.
+Distribution structure/ sparsity Seek to represent some factorization of the joint probability distribution concisely, thence conditional independence relationships too. In many cases, these factors involve small subsets of variables: sparsity in the dependency graph.
+Eg: \(f_X(x) = Z^{-1}\prod_{C \subseteq V} \gf_{C}(x_C)\). Compare notation with exponential family distributions.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="math">
+
+  <meta itemprop="name" content="02 Graphical models">
+  <meta itemprop="description" content="Graphical model G of distribution The modeling problem Got RV’s \(X = (X_{i})\), \(f_X(x)\): joint probability density. RV’s as nodes. Edges representing dependencies.
+Distribution structure/ sparsity Seek to represent some factorization of the joint probability distribution concisely, thence conditional independence relationships too. In many cases, these factors involve small subsets of variables: sparsity in the dependency graph.
+Eg: \(f_X(x) = Z^{-1}\prod_{C \subseteq V} \gf_{C}(x_C)\). Compare notation with exponential family distributions.">
+  <meta itemprop="wordCount" content="3174">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="02 Graphical models">
+  <meta name="twitter:description" content="Graphical model G of distribution The modeling problem Got RV’s \(X = (X_{i})\), \(f_X(x)\): joint probability density. RV’s as nodes. Edges representing dependencies.
+Distribution structure/ sparsity Seek to represent some factorization of the joint probability distribution concisely, thence conditional independence relationships too. In many cases, these factors involve small subsets of variables: sparsity in the dependency graph.
+Eg: \(f_X(x) = Z^{-1}\prod_{C \subseteq V} \gf_{C}(x_C)\). Compare notation with exponential family distributions.">
+<script type="text/javascript">
+    
+    let baseURL = "https:\/\/vishvAsa.github.io\/notes\/";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022build_img\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/actions\/workflows\/build.yml\/badge.svg\u0022,\u0022build_url\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/actions\/workflows\/build.yml\u0022,\u0022contactlink\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/issues\/new\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/edit\/content\/\u0022,\u0022js_extras\u0022:[\u0022mathjax\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022देवः\u0022,\u0022url\u0022:\u0022..\/devaH\/\u0022},{\u0022title\u0022:\u0022आगमः\u0022,\u0022url\u0022:\u0022..\/AgamaH\/\u0022},{\u0022title\u0022:\u0022आगमः शैवः\u0022,\u0022url\u0022:\u0022..\/AgamaH_shaivaH\/\u0022},{\u0022title\u0022:\u0022आगमः वैष्णवः\u0022,\u0022url\u0022:\u0022..\/AgamaH_vaiShNavaH\/\u0022},{\u0022title\u0022:\u0022रामानुजीयम्\u0022,\u0022url\u0022:\u0022..\/rAmAnujIyam\/\u0022},{\u0022title\u0022:\u0022माध्वम्\u0022,\u0022url\u0022:\u0022..\/mAdhvam\/\u0022},{\u0022title\u0022:\u0022आगमः ब्राह्मः\u0022,\u0022url\u0022:\u0022..\/AgamaH_brAhmaH\/\u0022},{\u0022title\u0022:\u0022कल्पान्तरम्\u0022,\u0022url\u0022:\u0022..\/kalpAntaram\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022वेदाः\u0022,\u0022url\u0022:\u0022..\/vedAH\/\u0022},{\u0022title\u0022:\u0022वेदाः - ऋक्\u0022,\u0022url\u0022:\u0022..\/vedAH_Rk\/\u0022},{\u0022title\u0022:\u0022वेदाः - यजुः\u0022,\u0022url\u0022:\u0022..\/vedAH_yajuH\/\u0022},{\u0022title\u0022:\u0022वेदाः - साम\u0022,\u0022url\u0022:\u0022..\/vedAH_sAma\/\u0022},{\u0022title\u0022:\u0022पुराणम्\u0022,\u0022url\u0022:\u0022..\/purANam\u0022},{\u0022title\u0022:\u0022पुराणम् वैष्णवम्\u0022,\u0022url\u0022:\u0022..\/purANam_vaiShNavam\/\u0022},{\u0022title\u0022:\u0022महाभारतम्\u0022,\u0022url\u0022:\u0022..\/mahAbhAratam\/\u0022},{\u0022title\u0022:\u0022रामायणम्\u0022,\u0022url\u0022:\u0022..\/rAmAyaNam\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvyam\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022ಕನ್ನಡ\u0022,\u0022url\u0022:\u0022..\/kannaDa\/\u0022},{\u0022title\u0022:\u0022त्रिपिटकम्\u0022,\u0022url\u0022:\u0022..\/tipiTaka\/\u0022},{\u0022title\u0022:\u0022पाळयः\u0022,\u0022url\u0022:\u0022..\/pALi\/\u0022},{\u0022title\u0022:\u0022भाषान्तरम्\u0022,\u0022url\u0022:\u0022..\/bhAShAntaram\/\u0022},{\u0022title\u0022:\u0022English Lit\u0022,\u0022url\u0022:\u0022..\/english\/\u0022},{\u0022title\u0022:\u0022Book pub\u0022,\u0022url\u0022:\u0022..\/book-pub\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vishvAsa.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    
+    var pageRelUrlTree = {};
+</script>
+
+    
+    <script type="text/javascript">
+  let pageVars = {};
+  pageVars.pageUrlMinusBasePath = "\/notes\/math\/probability\/probabilistic_models\/RV_interdependence\/02_Graphical_models\/".replace(basePath, "/");
+  pageVars.pageParams = {};
+  pageVars.pageSource = "math\/probability\/probabilistic_models\/RV_interdependence\/02_Graphical_models.md";
+  console.log(pageVars.pageSource);
+  var pageDefaults;
+  for (let possiblePageDefaults of pageDefaultsList) {
+    if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+      pageDefaults = possiblePageDefaults.values
+    }
+  }
+    
+</script>
+
+
+    <script src="/notes/webpack_dist/uiLib-bundle.js"></script>
+
+
+<script>
+
+
+MathJax = {
+  tex: {
+    inlineMath: [ ["@#", "#@"], ["\\(", "\\)"] ],
+    displayMath: [ ["$$","$$"], ["\\[", "\\]"] ],
+    processEscapes: true,  
+  },
+  svg: {
+    fontCache: 'global'
+  },
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore|dno"
+  }
+};
+</script>
+<script type="text/javascript" id="MathJax-script" async
+        src="/notes/non_webpack_js/mathjax/tex-svg.js">
+</script>
+
+
+
+
+
+
+    <link rel="stylesheet" href="/notes/webpack_dist/uiLib.css">
+<link rel="stylesheet" href="/notes/css/uiLibPrint.css" media="print" >
+<link rel="stylesheet" href="/notes/css/fonts.css" >
+<link rel="stylesheet" href="/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+
+<link rel="stylesheet" href="/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+
+<link rel="alternate" hreflang="sa-Deva" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/" />
+<link rel="alternate" hreflang="sa-Deva" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=devanagari" />
+
+<link rel="alternate" hreflang="sa-Knda" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=kannada" />
+<link rel="alternate" hreflang="sa-Mlym" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=malayalam" />
+<link rel="alternate" hreflang="sa-Telu" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=telugu" />
+<link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=tamil_superscripted" />
+<link rel="alternate" hreflang="sa-Taml" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=tamil" />
+<link rel="alternate" hreflang="sa-Gran" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=grantha" />
+
+<link rel="alternate" hreflang="sa-Gujr" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=gujarati" />
+<link rel="alternate" hreflang="sa-Guru" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=gurmukhi" />
+<link rel="alternate" hreflang="sa-Shar" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=sharada" />
+<link rel="alternate" hreflang="sa-Dogr" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=dogra" />
+<link rel="alternate" hreflang="sa-Phag" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=phags_pa" />
+<link rel="alternate" hreflang="sa-Tibt" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=tibetan" />
+<link rel="alternate" hreflang="sa-Sidd" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=siddham" />
+<link rel="alternate" hreflang="sa-Newa" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=newa" />
+<link rel="alternate" hreflang="sa-Modi" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=modi" />
+<link rel="alternate" hreflang="sa-Tirh" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=tirhuta_maithili" />
+<link rel="alternate" hreflang="sa-Gong" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=gondi_gujala" />
+<link rel="alternate" hreflang="sa-Gonm" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=gondi_masaram" />
+
+
+<link rel="alternate" hreflang="sa-Orya" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=oriya" />
+<link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=assamese" />
+<link rel="alternate" hreflang="sa-Beng" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=bengali" />
+<link rel="alternate" hreflang="sa-Mtei" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=manipuri" />
+<link rel="alternate" hreflang="sa-Sinh" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=sinhala" />
+<link rel="alternate" hreflang="sa-Limb" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=limbu" />
+<link rel="alternate" hreflang="sa-Lepc" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=lepcha" />
+
+
+<link rel="alternate" hreflang="sa-Cyrl" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=cyrillic" />
+<link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iso" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=iso" />
+<link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=iast" />
+<link rel="alternate" hreflang="sa-Aran" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=urdu" />
+<link rel="alternate" hreflang="sa-Avst" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=avestan" />
+
+<link rel="alternate" hreflang="sa-Brah" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=brahmi" />
+<link rel="alternate" hreflang="sa-Khar" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=kharoshthi" />
+<link rel="alternate" hreflang="sa-Zanb" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=zanbazar_square" />
+<link rel="alternate" hreflang="sa-Bhks" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=bhaiksuki" />
+
+<link rel="alternate" hreflang="sa-Bali" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=balinese" />
+<link rel="alternate" hreflang="sa-Java" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=javanese" />
+<link rel="alternate" hreflang="sa-Laoo" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=lao" />
+<link rel="alternate" hreflang="sa-Laoo-t-sa-Laoo-m0-Laopali" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=lao_pali" />
+<link rel="alternate" hreflang="sa-Mymr" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=burmese" />
+<link rel="alternate" hreflang="sa-Mymr-t-sa-Mymr-m0-Mon" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=mon" />
+<link rel="alternate" hreflang="sa-Cham" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=cham" />
+<link rel="alternate" hreflang="sa-Khmr" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=khmer" />
+<link rel="alternate" hreflang="sa-Thai" href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/?transliteration_target=thai" />
+
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+\(
+% groupings of objects.
+\newcommand{\set}[1]{\left\{ #1 \right\}}
+\newcommand{\seq}[1]{\left(#1\right)}
+\newcommand{\ang}[1]{\langle#1\rangle}
+\newcommand{\tuple}[1]{\left(#1\right)}
+\newcommand{\size}[1]{\left| #1\right|}
+
+\newcommand{\comp}{\circ}
+
+
+% numerical shortcuts.
+\newcommand{\abs}[1]{\left| #1\right|}
+\newcommand{\floor}[1]{\left\lfloor #1 \right\rfloor}
+\newcommand{\ceil}[1]{\left\lceil #1 \right\rceil}
+
+% linear algebra shortcuts.
+\newcommand{\change}{\Delta}
+\newcommand{\norm}[1]{\left\| #1\right\|}
+\newcommand{\dprod}[1]{\langle#1\rangle}
+\newcommand{\linspan}[1]{\langle#1\rangle}
+\newcommand{\conj}[1]{\overline{#1}}
+\newcommand{\der}[1]{\frac{d#1}{dx}}
+\newcommand{\lap}{\Delta}
+\newcommand{\kron}{\otimes}
+\newcommand{\nperp}{\nvdash}
+
+\newcommand{\mat}[1]{\left[ \begin{smallmatrix}#1 \end{smallmatrix} \right]}
+
+% derivatives and limits
+\newcommand{\partder}[2]{\frac{\partial #1}{\partial #2}}
+\newcommand{\partdern}[3]{\frac{\partial^{#3 #1}}{\partial #2^{#3}}}
+\newcommand{\gradient}{\nabla}
+\newcommand{\subdifferential}{\partial}
+
+% Arrows
+\newcommand{\diverge}{\nearrow}
+\newcommand{\notto}{\nrightarrow}
+\newcommand{\up}{\uparrow}
+\newcommand{\down}{\downarrow}
+% gets and gives are defined!
+
+% ordering operators
+\newcommand{\oleq}{\preceq}
+\newcommand{\ogeq}{\succeq}
+
+% programming and logic operators
+\newcommand{\dfn}{:=}
+\newcommand{\assign}{:=}
+\newcommand{\co}{\ co\ }
+\newcommand{\en}{\ en\ }
+
+
+% logic operators
+\newcommand{\xor}{\oplus}
+\newcommand{\Land}{\bigwedge}
+\newcommand{\Lor}{\bigvee}
+\newcommand{\finish}{\Box}
+\newcommand{\contra}{\Rightarrow \Leftarrow}
+\newcommand{\iseq}{\stackrel{_?{=}}}
+
+
+% Set theory
+\newcommand{\symdiff}{\Delta}
+\newcommand{\setdiff}{\backslash}
+\newcommand{\union}{\cup}
+\newcommand{\inters}{\cap}
+\newcommand{\Union}{\bigcup}
+\newcommand{\Inters}{\bigcap}
+\newcommand{\nullSet}{\phi}
+
+
+% graph theory
+\newcommand{\nbd}{\Gamma}
+
+% Script alphabets
+% For reals, use \Re
+
+% greek letters
+\newcommand{\eps}{\epsilon}
+\newcommand{\del}{\delta}
+\newcommand{\ga}{\alpha}
+\newcommand{\gb}{\beta}
+\newcommand{\gd}{\del}
+\newcommand{\gp}{\pi}
+\newcommand{\gf}{\phi}
+\newcommand{\gh}{\eta}
+\newcommand{\gF}{\Phi}
+\newcommand{\gl}{\lambda}
+\newcommand{\gm}{\mu}
+\newcommand{\gn}{\nu}
+\newcommand{\gr}{\rho}
+\newcommand{\gs}{\sigma}
+\newcommand{\gth}{\theta}
+\newcommand{\gx}{\xi}
+\newcommand{\gw}{\omega}
+
+\newcommand{\sw}{\sigma}
+\newcommand{\SW}{\Sigma}
+\newcommand{\ew}{\lambda}
+\newcommand{\EW}{\Lambda}
+
+\newcommand{\Del}{\Delta}
+\newcommand{\gD}{\Delta}
+\newcommand{\gG}{\Gamma}
+\newcommand{\gW}{\Omega}
+\newcommand{\gS}{\Sigma}
+\newcommand{\gTh}{\Theta}
+
+% Bold english letters.
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bB}{\mathbf{B}}
+\newcommand{\bC}{\mathbf{C}}
+\newcommand{\bD}{\mathbf{D}}
+\newcommand{\bE}{\mathbf{E}}
+\newcommand{\bF}{\mathbf{F}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bI}{\mathbf{I}}
+\newcommand{\bJ}{\mathbf{J}}
+\newcommand{\bK}{\mathbf{K}}
+\newcommand{\bL}{\mathbf{L}}
+\newcommand{\bM}{\mathbf{M}}
+\newcommand{\bN}{\mathbf{N}}
+\newcommand{\bO}{\mathbf{O}}
+\newcommand{\bP}{\mathbf{P}}
+\newcommand{\bQ}{\mathbf{Q}}
+\newcommand{\bR}{\mathbf{R}}
+\newcommand{\bS}{\mathbf{S}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bU}{\mathbf{U}}
+\newcommand{\bV}{\mathbf{V}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\bX}{\mathbf{X}}
+\newcommand{\bY}{\mathbf{Y}}
+\newcommand{\bZ}{\mathbf{Z}}
+
+\newcommand{\bba}{\mathbf{a}}
+\newcommand{\bbb}{\mathbf{b}}
+\newcommand{\bbc}{\mathbf{c}}
+\newcommand{\bbd}{\mathbf{d}}
+\newcommand{\bbe}{\mathbf{e}}
+\newcommand{\bbf}{\mathbf{f}}
+\newcommand{\bbg}{\mathbf{g}}
+\newcommand{\bbh}{\mathbf{h}}
+\newcommand{\bbk}{\mathbf{k}}
+\newcommand{\bbl}{\mathbf{l}}
+\newcommand{\bbm}{\mathbf{m}}
+\newcommand{\bbn}{\mathbf{n}}
+\newcommand{\bbp}{\mathbf{p}}
+\newcommand{\bbq}{\mathbf{q}}
+\newcommand{\bbr}{\mathbf{r}}
+\newcommand{\bbs}{\mathbf{s}}
+\newcommand{\bbt}{\mathbf{t}}
+\newcommand{\bbu}{\mathbf{u}}
+\newcommand{\bbv}{\mathbf{v}}
+\newcommand{\bbw}{\mathbf{w}}
+\newcommand{\bbx}{\mathbf{x}}
+\newcommand{\bby}{\mathbf{y}}
+\newcommand{\bbz}{\mathbf{z}}
+\newcommand{\0}{\mathbf{0}}
+\newcommand{\1}{\mathbf{1}}
+
+% Caligraphic english alphabet
+\newcommand{\cA}{\mathcal{A}}
+\newcommand{\cB}{\mathcal{B}}
+\newcommand{\cC}{\mathcal{C}}
+\newcommand{\cD}{\mathcal{D}}
+\newcommand{\cE}{\mathcal{E}}
+\newcommand{\cF}{\mathcal{F}}
+\newcommand{\cG}{\mathcal{G}}
+\newcommand{\cH}{\mathcal{H}}
+\newcommand{\cI}{\mathcal{I}}
+\newcommand{\cJ}{\mathcal{J}}
+\newcommand{\cK}{\mathcal{K}}
+\newcommand{\cL}{\mathcal{L}}
+\newcommand{\cM}{\mathcal{M}}
+\newcommand{\cN}{\mathcal{N}}
+\newcommand{\cO}{\mathcal{O}}
+\newcommand{\cP}{\mathcal{P}}
+\newcommand{\cQ}{\mathcal{Q}}
+\newcommand{\cR}{\mathcal{R}}
+\newcommand{\cS}{\mathcal{S}}
+\newcommand{\cT}{\mathcal{T}}
+\newcommand{\cU}{\mathcal{U}}
+\newcommand{\cV}{\mathcal{V}}
+\newcommand{\cW}{\mathcal{W}}
+\newcommand{\cX}{\mathcal{X}}
+\newcommand{\cY}{\mathcal{Y}}
+\newcommand{\cZ}{\mathcal{Z}}
+
+
+% Formatting shortcuts
+\newcommand{\red}[1]{\textcolor{red}{#1}}
+\newcommand{\blue}[1]{\textcolor{blue}{#1}}
+\newcommand{\htext}[2]{\texorpdfstring{#1}{#2}}
+
+% Statistics
+\newcommand{\distr}{\sim}
+\newcommand{\stddev}{\sigma}
+\newcommand{\covmatrix}{\Sigma}
+\newcommand{\mean}{\mu}
+\newcommand{\param}{\theta}
+\newcommand{\gthEst}{\hat{\theta}}
+\newcommand{\ftr}{\phi}
+\newcommand{\est}[1]{\hat{#1}}
+
+% General utility
+\newcommand{\todo}[1]{\textbf{[TODO]}] \footnote{TODO: #1}}
+\newcommand{\tbc}{[\textbf{Incomplete}]}
+\newcommand{\chk}{[\textbf{Check}]}
+\newcommand{\why}{[\textbf{Find proof}]}
+\newcommand{\opt}[1]{\textit{#1}}
+
+\newcommand{\experience}[1]{[\textbf{Personal Experience}]: #1 \blacktriangle}
+\newcommand{\pf}[1]{[\textbf{Proof}]: #1 \Box}
+\newcommand{\core}[1]{\textbf{Core Idea}: #1 \Arrowvert}
+\newcommand{\example}[1]{\textbf{Example}: #1 \blacktriangle}
+\newcommand{\error}[1]{\textbf{Error alert}: #1 \triangle}
+\newcommand{\oprob}{[\textbf{OP}]: }
+
+
+\renewcommand{\~}{\htext{$\sim$}{~}}
+
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+
+
+\)
+
+
+
+    
+<header class="p-1 bg-yellow noPrint">
+    <nav role="navigation" class="col">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> 02 Graphical models</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <button class="btn btn-light"  href="#transliterationDropdown" data-toggle="collapse">
+            ✍
+          </button>
+          <select id="transliterationDropdown" size="1" class="collapse" onchange="module_uiLib.default.content.updateTransliteration()">
+            <optgroup label="🌍">
+              <option value="iso">āISO</option>
+              <option value="iso_vedic">āi-āu</option>
+              <option value="cyrillic">пу</option>
+              <option value="urdu">نس</option>
+              <option value="??">🌍??</option>
+            </optgroup>
+            <optgroup label="🛕🧭S">
+              <option value="kannada">ಅ</option>
+              <option value="malayalam">അ</option>
+              <option value="telugu">క</option>
+              <option value="tamil_superscripted">க²</option>
+              <option value="tamil_extended">க</option>
+              <option value="grantha">𑌅</option>
+            </optgroup>
+            <optgroup label="🛕🧭N">
+              <option value="devanagari" selected="">स</option>
+              <option value="gujarati">અ</option>
+              <option value="gurmukhi">ਅ</option>
+            </optgroup>
+            <optgroup label="🛕🧭E">
+              <option value="oriya">ଅ</option>
+              <option value="assamese">অস</option>
+              <option value="bengali">অ</option>
+            </optgroup>
+            <optgroup label="🛕🏺📜">
+              <option value="sharada">𑆑𑇀𑆰</option>
+              <option value="brahmi">𑀅</option>
+            </optgroup>
+            <optgroup label="🛕🌋">
+              <option value="balinese">ᬩᬮᬶ</option>
+            </optgroup>
+          </select>
+          <div>
+          <button class="btn btn-outline-secondary btn-sm"  href="#transliterationDropdownAlt" data-toggle="collapse">
+          (✍)
+          </button>
+          <select id="transliterationDropdownAlt" size="1"  style="font-size:12px" class="bg-light-yellow collapse" onchange="module_uiLib.default.content.updateTransliteration()">
+            <optgroup label="🌍">
+              <option value="iso">āISO</option>
+              <option value="iso_vedic">āi-āu</option>
+              <option value="cyrillic">пу</option>
+              <option value="urdu">نس</option>
+              <option value="??">🌍??</option>
+            </optgroup>
+            <optgroup label="🛕🧭S">
+              <option value="kannada">ಅ</option>
+              <option value="malayalam">അ</option>
+              <option value="telugu">క</option>
+              <option value="tamil_superscripted">க²</option>
+              <option value="tamil_extended">க</option>
+              <option value="grantha">𑌅</option>
+            </optgroup>
+            <optgroup label="🛕🧭N">
+              <option value="devanagari" selected="">स</option>
+              <option value="gujarati">અ</option>
+              <option value="gurmukhi">ਅ</option>
+            </optgroup>
+            <optgroup label="🛕🧭E">
+              <option value="oriya">ଅ</option>
+              <option value="assamese">অস</option>
+              <option value="bengali">অ</option>
+            </optgroup>
+            <optgroup label="🛕🏺📜">
+              <option value="sharada">𑆑𑇀𑆰</option>
+              <option value="brahmi">𑀅</option>
+            </optgroup>
+            <optgroup label="🛕🌋">
+              <option value="balinese">ᬩᬮᬶ</option>
+            </optgroup>
+          </select>
+          </div>
+          <div class="row col d-flex  dropdown">
+            <button class="btn btn-secondary-outline btn-sm dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              A±
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <a class="btn btn-secondary btn-sm" onclick="module_uiLib.changeTextSize(2)">A+</a>
+            <a class="btn btn-secondary btn-sm" onclick="module_uiLib.changeTextSize(-2)">A-</a>
+            </div>
+          </div>
+          <button class="btn btn-light btn-sm"  href="#commentStyleDropdown" data-toggle="collapse">
+            🗨
+          </button>
+          <select id="commentStyleDropdown" class="collapse" size="1" onchange="module_uiLib.default.content.updateCommentStyleFromDropdown()">
+            <option value="on">✔</option>
+            <option value="hidden">✗</option>
+          </select>
+          <div><a id="expandAllButton" class="btn btn-secondary" onclick="module_uiLib.default.query.setParamsAndGo({'expandDetails': '.*'})">↕️️</a></div>
+          <div id="printStyleDiv" class="row col d-flex  dropdown">
+          <button class="btn btn-light btn-sm dropdown-toggle"  href="#printStyleDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          🖨
+          </button>
+            <div class="dropdown-menu col" aria-labelledby="printStyleDropdown">
+              <div class="row justify-content-center">
+                <p>Cols:</p>
+                <input type="number" min="1" max="10" value="2" step="1" id="tbColumns" style="width: 3ch;"  accesskey="c"/>
+              </div>
+              <div class="row justify-content-center">
+                <p>A±:</p> <input type="text" id="tbBodyFontSize" value="0.4cm" style="width: 6ch;"  accesskey="f"></input>
+              </div>
+              <div class="row justify-content-center">
+                <p>Incl:</p> <input checked type="checkbox" id="tbIncludeStyle" value="on"></input>
+                <button id="btnPrintStyle" onclick="module_uiLib.default.content.updatePrintStyle()">🖨
+                </button>
+              </div>
+            </div>
+        </div>
+        </div>
+        <div id="audioDiv" class="row col d-flex  dropdown">
+          <button class="btn btn-secondary-outline btn-sm dropdown-toggle" type="button" id="audioDropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            🎧
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <a id="speakerButton" class="btn btn-outline-secondary btn-sm" onclick="module_uiLib.default.content.handleSpeakToggle()">⏯</a>
+          <button id="speakerPauseButton" class="btn btn-outline-secondary btn-sm">⏸</button>
+            <div id="audioOptionsDiv" class="row justify-content-center" >
+              <div>
+                <p class="lead">Vol</p>
+                <input type="range" min="0" max="1" value="1" step="0.1" id="volume" />
+                <span id="volume-label" class="ms-2">1</span>
+              </div>
+              <div class="mx-5">
+                <p class="lead">Rate</p>
+                <input type="range" min="0.1" max="10" value="1" id="rate" step="0.1" />
+                <span id="rate-label" class="ms-2">1</span>
+              </div>
+              <div>
+                <p class="lead">Pitch</p>
+                <input type="range" min="0" max="2" value="1" step="0.1" id="pitch" />
+                <span id="pitch-label" class="ms-2">1</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a href="https://vishvAsa.github.io/notes/search"  class="btn btn-light btn-sm">🥽🔦</a>
+        <div class="row col  d-flex justify-content-center">
+          <div><a id="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a id="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border noPrint " id="sidebar">
+          <div id="fastSearch">
+              <datalist id="pageDataList"></datalist>
+              <input id="searchInput" placeholder="शीर्षिकान्विष्यताम्" list="pageDataList" onchange="module_uiLib.default.navigation.pageLoader()">
+          </div>
+          <details open  class="bg-light-gray" >
+              <summary id="sidebarToggleLink" onclick="module_uiLib.default.navigation.sidebarToggleHandler()">
+            Menu
+              </summary>
+              <ul id="sidebarBody" class="list pl2 p-0 bg-yellow">
+              </ul>
+          </details>
+      </aside>
+      <main class="col p-3" role="main" data-pagefind-body>
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="02 Graphical models">02 Graphical models</h1>
+    
+    <a id="editLink" class="btn btn-primary noPrint"  href="https://github.com/vishvAsa/notes/edit/content/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border noPrint ">
+    <details id="toc_header">
+        <summary>What's in this page?</summary>
+      <div id="toc_body" class="p-0">
+        
+        <ul id="toc_ul" class="list p-0">
+        </ul>
+      </div>
+    </details>
+    <div id="progressBarDiv" class="row d-flex justify-content-center">
+      🐎💪<progress id="progressLoading" value="0" max="100"> 32% </progress>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="graphical-model-g-of-distribution">Graphical model G of distribution</h2>
+<h3 id="the-modeling-problem">The modeling problem</h3>
+<p>Got RV&rsquo;s \(X = (X_{i})\), \(f_X(x)\): joint probability density. RV&rsquo;s as nodes. Edges representing dependencies.</p>
+<h4 id="distribution-structure-sparsity">Distribution structure/ sparsity</h4>
+<p>Seek to represent some factorization of the joint probability distribution concisely, thence conditional independence relationships too. In many cases, these factors involve small subsets of variables: sparsity in the dependency graph.</p>
+<p>Eg: \(f_X(x) = Z^{-1}\prod_{C \subseteq V} \gf_{C}(x_C)\). Compare notation with exponential family distributions.</p>
+<h5 id="graphical-model-family">Graphical model family</h5>
+<p>A graph alone describes conditional independence relationships which is satisfied by many distributions.</p>
+<h4 id="uses">Uses</h4>
+<p>Any distribution can be represented by a (maybe complete) graphical model, but it becomes interesting only when the graph/ model is sparse.</p>
+<p>Useful in representing causal relationships.</p>
+<p>The factorization of Pr(x) lets ye store the joint probability distribution very concisely: usually ye would need \(ran(X_i)^{n}\) space.</p>
+<p>Can do fast inference using graph theoretic algs.</p>
+<p>Can characterize running time and inference error bound in terms of properties of the underlying graph.</p>
+<h3 id="factor-graphs">Factor graphs</h3>
+<h4 id="factors-of-prx">Factors of Pr(x)</h4>
+<p>Bipartite graph of shaded ovals (\(\set{i}\) for factors \(f_{i}(\nbd(i))\): any nonnegative fns) and ovals (RV&rsquo;s \(\set{X_{i}}\)). \(f_X(x) = Z^{-1}\prod f_{i}(\nbd(i))\). This is a &lsquo;hypergraph&rsquo; among \(\set{X_{i}}\), with generalized edges connecting 2 sets of variables.</p>
+<p>Also defines another graph, \(\nbd\) relationship amongst \(\set{X_{i}}\); and thence &lsquo;path&rsquo; is defined.</p>
+<h5 id="connection-with-exponential-families">Connection with exponential families</h5>
+<p>Same as in the undirected model case.</p>
+<h4 id="conditional-independence">Conditional independence</h4>
+<p>If every path between RV&rsquo;s X, Y passes through Z, Z separates X, Y. If Z separates X, Y \(X\perp Y|Z\): Pf: See undirected model case.</p>
+<p>So, can think of Z as an observed variable, Z blocks flow of information from X to Y. So, \(\nbd(X)\) is its Markov blanket.</p>
+<h4 id="expressiveness">Expressiveness</h4>
+<p>Can express any factorization. Eg: can design factor f(X, Y) to say that X and Y are \(\eps\) apart; so factors called compatibility functions.</p>
+<h3 id="undirected-graphical-models">Undirected graphical models</h3>
+<p>Aka Markov random field.</p>
+<h4 id="factorization">Factorization</h4>
+<p>\(f_X(x) = Z^{-1} \prod \gf_{C_j}(x_{C_{j}})\), where \(C_{j}\) are cliques of various sizes in G.</p>
+<h5 id="as-an-exponential-distribution-family">As an exponential distribution family</h5>
+<p>See section on exponential families.</p>
+<h4 id="conditional-independence-properties">Conditional independence properties</h4>
+<p>Aka Markov properties. Conditional independence properties, markov blanket same as in Factor graphs.</p>
+<h5 id="global-markov">Global Markov</h5>
+<p>Take any A, B, Z. If Z separates A and B, \(A \perp B | Z\).</p>
+<details><summary>Proof</summary>
+<p>Factorization implies this. Take A, B, Z; expand A and B to get A&rsquo;, B&rsquo; which include all nodes reachable from A and B without crossing Z; So, \(f_X(x) = f(x_{A&rsquo;}, x_Z)f(x_{B&rsquo;}, x_Z)\); so \(A&rsquo; \perp B&rsquo; |Z\).</p>
+</details>
+<h5 id="local-markov">Local Markov</h5>
+<p>\(X_i \perp X_{V - i - N(i)} | X_{N(i)}\). Global markov implies this.</p>
+<h5 id="pairwise-markov">Pairwise Markov</h5>
+<p>If \((i, j) \notin E\), \(X_i \perp X_j | X_{V-\set{i, j}} \). Implied by Global Markov. Local Markov implies this.</p>
+<h5 id="factorization-from-pairwise-markov-for-many-prx">Factorization from pairwise markov for many Pr(x)</h5>
+<p>(Hammersley Clifford) If \(\forall x: f_X(x) &gt; 0\) pairwise markov implies factorization.</p>
+<h4 id="tree-structured-case">Tree structured case</h4>
+<h5 id="importance">Importance</h5>
+<p>It is easy to compute the partition function for this case. There exist efficient algorithms to do inference accurately on such models, and there are efficient algorithms to find the closest tree structred graphical model to any distribution.</p>
+<h5 id="form-and-connections">Form and connections</h5>
+<p>\(f_X(x) \propto \prod_{(i, j) \in T} \gf_{i,j}(x_i, x_j)\).</p>
+<h5 id="as-directed-model">As directed model</h5>
+<p>Now, consider any node, say \(x_1\), to be the root of the tree. \(f_X(x_1, x_{\nbd(1)}) \propto \prod_{j \in \nbd(1)} \gf_{1, j}(x_1, x_j)\). But, \(f_X(x_1, x_{\nbd(1)}) = f_{X_1}(x_1) \prod_{j \in \nbd(1)} f_{X_j|X_1}(x_j|x_1)\) from the conditional independence property of undirected graphical models. Applying this procedure recursively, one gets a directed graphical model.</p>
+<h5 id="in-terms-of-marginals">In terms of marginals</h5>
+<p>Consider the corresponding directed model. \
+\(f_{X_1,\nbd(1)}(x_1, x_{\nbd(1)}) = f_{X_1}(x_1) \prod_{j \in \nbd(1)} f_{X_j|X_1 = x_1}(x_j) \= f_{X_1}(x_1) \prod_{j \in \nbd(1)} f_{X_j}(x_j) \prod_{j \in \nbd(1)} \frac{f_{X_j, X_1}(x_j x_1)}{f_{X_j}(x_j)f_{X_1}(x_1)}\).</p>
+<p>Applying this procedure repeatedly, we get: \(f_X(x) = \prod f_{X_i}(x_i) \prod_{(i,j) \in E} \frac{f_{X_i, X_j}(x_i, x_j)}{f_{X_i}(x_i) f_{X_j}(x_j)}\).</p>
+<h4 id="pairwise-graphical-model">Pairwise graphical model</h4>
+<p>A subclass. \(f_X(x) \propto \prod_i \gf_i(x_i)\prod_{(i,j) \in E} \gf_{i, j}(x_i, x_j)\).</p>
+<h4 id="hierarchical-models">Hierarchical models</h4>
+<p>A factor \(\gf_c(x_c)\) exists only if, for all \(s \subset c\), a factor \(\gf_s(x_s)\) exists.</p>
+<h4 id="discrete-models">Discrete models</h4>
+<p>\(\set{dom(X_i)}\) are discrete.</p>
+<h5 id="pairwise-ification-of-discrete-models">Pairwise-ification of discrete models</h5>
+<p>Can add some extra variables, \
+rewrite with all \(C_j\) being pairwise: If cliques of size \(p&rsquo;&gt;2\) exist, collapse that clique into a single node, expand the state space.</p>
+<p>Note that, just because you know how to learn pairwise graphical models, you cannot simply construct a general discrete model learning algorithm: you don&rsquo;t know which nodes to collapse.</p>
+<h5 id="the-general-form">The general form</h5>
+<p>Consider exponential family attached to discrete graphical model G of n vars. Let \(|dom(X_i)| = |M| = m\). Can assume G is pairwise.</p>
+<p>We can completely specify \(\ftr_{i,j}(x_i, x_j)\) by parameter matrix \(T_{i, j}\) with \
+\(T_{i,j, k, l} = \ftr_{i,j}(k, l)\).
+\(
+$$f_X(x) = \propto e^{\sum_{(i, j) \in E} T_{i,j, x_i, x_j} } = e^{\sum_{(i, j) \in V^{2}} \sum_{k, l \in M^{2}}T_{i,j, k, l} I[x_i = k] I[x_j = l]}\)$$.
+We can think of this as an exponential family distribution involving \(|V|^{2}m^{2}\) auxiliary features/ covariates \(y_{ij} = I[x_i = k] I[x_j = l]\). But this distribution \(f_X(x)\) is now overparametrized, as \(y_{i,j}\) are not linearly independent. [See section on minimal parametrization of exponential family distributions.]</p>
+<p>Let \(M&rsquo; = M-\set{m}\). Using a minimal parametrization, we get an exponential family distribution involving only features \(y_{ij;kl \in (M&rsquo;)^{2}} = I[x_i = k] I[x_j = l]\) and \(y_{i;k \in (M&rsquo;)} = I[x_i = k]\). So, \(Pr(X = x \in M&rsquo;) \propto exp(\sum t_{i;k} y_{i;k} + \sum t_{ij;kl} y_{ij;kl})\).</p>
+<h5 id="ising-model">Ising model</h5>
+<p>\(Pr(X = x|t) \propto e^{\sum_i t_i x_i + \sum_{(i, j) \in V^{2}} t_{i,j} x_i x_j}; dom(X_i) \in \pm 1\). Any binary undirected graphical model involving variables \(Y_i\) with range \(\set{1, 2}\) can be expressed like this: just consider the minimal parametrization of such distribution using the auxiliary features described earlier.</p>
+<p>For signed edge recovery for the class of Ising models given a few observations, see structure learning part in statistics ref. Originally used in physics to model electron spins&rsquo; interactions in the case of magnetism.</p>
+<h3 id="junction-tree-model">Junction tree model</h3>
+<p>Take an undirected graph G, find a junction tree T for it (see graph theory ref). Belief propagation algorithms work well over trees; hence this. Like a factor graph, there are 2 types of nodes: a set of nodes for cliques C in G. They are connected to each other through separators S.</p>
+<h4 id="factorization-1">Factorization</h4>
+<p>\(f_X(x) = \frac{\prod_{c \in C}f_{X_c}(x_c)}{\prod_{s \in S} f_{X_s}(x_s)^{|\nbd(s)| -1}}\).</p>
+<h3 id="directed">Directed</h3>
+<p>Aka Bayesian networks; but needn&rsquo;t be learned using Bayesian methods.</p>
+<h4 id="extra-notation">Extra notation</h4>
+<p>Shorthand for N nodes with identical parentage: a plate annotated by N, with a single node inside. Can represent deterministic variables with solid dots. Can represent observed variables as shaded nodes.</p>
+<h4 id="factorization-2">Factorization</h4>
+<p>Every \(X_i\) annotated with \(f_{X_i|par(X_i)}\) (aka factors).\ \(f_X = \prod_{i} f_{X_{i}|par(X_{i})} = \prod_{i} f(X_{i}, par(X_{i}))\).</p>
+<p>There are many bayesian networks to represent \(f_X\) based on different decompositions: eg: \(X_1 = X_2 + X_3\). Not all are equally concise. Concise when expressing causal relationships.</p>
+<h5 id="undirected-moralized-graph">Undirected &lsquo;moralized&rsquo; graph</h5>
+<p>Make all edges undirected, but &lsquo;marry off&rsquo; all unmarried parents: make cliques involving child and parents. These graphs are equivalent in terms of conditional independence.</p>
+<h4 id="marginal-independence">Marginal independence</h4>
+<p>If X, Y don&rsquo;t have a common ancestor: \(X \perp Y\). But, conditional independence, \(X \perp Y |E\) need not hold if E has a common child of X and Y; Eg: \(X_1 = X_2 + X_3\).</p>
+<h4 id="dependency-seperation-of-x-y-by-z">Dependency seperation of X, Y by Z</h4>
+<p>Aka d-separation. Every undirected path (X, Y) blocked by \(W\in Z\). 2 types of blocking: \(\to W \gets\): W not given;  \(\to W \to\) or \(\gets W \to\): W given.</p>
+<p>d-separation is graph-independent: Even when multiple graphs model same distribution, the conditional independence relationship deduced from any of them hold.</p>
+<h5 id="global-markov-property">Global Markov property</h5>
+<p>Let A, B, Z be sets of variables. \(A \perp B |Z\) for all d-separating Z. Thence, markov boundary of X is \
+\(\set{par(A), chi(A), par(chi(A))}\). Implied by factorization.</p>
+<p>Also, if S separates A, B in moralized graph, \(A \perp B | S\). But, when S does not separate A, B: look at subgraph of A, B, S.</p>
+<h5 id="check-d-separation">Check d-separation</h5>
+<p>Use breadth-first-search to find unblocked paths. Aka Bayes ball algorithm.</p>
+<h4 id="other-conditional-independence-properties">Other conditional independence properties</h4>
+<h5 id="local-markov-property">Local markov property</h5>
+<p>desc(i) \dfn descendents of i. \(X_i \perp X_{j \notin desc(i)}| par(i)\).</p>
+<h5 id="pairwise-markov-property">Pairwise markov property</h5>
+<p>\(X_i \perp X_j | X_{\nbd(i) - j}\).</p>
+<h5 id="connections">Connections</h5>
+<p>Factorization \(\equiv\) Global Markov \(\equiv\) Local Markov \(\implies\) Pairwise markov. If \(f_X(x)\) has full support, pairwise markov \(\implies\) local markov.</p>
+<h4 id="marginalized-dag">Marginalized DAG</h4>
+<p>Let G = (V, E) be the DAG corresponding to Pr(x). The DAG corresponding to \(f_{X_{V-A}}(x_{V-A})\) is obtained as follows: Take subgraph S in G induced by (V - A). For every \((u, v) \in (V-A)^{2}\), add a new edge if \(\exists\) a directed path (u, s, v) in G, such that s is a sequence of vertices in A. Proof: Using factorization.</p>
+<h3 id="comparison">Comparison</h3>
+<h4 id="expressiveness-1">Expressiveness</h4>
+<p>Take rain, sprinkler, grass wet (R, S, G) causal model. \(R \perp S\) but \(R \nvdash S|G\): &lsquo;Explaining away&rsquo; phenomenon. Can&rsquo;t express this with other models.</p>
+<p>Take rectangle shaped undirected graph. Can&rsquo;t make equivalent directed graph.</p>
+<p>Undirected graphical models are better at expressing non-causal, soft relationships amongst RV&rsquo;s. Directed models are usually very intuitive to construct.</p>
+<p>Undirected models less expressive than factor graphs. \why</p>
+<h4 id="structural-equivalence">Structural equivalence</h4>
+<p>Tree structured undirected graphical model can be expressed as a directed graphical model with the same structure: this is detailed in the undirected graphical models section.</p>
+<p>The reverse is not true: as seen from the rain, sprinkler, grass wet example. But if edges in the DAG do not meet, a tree structured directed graphical model can be expressed as an undirected graphical model.</p>
+<h4 id="independence-relationships-amongst-vars">Independence relationships amongst vars</h4>
+<p>Conditional independence easier to determine in undirected models compared with directed graphical models. But marginal independence easier to determine in the former.</p>
+<h2 id="inference-decoding-using-graphical-model">Inference, decoding using Graphical model</h2>
+<p>See statistics survey for the following: structure learning (learn graph from data); parameter learning (learn parameters given graph).</p>
+<h3 id="problems">Problems</h3>
+<p>Consider some \(S \subseteq V\).</p>
+<h4 id="inference-problems">Inference problems</h4>
+<p>Find marginals \(f_{X_S}\), or the partition function \(Z\), or find \(E[g(x)]\), when \(g(x)\) factors nicely according to the graphical model.</p>
+<h4 id="decoding-problem">Decoding problem</h4>
+<p>Find component \(\hat{x}_S\) of the mode \(\hat{x} = \argmax_x f_X\).</p>
+<h5 id="global-maximum-vs-marginal-maxima">Global maximum vs marginal maxima</h5>
+<p>Note that this is different from the marginal maximum \(\argmax_{x_S} f_{X_{S}}\) which may be found by solving the inference problem to find \(f_{X_S}\) and then taking its maximum.</p>
+<p>One cannot simply find the local/ marginal maxima \(\argmax_{x_S} f_{X_{S}}\) and use it to find the global maximum.</p>
+<h4 id="evidence">Evidence</h4>
+<p>Maybe you want to solve these problems when values for some variables may be fixed: Eg: \(X_T = x_T\).</p>
+<h4 id="solving-for-all-variables">Solving for all variables</h4>
+<p>Another variation to the inference and decoding problems is to solve them for all sets of the form \(S = \set{i \in V}\).</p>
+<h3 id="factorization-and-graph-based-computations">Factorization and graph-based computations</h3>
+<h4 id="benefit-of-factorization">Benefit of factorization</h4>
+<p>Inference problems involve summation over a subset \(ran(X)\), while decoding problem involve finding the maximum over it.</p>
+<p>Suppose that \(f_X(x) = Z^{-1}\prod_{c \subseteq V} \gf_{c}(x_c)\). Distributive law is the key to summing/ maxing this function efficiently. Eg: see elimination algorithm, junction tree algorithm.</p>
+<h5 id="elimination-ordering">Elimination ordering</h5>
+<p>Order the factors to get \(f(x) = \gf_{c_1}(x) .. \). Now, if you have variables \(X_{T}\) involved only in factors \(\geq i\), you get: \(\sum_{x_{V-S}} f_X(x) = \sum_{x_{V-S - x_{T}}}\gf_{c_S}(x) .. \sum_{x_{T}}\gf_{c_i}(x)..\). An identical ordering is useful if we were doing \(\argmax_{x_{V-S}} f(x)\) instead.</p>
+<p>This yields us the following reduction in dimensionality.</p>
+<p>\subparagraph*{Reduction in dimensionality}
+Suppose that \(\max_i ran(X_i) = D\). Without the elimination ordering, we would have had to consider a set of \(D^{|V-S|}\) values during summing/ maxing. As a result of using the elimination ordering, we now consider a set of \(D^{|V-S-T|} + D^{|T|}\) values to do the same.</p>
+<p>Thus, using this trick repeatedly, suppose that we find the elimination ordering \(f_X(x) = \prod_{c \in p(V)} \gf_c(x_c)\) where \(p(V)\) is a partition of \(V\). Then, we will be only be summing/ maxing over \(|p(V)|D^{\max_{c \in p(V)} |c|} = O(D^{\max_{c \in p(V)} |c|})\) values.</p>
+<h5 id="finding-the-right-order">Finding the right order</h5>
+<p>Not all orders are equally good. There is a natural way to get this ordering for trees: consider the elimination algorithm.</p>
+<h4 id="graph-traversal-view">Graph traversal view</h4>
+<p>Try to model the problem as one of making special graph traversals. Try to use local computations to replace global computations. Can think of this as nodes passing messages to each other.</p>
+<h3 id="belief-propagation">Belief propagation</h3>
+<h4 id="the-bottom-up-idea">The Bottom-up idea</h4>
+<p>Exploit factorization and the elimination ordering we can solve the problem bottom-up.</p>
+<p>If you are finding \(\argmax_x f_X(x)\), this is the max-product algorithm, if finding \(f_{X_1}(x_1)\), it is the sum product algorithm.</p>
+<p>The idea: take local belief, take max or sum, propagate it to other nodes which need this to calculate their belief.</p>
+<h4 id="node-elimination-algorithm-undirected-trees">Node Elimination algorithm: Undirected Trees</h4>
+<p>Remove nodes to sum out/ max out one by one. Suppose want to find\ \(\argmax f_{X_{V-1}|X_1 = x_1}(x_{V-1})\). Then, root the tree at \(x_1\), and do the following.</p>
+<p>Message, a definition of a function, every node \(X_j\) tells its parent \(X_i\): \
+\(m_{j \to i}(x_i) = \max_j \gf_{i,j}(x_i, x_j) \prod_{k \neq i, (j,k) \in E} m_{k \to j}(x_j)\). This is the message passing implementation. Belief of \(x_1\): \(b_1(x_1) = \prod_{(j,1) \in E} m_{k \to 1}(x_1)\).</p>
+<p>Can use similar algorithm to find marginal \(f_{X_1}(x_1)\).</p>
+<h5 id="using-known-values">Using known values</h5>
+<p>Suppose \(X_2 = x_2\) is fixed in the above process. Nothing changes in the algorithm itself - only \(X_2\) is thought of having only one value in its range while being summed over/ maxed over etc..</p>
+<h5 id="finding-conditional-marginals">Finding conditional marginals</h5>
+<p>Suppose you want to find \
+\(\argmax Pr(x_{V-1}|x_1, x_2)\). Root the tree at say \(x_1\), execute the algorithm as usual; when you encounter factors involving \(x_2\), don&rsquo;t sum/ max over \(x_2\).</p>
+<h4 id="reusing-messages-undirected-tree">Reusing messages: Undirected Tree</h4>
+<p>Maybe you want to find \(f_{X_i}(x_i) \forall i\), and want to reuse messages (computations involving summing out). Then, simply use these update rules: \(m_{j \to i}(x_i) = \max_j \gf_{i,j}(x_i, x_j) \prod_{k \neq i, (j,k) \in E} m_{k \to j}(x_j) \forall i, j\).</p>
+<p>The algorithm is naturally distributed - so scales well with number of nodes. Also, there is no need to compute an elimination ordering.</p>
+<h5 id="feasibility">Feasibility</h5>
+<p>Each message depends on certain other messages, and it is computed when these messages are available. This is always possible for trees as there are no cyclical dependencies, and all messages are computed eventually.</p>
+<h4 id="tree-factor-graphs">Tree Factor graphs</h4>
+<p>Want to find \(f_{X_i}(x_i) \forall i\), given tree structured factor graph. Root it at \(x_1\), for every variable v and factor f, use the update rules: \
+\(m_{v \to f}(x_v) = \prod_{f&rsquo; \neq f}m_{f&rsquo; \to v}(x_v),  m_{f \to v}(x_v) = \sum{v&rsquo; \neq v} f(x) \prod_{v&rsquo; \neq v} m_{v&rsquo; \to v}(x_{v&rsquo;})\). Belief \(b_v(x_v) = \prod_{f}m_{f \to v}(x_v)\).</p>
+<h4 id="general-undirected-graphs">General undirected graphs</h4>
+<h5 id="use-junction-trees">Use junction trees</h5>
+<p>Maybe you don&rsquo;t have a tree, but a graph for which you can get a junction tree. If the graph does not have one, can always convert it to a chordal graph by adding edges: but finding the minimal chordal supergraph is NP hard.</p>
+<p>Belief propagation proceeds as in tree factor graphs, except the clique nodes play the role of variables, and the separators/ nodes representing variables shared between cliques play the role of factors.</p>
+<p>Belief for each clique C is thus easily calculated; by induction over number of cliques in the clique tree, \(b_c(x_c) = \sum_{V - c} f_X(x)\), as expected.</p>
+<p>Finding the belief for each variable depends exponentially on tree width: must consider \(dom(X_i)^{|C|}\) values while summing/ maxing.</p>
+<h5 id="tree-reweighted-max-product">Tree reweighted max product</h5>
+<p>Take \(p(x) \propto g_1(x)g_2(x)\), such that every clique involved in p(x) is either in \(g_1\) or in \(g_2\). Then, if \(x^{<em>} \in \argmax g_1(x) \land x^{</em>} \in \argmax g_2(x), x \in \argmax p(x)\). So, can find smart ways of splitting p; then maximize each g; if the intersection of the maximal points is not empty, then done; otherwise, move around edge-mass.</p>
+<h4 id="approximate-inference-loopy-belief-propagation">Approximate inference: Loopy belief propagation</h4>
+<h5 id="trouble-because-of-loops">Trouble because of loops</h5>
+<p>Suppose there were loops, you can try initializing all incoming messages at all nodes with 1, applying update rule at each node repeatedly. Each node calculates \(m_{i \to j}^{(t+1)} = \gf_{i,j}(x_i, x_j)\prod_{k \neq j}m_{k \to i})^{(t)}\).
+Also, as messages (a function output vector \(m(x_i)\)) may keep growing bigger; may need to normalize each message at each iteration.</p>
+<h5 id="applicability">Applicability</h5>
+<p>There are almost no theoretical guarantees of convergence or correctness; but widely applied in practice. But, when applied to trees, it is consistent with usual belief propagation, and yields the right answer.</p>
+<p>An example in case of the inference problem involved in decoding binary linear codes is given in the information/ coding theory survey.</p>
+<h5 id="computation-tree-at-iteration-j-wrt-node-i">Computation tree at iteration j wrt node i</h5>
+<p>A way to visualize the undirected graph, as it looks to node i at iteration j, while it calculates the belief \(b_i^{(j)}(x_i)\) during loopy belief propagation. For j=0, the tree is just the single node i. For every j, you add a level to the tree, indicating new messages which are considered in \(b_i^{(j)}(x_i)\) - the new leaves attached to a node k are \(\nbd(k) - par(i)\). Each tree is a valid graphical model in itself.</p>
+<p>Eg: consider triangle 1, 2, 3. Initially, tree is 1. Then new level (2, 3) is added. Then children 3&rsquo;, 1&rsquo; are added to 2; and 1&rsquo;, 2&rsquo; are added to 3. These copies of nodes are conceptually different from the original: the messages they send are different.</p>
+<h5 id="correctness-in-case-of-steady-state-results">&lsquo;Correctness in case of steady state&rsquo; results</h5>
+<p>This is useful because: maybe loopy belief propagation will be in a steady state, before there is a loop in the computation tree - so highly dependent on the initialization!</p>
+<p>\subparagraph*{Damped max product}
+Use control theory idea to force oscillating system towards a steady state. Each node actually uses message \
+\(m_{i \to j}&rsquo;^{(t+1)} = m_{i \to j}^{(t)l}m_{i \to j}^{(t+1)(1-l)}\).</p>
+<h5 id="max-product-on-single-cycle">Max-product on single cycle</h5>
+<p>But, if you are doing max-product on a graph which is a single cycle, and if you hit a steady state for all messages, then the computation yields the right answer to \(\argmax_x f_{|X_1 = x_1}(x\). This also holds for graphs which are trees, single cycles or single cycled trees.</p>
+<p>Proof idea: Consider the computation tree T wrt \(x_1\) at the steady state. Then, belief computed at \(x_1\) corresponds to \(\argmax_x f_{X \distr T}(x_{V-1}|x_1)\), the max product belief correct for this tree. But, see that \
+\(Pr_{T}(x_{V-1}|x_1) =  t Pr(x_{V-1}|x_1)^{k}\) for some k, t. Thence relate argmax \(Pr_{T}\) with argmax \(Pr\).</p>
+<h3 id="for-gaussian-graphical-models">For Gaussian graphical models</h3>
+<p>Maybe given normal distribution of in the form \(f_X(x) \propto e^{-2^{-1}x^{T}Px + hx}\) by specifying P and \(h = P \mean\), where P is the precision matrix. For every \(P_{i,j} \neq 0\), there is an edge in the model graph G.</p>
+<p>Max product finds the mean; sum product finds the marginal: either case reduces to finding the mean \(\mean\); so they correspond to executing the same algorithm. Marginalizing or maxing over a gaussian distribution yields another gaussian \(e^{-2^{-1}x^{T}P&rsquo;x + h&rsquo;x}\), so the messages passed during message passing algorithm correspond to the parameters of this expression.</p>
+<h4 id="connection-with-solving-ax--b">Connection with solving Ax = b</h4>
+<p>Essentially solving \(P\mean = h\) for \(\mean\); perhaps loopy belief propagation can be used to solve Ax = b for very large \(A \succeq 0\). Convergence happens only if P is diagonally dominant.</p>
+<p>If G is a tree, then this corresponds to Gaussian elimination.</p>
+<h3 id="directed-graphical-models">Directed graphical models</h3>
+<p>One can simply convert directed graphical models to equivalent undirected models and use inference algorithms described for them.</p>
+
+  </div>
+</article>
+
+
+        
+
+        
+
+
+
+    <aside class="card border noPrint" id="section-tree-item-math_probability_probabilistic_models_RV_interdependence_02_Graphical_models_md">
+        <div class="card-title bg-light-gray border d-flex justify-content-between">
+            <a href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/">02 Graphical models </a>
+            <a data-toggle="collapse" href="#section-tree-item-body-math_probability_probabilistic_models_RV_interdependence_02_Graphical_models_md" role="button" aria-expanded="false" aria-controls="section-tree-item-body-math_probability_probabilistic_models_RV_interdependence_02_Graphical_models_md" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+        </div>
+        <nav id="section-tree-item-body-math_probability_probabilistic_models_RV_interdependence_02_Graphical_models_md" class="card-body p-0 collapse">
+            
+            <li>draft: false</li>
+            
+            <li>iscjklanguage: false</li>
+            
+            <li>title: 02 Graphical models</li>
+            
+        </nav>
+    </aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1 noPrint" role="contentinfo">
+  
+
+  <div id="div_foot_nav_bar" class="row">
+    <a href="https://vishvAsa.github.io/notes/search"  class="btn btn-light btn-sm">🥽🔦</a>
+    <div class="row col  d-flex justify-content-center">
+      <div><a id="previousPageFoot" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+      <div ><a id="nextPageFoot" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+    </div>
+      <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+      </ul>
+  </div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vishvAsa/notes/issues/new" >
+      ✉️Contact
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      
+      <a href="https://github.com/vishvAsa/notes/actions/workflows/build.yml"><img src="https://github.com/vishvAsa/notes/actions/workflows/build.yml/badge.svg"> Built </a> on 2026 Feb 12 01:34:45 UTC. (<a href="http://google.com/search?q=01%3a34%3a45%20UTC to IST">IST</a>)
+    </div>
+  </div>
+</footer>
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-33H08JSLQR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-33H08JSLQR');
+</script>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_uiLib.onDocumentReadyTasks();
+  </script>
+  
+</html>

@@ -1,0 +1,785 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Decision procedure selection</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.143.0">
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/notes/math/probability/statistics/decision_procedure_selection/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/notes/math/probability/statistics/decision_procedure_selection/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:url" content="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/">
+  <meta property="og:site_name" content="Vishvas&#39;s notes">
+  <meta property="og:title" content="Decision procedure selection">
+  <meta property="og:description" content="Overview, motivation Some discipline is necessary in order to avoid common errors which consume effort and resources. The below describes steps common to many problems including density estimation and classification.
+Formulate the problem in decision theoretic terms properly - pick an appropriate ‘risk/ loss function’ (possibly incorporating prior belief), a candidate feature set. Then fix a model family (possibly after a literature survey) and develop a model selection procedure. Then use empirical risk estimation using cross validation in order to avoid overfitting to training data. Repeat.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="math">
+
+  <meta itemprop="name" content="Decision procedure selection">
+  <meta itemprop="description" content="Overview, motivation Some discipline is necessary in order to avoid common errors which consume effort and resources. The below describes steps common to many problems including density estimation and classification.
+Formulate the problem in decision theoretic terms properly - pick an appropriate ‘risk/ loss function’ (possibly incorporating prior belief), a candidate feature set. Then fix a model family (possibly after a literature survey) and develop a model selection procedure. Then use empirical risk estimation using cross validation in order to avoid overfitting to training data. Repeat.">
+  <meta itemprop="wordCount" content="2148">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Decision procedure selection">
+  <meta name="twitter:description" content="Overview, motivation Some discipline is necessary in order to avoid common errors which consume effort and resources. The below describes steps common to many problems including density estimation and classification.
+Formulate the problem in decision theoretic terms properly - pick an appropriate ‘risk/ loss function’ (possibly incorporating prior belief), a candidate feature set. Then fix a model family (possibly after a literature survey) and develop a model selection procedure. Then use empirical risk estimation using cross validation in order to avoid overfitting to training data. Repeat.">
+<script type="text/javascript">
+    
+    let baseURL = "https:\/\/vishvAsa.github.io\/notes\/";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022build_img\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/actions\/workflows\/build.yml\/badge.svg\u0022,\u0022build_url\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/actions\/workflows\/build.yml\u0022,\u0022contactlink\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/issues\/new\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/edit\/content\/\u0022,\u0022js_extras\u0022:[\u0022mathjax\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022देवः\u0022,\u0022url\u0022:\u0022..\/devaH\/\u0022},{\u0022title\u0022:\u0022आगमः\u0022,\u0022url\u0022:\u0022..\/AgamaH\/\u0022},{\u0022title\u0022:\u0022आगमः शैवः\u0022,\u0022url\u0022:\u0022..\/AgamaH_shaivaH\/\u0022},{\u0022title\u0022:\u0022आगमः वैष्णवः\u0022,\u0022url\u0022:\u0022..\/AgamaH_vaiShNavaH\/\u0022},{\u0022title\u0022:\u0022रामानुजीयम्\u0022,\u0022url\u0022:\u0022..\/rAmAnujIyam\/\u0022},{\u0022title\u0022:\u0022माध्वम्\u0022,\u0022url\u0022:\u0022..\/mAdhvam\/\u0022},{\u0022title\u0022:\u0022आगमः ब्राह्मः\u0022,\u0022url\u0022:\u0022..\/AgamaH_brAhmaH\/\u0022},{\u0022title\u0022:\u0022कल्पान्तरम्\u0022,\u0022url\u0022:\u0022..\/kalpAntaram\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022वेदाः\u0022,\u0022url\u0022:\u0022..\/vedAH\/\u0022},{\u0022title\u0022:\u0022वेदाः - ऋक्\u0022,\u0022url\u0022:\u0022..\/vedAH_Rk\/\u0022},{\u0022title\u0022:\u0022वेदाः - यजुः\u0022,\u0022url\u0022:\u0022..\/vedAH_yajuH\/\u0022},{\u0022title\u0022:\u0022वेदाः - साम\u0022,\u0022url\u0022:\u0022..\/vedAH_sAma\/\u0022},{\u0022title\u0022:\u0022पुराणम्\u0022,\u0022url\u0022:\u0022..\/purANam\u0022},{\u0022title\u0022:\u0022पुराणम् वैष्णवम्\u0022,\u0022url\u0022:\u0022..\/purANam_vaiShNavam\/\u0022},{\u0022title\u0022:\u0022महाभारतम्\u0022,\u0022url\u0022:\u0022..\/mahAbhAratam\/\u0022},{\u0022title\u0022:\u0022रामायणम्\u0022,\u0022url\u0022:\u0022..\/rAmAyaNam\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvyam\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022ಕನ್ನಡ\u0022,\u0022url\u0022:\u0022..\/kannaDa\/\u0022},{\u0022title\u0022:\u0022त्रिपिटकम्\u0022,\u0022url\u0022:\u0022..\/tipiTaka\/\u0022},{\u0022title\u0022:\u0022पाळयः\u0022,\u0022url\u0022:\u0022..\/pALi\/\u0022},{\u0022title\u0022:\u0022भाषान्तरम्\u0022,\u0022url\u0022:\u0022..\/bhAShAntaram\/\u0022},{\u0022title\u0022:\u0022English Lit\u0022,\u0022url\u0022:\u0022..\/english\/\u0022},{\u0022title\u0022:\u0022Book pub\u0022,\u0022url\u0022:\u0022..\/book-pub\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vishvAsa.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    
+    var pageRelUrlTree = {};
+</script>
+
+    
+    <script type="text/javascript">
+  let pageVars = {};
+  pageVars.pageUrlMinusBasePath = "\/notes\/math\/probability\/statistics\/decision_procedure_selection\/".replace(basePath, "/");
+  pageVars.pageParams = {};
+  pageVars.pageSource = "math\/probability\/statistics\/decision_procedure_selection.md";
+  console.log(pageVars.pageSource);
+  var pageDefaults;
+  for (let possiblePageDefaults of pageDefaultsList) {
+    if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+      pageDefaults = possiblePageDefaults.values
+    }
+  }
+    
+</script>
+
+
+    <script src="/notes/webpack_dist/uiLib-bundle.js"></script>
+
+
+<script>
+
+
+MathJax = {
+  tex: {
+    inlineMath: [ ["@#", "#@"], ["\\(", "\\)"] ],
+    displayMath: [ ["$$","$$"], ["\\[", "\\]"] ],
+    processEscapes: true,  
+  },
+  svg: {
+    fontCache: 'global'
+  },
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore|dno"
+  }
+};
+</script>
+<script type="text/javascript" id="MathJax-script" async
+        src="/notes/non_webpack_js/mathjax/tex-svg.js">
+</script>
+
+
+
+
+
+
+    <link rel="stylesheet" href="/notes/webpack_dist/uiLib.css">
+<link rel="stylesheet" href="/notes/css/uiLibPrint.css" media="print" >
+<link rel="stylesheet" href="/notes/css/fonts.css" >
+<link rel="stylesheet" href="/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+
+<link rel="stylesheet" href="/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+
+<link rel="alternate" hreflang="sa-Deva" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/" />
+<link rel="alternate" hreflang="sa-Deva" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=devanagari" />
+
+<link rel="alternate" hreflang="sa-Knda" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=kannada" />
+<link rel="alternate" hreflang="sa-Mlym" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=malayalam" />
+<link rel="alternate" hreflang="sa-Telu" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=telugu" />
+<link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=tamil_superscripted" />
+<link rel="alternate" hreflang="sa-Taml" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=tamil" />
+<link rel="alternate" hreflang="sa-Gran" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=grantha" />
+
+<link rel="alternate" hreflang="sa-Gujr" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=gujarati" />
+<link rel="alternate" hreflang="sa-Guru" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=gurmukhi" />
+<link rel="alternate" hreflang="sa-Shar" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=sharada" />
+<link rel="alternate" hreflang="sa-Dogr" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=dogra" />
+<link rel="alternate" hreflang="sa-Phag" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=phags_pa" />
+<link rel="alternate" hreflang="sa-Tibt" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=tibetan" />
+<link rel="alternate" hreflang="sa-Sidd" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=siddham" />
+<link rel="alternate" hreflang="sa-Newa" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=newa" />
+<link rel="alternate" hreflang="sa-Modi" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=modi" />
+<link rel="alternate" hreflang="sa-Tirh" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=tirhuta_maithili" />
+<link rel="alternate" hreflang="sa-Gong" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=gondi_gujala" />
+<link rel="alternate" hreflang="sa-Gonm" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=gondi_masaram" />
+
+
+<link rel="alternate" hreflang="sa-Orya" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=oriya" />
+<link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=assamese" />
+<link rel="alternate" hreflang="sa-Beng" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=bengali" />
+<link rel="alternate" hreflang="sa-Mtei" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=manipuri" />
+<link rel="alternate" hreflang="sa-Sinh" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=sinhala" />
+<link rel="alternate" hreflang="sa-Limb" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=limbu" />
+<link rel="alternate" hreflang="sa-Lepc" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=lepcha" />
+
+
+<link rel="alternate" hreflang="sa-Cyrl" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=cyrillic" />
+<link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iso" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=iso" />
+<link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=iast" />
+<link rel="alternate" hreflang="sa-Aran" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=urdu" />
+<link rel="alternate" hreflang="sa-Avst" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=avestan" />
+
+<link rel="alternate" hreflang="sa-Brah" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=brahmi" />
+<link rel="alternate" hreflang="sa-Khar" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=kharoshthi" />
+<link rel="alternate" hreflang="sa-Zanb" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=zanbazar_square" />
+<link rel="alternate" hreflang="sa-Bhks" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=bhaiksuki" />
+
+<link rel="alternate" hreflang="sa-Bali" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=balinese" />
+<link rel="alternate" hreflang="sa-Java" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=javanese" />
+<link rel="alternate" hreflang="sa-Laoo" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=lao" />
+<link rel="alternate" hreflang="sa-Laoo-t-sa-Laoo-m0-Laopali" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=lao_pali" />
+<link rel="alternate" hreflang="sa-Mymr" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=burmese" />
+<link rel="alternate" hreflang="sa-Mymr-t-sa-Mymr-m0-Mon" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=mon" />
+<link rel="alternate" hreflang="sa-Cham" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=cham" />
+<link rel="alternate" hreflang="sa-Khmr" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=khmer" />
+<link rel="alternate" hreflang="sa-Thai" href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/?transliteration_target=thai" />
+
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+\(
+% groupings of objects.
+\newcommand{\set}[1]{\left\{ #1 \right\}}
+\newcommand{\seq}[1]{\left(#1\right)}
+\newcommand{\ang}[1]{\langle#1\rangle}
+\newcommand{\tuple}[1]{\left(#1\right)}
+\newcommand{\size}[1]{\left| #1\right|}
+
+\newcommand{\comp}{\circ}
+
+
+% numerical shortcuts.
+\newcommand{\abs}[1]{\left| #1\right|}
+\newcommand{\floor}[1]{\left\lfloor #1 \right\rfloor}
+\newcommand{\ceil}[1]{\left\lceil #1 \right\rceil}
+
+% linear algebra shortcuts.
+\newcommand{\change}{\Delta}
+\newcommand{\norm}[1]{\left\| #1\right\|}
+\newcommand{\dprod}[1]{\langle#1\rangle}
+\newcommand{\linspan}[1]{\langle#1\rangle}
+\newcommand{\conj}[1]{\overline{#1}}
+\newcommand{\der}[1]{\frac{d#1}{dx}}
+\newcommand{\lap}{\Delta}
+\newcommand{\kron}{\otimes}
+\newcommand{\nperp}{\nvdash}
+
+\newcommand{\mat}[1]{\left[ \begin{smallmatrix}#1 \end{smallmatrix} \right]}
+
+% derivatives and limits
+\newcommand{\partder}[2]{\frac{\partial #1}{\partial #2}}
+\newcommand{\partdern}[3]{\frac{\partial^{#3 #1}}{\partial #2^{#3}}}
+\newcommand{\gradient}{\nabla}
+\newcommand{\subdifferential}{\partial}
+
+% Arrows
+\newcommand{\diverge}{\nearrow}
+\newcommand{\notto}{\nrightarrow}
+\newcommand{\up}{\uparrow}
+\newcommand{\down}{\downarrow}
+% gets and gives are defined!
+
+% ordering operators
+\newcommand{\oleq}{\preceq}
+\newcommand{\ogeq}{\succeq}
+
+% programming and logic operators
+\newcommand{\dfn}{:=}
+\newcommand{\assign}{:=}
+\newcommand{\co}{\ co\ }
+\newcommand{\en}{\ en\ }
+
+
+% logic operators
+\newcommand{\xor}{\oplus}
+\newcommand{\Land}{\bigwedge}
+\newcommand{\Lor}{\bigvee}
+\newcommand{\finish}{\Box}
+\newcommand{\contra}{\Rightarrow \Leftarrow}
+\newcommand{\iseq}{\stackrel{_?{=}}}
+
+
+% Set theory
+\newcommand{\symdiff}{\Delta}
+\newcommand{\setdiff}{\backslash}
+\newcommand{\union}{\cup}
+\newcommand{\inters}{\cap}
+\newcommand{\Union}{\bigcup}
+\newcommand{\Inters}{\bigcap}
+\newcommand{\nullSet}{\phi}
+
+
+% graph theory
+\newcommand{\nbd}{\Gamma}
+
+% Script alphabets
+% For reals, use \Re
+
+% greek letters
+\newcommand{\eps}{\epsilon}
+\newcommand{\del}{\delta}
+\newcommand{\ga}{\alpha}
+\newcommand{\gb}{\beta}
+\newcommand{\gd}{\del}
+\newcommand{\gp}{\pi}
+\newcommand{\gf}{\phi}
+\newcommand{\gh}{\eta}
+\newcommand{\gF}{\Phi}
+\newcommand{\gl}{\lambda}
+\newcommand{\gm}{\mu}
+\newcommand{\gn}{\nu}
+\newcommand{\gr}{\rho}
+\newcommand{\gs}{\sigma}
+\newcommand{\gth}{\theta}
+\newcommand{\gx}{\xi}
+\newcommand{\gw}{\omega}
+
+\newcommand{\sw}{\sigma}
+\newcommand{\SW}{\Sigma}
+\newcommand{\ew}{\lambda}
+\newcommand{\EW}{\Lambda}
+
+\newcommand{\Del}{\Delta}
+\newcommand{\gD}{\Delta}
+\newcommand{\gG}{\Gamma}
+\newcommand{\gW}{\Omega}
+\newcommand{\gS}{\Sigma}
+\newcommand{\gTh}{\Theta}
+
+% Bold english letters.
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bB}{\mathbf{B}}
+\newcommand{\bC}{\mathbf{C}}
+\newcommand{\bD}{\mathbf{D}}
+\newcommand{\bE}{\mathbf{E}}
+\newcommand{\bF}{\mathbf{F}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bI}{\mathbf{I}}
+\newcommand{\bJ}{\mathbf{J}}
+\newcommand{\bK}{\mathbf{K}}
+\newcommand{\bL}{\mathbf{L}}
+\newcommand{\bM}{\mathbf{M}}
+\newcommand{\bN}{\mathbf{N}}
+\newcommand{\bO}{\mathbf{O}}
+\newcommand{\bP}{\mathbf{P}}
+\newcommand{\bQ}{\mathbf{Q}}
+\newcommand{\bR}{\mathbf{R}}
+\newcommand{\bS}{\mathbf{S}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bU}{\mathbf{U}}
+\newcommand{\bV}{\mathbf{V}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\bX}{\mathbf{X}}
+\newcommand{\bY}{\mathbf{Y}}
+\newcommand{\bZ}{\mathbf{Z}}
+
+\newcommand{\bba}{\mathbf{a}}
+\newcommand{\bbb}{\mathbf{b}}
+\newcommand{\bbc}{\mathbf{c}}
+\newcommand{\bbd}{\mathbf{d}}
+\newcommand{\bbe}{\mathbf{e}}
+\newcommand{\bbf}{\mathbf{f}}
+\newcommand{\bbg}{\mathbf{g}}
+\newcommand{\bbh}{\mathbf{h}}
+\newcommand{\bbk}{\mathbf{k}}
+\newcommand{\bbl}{\mathbf{l}}
+\newcommand{\bbm}{\mathbf{m}}
+\newcommand{\bbn}{\mathbf{n}}
+\newcommand{\bbp}{\mathbf{p}}
+\newcommand{\bbq}{\mathbf{q}}
+\newcommand{\bbr}{\mathbf{r}}
+\newcommand{\bbs}{\mathbf{s}}
+\newcommand{\bbt}{\mathbf{t}}
+\newcommand{\bbu}{\mathbf{u}}
+\newcommand{\bbv}{\mathbf{v}}
+\newcommand{\bbw}{\mathbf{w}}
+\newcommand{\bbx}{\mathbf{x}}
+\newcommand{\bby}{\mathbf{y}}
+\newcommand{\bbz}{\mathbf{z}}
+\newcommand{\0}{\mathbf{0}}
+\newcommand{\1}{\mathbf{1}}
+
+% Caligraphic english alphabet
+\newcommand{\cA}{\mathcal{A}}
+\newcommand{\cB}{\mathcal{B}}
+\newcommand{\cC}{\mathcal{C}}
+\newcommand{\cD}{\mathcal{D}}
+\newcommand{\cE}{\mathcal{E}}
+\newcommand{\cF}{\mathcal{F}}
+\newcommand{\cG}{\mathcal{G}}
+\newcommand{\cH}{\mathcal{H}}
+\newcommand{\cI}{\mathcal{I}}
+\newcommand{\cJ}{\mathcal{J}}
+\newcommand{\cK}{\mathcal{K}}
+\newcommand{\cL}{\mathcal{L}}
+\newcommand{\cM}{\mathcal{M}}
+\newcommand{\cN}{\mathcal{N}}
+\newcommand{\cO}{\mathcal{O}}
+\newcommand{\cP}{\mathcal{P}}
+\newcommand{\cQ}{\mathcal{Q}}
+\newcommand{\cR}{\mathcal{R}}
+\newcommand{\cS}{\mathcal{S}}
+\newcommand{\cT}{\mathcal{T}}
+\newcommand{\cU}{\mathcal{U}}
+\newcommand{\cV}{\mathcal{V}}
+\newcommand{\cW}{\mathcal{W}}
+\newcommand{\cX}{\mathcal{X}}
+\newcommand{\cY}{\mathcal{Y}}
+\newcommand{\cZ}{\mathcal{Z}}
+
+
+% Formatting shortcuts
+\newcommand{\red}[1]{\textcolor{red}{#1}}
+\newcommand{\blue}[1]{\textcolor{blue}{#1}}
+\newcommand{\htext}[2]{\texorpdfstring{#1}{#2}}
+
+% Statistics
+\newcommand{\distr}{\sim}
+\newcommand{\stddev}{\sigma}
+\newcommand{\covmatrix}{\Sigma}
+\newcommand{\mean}{\mu}
+\newcommand{\param}{\theta}
+\newcommand{\gthEst}{\hat{\theta}}
+\newcommand{\ftr}{\phi}
+\newcommand{\est}[1]{\hat{#1}}
+
+% General utility
+\newcommand{\todo}[1]{\textbf{[TODO]}] \footnote{TODO: #1}}
+\newcommand{\tbc}{[\textbf{Incomplete}]}
+\newcommand{\chk}{[\textbf{Check}]}
+\newcommand{\why}{[\textbf{Find proof}]}
+\newcommand{\opt}[1]{\textit{#1}}
+
+\newcommand{\experience}[1]{[\textbf{Personal Experience}]: #1 \blacktriangle}
+\newcommand{\pf}[1]{[\textbf{Proof}]: #1 \Box}
+\newcommand{\core}[1]{\textbf{Core Idea}: #1 \Arrowvert}
+\newcommand{\example}[1]{\textbf{Example}: #1 \blacktriangle}
+\newcommand{\error}[1]{\textbf{Error alert}: #1 \triangle}
+\newcommand{\oprob}{[\textbf{OP}]: }
+
+
+\renewcommand{\~}{\htext{$\sim$}{~}}
+
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+
+
+\)
+
+
+
+    
+<header class="p-1 bg-yellow noPrint">
+    <nav role="navigation" class="col">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Decision procedure selection</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <button class="btn btn-light"  href="#transliterationDropdown" data-toggle="collapse">
+            ✍
+          </button>
+          <select id="transliterationDropdown" size="1" class="collapse" onchange="module_uiLib.default.content.updateTransliteration()">
+            <optgroup label="🌍">
+              <option value="iso">āISO</option>
+              <option value="iso_vedic">āi-āu</option>
+              <option value="cyrillic">пу</option>
+              <option value="urdu">نس</option>
+              <option value="??">🌍??</option>
+            </optgroup>
+            <optgroup label="🛕🧭S">
+              <option value="kannada">ಅ</option>
+              <option value="malayalam">അ</option>
+              <option value="telugu">క</option>
+              <option value="tamil_superscripted">க²</option>
+              <option value="tamil_extended">க</option>
+              <option value="grantha">𑌅</option>
+            </optgroup>
+            <optgroup label="🛕🧭N">
+              <option value="devanagari" selected="">स</option>
+              <option value="gujarati">અ</option>
+              <option value="gurmukhi">ਅ</option>
+            </optgroup>
+            <optgroup label="🛕🧭E">
+              <option value="oriya">ଅ</option>
+              <option value="assamese">অস</option>
+              <option value="bengali">অ</option>
+            </optgroup>
+            <optgroup label="🛕🏺📜">
+              <option value="sharada">𑆑𑇀𑆰</option>
+              <option value="brahmi">𑀅</option>
+            </optgroup>
+            <optgroup label="🛕🌋">
+              <option value="balinese">ᬩᬮᬶ</option>
+            </optgroup>
+          </select>
+          <div>
+          <button class="btn btn-outline-secondary btn-sm"  href="#transliterationDropdownAlt" data-toggle="collapse">
+          (✍)
+          </button>
+          <select id="transliterationDropdownAlt" size="1"  style="font-size:12px" class="bg-light-yellow collapse" onchange="module_uiLib.default.content.updateTransliteration()">
+            <optgroup label="🌍">
+              <option value="iso">āISO</option>
+              <option value="iso_vedic">āi-āu</option>
+              <option value="cyrillic">пу</option>
+              <option value="urdu">نس</option>
+              <option value="??">🌍??</option>
+            </optgroup>
+            <optgroup label="🛕🧭S">
+              <option value="kannada">ಅ</option>
+              <option value="malayalam">അ</option>
+              <option value="telugu">క</option>
+              <option value="tamil_superscripted">க²</option>
+              <option value="tamil_extended">க</option>
+              <option value="grantha">𑌅</option>
+            </optgroup>
+            <optgroup label="🛕🧭N">
+              <option value="devanagari" selected="">स</option>
+              <option value="gujarati">અ</option>
+              <option value="gurmukhi">ਅ</option>
+            </optgroup>
+            <optgroup label="🛕🧭E">
+              <option value="oriya">ଅ</option>
+              <option value="assamese">অস</option>
+              <option value="bengali">অ</option>
+            </optgroup>
+            <optgroup label="🛕🏺📜">
+              <option value="sharada">𑆑𑇀𑆰</option>
+              <option value="brahmi">𑀅</option>
+            </optgroup>
+            <optgroup label="🛕🌋">
+              <option value="balinese">ᬩᬮᬶ</option>
+            </optgroup>
+          </select>
+          </div>
+          <div class="row col d-flex  dropdown">
+            <button class="btn btn-secondary-outline btn-sm dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              A±
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <a class="btn btn-secondary btn-sm" onclick="module_uiLib.changeTextSize(2)">A+</a>
+            <a class="btn btn-secondary btn-sm" onclick="module_uiLib.changeTextSize(-2)">A-</a>
+            </div>
+          </div>
+          <button class="btn btn-light btn-sm"  href="#commentStyleDropdown" data-toggle="collapse">
+            🗨
+          </button>
+          <select id="commentStyleDropdown" class="collapse" size="1" onchange="module_uiLib.default.content.updateCommentStyleFromDropdown()">
+            <option value="on">✔</option>
+            <option value="hidden">✗</option>
+          </select>
+          <div><a id="expandAllButton" class="btn btn-secondary" onclick="module_uiLib.default.query.setParamsAndGo({'expandDetails': '.*'})">↕️️</a></div>
+          <div id="printStyleDiv" class="row col d-flex  dropdown">
+          <button class="btn btn-light btn-sm dropdown-toggle"  href="#printStyleDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          🖨
+          </button>
+            <div class="dropdown-menu col" aria-labelledby="printStyleDropdown">
+              <div class="row justify-content-center">
+                <p>Cols:</p>
+                <input type="number" min="1" max="10" value="2" step="1" id="tbColumns" style="width: 3ch;"  accesskey="c"/>
+              </div>
+              <div class="row justify-content-center">
+                <p>A±:</p> <input type="text" id="tbBodyFontSize" value="0.4cm" style="width: 6ch;"  accesskey="f"></input>
+              </div>
+              <div class="row justify-content-center">
+                <p>Incl:</p> <input checked type="checkbox" id="tbIncludeStyle" value="on"></input>
+                <button id="btnPrintStyle" onclick="module_uiLib.default.content.updatePrintStyle()">🖨
+                </button>
+              </div>
+            </div>
+        </div>
+        </div>
+        <div id="audioDiv" class="row col d-flex  dropdown">
+          <button class="btn btn-secondary-outline btn-sm dropdown-toggle" type="button" id="audioDropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            🎧
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <a id="speakerButton" class="btn btn-outline-secondary btn-sm" onclick="module_uiLib.default.content.handleSpeakToggle()">⏯</a>
+          <button id="speakerPauseButton" class="btn btn-outline-secondary btn-sm">⏸</button>
+            <div id="audioOptionsDiv" class="row justify-content-center" >
+              <div>
+                <p class="lead">Vol</p>
+                <input type="range" min="0" max="1" value="1" step="0.1" id="volume" />
+                <span id="volume-label" class="ms-2">1</span>
+              </div>
+              <div class="mx-5">
+                <p class="lead">Rate</p>
+                <input type="range" min="0.1" max="10" value="1" id="rate" step="0.1" />
+                <span id="rate-label" class="ms-2">1</span>
+              </div>
+              <div>
+                <p class="lead">Pitch</p>
+                <input type="range" min="0" max="2" value="1" step="0.1" id="pitch" />
+                <span id="pitch-label" class="ms-2">1</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a href="https://vishvAsa.github.io/notes/search"  class="btn btn-light btn-sm">🥽🔦</a>
+        <div class="row col  d-flex justify-content-center">
+          <div><a id="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a id="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border noPrint " id="sidebar">
+          <div id="fastSearch">
+              <datalist id="pageDataList"></datalist>
+              <input id="searchInput" placeholder="शीर्षिकान्विष्यताम्" list="pageDataList" onchange="module_uiLib.default.navigation.pageLoader()">
+          </div>
+          <details open  class="bg-light-gray" >
+              <summary id="sidebarToggleLink" onclick="module_uiLib.default.navigation.sidebarToggleHandler()">
+            Menu
+              </summary>
+              <ul id="sidebarBody" class="list pl2 p-0 bg-yellow">
+              </ul>
+          </details>
+      </aside>
+      <main class="col p-3" role="main" data-pagefind-body>
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Decision procedure selection">Decision procedure selection</h1>
+    
+    <a id="editLink" class="btn btn-primary noPrint"  href="https://github.com/vishvAsa/notes/edit/content/math/probability/statistics/decision_procedure_selection.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border noPrint ">
+    <details id="toc_header">
+        <summary>What's in this page?</summary>
+      <div id="toc_body" class="p-0">
+        
+        <ul id="toc_ul" class="list p-0">
+        </ul>
+      </div>
+    </details>
+    <div id="progressBarDiv" class="row d-flex justify-content-center">
+      🐎💪<progress id="progressLoading" value="0" max="100"> 32% </progress>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="overview-motivation">Overview, motivation</h2>
+<p>Some discipline is necessary in order to avoid common errors which consume effort and resources. The below describes steps common to many problems including density estimation and classification.</p>
+<p>Formulate the problem in decision theoretic terms properly - pick an appropriate &lsquo;risk/ loss function&rsquo; (possibly incorporating prior belief), a candidate feature set. Then fix a model family (possibly after a literature survey) and develop a model selection procedure. Then use empirical risk estimation using cross validation in order to avoid overfitting to training data. Repeat.</p>
+<h2 id="picking-the-right-hypothesis-space-h">Picking the right hypothesis space H</h2>
+<h3 id="hypothesis-space-h">Hypothesis space H</h3>
+<p>Often we constrain ourselves to picking a decision procedure from a certain limited set, the hypothesis space \(H\).</p>
+<p>\(H\) is usually specified by imposing a structure which must be satisfied by all decision procedures in it; so it may also be called a model family.</p>
+<p>\(H\) can be further restricted by specifying the loss function appropriately: this is described elsewhere.</p>
+<h3 id="motivation-factors-to-consider">Motivation, Factors to consider</h3>
+<p>Picking a limited hypothesis space \(H\) is often necessary because considering all possible hypotheses may be computationally infeasible. Also, we may want \(H\) to be convex, so that we can then efficiently minimize empirical risk over it.</p>
+<p>Prior beliefs/ requirements about the ideal decision procedure also influence the choice of \(H\).</p>
+<p>Constraining \(H\) just for the sake of avoiding overfitting is considered elsewhere.</p>
+<h4 id="approximation-vs-estimation-error-tradeoff">Approximation vs estimation error tradeoff</h4>
+<p>\(\hat{\gth} = \argmin_{t\in H_n} R(t)\). If \(H_n\) large, we can reduce approximation error \(|R(\param) - R(\hat{\gth})|\), but the decision procedure learning process will find it tougher to get to \(\hat{\gth}\) in terms of time, memory or number of samples required. In other words, estimation error \(|R(\hat{\gth}) - R(d)|\) high. +++(Larger hypothesis classes generally outperform smaller ones - if given enough data.)+++</p>
+<p>If \(H_n\) too small, approximation error is high, estimation error low. +++(When training data is limited, smaller hypothesis class is better. But, Misleading if assumption about the best decision procedure is false.)+++</p>
+<h3 id="parameters">Parameters</h3>
+<p>A decision procedure may be concisely specified using a small number of parameters \(\param\) - perhaps as a function over sufficient statistics extracted from observations (\(S =s\)). Other decision procedures require \(O(|s|)\) of parameters to be specified.</p>
+<p>Hypothesis classes are called non-parametric or parametric based on the decision procedures which constitute them. Decision procedure learning methods may similarly be parametric or non-parametric, based on the hypothesis class used.</p>
+<p>Non-parametric hypothesis classes are usually bigger and more flexible.</p>
+<p>Many of the advantages and disadvantages associated with using parametric and non-parametric classes therefore follow from comparison of the use of large and small \(H\) described earlier.</p>
+<h4 id="common-structural-assumptions">Common structural assumptions</h4>
+<p>Sparsity. Low matrix rank. Block structure: Eg: zeros appear in blocks/ entire rows/ columns; row sparsity.</p>
+<h2 id="loss-function-choice">Loss function choice</h2>
+<p>Choosing a risk or loss function enables us to compare decision procedures.</p>
+<p>Constraining \(L\) in order to avoid overfitting during empirical risk minimization is considered elsewhere.</p>
+<h3 id="evaluation">Evaluation</h3>
+<p>When ultimately evaluating a decision procedure, one should use the loss function without prior belief biases (unlike the one possibly used in empirical risk minimization). This actual risk of the decision procedure chosen is called the generalization error.</p>
+<p>In research reporting: Final evaluation/ test data must never be used in fitting (hyper)parameters for this results in overfitting to the test/training set combination.</p>
+<h2 id="theoretically-find-the-best-d">Theoretically find the best d</h2>
+<h3 id="best-d-for-fixed-htextthetaground-truth">Best d for fixed \htext{\(\theta\){ground truth}}</h3>
+<p>Use geometry of \(R\) described earlier. If \(\gth\) were fixed, then the best \(d\) would correspond to the point of the convex hull \(R(S&rsquo;)\) with least \(R(\gth, d)\): This will always be a corner.</p>
+<h3 id="minimum-expected-bayesian-risk">Minimum expected (Bayesian) risk</h3>
+<p>Pick \(d\) with min expected risk.</p>
+<h4 id="geometry">Geometry</h4>
+<p>Let dim(T) be finite.\ If \(\pi(\gth)\) is the prior, then risk is \(\sum_i \pi(\gth_i)R(\gth_i,d) = c\) where \(d\) is the best response for a certain \(\gth\). So, this is a certain point in the &lsquo;base&rsquo; of the convex hull \(R(S&rsquo;)\). So set of risks of such decision procedures are represented in the &lsquo;base&rsquo; faces of the convex polyhedron.</p>
+<p>Visualize this in 2D.</p>
+<p>Comparing geometries: Every bayesian risk minimizing decision procedure with full support is also admissible.</p>
+<h3 id="choose-an-admissible-procedure">Choose an admissible procedure</h3>
+<p>d is admissible if \(\nexists d&rsquo;: [\forall \gth R(\gth, d&rsquo;) \leq R(\gth, d)]\), \(\exists \gth: [\forall d&rsquo;: R(\gth, d&rsquo;) &lt; R(\gth, d)]\).</p>
+<h4 id="geometry-1">Geometry</h4>
+<p>Take convex hull \(R(S&rsquo;)\). Given \(d\), to find a d&rsquo; which &lsquo;dominates&rsquo; \(d\) for some fixed \(\gth_i\), while being as good as \(d\) for all other \(\gth\): drop a line through \(d\) which is \(\perp\) axis corresponding to \(\gth_i\). The lowest point in the hull along this line dominates every other point in the hull.</p>
+<p>So, possible admissible procedures correspond to base of the convex hull, except faces which are perpendicular.</p>
+<p>So, every admissible procedure is a min Bayes risk procedure for some prior.</p>
+<h3 id="the-adversarial-setting-minimax-procedure">The adversarial setting: minimax procedure</h3>
+<p>See game theory. Ye assume that the adversary knows what you pick, assume that adversary is rational, and choose the \(\hat{d} = \inf_d \sup_{\gth} R(\gth, d)\).</p>
+<h4 id="geometry-2">Geometry</h4>
+<p>Take convex hull \(R(S&rsquo;)\). Find the &rsquo;lowest&rsquo; point in the hull which meets the ball \(\norm{\gth}_\infty = c\) (max norm: looks like a square).</p>
+<h3 id="compare-risk-profiles-of-d-over-range-of-htextgthground-truth">Compare risk profiles of d over range of \htext{\(\gth\){ground truth}}</h3>
+<p>\(R(\gth, d)\) can change for different values of \(\gth\). So, can plot \(R(\gth, d)\) vs \(\gth\) curves for various \(d\) and compare.</p>
+<h2 id="empirical-risk-minimization">Empirical risk minimization</h2>
+<p>Aka model selection, training the model, learning the parameters (if the hypothesis class is parametric).</p>
+<p>Solve: \(\hat{t} = argmin_t \hat{R}(t, D)\). So, you try to get best fit to training data from \(H\).</p>
+<p>If both \(H\) and \(\hat{R}(t, D)\) are convex, you have a convex optimization problem.</p>
+<h3 id="fit-to-d-vs-generalization-ability">Fit to D vs generalization ability</h3>
+<p>A problem with empirical risk minimization is the limited amount of data available. This means that minimizing \(\hat{R}(t, D)\) may be quite different from minimizing \(R\).</p>
+<h4 id="training-error">Training error</h4>
+<p>\(\hat{R}(t, D)\), derived only from a loss function, not incorporating any bias about the decision procedure, is aka the training error. It is useful in diagnozing underfitting and overfitting.</p>
+<h4 id="overfitting">Overfitting</h4>
+<p>Sometimes, an algorithm may pick a decision procedure which minimizes empirical risk on the training data/ training error (ie maximizes fit to \(D\)), but has high risk \(R\) (low generalization ability).</p>
+<p>As in this case, the decision procedure varies highly with the training data \(D\), it is called the &lsquo;high variance&rsquo; case.</p>
+<h4 id="underfitting">Underfitting</h4>
+<p>The decision procedure chosen by the algorithm may have a high generalization error and high training error. This could be due to the non-convexity of the empirical risk function.</p>
+<p>This case is aka the &lsquo;high bias case&rsquo;.</p>
+<h3 id="overfitting-and-model-complexity">Overfitting and model complexity</h3>
+<h4 id="model-complexity">Model complexity</h4>
+<p>Complex model classifies training data excellently but performs poorly on test data. So, the complex model is unstable.</p>
+<p>So, look for simple hypothesis, in Occam&rsquo;s razor style; minimize description length. Keep low model complexity/ level of specialization while still fitting the training set well.</p>
+<h4 id="limiting-number-of-parameters">Limiting number of parameters</h4>
+<p>As number of data points \(N\) increases, this problem becomes less. Rough heuristic: \(N \geq 5\) or 10 times the number of adaptive parameters in model.</p>
+<h4 id="polynomial-regression-example">Polynomial regression example</h4>
+<p>Eg: Fitting a polynomial with parameters \(w\) to a sine curve: what should the degree \(d\) be?</p>
+<p>For a given \(N\), generalization ability increases (error on test set decreases) with \(d\), then levels off until \(d\) = N-1 when it sharply drops (error increases): overfitting: simple interpolation occurs there, and magnitude of coefficients \((w_{i})\) sharply increases there. So use regularization, with \(w_{0}\) omitted in regularization term.</p>
+<h3 id="avoiding-overfitting">Avoiding overfitting</h3>
+<h4 id="altered-risk-function">Altered risk function</h4>
+<p>When we have prior belief about the best decision procedure, it can be incorporated into the expression for the risk function to be used for empirical risk minimization.</p>
+<p>Take \(t_n = argmin_t \hat{R}(t,(X_i)) + \gl r(t)\), where \(\hat{R}\) is the original risk function, \(r()\) is regularizer and \(\gl\) is the regularization parameter.</p>
+<h4 id="altered-loss-function">Altered loss function</h4>
+<p>The altered risk function can be interpreted as arising from an altered loss function constructed especially for empirical risk minimization - one incorporating the prior belief.</p>
+<h4 id="other-derivations">Other derivations</h4>
+<p>This alternate objective function may also be derived by other means: for example using the Bayesian/ Schwartz or Akaiki Information Criteria (BIC or AIC) in case of parametric density estimation.</p>
+<h4 id="hyper-parameters">Hyper-parameters</h4>
+<p>Hyper-parameters such as the regularization parameter represent the prior belief about the decision procedure. They could include choice between model families.</p>
+<h3 id="statistical-efficiency-analysis">Statistical efficiency analysis</h3>
+<p>If \(L\) is convex, differentiable, strongly convex around t&rsquo; wrt certain \(C\) (see vector spaces ref). Then take \(A = H_n\) as the hypothesis space and B a certain space outside it, so that decomposability holds wrt r(): \(\forall a\in A, b\in B: r(a + b) = r(a) + r(b)\). Then, pradeep etal bound distance \(d(t&rsquo;, t_n)\).</p>
+<h4 id="accuracy-of-empirical-risk-estimate">Accuracy of empirical risk estimate</h4>
+<p>\core  If the \(H\) is small and if \(\hat{t}\) is learned using many samples, the empirical risk is close to actual risk.</p>
+<p>If \(G\) finite, can bound \(Pr(\sum_i(L(t, x_i) - E[L(t, x)]) \geq \eps)\) using martingale concentration bound (Hoeffding). Can then apply union bound to get bound on \(Pr(\sup_t \sum_i(L(t, x_i) - E[L(t, x)]) \geq \eps)\). [The union bound is very intuitive when probability is viewed as a measure.]</p>
+<p>If \(G\) infinite, take \(\eps\) covering wrt \(\norm{.}<em>\infty\) to get \(G</em>\eps\), take union bound over that. Thence bound: \(N(\eps, G, \norm{.}_\infty) exp(\frac{-2n\eps^{2}}{9 B^{2}})\).</p>
+<p>These same principles are used in &lsquo;Occam razor&rsquo; and the &lsquo;VCD Occam razor&rsquo; in computational learning theory.</p>
+<h4 id="bound-deviation-from-optimum-h-bound-empirical-risk-error">Bound deviation from optimum h: bound empirical risk error</h4>
+<p>\core  If the \(H\) is small and if \(\hat{t}\) is learned using many samples, the risk due to \(\hat{t}\) is close to that of \(\gth\).</p>
+<p>Thence, \(R(\hat{t}) - R(\gth)= R(\hat{t}) - \hat{R}(\hat{t}) + \hat{R}(\hat{t}) - \hat{R}(\gth) + \hat{R}(\gth) - R(\gth) \leq 2 \sup_t (R(t) - \hat{R}(t))\): as \(\hat{R}(\hat{t}) - \hat{R}(\gth) \leq 0\) from empirical loss minimization.</p>
+<p>Thence, \(R(\hat{t}) - R(\gth) \leq 2n^{-1}\sup_t \sum_i(L(t, x_i) - E[L(t, x)]).\)<br>
+So, want to bound \(Pr(\sup_t \sum_i(L(t, x_i) - E[L(t, x)]) \geq \eps\). Take function space \(G = \set{L(t,.) \forall t}\).</p>
+<h3 id="check-generalization-ability">Check generalization ability</h3>
+<p>Aka validation.</p>
+<h4 id="motivation">Motivation</h4>
+<p>Given limited data and having picked a decision procedure \(\hat{t}\), one is often motivated to approximate the generalization ability. Then, one can judge whether over-fitting or under-fitting has happened.</p>
+<h4 id="general-procedure">General procedure</h4>
+<p>One partitions the limited data in some way into training data and validation data, which is aka &lsquo;hold out set&rsquo;, a stand-in for the data the decision procedure will ultimately be evaluated on.</p>
+<p>Then, learn parameters of different models on first part of training data and test for generalization ability by measuring the empirical loss (without any regularization for prior biases about the decision procedure) on the hold-out set.</p>
+<h4 id="multiple-rounds-for-robustness">Multiple rounds for robustness</h4>
+<p>For the sake of robustness, this can be repeated many times, and the empirical risk associated with a given model is taken to be the average of empirical risks measured during these runs. The model with the least average empirical risk is considered the best.</p>
+<h4 id="cross-validation">Cross validation</h4>
+<p>A particular variant is k-fold cross validation. Here, the data is divided into \(k\) equal sets. There are \(k\) different validation rounds. In each round, one of these \(k\) sets is designated the &lsquo;hold-out&rsquo; set, while the union of the remaining sets is designated the training set.</p>
+<p>Cross-Validation is better than simple validation because the latter could involve picking parameters overfitted to a particular training/ test set combination.</p>
+<h3 id="tuning-risk-minimization">Tuning risk minimization</h3>
+<h4 id="diagnosis">Diagnosis</h4>
+<p>High generalization error is often due to overfitting or underfitting. It is easy to distinguish the two by comparing the training error (t) with the cross validation error (v) (both of which should not include the prior belief/ regularization component). In the former (high bias case), \(t \approx v\) and both are high. In the latter (high variance) case, \(v &raquo; t\).</p>
+<p>According to the diagnosis, one can determine whether more suitable hypothesis spaces and feature sets should be tried, or whether one can achieve better results using just the currently available data.</p>
+<h4 id="picking-hyperparameters">Picking hyperparameters</h4>
+<p>Theoretically, these would come from the risk function where some weight is given to the prior belief.</p>
+<p>In practice, we often do not know what weight should be assigned to penalty for violation of prior belief. So, \(\gl\) is often learned (ie: the strength of the belief is calculated) using validation.</p>
+<h2 id="combining-decision-procedures">Combining Decision procedures</h2>
+<p>Rather than picking \(d \in H\) with the minimum risk, it is sometimes possible to combine multiple decision procedures in \(H\) to produce a randomized decision procedure with lower risk. This combination may be based on a &lsquo;bestness&rsquo; probability distribution over \(H\). Eg: combination of several classifiers or rankers to produce superior classifiers/ rankers.</p>
+<h2 id="offline-vs-online-learning">Offline vs online learning</h2>
+<p>If new information is provided one at a time, the agent may want to keep improving its decision rule after each new observation. This is online learning.</p>
+<h2 id="interpreting-the-decision-procedure-selected">Interpreting the decision procedure selected</h2>
+<p>This is important if the decision procedure is being learnt in order to figure out the laws of nature: what genes are triggered in a certain situation? Models learnt from training data is often very hard to interpret/ match with intuition.</p>
+<p>Sparse solutions are often easier/ more rational to interpret.</p>
+
+  </div>
+</article>
+
+
+        
+
+        
+
+
+
+    <aside class="card border noPrint" id="section-tree-item-math_probability_statistics_decision_procedure_selection_md">
+        <div class="card-title bg-light-gray border d-flex justify-content-between">
+            <a href="https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/">Decision procedure selection </a>
+            <a data-toggle="collapse" href="#section-tree-item-body-math_probability_statistics_decision_procedure_selection_md" role="button" aria-expanded="false" aria-controls="section-tree-item-body-math_probability_statistics_decision_procedure_selection_md" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+        </div>
+        <nav id="section-tree-item-body-math_probability_statistics_decision_procedure_selection_md" class="card-body p-0 collapse">
+            
+            <li>draft: false</li>
+            
+            <li>iscjklanguage: false</li>
+            
+            <li>title: Decision procedure selection</li>
+            
+        </nav>
+    </aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1 noPrint" role="contentinfo">
+  
+
+  <div id="div_foot_nav_bar" class="row">
+    <a href="https://vishvAsa.github.io/notes/search"  class="btn btn-light btn-sm">🥽🔦</a>
+    <div class="row col  d-flex justify-content-center">
+      <div><a id="previousPageFoot" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+      <div ><a id="nextPageFoot" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+    </div>
+      <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+      </ul>
+  </div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vishvAsa/notes/issues/new" >
+      ✉️Contact
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      
+      <a href="https://github.com/vishvAsa/notes/actions/workflows/build.yml"><img src="https://github.com/vishvAsa/notes/actions/workflows/build.yml/badge.svg"> Built </a> on 2026 Feb 12 01:34:45 UTC. (<a href="http://google.com/search?q=01%3a34%3a45%20UTC to IST">IST</a>)
+    </div>
+  </div>
+</footer>
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-33H08JSLQR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-33H08JSLQR');
+</script>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_uiLib.onDocumentReadyTasks();
+  </script>
+  
+</html>

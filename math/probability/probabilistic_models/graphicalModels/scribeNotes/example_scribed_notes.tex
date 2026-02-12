@@ -1,0 +1,123 @@
+% -----------------------------*- LaTeX -*------------------------------
+\documentclass[12pt]{report}
+\usepackage{sparsity_structures_and_algorithms_10, epsfig}
+\begin{document}
+
+% \course{EE 381V}			% optional
+% \coursetitle{Sparsity, Structures and Algorithms} % optional
+% \semester{Spring 2010}			% optional
+% \lecturer{Sujay Sanghavi}		% optional
+\scribe{Vishwas Vasuki, Nikita Sudan}		% required
+\lecturenumber{6}			% required, must be a number
+\lecturedate{February 10}		% required, omit year
+
+\maketitle
+
+% ----------------------------------------------------------------------
+
+\section{Topics covered}
+\begin{itemize}
+\item Junction Tree Algorithm
+%\item Projections onto closed convex sets
+%\item Separating hyperplanes
+\end{itemize}
+
+\section{Junction Tree Property}
+
+A clique tree is said to have the junction tree property if for every pair of cliques $c_{1}$ and $c_{2}$, the nodes in $c_{1}$ and $c_{2}$ appear in \textbf{all} cliques and seperators on the \textbf{unique} path between $c_{1}$ and $c_{2}$ on the clique tree. This is equivalent to saying for every node i of original graph, the cliques and seperators containing $i$ should form a connected sub-tree of clique tree. See Figure~\ref{fig:junctionTree} for an example of a tree that satisfies the junction tree property since the index "2" appears in each of the three connected nodes. Figure~\ref{fig:notJunctionTree} on the other hand is not a junction tree.
+
+\begin{figure}
+\centering
+\includegraphics[width=0.55\textwidth,height=0.2\textheight]{JunctionTree.jpg}
+\caption{Junction Tree Example}
+\label{fig:junctionTree}
+\end{figure}
+
+
+
+\begin{figure}
+\centering
+\includegraphics[width=0.55\textwidth,height=0.2\textheight]{NotJunctionTree.jpg}
+\caption{Not a Junction Tree}
+\label{fig:notJunctionTree}
+\end{figure}
+
+
+\begin{itemize}
+\item Clique trees with Junction property are called Junction tree.
+\item Note every graph has a junction tree.
+\item Not every graph has a junction tree (i/e/ a clique tree with the junction tree property. For e.g. the graph in Figure~\ref{fig:noJunctionTree}
+\end{itemize}
+
+%\newtheorem{lem}[thm]{Lemma}
+
+
+\begin{figure}
+\centering
+\includegraphics[width=0.55\textwidth,height=0.2\textheight]{noJunctionTree.jpg}
+\caption{No Junction Tree possible for this graph}
+\label{fig:noJunctionTree}
+\end{figure}
+
+\begin{lemma}
+Let C be a leaf-clique in clique tree. Let S be the unique seperator connected to it. Let R be the union of all cliques that are not C. Then the Junction property implies that A $\land$ R = $\emptyset$.
+\end{lemma}
+
+\begin{proof}
+Suppose $v \in A \land v \in R.$\newline
+$\Rightarrow$ $v$ $\in$ $C_{i\backslash s}$ for some $C_{i}$ $\neq$ $C$ $\land$ $v$ $\in$ $C$\newline
+$\Rightarrow$ $v$ $\in$ $S$ by Junction Tree property.\newline
+$\Rightarrow$ contradiction\newline
+\end{proof}
+
+\begin{theorem}
+When Junction Tree algorithm is run on a Junction Tree for $f(x)$, $b_{x}(x_{c}) = \sum _x{v \backslash c} f(x)$ for all cliques C (and hence all beliefs are consistent and correct).
+\end{theorem}
+
+\begin{proof}
+By Induction:\newline
+Initially: True if the Junction Tree for $f$ contains only one clique.\newline
+Inductive Hypothesis: Suppose for all $f$ with junction having $<=$ $n - 1$ cliques we have that, $b_{c}(x_{c})$ $=$ $\sum$ ${_{x_{j\backslash c}}}\tilde{f}(x)$ $\forall$ $C$. Now consider a Junction Tree with $n$ cliques and let $C_{1}$ be a leaf clique and $S$ its (unique) seperator.  Let $A$ $=$ $C_{1}\backslash S$ $\land$ $R = \bigcup _{i \neq 1} (c_{i} \backslash S)$ represent all other cliques. By lemma, $A$ $\land$ $R$ are disjoint. Also, the Junction tree parameter is $f(x) = $ $f_{A,S}(x_{A}, x_{S})$ $f_{R, S}(x_{R}, x_{S})$. Assume $m_{s\rightarrow c_{1}} = \prod _{c_{i}\neq c_{1}} m_{c_{i} \rightarrow s}(x_{s})$ is constant for now i.e. for the tree $f_{R,S}$ without $C_{1}$. %\newline
+
+Let $\tilde{b}$ be the beliefs when Junction Tree algorithm is run on this tree. Then, by the inductive assumption, $\tilde{b} _{(x_{s})} = \sum _{x_{R}} f _{R,S} (x_{R}, x_{S})$. Let $C_{2}$ be some clique in R that is joined to (and hence contains) S. Then
+$\tilde{b}(x_{s}) = \sum _{x_{C_{2}\backslash S}} \tilde{b}(x_{C_{2}})$\newline
+$= [\sum _{x_{C_{2}}\backslash S} f_{C_{2}}(x_{C_{2}}) \prod _{s' \neq s} \tilde{m} _{s'\rightarrow C_{2}} (x_{s'})]$  $\tilde{m}_{S\rightarrow C_{2}}(x_{S})$\newline
+$= \tilde{m} _{C_{2} \rightarrow S} (x_{S})$ $\tilde{m} _{S \rightarrow C_{2}} (x_{S})$ %\newline
+
+Now, $\tilde{m} _{C_{2} \rightarrow S}(x_{S}) = m _{C_{2} \rightarrow S}(x_{S})$ i.e. the message in bigger i.e. the full Junction Tree and \newline
+$\tilde{m} _{S \rightarrow C_{2}} (x_{S}) = \prod _{i \neq 1,2} m _{C_{i} \rightarrow S} (x_{S})$\newline
+Thus,  $\tilde{b} (x_{S}) = \prod _{i \neq 1} m _{C_{i} \rightarrow S} (x_{S})$%\newline
+
+Combining equations 1, 2 and 3, we get:
+
+$m_{s\rightarrow C_{i}(x_{S})} = \sum _{x_{R}} f_{R, S} (x_{R}, x_{S})$.\newline
+Therefore $b_{C_{1}} (x_{C_{1}}) = f _{A,S}(x_{A}, x_{S}) \sum _{x_{R}} f_{R,S}(x_{R},x_{S})$ i.e. $b_{C_{1}}(x_{C_{1}}) = \sum _{x_{v \backslash C_{1}}} f(x)$
+\end{proof}
+
+Q: Can we always make a Junction Tree? If not, when?
+
+A: No, as can be seen in Figure~\ref{fig:noJunctionTree}.
+
+\section{Triangulated Graphs}
+
+Every cycle in a triangulated graph has a chord. Such graphs are also called chordal graphs.
+
+\begin{theorem}
+$G$ has a Junction Tree $\Leftrightarrow$ $G$ is a triangulated graph.
+\end{theorem}
+
+\begin{proof}
+Using constructive procedure by building junction tree:\newline
+a) Choose clique nodes such that each is a maximal clique in original graph. Now, between every pair of cliques $C_{1}$ and $C_{2}$ there is a potentially empty seperator $S = C_{1} \land C_{2}$. Let ``weight'' of this ``seperator edge'' between $C_{1}$ and $C_{2}$ be $w_{12}$ $=$ $|S| = |C_{1} \land C_{2}|.$
+
+b) Run max weight spanning tree algorithm (on clique-tree, with edge weights as above) to obtain a clique tree. This tree is a Junction tree of graph is triangulated. Consider any node $k$ in the original graph with $m$ clique nodes, then the number of seperators is given by $\sum _{j = 1} ^{m - 1} 1 _{X_{k} \in S_{j}}$ $<=$ $[\sum _{i = 1} ^{M} 1_{X_{k} \in C_{i}}] - 1$ \newline
+weight of tree w(T) = $\sum _{k = 1} ^{N} (number of seperators k appears in)$ \newline
+$\sum _{k = 1} ^{N} (\sum _{j = 1} ^{m - 1} 1 _{k \in S_{j}})$\newline
+$<=$ $\sum _{k = 1} ^{N} [(\sum _{i = 1} ^{M} 1_{k in C_{i}}) - 1]$\newline
+$= \sum _{i = 1} ^{M} (\sum _{k = 1} ^{N} 1 _{k \in C_{i}}) - M$\newline
+$= \sum _{i = 1} ^{M} |C_{i}| - M$\newline
+$\Leftrightarrow$ cliques containing node k form a connected subtree in T, for every k \newline
+$\Leftrightarrow$ depth of Junction Tree
+\end{proof}
+\end{document}
+

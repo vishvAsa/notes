@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;DB on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/db/</link>
+    <description>Recent content in &#43;DB on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/db/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flat file</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/db/flat_file/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/db/flat_file/</guid>
+      <description>&lt;p&gt;The entire database may be stored within a single file. Such databases may be useful when a database server is not required and when access is local. Eg: sqlite, berkeley db (not a relational db), recutils.&lt;/p&gt;&#xA;&lt;h2 id=&#34;sqlite&#34;&gt;sqlite&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;sqlite3 databases cannot be opened with sqlite.&lt;/li&gt;&#xA;&lt;li&gt;sqlite offers a limited set of field types.&lt;/li&gt;&#xA;&lt;li&gt;sqlite does not allow joins during updates - making the process of copying columns a bigger chore.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;gui&#34;&gt;GUI&lt;/h3&gt;&#xA;&lt;p&gt;sqlitebrowser offers a good GUI for sqlite - but the import from csv feature is very slow as of 2012.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ref</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/db/ref/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/db/ref/</guid>
+      <description>&lt;div class=&#34;spreadsheet&#34; fullHeightWithRowsPerScreen=8 src=&#34;../ref.toml&#34;&gt; &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>SQL</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/db/sql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/db/sql/</guid>
+      <description>&lt;p&gt;A standard language for dealing with RDBMS. So, data can be visualized as being stored in tables.&lt;/p&gt;&#xA;&lt;h2 id=&#34;help-and-tutorials&#34;&gt;Help and tutorials&lt;/h2&gt;&#xA;&lt;p&gt;w3schools has a good tutorial.&lt;/p&gt;&#xA;&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;&#xA;&lt;p&gt;Strings are enclosed as here: &amp;lsquo;asdf&amp;rsquo;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;query-language&#34;&gt;Query language&lt;/h2&gt;&#xA;&lt;h3 id=&#34;query-table&#34;&gt;Query table&lt;/h3&gt;&#xA;&lt;p&gt;The query table may be specified in several ways. In the most basic case, it is a single table.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;table1 (as t1), table2 represents a cross-product, aka cross join. This returns a table whose rows are members of tbl1 X tbl2. In specifying temporary table names, as in table1 as t1, some dialects allow omission of &amp;lsquo;as&amp;rsquo;.&lt;/li&gt;&#xA;&lt;li&gt;tableList may be of the form: tbl1 join-command tbl2 [on condition]&lt;/li&gt;&#xA;&lt;li&gt;Or it can be: (selectStatement)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;post-selection-processing&#34;&gt;Post selection processing&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&amp;lsquo;group by fieldName&amp;rsquo; groups the data together before displaying.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

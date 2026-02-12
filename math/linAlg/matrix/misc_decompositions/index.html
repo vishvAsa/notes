@@ -1,0 +1,907 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Misc decompositions</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.143.0">
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/notes/math/linAlg/matrix/misc_decompositions/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/notes/math/linAlg/matrix/misc_decompositions/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:url" content="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/">
+  <meta property="og:site_name" content="Vishvas&#39;s notes">
+  <meta property="og:title" content="Misc decompositions">
+  <meta property="og:description" content="Importance of decompositions Very important in restating and understanding the behavior of a linear operator. Also, important in solving problems: get decomposition, use it repeatedly. For algebraic manipulation: Factor the matrix: QR, LU, Eigenvalue decomposition, SVD.
+EW revealing decompositions See section on eigenvalues.
+Eigenvalue decomposition Aka Spectral Decomp. Only if \(A\) diagonalizable.
+Take \(S\): Eigenvectors-as-columns matrix, with independent columns; \(\EW\): Eigenvalue diagonal matrix. Then, AS = SL; So, \(S^{-1}AS = L\); \(A=SLS^{-1}\): a similarity transformation. Also, If AS=SL, S’s columns must be eigenvectors.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="math">
+
+  <meta itemprop="name" content="Misc decompositions">
+  <meta itemprop="description" content="Importance of decompositions Very important in restating and understanding the behavior of a linear operator. Also, important in solving problems: get decomposition, use it repeatedly. For algebraic manipulation: Factor the matrix: QR, LU, Eigenvalue decomposition, SVD.
+EW revealing decompositions See section on eigenvalues.
+Eigenvalue decomposition Aka Spectral Decomp. Only if \(A\) diagonalizable.
+Take \(S\): Eigenvectors-as-columns matrix, with independent columns; \(\EW\): Eigenvalue diagonal matrix. Then, AS = SL; So, \(S^{-1}AS = L\); \(A=SLS^{-1}\): a similarity transformation. Also, If AS=SL, S’s columns must be eigenvectors.">
+  <meta itemprop="wordCount" content="3199">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Misc decompositions">
+  <meta name="twitter:description" content="Importance of decompositions Very important in restating and understanding the behavior of a linear operator. Also, important in solving problems: get decomposition, use it repeatedly. For algebraic manipulation: Factor the matrix: QR, LU, Eigenvalue decomposition, SVD.
+EW revealing decompositions See section on eigenvalues.
+Eigenvalue decomposition Aka Spectral Decomp. Only if \(A\) diagonalizable.
+Take \(S\): Eigenvectors-as-columns matrix, with independent columns; \(\EW\): Eigenvalue diagonal matrix. Then, AS = SL; So, \(S^{-1}AS = L\); \(A=SLS^{-1}\): a similarity transformation. Also, If AS=SL, S’s columns must be eigenvectors.">
+<script type="text/javascript">
+    
+    let baseURL = "https:\/\/vishvAsa.github.io\/notes\/";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022build_img\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/actions\/workflows\/build.yml\/badge.svg\u0022,\u0022build_url\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/actions\/workflows\/build.yml\u0022,\u0022contactlink\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/issues\/new\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/edit\/content\/\u0022,\u0022js_extras\u0022:[\u0022mathjax\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022देवः\u0022,\u0022url\u0022:\u0022..\/devaH\/\u0022},{\u0022title\u0022:\u0022आगमः\u0022,\u0022url\u0022:\u0022..\/AgamaH\/\u0022},{\u0022title\u0022:\u0022आगमः शैवः\u0022,\u0022url\u0022:\u0022..\/AgamaH_shaivaH\/\u0022},{\u0022title\u0022:\u0022आगमः वैष्णवः\u0022,\u0022url\u0022:\u0022..\/AgamaH_vaiShNavaH\/\u0022},{\u0022title\u0022:\u0022रामानुजीयम्\u0022,\u0022url\u0022:\u0022..\/rAmAnujIyam\/\u0022},{\u0022title\u0022:\u0022माध्वम्\u0022,\u0022url\u0022:\u0022..\/mAdhvam\/\u0022},{\u0022title\u0022:\u0022आगमः ब्राह्मः\u0022,\u0022url\u0022:\u0022..\/AgamaH_brAhmaH\/\u0022},{\u0022title\u0022:\u0022कल्पान्तरम्\u0022,\u0022url\u0022:\u0022..\/kalpAntaram\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022वेदाः\u0022,\u0022url\u0022:\u0022..\/vedAH\/\u0022},{\u0022title\u0022:\u0022वेदाः - ऋक्\u0022,\u0022url\u0022:\u0022..\/vedAH_Rk\/\u0022},{\u0022title\u0022:\u0022वेदाः - यजुः\u0022,\u0022url\u0022:\u0022..\/vedAH_yajuH\/\u0022},{\u0022title\u0022:\u0022वेदाः - साम\u0022,\u0022url\u0022:\u0022..\/vedAH_sAma\/\u0022},{\u0022title\u0022:\u0022पुराणम्\u0022,\u0022url\u0022:\u0022..\/purANam\u0022},{\u0022title\u0022:\u0022पुराणम् वैष्णवम्\u0022,\u0022url\u0022:\u0022..\/purANam_vaiShNavam\/\u0022},{\u0022title\u0022:\u0022महाभारतम्\u0022,\u0022url\u0022:\u0022..\/mahAbhAratam\/\u0022},{\u0022title\u0022:\u0022रामायणम्\u0022,\u0022url\u0022:\u0022..\/rAmAyaNam\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvyam\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022ಕನ್ನಡ\u0022,\u0022url\u0022:\u0022..\/kannaDa\/\u0022},{\u0022title\u0022:\u0022त्रिपिटकम्\u0022,\u0022url\u0022:\u0022..\/tipiTaka\/\u0022},{\u0022title\u0022:\u0022पाळयः\u0022,\u0022url\u0022:\u0022..\/pALi\/\u0022},{\u0022title\u0022:\u0022भाषान्तरम्\u0022,\u0022url\u0022:\u0022..\/bhAShAntaram\/\u0022},{\u0022title\u0022:\u0022English Lit\u0022,\u0022url\u0022:\u0022..\/english\/\u0022},{\u0022title\u0022:\u0022Book pub\u0022,\u0022url\u0022:\u0022..\/book-pub\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vishvAsa.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    
+    var pageRelUrlTree = {};
+</script>
+
+    
+    <script type="text/javascript">
+  let pageVars = {};
+  pageVars.pageUrlMinusBasePath = "\/notes\/math\/linAlg\/matrix\/misc_decompositions\/".replace(basePath, "/");
+  pageVars.pageParams = {};
+  pageVars.pageSource = "math\/linAlg\/matrix\/misc_decompositions.md";
+  console.log(pageVars.pageSource);
+  var pageDefaults;
+  for (let possiblePageDefaults of pageDefaultsList) {
+    if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+      pageDefaults = possiblePageDefaults.values
+    }
+  }
+    
+</script>
+
+
+    <script src="/notes/webpack_dist/uiLib-bundle.js"></script>
+
+
+<script>
+
+
+MathJax = {
+  tex: {
+    inlineMath: [ ["@#", "#@"], ["\\(", "\\)"] ],
+    displayMath: [ ["$$","$$"], ["\\[", "\\]"] ],
+    processEscapes: true,  
+  },
+  svg: {
+    fontCache: 'global'
+  },
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore|dno"
+  }
+};
+</script>
+<script type="text/javascript" id="MathJax-script" async
+        src="/notes/non_webpack_js/mathjax/tex-svg.js">
+</script>
+
+
+
+
+
+
+    <link rel="stylesheet" href="/notes/webpack_dist/uiLib.css">
+<link rel="stylesheet" href="/notes/css/uiLibPrint.css" media="print" >
+<link rel="stylesheet" href="/notes/css/fonts.css" >
+<link rel="stylesheet" href="/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+
+<link rel="stylesheet" href="/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+
+<link rel="alternate" hreflang="sa-Deva" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/" />
+<link rel="alternate" hreflang="sa-Deva" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=devanagari" />
+
+<link rel="alternate" hreflang="sa-Knda" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=kannada" />
+<link rel="alternate" hreflang="sa-Mlym" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=malayalam" />
+<link rel="alternate" hreflang="sa-Telu" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=telugu" />
+<link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=tamil_superscripted" />
+<link rel="alternate" hreflang="sa-Taml" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=tamil" />
+<link rel="alternate" hreflang="sa-Gran" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=grantha" />
+
+<link rel="alternate" hreflang="sa-Gujr" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=gujarati" />
+<link rel="alternate" hreflang="sa-Guru" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=gurmukhi" />
+<link rel="alternate" hreflang="sa-Shar" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=sharada" />
+<link rel="alternate" hreflang="sa-Dogr" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=dogra" />
+<link rel="alternate" hreflang="sa-Phag" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=phags_pa" />
+<link rel="alternate" hreflang="sa-Tibt" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=tibetan" />
+<link rel="alternate" hreflang="sa-Sidd" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=siddham" />
+<link rel="alternate" hreflang="sa-Newa" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=newa" />
+<link rel="alternate" hreflang="sa-Modi" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=modi" />
+<link rel="alternate" hreflang="sa-Tirh" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=tirhuta_maithili" />
+<link rel="alternate" hreflang="sa-Gong" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=gondi_gujala" />
+<link rel="alternate" hreflang="sa-Gonm" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=gondi_masaram" />
+
+
+<link rel="alternate" hreflang="sa-Orya" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=oriya" />
+<link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=assamese" />
+<link rel="alternate" hreflang="sa-Beng" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=bengali" />
+<link rel="alternate" hreflang="sa-Mtei" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=manipuri" />
+<link rel="alternate" hreflang="sa-Sinh" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=sinhala" />
+<link rel="alternate" hreflang="sa-Limb" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=limbu" />
+<link rel="alternate" hreflang="sa-Lepc" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=lepcha" />
+
+
+<link rel="alternate" hreflang="sa-Cyrl" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=cyrillic" />
+<link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iso" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=iso" />
+<link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=iast" />
+<link rel="alternate" hreflang="sa-Aran" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=urdu" />
+<link rel="alternate" hreflang="sa-Avst" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=avestan" />
+
+<link rel="alternate" hreflang="sa-Brah" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=brahmi" />
+<link rel="alternate" hreflang="sa-Khar" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=kharoshthi" />
+<link rel="alternate" hreflang="sa-Zanb" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=zanbazar_square" />
+<link rel="alternate" hreflang="sa-Bhks" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=bhaiksuki" />
+
+<link rel="alternate" hreflang="sa-Bali" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=balinese" />
+<link rel="alternate" hreflang="sa-Java" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=javanese" />
+<link rel="alternate" hreflang="sa-Laoo" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=lao" />
+<link rel="alternate" hreflang="sa-Laoo-t-sa-Laoo-m0-Laopali" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=lao_pali" />
+<link rel="alternate" hreflang="sa-Mymr" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=burmese" />
+<link rel="alternate" hreflang="sa-Mymr-t-sa-Mymr-m0-Mon" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=mon" />
+<link rel="alternate" hreflang="sa-Cham" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=cham" />
+<link rel="alternate" hreflang="sa-Khmr" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=khmer" />
+<link rel="alternate" hreflang="sa-Thai" href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/?transliteration_target=thai" />
+
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+\(
+% groupings of objects.
+\newcommand{\set}[1]{\left\{ #1 \right\}}
+\newcommand{\seq}[1]{\left(#1\right)}
+\newcommand{\ang}[1]{\langle#1\rangle}
+\newcommand{\tuple}[1]{\left(#1\right)}
+\newcommand{\size}[1]{\left| #1\right|}
+
+\newcommand{\comp}{\circ}
+
+
+% numerical shortcuts.
+\newcommand{\abs}[1]{\left| #1\right|}
+\newcommand{\floor}[1]{\left\lfloor #1 \right\rfloor}
+\newcommand{\ceil}[1]{\left\lceil #1 \right\rceil}
+
+% linear algebra shortcuts.
+\newcommand{\change}{\Delta}
+\newcommand{\norm}[1]{\left\| #1\right\|}
+\newcommand{\dprod}[1]{\langle#1\rangle}
+\newcommand{\linspan}[1]{\langle#1\rangle}
+\newcommand{\conj}[1]{\overline{#1}}
+\newcommand{\der}[1]{\frac{d#1}{dx}}
+\newcommand{\lap}{\Delta}
+\newcommand{\kron}{\otimes}
+\newcommand{\nperp}{\nvdash}
+
+\newcommand{\mat}[1]{\left[ \begin{smallmatrix}#1 \end{smallmatrix} \right]}
+
+% derivatives and limits
+\newcommand{\partder}[2]{\frac{\partial #1}{\partial #2}}
+\newcommand{\partdern}[3]{\frac{\partial^{#3 #1}}{\partial #2^{#3}}}
+\newcommand{\gradient}{\nabla}
+\newcommand{\subdifferential}{\partial}
+
+% Arrows
+\newcommand{\diverge}{\nearrow}
+\newcommand{\notto}{\nrightarrow}
+\newcommand{\up}{\uparrow}
+\newcommand{\down}{\downarrow}
+% gets and gives are defined!
+
+% ordering operators
+\newcommand{\oleq}{\preceq}
+\newcommand{\ogeq}{\succeq}
+
+% programming and logic operators
+\newcommand{\dfn}{:=}
+\newcommand{\assign}{:=}
+\newcommand{\co}{\ co\ }
+\newcommand{\en}{\ en\ }
+
+
+% logic operators
+\newcommand{\xor}{\oplus}
+\newcommand{\Land}{\bigwedge}
+\newcommand{\Lor}{\bigvee}
+\newcommand{\finish}{\Box}
+\newcommand{\contra}{\Rightarrow \Leftarrow}
+\newcommand{\iseq}{\stackrel{_?{=}}}
+
+
+% Set theory
+\newcommand{\symdiff}{\Delta}
+\newcommand{\setdiff}{\backslash}
+\newcommand{\union}{\cup}
+\newcommand{\inters}{\cap}
+\newcommand{\Union}{\bigcup}
+\newcommand{\Inters}{\bigcap}
+\newcommand{\nullSet}{\phi}
+
+
+% graph theory
+\newcommand{\nbd}{\Gamma}
+
+% Script alphabets
+% For reals, use \Re
+
+% greek letters
+\newcommand{\eps}{\epsilon}
+\newcommand{\del}{\delta}
+\newcommand{\ga}{\alpha}
+\newcommand{\gb}{\beta}
+\newcommand{\gd}{\del}
+\newcommand{\gp}{\pi}
+\newcommand{\gf}{\phi}
+\newcommand{\gh}{\eta}
+\newcommand{\gF}{\Phi}
+\newcommand{\gl}{\lambda}
+\newcommand{\gm}{\mu}
+\newcommand{\gn}{\nu}
+\newcommand{\gr}{\rho}
+\newcommand{\gs}{\sigma}
+\newcommand{\gth}{\theta}
+\newcommand{\gx}{\xi}
+\newcommand{\gw}{\omega}
+
+\newcommand{\sw}{\sigma}
+\newcommand{\SW}{\Sigma}
+\newcommand{\ew}{\lambda}
+\newcommand{\EW}{\Lambda}
+
+\newcommand{\Del}{\Delta}
+\newcommand{\gD}{\Delta}
+\newcommand{\gG}{\Gamma}
+\newcommand{\gW}{\Omega}
+\newcommand{\gS}{\Sigma}
+\newcommand{\gTh}{\Theta}
+
+% Bold english letters.
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bB}{\mathbf{B}}
+\newcommand{\bC}{\mathbf{C}}
+\newcommand{\bD}{\mathbf{D}}
+\newcommand{\bE}{\mathbf{E}}
+\newcommand{\bF}{\mathbf{F}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bI}{\mathbf{I}}
+\newcommand{\bJ}{\mathbf{J}}
+\newcommand{\bK}{\mathbf{K}}
+\newcommand{\bL}{\mathbf{L}}
+\newcommand{\bM}{\mathbf{M}}
+\newcommand{\bN}{\mathbf{N}}
+\newcommand{\bO}{\mathbf{O}}
+\newcommand{\bP}{\mathbf{P}}
+\newcommand{\bQ}{\mathbf{Q}}
+\newcommand{\bR}{\mathbf{R}}
+\newcommand{\bS}{\mathbf{S}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bU}{\mathbf{U}}
+\newcommand{\bV}{\mathbf{V}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\bX}{\mathbf{X}}
+\newcommand{\bY}{\mathbf{Y}}
+\newcommand{\bZ}{\mathbf{Z}}
+
+\newcommand{\bba}{\mathbf{a}}
+\newcommand{\bbb}{\mathbf{b}}
+\newcommand{\bbc}{\mathbf{c}}
+\newcommand{\bbd}{\mathbf{d}}
+\newcommand{\bbe}{\mathbf{e}}
+\newcommand{\bbf}{\mathbf{f}}
+\newcommand{\bbg}{\mathbf{g}}
+\newcommand{\bbh}{\mathbf{h}}
+\newcommand{\bbk}{\mathbf{k}}
+\newcommand{\bbl}{\mathbf{l}}
+\newcommand{\bbm}{\mathbf{m}}
+\newcommand{\bbn}{\mathbf{n}}
+\newcommand{\bbp}{\mathbf{p}}
+\newcommand{\bbq}{\mathbf{q}}
+\newcommand{\bbr}{\mathbf{r}}
+\newcommand{\bbs}{\mathbf{s}}
+\newcommand{\bbt}{\mathbf{t}}
+\newcommand{\bbu}{\mathbf{u}}
+\newcommand{\bbv}{\mathbf{v}}
+\newcommand{\bbw}{\mathbf{w}}
+\newcommand{\bbx}{\mathbf{x}}
+\newcommand{\bby}{\mathbf{y}}
+\newcommand{\bbz}{\mathbf{z}}
+\newcommand{\0}{\mathbf{0}}
+\newcommand{\1}{\mathbf{1}}
+
+% Caligraphic english alphabet
+\newcommand{\cA}{\mathcal{A}}
+\newcommand{\cB}{\mathcal{B}}
+\newcommand{\cC}{\mathcal{C}}
+\newcommand{\cD}{\mathcal{D}}
+\newcommand{\cE}{\mathcal{E}}
+\newcommand{\cF}{\mathcal{F}}
+\newcommand{\cG}{\mathcal{G}}
+\newcommand{\cH}{\mathcal{H}}
+\newcommand{\cI}{\mathcal{I}}
+\newcommand{\cJ}{\mathcal{J}}
+\newcommand{\cK}{\mathcal{K}}
+\newcommand{\cL}{\mathcal{L}}
+\newcommand{\cM}{\mathcal{M}}
+\newcommand{\cN}{\mathcal{N}}
+\newcommand{\cO}{\mathcal{O}}
+\newcommand{\cP}{\mathcal{P}}
+\newcommand{\cQ}{\mathcal{Q}}
+\newcommand{\cR}{\mathcal{R}}
+\newcommand{\cS}{\mathcal{S}}
+\newcommand{\cT}{\mathcal{T}}
+\newcommand{\cU}{\mathcal{U}}
+\newcommand{\cV}{\mathcal{V}}
+\newcommand{\cW}{\mathcal{W}}
+\newcommand{\cX}{\mathcal{X}}
+\newcommand{\cY}{\mathcal{Y}}
+\newcommand{\cZ}{\mathcal{Z}}
+
+
+% Formatting shortcuts
+\newcommand{\red}[1]{\textcolor{red}{#1}}
+\newcommand{\blue}[1]{\textcolor{blue}{#1}}
+\newcommand{\htext}[2]{\texorpdfstring{#1}{#2}}
+
+% Statistics
+\newcommand{\distr}{\sim}
+\newcommand{\stddev}{\sigma}
+\newcommand{\covmatrix}{\Sigma}
+\newcommand{\mean}{\mu}
+\newcommand{\param}{\theta}
+\newcommand{\gthEst}{\hat{\theta}}
+\newcommand{\ftr}{\phi}
+\newcommand{\est}[1]{\hat{#1}}
+
+% General utility
+\newcommand{\todo}[1]{\textbf{[TODO]}] \footnote{TODO: #1}}
+\newcommand{\tbc}{[\textbf{Incomplete}]}
+\newcommand{\chk}{[\textbf{Check}]}
+\newcommand{\why}{[\textbf{Find proof}]}
+\newcommand{\opt}[1]{\textit{#1}}
+
+\newcommand{\experience}[1]{[\textbf{Personal Experience}]: #1 \blacktriangle}
+\newcommand{\pf}[1]{[\textbf{Proof}]: #1 \Box}
+\newcommand{\core}[1]{\textbf{Core Idea}: #1 \Arrowvert}
+\newcommand{\example}[1]{\textbf{Example}: #1 \blacktriangle}
+\newcommand{\error}[1]{\textbf{Error alert}: #1 \triangle}
+\newcommand{\oprob}{[\textbf{OP}]: }
+
+
+\renewcommand{\~}{\htext{$\sim$}{~}}
+
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+
+
+\)
+
+
+
+    
+<header class="p-1 bg-yellow noPrint">
+    <nav role="navigation" class="col">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Misc decompositions</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <button class="btn btn-light"  href="#transliterationDropdown" data-toggle="collapse">
+            ✍
+          </button>
+          <select id="transliterationDropdown" size="1" class="collapse" onchange="module_uiLib.default.content.updateTransliteration()">
+            <optgroup label="🌍">
+              <option value="iso">āISO</option>
+              <option value="iso_vedic">āi-āu</option>
+              <option value="cyrillic">пу</option>
+              <option value="urdu">نس</option>
+              <option value="??">🌍??</option>
+            </optgroup>
+            <optgroup label="🛕🧭S">
+              <option value="kannada">ಅ</option>
+              <option value="malayalam">അ</option>
+              <option value="telugu">క</option>
+              <option value="tamil_superscripted">க²</option>
+              <option value="tamil_extended">க</option>
+              <option value="grantha">𑌅</option>
+            </optgroup>
+            <optgroup label="🛕🧭N">
+              <option value="devanagari" selected="">स</option>
+              <option value="gujarati">અ</option>
+              <option value="gurmukhi">ਅ</option>
+            </optgroup>
+            <optgroup label="🛕🧭E">
+              <option value="oriya">ଅ</option>
+              <option value="assamese">অস</option>
+              <option value="bengali">অ</option>
+            </optgroup>
+            <optgroup label="🛕🏺📜">
+              <option value="sharada">𑆑𑇀𑆰</option>
+              <option value="brahmi">𑀅</option>
+            </optgroup>
+            <optgroup label="🛕🌋">
+              <option value="balinese">ᬩᬮᬶ</option>
+            </optgroup>
+          </select>
+          <div>
+          <button class="btn btn-outline-secondary btn-sm"  href="#transliterationDropdownAlt" data-toggle="collapse">
+          (✍)
+          </button>
+          <select id="transliterationDropdownAlt" size="1"  style="font-size:12px" class="bg-light-yellow collapse" onchange="module_uiLib.default.content.updateTransliteration()">
+            <optgroup label="🌍">
+              <option value="iso">āISO</option>
+              <option value="iso_vedic">āi-āu</option>
+              <option value="cyrillic">пу</option>
+              <option value="urdu">نس</option>
+              <option value="??">🌍??</option>
+            </optgroup>
+            <optgroup label="🛕🧭S">
+              <option value="kannada">ಅ</option>
+              <option value="malayalam">അ</option>
+              <option value="telugu">క</option>
+              <option value="tamil_superscripted">க²</option>
+              <option value="tamil_extended">க</option>
+              <option value="grantha">𑌅</option>
+            </optgroup>
+            <optgroup label="🛕🧭N">
+              <option value="devanagari" selected="">स</option>
+              <option value="gujarati">અ</option>
+              <option value="gurmukhi">ਅ</option>
+            </optgroup>
+            <optgroup label="🛕🧭E">
+              <option value="oriya">ଅ</option>
+              <option value="assamese">অস</option>
+              <option value="bengali">অ</option>
+            </optgroup>
+            <optgroup label="🛕🏺📜">
+              <option value="sharada">𑆑𑇀𑆰</option>
+              <option value="brahmi">𑀅</option>
+            </optgroup>
+            <optgroup label="🛕🌋">
+              <option value="balinese">ᬩᬮᬶ</option>
+            </optgroup>
+          </select>
+          </div>
+          <div class="row col d-flex  dropdown">
+            <button class="btn btn-secondary-outline btn-sm dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              A±
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <a class="btn btn-secondary btn-sm" onclick="module_uiLib.changeTextSize(2)">A+</a>
+            <a class="btn btn-secondary btn-sm" onclick="module_uiLib.changeTextSize(-2)">A-</a>
+            </div>
+          </div>
+          <button class="btn btn-light btn-sm"  href="#commentStyleDropdown" data-toggle="collapse">
+            🗨
+          </button>
+          <select id="commentStyleDropdown" class="collapse" size="1" onchange="module_uiLib.default.content.updateCommentStyleFromDropdown()">
+            <option value="on">✔</option>
+            <option value="hidden">✗</option>
+          </select>
+          <div><a id="expandAllButton" class="btn btn-secondary" onclick="module_uiLib.default.query.setParamsAndGo({'expandDetails': '.*'})">↕️️</a></div>
+          <div id="printStyleDiv" class="row col d-flex  dropdown">
+          <button class="btn btn-light btn-sm dropdown-toggle"  href="#printStyleDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          🖨
+          </button>
+            <div class="dropdown-menu col" aria-labelledby="printStyleDropdown">
+              <div class="row justify-content-center">
+                <p>Cols:</p>
+                <input type="number" min="1" max="10" value="2" step="1" id="tbColumns" style="width: 3ch;"  accesskey="c"/>
+              </div>
+              <div class="row justify-content-center">
+                <p>A±:</p> <input type="text" id="tbBodyFontSize" value="0.4cm" style="width: 6ch;"  accesskey="f"></input>
+              </div>
+              <div class="row justify-content-center">
+                <p>Incl:</p> <input checked type="checkbox" id="tbIncludeStyle" value="on"></input>
+                <button id="btnPrintStyle" onclick="module_uiLib.default.content.updatePrintStyle()">🖨
+                </button>
+              </div>
+            </div>
+        </div>
+        </div>
+        <div id="audioDiv" class="row col d-flex  dropdown">
+          <button class="btn btn-secondary-outline btn-sm dropdown-toggle" type="button" id="audioDropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            🎧
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <a id="speakerButton" class="btn btn-outline-secondary btn-sm" onclick="module_uiLib.default.content.handleSpeakToggle()">⏯</a>
+          <button id="speakerPauseButton" class="btn btn-outline-secondary btn-sm">⏸</button>
+            <div id="audioOptionsDiv" class="row justify-content-center" >
+              <div>
+                <p class="lead">Vol</p>
+                <input type="range" min="0" max="1" value="1" step="0.1" id="volume" />
+                <span id="volume-label" class="ms-2">1</span>
+              </div>
+              <div class="mx-5">
+                <p class="lead">Rate</p>
+                <input type="range" min="0.1" max="10" value="1" id="rate" step="0.1" />
+                <span id="rate-label" class="ms-2">1</span>
+              </div>
+              <div>
+                <p class="lead">Pitch</p>
+                <input type="range" min="0" max="2" value="1" step="0.1" id="pitch" />
+                <span id="pitch-label" class="ms-2">1</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a href="https://vishvAsa.github.io/notes/search"  class="btn btn-light btn-sm">🥽🔦</a>
+        <div class="row col  d-flex justify-content-center">
+          <div><a id="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a id="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border noPrint " id="sidebar">
+          <div id="fastSearch">
+              <datalist id="pageDataList"></datalist>
+              <input id="searchInput" placeholder="शीर्षिकान्विष्यताम्" list="pageDataList" onchange="module_uiLib.default.navigation.pageLoader()">
+          </div>
+          <details open  class="bg-light-gray" >
+              <summary id="sidebarToggleLink" onclick="module_uiLib.default.navigation.sidebarToggleHandler()">
+            Menu
+              </summary>
+              <ul id="sidebarBody" class="list pl2 p-0 bg-yellow">
+              </ul>
+          </details>
+      </aside>
+      <main class="col p-3" role="main" data-pagefind-body>
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Misc decompositions">Misc decompositions</h1>
+    
+    <a id="editLink" class="btn btn-primary noPrint"  href="https://github.com/vishvAsa/notes/edit/content/math/linAlg/matrix/misc_decompositions.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border noPrint ">
+    <details id="toc_header">
+        <summary>What's in this page?</summary>
+      <div id="toc_body" class="p-0">
+        
+        <ul id="toc_ul" class="list p-0">
+        </ul>
+      </div>
+    </details>
+    <div id="progressBarDiv" class="row d-flex justify-content-center">
+      🐎💪<progress id="progressLoading" value="0" max="100"> 32% </progress>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="importance-of-decompositions">Importance of decompositions</h2>
+<p>Very important in restating and understanding the behavior of a linear operator. Also, important in solving problems: get decomposition, use it repeatedly. For algebraic manipulation: Factor the matrix: QR, LU, Eigenvalue decomposition, SVD.</p>
+<h2 id="ew-revealing-decompositions">EW revealing decompositions</h2>
+<p>See section on eigenvalues.</p>
+<h3 id="eigenvalue-decomposition">Eigenvalue decomposition</h3>
+<p>Aka Spectral Decomp. Only if \(A\) diagonalizable.</p>
+<p>Take \(S\): Eigenvectors-as-columns matrix, with independent columns; \(\EW\): Eigenvalue diagonal matrix. Then, AS = SL; So, \(S^{-1}AS = L\); \(A=SLS^{-1}\): a similarity transformation. Also, If AS=SL, S&rsquo;s columns must be eigenvectors.</p>
+<p>A diagonalized into \(\EW\). \(A\) and \(\EW\) are similar.</p>
+<h4 id="non-defectiveness-connection">Non-defectiveness connection</h4>
+<p>\(\exists S^{-1}\EW S\) iff \(A\) is non defective: If \(\exists S^{-1}\EW S\): \(\EW\) diagonal, non defective, so \(A\) non defective; if \(A\) non defective: can make non singular S; thence \(S^{-1}\EW S\).</p>
+<h4 id="left-ev">Left ev</h4>
+<p>\(S^{-1}AS = \EW\), so \(S^{-1}A = \EW S^{-1}\). So, the rows of \(S^{-1} = L\) are the left ev.</p>
+<h4 id="change-of-basis-to-ev">Change of basis to ev</h4>
+<p>\(x = SS^{-1}x = SLx = \sum_i \dprod{x, L_{i, :}} s_i\). Thus, any x can be conveniently rewritten in terms of right ew, with magnitudes of components written in terms of left ew.</p>
+<h4 id="unitary-orth-diagonalizability">Unitary (Orth) diagonalizability</h4>
+<p>For \(A=A^{<em>}\), \(A=-A^{</em>}\), Q etc..</p>
+<p>A unitarily diagonalizable iff it is normal: \(A^{<em>}A = AA^{</em>}\): From uniqueness of SVD, \(US^{2}U^{<em>} = VS^{2}V^{</em>}\); so, \(|U| = |V|\); U and V may only differ in sign. So, for some \(|\EW| = |S|, \)A\( = ULU^{*}\). Aka Spectral theorem.</p>
+<h3 id="htexta--quqschur-factorization">\htext{\(A = QUQ^{*\)}{Schur} factorization}</h3>
+<p>(Schur). \(A\) and upper traingular U similar; all ew on U&rsquo;s diagonal. If \(A=A^{<em>}\), \(U=U^{</em>}\), so U is diagonal.</p>
+<p>Every \(A\) has \(QUQ^{<em>}\): by induction: assume true for m; take any \(\ew\) and corresponding eigenspace \(V_{\ew} \perp V_{\ew}^{\perp}\); use orth vectors from these spaces as bases; in this basis, operator represented by \(A\) has matrix representation \(A&rsquo;=\mat{\ew I_{\ew} &amp; B\ O &amp; C} = Q^{</em>}AQ\); can then repeat the process for C.</p>
+<h2 id="singular-value-decomposition-svd">Singular Value Decomposition (SVD)</h2>
+<h3 id="reduced-thin-svd">Reduced (Thin) SVD</h3>
+<p>If \(m\times n\) \(A\) with \(m&gt;n\), rank r = n, unitary \(n\times n\) \(V = [v_{i}]\), unitary \(m\times n: \hat{U}=[u_{i}], n\times n: \hat{\SW} = \) diagonal matrix with \({\sw_{i} \geq 0}\) in descending order, \(AV=\hat{U}\hat{\SW}\); then \(A=\hat{U}\hat{\SW}V^{*}\). If \(r&lt;n\); still get reduced SVD by padding V with \(\perp\) vectors, \(\hat{U}\) with appropriate \(\perp\) vectors, \(\SW\) with 0 diagonalled columns.</p>
+<h3 id="full-svd">Full SVD</h3>
+<p>Pad \(\hat{U}\) with m-r \(\perp\) vectors, \(\hat{\SW}\) with 0&rsquo;s to make U \(m \times m\), invertible; V stays same; \(A=U\SW V^{<em>}\). So, SVD for \(m&lt;n\): \(A^{</em>}=V\SW U^{<em>}\). So, \(A^{</em>}U=V\SW\). Also, \(Av_{i} = u_{i}\sw_{i}\). So, \(range(A)=u_{1} \dots u_{r}\), \(range(A^{<em>})=v_{1} \dots v_{r}\), \(N(A)=v_{r+1} \dots v_{m}\) (\(Av_{r+1}=0\)), \(N(A^{</em>})=u_{r+1} \dots u_{n}\).</p>
+<h3 id="geometric-view">Geometric view</h3>
+<p>Take \(Ax = U\SW V^{<em>}x\): \(V^{</em>}\) rotates the unit ball to unit ball: \(v_{i} \to e_{i}\), \(\SW\) stretches unit ball along axes to make it hyperellipse, U rotates it. Every \(A\) with SVD maps unit ball to hyperellipse (Eqn: \(\sum \frac{x_{i}^{2}}{\sw_{i}^{2}} = 1\)): Orthonormal \({v_{i}}\) (left singular vectors) mapped to orthogonal \({u_{i}\sw_{i}}\) (Principle semiaxes, orthonormal right singular vectors \(\times\) singular values). So \(\sw_{1} = \norm{A}<em>{2}\), \(\sw</em>{n} = \norm{A^{-1}}_{2}\).</p>
+<p>From geometric action of \(U\SW V^{*}x\), every \(A\) with SVD is a diagonal matrix when domain and range bases are altered (See \(Ax=b\) as \(AVx&rsquo;=Ub&rsquo;\), then \(\SW x&rsquo;=b&rsquo;\)). &lsquo;If ye want to understand \(A\), take its SVD.&rsquo;</p>
+<h3 id="existance">Existance</h3>
+<p>Every \(A\) has a SVD: by induction; prove 1<em>1 case; assume (m-1)</em>(n-1) case  \(B=U_{2}\SW_{2}V_{2}^{<em>}\); take m</em>n A; \(\sw_{1} = \norm{A}<em>{2} = \sup |Av|</em>{2}\); so \(\exists v_{1}\) in the unit ball with \(Av_{1} = u_{1}\sw_{1}\); So extend \(v_{1}\) and \(u_{1}\) to orthonormal \(V_{1}\) and \(U_{1}\), make \(\SW_{1}\) solving \(U_{1}^{*}AV_{1}=\SW_{1}\); 1st col is \(\sw_{1}\); as \(\norm{A}=\norm{\SW} = \sw_{1}\), non-diag elements of 1st row gotto be 0; let rest of \(\sw_{1}=B\).</p>
+<h3 id="conditional-uniqueness-up-to-a-sign">Conditional uniqueness up to a sign</h3>
+<p>SVD is unique if \(\set{\sw_{i}}\) unique (&lsquo;up to sign&rsquo;): write Hyperellipse ellipse semiaxes in descending order; but can reverse sign of \(u_{i}\), \(v_{i}\) or can multiply them with any suitable pair of complex roots of 1.</p>
+<h3 id="singular-value-properties">Singular value properties</h3>
+<p>See another section.</p>
+<h3 id="finding-svd-using-evd">Finding SVD using EVD</h3>
+<p>Use eigenvalue decompositions: \(AA^{<em>} = U \SW^{2}U^{</em>}\), and \(A^{<em>}A = V \SW^{2}V^{</em>}\). Otherwise, find eigenvalue decomposition of \(B = \mat{0 &amp; A\ A^{T} &amp; 0}\): then ew(A) are composed of zeros and sw(A) repeated with different signs. ev of B is \((\sqrt{2})^{-1}\mat{U_n &amp; V\ \sqrt{2}U_{m-n} &amp; 0}\).</p>
+<h3 id="polar-decomposition">Polar decomposition</h3>
+<p>\(m \leq n\): take SVD
+$$A = U [\SW\ 0] [V_{1}\ V_{2}]^{<em>} = U \SW V_{1}^{</em>},\
+P^{2} = AA^{<em>} = U \SW^{2}U^{</em>}\(: +ve semidefinite; take \)P = U \SW U^{<em>}\(: Hermitian +ve semidefinite. So, \)A = U \SW V_{1}^{</em>} = PUV_{1}^{*} = PY$$, where Y has orthonormal rows.</p>
+<p>So, if \(m \geq n\): \(A = YQ\) for Hermitian +ve semidefinite Q, Y with orth columns: apply thm to \(A^{*}\).</p>
+<h2 id="pa--lu">PA = LU</h2>
+<p>Here unit lower triangular L, upper triangular U.</p>
+<p>Can also make: PA = LDU: For , unit upper triangular U, diagonal D.</p>
+<h3 id="existance-and-uniqueness">Existance and uniqueness</h3>
+<h4 id="existance-1">Existance</h4>
+<p>See triangularization by row elimination algorithm in numerical analysis ref. That this runs to completion proves existance.</p>
+<h4 id="uniqueness-if-pi">Uniqueness if P=I</h4>
+<p>A = LU unique: Else if \(LU = L&rsquo;U&rsquo;\), \(L&rsquo;^{-1}L = U&rsquo;U^{-1}\): absurd. So A=LDU unique.</p>
+<h3 id="for-hermitian-positive-definite-matrices">For hermitian positive definite matrices</h3>
+<p>As \(A \succeq 0\), P = I.</p>
+<p>As \(A = LDU = A^{<em>}\), can take \(A = RR^{</em>}\), where R = \(LD^{1/2}\) (Cholesky). It is also unique: \(r_{j,j} = \sqrt{d_{j,j}} &gt;0\) fixed by definition; it inturn fixes rest of R.</p>
+<h3 id="importance">Importance</h3>
+<p>Very useful in solving linear equations invloving the same matrix A: can store L, U for repeated reuse.</p>
+<h2 id="a--qr--lq">A = QR = LQ&rsquo;</h2>
+<p>Express columns of \(A\) as linear combinations of orthogonal \(\set{q_i}\). For proof of existance, see triangular orthonormalization algorithm in numerical analysis ref.</p>
+<p>Taking the QR factorization of \(A^{T}\), you also get \(A = LQ^{T}\), where \(L\) is lower triangular.</p>
+<h3 id="importance-1">Importance</h3>
+<p>Often, we need to get an orthogonal basis for range(A).</p>
+<h3 id="column-rank-deficient-a">Column Rank deficient A</h3>
+<p>If \(A\) were rank deficient, multiple columns would be linear combinations of same set of \(q_i\)&rsquo;s.  As Q is square, we would have 0 rows .</p>
+<h4 id="rank-revealing-qr">Rank revealing QR</h4>
+<p>In such cases, we can always assume that the 0 rows appear at the bottom, revealing the rank.</p>
+<h2 id="factorization-of-hermitian-matrices">Factorization of Hermitian matrices</h2>
+<h3 id="unitary-diagonalizability-svd">Unitary diagonalizability, SVD</h3>
+<p>From Schur factorization: Can write \(A=Q \EW Q^{<em>}\). So, has full set of orthogonal eigenvectors. So, can write: \(A = \sum_i \ew_i q_i q_i^{</em>}\).</p>
+<p>Also, singular values \(s_{i}= |\ew_{i}|\), but can&rsquo;t write \(A = U \SW V^{<em>} = U \SW U^{</em>}\): there may be sign difference between U and V&rsquo;s columns due to \(\ew_i &lt; 0\).</p>
+<h3 id="symmetric-ldu-factorization">Symmetric LDU factorization</h3>
+<p>(Cholesky). \(A = R^{<em>}R\). As \(A = LDU^{</em>}=UDL^{<em>}\), \(L=U^{</em>}\). So, \(A = LDL^{<em>} = LD^{1/2}D^{1/2}L^{</em>} = R^{*}R\); \(d_{j,j} &gt; 0\) as \(a_{j,j}&gt;0\); \(r_{j,j} = \sqrt{d_{j,j}} &gt;0\) chosen.</p>
+<p>By SVD, \(\norm{R}^{2} = \norm{A}\).</p>
+<h3 id="square-root-of-semidefinite-a">Square root of semidefinite A</h3>
+<p>\(A = (A^{1/2})^{<em>}A^{1/2}\). Diagonalize, get \(A = QLQ^{</em>}\), \(A^{1/2} = QL^{1/2}Q^{*}\) : the unique +ve semidefinite solution.</p>
+<h2 id="special-linear-operators">Special linear operators</h2>
+<h3 id="orthogonal-unitary-mn-matrix">Orthogonal (Unitary) m*n matrix</h3>
+<p>Columns orthonormal: \(Q^{*}Q=I\); and \(m \leq n\).</p>
+<h4 id="change-of-basis-operation">Change of basis operation</h4>
+<p>Qx=b: \(x=Q^{*}b\): so, x has magnitudes of projections of b on q&rsquo;s: Change of basis op.</p>
+<p>Alternative view: \(Q^{*}(\sum a_{i}q_{i}) = \sum a_{i}e_{i}\).</p>
+<h4 id="preservation-of-angles-and-2-norms">Preservation of angles and 2 norms</h4>
+<p>So, \(\dprod{Qa, Qb} = b^{<em>}Q^{</em>}Qa = \dprod{a,b}\). Also, \(\norm{Qx} = \norm{x}\): So, length, angle preserved; analogous to \(z \in C\), with \(|z| = 1\). If \(\norm{Qx} = \norm{x}\), \(Q^{*}Q = I\).</p>
+<h3 id="square-unitary-matrix">Square Unitary matrix</h3>
+<h4 id="orthogonality-of-rows">Orthogonality of rows</h4>
+<p>If Q square, even rows orthogonal: \(Q^{<em>}Q=I \implies QQ^{</em>}=I\): \(q_{i}^{*}q_{j} = \change_{i,j}\) (Kronecker \(\change\) = 1 iff i=j, else 0.).</p>
+<h4 id="rotation--reflection">Rotation + reflection</h4>
+<p>Because of its being a change of basis operation, by geometry, \(Q\) is rotation or reflection or a combination thereof.</p>
+<p>The distinction between orthogonal matrices constructed purely out of rotation matrices (proper rotation), and those involving orthogonal matrices which involve reflections (improper rotation) is important in geometric computations: in applications such as robotics, computational biology etc..</p>
+<h4 id="determinant">Determinant</h4>
+<p>\(det(Q) = \pm1 : det(Q^{*}Q) = det(I) = 1\).</p>
+<p>\(Q\) is a rotation if \(|Q|=1\) or a reflection if \(|Q|=-1\): True for m=2; For \(m &gt;2\), see that determinant is multiplicative.</p>
+<h4 id="permutation-matrix-p">Permutation matrix P</h4>
+<p>A permuted I. Permutes rows (PA) or columns (AP). Partial permutation matrix: every row or column has \(\leq 1\) (maybe 0) nz value.</p>
+<h4 id="rotation-matrix">Rotation matrix</h4>
+<p>To make a rotation matrix, take new orthogonal basis \((u_i)\): the coordinate system is rotated, \(e_i \to u_i\), get matrix U. \((U^{<em>}x)_i = u_i^{</em>}x\): x rotated. Note: \(U^{*}u_i  = e_i\).</p>
+<h4 id="reflection-matrix">Reflection matrix</h4>
+<p>Take reflection accross some basis vector (not any axis). This is just I with -1 instead of some 1.</p>
+<h2 id="linear-projector-p-to-a-subspace-s">Linear Projector P to a subspace S</h2>
+<h3 id="using-general-projection-definition">Using General projection definition</h3>
+<p>See definition of the generalized projection operation in vector spaces ref. Here, we consider the case where projection happens to be a linear operator: that is, it corresponds to the minimization of a convex quadratic vector functional, where the feasible set is a vector space, the range space of the projector \(P\).</p>
+<h3 id="definition-for-the-linear-case">Definition for the linear case</h3>
+<p>P such that \(P^{2}=P\): so, a vector already in S is not affected.</p>
+<p>(I-P) projects to N(P): If Pv=0, (I-P)v=v; vice versa. Rank r projectors project to r dimension space.</p>
+<p>Oblique projectors project along non orthogonal basis.</p>
+<h3 id="orthogonal-projector">Orthogonal projector</h3>
+<p>Here, \((I-P)x \perp Px\): Eg: projectors which arise from solving the least squares problem. Ortho-projectors \(\neq\) orthogonal matrices.</p>
+<p>If P=P*, P orth projector: If P=P*, \(\dprod{(I-P)x, Px} = 0\). If P orth proj; make orthonormal basis for range(P), N(P); get Q; now \(PQ= Q\SW\), with \(\sw_{i}\) 1 or 0 suitably: SVD! So, if P orth proj, P=P*.</p>
+<p>Ergo, (I-P) also orth proj. Also, \(P = \hat{Q}\hat{Q}^{<em>}\) (As \(A = \hat{Q}\hat{R}\)): Also from \(v = r + \sum (q_{i}q_{i}^{</em>})v\). All \(\hat{Q}\hat{Q}^{*}\) orth proj: satisfy props.</p>
+<p>\(\norm{P} = 1\). \why</p>
+<h2 id="hermitian-matrix">Hermitian matrix</h2>
+<p>Aka Self Adjoint Operator. Symmetric matrix: \(A=A^{T}\). It generalizes to Hermitian matrix \(A=A^{*}\); analogous to \(R \subseteq C\). Not all symmetric matrices are Hermitian.</p>
+<p>Notation: Symmetric matrices in \(R^{n \times n}: S^{n}\); +ve definite among them: \(S^{n}_{++}\).</p>
+<p>Skew/ anti symmetric matrix: \(A= -A^{T}\), generalizes to skew Hermitian.</p>
+<p>\(\dprod{Ax, y} = y^{<em>}Ax = \dprod{x, A^{</em>}y}\).</p>
+<h3 id="importance-2">Importance</h3>
+<p>Appears often in analysis: Any \(B = \frac{B+B^{<em>}}{2} + \frac{B-B^{</em>}}{2}\): Hermitian + Skew Hermitian. Also in projector.</p>
+<p>Many applications: Eg: Covariance matrix, adjascency matrix, kernel matrix.</p>
+<h3 id="self-adjointness-under-m">Self adjointness under M</h3>
+<p>For SPD \(A\), M, \(M^{-1}A\) self adjoint under M as \(\dprod{x, M^{-1}Ay}<em>{M} = y^{*}Ax = \dprod{M^{-1}Ax, y}</em>{M}\).</p>
+<h3 id="eigenvalues-ew">Eigenvalues (ew)</h3>
+<p>All eigenvalues real: \
+\(\conj{l}x^{<em>}x = (lx)^{</em>}x = (Ax)^{<em>}x = x^{</em>}(Ax) = lx^{*}x\), so \(\conj{l}=l\).</p>
+<p>ev of Distinct ew are orthogonal: \(x_{2}^{<em>}Ax_{1} = l_{1}x_{2}^{</em>}x_{1} = l_{2}x_{2}^{<em>}x_{1}, \therefore x_{2}^{</em>}x_{1}(l_{1}-l_{2}) = 0\).</p>
+<h4 id="sw-and-norm">sw and norm</h4>
+<p>Unitary diagonalizability possible for A: see section on factorization of hermitian matrices. Thence, \(|\ew(A)| = \sw(A)\); so \(|\ew_max(A)| = \norm{A}\).</p>
+<h3 id="factorizations">Factorizations</h3>
+<p>For details, see section on factorization of hermitian matrices.</p>
+<h3 id="skewed-inner-prod-htextxax">Skewed inner prod \htext{\(x^{*Ax\)}{..}}</h3>
+<p>\(x^{<em>}Ay = (y^{</em>}Ax)^{<em>}\). So, \(x^{</em>}Ax = \conj{x^{<em>}Ax}\); so \(x^{</em>}Ax\) real.</p>
+<h2 id="ve-definiteness">+ve definiteness</h2>
+<h3 id="definition">Definition</h3>
+<p>If \(\forall 0 \neq x \in C^{n}: x^{<em>}Ax \in R; x^{</em>}Ax \geq 0\), \(A\) +ve semi-definite, or non-negative definitene.</p>
+<p>If \(x^{*}Ax &gt; 0\), +ve definite: \(A \succ 0\).</p>
+<p>Similarly, -ve (semi-)definite defined.</p>
+<h4 id="importance-3">Importance</h4>
+<p>Important because Hessians of convex quadratic functionals are +ve semidefinite. Also, it is importance because of its connections with ew(A).</p>
+<h3 id="ve-semidefinite-cone">+ve semidefinite cone</h3>
+<p>The set of +ve semidefinite matrices, is a proper cone. If restricted to symmetric matrices, get \(S_+^{n}\).</p>
+<h4 id="matrix-inequalities">Matrix inequalities</h4>
+<p>Hence, inequalities wrt the cone defined. +++(Can write \(A \succeq 0\) to say \(A\) is +ve def.)+++ This is what is usually assumed by \(\succeq\) when dealing with +ve semidefinite matrices - not elementwise inequalities.</p>
+<h5 id="linear-matrix-inequality-lmi">Linear matrix inequality (LMI)</h5>
+<p>\(A_0 + \sum x_i A_i \preceq 0\). Note that this is equivalent to having \(A \preceq 0\) with \(A_{i,j} = a_{ij}^{T}x + b_{ij}\) form. Used in defining semidefinite programming.</p>
+<h4 id="analogy-with-reals">Analogy with reals</h4>
+<p>Hermitians analogous to R, +ve semidef like \(\set{0} \union R^{+}\), +ve def like \(R^{+}\) in \(\mathbb{C}\).</p>
+<h4 id="support-number-of-a-pencil">Support number of a pencil</h4>
+<p>\(s(A, B) = \argmin t: tB - \)A\( \succeq 0\).</p>
+<h3 id="non-hermitian-examples">Non hermitian examples</h3>
+<p>Need not be hermitian always. \
+Then, as \(x^{<em>}Bx = x^{</em>}B^{<em>}x\), anti symmetric part in \(B = \frac{B+B^{</em>}}{2} + \frac{B-B^{*}}{2}\) has no effect.</p>
+<h3 id="diagonal-elements-blocks">Diagonal elements, blocks</h3>
+<p>\(e_{i}^{*}Ae_{i} = a_{i,i}\). So, \(a_{i,i}\) real. \(a_{i,i} \geq 0\) if \(A\) +ve semidefinite; \(a_{i,i}&gt; 0\) if \(A\) +ve definite; but converse untrue.</p>
+<p>Similarly, for \(X \in C^{m\times n}\) invertible: \(X^{<em>}AX\) has same +ve definiteness as A. Taking X composed of \(e_{i}\), any principle submatrix \(A_{i,i}\) can be writ as \(X^{</em>}AX\); so \(A_{i,i}\) has same positive definiteness as A.</p>
+<h4 id="off-diagonal-block-signs-invertible">Off-diagonal block signs invertible</h4>
+<p>Off-diagonal block signs are invertible without loosing +ve semidefiniteness. Pf: If \(\mat{x^{T} &amp; y^{T}}\mat{A &amp; B \ C &amp; D}\mat{x \ y} \geq 0 \forall \mat{x \ y}\), then \(\mat{x^{T} &amp; y^{T}}\mat{A &amp; -B \ -C &amp; D}\mat{x \ y} \geq 0 \forall \mat{x \ y}\).</p>
+<h3 id="eigenvalues-real-ve">Eigenvalues: Real, +ve?</h3>
+<p>\(\forall i: \ew_i \in R\): take ev \(x\), must be able to compare \(x^{T}Ax = \gl x^{*}x\) with 0.</p>
+<p>If \(A \succeq 0\), ew \(\ew_i \geq 0\): \(\ew_i x^{<em>}x = x^{</em>}Ax \geq 0\). Also, if \(A \succ 0\), \(\ew_i &gt; 0\).</p>
+<h4 id="determinant-1">Determinant</h4>
+<p>\(det(A) = \prod \gl_i \geq 0\).</p>
+<h3 id="ve-inner-products">+ve inner products</h3>
+<p>For +ve definite matrices, get +ve inner products: Take eigenvalue decompositions: \(A = \sum_i \ew_i q_i q_i^{T}, B = \sum_i l_i p_i p_i^{T}\).</p>
+<p>So, the +ve definite cone is self dual.</p>
+<h3 id="invertibility">Invertibility</h3>
+<p>If \(A\) +ve def., \(A\) is invertible: \(\forall x\neq 0: x^{*}Ax \neq 0\), so \(Ax \neq 0\); so \(A\) has no nullspace. If \(A\) +ve semi-def, can&rsquo;t say this.</p>
+<h2 id="hermitian-ve-definiteness">Hermitian +ve definiteness</h2>
+<p>Also, see properties of not-necessarily symmetric +ve semidefinite matrices.</p>
+<h3 id="from-general-matrices">From general matrices</h3>
+<p>Any \(B^{<em>}B\) or \(BB^{</em>}\) hermitian, +ve semidefinite: \(x^{<em>}B^{</em>}Bx = \norm{Bx}\). So, if B invertible, \(B^{<em>}B\) is +ve definite. So, if B is long and thin, \(B^{</em>}B\) is +ve definite, but if B is short and fat: so singular, \(B^{*}B\) is +ve semi-definite, also singular.</p>
+<h3 id="connection-to-ew">Connection to ew</h3>
+<p>If \(A = A^{<em>}\), all eigenvalues \(l&gt;0\), then \(A\) is +ve definite: \(x^{</em>}Ax \in R\), \(x^{<em>}Ax = x^{</em>}U\EW U^{*}x = \sum \ew_{i}x_{i}^{2}\).</p>
+<p>Magnitudes of ew same as that of sw: as you can easily derive SVD from eigenvalue decomposition. So, singular value properties carry over.</p>
+<h3 id="connection-to-the-diagonal">Connection to the diagonal</h3>
+<h4 id="diagonal-dominance">Diagonal dominance</h4>
+<p>If \(A = A^{*}\), diagonal dominance and non-negativity of \(A_{i,i}\) also holds, then \(A\) is +ve semidefinite. See diagonal dominant matrices section for proof.</p>
+<h4 id="diagonal-heaviness">Diagonal heaviness</h4>
+<p>The biggest element of \(A\) is the biggest diagonal element. For some k : \(a_{k,k} \geq a_{i,j} \forall i,j\). Pf: Suppose \(a_{i,j} &gt; a_{k,k}\); then consider submatrix \(B = \mat{a_{i,i} &amp; a_{i, j}\ a_{i, j} &amp; a_{j,j}}\); \(B \succeq 0\), but due to assumption \(|B| \leq 0\), hence \(\contra\).</p>
+<h3 id="check-for-ve-semi-definiteness">Check for +ve (semi) definiteness</h3>
+<p>Do Gaussian elimination, see if pivots \(\geq 0\). \(x^{<em>}Ax = x^{</em>}LDL^{<em>}x\), if pivots good, can say \(= \norm{D^{1/2}L^{</em>}x} \geq 0\).</p>
+<h3 id="block-matrices-schur-complement-connection">Block matrices: Schur complement connection</h3>
+<p>Take \(X = \mat{A &amp; B \ B^{T} &amp; C}\), \(S  = C - B^{T}A^{-1}B\). Then, if \(A \succ 0\), \(X \succeq 0 \equiv S \succeq 0\). Also, \(X \succeq 0 \equiv (A \succ 0 \land S \succ 0)\).</p>
+<h4 id="proof-rewrite-as-optimization-problem">Proof: rewrite as optimization problem</h4>
+<p>Take \(f(u, v) = u^{T}Au + 2v^{T}B^{T}u + v^{T}Cv = \mat{u^{T} &amp; v^{T}}X \mat{u \ v}\). Solve \(\min_u f(u, v)\). By setting \(\gradient_u f(u, v) = 0\), get minimizer \(u&rsquo; = -A^{-1}Bv\), \(f(u&rsquo;, v) = v^{T}Sv\).</p>
+<h3 id="ve-semidefinite-cone-1">+ve semidefinite cone</h3>
+<p>Denoted by \(S_{++}^{n}\) and \(S_{+}^{n}\).</p>
+<h4 id="self-duality">Self duality</h4>
+<p>If \(A, B \succeq 0\), \(\dprod{A, B} = \dprod{\sum_i \ew_i q_i q_i^{<em>}, \sum_j \ew&rsquo;_i q_j q_j^{</em>}} \geq 0\). So, dual of \(S_{++}^{n}\) is itself.</p>
+<p>When you consider the dual of a semidefinite program, this is important.</p>
+<h2 id="speciality-of-the-diagonal">Speciality of the diagonal</h2>
+<h3 id="diagonally-dominant-matrix">Diagonally dominant matrix</h3>
+<p>\(|A_{i,j}| \geq \sum_{j \neq i} A_{i,j}\).</p>
+<h4 id="hermitian-ness-and-ve-semidefiniteness">Hermitian-ness and +ve semidefiniteness</h4>
+<p>A hermitian diagonally dominant matrix with non-negative diagonal elements is +ve semi-definite. Pf: Take \(x^{T}Ax = \sum_{i,j} A_{i,j}x_i x_j \geq \sum |A_{i,j}|(x_i - x_j)^{2}\). The decomposition reminds one of properties of the graph laplacian. Alternate pf: take ev u, taking \(Au = \ew u\), show \(\ew \geq 0\).</p>
+<p>If symmetry condition is dropped, +ve semidefiniteness need not hold.</p>
+<h2 id="other-matrices-of-note">Other Matrices of note</h2>
+<h3 id="interesting-matrix-types">Interesting matrix types</h3>
+<p>Block matrix; Block tridiagonal matrix.</p>
+<h3 id="triangular-matrix">Triangular matrix</h3>
+<p>Inverse of L, L&rsquo; is easy to find: \(L&rsquo;<em>{i,i} = L</em>{i,i}^{-1}; L&rsquo;<em>{i, j} = -L</em>{i,j}^{-1}\).</p>
+<p>ew are on diagonal.</p>
+<h3 id="polynomial-matrix">Polynomial matrix</h3>
+<p>\(P = \sum A(n)x^{n}\): Also a matrix of polynomials.</p>
+<h3 id="normal-matrix">Normal matrix</h3>
+<p>\(A^{<em>}A= AA^{</em>}\). By spectral thm, \(A = Q \EW Q^{*}\). Exactly the class of orthogonally diagonalizable matrix.</p>
+<p>Let \(a = (a_{i,i}), \ew = (ew_{i})\): By direct computation, \(a = S\ew\), where \(S = [|q_{ij}|^{2}] = Q.\bar{Q}\) is stochastic.</p>
+<h3 id="rank-1-perturbation-of-i">Rank 1 perturbation of I</h3>
+<p>\(A=I+uv^{<em>}\). Easily invertible: \(A^{-1} = I + auv^{</em>}\) for some scalar a.</p>
+<h3 id="k-partial-isometry">k partial isometry</h3>
+<p>\(A = U \SW V^{*}\) with \(\SW = \mat{I_{k} &amp; 0 \ 0 &amp; 0}\).</p>
+<h2 id="positive-matrix-a">Positive matrix A</h2>
+<h3 id="get-doubly-stochastic-matrix">Get Doubly stochastic matrix</h3>
+<p>This is important in some applications: like making a composite matrix from the social and affiliation networks.</p>
+<p>If \(A = A&rsquo;\), This can be done by first dividing by the largest entry, and then adding appropriate entries to the diagonal.</p>
+<p>Can do Sinkhorn balancing: iteratively a] do row normalization, b] column normalization.</p>
+<h2 id="stochastic-matrices">Stochastic matrices</h2>
+<h3 id="definition-1">Definition</h3>
+<p>If \(A\) is stochastic, A1 = 1, \(A\geq 0\).</p>
+<h3 id="eigenspectrum-and-norm-square-a">Eigenspectrum and norm: Square A</h3>
+<h4 id="1-is-an-ev">1 is an ev</h4>
+<p>If \(A\) is stochastic, A1 = 1. So, 1 is an ew, and 1 is the correspondingn ev.</p>
+<p>By Gerschgorin thm, \(\ew(A) \in [-1, 1]\), so, \(\ew_max = 1\).</p>
+<p>If \(A\) is also real and symmetric, can get SVD from eigenvalue decomposition, and \(\sw_max = \norm{A}_2 = 1\).</p>
+<h3 id="product-of-stochastic-matrices">Product of stochastic matrices</h3>
+<p>So, if \(A\), B stochastic, AB1 = 1, \(1^{<em>}AB = 1^{</em>}\): AB also stochastic.</p>
+<h3 id="doubly-stochastic-matrix-s">Doubly Stochastic matrix S</h3>
+<p>S is bistochastic if \(S \geq 0, S1 = 1, 1^{<em>}S = 1^{</em>}\).</p>
+<p>(Birkhoff): \(\set{S}\) = set of finite convex combos of permutation matrices \(P_{i}\). Pf of \(\to\): If convex combo of \(\set{P_{i}}\), S stochastic. Every \(P_{i}\) is extreme point of \(\set{S}\). Every non permutation stochastic matrix \(A\) is convex combo of stochastic matrices X = \(A\) + aB and Y = \(A\) - aB; where B and a are found thus: pick nz \(a_{ij}\) in row with \(\geq 2\) nz entries, then pick nz \(a_{kj}\), then pick nz \(a_{k,l}\) etc.. till you hit \(a_{i&rsquo;,j&rsquo;}\) seen before; take this sequence T, set \(a = \min T\); make \(\pm 1, 0\) matrix B by setting entries corresponding to alternate elements in T 1 or -1. \(\set{S}\) is compact and convex set with \(\set{P_{i}}\) as extreme points.</p>
+<h3 id="doubly-substochastic-matrix-q">Doubly Substochastic matrix Q</h3>
+<p>\(equiv\) \(Q1 \leq 1, 1^{*}Q \leq 1\).</p>
+<p>For permutation matrix P, PQ or QP also substochastic.</p>
+<p>Q is dbl substochastic iff B has dbl stochastic dilation S: make deficiency vectors \(d_{r}, d_{c}\); get difference matrix \(D_{r}  = diag(d_{r}), D_{c}  = diag(d_{c})\); get \(S = \mat{Q &amp; D_{r}\ D_{c}^{T} &amp; Q^{T}}\).</p>
+<p>\(\set{Q}\) equivalent to set of convex combos of partial permutation matrices: Dilate Q to S, get finite convex combo of \(P_{i}\), take the convex combo of principle submatrices.</p>
+<p>\(Q \in C^{nn}\) is dbl substochastic iff \(\exists\) dbl stochastic \(S\in C^{nn}\) with \(A \geq B\): Take any Q, get finite convex combo of partial permutation matrices; alter each to get permutation matrix; their convex combo is S.</p>
+<h2 id="large-matrices">Large matrices</h2>
+<p>Often an approximation to \(\infty\) size matrices; so have structure or regularity.</p>
+<h3 id="sparsity">Sparsity</h3>
+<p>Not density. Very few non zero entries per row: \(\nu\). Can find Ax in \(O(\nu m)\), not \(O(m^{2})\) flops. Can find AB in \(O(mn \nu)\).</p>
+<h3 id="iterative-algorithms">Iterative algorithms</h3>
+<p>See numerical analysis ref.</p>
+
+  </div>
+</article>
+
+
+        
+
+        
+
+
+
+    <aside class="card border noPrint" id="section-tree-item-math_linAlg_matrix_misc_decompositions_md">
+        <div class="card-title bg-light-gray border d-flex justify-content-between">
+            <a href="https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/">Misc decompositions </a>
+            <a data-toggle="collapse" href="#section-tree-item-body-math_linAlg_matrix_misc_decompositions_md" role="button" aria-expanded="false" aria-controls="section-tree-item-body-math_linAlg_matrix_misc_decompositions_md" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+        </div>
+        <nav id="section-tree-item-body-math_linAlg_matrix_misc_decompositions_md" class="card-body p-0 collapse">
+            
+            <li>draft: false</li>
+            
+            <li>iscjklanguage: false</li>
+            
+            <li>title: Misc decompositions</li>
+            
+        </nav>
+    </aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1 noPrint" role="contentinfo">
+  
+
+  <div id="div_foot_nav_bar" class="row">
+    <a href="https://vishvAsa.github.io/notes/search"  class="btn btn-light btn-sm">🥽🔦</a>
+    <div class="row col  d-flex justify-content-center">
+      <div><a id="previousPageFoot" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+      <div ><a id="nextPageFoot" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+    </div>
+      <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+      </ul>
+  </div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vishvAsa/notes/issues/new" >
+      ✉️Contact
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      
+      <a href="https://github.com/vishvAsa/notes/actions/workflows/build.yml"><img src="https://github.com/vishvAsa/notes/actions/workflows/build.yml/badge.svg"> Built </a> on 2026 Feb 12 01:34:45 UTC. (<a href="http://google.com/search?q=01%3a34%3a45%20UTC to IST">IST</a>)
+    </div>
+  </div>
+</footer>
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-33H08JSLQR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-33H08JSLQR');
+</script>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_uiLib.onDocumentReadyTasks();
+  </script>
+  
+</html>

@@ -1,0 +1,775 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | 1 Quadratic</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.143.0">
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/notes/computing/optimization/4_convex_programming/1_quadratic/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/notes/computing/optimization/4_convex_programming/1_quadratic/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:url" content="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/">
+  <meta property="og:site_name" content="Vishvas&#39;s notes">
+  <meta property="og:title" content="1 Quadratic">
+  <meta property="og:description" content="For ideas about its importance - both in solving general convex optimization problems and in other domains, look at the ‘Least squares’ chapter.
+Linear Constrained QP Aka Quadratic programming. Minimize convex quadratic functional over a polyhedron (see vector spaces survey). Generalizes linear programming, special case of QCQP.
+Visualization If optimal value occurs when a constraint is active: Think of contours of the objective hitting an edge of the polyhedron. Slightly harder than in the LP case, where the minimum always occured in a vertex.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="computing">
+
+  <meta itemprop="name" content="1 Quadratic">
+  <meta itemprop="description" content="For ideas about its importance - both in solving general convex optimization problems and in other domains, look at the ‘Least squares’ chapter.
+Linear Constrained QP Aka Quadratic programming. Minimize convex quadratic functional over a polyhedron (see vector spaces survey). Generalizes linear programming, special case of QCQP.
+Visualization If optimal value occurs when a constraint is active: Think of contours of the objective hitting an edge of the polyhedron. Slightly harder than in the LP case, where the minimum always occured in a vertex.">
+  <meta itemprop="wordCount" content="1756">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="1 Quadratic">
+  <meta name="twitter:description" content="For ideas about its importance - both in solving general convex optimization problems and in other domains, look at the ‘Least squares’ chapter.
+Linear Constrained QP Aka Quadratic programming. Minimize convex quadratic functional over a polyhedron (see vector spaces survey). Generalizes linear programming, special case of QCQP.
+Visualization If optimal value occurs when a constraint is active: Think of contours of the objective hitting an edge of the polyhedron. Slightly harder than in the LP case, where the minimum always occured in a vertex.">
+<script type="text/javascript">
+    
+    let baseURL = "https:\/\/vishvAsa.github.io\/notes\/";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022build_img\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/actions\/workflows\/build.yml\/badge.svg\u0022,\u0022build_url\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/actions\/workflows\/build.yml\u0022,\u0022contactlink\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/issues\/new\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vishvAsa\/notes\/edit\/content\/\u0022,\u0022js_extras\u0022:[\u0022mathjax\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022देवः\u0022,\u0022url\u0022:\u0022..\/devaH\/\u0022},{\u0022title\u0022:\u0022आगमः\u0022,\u0022url\u0022:\u0022..\/AgamaH\/\u0022},{\u0022title\u0022:\u0022आगमः शैवः\u0022,\u0022url\u0022:\u0022..\/AgamaH_shaivaH\/\u0022},{\u0022title\u0022:\u0022आगमः वैष्णवः\u0022,\u0022url\u0022:\u0022..\/AgamaH_vaiShNavaH\/\u0022},{\u0022title\u0022:\u0022रामानुजीयम्\u0022,\u0022url\u0022:\u0022..\/rAmAnujIyam\/\u0022},{\u0022title\u0022:\u0022माध्वम्\u0022,\u0022url\u0022:\u0022..\/mAdhvam\/\u0022},{\u0022title\u0022:\u0022आगमः ब्राह्मः\u0022,\u0022url\u0022:\u0022..\/AgamaH_brAhmaH\/\u0022},{\u0022title\u0022:\u0022कल्पान्तरम्\u0022,\u0022url\u0022:\u0022..\/kalpAntaram\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022वेदाः\u0022,\u0022url\u0022:\u0022..\/vedAH\/\u0022},{\u0022title\u0022:\u0022वेदाः - ऋक्\u0022,\u0022url\u0022:\u0022..\/vedAH_Rk\/\u0022},{\u0022title\u0022:\u0022वेदाः - यजुः\u0022,\u0022url\u0022:\u0022..\/vedAH_yajuH\/\u0022},{\u0022title\u0022:\u0022वेदाः - साम\u0022,\u0022url\u0022:\u0022..\/vedAH_sAma\/\u0022},{\u0022title\u0022:\u0022पुराणम्\u0022,\u0022url\u0022:\u0022..\/purANam\u0022},{\u0022title\u0022:\u0022पुराणम् वैष्णवम्\u0022,\u0022url\u0022:\u0022..\/purANam_vaiShNavam\/\u0022},{\u0022title\u0022:\u0022महाभारतम्\u0022,\u0022url\u0022:\u0022..\/mahAbhAratam\/\u0022},{\u0022title\u0022:\u0022रामायणम्\u0022,\u0022url\u0022:\u0022..\/rAmAyaNam\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvyam\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022ಕನ್ನಡ\u0022,\u0022url\u0022:\u0022..\/kannaDa\/\u0022},{\u0022title\u0022:\u0022त्रिपिटकम्\u0022,\u0022url\u0022:\u0022..\/tipiTaka\/\u0022},{\u0022title\u0022:\u0022पाळयः\u0022,\u0022url\u0022:\u0022..\/pALi\/\u0022},{\u0022title\u0022:\u0022भाषान्तरम्\u0022,\u0022url\u0022:\u0022..\/bhAShAntaram\/\u0022},{\u0022title\u0022:\u0022English Lit\u0022,\u0022url\u0022:\u0022..\/english\/\u0022},{\u0022title\u0022:\u0022Book pub\u0022,\u0022url\u0022:\u0022..\/book-pub\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vishvAsa.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    
+    var pageRelUrlTree = {};
+</script>
+
+    
+    <script type="text/javascript">
+  let pageVars = {};
+  pageVars.pageUrlMinusBasePath = "\/notes\/computing\/optimization\/4_convex_programming\/1_quadratic\/".replace(basePath, "/");
+  pageVars.pageParams = {};
+  pageVars.pageSource = "computing\/optimization\/4_convex_programming\/1_quadratic.md";
+  console.log(pageVars.pageSource);
+  var pageDefaults;
+  for (let possiblePageDefaults of pageDefaultsList) {
+    if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+      pageDefaults = possiblePageDefaults.values
+    }
+  }
+    
+</script>
+
+
+    <script src="/notes/webpack_dist/uiLib-bundle.js"></script>
+
+
+<script>
+
+
+MathJax = {
+  tex: {
+    inlineMath: [ ["@#", "#@"], ["\\(", "\\)"] ],
+    displayMath: [ ["$$","$$"], ["\\[", "\\]"] ],
+    processEscapes: true,  
+  },
+  svg: {
+    fontCache: 'global'
+  },
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore|dno"
+  }
+};
+</script>
+<script type="text/javascript" id="MathJax-script" async
+        src="/notes/non_webpack_js/mathjax/tex-svg.js">
+</script>
+
+
+
+
+
+
+    <link rel="stylesheet" href="/notes/webpack_dist/uiLib.css">
+<link rel="stylesheet" href="/notes/css/uiLibPrint.css" media="print" >
+<link rel="stylesheet" href="/notes/css/fonts.css" >
+<link rel="stylesheet" href="/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+
+<link rel="stylesheet" href="/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+
+<link rel="alternate" hreflang="sa-Deva" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/" />
+<link rel="alternate" hreflang="sa-Deva" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=devanagari" />
+
+<link rel="alternate" hreflang="sa-Knda" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=kannada" />
+<link rel="alternate" hreflang="sa-Mlym" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=malayalam" />
+<link rel="alternate" hreflang="sa-Telu" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=telugu" />
+<link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=tamil_superscripted" />
+<link rel="alternate" hreflang="sa-Taml" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=tamil" />
+<link rel="alternate" hreflang="sa-Gran" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=grantha" />
+
+<link rel="alternate" hreflang="sa-Gujr" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=gujarati" />
+<link rel="alternate" hreflang="sa-Guru" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=gurmukhi" />
+<link rel="alternate" hreflang="sa-Shar" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=sharada" />
+<link rel="alternate" hreflang="sa-Dogr" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=dogra" />
+<link rel="alternate" hreflang="sa-Phag" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=phags_pa" />
+<link rel="alternate" hreflang="sa-Tibt" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=tibetan" />
+<link rel="alternate" hreflang="sa-Sidd" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=siddham" />
+<link rel="alternate" hreflang="sa-Newa" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=newa" />
+<link rel="alternate" hreflang="sa-Modi" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=modi" />
+<link rel="alternate" hreflang="sa-Tirh" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=tirhuta_maithili" />
+<link rel="alternate" hreflang="sa-Gong" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=gondi_gujala" />
+<link rel="alternate" hreflang="sa-Gonm" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=gondi_masaram" />
+
+
+<link rel="alternate" hreflang="sa-Orya" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=oriya" />
+<link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=assamese" />
+<link rel="alternate" hreflang="sa-Beng" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=bengali" />
+<link rel="alternate" hreflang="sa-Mtei" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=manipuri" />
+<link rel="alternate" hreflang="sa-Sinh" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=sinhala" />
+<link rel="alternate" hreflang="sa-Limb" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=limbu" />
+<link rel="alternate" hreflang="sa-Lepc" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=lepcha" />
+
+
+<link rel="alternate" hreflang="sa-Cyrl" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=cyrillic" />
+<link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iso" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=iso" />
+<link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=iast" />
+<link rel="alternate" hreflang="sa-Aran" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=urdu" />
+<link rel="alternate" hreflang="sa-Avst" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=avestan" />
+
+<link rel="alternate" hreflang="sa-Brah" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=brahmi" />
+<link rel="alternate" hreflang="sa-Khar" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=kharoshthi" />
+<link rel="alternate" hreflang="sa-Zanb" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=zanbazar_square" />
+<link rel="alternate" hreflang="sa-Bhks" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=bhaiksuki" />
+
+<link rel="alternate" hreflang="sa-Bali" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=balinese" />
+<link rel="alternate" hreflang="sa-Java" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=javanese" />
+<link rel="alternate" hreflang="sa-Laoo" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=lao" />
+<link rel="alternate" hreflang="sa-Laoo-t-sa-Laoo-m0-Laopali" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=lao_pali" />
+<link rel="alternate" hreflang="sa-Mymr" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=burmese" />
+<link rel="alternate" hreflang="sa-Mymr-t-sa-Mymr-m0-Mon" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=mon" />
+<link rel="alternate" hreflang="sa-Cham" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=cham" />
+<link rel="alternate" hreflang="sa-Khmr" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=khmer" />
+<link rel="alternate" hreflang="sa-Thai" href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/?transliteration_target=thai" />
+
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+\(
+% groupings of objects.
+\newcommand{\set}[1]{\left\{ #1 \right\}}
+\newcommand{\seq}[1]{\left(#1\right)}
+\newcommand{\ang}[1]{\langle#1\rangle}
+\newcommand{\tuple}[1]{\left(#1\right)}
+\newcommand{\size}[1]{\left| #1\right|}
+
+\newcommand{\comp}{\circ}
+
+
+% numerical shortcuts.
+\newcommand{\abs}[1]{\left| #1\right|}
+\newcommand{\floor}[1]{\left\lfloor #1 \right\rfloor}
+\newcommand{\ceil}[1]{\left\lceil #1 \right\rceil}
+
+% linear algebra shortcuts.
+\newcommand{\change}{\Delta}
+\newcommand{\norm}[1]{\left\| #1\right\|}
+\newcommand{\dprod}[1]{\langle#1\rangle}
+\newcommand{\linspan}[1]{\langle#1\rangle}
+\newcommand{\conj}[1]{\overline{#1}}
+\newcommand{\der}[1]{\frac{d#1}{dx}}
+\newcommand{\lap}{\Delta}
+\newcommand{\kron}{\otimes}
+\newcommand{\nperp}{\nvdash}
+
+\newcommand{\mat}[1]{\left[ \begin{smallmatrix}#1 \end{smallmatrix} \right]}
+
+% derivatives and limits
+\newcommand{\partder}[2]{\frac{\partial #1}{\partial #2}}
+\newcommand{\partdern}[3]{\frac{\partial^{#3 #1}}{\partial #2^{#3}}}
+\newcommand{\gradient}{\nabla}
+\newcommand{\subdifferential}{\partial}
+
+% Arrows
+\newcommand{\diverge}{\nearrow}
+\newcommand{\notto}{\nrightarrow}
+\newcommand{\up}{\uparrow}
+\newcommand{\down}{\downarrow}
+% gets and gives are defined!
+
+% ordering operators
+\newcommand{\oleq}{\preceq}
+\newcommand{\ogeq}{\succeq}
+
+% programming and logic operators
+\newcommand{\dfn}{:=}
+\newcommand{\assign}{:=}
+\newcommand{\co}{\ co\ }
+\newcommand{\en}{\ en\ }
+
+
+% logic operators
+\newcommand{\xor}{\oplus}
+\newcommand{\Land}{\bigwedge}
+\newcommand{\Lor}{\bigvee}
+\newcommand{\finish}{\Box}
+\newcommand{\contra}{\Rightarrow \Leftarrow}
+\newcommand{\iseq}{\stackrel{_?{=}}}
+
+
+% Set theory
+\newcommand{\symdiff}{\Delta}
+\newcommand{\setdiff}{\backslash}
+\newcommand{\union}{\cup}
+\newcommand{\inters}{\cap}
+\newcommand{\Union}{\bigcup}
+\newcommand{\Inters}{\bigcap}
+\newcommand{\nullSet}{\phi}
+
+
+% graph theory
+\newcommand{\nbd}{\Gamma}
+
+% Script alphabets
+% For reals, use \Re
+
+% greek letters
+\newcommand{\eps}{\epsilon}
+\newcommand{\del}{\delta}
+\newcommand{\ga}{\alpha}
+\newcommand{\gb}{\beta}
+\newcommand{\gd}{\del}
+\newcommand{\gp}{\pi}
+\newcommand{\gf}{\phi}
+\newcommand{\gh}{\eta}
+\newcommand{\gF}{\Phi}
+\newcommand{\gl}{\lambda}
+\newcommand{\gm}{\mu}
+\newcommand{\gn}{\nu}
+\newcommand{\gr}{\rho}
+\newcommand{\gs}{\sigma}
+\newcommand{\gth}{\theta}
+\newcommand{\gx}{\xi}
+\newcommand{\gw}{\omega}
+
+\newcommand{\sw}{\sigma}
+\newcommand{\SW}{\Sigma}
+\newcommand{\ew}{\lambda}
+\newcommand{\EW}{\Lambda}
+
+\newcommand{\Del}{\Delta}
+\newcommand{\gD}{\Delta}
+\newcommand{\gG}{\Gamma}
+\newcommand{\gW}{\Omega}
+\newcommand{\gS}{\Sigma}
+\newcommand{\gTh}{\Theta}
+
+% Bold english letters.
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bB}{\mathbf{B}}
+\newcommand{\bC}{\mathbf{C}}
+\newcommand{\bD}{\mathbf{D}}
+\newcommand{\bE}{\mathbf{E}}
+\newcommand{\bF}{\mathbf{F}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bI}{\mathbf{I}}
+\newcommand{\bJ}{\mathbf{J}}
+\newcommand{\bK}{\mathbf{K}}
+\newcommand{\bL}{\mathbf{L}}
+\newcommand{\bM}{\mathbf{M}}
+\newcommand{\bN}{\mathbf{N}}
+\newcommand{\bO}{\mathbf{O}}
+\newcommand{\bP}{\mathbf{P}}
+\newcommand{\bQ}{\mathbf{Q}}
+\newcommand{\bR}{\mathbf{R}}
+\newcommand{\bS}{\mathbf{S}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bU}{\mathbf{U}}
+\newcommand{\bV}{\mathbf{V}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\bX}{\mathbf{X}}
+\newcommand{\bY}{\mathbf{Y}}
+\newcommand{\bZ}{\mathbf{Z}}
+
+\newcommand{\bba}{\mathbf{a}}
+\newcommand{\bbb}{\mathbf{b}}
+\newcommand{\bbc}{\mathbf{c}}
+\newcommand{\bbd}{\mathbf{d}}
+\newcommand{\bbe}{\mathbf{e}}
+\newcommand{\bbf}{\mathbf{f}}
+\newcommand{\bbg}{\mathbf{g}}
+\newcommand{\bbh}{\mathbf{h}}
+\newcommand{\bbk}{\mathbf{k}}
+\newcommand{\bbl}{\mathbf{l}}
+\newcommand{\bbm}{\mathbf{m}}
+\newcommand{\bbn}{\mathbf{n}}
+\newcommand{\bbp}{\mathbf{p}}
+\newcommand{\bbq}{\mathbf{q}}
+\newcommand{\bbr}{\mathbf{r}}
+\newcommand{\bbs}{\mathbf{s}}
+\newcommand{\bbt}{\mathbf{t}}
+\newcommand{\bbu}{\mathbf{u}}
+\newcommand{\bbv}{\mathbf{v}}
+\newcommand{\bbw}{\mathbf{w}}
+\newcommand{\bbx}{\mathbf{x}}
+\newcommand{\bby}{\mathbf{y}}
+\newcommand{\bbz}{\mathbf{z}}
+\newcommand{\0}{\mathbf{0}}
+\newcommand{\1}{\mathbf{1}}
+
+% Caligraphic english alphabet
+\newcommand{\cA}{\mathcal{A}}
+\newcommand{\cB}{\mathcal{B}}
+\newcommand{\cC}{\mathcal{C}}
+\newcommand{\cD}{\mathcal{D}}
+\newcommand{\cE}{\mathcal{E}}
+\newcommand{\cF}{\mathcal{F}}
+\newcommand{\cG}{\mathcal{G}}
+\newcommand{\cH}{\mathcal{H}}
+\newcommand{\cI}{\mathcal{I}}
+\newcommand{\cJ}{\mathcal{J}}
+\newcommand{\cK}{\mathcal{K}}
+\newcommand{\cL}{\mathcal{L}}
+\newcommand{\cM}{\mathcal{M}}
+\newcommand{\cN}{\mathcal{N}}
+\newcommand{\cO}{\mathcal{O}}
+\newcommand{\cP}{\mathcal{P}}
+\newcommand{\cQ}{\mathcal{Q}}
+\newcommand{\cR}{\mathcal{R}}
+\newcommand{\cS}{\mathcal{S}}
+\newcommand{\cT}{\mathcal{T}}
+\newcommand{\cU}{\mathcal{U}}
+\newcommand{\cV}{\mathcal{V}}
+\newcommand{\cW}{\mathcal{W}}
+\newcommand{\cX}{\mathcal{X}}
+\newcommand{\cY}{\mathcal{Y}}
+\newcommand{\cZ}{\mathcal{Z}}
+
+
+% Formatting shortcuts
+\newcommand{\red}[1]{\textcolor{red}{#1}}
+\newcommand{\blue}[1]{\textcolor{blue}{#1}}
+\newcommand{\htext}[2]{\texorpdfstring{#1}{#2}}
+
+% Statistics
+\newcommand{\distr}{\sim}
+\newcommand{\stddev}{\sigma}
+\newcommand{\covmatrix}{\Sigma}
+\newcommand{\mean}{\mu}
+\newcommand{\param}{\theta}
+\newcommand{\gthEst}{\hat{\theta}}
+\newcommand{\ftr}{\phi}
+\newcommand{\est}[1]{\hat{#1}}
+
+% General utility
+\newcommand{\todo}[1]{\textbf{[TODO]}] \footnote{TODO: #1}}
+\newcommand{\tbc}{[\textbf{Incomplete}]}
+\newcommand{\chk}{[\textbf{Check}]}
+\newcommand{\why}{[\textbf{Find proof}]}
+\newcommand{\opt}[1]{\textit{#1}}
+
+\newcommand{\experience}[1]{[\textbf{Personal Experience}]: #1 \blacktriangle}
+\newcommand{\pf}[1]{[\textbf{Proof}]: #1 \Box}
+\newcommand{\core}[1]{\textbf{Core Idea}: #1 \Arrowvert}
+\newcommand{\example}[1]{\textbf{Example}: #1 \blacktriangle}
+\newcommand{\error}[1]{\textbf{Error alert}: #1 \triangle}
+\newcommand{\oprob}{[\textbf{OP}]: }
+
+
+\renewcommand{\~}{\htext{$\sim$}{~}}
+
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+
+
+\)
+
+
+
+    
+<header class="p-1 bg-yellow noPrint">
+    <nav role="navigation" class="col">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> 1 Quadratic</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <button class="btn btn-light"  href="#transliterationDropdown" data-toggle="collapse">
+            ✍
+          </button>
+          <select id="transliterationDropdown" size="1" class="collapse" onchange="module_uiLib.default.content.updateTransliteration()">
+            <optgroup label="🌍">
+              <option value="iso">āISO</option>
+              <option value="iso_vedic">āi-āu</option>
+              <option value="cyrillic">пу</option>
+              <option value="urdu">نس</option>
+              <option value="??">🌍??</option>
+            </optgroup>
+            <optgroup label="🛕🧭S">
+              <option value="kannada">ಅ</option>
+              <option value="malayalam">അ</option>
+              <option value="telugu">క</option>
+              <option value="tamil_superscripted">க²</option>
+              <option value="tamil_extended">க</option>
+              <option value="grantha">𑌅</option>
+            </optgroup>
+            <optgroup label="🛕🧭N">
+              <option value="devanagari" selected="">स</option>
+              <option value="gujarati">અ</option>
+              <option value="gurmukhi">ਅ</option>
+            </optgroup>
+            <optgroup label="🛕🧭E">
+              <option value="oriya">ଅ</option>
+              <option value="assamese">অস</option>
+              <option value="bengali">অ</option>
+            </optgroup>
+            <optgroup label="🛕🏺📜">
+              <option value="sharada">𑆑𑇀𑆰</option>
+              <option value="brahmi">𑀅</option>
+            </optgroup>
+            <optgroup label="🛕🌋">
+              <option value="balinese">ᬩᬮᬶ</option>
+            </optgroup>
+          </select>
+          <div>
+          <button class="btn btn-outline-secondary btn-sm"  href="#transliterationDropdownAlt" data-toggle="collapse">
+          (✍)
+          </button>
+          <select id="transliterationDropdownAlt" size="1"  style="font-size:12px" class="bg-light-yellow collapse" onchange="module_uiLib.default.content.updateTransliteration()">
+            <optgroup label="🌍">
+              <option value="iso">āISO</option>
+              <option value="iso_vedic">āi-āu</option>
+              <option value="cyrillic">пу</option>
+              <option value="urdu">نس</option>
+              <option value="??">🌍??</option>
+            </optgroup>
+            <optgroup label="🛕🧭S">
+              <option value="kannada">ಅ</option>
+              <option value="malayalam">അ</option>
+              <option value="telugu">క</option>
+              <option value="tamil_superscripted">க²</option>
+              <option value="tamil_extended">க</option>
+              <option value="grantha">𑌅</option>
+            </optgroup>
+            <optgroup label="🛕🧭N">
+              <option value="devanagari" selected="">स</option>
+              <option value="gujarati">અ</option>
+              <option value="gurmukhi">ਅ</option>
+            </optgroup>
+            <optgroup label="🛕🧭E">
+              <option value="oriya">ଅ</option>
+              <option value="assamese">অস</option>
+              <option value="bengali">অ</option>
+            </optgroup>
+            <optgroup label="🛕🏺📜">
+              <option value="sharada">𑆑𑇀𑆰</option>
+              <option value="brahmi">𑀅</option>
+            </optgroup>
+            <optgroup label="🛕🌋">
+              <option value="balinese">ᬩᬮᬶ</option>
+            </optgroup>
+          </select>
+          </div>
+          <div class="row col d-flex  dropdown">
+            <button class="btn btn-secondary-outline btn-sm dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              A±
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <a class="btn btn-secondary btn-sm" onclick="module_uiLib.changeTextSize(2)">A+</a>
+            <a class="btn btn-secondary btn-sm" onclick="module_uiLib.changeTextSize(-2)">A-</a>
+            </div>
+          </div>
+          <button class="btn btn-light btn-sm"  href="#commentStyleDropdown" data-toggle="collapse">
+            🗨
+          </button>
+          <select id="commentStyleDropdown" class="collapse" size="1" onchange="module_uiLib.default.content.updateCommentStyleFromDropdown()">
+            <option value="on">✔</option>
+            <option value="hidden">✗</option>
+          </select>
+          <div><a id="expandAllButton" class="btn btn-secondary" onclick="module_uiLib.default.query.setParamsAndGo({'expandDetails': '.*'})">↕️️</a></div>
+          <div id="printStyleDiv" class="row col d-flex  dropdown">
+          <button class="btn btn-light btn-sm dropdown-toggle"  href="#printStyleDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          🖨
+          </button>
+            <div class="dropdown-menu col" aria-labelledby="printStyleDropdown">
+              <div class="row justify-content-center">
+                <p>Cols:</p>
+                <input type="number" min="1" max="10" value="2" step="1" id="tbColumns" style="width: 3ch;"  accesskey="c"/>
+              </div>
+              <div class="row justify-content-center">
+                <p>A±:</p> <input type="text" id="tbBodyFontSize" value="0.4cm" style="width: 6ch;"  accesskey="f"></input>
+              </div>
+              <div class="row justify-content-center">
+                <p>Incl:</p> <input checked type="checkbox" id="tbIncludeStyle" value="on"></input>
+                <button id="btnPrintStyle" onclick="module_uiLib.default.content.updatePrintStyle()">🖨
+                </button>
+              </div>
+            </div>
+        </div>
+        </div>
+        <div id="audioDiv" class="row col d-flex  dropdown">
+          <button class="btn btn-secondary-outline btn-sm dropdown-toggle" type="button" id="audioDropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            🎧
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <a id="speakerButton" class="btn btn-outline-secondary btn-sm" onclick="module_uiLib.default.content.handleSpeakToggle()">⏯</a>
+          <button id="speakerPauseButton" class="btn btn-outline-secondary btn-sm">⏸</button>
+            <div id="audioOptionsDiv" class="row justify-content-center" >
+              <div>
+                <p class="lead">Vol</p>
+                <input type="range" min="0" max="1" value="1" step="0.1" id="volume" />
+                <span id="volume-label" class="ms-2">1</span>
+              </div>
+              <div class="mx-5">
+                <p class="lead">Rate</p>
+                <input type="range" min="0.1" max="10" value="1" id="rate" step="0.1" />
+                <span id="rate-label" class="ms-2">1</span>
+              </div>
+              <div>
+                <p class="lead">Pitch</p>
+                <input type="range" min="0" max="2" value="1" step="0.1" id="pitch" />
+                <span id="pitch-label" class="ms-2">1</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a href="https://vishvAsa.github.io/notes/search"  class="btn btn-light btn-sm">🥽🔦</a>
+        <div class="row col  d-flex justify-content-center">
+          <div><a id="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a id="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border noPrint " id="sidebar">
+          <div id="fastSearch">
+              <datalist id="pageDataList"></datalist>
+              <input id="searchInput" placeholder="शीर्षिकान्विष्यताम्" list="pageDataList" onchange="module_uiLib.default.navigation.pageLoader()">
+          </div>
+          <details open  class="bg-light-gray" >
+              <summary id="sidebarToggleLink" onclick="module_uiLib.default.navigation.sidebarToggleHandler()">
+            Menu
+              </summary>
+              <ul id="sidebarBody" class="list pl2 p-0 bg-yellow">
+              </ul>
+          </details>
+      </aside>
+      <main class="col p-3" role="main" data-pagefind-body>
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="1 Quadratic">1 Quadratic</h1>
+    
+    <a id="editLink" class="btn btn-primary noPrint"  href="https://github.com/vishvAsa/notes/edit/content/computing/optimization/4_convex_programming/1_quadratic.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border noPrint ">
+    <details id="toc_header">
+        <summary>What's in this page?</summary>
+      <div id="toc_body" class="p-0">
+        
+        <ul id="toc_ul" class="list p-0">
+        </ul>
+      </div>
+    </details>
+    <div id="progressBarDiv" class="row d-flex justify-content-center">
+      🐎💪<progress id="progressLoading" value="0" max="100"> 32% </progress>
+    </div>
+  </aside>
+  <div id="post_content">
+  <p>For ideas about its importance - both in solving general convex optimization problems and in other domains, look at the &lsquo;Least squares&rsquo; chapter.</p>
+<h2 id="linear-constrained-qp">Linear Constrained QP</h2>
+<p>Aka Quadratic programming. Minimize convex quadratic functional over a polyhedron (see vector spaces survey). Generalizes linear programming, special case of QCQP.</p>
+<h3 id="visualization">Visualization</h3>
+<p>If optimal value occurs when a constraint is active: Think of contours of the objective hitting an edge of the polyhedron. Slightly harder than in the LP case, where the minimum always occured in a vertex.</p>
+<h3 id="dual-problem">Dual problem</h3>
+<p>This is also a quadratic program; strong duality always holds! \chk</p>
+<h2 id="quadratically-constrained-qp-qcqp">Quadratically constrained QP (QCQP)</h2>
+<p>Minimize convex quadratic functional, subject to convex quadratic constraints: so all equality constraints are specified by linear inequalities. Feasible set is an intersection of hyperellipes and a polyhedron.</p>
+<h2 id="least-squared-error-problem">Least squared error problem</h2>
+<h3 id="problem">Problem</h3>
+<p>Aka least squares.</p>
+<h4 id="unregularized-problem">Unregularized problem</h4>
+<p>\(\min \norm{Aw - b}^{2}\), \(A \in R^{m \times n}, m&gt;n, rank(A) = m\).</p>
+<h5 id="for-the-weighted-least-squares">For the weighted least squares</h5>
+<p>More weight to one observation or correlated observations:\ Use Weighted inner product to find projection.\
+\(WAx = Wb; \min \norm{WAx - Wb} = \min \norm{Ax-b}_{M}\) for \(M=W^{*}W\).</p>
+<h5 id="solution">Solution</h5>
+<p>See numerical analysis survey for geometry and solution.</p>
+<h4 id="the-regularized-problem">The regularized problem</h4>
+<p>Aka weight decay.</p>
+<p>Want to balance love of sparsity or smallness with desire for a good fit. Pick a regularizer which is small for good w, and large for bad w.</p>
+<p>Take \(\min f(w) + l\norm{w}<em>n\). As n decreases, feasible set decreases: consider progression of 1 balls from \(\norm{.}</em>\infty\) to \(\norm{}_0\).</p>
+<h3 id="application">Application</h3>
+<h4 id="convex-optimization">Convex Optimization</h4>
+<p>A common technique of solving convex optimization problems is to  approximate the objective with a quadratic function and then solve it.</p>
+<h4 id="other-domains">Other domains</h4>
+<p>See regression problem in statistics survey for motivation. Same as finding maximum likelihood solution while fitting linear model with Gaussian noise.</p>
+<p>Interpolation of functions linear in parameters is also a specific case: see numerical analysis survey.</p>
+<h4 id="regularized-problems">Regularized problems</h4>
+<p>If solving a regression problem, this amounts to the least squares solution, when a prior probability distribution is imposed on w to favor smaller w values.</p>
+<p>\(w\) could be the coefficients of polynomial used to fit data in \(A\), \(b\). To avoid overfitting, we want \(w\) to be small.</p>
+<h5 id="penalties-and-priors">Penalties and priors</h5>
+<p>Different regularizers (usually norms) correspond to different priors on w. Shape of the prior distribution looks like the unit spheres corresponding to the norms used: sphere, diamond etc..</p>
+<p>\(\norm{}<em>{q}\) penalty for \(q&gt; 2\) usually not worth the effort. Sometimes, \(\norm{}</em>{1.x}\) penalty used as compromize between lasso and quadratic regularizers.</p>
+<h3 id="standard-formulations">Standard formulations</h3>
+<h4 id="normalizing-columns-of-a">Normalizing columns of A</h4>
+<p>By solving \(A&rsquo;w&rsquo; = b\), can solve \(ADD^{-1}w \approx b\) using diagonal matrix D.</p>
+<h3 id="quadratic-regularizer">Quadratic regularizer</h3>
+<p>Aka ridge regression. \
+\(\min f(w) + lw^{T}I&rsquo;w= \min \norm{Aw-b}_{2}^{2}+ lw^{T}I&rsquo;w\) instead, to control size of w too.</p>
+<p>This objective is the lagrangian fn corresponding to the problem of finding \(\min f(w) = \min \norm{Aw-b}_{2}^{2}\) subject to \(w^{T}I&rsquo;w &lt; c\).</p>
+<h4 id="the-solution-form">The solution form</h4>
+<p>\((A^{T}A + lI)\hat{w} = A^{T}b\): by setting \(\gradient (f(w) + l\norm{w}<em>{2}^{2})= 0\). Take \(A = U\SW V^{*}\), get \(X\hat{w} = U \SW (\SW^{2} + lI)^{-1} \SW U^{T}y = UDU^{T}y\), where \(D</em>{i,i} = \sw_{i}&rsquo; = \frac{\sw_{i}^{2}}{\sw_{i}^{2} + l}\).</p>
+<p>So, \(X\hat{w} = \sum \sw_{i}&rsquo; u_{i}^{T} u_{i}y\); observe action of \(l \in [0,\infty]\) in \(\sw_{i}&rsquo;\): the shrinkage parameter; or the prior distribution on w.</p>
+<h4 id="the-geometry">The geometry</h4>
+<p>Consider hypersphere \(\norm{w}_{2}^{2} &lt; c\) and the paraboloid \(f(w)\). The objective is to find w within the hypersphere, having the minimum \(f(w)\) value. Visualize by taking contour map of \(f(w)\) : successively larger ellipsoids. optimal \(w\) is where the minimal contour touches the hypersphere, when the center of \(f(w)\) lies outside the hypersphere.</p>
+<p>Compare with geometry of \(\min f(w)\) problem: see linear alg survey.</p>
+<h4 id="effect">Effect</h4>
+<p>Shrinks components of \(w\) towards each other in magnitude. Also takes care of correlated features.</p>
+<p>Does not penalize small \(w_i\), so does not lead to sparsity.</p>
+<h3 id="l2-and-linf-regularizers">l2 and linf regularizers</h3>
+<h4 id="l2-regularizer">l2 regularizer</h4>
+<h5 id="problem-1">Problem</h5>
+<p>Solve \(\min_w \norm{Aw - b}^{2} + \gl \norm{w}_2\), with \(\gl &gt; 0\). An alternate formulation is \(\min_w w^{T}Hw + v^{T}w + \gl \norm{w}_2\), with \(H \succeq 0\).</p>
+<h5 id="solution-1">Solution</h5>
+<p>The obtimality condition involves taking the subdifferential of \(\norm{w}_2\). For diagonal \(H\), this has a closed form solution. The solution technique involves some nifty variable substitution.</p>
+<h5 id="relation-with-quadratic-regularizer">Relation with Quadratic regularizer</h5>
+<p>Rewriting as \(\min_w \norm{Aw - b}^{2} : \norm{w}_2 &lt; C(\gl)\); we see that this is equivalent to using the quadratic regularizer and solving: \(\min_w \norm{Aw - b}^{2} : \norm{w}_2^{2} &lt; C(\gl)^{2}\). So, the tradeoff curve, is for practical purposes, identical.</p>
+<p>The latter formulation has a simpler solution as subgradient calculations are not involved in specifying the optimality conditions for analytically finding a solution.</p>
+<p>But, sometimes we are given the problem where an \(l_2\) regularizer is used. Such problems occur in doing block coordinate descent to solve multi-task lasso, for example, while finding the search direction using a quadratic approximation of the objective. In such cases, we can either solve the specified problem directly, or we can reformulate it using the quadratic regularizer; the former is quite simple.</p>
+<h4 id="linf-regularizer">lInf regularizer</h4>
+<p>Here, we solve \(\min_w \norm{Aw - b}^{2} + \gl \norm{w}<em>\infty\). Optimality condition involves taking the subdifferential of \(\norm{w}</em>\infty\). A closed form solution can be derived by using proof by cases: eg: see a paper on muti-task learning by Han Liu.</p>
+<h3 id="forward-stepwise-regression-for-sparsity">Forward stepwise regression for sparsity</h3>
+<p>Trying to solve Aw = y. Take F = active set of features used in approximating y. Start with \(F = \nullSet\), w = 0. At step t, find residue \(r = y - Aw_t\), find feature i most correlated with r; set \(w_{i}\) to this projection; continue. \exclaim{Observe how the residue changes at each step!}</p>
+<p>This is a greedy algorithm, so suboptimal. But note that this is not the same as simply finding the optimal w&rsquo;&rsquo; without any sparsity constraint, and then dropping some small elements.</p>
+<h4 id="forward-stagewise-regression">Forward stagewise regression</h4>
+<p>A non greedy modification to forward stepwise. Find feature set B with maximum correlation with residue; for each such i: keep increasing \(w_{B}\) until you find another feature(s) with equal correlation with the residue; then add these feature(s) to B; repeat.</p>
+<p>At any time, B is the set of features which form the \exclaim{least angle} with the residue. The coefficients increase such that \(Aw_B\) increases exactly along the projection of the residue on the hyperspace spanned by features in B.</p>
+<p>Also, in case at some time, a feature correlated with other some feature in B gets added to B, the coefficient of B.</p>
+<h4 id="least-angle-regression">Least Angle Regression</h4>
+<p>A modification of the Forward stagewise regression, so that \(w_{B}\) is increased at one shot, rather than gradually.</p>
+<h4 id="lasso-solving-modification">Lasso solving modification</h4>
+<p>Losso just specifies an objective, which may be achieved in many ways, including using forward regression.</p>
+<p>Can turn LAR to Lasso solver: Whenever \(w_{i}\) for some i in B hits 0, drop it out of B.</p>
+<h5 id="reason-for-the-fix">Reason for the fix</h5>
+<p>Compare conditions you get on lasso solution by setting gradient to 0 with conditions for LAR at any time: Correlation of residue with B with features in B is equal and correlation with other features is lower. They are identical as long as \(sgn(w_j) = \) sign of correlation of residue with feature j.</p>
+<h3 id="0-norm-regularizer-compressed-sensing">0 norm regularizer: Compressed sensing</h3>
+<h4 id="problem-scenario">Problem scenario</h4>
+<p>X is short and fat, Xw = y has many solutions for w, want to find w with \(\norm{w}_0\leq s\), \(Xw \approx y\). If X were tall and thin, the solution of a similar problem is easy: solve \(\min \norm{Xw - y}^{2}\) and pick the s most important components of w.</p>
+<p>Consider the equivalent problem, where we assume columns of X are normalized.</p>
+<h5 id="finding-support-combinatorial-hardness">Finding support: Combinatorial hardness</h5>
+<p>The difficulty comes from finding the support (non-zero coordinates) of w. Once support of w is found, it is easy to find the optimal linear combination of these components to get close to y: just solve \(\min \norm{X&rsquo;w&rsquo; = y}\), where \(m \times s\) X&rsquo; is derived from X by dropping some columns.</p>
+<p>There are many possible ways to form w with \(\norm{w}_0\leq s\).</p>
+<h4 id="finding-support-target-optimization-problems">Finding support: Target optimization problems</h4>
+<p>Maybe want to limit w to certain number of non-zeros. Solve \(\min f(w) + l \norm{w}_{0}\), where \(f(w) = \norm{Xw - y}_2^{2}\).</p>
+<p>This is same as \(\min f(w): \norm{w}_{0} \leq s\). Feasible set is not convex: consider epigraph of \(\norm{w}_0 \leq 1\) for example.</p>
+<p>A stricter version of the problem is: \(\min \norm{w}_0 : Xw = y\), as this does not allow \(Xw \approx y\).</p>
+<h4 id="solution-using-1-norm-minimization">Solution using 1 norm minimization</h4>
+<p>Just solve the linear program \(\min \norm{w}_1 : Xw = y\).</p>
+<p>Arrival at sparse solution is guaranteed when some restricted isometry and incoherence properties hold for X.</p>
+<h5 id="restricted-isometry-constant-for-s">Restricted isometry constant for s</h5>
+<p>\(1-\gd_{s} \leq \frac{\norm{Xw}^{2}}{\norm{w}^{2}} \leq 1+\gd_s, \forall w: \norm{w}_0 \leq s\).</p>
+<h5 id="incoherence-almost-orthogonality">Incoherence/ almost orthogonality</h5>
+<p>\(\abs{\dprod{Xw, Xw&rsquo;}} \leq T_{s, s&rsquo;}\) for w, w&rsquo; such that \(supp(w) \inters supp(s&rsquo;) = \emptyset, \norm{w}_0 \leq s, \norm{w&rsquo;}_0 \leq s&rsquo;\).</p>
+<h3 id="1-norm-regularizer-lasso">1 norm regularizer: Lasso</h3>
+<p>\(\min f(w) + l \norm{w}<em>{1} = \min \norm{Aw-b}</em>{2}^{2} + l \norm{w}_{1}\). Allegedly aka least absolute shrinkage and selection operator.</p>
+<p>Same as minimizing f(w) subject to \(\norm{w}<em>{1} &lt; c\). As you increase c, you get less and less sparse solutions. When \(c\geq \norm{\hat{w}}</em>{1}\) where \(\hat{w}\) is the unregularized least squares solution, you get least squares solution.</p>
+<p>Want to get optimality condition \(\gradient (f(w) + l \norm{w}_{1}) = 0\), but \(\norm{w}<em>1\) not differentiable at all points; so take \(l \norm{w}</em>{1} = l \sum_i sgn(w_i) w_i\). Assume that \(sgn(w_i&rsquo;)\) around the solution \(w&rsquo;\) is known.</p>
+<p>Get conditions useful in Lasso solving modification of Least angles regression: Let \(B = {o: w_i&rsquo; \neq 0}\), the basis/ support set. \(\forall j\in B: a_{j}^{T}(y-Aw) = \gl sgn(w_j)\), \(\forall j\notin B: a_{j}^{T}(y-Aw) = \gl *sgn(w_j) \leq |\gl|\). If A&rsquo;s columns have norm 1, get geometric meaning for \(\gl\): an upper bound for correlation of the residue with any feature!</p>
+<h4 id="importance">Importance</h4>
+<p>Often yields sparse solutions: from geometry.</p>
+<p>\(\norm{w}_q\) for \(q \in (0, 1]\) would also yield sparse solutions: see geometric interpretation for justification. These correspond to imposing the constraint \(\norm{w}_q \leq c\), which corresponds to the feasible region being non-convex. 1 norm is the least q which yields besides leading to a sparse solution, is also convex.</p>
+<p>For importance of finding sparse models, see statistics survey.</p>
+<h4 id="the-geometry-1">The geometry</h4>
+<p>\(\norm{w}<em>{1} &lt; c\) is hyper-rhombus, f(w) is a paraboloid, whose each level set is an ellipsoid. In general, w for min f(w) will lie outside the hyper-rhombus. So, the optimal w: the point where the edge of the hyper-rhombus meets the t-level set: f(w) = t, for the smallest t. Usually this happens where 2 edges meet, or where many \(w</em>{i}\) are 0: visualize in 2D; hence sparsity.</p>
+<p>Compare with ridge regression.</p>
+
+  </div>
+</article>
+
+
+        
+
+        
+
+
+
+    <aside class="card border noPrint" id="section-tree-item-computing_optimization_4_convex_programming_1_quadratic_md">
+        <div class="card-title bg-light-gray border d-flex justify-content-between">
+            <a href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/">1 Quadratic </a>
+            <a data-toggle="collapse" href="#section-tree-item-body-computing_optimization_4_convex_programming_1_quadratic_md" role="button" aria-expanded="false" aria-controls="section-tree-item-body-computing_optimization_4_convex_programming_1_quadratic_md" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+        </div>
+        <nav id="section-tree-item-body-computing_optimization_4_convex_programming_1_quadratic_md" class="card-body p-0 collapse">
+            
+            <li>draft: false</li>
+            
+            <li>iscjklanguage: false</li>
+            
+            <li>title: 1 Quadratic</li>
+            
+        </nav>
+    </aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1 noPrint" role="contentinfo">
+  
+
+  <div id="div_foot_nav_bar" class="row">
+    <a href="https://vishvAsa.github.io/notes/search"  class="btn btn-light btn-sm">🥽🔦</a>
+    <div class="row col  d-flex justify-content-center">
+      <div><a id="previousPageFoot" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+      <div ><a id="nextPageFoot" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+    </div>
+      <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+      </ul>
+  </div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vishvAsa/notes/issues/new" >
+      ✉️Contact
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      
+      <a href="https://github.com/vishvAsa/notes/actions/workflows/build.yml"><img src="https://github.com/vishvAsa/notes/actions/workflows/build.yml/badge.svg"> Built </a> on 2026 Feb 12 01:34:45 UTC. (<a href="http://google.com/search?q=01%3a34%3a45%20UTC to IST">IST</a>)
+    </div>
+  </div>
+</footer>
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-33H08JSLQR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-33H08JSLQR');
+</script>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_uiLib.onDocumentReadyTasks();
+  </script>
+  
+</html>

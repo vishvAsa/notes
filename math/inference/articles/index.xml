@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Articles on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/inference/articles/</link>
+    <description>Recent content in &#43;Articles on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/math/inference/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chat-bots</title>
+      <link>https://vishvAsa.github.io/notes/math/inference/articles/chat-bots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/inference/articles/chat-bots/</guid>
+      <description>&lt;p&gt;Source - Andrew Ng 2022&lt;/p&gt;&#xA;&lt;p&gt;Large language models like Galactica and ChatGPT can spout nonsense in a confident, authoritative tone. This overconfidence - which reflects the data they’re trained on - makes them more likely to mislead.&lt;/p&gt;&#xA;&lt;p&gt;In contrast, real experts know when to sound confident, and when to let others know they’re at the boundaries of their knowledge. Experts know, and can describe, the boundaries of what they know.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
