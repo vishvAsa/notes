@@ -16,3 +16,8 @@ I have covered this topic in some length before. By examining old Skt literature
 In conclusion, I suspect it is an actual early pre-Columbian transfer to India, though I remain agnostic about the mechanism and route of transfer. For more read:
 
 Source: [TW](https://manasataramgini.wordpress.com/2009/01/26/is-dhattura-really-mentioned-in-the-arthashastra/)
+
+## Pineapple, custard apple
+I've seen some claims for hoysala pineapples, which would make it pre-Columbian candidate. I remain dubious but am open to more investigation. Much weaker case than custardapple or sItAphalam.
+
+
