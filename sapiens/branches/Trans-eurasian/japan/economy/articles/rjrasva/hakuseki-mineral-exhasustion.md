@@ -1,0 +1,5 @@
++++
+title = "Hakuseki - mineral exhasustion"
++++
+
+Arai Hakuseki (1657-1725), adviser of the sixth shogun Tokugawa Ienobu, worried about the loss of specie due to trade and the negative effect this would have on Japan's finances. Arai warned in his autobiography, "Japan had lost one fourth of its gold and three fourths of its silver through foreign trade during the hundred years since the beginning of the Tokugawa period." It is clear, he said, without waiting for the words of a sage, that the country would exhaust all its wealth within the next hundred years. "Agricultural products, such as rice, wheat, millet, and beans, are like hair of the human body, which would grow again even if they flowed out of the country,” he said. However, "metals such as gold, silver, and copper are like the bones of the human body, which will never be replenished, once removed." It would not be a good idea for Japan, he asserted, to exchange its valuable wealth for useless foreign goods. To Arai, there was nothing but medicine Japan should seek from foreign countries.

@@ -45,3 +45,8 @@ from मिथिलदेश, he not only wrote fine love poetry राधा-�
 ### गणेशो ऽवधानी 
 
 नैकभाषावित्। [shatAvadhAnI](http://ellakavi.wordpress.com/2007/11/22/shatavadhani-dr-r-ganesh/) rAga gaNesha, the kAshyapa, polymath and polyglot who has performed avadhAna-s in kannaDa, saMskRta, telugu, who embodies the living hindu intellectual tradition in its purity and might, who understands that the shAstra-s are but precursors to true knowledge.
+
+### निश्चलानन्द-सरस्वती
+pUrI-shankarAchArya, whose obstinacy ensured that rAma temple movement did not settle for a compromise under PV narasiMha rAv. His father was a renowned Sanskrit scholar and court vidwan of the Darbhanga Kingdom. On 11 April 1974 in Haridwar, he was ordained into Sannyasa by Swami Karapatri. He participated in cow protection movements.
+
+A luddite. Influential in promoting conservativism.

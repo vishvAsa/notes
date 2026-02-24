@@ -62,3 +62,19 @@ Tyagaraja Swami (of Kakarla-kula of vaidiki mulukanADu brAhmaNas, a Telugu clan)
 
 ### रङ्गरामानुजः
 the उपनिषद्-भाष्यकार of the रामानुज tradition & is remembered for writing commentaries for the उपनिषद्-s from a विशिष्टाद्वैत perspective
+
+### करपात्री यतिः
+born as Har Narayan Ojha in Pratapgarh, Uttar Pradesh.  
+Later, as a renunciate, he took sannyasa in the Dashanami Sampradaya under Swami Brahmananda Saraswati, adopting the monastic name Hariharananda Saraswati.  
+
+Ensured ghar-vApasI of forcibly converted hindus (including brahmins) in East bengal. 
+
+Fought for cow protection, and against partition of India. 
+
+Organized dhArmika movements and organizations. Depated with madan mohan mAlavIya regarding shAstras and won.
+
+Suffered jail time. 
+
+Tried to save temple sanctity by barring everyones' entry into kAshI vishvanAtha temple- but failed. 
+
+Had wrong notions of shUdra access to sanskrit and the varNa of shabarI etc.. Books about marxism were seemingly ghost written under his name.

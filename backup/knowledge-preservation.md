@@ -220,12 +220,17 @@ Laser engraving on skin is possible. [YT](https://www.youtube.com/watch?v=dv40hx
 
 
 ### .1k-.3k yr
-#### Museum grade paper
+#### Lignin-free paper
 Curators love these papers because they’re made of 100% cotton rag and have no OBAs. The base stock is both acid- and lignin-free. The coating is acid-free.
 
 it must be manufactured using pure cotton fibres (a.k.a. cotton rag) or pure alpha cellulose fibres, which are naturally more durable than wood pulp.
 
 Must still be saved from acidic mats and sunlight.
+
+##### Lignin risk
+Lignin is highly sensitive to light and oxygen. When exposed, it undergoes a chemical reaction that turns the paper yellow or brown.
+
+As lignin breaks down (oxidizes), it produces acidic by-products, leading to "brittle paper syndrome".
 
 #### Archival paper
 Archival papers are (~100%) acid-free and lignin-free. Superior to acid-free paper.  
@@ -411,9 +416,19 @@ Other efforts
 
 ### Sleeves
 - Should not be airtight & create a microclimate. So flap can close but not seal.
-- Plastic sleeves (Mylar/Polyester) are ok.
+- Keep surrounding gases and silverfish out to some extant.
+- Can provide structural support to the paper inside.
 
-2026 Rs 24/ 140 A4 capacity - [TW](https://www.amazon.in/Amazon-Brand-Solimo-Top-Opening-Reusable/dp/B0C6KFMP6T)
+#### Plastic sleeves
+- (Mylar/Polyester) are ok. 
+- Polypropylene (PP) is inert, doesn't have additives. Good structural support.
+- Polythene (PE) is not good.
+  - often contain "slip agents" or plasticizers - Over 10–20 years, these chemicals can "migrate" out to paper.
+  - soft, stretchy, and "floppy." No structural support.
+  - quite "breathable" at a molecular level
+
+
+2026 Rs 24/ 140 A4 capacity Poly Propylene - [TW](https://www.amazon.in/Amazon-Brand-Solimo-Top-Opening-Reusable/dp/B0C6KFMP6T)
 
 ### Boxes
 - Good to control humidity. Silica gel reduces it further.
