@@ -414,12 +414,12 @@ Other efforts
 - High humidity (often exceeding 70% in Bangalore) accelerates hydrolysis, the chemical breakdown of paper fibers.
 - wood releases "lignin" gases that accelerate paper browning. Do not store the document directly against a wooden shelf.
 
-### Sleeves
+### Sleeves/ envelopes
 - Should not be airtight & create a microclimate. So flap can close but not seal.
 - Keep surrounding gases and silverfish out to some extant.
 - Can provide structural support to the paper inside.
 
-#### Plastic sleeves
+#### Plastic
 - (Mylar/Polyester) are ok. 
 - Polypropylene (PP) is inert, doesn't have additives. Good structural support.
 - Polythene (PE) is not good.
@@ -428,7 +428,11 @@ Other efforts
   - quite "breathable" at a molecular level
 
 
-2026 Rs 24/ 140 A4 capacity Poly Propylene - [TW](https://www.amazon.in/Amazon-Brand-Solimo-Top-Opening-Reusable/dp/B0C6KFMP6T)
+##### Options
+- 2026 Rs 24/ 140 A4 capacity Poly Propylene envelopes - [TW](https://www.amazon.in/Amazon-Brand-Solimo-Top-Opening-Reusable/dp/B0C6KFMP6T)
+- A3 poly-propylene sheets with anti-static additives - 2026 - 10Rs - Source: [TW](https://www.amazon.in/dp/B00TDG8KEU?ref=ppx_yo2ov_dt_b_fed_asin_title)
+
+When you buy the sleeves, open the pack. If there is a strong chemical odor, let them "air out" for 48 hours before putting your document inside. This allows any initial "outgassing" of additives to happen outside the sleeve rather than being trapped against your paper.
 
 ### Boxes
 - Good to control humidity. Silica gel reduces it further.

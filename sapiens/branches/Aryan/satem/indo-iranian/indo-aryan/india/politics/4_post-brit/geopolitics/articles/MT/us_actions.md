@@ -3,6 +3,33 @@ title = "US actions"
 +++
 
 ## 2026
+### Israel
+Source: [TW](https://x.com/blog_supplement/status/2026506125294592323)
+
+The timing of the lATarAja's visit to the Jewish state is interesting. Nathanyahoo is trying the incorporate India into the Hexagon alliance. We believe that is an important piece of the puzzle to understand this. 
+
+There is a common enemy in the turuShka, which is now engaging in a trade blockade of Israel.  
+On the H side, the Rumi Khans are aiding the Mogol rump state in the sindhu. 
+
+Hence, we suspect that from the lATarAT's perspective, it is important to solidify defensive networks with Isr and Greece against the turuShka. 
+
+However, they might be on the brink of a war with Iran, which has the potential to cause widespread chaos, especially for India. If they pull the trigger on Iran first, drawing the mahAmlechCha into it, where is all this Hexagon planning going? That is the open end of this puzzle that we don't fully get.
+
+This the AI summary of the so-called Hexagon strategy:
+
+🇮🇳 India: Global power & economic anchor  
+🇬🇷 Greece/Cyprus: Med security & energy  
+🇦🇪 UAE (Arab States): Regional hub/Trade  
+🇸🇴 Somaliland (Africa): Red Sea control  
+🇸🇬 SE Asia (SGP/VN): Tech & supply chains  
+🇮🇱 Israel: Defense, AI & Innovation
+
+Not sure if it can be put play if the Iran war breaks out.
+
+> I am scared of this timing of visit.. hope he is back in dilli soon..
+
+have to agree to a degree. Some people tell me that timing suggest that he want to have things in place so as something big in on the horizon -- probably in a matter of days more than months. This is not my thought -- simply mentioning it.
+
 ### Challenges
 H will probably face challenging times in the relatively near future from the A~NglamlechCha directly or more likely via their marUnmatta allies.
 
