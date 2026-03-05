@@ -23,4 +23,5 @@ chaitanya met rUpa -  During the month of Māgha (January/February) 1515 CE. The
 chaitanya met Sanātana - He had just escaped from the Sultan's prison and arrived in Vārāṇasī in a state of utter destitution, which pleased Caitanya immensely. Instructed him for 2 months.
 
 ## Non-sannyAsa
-They never took sannyAsa.
+They never took sannyAsa. sanAtana was technically a gRhastha, and rUpa a brahmachArin. Yet, they did not execute the corresponding nitya-karmas.
+
