@@ -7,7 +7,6 @@ title = "Supr"
 - Science (श्रुतिः)
 - tamiL - shrIvaiShNava texts and mags (बालकृष्णः)
 - Telugu rAmAyaNa (श्रीदेवी)
-- Taekwondo (**Iban-Jhop**)
 - कर्णाटक-कण्ठ-सङ्गीतम् (**स्नेहश्री**, **राजलक्ष्मी**)
 - कर्णाटक-सङ्गीतम् - Violin (**राजलक्ष्मी**)
 - Spanish - daily 5 min (duolingo)
@@ -24,6 +23,7 @@ title = "Supr"
 - नृत्यम् - अनूराधा-गणः (कलाक्षेत्र-शैली), अनूषा, सरोजिनी (ताञ्जावूरु-शैली), राधिका (पन्द-नल्लूरु-शैली), कविता (पन्दनल्लूर्-शैली)
 - kannaDa, english reading (श्रुतिः)
 - Goodreads [here](https://www.goodreads.com/review/list/184092601?shelf=read)
+- Taekwondo (**Iban-Jhop**) up to green belt
 
 ## Routine
 Class and ritual timings give structure.
@@ -32,7 +32,7 @@ Rituals - tarpaNa, brahmayajna, sandhyAvandana, ijyA, japa, sandhyAvandana, sami
 
 ## 2026-02
 - Restarted swimming classes
-
+- Ended Taekwondo. Further improvement requires testosterone release, and fighting spirit.
 
 ## 2026-01
 - न्याय-सुधा-मङ्गल-कार्यक्रम-दर्शनं कुक्के-सुब्रह्मण्य-क्षेत्रे। Small kumAra-parvata-trek. Poor performance in subrahmaNyana-hoLe in agrahAra.

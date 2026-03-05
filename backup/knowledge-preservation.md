@@ -22,6 +22,10 @@ In descending order of longevity and utility-
 - Stable metal (eg. Nickel) sheet page stamps
 - Stable metal pages with laser engraving
 
+#### Lower best practices
+- 3d print plates with non-biodegradable plastic; so that they can later be used for stamp-printing copies.
+- Paper printing - print on acid free lignin free paper with pigment ink (not laser toner), dont attach lower grade covers, stitch (no staple or glue), preserve in Polypropylene envelopes.
+
 ### 6k+ yr
 #### Ceramics
 ##### Ceramic microfilms

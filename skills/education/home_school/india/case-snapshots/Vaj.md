@@ -5,7 +5,6 @@ title = "vajr"
 ## Current classes
 - maths, comics in english (**nAgaratnA**)
 - tamiL (बालकृष्णः)
-- Taekwondo (**Iban-Jhop**)
 - कर्णाटक-कण्ठ-सङ्गीतम् (**स्नेहश्री**, **राजलक्ष्मी**)
 - भरत-नृत्तम् - **कविता** (पन्दनल्लूर्-शैली)
 - tablA (**विश्वनाथः**)
@@ -15,6 +14,7 @@ title = "vajr"
 
 ## Past
 - नृत्यम् - अनूषा, सरोजिनी (ताञ्जावूरु-शैली), राधिका (पन्द-नल्लूरु-शैली), कविता (पन्दनल्लूर्-शैली)
+- Taekwondo (**Iban-Jhop**) - Yellow belt with green stripe.
 - maths, english reading (श्रुतिः)
 
 ## Routine
@@ -22,6 +22,10 @@ Class and ritual timings give structure.
 
 Rituals - tarpaNa, brahmayajna, sandhyAvandana, ijyA, japa, sandhyAvandana, samidAdhAna
 
+## 2026-02
+- Ended Taekwondo. Further improvement requires testosterone release, and fighting spirit.
+
+ 
 ## 2026-01
 - भरत-नृत्यम् - कविता (पन्द-नल्लूरु-शैली) class ended. (विस्तारः सुप्रत्ययपत्रे।)
 - न्याय-सुधा-मङ्गल-कार्यक्रम-दर्शनं कुक्के-सुब्रह्मण्य-क्षेत्रे। Small kumAra-parvata-trek. Poor performance in subrahmaNyana-hoLe in agrahAra.

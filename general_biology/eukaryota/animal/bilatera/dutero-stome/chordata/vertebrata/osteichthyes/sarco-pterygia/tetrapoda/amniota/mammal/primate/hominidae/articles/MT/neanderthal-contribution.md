@@ -15,3 +15,12 @@ Over at least ~200 immunity-related variants might have risen from N introgressi
 There is some type of bear-cult or bear sacrifice recorded among the Ainu, the Amur River Gilyaks and the Uralic-speaking Saami people. Even the Danish human geneticist-explorer Eske Willerslev had supposedly been afflicted by disrespect for a bear ritual.  Witzel had proposed that the bear ritual might have had its origins in Neanderthals, though he was misled into believing that they lacked speech. 
 
 Conservative archaeologists have cast much aspersion on the idea that Neanderthals had a bear ritual. However, much of this is in the same realm as denying that Naledi did not bury their dead in the cave. We remain sympathetic to the possibility of a Neanderthal bear ritual. In that case, the possibility of a word for bear or Ursa Major, coming from a Neanderthal language, could be entertained.
+
+
+## Preference for human females?
+Source: [TW](https://x.com/blog_supplement/status/2027240726854070305)
+
+The autosomes of Homo sapiens chromosomes are enriched in Neanderthal genomic segments relative to the X chromosome. A recently published study shows that in ancient Siberian Neanderthals around 122 KYA, the X chromosome was enriched in sapiens DNA relative to their autosomes. Based on this bias, the authors suggest that Neanderthal males preferentially mated with sapiens females on the occasions when such pairings occurred.
+
+Paleoanthropologist Steven Churchill states the quiet part aloud: If males from one species monopolized females from the other, he says, “it’s hard to reconcile that with anything but a competitive, unfriendly interaction.” -- Neanderthals likely occasionally abducted sapiens women and mated with them. This makes us wonder if, in return, the sapiens waged a war of extermination to drive them to extinction by ~40 KYA. [TW](https://t.co/mfO8xyKYhN)
+

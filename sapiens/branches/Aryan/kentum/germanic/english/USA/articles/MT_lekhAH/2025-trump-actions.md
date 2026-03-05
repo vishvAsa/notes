@@ -2,6 +2,30 @@
 title = "2025+ trump actions"
 +++
 
+## MAGA peeling off
+One can see several of the "core magas" are peeling away from the nAri~Nga and anUpa. I guess they are seeing how badly they have been conned in all this. Tulsi should ideally be resigning.
+
+## Iran endgame
+It is not clear if America has thought about or even cares about an endgame in this conflict. They are just doing what they are asked to do. The mUlonmatta-s endgame is clear: a fragmented Iran just like they arranged it for Iraq or Libya. They'd be happy if various factions like Kurds, Balochs, Persian Mohds, Persian moderns/atheists/leftists etc, Azeris, etc. are all jostling for power or breaking away in a chaotic state with energy, water and supplies crises.
+
+## Iran
+mlechCheshvaro vA yantra-putrako vA : piNDako vA pichChilako vA ||
+
+navyadhUrtA vijayante |
+
+- Iraq ☑️
+- Syria ☑️
+- Lebanon ☑️
+- Libya ☑️
+- Somalia ☑️
+- Sudan ☑️
+- Iran  ❓
+
+The nAri~NgapuruSha' strategy has been to pacify two "bases" at once. To the xenophobic ethnonationalist core of maga alliance, he sent anUpa and the hima shock troops to whip up as much action against the "aliens" as he could. 
+
+For the uparimarkata-s he promised to bring the head of the pArashava-marUnmatta-s. There is not much general support for this among the mahAmlechCha. 
+
+His hastin-s and his successor anUpa will likely lose all the coming elections to the gardabha-s, and some of his anuyAyin-s might be kArAgR^ihastha. The gardabha-s, as expected, will bring back the soraShaNDarAjya.
 
 ## City vs Empire
 The clash between the imperial court running the nAri~NgapuruSha and gardabha-run oligarchic city states -- megalopolises is beginning to shape up among the mahAmlechCha. This also fits the Spenglerian pattern well of the clash between the Caesar (nAri~Nga run by his controls) and the megalopolitan oligarchs backing the gardabha-s.

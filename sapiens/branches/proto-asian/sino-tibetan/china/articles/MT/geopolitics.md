@@ -2,9 +2,26 @@
 title = "Geopolitics"
 +++
 
-Source: [TW](https://threadreaderapp.com/thread/1639695934501076993.html)
+
+## India intentions
+My reading is that they primarily want engage in conflict with India who they see as their biggest enemy and Taiwan. The objective IMO is to wait for a moment when the American empire has exhausted itself and seize Taiwan. If the Americans gain easy victories in the coming years that would be harder. 
+
+Similarly, they are hoping that democracy runs its course and the Hindu drop the axe on their foot by electing a self-destructive gov. Then they'll close in on India.
+
+
+## Predatoriness
+Source: [TW](https://x.com/blog_supplement/status/2028359294530330735)
+
+What we are seeing again in the current prathamonmattamahAmlechChau assault on Islamic Republic is that chIna-s are not a predatory state anywhere in the league of those two. They are built up by Galtonism, but in practice, lack that predatory capacity. Any predatory state that really has the capacity will display as the rUs did when they held the Soviet empire. The rUs have lost much of that capacity but have a bit of that instinct still left in them.
+
+> Isn't it only because they don't have the military capacity of Rus/US and are biding their time ?
+
+I imply a true predatory state will have the military capacity. They are biding time because they are hoping the American empire will exhaust itself. If they had any mettle, we would see the invasion of Taiwan underway now. Tibet was a fruit waiting to be picked given is ill-fitted army.
 
 ## Demographic window
+Source: [TW](https://threadreaderapp.com/thread/1639695934501076993.html)
+
+
 The more one looks, it seems the demographic window for chIna adventurism is rather limited -- whether they want to conquer Taiwan or invade India or even, for that matter, Mongolia in a lamaistic frenzy. The emperor has to move in his current term. So one can interpret his pact with the rUs as giving the space for just that. 
 
 ## India as pawn

@@ -3,6 +3,13 @@ title = "US actions"
 +++
 
 ## 2026
+### iran attack
+
+The discerning can see that there is more to the u1-pArashava-marUnmatta-yuddha than meets the untrained eye. Those people who recently told me during the lATapati's visit that it was just a matter of days were right. 
+
+The question that really matters to the common folk is whether and how long the marUnmatta can close the straits of Hormuz. But that is only one thing; there is more.
+
+
 ### Israel
 Source: [TW](https://x.com/blog_supplement/status/2026506125294592323)
 
