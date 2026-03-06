@@ -23,5 +23,10 @@ chaitanya met rUpa -  During the month of Māgha (January/February) 1515 CE. The
 chaitanya met Sanātana - He had just escaped from the Sultan's prison and arrived in Vārāṇasī in a state of utter destitution, which pleased Caitanya immensely. Instructed him for 2 months.
 
 ## Non-sannyAsa
-They never took sannyAsa. sanAtana was technically a gRhastha, and rUpa a brahmachArin. Yet, they did not execute the corresponding nitya-karmas.
+They never took sannyAsa. sanAtana was technically a gRhastha, and rUpa a brahmachArin. Yet, they did not execute the corresponding nitya-karmas, living like paupers in vRndAvana - may be because they misuderstood what an avadhUta is. They abandoned their families for no known just cause. R and S foresook shikhopavItau without even taking sannyAsa?? 
 
+Chaitanya seemingly did not disapprove - caring only to praise their humbleness, spiritual insights and verses.
+
+But this breaking of the varNAshrama-dharma contrasts with chaitanya's own strict adherence to sannyAsi-dharma. At best this can be resolved by considering the brothers to be special cases given an exception by bhagavAn himself, not to be followed by later abandoners.
+
+jIva did not adopt the lifestyle of a homeless mendicant (vairāgī) like his uncles, nor did he take formal sannyāsa. Instead, he lived as a naiṣṭhika-brahmacārī— a lifelong celibate.

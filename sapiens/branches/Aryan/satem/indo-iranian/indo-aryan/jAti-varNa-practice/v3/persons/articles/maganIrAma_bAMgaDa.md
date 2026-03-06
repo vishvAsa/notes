@@ -1,5 +1,5 @@
 +++
-title = "१० मगनीराम बांगड"
+title = "मगनीराम बांगड"
 
 +++
 Source: [TW](https://nsktu.ac.in/wp-content/uploads/2020/11/srimadrahasyatrayasara-15265.pdf)

@@ -12,6 +12,8 @@ Supposed reincarnation of a gopI ( Anaṅga-mañjarī per Gaura-gaṇoddeśa-dī
 > In the year 1433 Śakābda (A.D. 1511), when Lord Caitanya Mahāprabhu was touring South India, He stayed for four months during the period of Cāturmāsya at the house of Veṅkaṭa Bhaṭṭa, who then got the opportunity to serve the Lord to his heart’s content.  Gopāla Bhaṭṭa also got the opportunity to serve the Lord at this time. ...
 \- abhaya-charaNa-dAsaH bhaktivedAnta-svAmI
 
+अयं चैतन्यः शाङ्कर-सन्न्यासात् परं श्रीरङ्गं प्राप्तः। कथम् अर्चकगृहे ऽवसत्? सचेलस्नाननिमित्तं तद्दर्शनं भवति खलु??
+
 ## Gone to vRndAvana
 This supposedly happened in mid 1530s, after chaitanya died.
 
