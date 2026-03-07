@@ -2,6 +2,11 @@
 title = "2025+ trump actions"
 +++
 
+## Landau & Galtonism
+> "We are excited about the trade deal that is almost at the finish line now, and I think that that can be the basis for really unlocking almost limitless potential. We are very excited about focusing on India and these economic and commercial opportunities. But India should understand that we are not going to make the same mistakes with India that we made with China 20 years ago in terms of saying, "You will be able to develop all these markets, and then the next thing we know, you are beating us in a lot of commercial things." We are going to make sure that whatever we do is fair to our people because ultimately, we have to be accountable to our own people just as the government of India has to be accountable to its people..." (05.03)
+
+While people have been getting quite worked up about Landau's comments, I think he just being honest and stating the ground reality. Of course, what is missed by many is power of Galtonism in chIna-mlechCha relationships. The coin of Galtonism has another side which is the inverse of the behavior towards the chIna-s with respect to India.
+
 ## MAGA peeling off
 One can see several of the "core magas" are peeling away from the nAri~Nga and anUpa. I guess they are seeing how badly they have been conned in all this. Tulsi should ideally be resigning.
 
