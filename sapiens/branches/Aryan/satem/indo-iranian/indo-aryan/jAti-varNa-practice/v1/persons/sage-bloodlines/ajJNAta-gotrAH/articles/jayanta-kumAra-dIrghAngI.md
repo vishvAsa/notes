@@ -1,5 +1,5 @@
 +++
-title = "Jayanta kum Ara d Irgh Ang I"
+title = "Jayanta kumAra dIrghAngI"
 +++
 
 Source: [TW](https://ramanuja.org/sri/BhaktiListArchives/Article?p=rituals%2Fsep2002%2F0024.html)

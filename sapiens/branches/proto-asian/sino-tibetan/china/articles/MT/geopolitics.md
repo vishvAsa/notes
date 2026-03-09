@@ -2,6 +2,20 @@
 title = "Geopolitics"
 +++
 
+## China inaction
+
+Source: [TW](https://x.com/blog_supplement/status/2030531391520190768)
+
+Wars, even when "air superiority" is established, and "bomb 'em to the stone age" orders are issued, are uncertain in their progression.  
+
+That said, as of now, the inaction of the chIna-s (Taiwan 😉) shows that they are not really vying to replace the mahAmlechCha. This may be because: 
+
+1. in practice they are weaker than Galtonistically projected; 
+2. they have a Galtonistic under the table understanding with the mahAmlechCha. 
+3. Their economy cannot survive any damage to the mahAmlechCha.
+
+Hence, we cannot rule out that they might cooperate against the H.
+
 
 ## India intentions
 My reading is that they primarily want engage in conflict with India who they see as their biggest enemy and Taiwan. The objective IMO is to wait for a moment when the American empire has exhausted itself and seize Taiwan. If the Americans gain easy victories in the coming years that would be harder. 

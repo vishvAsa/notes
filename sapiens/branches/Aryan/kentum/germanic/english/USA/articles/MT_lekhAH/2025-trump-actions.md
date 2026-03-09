@@ -2,6 +2,21 @@
 title = "2025+ trump actions"
 +++
 
+## Carthage
+It seems the wild pichChilaka is being egged on to do a Carthage on the Islamic Republic +++(of Iran)+++.
+
+### Alienation
+I think "bomb 'em to the stone age" campaigns will alienate the people and will not help the formation of an opposition of the kind the mahAmlechCha desire.  
+
+### Fragmentation
+It could however fragment the country and they could declare that as a W.
+
+By mass killing of rounds of leaders and the consistent perfidy they have displayed is unlikely to get any unified party to work with them.
+
+
+## Distracted from Epstein 
+Apastiya has vanished from the news? You can call it a conspiracy theory, but it does not seem entirely coincidental to me.
+
 ## Landau & Galtonism
 > "We are excited about the trade deal that is almost at the finish line now, and I think that that can be the basis for really unlocking almost limitless potential. We are very excited about focusing on India and these economic and commercial opportunities. But India should understand that we are not going to make the same mistakes with India that we made with China 20 years ago in terms of saying, "You will be able to develop all these markets, and then the next thing we know, you are beating us in a lot of commercial things." We are going to make sure that whatever we do is fair to our people because ultimately, we have to be accountable to our own people just as the government of India has to be accountable to its people..." (05.03)
 
