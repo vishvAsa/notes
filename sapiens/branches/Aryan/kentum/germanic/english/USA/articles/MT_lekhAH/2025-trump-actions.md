@@ -2,6 +2,9 @@
 title = "2025+ trump actions"
 +++
 
+## Plantair and X
+The strange thing was I just saw the quote tweet. When I clicked on it vanished. Palantir is doing its job -- it is a hub for this war; muShkavAn is their man.
+
 ## Carthage
 It seems the wild pichChilaka is being egged on to do a Carthage on the Islamic Republic +++(of Iran)+++.
 

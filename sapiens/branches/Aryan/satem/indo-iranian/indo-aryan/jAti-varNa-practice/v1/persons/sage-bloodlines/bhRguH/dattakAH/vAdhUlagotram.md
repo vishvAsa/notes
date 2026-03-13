@@ -28,6 +28,8 @@ title = "वाधूलगोत्रम्"
 > Hagiography gives some folk etymology using gandham+ADai.. but in reality kandadai clan has existed even from the 9th century as seen from a copper plate grant of Nandivarman Pallava III.  
 > - रविलोचनः
 
+There exist kandadai vdks - RL
+
 ## गङ्गाधरः
 Gaṅgādhara Vājapeyayāi also known by names Gangadhara Adhvarin and Gangadhara Suri was a great vedic scholar of the Krishna Yajurveda from Thiruvalangadu in Thanjavur district of Tamil Nadu. He was an expert in Nyaya and Taraka Shastra. He was one of the eight jewels at the court of Maratha king Serfoji I of Tanjore. Bhaskararaya acquired knowledge of the Nyaya sastra and Tarka sastra from Gangadhara Vajapeyin.
 

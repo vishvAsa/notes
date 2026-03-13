@@ -12,6 +12,14 @@ Especially after the assassination of Mujeeb, RAW helped Bangladeshi Hindus deve
 
 According to contemporary allegations by BD politicians, some BD Hindu and Chakma refugee youth were taken by RAW to a special Indian Army camp built for them in Himachal, and provided detailed training.
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Source: [TW](https://x.com/Indrauta_/status/2032087269142827201)
+
+In response to Ziaur Rahman’s pro-Pakistan alignment and hosting Mizo militants in CHT, Indian agencies trained (1975-76) and infiltrated thousands of Buddhist Chakma rebels and intensified the Bangabhumi movement under the former Awami League politician Chittaranjan Suttar.
+</details>
+
+
 WB then had a Congress government. (The last it had in WB). With CM SS Ray’s blessings, some of these BD Hindu orgs operated on this side of border. Young Pranab Mukherjee was the chief liaison with late Mujeeb’s family and supporters.
 
 Emergency allowed Indira Gandhi to do what she wanted without answering any questions,
@@ -23,3 +31,4 @@ For friendly relations with Zia (Khalida’s husband) - whom Indira Gandhi alway
 A WikiLeaks cable from the US embassy in Dhaka to Washington DC one of those days, documents Zia administration hoping for the electoral victory of Janata Party.
 
 Just coincidently, according to some books, one of those militant underground BD Hindu youth groups had a flag - a 1/3 vertical green rectangle with 2/3 saffron rectangle - almost the future BJP flag - with a Sun in the middle.
+

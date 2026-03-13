@@ -5,13 +5,7 @@ title = "1891 kAnchI-AchAryaH - vijay"
 
 The more recent PB Annangaracharya who lived in the previous century is the one who has written a lot against Vadakalai views. He descends from the same PB Annan. 
 
-At some point of time in his later life, he supposedly performed Prapatti in secret from Abhinava Ranganatha Parakala Swamy (1884-1967, r 1925-1967). +++(Suppsedly witnessed by KSV.)+++ 
-
-<details><summary>विश्वास-टिप्पनी</summary>
-
-In 1954, he published hateful screeds (in sanskrit, hindi, tamil, hindI) slandering periya parakAla yati, ahobila yati etc.. This is filled with many lies, inferential errors etc.. See: [TW](/rAmAnujIyam/paramparA/kalai-quarrel/kAnchy-aNNangarAryaH/dayApAtra-history).
-</details>
-
+At some point of time in his later life, he supposedly performed Prapatti in secret from Abhinava Ranganatha Parakala Swamy (1884-1967, r 1925-1967). +++(Suppsedly witnessed by KSV.)+++
 
 He has published several texts in a Ramanuja Granthamala and a Vedanta Desikah Granthamala, the latter being on the guidance of the Parakala Jeer so presumably post-prapatti.
 

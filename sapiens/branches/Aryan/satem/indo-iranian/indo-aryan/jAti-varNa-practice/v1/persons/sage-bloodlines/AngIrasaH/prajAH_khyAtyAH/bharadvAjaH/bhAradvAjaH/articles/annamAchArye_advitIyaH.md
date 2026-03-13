@@ -277,17 +277,15 @@ Now, Lord Tiru Vênkatêshwara had appeared in the dream of Annamayya and Himsel
 During those days, in the holiest of holy towns revered by supreme devotees- the town by the name of Ahobilam, there lived a great exponent of the doctrine of Rāmānujāchārya, serving humbly the lotus feet of Lord Mālola Narasimha. The work ‘Vāsantikā Parinayam’ of Śri Śatakopa Yatîndra Mahādeshikan, the seventh Jîyar of Ahobila Matam (Nirvāham 1513 – 1522 C.E.), gives a wonderful description of that great exponent of Ramanuja Siddhanta as follows-
 
 > अत्र खलु, पवित्रतर-परम-भागवत-परिवृत-- श्रीमद्-अहोबिल-पुरे  
-> 
-> आसीद् व्यासस्य वीप्सा, शुक-मुनि-यमकं, पुण्डरीक-द्विरुक्तिः,  
-> ???? प्रथित-यति-कुल-प्राग्रणी-वण्-शठारि-  
-> प्राज्ञानां यस्तु राज्ञां पदवि-नति-कृताम् अष्ट-वर्णोपदेशात्  
-> अष्टैश्वर्याष्टभोगान् अदित समधिकाम् अष्ट-दिक्-ख्याततां च॥
+>
+> आसीद् व्यासस्य वीप्सा, शुक-मुनि-यमकं, पुण्डरीक-द्विरुक्तिः  
+प्रह्लादस्यानुवादः, प्रथिततर-तपाः, प्राग्रणीर् वण्-शठारिः॥  
+भाट्टानाम् अट्टहासः, फणि-पति-फणितेर् भाग-धेयं, कणाद-  
+व्याहार-प्राण-नाडी, कपिल-मत-फलं, नर्म धर्मागमानाम्।
+योगी श्रीवण्-शठारिर् जगति विजयते किञ्च वेदान्त-युग्मा
 
-atra khalu pavitratara paramabhagavataparivṛta śrimad ahōbilapurē āsid vyāsasya vipsā śukamuniyamakam pundarikadviruktiḥ prathitayatikulaprāgrani vansathāriḥ 
-prājñānām yastu rājñām padavinatikṛtām aṣṭavarṇōpadēśāt aṣṭaiśvaryāṣṭabhogān aditasamadhikāmaṣṭadikkhyātatām ca
 
-> “People considered him to be a second manifestation of sage Vyāsa, or a descent of sage Śuka, or perhaps even a reappearance of sage Pundarîka! He became celebrated as the foremost among the ‘Yatis’ or ascetics. The wise and great kings bowed down in deep 
-reverence to his lotus feet. And this Yati, by initiating those devotees into the ‘Astāksharî’ ‘eight syllable’ mantra, also blessed them with eight kinds of wealth, eight kinds of enjoyment, renown in all the eight directions- all these and more, in a superabundant manner!”
+> “People considered him to be a second manifestation of sage Vyāsa, or a descent of sage Śuka, or perhaps even a reappearance of sage Pundarîka! He became celebrated as the foremost among the ‘Yatis’ or ascetics. The wise and great kings bowed down in deep reverence to his lotus feet. And this Yati, by initiating those devotees into the ‘Astāksharî’ ‘eight syllable’ mantra, also blessed them with eight kinds of wealth, eight kinds of enjoyment, renown in all the eight directions- all these and more, in a superabundant manner!”
 
 This Yati was none other than the divine Sri ‘Van Śatāri’, or Sri ‘Van-Śatakopa Muni’, or Śri Âdi Van Śatakopa Swāmi. 
 
