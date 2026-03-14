@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;General purpose on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/general_purpose/</link>
+    <description>Recent content in &#43;General purpose on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/general_purpose/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/general_purpose/go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/general_purpose/go/</guid>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;&#xA;&lt;p&gt;Compiled language. Has garbage collection. Type checked. Functions as values.&lt;/p&gt;&#xA;&lt;h3 id=&#34;negatives&#34;&gt;Negatives&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No operator overloading.&lt;/li&gt;&#xA;&lt;li&gt;Go is not meant to innovate programming theory. It&amp;rsquo;s meant to innovate programming practice.&lt;/li&gt;&#xA;&lt;li&gt;No type hierarchy. Can have interfaces.&lt;/li&gt;&#xA;&lt;li&gt;For user defined classes, this is not a problem. One can use embedding.&lt;/li&gt;&#xA;&lt;li&gt;Deliberate focus on simplicity.&lt;/li&gt;&#xA;&lt;li&gt;No operator overloading.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ref&#34;&gt;Ref&lt;/h2&gt;&#xA;&lt;div class=&#34;spreadsheet&#34; fullHeightWithRowsPerScreen=8 src=&#34;../go.toml&#34;&gt; &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/general_purpose/java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/general_purpose/java/</guid>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Platform independence: so no direct access to memory.&lt;/li&gt;&#xA;&lt;li&gt;Object orientated approach.&lt;/li&gt;&#xA;&lt;li&gt;Memory management: Garbage collection.&lt;/li&gt;&#xA;&lt;li&gt;Compiled into bytecode which can be run everywhere using native interpreters. Due to many optimizations - such as &amp;lsquo;just in time&amp;rsquo; compilation, speed comparable with C for many applications.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;classes&#34;&gt;Classes&lt;/h2&gt;&#xA;&lt;h3 id=&#34;important-superclasses-interfaces&#34;&gt;Important Superclasses, interfaces&lt;/h3&gt;&#xA;&lt;h4 id=&#34;serializable&#34;&gt;Serializable&lt;/h4&gt;&#xA;&lt;p&gt;Implementing Serializable ensures that an object instance can be stored in a file and retrieved later.&lt;/p&gt;&#xA;&lt;h4 id=&#34;clonable&#34;&gt;Clonable&lt;/h4&gt;&#xA;&lt;p&gt;Implementing the Cloneable interface ensures that the traits of a given object can be copied using the copy() definition. ArrayList internally uses an array, but if copy were implemented such that only the reference to the internally used arraylist were copied, then both copies would be affected by any change in the arraylist. Hence, it is important to override copy() as appropriate.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kotlin</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/general_purpose/kotlin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/general_purpose/kotlin/</guid>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Conciser java. Fully interoperable with Java (calling scala functions from java sometimes troublesome). Suppored by Android.&lt;/li&gt;&#xA;&lt;li&gt;Avoids null pointer exceptions - refuses to compile null assignments.&lt;/li&gt;&#xA;&lt;li&gt;Less expressive than Scala. Worse inlining compared to scala.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ref&#34;&gt;Ref&lt;/h2&gt;&#xA;&lt;div class=&#34;spreadsheet&#34; fullHeightWithRowsPerScreen=8 src=&#34;../kotlin.toml&#34;&gt; &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Lua</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/general_purpose/lua/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/general_purpose/lua/</guid>
+      <description>&lt;h2 id=&#34;paradigms-and-extensibility&#34;&gt;Paradigms and extensibility&lt;/h2&gt;&#xA;&lt;p&gt;Multi-paradigm language. Functions can be treated as values, higher-order functions exist.&lt;/p&gt;&#xA;&lt;p&gt;Highly extensible.&lt;/p&gt;&#xA;&lt;h3 id=&#34;building&#34;&gt;Building&lt;/h3&gt;&#xA;&lt;p&gt;Compiled to bytecode, executed.&lt;/p&gt;&#xA;&lt;h3 id=&#34;metatable&#34;&gt;Metatable&lt;/h3&gt;&#xA;&lt;p&gt;This can be used to effect inheritence.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt; fibs = { 1, 1 }&#xA;setmetatable(fibs, {&#xA;  __index = function(name, n)&#xA;  -- Call this function if fibs[n] does not exist.&#xA;    name[n] = name[n - 1] + name[n - 2]&#xA;    return name[n]&#xA;  end&#xA;})&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;ref&#34;&gt;Ref&lt;/h2&gt;&#xA;&lt;div class=&#34;spreadsheet&#34; fullHeightWithRowsPerScreen=8 src=&#34;../lua.toml&#34;&gt; &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Perl</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/general_purpose/perl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/general_purpose/perl/</guid>
+      <description>&lt;h2 id=&#34;distinctive-features&#34;&gt;Distinctive features&lt;/h2&gt;&#xA;&lt;p&gt;This is an interpreted language. It is loosely typed.&lt;/p&gt;&#xA;&lt;p&gt;It is very good at text processing.&lt;/p&gt;&#xA;&lt;h3 id=&#34;richness-of-syntax&#34;&gt;Richness of syntax&lt;/h3&gt;&#xA;&lt;p&gt;It is very rich, so that there are multiple ways to accomplish the same thing; to the point where code written by one programmer may be unintelligible to another.&lt;/p&gt;&#xA;&lt;h2 id=&#34;running-building&#34;&gt;Running, building&lt;/h2&gt;&#xA;&lt;h3 id=&#34;running&#34;&gt;Running&lt;/h3&gt;&#xA;&lt;p&gt;See perlrun on the internet. Commands to be interpreted are either entered in a special shell, or is passed in a file to the interpreter, or is passed in the command line.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ruby</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/general_purpose/ruby/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/general_purpose/ruby/</guid>
+      <description>&lt;h2 id=&#34;manage-modules-gems&#34;&gt;Manage modules/ gems&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;gem install jekyll bundler&#xA;bundle install&#xA;bundle update&#xA;bundle show gemName&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    <item>
+      <title>Rust</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/general_purpose/rust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/general_purpose/rust/</guid>
+      <description>&lt;h2 id=&#34;notable-traits&#34;&gt;Notable Traits&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Compiled; no runtime or garbage collection. Hence faster relatived to compiled languages like python (2x on binary search).&lt;/li&gt;&#xA;&lt;li&gt;static strict typing&lt;/li&gt;&#xA;&lt;li&gt;Strict safe memory allocations - Avoids memory leaks without garbage collection.&lt;/li&gt;&#xA;&lt;li&gt;Low level of monkey patching support.&lt;/li&gt;&#xA;&lt;li&gt;compiler can be slow compared to other languages.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;building&#34;&gt;Building&lt;/h2&gt;&#xA;&lt;p&gt;Cargo is Rust’s build system and package manager.&lt;/p&gt;&#xA;&lt;h2 id=&#34;main-function&#34;&gt;Main function&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;background-color:#f0f0f0;-moz-tab-size:2;-o-tab-size:2;tab-size:2;&#34;&gt;&#xA;&lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;&#xA;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#f0f0f0;-moz-tab-size:2;-o-tab-size:2;tab-size:2;&#34;&gt;&lt;code&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;1&#xA;&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;2&#xA;&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;3&#xA;&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;4&#xA;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&#xA;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&#34;&gt;&#xA;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#f0f0f0;-moz-tab-size:2;-o-tab-size:2;tab-size:2;&#34;&gt;&lt;code class=&#34;language-rust&#34; data-lang=&#34;rust&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;fn&lt;/span&gt; &lt;span style=&#34;color:#06287e&#34;&gt;main&lt;/span&gt;()&lt;span style=&#34;color:#bbb&#34;&gt; &lt;/span&gt;{&lt;span style=&#34;color:#bbb&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#bbb&#34;&gt;    &lt;/span&gt;&lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;let&lt;/span&gt;&lt;span style=&#34;color:#bbb&#34;&gt; &lt;/span&gt;x&lt;span style=&#34;color:#bbb&#34;&gt; &lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#bbb&#34;&gt; &lt;/span&gt;&lt;span style=&#34;color:#40a070&#34;&gt;5&lt;/span&gt;&lt;span style=&#34;color:#bbb&#34;&gt; &lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;+&lt;/span&gt;&lt;span style=&#34;color:#bbb&#34;&gt; &lt;/span&gt;&lt;span style=&#34;color:#60a0b0;font-style:italic&#34;&gt;/* 90 + */&lt;/span&gt;&lt;span style=&#34;color:#bbb&#34;&gt; &lt;/span&gt;&lt;span style=&#34;color:#40a070&#34;&gt;5&lt;/span&gt;;&lt;span style=&#34;color:#bbb&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#bbb&#34;&gt;    &lt;/span&gt;println!(&lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;Is `x` 10 or 100? x = &lt;/span&gt;&lt;span style=&#34;color:#70a0d0&#34;&gt;{}&lt;/span&gt;&lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;&lt;/span&gt;,&lt;span style=&#34;color:#bbb&#34;&gt; &lt;/span&gt;x);&lt;span style=&#34;color:#bbb&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#bbb&#34;&gt;&lt;/span&gt;}&lt;span style=&#34;color:#bbb&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Use History on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/computer_architecture/use_history/</link>
+    <description>Recent content in &#43;Use History on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/computer_architecture/use_history/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keyboard</title>
+      <link>https://vishvAsa.github.io/notes/computing/computer_architecture/use_history/keyboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/computer_architecture/use_history/keyboard/</guid>
+      <description>&lt;h2 id=&#34;split-keyboard&#34;&gt;Split keyboard&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kiness Frestyle 2 split keyboard - Used in split mode with mouse in the middle.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Alt key in of them stopped working after 5/6 years.&lt;/li&gt;&#xA;&lt;li&gt;Much dirt accumulation under the keys. Stains on keys.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;regular-keyboard&#34;&gt;Regular keyboard&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Thin white apple keyboard&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;gloves&#34;&gt;Gloves&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;IMAK smart glove (padded)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;disiderata&#34;&gt;Disiderata&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Printer</title>
+      <link>https://vishvAsa.github.io/notes/computing/computer_architecture/use_history/printer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/computer_architecture/use_history/printer/</guid>
+      <description>&lt;h2 id=&#34;canon-mf-264dw&#34;&gt;Canon MF 264dw&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Features&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Black and white printer.&lt;/li&gt;&#xA;&lt;li&gt;Authorized Original Toner vendor&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cauvery Infotech, Basaveshvaranagara Bengaluru. Ordered via email and whatsapp.&lt;/li&gt;&#xA;&lt;li&gt;Duplicates on internet.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Wifi.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;arch-linux-setup&#34;&gt;Arch Linux setup&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Add as LPD printer - &lt;code&gt;lpd://192.168.1.26/queue&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Drivers which work&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Generic PCL 5e printer.&lt;/li&gt;&#xA;&lt;li&gt;Canon imageRunner 330s - CUPS+Gutenprint v5.3.4 Simplified&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Description:&#x9;&#xA;Location:&#x9;&#xA;Driver:&#x9;Canon imageRunner 330s - CUPS+Gutenprint v5.3.4 Simplified (grayscale, 2-sided printing)&#xA;Connection:&#x9;lpd://192.168.1.26/queue&#xA;Defaults:&#x9;job-sheets=none, none media=iso_a4_210x297mm sides=two-sided-long-edge&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Alternate (stopped working after some time):&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
