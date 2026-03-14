@@ -2,6 +2,8 @@
 title = "2023-attack"
 +++
 
+
+## Strategy
 Source: [TW](https://threadreaderapp.com/thread/1710905676141146570.html)
 
 It is unclear if the marUnmatta-s had any strategy in their current ghazwat. It was heavy on tactical effervescence -- something also previously seen with their coreligionist from the occupied pA~nchanada & sindhu -- but not clear if it aimed to achieve anything strategically. It that sense it was just like the 9/11 attack -- mass civilian deaths for shock value that will draw the attention of the world. 

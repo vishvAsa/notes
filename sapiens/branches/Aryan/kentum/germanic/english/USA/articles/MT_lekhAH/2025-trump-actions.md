@@ -1,6 +1,17 @@
 +++
 title = "2025+ trump actions"
 +++
+## MAGA split
+We suspect that the split in the MAGA base is not going to heal, irrespective of whether the war ends soon or not. 
+
+If the war is prolonged or its outcome more negative than accounted for  
+anUpa+++(=vance)+++ might still salvage some of his political capital.  
+
+If the war goes well for the mahAmlechCha, then their guru-s would help empower kuruvinda. However, we think in either case, at least for the next round, kuruvinda+++(=rubio)+++ or anUpa, will be beaten by a duShTa gardabha, likely navyamala+++(=newsom)+++ tailakesha. That might alter the mahAmlechCha in a fundamental way and accelerate the decline from within.
+
+Some other political careers would be potentially washed away. One of them could be viveka. Either way things go, the shveta-preta nationalist core MAGA will scuttle their own boat to sink viveka. 
+
+H will face a different kind of hostility emanating from the natural vaira of the soraShaNDAdi.
 
 ## Plantair and X
 The strange thing was I just saw the quote tweet. When I clicked on it vanished. Palantir is doing its job -- it is a hub for this war; muShkavAn is their man.
