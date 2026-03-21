@@ -12,8 +12,24 @@ title = "01 Sources and anecdotes"
 - [Sachar comittee](http://zakatindia.org/Files/Sachar%20Report%20(Full).pdf) report.
 - Bengal growth [here](http://www.thestatesman.com/news/opinion/bengal-s-topsy-turvy-population-growth/93152.html).
 
+#### Growth
+> West Punjab canal colonies were mostly farmed by jat sikh farmers. Issue was that famines were more concentrated in Hindu majority areas except the Bengal famine (which hurt both Bengals).
+>
+> Ms formed nearly 20% of population in 1880s. It rose to 24% by 1941. This was mostly due to higher TFR among Ms. Issue has become worse since independence.  
+
+Post partition - TFR
+
+> In india, Ms formed 13% in 1941 which dropped to 10% in 1951 post partition. It hit 14% by 2011. But we have been erased in west pakistan from 14-15% to just about 2% or less now. 28% to 8% in Bangladesh. - RL
+
 ## World
 - [pew2015](http://www.pewforum.org/2015/04/02/religious-projections-2010-2050/).
+
+In 1800 there were more H than M in the world, but now the reverse is true by a bigger factor.
+
+1. Conversion of Sub Saharan African pagans to Islam
+2. TFR differential from 1940s
+3. Conversion of Hindus in Pak and BDesh
+4. Conversion of N African and W Asia Xtians to Islam
 
 ## Primary sources
 - District level fertility rate [pdf1](http://jsk.gov.in/articles/district_level_fertility_s_irudaya_rajan.pdf).

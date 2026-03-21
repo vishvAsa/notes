@@ -64,7 +64,12 @@ in vaiShNava homa are obviously later insertions - need not imply a later author
 </details>
 
 
-### shrIvaiShNavatvam
+## कृत्यन्तरम्
+commentary on the *Kṛṣṇa-karṇāmṛta,*. (per abhaya-charaNa-dAsa) - [TW](https://archive.org/details/VbGI_the-krishna-karnamrita-of-lilasuka-critically-ed-with-multiple-commentaries-by-s/page/n11/mode/1up)
+
+
+
+## shrIvaiShNavatvam
 As far as he was concerned, he never stopped being an SV - no major distinction existed (gauDIya philosophy, to the tiny extant it existed, did not conflict). He starts hari-bhakti-vilAsa, which he edited.
 
 > चैतन्य-देवं भगवन्तम् आश्रये  
@@ -81,14 +86,26 @@ Why would an SV not be attracted by a neo-ALvAr? His parents were devoted to cha
 
 chaitanya trusted him so much as to make him formalize his doctrines; but rUpa and sanAtana ultimately didn't.
 
+### Break with gauDIyas
+
+#### Data
+> When Kṛṣṇadāsa Kavirāja Gosvāmī took permission from all the Vaiṣṇavas before writing *Śrī Caitanya-caritāmṛta,* Gopāla Bhaṭṭa Gosvāmī also gave him his blessings, but he requested him not to mention his name in the book. - abhaya-charaNa-dAsa
+
+ShaT-sandarbha abandonment, and take-over by jIva - see [here](/AgamaH_vaiShNavaH/gauDIyaH/tattvam/jIva-gosvAmI/ShaT-sandarbhaH/meta/contributions).
+
+Unlike rUpa, sanAtana and jIva, and like chaitanya, gopAla-bhaTTa took sannyAsa. Even more particularly - tridaNDI sannyAsa, like other shrIvaiShNavas, and unlike even chaitanya.
+
+#### Deduction
+One must consider - 
+
+Why did gopAla bhaTTa not finish what he started off with?  
+Though he lived long after jIva completed the project (and after rUpa and sanAtana died), why is he not acknowledged for anything more than the initial "disordered" notes?  
+Why did he ask the author of charitAmRta to not mention him ( as abhayacharaNa dasa states)?  
+Why does Sat-kriyāsāra-dīpikā differ so much from hari-bhakti-vilAsa which sanAtana published under his name?   
+etc..
 
 ### आधुनिक-बान्धवाः
-अर्वाचीन-बान्धवा अपि दीक्षा-करमदिषु बोधयन्ति गौडीयान् - [2019 1](https://youtu.be/WlRKVl8mGbg?si=RktiuclMzDjyKxSV) [TW](https://www.youtube.com/watch?v=Qwqj0w0819E&t=134s)। 
-
-## कृत्यन्तरम्
-commentary on the *Kṛṣṇa-karṇāmṛta,*. (per abhaya-charaNa-dAsa) - [TW](https://archive.org/details/VbGI_the-krishna-karnamrita-of-lilasuka-critically-ed-with-multiple-commentaries-by-s/page/n11/mode/1up)
-
-ShaT-sandarbha abandonment, and take-over by jIva - see [here](/AgamaH_vaiShNavaH/gauDIyaH/tattvam/jIva-gosvAmI/ShaT-sandarbhaH/meta/contributions). 
+अर्वाचीन-बान्धवा अपि दीक्षा-करमदिषु बोधयन्ति गौडीयान् - [2019 1](https://youtu.be/WlRKVl8mGbg?si=RktiuclMzDjyKxSV) [TW](https://www.youtube.com/watch?v=Qwqj0w0819E&t=134s)।
 
 
 ## Disciples

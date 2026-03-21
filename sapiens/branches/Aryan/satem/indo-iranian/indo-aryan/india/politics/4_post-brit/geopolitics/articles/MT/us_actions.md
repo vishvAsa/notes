@@ -3,6 +3,18 @@ title = "US actions"
 +++
 
 ## 2026
+
+### NE India
+Source: [TW](https://x.com/blog_supplement/status/2034061210111340612)
+
+The capture of mlechCha-praNidhi-s in bhArata might reveal how bad the situation on the ground is.
+
+The mlechCha-praNidhi-s' capture confirms something those in the know have known for long with respect to the preta terrorism in the NE and conversion of the tribal populations.
+
+However, it should also be taken as evidence by association for mlechCha subversion and hardening of their marUnmatta and preta allies elsewhere in bhArata (including the import of lawfare and judicial subversion into the nation).
+
+
+
 ### iran attack
 
 The discerning can see that there is more to the u1-pArashava-marUnmatta-yuddha than meets the untrained eye. Those people who recently told me during the lATapati's visit that it was just a matter of days were right. 
