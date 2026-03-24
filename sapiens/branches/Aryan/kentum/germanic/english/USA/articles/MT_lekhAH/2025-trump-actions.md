@@ -2,6 +2,8 @@
 title = "2025+ trump actions"
 +++
 
+
+
 ## Inhibition
 The nari~NgapuruSha is an unfiltered mindstream with few inhibitory circuits.
 
@@ -43,6 +45,10 @@ In fact, right now the American empire is in a similar phase as the Ching in 175
 
 
 ## Iran war
+
+### Anti-east
+For any neutral observer with Eastern affinities, unless one is in denial, it should be obvious that the mahAmlechCha-mUlavAtUla action in west Asia is specifically intended to destabilize or at least harm multiple nations in the +++(much farther)+++ east (and to a much smaller degree Europe).
+
 ### Iran War unpopularity & marches
 Most serious polls to date suggest that the majority, or at least the plurality, of Americans are not in favor of the ongoing war. Several people have been pointing out that, despite this, so far, there have been no notable protests.
 
