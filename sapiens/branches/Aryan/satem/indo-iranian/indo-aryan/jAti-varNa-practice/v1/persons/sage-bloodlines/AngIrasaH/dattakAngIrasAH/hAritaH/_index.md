@@ -36,5 +36,7 @@ He is said to have learnt (parts of) Śrī Bhāṣyam, Gītā Bhāṣyam, Rahasy
 
 
 ### hārīta veṅkaṭanātha
-kiḍāmbi tozhappar = hārīta veṅkaṭanātha, the śrīvaiṣṇava nibandhanakāra, author of smṛti ratnākara and iirc śiṣya of ādivaṇśaṭhakopa jīyar, founder of ahobila maṭha.
+kiḍāmbi tozhappar = hārīta veṅkaṭanātha, the śrīvaiṣṇava nibandhanakāra, author of smṛti ratnākara and iirc śiṣya of ādivaṇśaṭhakopa jīyar??.
 
+### श्रीधर-दुष्यन्तः
+हारितात् कौण्डिन्यायां जातः, वैश्वामित्रीम् उपयेमे। 

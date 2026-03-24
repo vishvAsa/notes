@@ -2,6 +2,11 @@
 title = "Trajectory"
 +++
 
+## Sassanian pics
+Source: [TW](https://x.com/blog_supplement/status/2035590044132560926)
+
+It is rather ironic that the spokesman of the Islamic Republic has to post pictures of the great Sassanian Zoroastrian emperors to make the point that they have been fighting occidental superpowers for a long time. However, as hypothetical, we would submit that even if, instead of the Islamic republic, we had a modern Zoroastrian state, it would be in conflict with the Abrahamistic Occident. However, we posit that if that were so, it would be a more formidable adversary.
+
 ## Weapons
 
 **Islamic Republic’s Ballistic & Cruise Missile Systems**

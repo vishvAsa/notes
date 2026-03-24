@@ -2,6 +2,12 @@
 title = "2025+ trump actions"
 +++
 
+## Inhibition
+The nari~NgapuruSha is an unfiltered mindstream with few inhibitory circuits.
+
+## Japan PM visit
+The state of being reduced to a vassal like Japan is rather humiliating for an old and sophisticated civilization. But then some may chime in that it is better to at least exist rather than be erased, as the mahAmlechCha and uparimarakata-s intend doing to whatever exists as Iran.
+
 ## Cuba seige
 One wonders if the mahAmlechCha siege of Cuba will end up in cannibalism, or will the break before that. In any case, it shows that the brutality of medieval sieges is still alive and kicking in the modern world.
 
