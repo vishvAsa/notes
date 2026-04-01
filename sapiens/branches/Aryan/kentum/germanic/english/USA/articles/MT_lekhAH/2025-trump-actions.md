@@ -4,8 +4,6 @@ title = "2025+ trump actions"
 
 
 
-## Inhibition
-The nari~NgapuruSha is an unfiltered mindstream with few inhibitory circuits.
 
 ## Japan PM visit
 The state of being reduced to a vassal like Japan is rather humiliating for an old and sophisticated civilization. But then some may chime in that it is better to at least exist rather than be erased, as the mahAmlechCha and uparimarakata-s intend doing to whatever exists as Iran.
@@ -172,6 +170,19 @@ It is very clear that the mUlavAtUla-s are suppressing reports of their losses. 
 
 
 ## Hidden movers
+### Inhibition
+The nari~NgapuruSha is an unfiltered mindstream with few inhibitory circuits.
+
+Source: [TW](https://x.com/blog_supplement/status/2038813410079502516)
+
+पिण्डकः पिच्छलो वापि  
+धूर्तहस्तस्य पुत्तलौ ।  
+एको मौनी परो वाग्मी  
+खलैः संचालिताव् उभौ ॥
+
+Be it Piṇḍaka or Picchilaka, two puppets in the rogue's grasp  
+One is mute, and the other loquacious, yet both are operated by the wicked ones.
+
 ### Multi epstein
 Source: [TW](https://x.com/blog_supplement/status/2033773164405100887)
 

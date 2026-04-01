@@ -1,7 +1,8 @@
 +++
-title = "Dravidian theory problems"
+title = "IVC Dravidian theory problems"
 +++
 
+## Brahui
 One strong argument in that direction has been Brahui a Dravidian language in lands with high Iranian farmer contribution. However, we argue that Dr was not the Harappan language because:
 
 - 1) There is a common substratum including for agricultural terms and plants that is shared by both Dravidian and Indo-Aryan languages. This implies there was once a third language in the picture and unique to the subcontinent.
@@ -12,6 +13,12 @@ One strong argument in that direction has been Brahui a Dravidian language in la
 Hence, together we surmise that the Iranian farmers brought a now lost language that was the primary Harappan. In their southern borderlands were DR speakers who admixed with them and acquired some of the Harappan cultural elements. 
 
 The conquest and defeat of Harappan power by the Aryans actually opened an opportunity for these Dravidian speakers to spread more widely especially towards South India. Now their new interactors were the Aryans which resulted in them developing a common culture with the latter.
+
+## sindhI
+> And famously Dravidian numerals survived in Sindhi in children's games: bəkəṭ, lɛ̄n, mūn, nār, ār, vēyi, ag  
+> Does this further support the Elamo-Dravidian hypothesis ?
+
+Not IMO. I think the Dravidians moved into Sindh from deeper in the subcontinent.
 
 ## iShTakA
 A point to note: iShTaka has an Iranic cognate &, as we discussed before, even a Tocharian one. However, it attested only in the middle layer of the veda. Notably, the below dravidian loan is from a mahArAShTrI prAkR^ita intermediate. Ask what it means for a Dravidian Harappan?

@@ -2,7 +2,7 @@
 title = "Evolution"
 +++
 
-
+## Dino age animal
 Source: [TW](https://x.com/blog_supplement/status/2004255996009492834)
 
 In the closing stages of the age of the dinosaurs, there appeared a small arboreal animal, perhaps just 50 g in weight. With the great extinction decimating the non-avian dinosaurs in the trees, they underwent an ecological release and radiated into the forms like those shown below.  They were the plesiadapiforms -- the group within which primates -- thus our ancestors from the opening of the Cenozoic. Little would have one expected that a descendant of theirs would spread all over the world like a weed by the billions.
@@ -56,3 +56,19 @@ The Gravettians(Early European Modern Humans) were a tall and relatively slender
 They are defined by their technology, the Gravette point, a small stone blade and their elaborate funerary rituals. A recent analysis shows that this young Gravettian male from Italy is possibly the first documented fossil of a human killed by a cave bear. His jaw was broken in half by the bear, and his skull was gouged by the bear's claw.
 
 https://t.co/pkcbqpwNfy
+
+## Egypt ape - back to africa
+The discovery of the fragmentary remains of an ape close to the ancestry of all living apes from Egypt has inspired a new tree of apes and monkeys. It has several interesting features, such as the definition of multiple early ape radiations: 
+
+1. The Proconsulid radiation -- just before this point, the insertion of a retroelement destroyed the TBXT gene, resulting in the sudden loss of the tail. Remarkably, this loss of the tail was stabilized as the apes evolved a distinct mode of arboreality independent of the tail.
+2. An interesting feature of this tree is the definition of the Oreopithecid apes. This branch unites several famous primitive African apes, such as Rukwapithecus, Rangwapithecus, and Nyanzapithecus, with the European Oreopithecus. This suggests that apes moved from Africa into Eurasia on multiple occasions.
+3. It then defines a series of basal branches, namely Afropithecids (uniting Morotopithecus and Afropithecus),  Equatorious and the newly discovered Egyptian Masripithecus, leading to the clade of modern apes (Hominoids).
+4. Within the great apes (Hominids), Griphopithecus from Anatolia interestingly emerges as a stem great ape.+++(5)+++
+5. Interestingly, Ouranopithecus from Europe turns out to be a stem member of Homininae (gorilla-chimp-human clade)
+6. Kenyapithecus surprisingly emerges as an African stem Orangutan.
+7. Pierolapithecus, Hispanopithecus and Lufengpithecus, spanning the breadth of Eurasia, form a distinct, now extinct great ape clade.
+8. Unfortunately, the great apes, Dryopithecus and Danuvius, are not included in the tree.
+9. On the basal side, the Dendropithecoids and Pliopithecoids form a monophyletic lineage basal to both the apes and monkeys.
+10. Aegyptopithecus and Saadanius from Arabia form an even more basal clade outside the above. This and the previous positions are in contrast to previous studies, which placed the dendropithecoids closer to apes than monkeys and which made Saadanius more derived than Pliopithecoids.
+
+In conclusion, this phylogeny suggests that while the common ancestor of apes and monkeys emerged in Africa, they have spread out of Africa and back several times thereafter.
