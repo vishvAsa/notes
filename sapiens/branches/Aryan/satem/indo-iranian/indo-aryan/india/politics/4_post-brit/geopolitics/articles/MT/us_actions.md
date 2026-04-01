@@ -3,6 +3,15 @@ title = "US actions"
 +++
 
 ## 2026
+### Grasping patterns
+For those who have understood the essence of the medieval-to-modern history of the Occident, the events of Ukraine and Iran set in motion by the mlechChendra-s and mUShamatta-s are unsurprising. 
+
+Nevertheless, to watch them unfold gives so much vindication, while simultaneously fostering a deep sense of fear. 
+
+As I repeatedly tell H who to talk to me about such things, closely study 1857, the Crimean War, the two WWs and the Russian revolution, among other things. These are not unrelated to the great wars we currently witness. 
+
+However, we are not sure if the H and their leadership fully grasp their import. We hope at least some of the latter do at some pragmatic level. We are not sure if our human capital is up to it, but there is a good chance the struggle will come upon us very soon.
+
 
 ### NE India
 Source: [TW](https://x.com/blog_supplement/status/2034061210111340612)
