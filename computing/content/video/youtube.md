@@ -27,7 +27,7 @@ Source: [TW](http://youtube.com/watch?v=QScX0AsEPUM):
 ## Comment handling
 ### Best practice 
 - For controvertial videos - hold and moderate comments. Don't platform abusive and spammy commenters.
-- Collate and answer comments at the top level.
+- Collate and answer comments at some safe place (eg. the top level or external page), perhaps with a link to the triggering comment.
 - Post a link to this comment as a response to the triggering comment; or just say - "Answered as a top level comment".
 
 ### Problems
