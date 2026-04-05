@@ -162,7 +162,7 @@ bharatanATyam - **दृष्टि-संस्था** (main teacher **Rhea**
 - सामवेदः - परवस्तु-परम्परा (**विश्वासः**)
 
 ## 2022-04
-Started sangItamiL - neighbor **तुषारपत्नी मीरा**. Fee started around 450, but rose to 650 by 2023-10.
+Started sangItam - neighbor **तुषारपत्नी मीरा**. Fee started around 450, but rose to 650 by 2023-10.
 
 
 ## 2021-07
@@ -190,12 +190,13 @@ Liked watching approved educational **cartoons**, like Dr. Binocs; Aumsome.
 
 Taught him kannaDa and devanAgarI letters just by taking him on walks and reading house-name-boards.
 
-## 2019-01
+## 2018-07
+By 7/26/2018, got some story time (eg. Lost bear (houghton muffin)).
+
+## 2018-01
 Learned English alphabets by going around and reading out letters in Mountain View.
 
 Attended a play-home (**safari kids**) for a few hours each day for about 2 months.
-
-By 7/26/2019, got some story time (eg. Lost bear (houghton muffin)).
 
 ## 2017-09
 Started walking.  

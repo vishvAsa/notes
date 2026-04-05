@@ -44,6 +44,19 @@ In fact, right now the American empire is in a similar phase as the Ching in 175
 
 ## Iran war
 
+### Israel control, anUpa puzzle
+Source: [TW](https://x.com/blog_supplement/status/2040822946063581283)
+
+From the beginning, it was clear that the mahAmlechCha did not have a clear strategic plan for their war on the Islamic Republic. However, the uparimarakata plan was always laser-focussed – total destruction of the state in Iran as they engineered in Iraq, Libya and Syria. As in those places, they know that only the mahAmlechCha can do it and are egging them on to do it. 
+
+Finally, they have found a mlechCharAT whose personality might work well for that. They may even use his roars as a cover to initiate it themselves and let the mahAmlechCha take it from there down the line. The way the war is being funneled, everything is being pushed in that direction. 
+
+While some mahAmlechCha might think in terms of "liberation," regime change, etc., their guru-s don't care for any of that. All they want is a state in total ruins. 
+
+The mlechCharAT has dismissed all his old advisers and has surrounded himself with agents of the uparimarakata-s; so it is clear that that is all he is hearing. 
+
+In all this question of anUpa is more puzzling: Why is he torching his own chances? Is he resigned to there being no way out of this, or has he also bought the idea of a glorious victory being at hand?
+
 ### Anti-east
 For any neutral observer with Eastern affinities, unless one is in denial, it should be obvious that the mahAmlechCha-mUlavAtUla action in west Asia is specifically intended to destabilize or at least harm multiple nations in the +++(much farther)+++ east (and to a much smaller degree Europe).
 

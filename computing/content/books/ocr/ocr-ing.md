@@ -49,7 +49,7 @@ Ocr Scanner, Google Lens, Pramukh OCR etc.
 
 
 ### Libraries
-- [doc-curation](https://github.com/sanskrit-coders/doc_curation/) - Can OCR some pdf with google drive. Automatically splits into n page bits and ocrs them individually. (Quota: Queries per 100 seconds Global : 10000, Per day: 1,000,000,000). See usage example [here](https://github.com/sanskrit-coders/doc_curation/blob/master/curation_projects/general_tasks/pdf_tasks.py), function[here](https://github.com/sanskrit-coders/doc_curation/blob/master/doc_curation/pdf.py#L13).
+- [doc-curation](https://github.com/sanskrit-coders/doc_curation/) - Can OCR some pdf with google drive. Automatically splits into n page bits and ocrs them individually. (Quota: Queries per 100 seconds Global : 10000, Per day: 1,000,000,000). See usage example [here](https://github.com/sanskrit-coders/doc_curation/blob/master/doc_curation_projects/general_tasks/pdf_tasks.py), function[here](https://github.com/sanskrit-coders/doc_curation/blob/master/doc_curation/pdf/drive_ocr.py).
 - Google Vision 
   - script [here](https://github.com/lalitaalaalitah/GoogleVisionOCR_Python) : You may get an offer to avail USD 300 credit for usage. Accept that. It may enable you to OCR without charges for a few thousand images.
   - alternative in [doc-curation](https://github.com/sanskrit-coders/doc_curation/) package.

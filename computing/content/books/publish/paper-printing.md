@@ -51,7 +51,8 @@ Print A5 book with A3 papers
 Making booklets
 
 - momijizukamori js
-  - [TW](https://momijizukamori.github.io/bookbinder-js/?paperSize=A3&customSigLength=0&cropMarks=true&cutMarks=true&sigFormat=booklet&printFile=aggregated)
+  - [a3 portait shortedge](https://momijizukamori.github.io/bookbinder-js/?paperSize=A3&customSigLength=0&cropMarks=true&cutMarks=true&sigFormat=booklet&printFile=aggregated)
+  - [a3 portait shortedge stitch](https://momijizukamori.github.io/bookbinder-js/?paperSize=A3&customSigLength=0&cropMarks=true&cutMarks=true&sigFormat=booklet&printFile=aggregated&flyleafs=0&sewingMarksEnabled=true&sewingMarksAmount=2)
 
 Stacking copies in a sheet -
 
