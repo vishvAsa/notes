@@ -43,6 +43,22 @@ In fact, right now the American empire is in a similar phase as the Ching in 175
 
 
 ## Iran war
+### Paki deal
+TSP was explicitly created by the Angloabrahmosphere as a Swiss Army Knife to do their dirty work, be it arranging the evil Kissinger's journey to China or the deal made today.
+
+Now the question is whether the mUShamatta-s will succeed in prevailing on the mahAmlechCha to revive this conflict. The reports are (not sure of reliability), they are divided -- many are quite weary of the war and will go with the mahAmlechCha plan. However, there is another pakSha amidst them which will continue pushing for establishing their state as the total regional hegemon.
+
+
+### Public sentiment vs action
+Source: [TW](https://x.com/blog_supplement/status/2041382762351903073)
+
+Many people have remarked about this, but it is indeed worth bringing it up repeatedly. Most surveys suggest that the majority of Americans are against the current war they were drawn into against the Islamic Republic. Barring certain groups, this seems to be the general sentiment one can see on the ground too. 
+
+There are big agitations against the pichChilaka but none against the war. Previously, there were big agitations/riots for BLM, Women, "the Science," immigrants, etc. This war is a potentially bigger issue than any of these in terms of consequence and morality (say one wants to compare it to BLM). Yet no protest. 
+
+What might this imply? Those agitations were _orchestrated_ by provocateurs, but at least a subset of the same provocateurs do not see any alignment of protesting this war with their interests.+++(4)+++ There were protests on behalf of the Palestinians in many American universities, but not against this war, which is a related matter. There again, we suspect there is a case of the dog not barking.
+
+The No Kings agitations are indeed big but the primary focus is Trump -- a lightning rod -- anything related to the war is merely secondary.
 
 ### Israel control, anUpa puzzle
 Source: [TW](https://x.com/blog_supplement/status/2040822946063581283)
