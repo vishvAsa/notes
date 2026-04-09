@@ -46,6 +46,8 @@ In fact, right now the American empire is in a similar phase as the Ching in 175
 ### Paki deal
 TSP was explicitly created by the Angloabrahmosphere as a Swiss Army Knife to do their dirty work, be it arranging the evil Kissinger's journey to China or the deal made today.
 
+TSP has most likely cut a deal with their mahAmlechCha backers to receive appropriate support for a future assault on the Hindus.
+
 Now the question is whether the mUShamatta-s will succeed in prevailing on the mahAmlechCha to revive this conflict. The reports are (not sure of reliability), they are divided -- many are quite weary of the war and will go with the mahAmlechCha plan. However, there is another pakSha amidst them which will continue pushing for establishing their state as the total regional hegemon.
 
 
