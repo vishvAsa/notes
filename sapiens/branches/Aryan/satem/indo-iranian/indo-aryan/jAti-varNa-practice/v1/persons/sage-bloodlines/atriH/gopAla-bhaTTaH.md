@@ -14,7 +14,7 @@ Supposed reincarnation of a gopI ( Anaṅga-mañjarī per Gaura-gaṇoddeśa-dī
 
 अयं चैतन्यः शाङ्कर-सन्न्यासात् परं श्रीरङ्गं प्राप्तः। कथम् अर्चकगृहे ऽवसत्? सचेलस्नाननिमित्तं तद्दर्शनं भवति खलु??
 
-## Gone to vRndAvana
+## Gone to vRndAvana at over 30
 This supposedly happened in mid 1530s, after chaitanya died.
 
 Yet, others say that he was instructed (in 1510) by chaitanya to go to vRndAvana only after serving his parents till they died; and told him about rUpa and sanAtana being there many years before he even met them.
@@ -89,13 +89,46 @@ chaitanya trusted him so much as to make him formalize his doctrines; but rUpa a
 ### Break with gauDIyas
 
 #### Data
-> When Kṛṣṇadāsa Kavirāja Gosvāmī took permission from all the Vaiṣṇavas before writing *Śrī Caitanya-caritāmṛta,* Gopāla Bhaṭṭa Gosvāmī also gave him his blessings, but he requested him not to mention his name in the book. - abhaya-charaNa-dAsa
+colophon of kRShNa-karNAmRta commentary - श्री-द्राविड-हरिवंश-भट्टैक-चरण-शरण-श्री-गोपाल-भट्ट clearly indicates whose sole disciple he claimed to be -  and it is not sanAtana.
 
 ShaT-sandarbha abandonment, and take-over by jIva - see [here](/AgamaH_vaiShNavaH/gauDIyaH/tattvam/jIva-gosvAmI/ShaT-sandarbhaH/meta/contributions).
 
+##### sannyAsa
 Unlike rUpa, sanAtana and jIva, and like chaitanya, gopAla-bhaTTa took sannyAsa. Even more particularly - tridaNDI sannyAsa, like other shrIvaiShNavas, and unlike even chaitanya.
 
+##### Kṛṣṇadāsa
+> When Kṛṣṇadāsa Kavirāja Gosvāmī took permission from all the Vaiṣṇavas before writing *Śrī Caitanya-caritāmṛta,* Gopāla Bhaṭṭa Gosvāmī also gave him his blessings, but he requested him not to mention his name in the book. - abhaya-charaNa-dAsa
+
+As a result, Gopal Bhatta is only briefly named in the Caitanya-caritamrta (with no detailed glorification or biographical information)
+
+
+Kṛṣṇadāsa also is said to have composed Gopi Bhatt Goswami astakam.
+
+##### Acnowledgements
+He is acknowledged in 10th skandha's Brihad Vaishnava Toshini commentary by Sanatana as suhRt, (and not?) sahAya (गोपाल-भट्टो रघुनाथ-दासः ।  स्याताम् उभौ यत्र सुहृत्-सहायौ) (after acknowledging a long list of perceptors like mAdhava-purI, shrIdhara-svAmI, sArvabhauma-bhaTTAchArya ...).  
+So, the order order can be taken as GB is suhRt (friend) and RD is sahAya (helper).
+
+This is copied in jIva's commentary. So how heart-felt? :-P
+Doesn't indicate any discipleship of sanAtana, which is anyway percluded quite explcitly by the use of एक in the colophon of kRShNa-karNAmRta commentary - श्री-द्राविड-हरिवंश-भट्टैक-चरण-शरण-श्री-गोपाल-भट्ट . 
+
+
+jIva acknowledges him among other gosvAmis in the manglacharana of Gopal Campu. This is similarly unimpressive. To their credit (and to the unfortunate - perhaps intended - confusion of readers), gauDIyas liberally acknowledge vRddha-vaiShNavas as "inspiring" their works.
+
+##### Disciples
+narottama-dAsa, shixA disciple of jIva, composed praises on gopAla-bhaTTa.  
+jIva is said to have asked shrInivAsa AchArya to take dIxA from gopAla-bhaTTa. He went on to compose Shad-gosvamy-ashtaka.  
+shrInivAsa AchArya and narottama became close friends. 
+
+
+##### puNDra-s
+gopAla-bhaTTa-parivAra bears the very ungauDIya and SV-like puNDra. Further placement of the puNDra-s on the body (atleast the front portion) are identical to SV layout, except that the neck tilakas have moved down.
+
+
 #### Deduction
+
+One can be said to "belong" to a tradition by ritual initiation or tutelage or by one's explicit agreement with the said tradition.
+The tradition's adoration of him is not good evidence (for that matter even shrIdhara-svAmI is glorified by gosvAmins).
+
 One must consider - 
 
 Why did gopAla bhaTTa not finish what he started off with?  
@@ -103,6 +136,8 @@ Though he lived long after jIva completed the project (and after rUpa and sanAta
 Why did he ask the author of charitAmRta to not mention him ( as abhayacharaNa dasa states)?  
 Why does Sat-kriyāsāra-dīpikā differ so much from hari-bhakti-vilAsa which sanAtana published under his name?   
 etc..
+
+The continued respectful mentions of gopAla-bhaTTa by sanAtana and jIva amount to a case of gentlemanly disagreement; perhaps even accompanied consideration by gopAla in not writing a refutation.
 
 ### आधुनिक-बान्धवाः
 अर्वाचीन-बान्धवा अपि दीक्षा-करमदिषु बोधयन्ति गौडीयान् - [2019 1](https://youtu.be/WlRKVl8mGbg?si=RktiuclMzDjyKxSV) [TW](https://www.youtube.com/watch?v=Qwqj0w0819E&t=134s)।
@@ -114,6 +149,12 @@ etc..
 
 ## tridaNDitva
 He later accepted the *tridaṇḍa-sannyāsa* order from his uncle Tridaṇḍipāda Prabodhānanda Sarasvatī (supposed author of Caitanya-candrāmṛta), per abhaya-charaNa-dAsa.
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+@vedant_vagish says there's no evidence for this sannyAsa.
+</details>
+
 
 
 > Śrī Caitanya Mahāprabhu traveled in South India in the year 1433 Śakābda (A.D. 1511) during the Cāturmāsya period, and it was at that time that He met Prabodhānanda, who belonged to the Rāmānuja-sampradāya. How then could the same person meet Him as a member of the Śaṅkara-sampradāya in 1435 Śakābda, two years later?

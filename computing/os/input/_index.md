@@ -12,3 +12,8 @@ title: +Input
 
 ## Text autocompletion
 - [atom sa](https://github.com/sanskrit-coders/autocomplete-sa)
+
+## Mouse
+[TW](https://www.amazon.in/dp/B000HEW0KW)
+Trackball mouse - इदम् अङ्गुलीभिश् चाल्यते, न मणिबन्धेनेति सुखम् अधिकम्।
+

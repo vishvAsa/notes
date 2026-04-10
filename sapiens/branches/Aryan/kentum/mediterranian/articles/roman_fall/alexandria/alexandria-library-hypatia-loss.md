@@ -17,6 +17,12 @@ The first person blamed for the destruction of the Library is none other than Ju
 ## Christian destruction
 Theophilus was the Patriarch of Alexandria from 385-412 AD. During his reign, Temple of Serapis was "converted" into a Christian Church (around 391 AD) and many documents were likely destroyed then. The Temple of Serapis was estimated to hold about ten percent of the overall Library of Alexandria's holdings. 
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+The Serapeum's daughter library was likely looted or dispersed earlier, especially during a ransacking c. 360 AD by troops under the Arian Bishop George the Cappadocian (a known bibliophile whose collection was later seized).
+</details>
+
+
 After his death, his nephew Cyril became Patriarch. Shortly after that, riots broke out when Hierax, a Christian monk, was publicly killed by order of Orestes the city Prefect. Orestes was said to be under the influence of Hypatia, a female philosopher, and daughter of the "last member of the Library of Alexandria". Although it should be noted that some count Hypatia herself as the last Head Librarian.
 
 The city of Alexandria had long been known for its violent and volatile politics with Christians, Jews, and Pagans all living together in the city. One ancient writer claimed that there were no people who loved a fight more than those of Alexandria. Immediately after the death of Hierax, a group of Jews who had helped instigate his killing lured more Christians into the street at night by proclaiming that the Church was on fire. When the Christians rushed out the largely Jewish mob slew many of them. After this, there was mass havoc as Christians retaliated against both the Jews and the Pagans - one of which was Hypatia. The story varies slightly depending upon who tells it but she was taken by the Christians, dragged through the streets, and murdered.
