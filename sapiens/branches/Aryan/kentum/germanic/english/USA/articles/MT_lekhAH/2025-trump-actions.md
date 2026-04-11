@@ -43,6 +43,11 @@ In fact, right now the American empire is in a similar phase as the Ching in 175
 
 
 ## Iran war
+### Reload
+Source: [TW](https://x.com/blog_supplement/status/2042787433226305540)
+
+We get a suspicion that the uparimarakata agents among the mahAmlechCha might institute a massive censorship operation that will probably seep into social media, including this one. Further, we feel the war is not over. They are just reloading their arms before they can launch a renewed massive attack under the pretext of the failure of the ceasefire. They'd probably try to get their vassals to join along.
+
 ### N Korea vindication
 One man who probably feels supremely vindicated by the turn of geopolitical events is the Rocketman.
 
