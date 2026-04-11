@@ -89,9 +89,14 @@ chaitanya trusted him so much as to make him formalize his doctrines; but rUpa a
 ### Break with gauDIyas
 
 #### Data
+##### The sole guru
 colophon of kRShNa-karNAmRta commentary - श्री-द्राविड-हरिवंश-भट्टैक-चरण-शरण-श्री-गोपाल-भट्ट clearly indicates whose sole disciple he claimed to be -  and it is not sanAtana.
 
+##### ShaT-sandarbha abandonment
 ShaT-sandarbha abandonment, and take-over by jIva - see [here](/AgamaH_vaiShNavaH/gauDIyaH/tattvam/jIva-gosvAmI/ShaT-sandarbhaH/meta/contributions).
+
+##### HBV thrust
+हरि-भक्ति-विलासः was published under his name by sanAtana. Details at [TW](/AgamaH_vaiShNavaH/gauDIyaH/kriyA/gopAla-bhaTTaH/hari-bhakti-vilAsaH/meta/authorship) .
 
 ##### sannyAsa
 Unlike rUpa, sanAtana and jIva, and like chaitanya, gopAla-bhaTTa took sannyAsa. Even more particularly - tridaNDI sannyAsa, like other shrIvaiShNavas, and unlike even chaitanya.
@@ -136,6 +141,11 @@ Though he lived long after jIva completed the project (and after rUpa and sanAta
 Why did he ask the author of charitAmRta to not mention him ( as abhayacharaNa dasa states)?  
 Why does Sat-kriyāsāra-dīpikā differ so much from hari-bhakti-vilAsa which sanAtana published under his name?   
 etc..
+
+sanAtana and rUpa came from a tough political background - would likely have been quite cunning. So sanAtana's deed in trying to coopt gopAla bhaTTa into his view by publishing HBV under his name isn't surprising.  
+GB would've wisened up fast though;   
+stayed aloof thence, abandoning ShaT-sandarbha.
+
 
 The continued respectful mentions of gopAla-bhaTTa by sanAtana and jIva amount to a case of gentlemanly disagreement; perhaps even accompanied consideration by gopAla in not writing a refutation.
 
