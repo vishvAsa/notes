@@ -43,6 +43,11 @@ In fact, right now the American empire is in a similar phase as the Ching in 175
 
 
 ## Iran war
+### Bad luck
+Source: [TW](https://x.com/blog_supplement/status/2043559802341589034)
+
+The prathamonmatta dialect of German has two words: schlemiel and schlimazel. Roughly, the schlimazel is the guy who has outlier extreme bad luck. The schlemiel is the guy who triggers extreme bad luck for those around him. It seems anUpa is the latter.
+
 ### Reload
 Source: [TW](https://x.com/blog_supplement/status/2042787433226305540)
 
