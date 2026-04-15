@@ -28,3 +28,10 @@ Known as कवितार्किकसिंह, this lion of poetry & logic
 
 ## प्रजाः
 Kumara varada had no son. 
+
+> My doubt is that kumara Varadacharya date has to be adjusted by 10 or so years - though in the opposite direction. I.e. he must have been born in 1305 and not 1315.  
+> KV is said to have composed sriman venkatanatharya at Tanjore but the date is given as 1328. It is impossible. Must hv happened prior to 1323 only. 
+> 
+> KV is said to have composed sriman venkatanatharya at Tanjore but the date is given as 1328. It is impossible. Must hv happened prior to 1323 only.  
+> 2. There is no tradition about VD visiting Tanjore post muslim invasion of Srirangam. The only tradition that exists about Tanjore visit is pre invasion. The general rule that we see is that hagiographies give wrong years but they r better at recording the sequences and characters.  
+> - RL.
