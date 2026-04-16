@@ -2,6 +2,18 @@
 title = "Geopolitics"
 +++
 
+## Military aid
+
+Source: [TW](https://x.com/blog_supplement/status/2044281689749258489)
+
+How are chIna-s seeing things? This, to us, is a bit of a mystery. The chIna-s know and exploit the power of Galtonism, so they know they are relatively safe as the mlechCha-s are guzzling the Galtonism Kool-Aid. However, their arms have miserably failed in TSP, Iran and Ukraine. 
+
+Did they purposely send their so-called allies defective stuff, and are saving up the good stuff for themselves?  They could do this so that the mlechCha doesn't get hold of their tech or have a real estimate of how good it is. 
+
+They, anyhow, have boosters like Hsu, who can play it up as though it did wonders, so why waste the real stuff? 
+
+We suspect the failure of their arms is not by design but real. If this were true, then they are probably concerned about directly facing the mlechCha and doing everything to let the Galtonism and the rUs/IR do the job for them.
+
 ## China inaction
 
 Source: [TW](https://x.com/blog_supplement/status/2030531391520190768)
