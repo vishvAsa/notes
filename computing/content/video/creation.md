@@ -12,13 +12,18 @@ title = "Creation"
 
 ### OBS Studio
 - Set up video capture devices (camera 1, camera 2, screen capture, window capture ...)
-- Set up audio capture devices (output, input). Best input device - webcam stereo. Not very good, but ok - doc camera mono audio.
+- Set up audio capture devices (output, input). Best input device - mic. Not very good, but ok - doc camera mono audio.
 
 ## Editors
 <div class="spreadsheet" src="editor.toml" fullHeightWithRowsPerScreen=8> </div>  
 
 ### Kdenlive
 - `Shift R` for cutting
+
+Filters for fixing high bass audio - 
+
+- high pass filter (with central frequency adjusted by trial and error)
+- equalizer
 
 ### ffmpeg
 Rotating video 90deg : ``
