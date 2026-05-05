@@ -1,5 +1,5 @@
 +++
-title = "vanga"
+title = "+vanga"
 +++
 
 
