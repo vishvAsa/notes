@@ -14,6 +14,8 @@ One who immediately comes to mind is Sleeman, who discovered the first remains o
 It also brings to mind the great German WW1 soldier and entomologist Ernst Jünger.
 
 ## Lydekker
+Source: [TW](https://x.com/blog_supplement/status/2051537160331792678)
+
 Richard Lydekker, scholar of geology, paleontology and comparative anatomy at the Geological Survey of India from 1874 to 1881. He described numerous fossil amphibians, reptiles, and mammals from different Indian formations, including: 
 
 1. First Indian fossil gharial; 
