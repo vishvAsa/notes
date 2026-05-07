@@ -34,6 +34,10 @@ An approaching fire front will be presaged by a wall of superheated air and ther
 The use of triple panes and substantial window frames, which are common in Passive Houses, will significantly reduce this point of risk to the envelope, as it takes time for each pane of glass to fail from heat stress. By upgrading to tempered glass the resilience of the assembly would be further improved, and the overinsulation of the frame, another typical Passive House detail, will also reinforce the window’s integrity.
 
 ## Wall & Roof material
+### Puff sheets
+"Puf sheets" with insulation kept pratosh's terrace room remarkably cool.
+
+### Fire resistence
 The choice of fire-resilient claddings, decks, and fences, type A roofing, and less flammable vegetation nearby are standard firewise practices. But, even with the best of strategies a significant fire event can overwhelm a building. If fire does compromise the envelope, then the materials used in the walls and roof can have an impact. 
 
 Many Passive House practitioners, including myself, have eliminated foam insulations from our assemblies, due to environmental and health concerns. Although fire retardants—about which there are many environmental concerns—are routinely added to foam insulation products, these are still likely to encourage flame spread more than such environmentally benign materials as dense-pack cellulose or mineral wool, or even straw panels. These insulations have both low- or zero-flame spread and also deplete the source of oxygen from sheathing and framing compared to lighter insulation materials like fiberglass.
