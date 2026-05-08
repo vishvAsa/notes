@@ -3,6 +3,18 @@ title = "+अत्रिः"
 unicode_script = "devanagari"
 +++
 
+## टङ्कः
+आत्रेयस् तु स इति शाङ्कराः।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+They are descended from Tankacharya the vAkyakAra aka Brahmanandin (cited by rAmAnuja as his philosophical predecessor), as per Srivatsankacharya. Tattai is a translation of Tanka. (उत्तमूरु-स्वामिनः शिष्यः, मद्रास-संस्कृत-महाविद्यालये प्रधानाचार्यः आसीत्।)
+
+वृद्धानाम् ऊहाः प्राचीनोक्तिभिः परास्तास् तर्हि। kuppusvAmi, van buitenen प्रभृतिभिर् उदाहृतानि प्राचीन-वाक्यानि  व्यक्तं तैर् न दृष्टानि। 
+</details>
+
+
+
 ## अर्वाचीनाः
 ### कल्लिल् आत्रेयनार्
 Poet in puraNanUru who praises Athanungan for resisting  Mauryan army equipped with advanced chariots.

@@ -26,3 +26,9 @@ Richard Lydekker, scholar of geology, paleontology and comparative anatomy at th
 6. The fossil orangutan Sivapithecus
 7. The primitive elephant Stegoloxodon
 8. The fossil horse Hipparion
+
+
+## Botany Freeze
+> I have noticed this in the field of botany, for instance. India and China both had major traditions of cataloguing plants akin to Greeks like Theophrastus, but they never developed anything akin to Western botany because they had no idea of empirical reevaluation of old knowledge
+
+That seems to be the case. There was definitely an earlier Indian tradition of "naturalists" going back to the epic period along with a drive to classify. However, the originality in this endeavor faded in most fields barring mathematics and astronomy around the 13-1400s of CE.
