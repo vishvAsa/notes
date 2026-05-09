@@ -57,6 +57,12 @@ His poetical works are noted for their versatility, purity, elegance, mastery of
 
 Author of Ahnika-sheShaH.
 
+## DT tAtAchAryaH
+अयं ताताचार्यो महान्,   
+यम् उत्तमूरु-वीरराघवोऽपि सहैव पाठने सक्तः सन्देहान् पृच्छति स्म,  
+यश् च सम्प्रदायप्रदीप इति दक्षिण-कलार्य-मत-खण्डनस्य लेखकः।
+
+
 ## दक्षिणकलार्याः
 A small section of tataryas (mostly belonging to the addanki branch and some belonging to srimushnam branch with a few more here n there) are tenkalais. More than 95% of tataryas must be vdk.
 
