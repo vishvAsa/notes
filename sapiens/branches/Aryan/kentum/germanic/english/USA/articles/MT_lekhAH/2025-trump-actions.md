@@ -2,7 +2,11 @@
 title = "2025+ trump actions"
 +++
 
+## UFO
 
+Source: [TW](https://x.com/blog_supplement/status/2053194198552130036)
+
+Even without a deep knowledge of the tech, applying common sense, one can see that a subset of the UFOs in the videos from the nAri~Nga's latest dump are likely manmade objects. Whether they are of the Americans themselves or of the Russians or the Israel will probably remain unknown.  The remaining ones are more murky phenomena, but v.v. unlikely to be ET.
 
 
 ## Japan PM visit
