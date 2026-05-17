@@ -28,6 +28,9 @@ In general, one must read books/ passages with the intention of mining it for pr
 
 Given a research paper, one must get to the interesting information as rapidly as possible.
 
+Tricks to get to commentary - regex `([िइेी])त(ि|्य)`.
+
+
 ### Focus on word-smithery
 
 Sentence level focus is sensible in rare cases: eg: relishing exquisite word-smithery.

@@ -48,3 +48,38 @@ The discovery of the fragmentary remains of an ape close to the ancestry of all 
 10. Aegyptopithecus and Saadanius from Arabia form an even more basal clade outside the above. This and the previous positions are in contrast to previous studies, which placed the dendropithecoids closer to apes than monkeys and which made Saadanius more derived than Pliopithecoids.
 
 In conclusion, this phylogeny suggests that while the common ancestor of apes and monkeys emerged in Africa, they have spread out of Africa and back several times thereafter.
+
+## Homo erectus introgression?
+Source: [TW](https://x.com/blog_supplement/status/2055699329277399275)
+
+Paleoproteomics has the potential to probe temporal depths that aDNA may not. In 2020, the dental proteome from Homo antecessor and the Georgian H. erectus (?) from Dmanisi were published. This week, there was a publication reporting the dental proteome of the supposed H.erectus from East Asia from fossil teeth dating to approximately 420-400,000 YBP.
+
+The study found two informative amino acid substitutions in the ameloblastin protein (AMBN), a critical dental protein that regulates the growth of hydroxyapatite crystals in the enamel. Of these substitutions, A253G is private to these East Asian "H.erectus" and is seen in all sampled specimens covering a wide geographic area in China. A253 is the ancestral state because it is conserved across primates, barring these "H.erectus".
+
+The second substitution, AMBN (M273V), is also present in all the 6 "H.erectus" samples. Here, M273 is clearly the ancestral state, as it is found in great apes, most H.sapiens (see below) and H.neanderthalensis, H.antecessor and the Georgian "H.erectus". Interestingly, M273V is also found in Denisovans in either a homozygous (Denisovans, Denisova 3 and Penghu 1) or heterozygous state (Harbin and Denisova 25). Interestingly, in modern H.sapiens, M273V is seen at 21% in the Philippines, 1.17% in India and 0.71% in Papua New Guinea, but absent in other populations. 
+
+The authors (I believe correctly) proposed that the presence in modern humans is from admixture with Denisovans. It is known that the Philippines was a major site of admixture with the Denisovans in some Negritto tribal populations.
+
+Further, the authors go on to propose that the Denisovans acquired M273V via Homo erectus introgression. To support this claim, they posit that: 
+
+1. Earlier research has shown that 0.5–8% of the Denisovan genome is from superarchaic Homo (diverged > 1 Million YBP) that diverged prior to the common ancestor of sapiens, Denisovans and Neanderthals. Subsequently, about 15% of this ‘super-archaic’ DNA introgressed from Denisovans into sapiens in Asian and Oceania. 
+2. They say the genomic region encoding this variant shows greater sequence divergence between Africans and Denisova 3 than between Africans and the Altai Neanderthal, suggesting that it was indeed an archaic genomic segment.
+
+At first glance, this looks quite plausible. However, we remain skeptical that their preferred hypothesis is the only one. These East Asian "Homo erectus" are rather recent compared to the Georgian ones, let alone the African ones. Hence, one could argue that perhaps they were not H.erectus at all. They might instead be primitive Denisovans and thus naturally share an allele with later Denisovans, with which they share a common ancestor that already had the M273V allele. 
+
+Moreover, it is a conservative substitution preserving the chemical character of the residue. Could it have emerged independently? If the paleoproteomics reveals other supporting substitutions down the line, then the claim of Homo erectus introgression into Denisovans might be more believable.
+
+
+
+## Cranial capacity
+Source: [TW](https://x.com/blog_supplement/status/2055862296509833514)
+
+Like intelligence, cranial capacity is normally distributed. Got 821 skulls from the data of the early American phrenologist Morton. Different measurement methods give somewhat different results, but overall tend to be consistent. The data here is the mean when multiple measurements exist. 
+
+The red lines on the right tail indicate the big-brained archaics & early sapiens, in order: Boskop: early African sapiens; Xujiayao-6: East Asian archaic; Amud-1: West Asian Neanderthal; Xuchang-1: East Asian archaics. The possibility that the East Asian archaics are actually Denisovans has been proposed, though in my opinion, we need to be more circumspect about grouping all of them into Denisovans. 
+
+It shows that the biggest modern sizes were already attained by 100,000K years in some groups. In Morton's data, the overall mean for sapiens is 1328 cc, which is less than the average for Neanderthalensis ~1500 cc. 
+
+It has been proposed that Neanderthalensis had better eyesight and correspondingly more acute visual processing and perception than Sapiens. This might have accounted for some of that extra brain. At the other end, archaic Homo naledi had a mean volume of 500-550 cc, close to Australopithecus. 
+
+The extreme left outlier should have been removed; Morton's notes indicate it was the skull of a pathological German female, probably with a pituitary dysfunction.
