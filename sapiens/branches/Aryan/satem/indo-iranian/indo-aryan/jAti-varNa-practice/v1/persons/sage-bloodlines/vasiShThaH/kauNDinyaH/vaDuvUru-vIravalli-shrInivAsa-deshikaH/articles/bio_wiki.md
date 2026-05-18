@@ -74,10 +74,10 @@ the 46th Jeer of Sri Ahobila Mutt and
 Prakrutham Srimad Srimushnam Andavan  
 Chief priest for Aswameda Yajna Ratri Homa conducted in Hyderabad in 1985. Performed Homas as prescribed by scriptures  
 
-Academic Qualification  
-[edit]  
+## Academic Qualification  
 
 Old Photo of Desikachariar with other teachers and main disciples  
+
 Salaksha Ganapadi in Krishna Yajur Vedam Passed Veda Bashya conducted by Sri Kanchi Kamakoti Peetam, Kanchipuram Passed Drhyaganam conducted by Sri Veda Dharma Sastra Paripalana Sabha, Kumbakonam  
 
 Passed  
@@ -128,7 +128,7 @@ After teaching in Mannargudi Veda Pata Sala for over 50 years, Sri Desikachariar
 
 Under Sri Desikachariar's guidance, many philanthropic work has been carried forward in the form of Village Improvement and Vaduvur Temple renovation and festival celebrations.  
 
-80th birthday (Sathabishekam )  
+## 80th birthday (Sathabishekam )  
 
 Disciples and well-wishers organised the Sathabishekam (80th Birthday celebration) at Vaduvur on 22 October 2008.  
 
@@ -143,7 +143,7 @@ Vaduvur Sesha Vaganam
 Veda Parayanam during Utsavam  
 Under Sri Desikachariar's guidance and support of his students including Ganapadi N.Govindarajan and others, many philanthropic work has been carried forward.  
 
-Renovation of Vaduvur Temple  
+## Renovation of Vaduvur Temple  
 Maha Samprokshanam of Vaduvur (Vaduvoor) Temple in 1996 and in 2007  
 Every year Sri Ramanavami Utsavam and Theppotsavam (Tank Festival) has been celebrated with 3rd day Sesha Vahanam (Serpant) is directly undertaken by him. Over 100 students across various part of country come for each occasion and celebrate it as their own function.  
 Silver Sesha Vaganam for Vaduvur Ramar and Mannargudi Sengamala Thayar (Mannargudi Rajagopalan Temple)·  
@@ -157,7 +157,7 @@ Recently, to build Vaduvur Sport Academy, under his guidance, Sarvabhowmam Ramas
 In addition, our Swami along with Madapusi Puranam Vaduvur Ahobila Mutt Mudra Kartha Sri Sadagopachariar have never missed any major events at the temple without conducting Veda Parayanam with his students for last 60+ years  
 Swami, attained Acharyan Thiruvadi, on 9 September 2014.  
 
-References  
+## References  
 [edit]  
 ^ "Vaduvur Desikachariar passes away". The Hindu. The Hindu Times. 9 September 2014. Retrieved 21 February 2018.  
 ^ "President honors Vedic Scholars". The Hindu. 31 August 2001. Archived from the original on 5 October 2012. Retrieved 11 September 2011.  

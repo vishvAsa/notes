@@ -70,3 +70,25 @@ Sri Varadacharya's key points of approach can be summarized as follows:
 - The basis for true philosophy is broad and deep thinking, with a foundation of sincere spiritual practice.
 
 Video playlist [here](https://www.youtube.com/playlist?list=PLog-e7pBcwclpA3CkX_r1BIWPtcKJVys0).
+
+## विजयः
+### अन्य-विद्वत्सु
+वेदान्तदेशिक-+अभिनवरङ्गनाथपरकालसंयमीन्द्रयोः मध्ये वेदान्तशास्त्रे कोऽपि महत्तरः ग्रन्थः न प्रणीत इति तस्याभिप्रायः आसीत्। अपरञ्च, भूयिष्ठाः विद्वांसः केवलं 'पुस्तकपण्डिताः' एवेति विभावयन् स तान् प्रायशः आक्षिपति स्म। 
+
+तथापि, यदा-कदाचित् स कांश्चिद् विदुषः प्रशंसन् कथयति स्म यद्—एते तु निःसंशयं परमप्रामाणिकाः, शिष्टाः, लब्ध-विग्रहसाक्षात्काराः, प्राप्त-मन्त्रसिद्धयो वा वर्तन्ते इति।
+
+### अन्येषां तस्मिन्
+I haven't read Satya-Siddhi but even he has said  that the vast majority of scholars were afraid of debating him as his views were too different to what they were taught but they didn't know enough to counter him.
+
+SMS Chari was a more traditional scholar who was also well versed in English and had a modern education. He was somewhat impressed by KSV's ideas. He was invited to a sadas. He asked KSV if he can present his ideas there. KSV said OK you can try. But don't reveal that these ideas are mine. 
+
+Then he said that he wanted to talk about upAdAnatva and said if KSV could help him prepare for it. KSV told him that this topic cannot be prepared in 2-3 hours and that he would need to come to his house for a couple of weeks and spend several hours learning about the topic and that he was willing to teach him. SMS Chari spent the next couple of weeks doing that.
+
+In the sadas, SMS spoke on this topic. As expected the vidvans did not accept the views. After a lot of discussion and hesitation, SMS revealed that it was KSV's views. They did not accept it.
+
+That night SMS was at the railway station waiting for a train to head back home. The older brother of the 45th AM Jeeyar, Villivalam Narayanacharya - the top scholar of those days came to the railway station.  
+
+He told him - after you left, I spent some time thinking about this issue. Kothimangalam Swamy's idea appears correct and I was wrong in not accepting it in the sadas. SMS came back and told KSV this. KSV replied - 
+
+> You should have asked him what is the point of criticising it in front of everyone and accepting it behind their back?
+
