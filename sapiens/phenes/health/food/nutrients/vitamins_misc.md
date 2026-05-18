@@ -20,13 +20,17 @@ Deficiency symptoms (eg less macrocytosis in blood cells) is partly masked by fo
 ### Deficit detection
 - (low) B12 and (high) homocysteine level check.
 - blood tests
+  - ELICIA (more sensitive than CLIA)
+  - CLIA 
   - Serum B12
   - HoloTranscobalamin
   - Homocysteine (high=bad)
   - Methylmalonic Acid (high=bad)
   - UCBC unsaturated b12 binding capacity
 - tissue concentration tests - more complicated, expensive. (may have enough in blood - on the wrong protein Haptocorrin, and not getting it absorbed into tissues due to delivery protein Transcobalamin deficiency.)
-  
+
+#### Timing
+The timing for testing after B12 supplementation depends on the form of the supplement and the individual's health status. Generally, it is recommended to wait at least 24 to 72 hours after taking oral B12 supplements before testing. However, for more sensitive tests like Methylmalonic Acid (MMA) and Homocysteine, a longer washout period of 10 to 14 days may be necessary to ensure accurate results.
 
 ### High risk groups 
 Low supply
@@ -48,9 +52,6 @@ High demand
 
 ### Sources
 
-- harItaki powder/ tablet.
-  - 33Rs/g in 2026: [TW](https://www.amazon.in/gp/product/B019RV7H9O). Lower than shikAkai.
-  - this is an ingredient in triphala-chUrNa too.
 - goji berry powder
 - Liver, red meat
   - Human grade freeze dried goat liver strips available as dog treats 
@@ -60,18 +61,35 @@ High demand
 - 0.6 mcg per large egg
 - Vegan/ vegetarian 120-250 mg/day. Double in case of high demand (eg. pregnancy)
 - Overdose risk very low.
+- nutritional yest flakes 
+  - 50µg B12, 7 INR per 5g serving: [TW](https://www.amazon.in/dp/B0GYJP3HL3)
 
-> Eat hartika powder. கடுக்காய் பொடி at night 1 or 2 teaspoons. B12 will shoot up. I am the living example. Mine was 180.. Then I did this for a week. Result was >2000.. Doctor was astonished. Eat only at night though. It's stomach cleansing agent. No side effects.. Stomach ulcers. Mouth ulcers would get cured. Morning motion will be smooth. - KN Ramesh
 
+#### Fremented products
 > Fermented products such as tempeh and miso (obtained from fermented soya beans), shiitake mushrooms and algae (spirulina and nori) contain substances which are similar chemically to vitamin B12. However, they do not work in the body in the same way as the active vitamin so these foods cannot be relied upon as sources of vitamin B12.
 
+#### cobalt in soil
 On cobalt shortfall -
 
 > The bacteria Lactobacillus and Bifidobacterium are among those that are capable of producing vitamin B12. Propionibacterium shermanii in cheese and some species of Streptomyces are found in soil and fermented foods as well. My experience of growing organic stuff for the last 50 yr shows that Streptomyces in soil with organic carbon above 5% produce B12 which has been tested in bottle gourd too.
-> 
-> These days the fodder that cow eats and the food we eat doesn't contain enough Cobalt as a mineral in available form hence the curd and the gut bacteria can't produce much of B12. 
-> 
+>
+> These days the fodder that cow eats and the food we eat doesn't contain enough Cobalt as a mineral in available form hence the curd and the gut bacteria can't produce much of B12.
+>
 > - Rajesh Gupta
+
+#### harItakI?
+> Eat hartika powder. கடுக்காய் பொடி at night 1 or 2 teaspoons. B12 will shoot up. I am the living example. Mine was 180.. Then I did this for a week. Result was >2000.. Doctor was astonished. Eat only at night though. It's stomach cleansing agent. No side effects.. Stomach ulcers. Mouth ulcers would get cured. Morning motion will be smooth. - KN Ramesh
+
+
+Ate 1 spoon harItakI every dawn for 3-4 months.
+
+Result - The shift from 183 pg/mL (ECLIA, January) to 246 pg/mL (CLIA, May) doesn’t necessarily prove a biological improvement — it’s more likely explained by assay differences and normal variability.
+
+
+harItaki powder/ tablet.
+
+- 33Rs/g in 2026: [TW](https://www.amazon.in/gp/product/B019RV7H9O). Lower than shikAkai.
+- this is an ingredient in triphala-chUrNa too.
 
 #### Deficiency correction
 
