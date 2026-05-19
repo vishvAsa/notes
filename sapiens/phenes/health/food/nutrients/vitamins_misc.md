@@ -59,10 +59,10 @@ High demand
   - Beware of vitamin A and iron overdose - limit portions to 10-20g for 50kg person.
 - 1 micrograms (mcg) in 240ml of milk or yogurt
 - 0.6 mcg per large egg
-- Vegan/ vegetarian 120-250 mg/day. Double in case of high demand (eg. pregnancy)
 - Overdose risk very low.
 - nutritional yest flakes 
   - 50µg B12, 7 INR per 5g serving: [TW](https://www.amazon.in/dp/B0GYJP3HL3)
+
 
 
 #### Fremented products
@@ -93,7 +93,7 @@ harItaki powder/ tablet.
 
 #### Deficiency correction
 
-- Take 1000 mcgs orally daily
+- Tablets 
 - Intramuscular Injection 
 
 
@@ -106,6 +106,11 @@ Made by bacteria
 Synthetic
 
 - Cyanocobalamin - cheaper, but inferior. avoid.
+
+##### Dosage
+Studies on daily oral doses of 1000 mcg have shown a mean increase in serum B12 of approximately 250 pg/mL within the first week of supplementation.
+
+A study showed that a very low dose of about 6 mcg per day resulted in an average increase of 50 pg/mL over 30 days.
 
 ## B9 Folate
 b12 deficiency implies body can't use folic acid. 
