@@ -54,6 +54,12 @@ In the year 1672, Doddadevaraja Wadayar was [[8]] succeeded by his son Chikadeva
 
 Tirumaliengar was a man of rare talents and ability, and during his time the kingdom of Mysore reached the summit of its prosperity. The king while on his deathbed entrusted his infant son Kantirava Narasaraja Wadayar who was deaf and dumb to the care of his Minister Tirumaliengar and his Pradhan Appajiah, and breathed his last in 1704. 
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+Other sources, and later succession indicates that this mute king was not then an infant.
+</details>
+
+
 The Pradhan and the Minister placed Kantirava Narasaraja Wadayar on the throne, and administered the state in his name for a period of five years thereafter, within which they both died. 
 
 ## Immadi Krishnaraja Wadayar
