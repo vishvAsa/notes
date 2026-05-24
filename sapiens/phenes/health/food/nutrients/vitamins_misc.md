@@ -114,3 +114,4 @@ A study showed that a very low dose of about 6 mcg per day resulted in an averag
 
 ## B9 Folate
 b12 deficiency implies body can't use folic acid. 
+
