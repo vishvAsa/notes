@@ -64,6 +64,7 @@ No amount of repeating is enough to bring home the point how vindicated the Rock
 
 At the same time, his preta-parivartaka southern coethnics must be feeling quite down that they, with their sagging fertility, would now have to pull themselves up by their shoestrings and defend themselves.
 
+
 ### Paki deal
 TSP was explicitly created by the Angloabrahmosphere as a Swiss Army Knife to do their dirty work, be it arranging the evil Kissinger's journey to China or the deal made today.
 
@@ -222,6 +223,9 @@ It is very clear that the mUlavAtUla-s are suppressing reports of their losses. 
 
 
 ## Hidden movers
+### EIC
+The mahAmlechCha are acting like the true successor of the British EIC; now all filters and masks have been dropped.
+
 ### Inhibition
 The nari~NgapuruSha is an unfiltered mindstream with few inhibitory circuits.
 

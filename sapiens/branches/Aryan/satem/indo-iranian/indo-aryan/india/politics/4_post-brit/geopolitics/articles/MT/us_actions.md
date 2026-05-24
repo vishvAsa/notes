@@ -3,6 +3,11 @@ title = "US actions"
 +++
 
 ## 2026
+### Rubio visit
+The visit of the mahAmlechCha chiliarch+++(=Rubio)+++ to the pretabhAnaki's +++(→mother theresa)+++ pretAlaya is clearly designed to signal to the H that they will be engaging in subversion via the pretamata. Moreover, the chiliarch has sent on the eve of the probable resumption of hostilities in West Asia by the unmAda-dvaya with some concealed threats.
+
+Kolkata itself might be quite resilient to the preta assault but it could be a base for their operations elsewhere, especially the east. By visiting them the mahAmlechCha are signaling: "we have your back against the H"
+
 ### Grasping patterns
 For those who have understood the essence of the medieval-to-modern history of the Occident, the events of Ukraine and Iran set in motion by the mlechChendra-s and mUShamatta-s are unsurprising. 
 
