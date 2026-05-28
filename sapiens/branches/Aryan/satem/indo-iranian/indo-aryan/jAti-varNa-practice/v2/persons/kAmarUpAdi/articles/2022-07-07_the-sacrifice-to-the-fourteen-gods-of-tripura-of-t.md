@@ -41,4 +41,4 @@ Tripuran troops then proceeded to tunnel *by hand* right the way into the heart 
 
 To quote the Rev. James Long as to what happened next:
 
-“Mohammad \[Mamarak\] Khan the general of the king of Gaur was however taken prisoner confined in an iron cage and at the instigation of the head Brahman priest, was sacrificed to the fourteen gods.”
+> “Mohammad \[Mamarak\] Khan the general of the king of Gaur was however taken prisoner confined in an iron cage and at the instigation of the head Brahman priest, was sacrificed to the fourteen gods.”

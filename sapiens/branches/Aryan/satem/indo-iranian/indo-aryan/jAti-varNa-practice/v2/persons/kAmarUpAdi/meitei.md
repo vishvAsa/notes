@@ -8,5 +8,5 @@ who became chief queen of ahom Suremphaa Rajeswar Singha by her wit, tricked Rag
 
 ## Chinglen Nongdrenkhomba aka gambhIra-siMha
 - (aka Gambhir Singh)
-- Cow slaughter being prohibited under the rule of . He also mercilessly crushed a group Muslims who tried to stop a Rathyatra in Sylhet.
+- Cow slaughter being prohibited. He also mercilessly crushed a group Muslims who tried to stop a Rathyatra in Sylhet.
 - Subjugated the Nagas and brought them under his control.
