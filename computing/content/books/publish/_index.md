@@ -5,6 +5,9 @@ title = "+Publish"
 ## Distributing a separate format online
 One can argue that publication rights/ copyright is for typeset book. Just plain text file/ other format can be considered entirely separate. Observe https://sarit.indology.info by various indolgists.
 
+## Sales impact
+For sanskrit books, ebook distribution doesn't have any significant impact on paper-book sales (more so if not advertised). Consumers/ archivists preferring the latter tend to be different from those preferring to read on the computer.
+
 ## Engaging a publisher
 An author may sell (some/ all) publishing rights to a publisher in exchange for "royalty" (usually small). Certain generous publishers may agree to online publication. 
 
