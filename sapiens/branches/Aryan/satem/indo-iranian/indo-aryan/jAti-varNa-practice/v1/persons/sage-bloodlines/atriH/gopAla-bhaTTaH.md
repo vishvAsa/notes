@@ -14,6 +14,8 @@ Supposed reincarnation of a gopI ( Anaṅga-mañjarī per Gaura-gaṇoddeśa-dī
 
 अयं चैतन्यः शाङ्कर-सन्न्यासात् परं श्रीरङ्गं प्राप्तः। कथम् अर्चकगृहे ऽवसत्? सचेलस्नाननिमित्तं तद्दर्शनं भवति खलु??
 
+Prabodhānanda Sarasvatī is an unheardof naming style for a rAmAnujIya sannyAsI.
+
 ## Gone to vRndAvana at over 30
 This supposedly happened in mid 1530s, after chaitanya died.
 
@@ -34,14 +36,14 @@ So, the below conflicts with that.
 ## Ritual input
 Gopāla Bhaṭṭa Gosvāmī installed one of the seven principal Deities of Vṛndāvana, the Rādhāramaṇa Deity.
 
-### Mission
-He was helping vaiShNava-s of north India, reeling under centuries of muslim devastation, rebuild their ritual and doctrinal knowledge as per chaitanya's command (which did not conflict with rAmAnuja sampradAya at all). 
+### Chaitanya's intent?
+He was helping vaiShNava-s of north India, reeling under centuries of muslim devastation, rebuild their ritual and doctrinal knowledge as per chaitanya's command (which did not conflict with rAmAnuja sampradAya at all)?
 
 Chaitanya can be deduced to have felt that rUpa and sanAtana themselves, being specialists deep into rasa-shAstra and bhakti extacy, were not up to the task, but would happily cooperate. Any exposure R and S might have had to vedAnta must've been mAdhva kind at best (C was dissatisfied with it). 
 
 Gopāla Bhaṭṭa was the designated smṛty-ācārya (and famous as such) and the link to the ancient Southern traditions.
 
-हरि-भक्ति-विलासः was edited by him. Details at [TW](/AgamaH_vaiShNavaH/gauDIyaH/kriyA/gopAla-bhaTTaH/hari-bhakti-vilAsaH/meta/authorship) .
+हरि-भक्ति-विलासः was ascribed to him. Details at [TW](/AgamaH_vaiShNavaH/gauDIyaH/kriyA/gopAla-bhaTTaH/hari-bhakti-vilAsaH/meta/authorship) .
 
 ### Sat-kriyāsāra-dīpikā
 Composed and completed the compendious Sat-kriyāsāra-dīpikā (Source: [TW](https://archive.org/details/sat_kriya_sara_dipika/page/22/mode/1up)) per orders of senior vaiShNava-s.
@@ -51,9 +53,9 @@ Composed and completed the compendious Sat-kriyāsāra-dīpikā (Source: [TW](ht
 पद्धतिं तां विवाहादेः
 सत्क्रियासारदीपिकाम् ॥२॥
 >
-> श्रीमद्गोपालभट्टोऽयं
-साधूनामाज्ञया भृशम् ।
-भगवद्धर्म्मरक्षार्थं
+> श्रीमद्-गोपाल-भट्टोऽयं
+साधूनाम् आज्ञया भृशम् ।
+भगवद्-धर्म्म-रक्षार्थं
 भक्तानां वैदिकी तु या ॥३॥
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -70,7 +72,10 @@ commentary on the *Kṛṣṇa-karṇāmṛta,*. (per abhaya-charaNa-dAsa) - [TW
 
 
 ## shrIvaiShNavatvam
-As far as he was concerned, he never stopped being an SV - no major distinction existed (gauDIya philosophy, to the tiny extant it existed, did not conflict). He starts hari-bhakti-vilAsa, which he edited.
+As far as he was concerned, he never stopped being an SV - no major distinction existed (gauDIya philosophy, to the tiny extant it existed, did not conflict). 
+
+### Mainstream story concordance
+He starts hari-bhakti-vilAsa, which he supposedly edited.
 
 > चैतन्य-देवं भगवन्तम् आश्रये  
 श्री-वैष्णवानां प्रमुदेऽञ्जसा लिखन् ।  
@@ -79,9 +84,9 @@ As far as he was concerned, he never stopped being an SV - no major distinction 
 > जीयासुर् आत्यन्तिक-भक्ति-निष्ठाः   
 श्री-वैष्णवा माथुर-मण्डलेऽत्र ।
 
-He took up tridaNDI sannyAsa, not ekadaNDI type like mAdhva-s or other gauDIya-s. Bhaktisiddhānta Sarasvatī Ṭhākura is said to have reintroduced tridaNDI sannyAsa.
+He took up tridaNDI sannyAsa as per abhaya charaNa dAsa, not ekadaNDI type like mAdhva-s or other gauDIya-s. Bhaktisiddhānta Sarasvatī Ṭhākura is said to have reintroduced tridaNDI sannyAsa.
 
-### Harmony with chaitanya
+#### Harmony with chaitanya
 Why would an SV not be attracted by a neo-ALvAr? His parents were devoted to chaitanya - but never became gauDIya-s (the family line continues to serve shrIranga to date).
 
 chaitanya trusted him so much as to make him formalize his doctrines; but rUpa and sanAtana ultimately didn't.
@@ -128,13 +133,8 @@ shrInivAsa AchArya and narottama became close friends.
 ##### puNDra-s
 gopAla-bhaTTa-parivAra bears the very ungauDIya and SV-like puNDra. Further placement of the puNDra-s on the body (atleast the front portion) are identical to SV layout, except that the neck tilakas have moved down.
 
-
-#### Deduction
-
-One can be said to "belong" to a tradition by ritual initiation or tutelage or by one's explicit agreement with the said tradition.
-The tradition's adoration of him is not good evidence (for that matter even shrIdhara-svAmI is glorified by gosvAmins).
-
-One must consider - 
+#### Problems with official story
+One must consider -
 
 Why did gopAla bhaTTa not finish what he started off with?  
 Though he lived long after jIva completed the project (and after rUpa and sanAtana died), why is he not acknowledged for anything more than the initial "disordered" notes?  
@@ -142,7 +142,27 @@ Why did he ask the author of charitAmRta to not mention him ( as abhayacharaNa d
 Why does Sat-kriyāsāra-dīpikā differ so much from hari-bhakti-vilAsa which sanAtana published under his name?   
 etc..
 
+
+#### Deduction
+One can be said to "belong" to a tradition by ritual initiation or tutelage or by one's explicit agreement with the said tradition.
+The tradition's adoration of him is not good evidence (for that matter even shrIdhara-svAmI is glorified by gosvAmins).
+
+##### sanAtana and rUpa background
 sanAtana and rUpa came from a tough political background - would likely have been quite cunning. So sanAtana's deed in trying to coopt gopAla bhaTTa into his view by publishing HBV under his name isn't surprising.  
+
+##### Disagreement points
+- Use of shrIdhara-svAmi's shAnkara vaiShNava commentary as an authority for interpreting bhAgavata.
+- Citations like the below in hari-bhakti-vilAsa -
+  शिवे च परमेशाने  
+  विष्णौ च परमात्मनि ।  
+  समबुद्ध्या प्रवर्त्तन्ते  
+  ते वै भागवतोत्तमाः ॥३०॥
+- **The Inviolability of *Nitya-Karma*:** The lifelong, unconditional requirement for initiated Vaishnavas to perform their prescribed Vedic duties as an act of service (*kainkarya*), regardless of their level of spiritual advancement.
+- **The Primacy of *Vidhi-Mārga*:** The idea that the path of spontaneous love (*rāga-mārga*) must always operate within the boundaries and discipline established by the path of rules (*vidhi-mārga*).
+
+He could not compromise his deep-seated Sri Vaishnava convictions, and he could not override the theological vision of Rūpa and Sanātana, the leaders of the movement. They had a tilt towards the sahajIya type spontaneity.
+
+##### Resistence
 GB would've wisened up fast though;   
 stayed aloof thence, abandoning ShaT-sandarbha.
 
@@ -154,7 +174,7 @@ The continued respectful mentions of gopAla-bhaTTa by sanAtana and jIva amount t
 उपत्रिंशत्तमे वर्षे वृन्दावनं प्राप।  
 स रामानुजीयैर् लालितः पालितः पाठित इति सर्वैर् अपि प्राचीनैर् अङ्गीकृतम्।  
 अतः स जन्मना रामानुजीयसम्बन्धम् आप्तवान् इति स्फुटम्।  
-(यद्यपि तत्-परिवारोऽधुना पूर्णतया जीवसनतनादिमार्गे पतिताः, तथापि १२ पुण्ड्रधरणपद्धतिर् इतरगौडीयपरिवारेभ्योऽत्यन्तविलक्षणा रक्षितेति रुचिरम्। )
+(यद्य् अपि तत्-परिवारोऽधुना पूर्णतया जीवसनतनादिमार्गे पतिताः, तथापि १२ पुण्ड्रधरणपद्धतिर् इतरगौडीयपरिवारेभ्योऽत्यन्तविलक्षणा रक्षितेति रुचिरम्। )
 
 किञ्च गौडीयसम्बन्धं तिरश्चकारेत्यत्र सूचना वर्तन्ते -
 
@@ -195,7 +215,7 @@ The continued respectful mentions of gopAla-bhaTTa by sanAtana and jIva amount t
 तथापि, 
 
 > "इतः परम् मन्नाम्ना ऽपसिद्धान्तप्रचारो मा भूत्।  
-> वर्धतां तदीयवैष्णवतेति तद्-विरोधं नाचरामि,  
+> वर्धतां तदीय-वैष्णवतेति तद्-विरोधं नाचरामि,  
 > किञ्च सत्सिद्धान्तविकारे ऽपि न सहकरोमि"
 
 इति निरचिनोद् इति ममोहः ।  
@@ -205,7 +225,7 @@ The continued respectful mentions of gopAla-bhaTTa by sanAtana and jIva amount t
 
 
 ### आधुनिक-बान्धवाः
-अर्वाचीन-बान्धवा अपि दीक्षा-करमदिषु बोधयन्ति गौडीयान् - [2019 1](https://youtu.be/WlRKVl8mGbg?si=RktiuclMzDjyKxSV) [TW](https://www.youtube.com/watch?v=Qwqj0w0819E&t=134s)।
+अर्वाचीन-बान्धवा अपि दीक्षा-करमदिषु बोधयन्ति गौडीयान् - [2019 1](https://youtu.be/WlRKVl8mGbg) [TW](https://www.youtube.com/watch?v=Qwqj0w0819E&t=134s)।
 
 
 ## Disciples
@@ -229,3 +249,6 @@ This was accepted by rUpa (and presumably sanAtana).
 
 > *tridaṇḍa-sannyāsa* is not distinctly mentioned in the Gauḍīya Vaiṣṇava literature ... the first verse of Śrīla Rūpa Gosvāmī’s *Upadeśāmṛta* advocates that one should accept the *tridaṇḍa-sannyāsa* order by controlling the six forces  
 > \- abhaya-charaNa-dAsaH bhaktivedAnta-svAmI
+
+## Death
+gopAla bhaTTa "disappeared" by 1578 CE, aged about 75, while jIva started his work in the 50s. 

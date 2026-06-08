@@ -16,6 +16,9 @@ The state of being reduced to a vassal like Japan is rather humiliating for an o
 One wonders if the mahAmlechCha siege of Cuba will end up in cannibalism, or will the break before that. In any case, it shows that the brutality of medieval sieges is still alive and kicking in the modern world.
 
 ## Tulsi
+### Sriram
+I suspect Sriram leaving the nAri~Nga's court is part of the anti-H mobilization by "core MAGA" led by the duShTa prathamonmatta gharaTTaka +++(=Stephen Miller)+++.
+
 ### Iran war non-resignation
 Tulsi's behavior in the context of the ongoing war is puzzling to many. Why did she not resign just like that guy Joe Kent did after speaking the truth that the pichChilaka is hiding on behalf of his donors? She instead issued a strange statement affirming that among the mlechCha-s pichChilu~Nga is Ishvara, and he knows what is best for his people and followers (in every sense). 
 
