@@ -6,7 +6,13 @@ Gopāla Bhaṭṭa was born to the traditional shrI-vaiShNava pAncharAtrika arch
 
 Supposed reincarnation of a gopI ( Anaṅga-mañjarī per Gaura-gaṇoddeśa-dīpikā or Guṇa-mañjarī).
 
-## Meeting chaitanya 1510 CE
+
+
+## Meeting chaitanya 1510 CE?
+Father - Veṅkaṭa Bhaṭṭa as per Narahari Cakravartin of 18th CE.
+
+> But in Kṛṣṇadāsa Kavirāja's account (Madhya ix, 82–166) of Caitanya's stay at Veṅkaṭa's house for four months there is no mention of Gopāla Bhaṭṭa and no definite data for the proposed identification. Narahari himself alludes to the doubt expressed by some on the matter; but as the account is either missing or given in variant forms in the other biographies of Caitanya,[^xxxvii_1] its trustworthiness has not been proved.
+
 > Caitanya Mahāprabhu met Prabodhānanda Sarasvatī, who had two brothers, Veṅkaṭa Bhaṭṭa and Tirumalaya Bhaṭṭa, who were Vaiṣṇavas of the Rāmānuja-sampradāya. Gopāla Bhaṭṭa Gosvāmī was the nephew of Prabodhānanda Sarasvatī. .... In his *gṛhastha* life, Prabodhānanda Sarasvatī was a resident of Śrī Raṅga-kṣetra, and he belonged to the Vaiṣṇava Rāmānuja-sampradāya. ...
 > 
 > In the year 1433 Śakābda (A.D. 1511), when Lord Caitanya Mahāprabhu was touring South India, He stayed for four months during the period of Cāturmāsya at the house of Veṅkaṭa Bhaṭṭa, who then got the opportunity to serve the Lord to his heart’s content.  Gopāla Bhaṭṭa also got the opportunity to serve the Lord at this time. ...
@@ -45,8 +51,8 @@ Gopāla Bhaṭṭa was the designated smṛty-ācārya (and famous as such) and 
 
 हरि-भक्ति-विलासः was ascribed to him. Details at [TW](/AgamaH_vaiShNavaH/gauDIyaH/kriyA/gopAla-bhaTTaH/hari-bhakti-vilAsaH/meta/authorship) .
 
-### Sat-kriyāsāra-dīpikā
-Composed and completed the compendious Sat-kriyāsāra-dīpikā (Source: [TW](https://archive.org/details/sat_kriya_sara_dipika/page/22/mode/1up)) per orders of senior vaiShNava-s.
+### Sat-kriyāsāra-dīpikā?
+Allegedly composed and completed the compendious Sat-kriyāsāra-dīpikā (Source: [TW](https://archive.org/details/sat_kriya_sara_dipika/page/22/mode/1up)) per orders of senior vaiShNava-s.
 
 > वक्ति गृहिद्विजादीनाम्
 अनन्यानां विशेषतः ।
@@ -65,9 +71,34 @@ Composed and completed the compendious Sat-kriyāsāra-dīpikā (Source: [TW](ht
 in vaiShNava homa are obviously later insertions - need not imply a later author for the rest of the material.
 </details>
 
+> From its contents, as well as [[Pl]] from its general trend and style, the work appears to be a later fabrication passed off in the name of Gopāla Bhaṭṭa. 
 
-## कृत्यन्तरम्
-commentary on the *Kṛṣṇa-karṇāmṛta,*. (per abhaya-charaNa-dAsa) - [TW](https://archive.org/details/VbGI_the-krishna-karnamrita-of-lilasuka-critically-ed-with-multiple-commentaries-by-s/page/n11/mode/1up)
+But this attribution is very doubtful, as per even gauDIya authorities.  
+Further, contents don't match.
+
+> It is enjoined that particular care should be taken to avoid the worship of the inferior gods and the Fathers (Pitṛs), which is forbidden to a Kṛṣṇa-worshipper; and for this reason Smārta rules of penance etc. are held to be inapplicable, the Bhagavad-dharma being superior to every other Dharma. ... 
+> 
+> The author explains the omission by stating that a devotee of Kṛṣṇa should not worship the dead ancestor but offer Mahāprasāda and Bhagavac-caraṇāmṛta only to him, for otherwise the devotee would commit Nāma-sevāparādha.
+
+### Kāla-kaumudī
+> the colophon describes him as "one whose refuge is the feet of Harivaṁśa Bhaṭṭa."
+> 
+> chief object appears to be the determination of auspicious times or Tithis suitable for religious rites and observances, including the Saṁskāras, the Dīkṣā, the various Vratas, festivals (e.g., Janmāṣṭamī), the installation of the image of the Bhagavat, and so forth.
+
+## कृष्ण-कर्णामृतादि?
+commentary on the *Kṛṣṇa-karṇāmṛta,*. (per abhaya-charaNa-dAsa) - [TW](https://archive.org/details/VbGI_the-krishna-karnamrita-of-lilasuka-critically-ed-with-multiple-commentaries-by-s/page/n11/mode/1up). Refers to Ujjvala-nīla-maṇi.
+
+Gopāla Bhaṭṭa, son/ disciple of Harivaṁśa Bhaṭṭa and grandson of Nṛsiṁha of the Drāviḍa country as per *Rasika-rañjanī*, on Bhānudatta's *Rasa-mañjarī*.  
+Disciple of Harivaṁśa Bhaṭṭa of kRShNa-karNAmRta.
+
+> This commentary (on Rasa-mañjarī), of which no Ms in Bengali characters has yet been found, [[Pxxxii]] might have been composed, if the author is identical with the Gopāla Bhaṭṭa of the Caitanya sect, before Gopāla Bhaṭṭa joined the sect; and we do not find in it any reference to or citation from the treatises on the Rasa-śāstra of the Bengal school, as we do in his *Kṛṣṇa-vallabha*. Its Ālaṁkārika point of view does not seem to have been coloured by any Vaiṣṇava prepossession.
+
+
+> The Kāvyamālā edition (Gucchaka iii, p. 111 footnote) of Rudra's *Śṛṅgāra-tilaka* mentions another incomplete commentary on Rudra's work by Gopāla Bhaṭṭa, which is entitled *Rasa-taraṅgiṇī*; but no details about the work or the author are given and no other manuscript of this work is known to exist.  
+>  ....
+> 
+> It is remarkable that this self-description is repeated in Gopāla Bhaṭṭa's *Rasika-rañjanī* and *Kāla-kaumudī*, but is not found in the *Hari-bhakti-vilāsa* and the doubtful *Sat-kriyā-sāra-dīpikā*, both of which works are directly associated with the Caitanya sect. The omission in the last two works can hardly be explained by the presumption that when Gopāla Bhaṭṭa composed them, he had changed his Āśrama and could not very well refer to his lineage; for his *Kṛṣṇa-vallabha*, which contains a similar reference, quotes directly from Rūpa Gosvāmin's works and therefore could not have been written very early, while his other Vaiṣṇava ritualistic work, *Kāla-kaumudī*, which might have been written to supplement the *Hari-bhakti-vilāsa*, contains the reference.
+
 
 
 
@@ -109,10 +140,13 @@ Unlike rUpa, sanAtana and jIva, and like chaitanya, gopAla-bhaTTa took sannyAsa.
 ##### Kṛṣṇadāsa
 > When Kṛṣṇadāsa Kavirāja Gosvāmī took permission from all the Vaiṣṇavas before writing *Śrī Caitanya-caritāmṛta,* Gopāla Bhaṭṭa Gosvāmī also gave him his blessings, but he requested him not to mention his name in the book. - abhaya-charaNa-dAsa
 
-As a result, Gopal Bhatta is only briefly named in the Caitanya-caritamrta (with no detailed glorification or biographical information)
+This is the explanation given by the 18th century scholar narahari.
 
+Gopal Bhatta is only briefly named in the Caitanya-caritamrta (with no detailed glorification or biographical information). Kṛṣṇadāsa identifies him as a shixA guru; but makes frequent namaskAras in Caitanya-caritamrta to rUpa and raghunAtha. 
 
-Kṛṣṇadāsa also is said to have composed Gopi Bhatt Goswami astakam.
+Kṛṣṇadāsa notably does not use his extensive kRShNa-karNAmRta commentary to write his own, but relies on the terse and inferior one by chaitanya-dAsa. 
+
+Kṛṣṇadāsa also is said to have composed Gopi Bhatt Goswami astakam. Attribution doubtful.
 
 ##### Acnowledgements
 He is acknowledged in 10th skandha's Brihad Vaishnava Toshini commentary by Sanatana as suhRt, (and not?) sahAya (गोपाल-भट्टो रघुनाथ-दासः ।  स्याताम् उभौ यत्र सुहृत्-सहायौ) (after acknowledging a long list of perceptors like mAdhava-purI, shrIdhara-svAmI, sArvabhauma-bhaTTAchArya ...).  
