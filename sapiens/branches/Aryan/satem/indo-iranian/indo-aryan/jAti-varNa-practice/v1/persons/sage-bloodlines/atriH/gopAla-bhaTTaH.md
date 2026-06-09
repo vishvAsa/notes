@@ -140,7 +140,7 @@ Unlike rUpa, sanAtana and jIva, and like chaitanya, gopAla-bhaTTa took sannyAsa.
 ##### Kṛṣṇadāsa
 > When Kṛṣṇadāsa Kavirāja Gosvāmī took permission from all the Vaiṣṇavas before writing *Śrī Caitanya-caritāmṛta,* Gopāla Bhaṭṭa Gosvāmī also gave him his blessings, but he requested him not to mention his name in the book. - abhaya-charaNa-dAsa
 
-This is the explanation given by the 18th century scholar narahari.
+This is the explanation given by the 18th century scholar narahari. But that's unlikely since charitAmRta was started and completed (few years to 1615) long after gopAla bhaTTa's departure.  
 
 Gopal Bhatta is only briefly named in the Caitanya-caritamrta (with no detailed glorification or biographical information). Kṛṣṇadāsa identifies him as a shixA guru; but makes frequent namaskAras in Caitanya-caritamrta to rUpa and raghunAtha. 
 
