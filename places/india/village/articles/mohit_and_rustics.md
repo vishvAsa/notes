@@ -49,3 +49,9 @@ With lesser children, (even relatively) better off farmers/villagers now don’t
 
 Saw village women chasing away a cow w/ apparently diseased udder (mastitis looks like), as the cow tries to enter the home of her masters again and again.. occasional rooted rustic dharmika village morning. Initially I used to feel terribly sad about all this, now there's a mixture of impotent anger and pessimism.
 
+## Doctor condescension
+Once a well known female doctor thought I was some illiterate villager, I gave her my phone to speak to another doctor, w/ call recording on, she didn’t realise, first thing she asked abt me ‘is he a pujari or something’, both doctors spoke abt me/my family, in a manner which can be described at best as patronising. Have seen several other instances where doctors hate questions, even when one is extremely polite. Or make fun of patient’s situations. 
+
+Or if they misspeak they’d just not admit it even if pointed out at the same moment.
+
+Even if I were to be illiterate, the behaviour / gestures / manner of speaking, were quite bad. I’ve seen doctors being quite rude w/ patients from weaker backgrounds. Except where they sense a verbal / physical threat.
