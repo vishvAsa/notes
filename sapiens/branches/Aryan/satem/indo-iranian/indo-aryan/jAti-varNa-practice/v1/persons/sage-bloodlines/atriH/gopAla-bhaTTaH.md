@@ -49,7 +49,7 @@ Chaitanya can be deduced to have felt that rUpa and sanAtana themselves, being s
 
 Gopāla Bhaṭṭa was the designated smṛty-ācārya (and famous as such) and the link to the ancient Southern traditions.
 
-हरि-भक्ति-विलासः was ascribed to him. Details at [TW](/AgamaH_vaiShNavaH/gauDIyaH/kriyA/gopAla-bhaTTaH/hari-bhakti-vilAsaH/meta/authorship) .
+हरि-भक्ति-विलासः was ascribed to him. Details at [TW](/AgamaH_vaiShNavaH/rAgAnuga-bhakti-parAH/kriyA/gopAla-bhaTTaH/hari-bhakti-vilAsaH/meta/authorship) .
 
 ### Sat-kriyāsāra-dīpikā?
 Allegedly composed and completed the compendious Sat-kriyāsāra-dīpikā (Source: [TW](https://archive.org/details/sat_kriya_sara_dipika/page/22/mode/1up)) per orders of senior vaiShNava-s.
@@ -129,10 +129,10 @@ chaitanya trusted him so much as to make him formalize his doctrines; but rUpa a
 colophon of kRShNa-karNAmRta commentary - श्री-द्राविड-हरिवंश-भट्टैक-चरण-शरण-श्री-गोपाल-भट्ट clearly indicates whose sole disciple he claimed to be -  and it is not sanAtana.
 
 ##### ShaT-sandarbha abandonment
-ShaT-sandarbha abandonment, and take-over by jIva - see [here](/AgamaH_vaiShNavaH/gauDIyaH/tattvam/jIva-gosvAmI/ShaT-sandarbhaH/meta/contributions).
+ShaT-sandarbha abandonment, and take-over by jIva - see [here](/AgamaH_vaiShNavaH/rAgAnuga-bhakti-parAH/tattvam/jIva-gosvAmI/ShaT-sandarbhaH/meta/contributions).
 
 ##### HBV thrust
-हरि-भक्ति-विलासः was published under his name by sanAtana. Details at [TW](/AgamaH_vaiShNavaH/gauDIyaH/kriyA/gopAla-bhaTTaH/hari-bhakti-vilAsaH/meta/authorship) .
+हरि-भक्ति-विलासः was published under his name by sanAtana. Details at [TW](/AgamaH_vaiShNavaH/rAgAnuga-bhakti-parAH/kriyA/gopAla-bhaTTaH/hari-bhakti-vilAsaH/meta/authorship) .
 
 ##### sannyAsa
 Unlike rUpa, sanAtana and jIva, and like chaitanya, gopAla-bhaTTa took sannyAsa. Even more particularly - tridaNDI sannyAsa, like other shrIvaiShNavas, and unlike even chaitanya.
