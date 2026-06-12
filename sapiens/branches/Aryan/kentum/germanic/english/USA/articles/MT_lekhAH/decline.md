@@ -1,6 +1,21 @@
 +++
-title = "kennedy on decline"
+title = "Decline"
 +++
+
+## 2026
+### Fall
+> In the past few years the US:
+>
+> 1. Wound up the #Afghan war
+2. Started #Ukraine
+3. Took #Syria away from Iran/ Rus while keeping Ukr going full speed.
+4. Took #Venezuela
+5. Lit fires all over #India, esp NE
+6. Has severely hurt #Iran so far
+
+
+In fact, right now the American empire is in a similar phase as the Ching in 1750-60s or the Turks under Suleyman. However, one also sees the seeds of what will eventually bring down the empire, though that can take a 100 years
+
 
 ## 2025
 ### Comparisons

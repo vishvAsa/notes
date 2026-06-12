@@ -35,19 +35,6 @@ When they bypassed her the first time around she probably realized that she does
 
 Another point, I failed to mention is that she is still a uniformed member of the military. So she cannot disobey the commander nAri~Nga.
 
-## Fall
-> In the past few years the US:
->
-> 1. Wound up the #Afghan war
-2. Started #Ukraine
-3. Took #Syria away from Iran/ Rus while keeping Ukr going full speed.
-4. Took #Venezuela
-5. Lit fires all over #India, esp NE
-6. Has severely hurt #Iran so far
-
-
-In fact, right now the American empire is in a similar phase as the Ching in 1750-60s or the Turks under Suleyman. However, one also sees the seeds of what will eventually bring down the empire, though that can take a 100 years
-
 
 ## Iran war
 ### Bad luck
@@ -242,37 +229,10 @@ Source: [TW](https://x.com/blog_supplement/status/2038813410079502516)
 Be it Piṇḍaka or Picchilaka, two puppets in the rogue's grasp  
 One is mute, and the other loquacious, yet both are operated by the wicked ones.
 
-### Multi epstein
-Source: [TW](https://x.com/blog_supplement/status/2033773164405100887)
-
-While Apastiya is gone, day by day, one learns that there were many others like him embedded in the American elite circles. Some of them are being just imprisoned, but others are operating with impunity.
-
-Certain things surrounding it have deep ramifications, including to the current war, making it very dangerous to say much in public. Those who know can find this information for themselves, and once they see it, it is hard to unsee.
-
 ### Plantair and X
 The strange thing was I just saw the quote tweet. When I clicked on it vanished. Palantir is doing its job -- it is a hub for this war; muShkavAn is their man.
 
-### Distracted from Epstein 
-Apastiya has vanished from the news? You can call it a conspiracy theory, but it does not seem entirely coincidental to me.
 
-### Epstein factor
-I'm not deep into the Apastiya issue, but it does seem that, like war with Iran, it could fracture the younger base of the nAri~Nga. That said, it raises a few issues even to the casual observer:
-
-It was said that Apastiya was part of the intelligence (one can infer that the Judaeo-Christian apparatus was implied by that). Nobody to date has denied that. He had obvious connections to a shady uparimarakata intelligence agent who was involved in the very reconquest of that land. That guy was a conduit to the deepest connections among the mUlavAtula network.
-
-Nobody has denied that he was very rich for a single-person investor with a small or absent staff, with little evidence for an expected career progression in that field. Where did he get all that money from? His close associates went to jail for clearly shady activities, and at least one died mysteriously in jail.
-
-Many powerful Judaeo-Christian elites were his friends, and nobody questions that they hung out with him socially.
-
-Let's give it to the turtle et al that he killed himself: he could have gotten a message from the uparimarkata-s that they were "burning" him and realized he had reached the end of his rope.
-
-Still, it is clear that the nAri~Nga is sweeping something under the rug is the biggest question what were his intelligence activities? They clearly don't want to reveal that thus make it go away.
-
-We see a certain kind of parallel to the Jonathan Pollard case. Why did they keep in jail for so long -- it was not as if his transmissions seriously crippled the mahAmlechCha based on what is publicly stated regarding this case. It is clear that something deeper that what is let out was leaked by him to his people. One possibility item among the hidden things could the US complicity in nuclear-arming TSP. But clearly there was more stuff more consequential to them that lost relevance only in the past decade, when they let him flee.
-
-All that said, we believe that the Apastiya and Iran-bombing incidents indicate that nAri~Nga has been finally coopted by the Deep State. Probably, in return they will let him do deportations and satisfy the more MAWA faction of his base.
-
-I do think it is not looking good for the nAri~Nga, but there is still time before the decisive elections and other things could happen which cause a change of course.
 
 ### Deep state takeover
 Source: [TW](https://x.com/blog_supplement/status/1888466064876392518)
