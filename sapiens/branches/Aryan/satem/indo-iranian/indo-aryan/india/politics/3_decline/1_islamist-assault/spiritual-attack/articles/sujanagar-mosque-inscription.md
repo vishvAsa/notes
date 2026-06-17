@@ -102,19 +102,19 @@ The inscription was first notified by Swapan Kumar Biswas (Biswas 2007). Then la
 अधिकृत-श्री-जीव-सेन-व्यापारे  
 पारदेशिक-समस्त-ज्ञातीनाम् अनुमत्या  
 पञ्चकुलिक-हासि-[सु]त-- महा-सामन्त-श्री˚अबू-देवेन  
-ज्ञातीनां रक्षणार्थं  
+ज्ञातॄणां रक्षणार्थं  
 शङ्ख-कर-+++(वृद्धि-)+++[प्र]प्रहार+++(=आहार्य)+++–+अखण्डितावार्त्तिक+++(=circulation)+++-कपर्दक-दानं च खण्डितम्,  
 ˚अल्लाह-भट्टारक-स्वामि-जंशित-विहार-प्रतिकारणार्थं स्व-कीय--महा-सामन्त-भोग--हट्ट+++(=पण्यस्थान)+++-ग्रह+++(=कर)+++-कॢप्तं च  
 दत्तम् इति।  
 ˚एतां कीर्त्तिं ये पालयन्ति  
 तेषाम् एषो धर्म्मः  
-तदीय-पार्श्वे च शुद्धाञ्जलिर् मतेति।  
+तदीय-पार्श्वे च शुद्धाञ्जलिर् मातेति।  
 ये पुनर् अन्यथा कुर्वन्ति गर्दभस् तेषां पितेति ॥
 
 **(1)** [siddham] mahārājādhirājaśrīmadbhoja-varmmadevapādīyasaṃvat* 7 [kha]  
 **(2)** sūryagatyā jyaiṣṭhadine 21 ˚adhikṛtaśrījīvasenavyāpāre pārade-  
 **(3)** śikasamastajñātīnām anumatyā pañcakulikahāsi[su]tamahā-  
-**(4)** sāmantaśrī˚avūdevena jñātīnāṃ rakṣaṇārthaṃ śaṃkhakara[pra]prahārā-  
+**(4)** sāmantaśrī˚avūdevena jñātrīnāṃ rakṣaṇārthaṃ śaṃkhakara[pra]prahārā-  
 **(5)** khaṇḍitāvārttikakapardakadānaṃ ca khaṇḍitam ˚allāhabhaṭṭārakasvāmi-  
 **(6)** jaṅśitavihārapratikāraṇārthaṃ svakīyamahāsāmantabhogahaṭṭa-  
 **(7)** grahakḷptaṃ ca dattam iti ˚etāṃ kīrttiṃ ye pālayanti teṣām eṣo  
@@ -125,7 +125,7 @@ The inscription was first notified by Swapan Kumar Biswas (Biswas 2007). Then la
 * **Line 1** `[siddham]` expressed by a symbol, a loop open to the left. `[kha]`: there is an *akṣara* like *kha*, which could be a mark of punctuation in view of the colophon of a manuscript of the *Vimalaprabhā* dated year 39 of the reign of Harivarman, where the year and the word *sūryagatyā* is demarcated by a *daṇḍa* (Sanderson 2009: 82, note 136).
 * **Line 4** `śaṃkhakara˚`: emend *śaṃkhakāra*. `˚[pra]prahāra`: the first *akṣara* and meaning unclear, tentatively emend *prāptahāra*.
 * **Line 6** `jaṅśita˚`: emend *jaṃsita*.
-* **Line 8** `mmateti`: emend *mateti*.[^2]
+* **Line 8** `mmateti`: emend *māteti*.[^2]
 
 ---
 
