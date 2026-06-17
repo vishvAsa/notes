@@ -3,6 +3,11 @@ title = "US actions"
 +++
 
 ## 2026
+### Sabotage and killing
+One has to seriously consider the possibility that the mahAmlechCha were involved in sabotaging the defense satellite to be put up by ISRO. Unfortunately, as we remarked more than 22 years ago, it is easy to purchase agents in the desh. The same applies to the ongoing kerfuffle regarding the mahAmlechCha killing Indian sailors.
+
+Another conspiracy (not in a bad sense) theory I saw today was that the mahAmlechCha might be getting back for the killing of their preta agents in their Islamic allies and also their arrest in India. The same thought crossed my mind, and it is not entirely impossible. Currently, that angle needs to be investigated more before it is stated plainly.
+
 ### Rubio visit
 The visit of the mahAmlechCha chiliarch+++(=Rubio)+++ to the pretabhAnaki's +++(→mother theresa)+++ pretAlaya is clearly designed to signal to the H that they will be engaging in subversion via the pretamata. Moreover, the chiliarch has sent on the eve of the probable resumption of hostilities in West Asia by the unmAda-dvaya with some concealed threats.
 
