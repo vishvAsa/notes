@@ -30,7 +30,7 @@ title = "Steel"
 - very expensive. Hence items are often made hollow.
 - 202 grade
 - 304 grade -  8% nickel and 18% chromium, making it ultra resistant to corrosion and oxidation. 
-- 316 grade - higher corrosion resistence.
+- 316 grade - higher corrosion resistence. Surgical steel. Has Molybdenum: 2-3% beyond 304 grade.
 
 ## Cast Iron
 - >2% carbon. Brittle.
