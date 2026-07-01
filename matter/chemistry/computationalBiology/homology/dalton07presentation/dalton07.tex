@@ -1,0 +1,108 @@
+\documentclass{beamer}
+
+
+\usetheme{Warsaw}
+
+\title{Presenting: `An evaluation of automated homology modelling methods at low target-template sequence similarity' by Dalton and Jackson}
+\author{vishvAs vAsuki}
+\date{\today}
+
+\begin{document}
+
+\frame{\titlepage}
+
+\section[Outline]{}
+\frame{\tableofcontents}
+
+\section{Homology Modelling: Background}
+
+\begin{frame}
+\frametitle{Steps in homology modelling}
+\begin{itemize}
+\item Template selection
+\item Alignment
+\item Model construction
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Template selection}
+\begin{itemize}
+\item Blast E-Values: .0001 E-Value means that the structures are pretty close.
+\item FASTA sequence identities
+\item For multiple templates: Ensure structural similarity among templates. Use `Z-score'.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Alignment: Critical}
+\begin{itemize}
+\item \textbf{Use sequence information only:} BLAST, FASTA and PSI-BLAST.
+\item \textbf{Use structure information too}: Use threading (3D-Coffee), build and align locale profiles (Staccato) or penalize indels in secondary structure locales (SAlign).
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{Model construction: Conserved region}
+\begin{itemize}
+\item \textbf{Rigid-body assembly (Nest, Builder, Swiss-Model):} Copy structure of conserved core from the template. \cite{galperin03}
+\item \textbf{Segment-Matching (SegMod/ENCAD):} Assemble short (hexapeptide?) segments to fit atom positions inferred from the template.
+\item \textbf{Satisfaction of spatial restraints (Modeller):} Extract restraints on structure from template. Add additional restraints. (Possibly NMR data too) Minimize violations. Then, use energy functions. \cite{galperin03} This beats the rest by a small margin.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Model construction: Loop Modelling}
+\begin{itemize}
+\item \textbf{Ab initio} (Modeller and Nest): Don't understand. But, they beat the rest by a small margin.
+\item \textbf{Database} (Builder and SegMod/ENCAD): Fragments from DB, energy minimization
+\item Database if Ab-initio fails (Swiss-Model)
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Model construction: Sidechains}
+\begin{itemize}
+\item Put it close to template sidechain. Use torsion angle libraries. Then use Energy minimization.
+\end{itemize}
+\end{frame}
+
+\section{The article}
+
+\begin{frame}
+\frametitle{Tests and Results}
+\begin{itemize}
+\item Test 3 new sequence-structure alignment programs: \textbf{3D-Coffee}, Staccato and SAlign.
+\item Find out if using multiple templates makes things better (and not worse).
+\item Test 5 homology modelling programs and their respective loop building methods: Builder, \textbf{Nest, Modeller}, SegMod/ENCAD and Swiss-Model.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Test data}
+\begin{itemize}
+\item `The SABmark database provided 123 targets with at least five templates from the same SCOP family and sequence identities 50\%.' \cite{dalton07}
+\item Loops range in length from 5 to 16 residues. (These include 2 rei on either side of the unmatched region.)
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{Lessons}
+\begin{itemize}
+\item `There are two main areas of difficulty in homology modelling that are particularly important when sequence identity between target and template falls below 50\%: sequence alignment and loop building.' \cite{dalton07}
+\item Use structure information in sequence alignment.
+\item Sequence alignment quality decreases with decreasing sequence identity.
+\item Overall, sequence alignment seems more critical than choice of modeller. (We can change this.)
+\item Ab initio loop modellers seem to work \textbf{slightly} better. Loop accuracy decreases with increasing length.
+\item Be wary about using multiple, rather than single, templates.
+\end{itemize}
+\end{frame}
+
+
+\bibliographystyle{plain}
+\bibliography{../informationInPSPBib}
+
+
+\end{document}

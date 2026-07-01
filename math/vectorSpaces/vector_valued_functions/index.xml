@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vector valued functions on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/vectorSpaces/vector_valued_functions/</link>
+    <description>Recent content in Vector valued functions on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/math/vectorSpaces/vector_valued_functions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Misc types</title>
+      <link>https://vishvAsa.github.io/notes/math/vectorSpaces/vector_valued_functions/misc_types/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/vectorSpaces/vector_valued_functions/misc_types/</guid>
+      <description>&lt;h2 id=&#34;functions-over-n-sequences-of-vectors&#34;&gt;Functions over N: Sequences of vectors&lt;/h2&gt;&#xA;&lt;p&gt;Many properties carry over from sequences on R or C. See analysis of functions over fields ref.&lt;/p&gt;&#xA;&lt;h3 id=&#34;convergence&#34;&gt;Convergence&lt;/h3&gt;&#xA;&lt;p&gt;The limit corresponds to the limit of projection sequence in each dimension. Sums, inner products, scalar multiples of convergent sequences converge.&lt;/p&gt;&#xA;&lt;p&gt;(Bolzano, Weierstrass): Every bounded sequence has a subsequence which converges.&lt;/p&gt;&#xA;&lt;h2 id=&#34;curve&#34;&gt;Curve&lt;/h2&gt;&#xA;&lt;p&gt;Continuous \(f:R \to X\), where X is a topological space.&lt;/p&gt;&#xA;&lt;h3 id=&#34;plane-curves&#34;&gt;Plane curves&lt;/h3&gt;&#xA;&lt;p&gt;A curve in the Euclidian plane.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,105 @@
+[[data]]
+Language = 'gimp'
+"Operand Type" = 'UI'
+Feature = 'single window'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'windows -> single window mode'
+Description = ''
+
+[[data]]
+Language = 'gimp'
+"Operand Type" = 'UI'
+Feature = 'see toolbox'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'windows -> toolbox'
+Description = ''
+
+[[data]]
+Language = 'gimp'
+"Operand Type" = 'UI'
+Feature = 'pick tool'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+pick from toolbox.
+Or right click'''
+Description = ''
+
+[[data]]
+Language = 'gimp'
+"Operand Type" = 'UI'
+Feature = 'see tool options'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'windows -> Dockable dialogs -> tool options'
+Description = ''
+
+[[data]]
+Language = 'gimp'
+"Operand Type" = 'UI'
+Feature = 'find and run command'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '/'
+Description = ''
+
+[[data]]
+Language = 'gimp'
+"Operand Type" = 'tile'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'filters-> map-> tile'
+Description = ''
+
+[[data]]
+Language = 'gimp'
+"Operand Type" = 'measure distance'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'draw a selection rectangle.'
+Description = ''
+
+[[data]]
+Language = 'gimp'
+"Operand Type" = 'image'
+Feature = 'crop'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'image-> crop'
+Description = ''
+
+[[data]]
+Language = 'gimp'
+"Operand Type" = 'image'
+Feature = 'make background transparent'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+- Add transparent layer
+- paste image on top of transparent layer.
+- anchor pasted image to transparent layer.
+- Color_to_alpha(bg_color)'''
+Description = ''
+
+[[data]]
+Language = 'gimp'
+"Operand Type" = 'image'
+Feature = 'select background'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Tools - selection tools - fuzzy select'
+Description = ''

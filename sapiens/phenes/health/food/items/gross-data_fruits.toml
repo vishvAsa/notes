@@ -1,0 +1,62 @@
+[[data]]
+item = "Rolled oats"
+quantity_grams = 100
+calories = 375
+protein = 13
+fat = 7.5
+carb = 67
+fiber_unsoluble = 10
+
+[[data]]
+item = "Amaranth grain raw"
+quantity_grams = 100
+calories = 371
+protein = 13.56
+fat = 7.2
+carb = 65.25
+fiber_unsoluble = 6.7
+
+[[data]]
+item = "Brown rice raw - medium grain"
+quantity_grams = 100
+calories = 362
+protein = 7.5
+fat = 2.7
+carb = 76
+fiber_unsoluble = 3.4
+
+[[data]]
+item = "White rice raw - medium grain"
+quantity_grams = 100
+calories = 362
+protein = 6.61
+fat = .58
+carb = 79.3
+fiber_unsoluble = 1.4
+
+[[data]]
+item = "White rice raw - medium grain"
+quantity_grams = 100
+calories = 362
+protein = 6.61
+fat = .58
+carb = 79.3
+fiber_unsoluble = 1.4
+
+[[data]]
+item = "White rice raw - medium grain"
+quantity_grams = 100
+calories = 362
+protein = 6.61
+fat = .58
+carb = 79.3
+fiber_unsoluble = 1.4
+
+[[data]]
+item = "millet raw"
+quantity_grams = 100
+calories = 378
+protein = 11
+fat = 4.2
+carb = 72.85
+fiber_unsoluble = 8.5

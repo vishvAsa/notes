@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Languages on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/</link>
+    <description>Recent content in &#43;Languages on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pick language</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/pick_language/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/pick_language/</guid>
+      <description>&lt;p&gt;One must use the language most appropriate language to solve the problem at hand quickly and with computational efficiency.&lt;/p&gt;&#xA;&lt;p&gt;Sometimes, a tradeoff may be involved: tradeoff between expressiveness and efficiency of a language. One may even use different programming languages to specify different parts of the logic to the computer.&lt;/p&gt;&#xA;&lt;h2 id=&#34;expressiveness-conciseness&#34;&gt;Expressiveness/ conciseness&lt;/h2&gt;&#xA;&lt;p&gt;Expressiveness is important in rapid prototyping/ programming. The presence of useful libraries is a major factor which affects conciseness.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Regular expressions</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/reg_ex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/reg_ex/</guid>
+      <description>&lt;h2 id=&#34;common-expressions&#34;&gt;Common expressions&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Devanagari&#xA;&lt;ul&gt;&#xA;&lt;li&gt;all [\u0900-\u0954]&lt;/li&gt;&#xA;&lt;li&gt;non-digits [\u0900-॥॰-\u0954]&lt;/li&gt;&#xA;&lt;li&gt;common non-digit non-daNDa chars - [\u0900-ॣ]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

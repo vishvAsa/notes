@@ -1,0 +1,77 @@
+We have proposed two different approaches to group recommendation in the previous section. In this section we will consider the computational feasibility of our approaches when dealing with massive real world data sets. The latent factors model (Section 2.3) is in fact quite scalable due to the existence of highly efficient algorithms, e.g. ARPACK \cite{arpack98} and PROPACK \cite{larsen98}, for computing the dominant eigenvectors and corresponding eigenvalues. Unfortunately, the graph proximity model (Section 2.2) is computationally formidable for large scale friendship networks $\calS$ and affiliation networks $\calA$. This difficulty lies in the computation of the power of $\A$ and $\SS$ in $\textsf{tKatz}(C;\beta,k)_{12}$. For example when $k = 3$,
+\[
+ \textsf{tKatz}(C;\beta,3)_{12} = \beta \A + \beta^2 \lambda \SS \A +  \beta^3(\lambda^2 \SS^2 \A + \A \A^T \A),
+\]
+where both $\A \A^T$ and $\SS^2$ could get fairly dense and hence the matrix multiplications $\SS^2 \A$ and $\A \A^T \A$ become expensive and the results even denser.
+
+\subsection{Common Subspace Approximation}
+\label{Common Subspace Approximation}
+The cost of matrix multiplication can be reduced if we first take low rank approximation of both $\SS$ and $\A$. That is
+\begin{equation}
+\label{e:sepLowRank}
+ \SS \approx \U_\SS \mathbf{\Lambda}_\SS \U_\SS^T, \qquad \A \approx \U_\A \mathbf{\Sigma}_\A \V_\A^T,
+\end{equation}
+where $\SS$ is approximated using the spectral factorization and $\A$ is approximated via the truncated singular value decomposition (SVD) \cite{golub96}. However, this simple approximation does not work well, since with very large $\A$ and $\SS$, and small rank $d$ in the approximations, $\U_\A$ and $\U_\SS$ may be almost orthogonal to each other, i.e. entries of $\U_\SS^T \U_\A$ are very small.
+Therefore the approximation
+\[
+\SS \A \approx \U_\SS \mathbf{\Lambda}_\SS (\U_\SS^T\U_\A) \mathbf{\Sigma}_\A \V_\A^T
+\]
+may have almost all of its entries close to zero. One way to remedy this problem is to extend these low rank approximations so that we have a common subspace, that captures the dominant part of both $\SS$ and $\A$. We found that the following heuristic works fairly well.
+We first form $[ \U_\SS \; \U_\A]$ and compute its QR factorization \cite{golub96}, i.e. $\Q \RR=[ \U_\SS \; \U_\A]$. Then the optimal (in least squares sense) rank-$2d$ approximations of $\SS$ and $\A$ in terms of $\Q$ are given by
+\begin{equation}
+\label{e:commonLowRank}
+ \SS \approx \Q (\Q^T \SS \Q) \Q^T \equiv\Q \D_\SS \Q^T,  \qquad \A \approx \Q (\Q^T \A\V) \V^T \equiv\Q \D_\A \V^T,
+\end{equation}
+where $\V$ is an orthogonal matrix that spans the column space of $\A^T \Q$, e.g. the Q-part in the QR factorization of $\A^T \Q$. We also introduced the $2d \times 2d$ matrices $\D_\SS = \Q^T \SS \Q$ and $\D_\A = \Q^T \A\V$.
+Using the low rank approximations in \eqref{e:commonLowRank} the user-community block of the \textsf{tKatz} measure becomes
+\begin{equation}
+\label{e:tKatzCS}
+  \textsf{tKatz}(C;\beta,3)_{12} \approx \beta \Q\D_\SS\Q^T  + \Q \left( \beta^2 \lambda \D_\SS \D_\A +  \beta^3(\lambda^2 \D_\SS^2 \D_\A  + \D_\A \D_\A^T \D_\A) \right) \V^T.
+\end{equation}
+The intuition behind this heuristic is quite simple: we force the low-rank approximations of $\A$ and $\SS$ in \eqref{e:commonLowRank} to take the same subspace for users. This constraint certainly lowers the quality of individual approximation task, but better exploits the interaction between $\SS$ and $\A$  when predicting future affiliations.
+
+\subsection{Clustered Low Rank Approximation}
+An alternative approach related to the latent factor model is to compute a different (than the spectral) low rank approximation of the combined adjacency matrix $\C$. It is observed that many real world social networks naturally form  a number of clusters (communities), where the links within the clusters are much denser than the ones between clusters. We will generally referred to graphs with clear cluster structure as \emph{clusterable}. In the \textit{clustered low rank approximation}, \cite{savas10c,song10} the cluster structure of the network is utilized in the low rank approximation. We will illustrate the procedure through a 2-cluster example. Assume that the nodes $\calV = \{1, 2, \dots, |\calV | \}$ are clustered in two disjoint clusters, i.e. $\calV_1 \cup \calV_2 = \calV$ and $\calV_1 \cap \calV_2 = \emptyset$. Then by permuting rows and columns of $\C$  according to the cluster memberships of the nodes we obtain
+\[
+ \PP \C \PP^T = \bar{\C} =
+\begin{bmatrix}
+\bar{\C}_{11} & \bar{\C}_{12} \\
+\bar{\C}_{21} & \bar{\C}_{22}
+\end{bmatrix},
+\]
+where $\PP$ is a permutation matrix that reorders rows of $\C$ so that the first $|\calV_1|$ rows correspond to nodes from the first cluster, and the remaining $|\calV_2|$ rows correspond to nodes from the second cluster. The links between nodes from cluster one will then form the non-zeros of $\bar{\C}_{11}$ and the links between nodes from cluster two form the non-zeros of $\bar{\C}_{22}$. Then the non-zeros in $\bar{\C}_{12}$ and $\bar{\C}_{21}$ correspond to links between the two clusters. Assuming the graph is clusterable, the links/non-zeros of $\bar{\C}$ will be concentrated in the diagonal blocks $\bar{\C}_{11}$ and $\bar{\C}_{22}$. The amount of links/non-zeros in the off-diagonal blocks depend on how well the graph clusters, and usually this part is only a small fraction of all links. In a particular example, with five clusters on the Youtube data set, only about 10\% of the links are between vertices from different clusters. After a clustering of the nodes is obtained, by e.g. using highly efficient multilevel algorithms \cite{dhillon07,karypis98a}, a low rank approximation is computed of each diagonal block matrix of $\bar{\C}$.  The cluster-wise low rank approximations are computed independently and may be obtained as the dominant spectral approximation, e.g. with two clusters we have
+\[
+\bar{\C}_{11} \approx \bar{\V}_1 \bar{\mathbf{\Lambda}}_1 \bar{\V}_1^T \qquad
+\bar{\C}_{22} \approx \bar{\V}_2 \bar{\mathbf{\Lambda}}_2 \bar{\V}_2^T.
+\]
+The two cluster-wise approximations are then used to obtain an approximation for the entire $\bar{\C}$,
+\begin{equation}
+ \label{e:clustLowRankC}
+ \bar{\C} =
+\begin{bmatrix}
+\bar{\C}_{11} & \bar{\C}_{12} \\
+\bar{\C}_{21} & \bar{\C}_{22}
+\end{bmatrix} \approx
+\begin{bmatrix}
+\bar{\V}_1 & 0 \\
+0 & \bar{\V}_2
+\end{bmatrix}
+\begin{bmatrix}
+\bar{\D}_{11} & \bar{\D}_{12} \\
+\bar{\D}_{21} & \bar{\D}_{22}
+\end{bmatrix}
+\begin{bmatrix}
+\bar{\V}_1 & 0 \\
+0 & \bar{\V}_2
+\end{bmatrix}^T,
+\end{equation}
+where $\bar{\D}_{ij} = \bar{\V}_i^T \bar{\C}_{ij} \bar{\V}_j$ and clearly if $i = j$ we have $\bar{\D}_{ii} = \bar{\mathbf{\Lambda}}_{i}$. If the rank of the approximation of each $\bar{\C}_{ii}$ is $d$ we see that Equation \eqref{e:clustLowRankC} yields a rank-$2d$ approximation of $\bar{\C}$. An important observation is that the memory usage for the rank-$2d$ clustered low rank approximation is almost the same as the memory usage for a regular rank-$d$ approximation. Recall that $\bar{\V}_i$ are ``long-skinny'', i.e. $d \ll N_u$, thus most of the memory in the low rank approximation is used by the eigenvectors. Although the cluster-wise low rank approximations do not involve off-diagonal blocks, e.g. $\bar{\C}_{12}$, information on these blocks in the approximation of $\bar{\C}$ is included due to the inclusion of $\bar{\D}_{12}$. Experiments show that with the same memory useage clustered low rank approximation is often much more accurate than the regular low rank approximation. In addition, the total computational time\footnote{
+For timing analysis, the clustered low rank approximation includes a clustering step, a step with approximations of each diagonal block, and finally computing the off-diagonal blocks $\bar{\D}_{ij}$ with $i \neq j$. Timings are compared for cases where the number of parameters for the clustered and regular low rank approximations is the same.} for the clusterd low rank approxmiationis is usually lower than the time for computing the truncated SVD for the entire matrix. 
+Interested readers are referred to \cite{savas10c} and \cite{song10}.
+
+In summary, the clustered low rank approximation cleverly spends most of its resource (parameters) on modeling the links within clusters, and is therefore able to capture more information than regular SVD using the same number of parameters. The model in \eqref{e:clustLowRankC} may then be used both in the graph proximity model to compute various \textsf{Katz} measures and in the latent factors model.
+
+
+
+
+

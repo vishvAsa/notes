@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;यानम् on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/places/travel/yAnam/</link>
+    <description>Recent content in &#43;यानम् on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/places/travel/yAnam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Air</title>
+      <link>https://vishvAsa.github.io/notes/places/travel/yAnam/air/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/places/travel/yAnam/air/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Alliance air, owned by government as of 2023, connects remote airports - &lt;a href=&#34;https://bookme.allianceair.in/booking/form&#34;&gt;ALL&lt;/a&gt;. Need to call them for a payment link upon booking online!&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Bus सार्वयान-प्रयाणम्</title>
+      <link>https://vishvAsa.github.io/notes/places/travel/yAnam/Bus_sArvayAna-prayANam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/places/travel/yAnam/Bus_sArvayAna-prayANam/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Safety&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Driver should not be sleep-deprived. (In India, this is often better in case of government buses.)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Suspension&lt;/li&gt;&#xA;&lt;li&gt;Smoothness of braking&#xA;&lt;ul&gt;&#xA;&lt;li&gt;AC luxury buses often have much better suspension - and possibly braking system.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Sleeper vs sitting&lt;/li&gt;&#xA;&lt;li&gt;Timeliness&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Taxi</title>
+      <link>https://vishvAsa.github.io/notes/places/travel/yAnam/taxi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/places/travel/yAnam/taxi/</guid>
+      <description>&lt;h2 id=&#34;airports&#34;&gt;Airports&lt;/h2&gt;&#xA;&lt;p&gt;Often at airports, you might experience inordinate delays in getting Ola/ Uber (It&amp;rsquo;ll keep saying &amp;ldquo;finding driver&amp;rdquo; etc.., signal mayn&amp;rsquo;t be good too). Just go for a prepaid taxi (there should be a booth outside). Works out roughly the same.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Train रेलयात्रा</title>
+      <link>https://vishvAsa.github.io/notes/places/travel/yAnam/Train_relayAtrA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/places/travel/yAnam/Train_relayAtrA/</guid>
+      <description>&lt;h2 id=&#34;भरत&#34;&gt;भारते&lt;/h2&gt;&#xA;&lt;h3 id=&#34;आरकषणम&#34;&gt;आरक्षणम्&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;reservation-प्राप्तिर् बहुधा कठिनं स्यात्।&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;tatkal-ticket&#34;&gt;tatkAl ticket&lt;/h4&gt;&#xA;&lt;p&gt;(for last minute plans) get exhausted fast. (eg. 70 gone in 10 minutes)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Booked day before day of the journey at these times&#xA;&lt;ul&gt;&#xA;&lt;li&gt;AC Classes: 10:00 AM to 10:10 AM&lt;/li&gt;&#xA;&lt;li&gt;Non-AC Classes: 11:00 AM to 11:10 AM&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Charges - 10% of the basic fare for second class and 30% of the basic fare for all other classes, subject to a minimum and maximum fee&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;rac-ticket&#34;&gt;RAC ticket&lt;/h4&gt;&#xA;&lt;p&gt;gets 1/2 seat. Often status changed to &amp;ldquo;confirmed&amp;rdquo;. Seat number declared about 4 hours prior (chart preparation time). Algorithm tries to group seats with same PNR number together.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

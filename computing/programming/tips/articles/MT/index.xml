@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;MT on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/programming/tips/articles/MT/</link>
+    <description>Recent content in &#43;MT on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/programming/tips/articles/MT/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teaching</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/tips/articles/MT/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/tips/articles/MT/teaching/</guid>
+      <description>&lt;p&gt;Source: &lt;a href=&#34;https://x.com/blog_supplement/status/1337257818085347331&#34;&gt;TW&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;I wonder if the best way to get people learn programming (and mathematics) is by showing people how it can help in something they are really interested in. Of course I&amp;rsquo;m from an older generation &amp;amp; in my youth few people had access to computers. There were a subset of guys who wanted to become engineers as it paid well.&lt;/p&gt;&#xA;&lt;p&gt;They used to learn programming in some local sheds where it used to be taught mostly without computers. They would write out code on paper with pencil and on the last day of their course get once chance to enter into real computers to see if it ran.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>virtuosity - MT</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/tips/articles/MT/virtuosity_MT/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/tips/articles/MT/virtuosity_MT/</guid>
+      <description>&lt;p&gt;Let us say &amp;ldquo;high&amp;rdquo; IQ is about &amp;gt;=135, probably the minimum IQ needed to be an effective scientist (I don&amp;rsquo;t believe Feynman/Wilson&amp;rsquo; s self-reported IQs) then 2 tend to be positively correlated, i&amp;rsquo;d hazard with a r^2 \approx 0.6 or so. Of course, there is something like a virtuoso programmer, just like there is a virtuoso cricketer or artist or writer. This is not purely a function of raw IQ, i.e., any given person with a high IQ will not necessarily be a virtuoso programmer, though the converse linkage is much stronger.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

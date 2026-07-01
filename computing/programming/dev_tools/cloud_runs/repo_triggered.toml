@@ -1,0 +1,82 @@
+[[data]]
+Software = 'travis'
+"Implementation Type" = 'concept'
+Description = 'Set builds to run automatically upon push, get breakage alerts.'
+
+[[data]]
+Software = 'travis'
+"Operand Type" = 'setup'
+Description = 'Add .travis.yml file - all settings go directly here. Plugins may use different files.'
+
+[[data]]
+Software = 'travis'
+"Operand Type" = 'setup'
+Feature = 'notifications'
+Syntax = '''
+notifications:
+  email:
+    on_success: never # default: change
+    on_failure: change # default: always'''
+
+[[data]]
+Software = 'travis'
+"Operand Type" = 'setup'
+Feature = 'python tox'
+Syntax = '''
+sudo: false
+language: python
+python:
+  - "2.7"
+  - "3.6"
+install: pip install tox-travis
+script: tox'''
+
+[[data]]
+Software = 'travis'
+"Operand Type" = 'setup'
+Feature = 'scala'
+Syntax = '''
+language: scala
+scala:
+   - 2.12.3'''
+
+[[data]]
+Software = 'travis'
+"Operand Type" = 'setup'
+Feature = 'install stuff'
+Syntax = '''
+install: 
+  - wget -N http://chromedriver.storage.googleapis.com/2.45/chromedriver_linux64.zip -P ~/
+  - unzip ~/chromedriver_linux64.zip -d ~/
+  - rm ~/chromedriver_linux64.zip
+...'''
+
+[[data]]
+Software = 'travis'
+"Operand Type" = 'setup'
+Feature = 'run commands'
+Syntax = '''
+script:
+  - whereis google-chrome-stable
+  - whereis chromedriver
+  - tox'''
+
+[[data]]
+Software = 'wercker'
+"Operand Type" = 'concept'
+Description = 'trigger build and deploy steps on the cloud'
+
+[[data]]
+Software = 'wercker'
+"Operand Type" = 'local simulation'
+Feature = 'setup'
+Syntax = 'eval "$(docker-machine env dev)"'
+Description = 'install docker, wercker'
+
+[[data]]
+Software = 'wercker'
+"Operand Type" = 'local simulation'
+Feature = 'build'
+Syntax = '''
+wercker build
+[ --direct-mount --docker-host tcp://192.168.59.103:2376]'''

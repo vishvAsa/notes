@@ -1,0 +1,133 @@
+\documentclass{article}
+\usepackage{scribe, amsfonts, epsfig}
+
+
+
+\input{../../macros}
+
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Lecture command takes 4 arguments:
+%               ordinal number of the lecture
+%               date of the lecture
+%               lecturer
+%               scribe---that is you.
+%
+% Fill out the next line with this information !!!!
+\lecture{20}{November 19, 2008}{Adam Klivans}{vishvAs vAsuki}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Your notes start here!
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% For theorems, lemmas, definitions, remarks, etc. use commands
+% {\theorem{...}}, {\lemma{...}}, {\definition{...}}, etc.
+% For proofs, use \begin{proof} ... \end{proof}
+%
+% For postscript figures (.ps) use the following block:
+%
+% \begin{figure}[h]
+% \begin{center}
+% \mbox{\psfig{figure=notes-nn-fig-mm.ps}}
+% \caption{A very nice picture.}
+% \label{fig:picture}
+% \end{center}
+% \end{figure}
+%
+
+% For encapsulated postscript figures (.eps) use the following block:
+%  (also change documentstyle line )
+% \begin{figure}[h]
+% \begin{center}
+% \mbox{\epsfbox{notes-nn-fig-mm.eps}}
+% \caption{A very nice picture.}
+% \label{fig:picture}
+% \end{center}
+% \end{figure}
+%
+\section{Introduction to hardness of learning results}
+
+There are two classes of hardness of learning results:
+\begin{enumerate}
+ \item Hardness results for proper learning: Usually, using the $RP \neq NP$ assumption, we prove that proper learning a representation class is hard. For example, for $k \geq 3$, learning k-term DNF formulae and producing a k-term DNF as a hypothesis is intractable.
+ \item Cryptographic hardness of learning results: Here, typically using the assumption that factoring is hard, you show that a certain concept class is hard to learn, even if the learner is allowed to produce a hypothesis which does not belong to the same representation class as the target concept.
+\end{enumerate}
+
+In this lecture, we will show the following cryptographic hardness of learning result: If factoring is hard, learning the concept class of polynomial sized circuits of log depth is hard.
+
+First, we make some definitions.
+
+\section{Introducing some notions}
+
+\definition{A Function Family is an exponential sized set $F = \set{f_{i}|i \in I}$ of polynomial sized boolean circuits with input length n, equipped with a samplable index set I; such that there exists an algorithm S which does the following:
+
+S accepts as input $i \in I$ and simulates the input/ output behavior of $f_{i}$: that is, it accepts x and returns $f_{i}(x)$ in polynomial time.
+}
+
+\definition{Let RAND be the set the set of all boolean functions over $\set{0,1}^{n}$.}
+
+\definition{A Distinguisher D is a polynomial time algorithm which, when given black box access to a function f, outputs 1 or 0.}
+
+In the context of the present lecture, D will output 1 if it thinks that f is not chosen uniformly at random from RAND.
+
+\definition{A funciton family F is Pseudorandom Function Family (PFF) if for every distringuisher D, $Pr_{f \in_{U} RAND}(D^{f}=1)-Pr_{i \in_{U} I}(D^{f_{i}}=1) < O(e^{-n})$. This property of F is called the Indistinguishability property.}
+
+The following notion, from David Zuckerman's Randomized Algorithms course is also helpful.
+
+\definition{A function $G:\set{0,1}^{l} \to \set{0,1}^{n}$, computable in time poly(l), is an $(\eps, s(n))$ Pseudorandom Generator if, for all circuits c of size s(n), the following property holds: $Pr_{y \in \set{0,1}^{n}}[c(y)=1] - Pr_{x \in \set{0,1}^{l}}[c(G(x))=1] \leq \eps$.}
+
+\fact{From a result due to Goldreich, Goldwasser and Micali, we know that if one way functions exist (that is, if factoring is hard), then pseudorandom function families exist.}
+
+\definition{The Blum-Blum-Shub (BBS) pseudorandom generator is an algorithm with the following behavior:
+
+\begin{enumerate}
+ \item It accepts as input the following:
+ \subitem An n bit integer N = pq, where p and q are prime numbers which are equivalent to $3 \bmod 4$.
+ \subitem An intial seed $s_{0}$ of length n bits.
+ \item It outputs a stream of poly(n) bits $b_{i}$, each of which is the least significant bit of the number $s_{i}$ calculated as follows: $s_{i} = s_{i-1}^{2} \bmod N  = s_{0}^{2^{i}} \bmod N$.
+\end{enumerate}
+}
+
+\fact{If factoring is hard, no polynomial time algorithm can distinguish between a truly random m bit string and an m bit string obtained by choosing the seed $s_{0}$ at random and running a BBS generator.}
+
+\section{Hardness of learning circuits which compute the ith bit of the output of a BBS generator}
+
+\definition{Let $\mathbb{C}$ represent any circuit class which contains circuits $f_{s_{0}, N, t}$ with the following behavior:
+\begin{enumerate}
+ \item $\forall i> t: f_{s_{0}, N, t}(i) = 0$.
+ \item $\forall i\leq t: f_{s_{0}, N, t}(i) = b_{i}$, the ith bit output by the BBS pseudorandom generator specified by N and the seed $s_{0}$.
+\end{enumerate}
+}
+
+\begin{theorem}
+ If $\mathbb{C}$ is efficiently learnable, then the BBS generator can be broken.
+\end{theorem}
+\begin{proof_sketch}
+ If $\mathbb{C}$ is efficiently learnable, then there exists an $O(n^{ck})$ time algorithm A to learn $\mathbb{C}$ with error $\leq 2^{-1} - n^{-k}$; where k and c are constants. Let d be any integer such that $dc\neq 1$.
+
+We show that, using A, you can build a distinguisher D which, given a string b of $n^{(d+1)ck}$ bits, can distinguish a BBS generated string from random string. This distinguisher works as follows:
+
+Let $b_{i}$ be the ith bit of b. Then, tuples of the form $(i, b_{i})$ are referred to as examples. Using the Uniform Distribution over the examples, D draws $n^{ck}$ examples. Using A with this sample, D then obtains a hypothesis h with error $\leq 2^{-1} - n^{-k}$.
+
+D then picks uniformly at random another bit index j. It then tries predicting $b_{j}$ using h. If its guess turns out to be correct, it outputs 1, which stands for the identification of b as the output of a 'generator'.
+
+On truly random b, $Pr(D^{rand} = 1)\geq 2^{-1} + \frac{n^{ck}}{n^{(d+1)ck}}$; but $Pr(D^{f_{s_{0}, N, t}} = 1) \geq 2^{-1} + n^{-k}$. The difference between these, $n^{-dck} - n^{-k}$ is not negligible.
+\end{proof_sketch}
+
+\section{Hardness of learning small cicrcuits}
+Let the order of the group $Z^{*}_{N}$ be $\varphi(N) = (p-1)(q-1)$.
+
+Consider the circuit $f_{s_{0}, N, t}$. On input i, it needs to compute $f_{s_{0}, N, t}(i) = s_{0}^{2^{i}} \bmod N = s_{0}^{2^{i} \bmod \varphi(N)} \bmod N$.
+
+If we know the precomputed values of $2^{0}, 2^{1}, 2^{2} .. $ $\bmod \varphi(N)$, given any number k, we can find $j=2^{k} \bmod \varphi(N)$ by multiplying together the appropriate precomputed powers of 2. Similarly, if we know precomputed values $s_{0}^{0}, s_{0}^{1}, s_{0}^{2} .. \bmod N$, we can find  $s_{0}^{j}$ for any j by multiplying together the appropriate powers of $s_{0}$.
+
+Thus, our circuit to compute $f_{s_{0}, N, t}$ must be able to remember these precomputed values, and should be able to multiply n n-bit numbers. Thus, $f_{s_{0}, N, t}$ can be realized using a polynomial sized circuit of depth $O(\log n)$.
+
+Thus, using the theorem we proved earlier, we see that classes of circuits of polynomial size and log depth are hard to learn.
+
+\end{document}
+
