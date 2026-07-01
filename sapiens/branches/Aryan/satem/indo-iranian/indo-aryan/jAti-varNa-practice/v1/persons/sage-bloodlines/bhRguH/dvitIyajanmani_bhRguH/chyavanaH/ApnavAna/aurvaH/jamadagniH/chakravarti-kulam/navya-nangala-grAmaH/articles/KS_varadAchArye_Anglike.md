@@ -72,6 +72,9 @@ Sri Varadacharya's key points of approach can be summarized as follows:
 Video playlist [here](https://www.youtube.com/playlist?list=PLog-e7pBcwclpA3CkX_r1BIWPtcKJVys0).
 
 ## विजयः
+### वैराग्यम्
+He didn't own a house, didn't accumulate wealth of any kind. Was completely averse to khyAti/lAbha/pUja. Why should he spend 1 hour everyday on the phone talking to Krishna at the age of 85+. Mani presented him a cheque on one visit and he declined to take it.
+
 ### अन्य-विद्वत्सु
 वेदान्तदेशिक-+अभिनवरङ्गनाथपरकालसंयमीन्द्रयोः मध्ये वेदान्तशास्त्रे कोऽपि महत्तरः ग्रन्थः न प्रणीत इति तस्याभिप्रायः आसीत्। अपरञ्च, भूयिष्ठाः विद्वांसः केवलं 'पुस्तकपण्डिताः' एवेति विभावयन् स तान् प्रायशः आक्षिपति स्म। 
 

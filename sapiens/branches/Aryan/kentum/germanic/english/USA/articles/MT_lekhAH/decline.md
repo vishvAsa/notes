@@ -3,6 +3,11 @@ title = "Decline"
 +++
 
 ## 2026
+### 150 yrs, 250 yrs
+Source: [TW](https://x.com/blog_supplement/status/2071396160237883436)
+
+It is interesting to note that the Lakota, Cheyenne and allied tribal groups celebrated the 150th anniversary of their rare but clear military victory against the USA, even as the US celebrates the 250th anniversary of its founding.
+
 ### Fall
 > In the past few years the US:
 >

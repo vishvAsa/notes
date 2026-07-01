@@ -2,6 +2,16 @@
 title = "Tirumalai anantALvAn"
 +++
 
+<details><summary>Etymology (द्रष्टुं नोद्यम्)</summary>
+
+अनन्तार्य + आण्पिळ्ळै (man basically).
+
+The story is ramanuja was with his sishyas in kanchi and asked them who is brave enough to go and reside in tirumala forests to do kainkarya
+
+anantarya stood up - was called 'आण्पिळ्ळै' thus
+</details>
+
+
 Source: [TW](http://acharya.org/bk/pb/Anandazhvan/ThirumalaiAnanthalwan-ABiography.pdf)
  
  
