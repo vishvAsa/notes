@@ -8,9 +8,9 @@ unicode_script = "devanagari"
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-They are descended from Tankacharya the vAkyakAra aka Brahmanandin (cited by rAmAnuja as his philosophical predecessor), as per Srivatsankacharya. Tattai is a translation of Tanka. (उत्तमूरु-स्वामिनः शिष्यः, मद्रास-संस्कृत-महाविद्यालये प्रधानाचार्यः आसीत्।)
+> They are descended from Tankacharya the vAkyakAra aka Brahmanandin (cited by rAmAnuja as his philosophical predecessor), as per Srivatsankacharya. Tattai is a translation of Tanka. (उत्तमूरु-स्वामिनः शिष्यः, मद्रास-संस्कृत-महाविद्यालये प्रधानाचार्यः आसीत्।)
 
-वृद्धानाम् ऊहाः प्राचीनोक्तिभिः परास्तास् तर्हि। kuppusvAmi, van buitenen प्रभृतिभिर् उदाहृतानि प्राचीन-वाक्यानि  व्यक्तं तैर् न दृष्टानि। 
+वृद्धानाम् ऊहाः प्राचीनोक्तिभिः परास्तास् तर्हि। kuppusvAmi, van buitenen प्रभृतिभिर् उदाहृतानि प्राचीन-वाक्यानि व्यक्तं तैर् न दृष्टानि। 
 </details>
 
 
