@@ -83,3 +83,8 @@ It shows that the biggest modern sizes were already attained by 100,000K years i
 It has been proposed that Neanderthalensis had better eyesight and correspondingly more acute visual processing and perception than Sapiens. This might have accounted for some of that extra brain. At the other end, archaic Homo naledi had a mean volume of 500-550 cc, close to Australopithecus. 
 
 The extreme left outlier should have been removed; Morton's notes indicate it was the skull of a pathological German female, probably with a pituitary dysfunction.
+
+## Flores scavenging elephants
+An interesting study suggests that the dwarf Homo species of Flores island was unlikely to have made fire and certainly did not hunt the Stegodon elephants on the island. Instead, those elephants were hunted by large Varanus lizards and the dwarf Homo scavenged those kills.
+Source: [TW](https://t.co/RvFcwi543V)
+
