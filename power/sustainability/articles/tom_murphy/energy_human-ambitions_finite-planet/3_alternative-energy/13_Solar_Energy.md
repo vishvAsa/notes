@@ -837,7 +837,7 @@ Pros and cons are listed separately for PV and ST in Section 13.7.1 and Section 
 
 [[222]]
 
-Holding solar back is its intermittency[^95] and high up-front cost. Intermittency can be solved by battery storage, but this can double the cost and require maintenance and periodic battery replacement. Additionallyas for many of our renewable optionsall of our society's demands [^96] are not well met by electricity generation.
+Holding solar back is its intermittency[^95] and high up-front cost. Intermittency can be solved by battery storage, but this can double the cost and require maintenance and periodic battery replacement. Additionally as for many of our renewable options all of our society's demands [^96] are not well met by electricity generation.
 
 
 [^95]: ... low capacity factor that is weatherdependent

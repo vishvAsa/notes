@@ -1,0 +1,16 @@
++++
+title = "South Asianism and Negritude"
++++
+(Source: https://threader.app/thread/1425305544290603011)
+
+One way to think about this is to see "South Asianism" as a debased desi version of the "negritude" movement that emerged among Francophone African intellectuals in the metropole in the early-mid 20th century. 
+
+Negritude (or "blackness") was an aesthetic and literary movement that blossomed across the African diaspora, from Paris, to Harlem and the Caribbean. However, despite its lofty goal of resisting colonial domination, it was fundamentally constrained politically. 
+
+Although early votaries came from different countries, they were bound in the metropole by their shared disdain for colonial dominance and--critically-- the homogenizing effect of French racism towards Africans. For the French in Paris, all Africans were simply "black," and the resulting cultural assertion was constructed in response to this "generalized ostracism" as Fanon puts it. The "black" culture of negritude existed on a continental scale. In response to this ostracism, what followed was an "unconditional affirmation of African culture" that was not specifically national. Divorced from the social and political grassroots, "culture," Fanon writes, "is increasingly cut off from reality,". 
+
+Similarly, "South Asian" emerges as a reaction to a shared experience in the diaspora, namely the dominant culture's tendency to see us all as "brown." It is an identity based on opposition, not affirmation.+++(5)+++ Like the "bards of negritude" whom Fanon accuses of constructing a romanticized African culture that stands in opposition to European culture, South Asians do the same with the subcontinent: "Everything was great before the British". Something as trivial as the use of "curry" becomes a symbol for grand oppositions between British and "South Asian" culture. Its use, far from being a prosaic culinary preference, turns into a symptom of "white, christian supremacy". 
+
+Constrained by the limits of of this superficial solidarity, "South Asianism" lacks the substance to act as a vehicle for self-assertion, settling for a weak attempt to carve a sad corner of territory outside the domain of the dominant "white" culture.+++(5)+++ On negritude, Fanon writes that "It finds safe haven in a refuge of smoldering emotions and has difficulty cutting a straightforward path that would, nevertheless, be the only one likely to endow it with productiveness". This is an incisive observation and raises an interesting question. 
+
+Would the same "South Asians" who think that the appropriation of the word "curry" is an example of white, christian supremacy say the same about Christian conversion efforts in India? If not, why? Such issues-- which are highly charged and of course politicized-- are deftly bypassed by the "South Asianists" because they are fundamentally unconcerned with national realities, despite professing opposition colonial domination. Their subject is a construct that exists only for their own identity formation in the diaspora, and to the extent that the political reality of the countries from that region are inconvenient to the construction of that image, they are ignored.+++(5)+++ I've said it once, and I'm sure I'll say it again: "India is a place, South Asia is a fantasy".

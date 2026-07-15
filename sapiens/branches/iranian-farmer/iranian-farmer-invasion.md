@@ -12,6 +12,15 @@ title: 01 Iranian farmer influx
 ## Iranian farmers
 "The Iranian farmers are a population emerging from the vicinity of the Zagros mountains and are related to the Caucasian hunter-gather shown as CHG in the Arya-iranian-farmers-asi-service-castes-pca figure. "
 
+<details><summary>ug regort</summary>
+
+So called "south Indians" were in Zagros mountains first. They came from Iran and replaced the indigenous Pre Dravidian Ādivāsī aboriginals of South India, suppressed their culture and imposed caste system on them.  
+Source: [TW](https://www.jstor.org/stable/10.7817/jameroriesoci.135.3.551) Source: [TW](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0050269)
+
+> Vedic Brahmins got shocked at your barbaric & regressive traditions like honor killings and theorized varṇa to enable more inter marriages between jāti-s. Sadly it couldn't be fully implemented. - ugrashsravas
+</details>
+
+
 ## Rise of Harappa
 Indus Valley civilization (IVC) area were settled by a people heavy in Iranian Farmer input (over a prior IHG substrate). 
 

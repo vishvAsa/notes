@@ -2,9 +2,52 @@
 title = "Geopolitics"
 +++
 
-Source: [TW](https://threadreaderapp.com/thread/1639695934501076993.html)
+## Military aid
+
+Source: [TW](https://x.com/blog_supplement/status/2044281689749258489)
+
+How are chIna-s seeing things? This, to us, is a bit of a mystery. The chIna-s know and exploit the power of Galtonism, so they know they are relatively safe as the mlechCha-s are guzzling the Galtonism Kool-Aid. However, their arms have miserably failed in TSP, Iran and Ukraine. 
+
+Did they purposely send their so-called allies defective stuff, and are saving up the good stuff for themselves?  They could do this so that the mlechCha doesn't get hold of their tech or have a real estimate of how good it is. 
+
+They, anyhow, have boosters like Hsu, who can play it up as though it did wonders, so why waste the real stuff? 
+
+We suspect the failure of their arms is not by design but real. If this were true, then they are probably concerned about directly facing the mlechCha and doing everything to let the Galtonism and the rUs/IR do the job for them.
+
+## China inaction
+
+Source: [TW](https://x.com/blog_supplement/status/2030531391520190768)
+
+Wars, even when "air superiority" is established, and "bomb 'em to the stone age" orders are issued, are uncertain in their progression.  
+
+That said, as of now, the inaction of the chIna-s (Taiwan 😉) shows that they are not really vying to replace the mahAmlechCha. This may be because: 
+
+1. in practice they are weaker than Galtonistically projected; 
+2. they have a Galtonistic under the table understanding with the mahAmlechCha. 
+3. Their economy cannot survive any damage to the mahAmlechCha.
+
+Hence, we cannot rule out that they might cooperate against the H.
+
+
+## India intentions
+My reading is that they primarily want engage in conflict with India who they see as their biggest enemy and Taiwan. The objective IMO is to wait for a moment when the American empire has exhausted itself and seize Taiwan. If the Americans gain easy victories in the coming years that would be harder. 
+
+Similarly, they are hoping that democracy runs its course and the Hindu drop the axe on their foot by electing a self-destructive gov. Then they'll close in on India.
+
+
+## Predatoriness
+Source: [TW](https://x.com/blog_supplement/status/2028359294530330735)
+
+What we are seeing again in the current prathamonmattamahAmlechChau assault on Islamic Republic is that chIna-s are not a predatory state anywhere in the league of those two. They are built up by Galtonism, but in practice, lack that predatory capacity. Any predatory state that really has the capacity will display as the rUs did when they held the Soviet empire. The rUs have lost much of that capacity but have a bit of that instinct still left in them.
+
+> Isn't it only because they don't have the military capacity of Rus/US and are biding their time ?
+
+I imply a true predatory state will have the military capacity. They are biding time because they are hoping the American empire will exhaust itself. If they had any mettle, we would see the invasion of Taiwan underway now. Tibet was a fruit waiting to be picked given is ill-fitted army.
 
 ## Demographic window
+Source: [TW](https://threadreaderapp.com/thread/1639695934501076993.html)
+
+
 The more one looks, it seems the demographic window for chIna adventurism is rather limited -- whether they want to conquer Taiwan or invade India or even, for that matter, Mongolia in a lamaistic frenzy. The emperor has to move in his current term. So one can interpret his pact with the rUs as giving the space for just that. 
 
 ## India as pawn

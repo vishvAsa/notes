@@ -20,7 +20,8 @@ $$t = ln[kR/r_0 + 1]/ln(1+k) ~ ln[kR/r_0 + 1]/ln(k)$$
 
 ## References
 - Albert Bartlett - [YT](https://www.youtube.com/watch?v=sI1C9DyIi_8)
-- Tom Murphy's book, blog
+- Tom Murphy's [book](https://escholarship.org/uc/item/9js5291m), [blog](https://dothemath.ucsd.edu/)
+- landman windmill scene : [YT](http://youtube.com/watch?v=fmbZwxEnAFc&t=2s)
 
 ## Orgs
 - [Long Now](https://longnow.org/projects/)

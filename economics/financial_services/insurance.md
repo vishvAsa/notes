@@ -28,17 +28,26 @@ Hospitals often form regional or national conglomerates, so that they can negoti
 
 Also, care providers often give discounts to big insurers, by shifting costs to smaller insurers; leading to greater local monopoly.
 
-### Unscrupulous practices
-
-#### Refusal of insurance
-
-People showing any risk factor - being too thin
-
-#### Denial of treatment
+### Denial of payment
 
 Often insurance companies deny (responsibility to pay for) essential care, claiming that the treatment is unnecessary, or that it is experimental, or claiming that the individual had a preexisting condition which was either not revealed, or was not properly reported or treated before insurance; often with death being a consequence.
 
 Medical directors have the incentive to save money by denying care.
+
+#### Preexisting conditions
+In India, labs share test data with health insurance companies. Whenever a claim arises, they look there also for reasons to deny.
+
+>  Some medical insurance agent filled up the forms for a relative and did not disclose some pre-existing condition. 10+ years later they declined some claims by providing evidence from some medical labs. - Vijay
+
+> My friend, who is a health insurance agent told me this. I give fake name for testing. - naTesh
+
+
+### Unscrupulous practices
+
+#### Refusal of insurance
+
+People showing any risk factor.
+
 
 #### Regulation
 

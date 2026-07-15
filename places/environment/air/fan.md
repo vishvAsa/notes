@@ -6,6 +6,8 @@ title = "Fan"
 
 ## Metrics
 - Air Delivery : example 225 CMM (Cubic Meters per Minute)
+- Energy use - 
+  - Brushless Direct Current motor - an advanced motor design without physical brushes uses much less power.
 - Number of blades
   - More blades - less speed, but also less noisy.
 - Blade sweep. In ceiling fans: 600mm (2ft), 1200 mm (4 ft), 1400mm (5 ft) are common. Greater sweep is like adding more blades plus greater reach for air.
@@ -15,6 +17,7 @@ title = "Fan"
 - Looks
 
 ## Examples
+- Candes 1200mm 8000 CFM = 226.5 CMM used. Source: [TW](https://www.amazon.in/dp/B07H5KY8RR)
 - Havells Swing pedestal 400mm, Power: 55 watts, Air Delivery: 72 CMM , Speed: 1350 RPM 
 - Havells Fusion 600mm 3 blade, Power: 62 watts, Air Delivery: 120 CMM, Speed: 880 RPM
 - Bajaj Regal Gold 4 Blade ceiling 1200 mm, Power: 65 watts. Air Delivery: 225 CMM; Rated Speed (RPM): 330

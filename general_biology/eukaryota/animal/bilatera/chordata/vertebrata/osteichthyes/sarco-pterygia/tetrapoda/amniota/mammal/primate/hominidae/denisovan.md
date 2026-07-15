@@ -1,5 +1,0 @@
-+++
-title = "Denisovan"
-+++
-
-> Interesting [new work](https://doi.org/10.1016/j.cub.2021.07.022) on the Negritos of the Philippines. The Aeta or the Ayta include groups that have the highest Denisovan admixture to date. The authors suggest that Papuans and Negritos had separate admixtures with Denisovans after ~53KY. The Papuans had their admixture around 25–30 Kyr suggesting that Denisovans were widely distributed from Siberia, to the far reaches of Asia-Pacific. Thus, they go on to suggest that various pygmy Homos like Homo luzonensis& H.floresiensis might have all been Denisovans. had their admixture around 25–30 Kyr suggesting that Denisovans were widely distributed from Siberia, to the far reaches of Asia-Pacific. Thus, they go on to suggest that various pygmy Homos like Homo luzonensis& H.floresiensis might have all been Denisovans. It makes sense that there were multiple races of Denisovans even as there is of sapiens today over that vast area & some of them on the islands were pygmy morphs just as we seen in sapiens. The paper is also notable for the entry of the new Euro-American religion into scientific publications. - MT

@@ -3,23 +3,46 @@ title = "vajr"
 +++
 
 ## Current classes
-- Science in english (nAgaratnA)
-- tamiL (बालकृष्ण-पत्नी)
-- Taekwondo (**Iban-Jhop**)
+- maths, comics in english (**nAgaratnA**)
+- tamiL (बालकृष्णः)
 - कर्णाटक-कण्ठ-सङ्गीतम् (**स्नेहश्री**, **राजलक्ष्मी**)
-- भरत-नृत्तम् - कविता (पन्दनल्लूर्-शैली)
-- tablA (**kulakaraNI**)
-- Telugu rAmAyaNa - secondary (श्रीदेवी)
-- परवस्तु-सामानि (विश्वसः)
+- भरत-नृत्तम् - **कविता** (पन्दनल्लूर्-शैली)
+- tablA (**विश्वनाथः**)
+- Telugu kids textbooks, chandamama (**श्रीदेवी**)
+- परवस्तु-सामानि (**विश्वसः**)
 - वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**प्रदीप-सिंहः**)
+
+## Past
+- नृत्यम् - अनूषा, सरोजिनी (ताञ्जावूरु-शैली), राधिका (पन्द-नल्लूरु-शैली), कविता (पन्दनल्लूर्-शैली)
+- Taekwondo (**Iban-Jhop**) - Yellow belt with green stripe.
+- maths, english reading (श्रुतिः)
 
 ## Routine
 Class and ritual timings give structure.
 
 Rituals - tarpaNa, brahmayajna, sandhyAvandana, ijyA, japa, sandhyAvandana, samidAdhAna
 
+## 2026-02
+- Ended Taekwondo. Further improvement requires testosterone release, and fighting spirit.
+
+ 
+## 2026-01
+- भरत-नृत्यम् - कविता (पन्द-नल्लूरु-शैली) class ended. (विस्तारः सुप्रत्ययपत्रे।)
+- न्याय-सुधा-मङ्गल-कार्यक्रम-दर्शनं कुक्के-सुब्रह्मण्य-क्षेत्रे। Small kumAra-parvata-trek. Poor performance in subrahmaNyana-hoLe in agrahAra.
+
+## 2025-12
+- tablA - switched to vishvanAth - 1-1 classes, 2 days a week, 1k monthly. Less theory, more practice.
+- tamiL - started 1-1 classes, alternate days
+- भरत-नृत्यम् class frequency cut to 1 per week.
+
+## 2025-11
+- telugu - started 1-1 classes 
+
+## 2025-10
+- Leh, sindhu, pangong trip
+
 ## 2025-07
-- tablA started (**kulkarNi**, 1.1km away, 1k monthly, 2 days / week)
+- tablA started (**kulkarNi**, 1.1km away, 1k monthly, 2 days / week. very crowded, less hands-on practice).
 
 ## 2025-06
 - Evening math/ english shifted to nAgaratnA (shruti irritable).
@@ -32,6 +55,9 @@ Rituals - tarpaNa, brahmayajna, sandhyAvandana, ijyA, japa, sandhyAvandana, sami
 - भरत-नृत्यम् - **कविता** (पन्द-नल्लूरु-शैली). 1k monthly, 800 admission.
 - वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**प्रदीप-सिंहः**)
 - Telugu letters - writing.
+
+## 2025-03
+- भरत-नृत्यम् - nRtyoma **राधिका** class ended. (Asked 6k for compulsory "annual day".)
 
 ## 2024-12
 - भरत-नृत्यम् - nRtyoma **राधिका**. 1k monthly, 2k admission. Later asked 6k for compulsory "annual day".

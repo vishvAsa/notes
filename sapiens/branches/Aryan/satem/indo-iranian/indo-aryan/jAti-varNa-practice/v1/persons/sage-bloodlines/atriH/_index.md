@@ -3,6 +3,18 @@ title = "+अत्रिः"
 unicode_script = "devanagari"
 +++
 
+## टङ्कः
+आत्रेयस् तु स इति शाङ्कराः।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> They are descended from Tankacharya the vAkyakAra aka Brahmanandin (cited by rAmAnuja as his philosophical predecessor), as per Srivatsankacharya. Tattai is a translation of Tanka. (उत्तमूरु-स्वामिनः शिष्यः, मद्रास-संस्कृत-महाविद्यालये प्रधानाचार्यः आसीत्।)
+
+वृद्धानाम् ऊहाः प्राचीनोक्तिभिः परास्तास् तर्हि। kuppusvAmi, van buitenen प्रभृतिभिर् उदाहृतानि प्राचीन-वाक्यानि व्यक्तं तैर् न दृष्टानि। 
+</details>
+
+
+
 ## अर्वाचीनाः
 ### कल्लिल् आत्रेयनार्
 Poet in puraNanUru who praises Athanungan for resisting  Mauryan army equipped with advanced chariots.
@@ -19,25 +31,6 @@ who assisted and were patronized by bundela-s and rAjA of bikAner, who produced 
 
 ### लकुलीशः
 In कायावरोहण of लाटदेश, to a blessed father by the name of विश्वराज from अत्रिगोत्र & a blessed mother named सुदर्शना, शिव, the विश्वराज, sent his अंश to earth to spread a सुदर्शन (a good दर्शन), the पाशुपतदर्शन, that destroys the bonds/पाशाः which bind a soul.
-
-### वेङ्कटाध्वरी
-venkaTAdhvarin
-(1600s of the common era), as has [been said](http://manasataramgini.wordpress.com/2012/04/06/some-maxims-of-venkatadhvarin/)\- "a shrauta ritualist, keen observer of humanity, master poet, proponent of vishiShTAdvaita and shrIvaiShNava bigot".
-
-> श्रीपञ्चमत-भञ्जन-निबन्धन-विख्यात-  
-तात-यज्व-भागिनेय-  
-वाजपेय--सार्व-प्रष्टाप्तोर्यामादि-याज्य्--  
-आत्रेय-वंश-मौक्तिकी-भवद्-  
-अप्पय्यार्य-तनू-भव--  
-श्लेष-यमक-चक्र-वर्ति-  
-रघुनाथाचार्य-तनयस्य  
-श्रीनिवास-कृपातिशय-संविदित-नयस्य  
-सीताम्बा-गर्भ-संभवस्य  
-श्रीमत्-काञ्ची-नगर-वास्तव्यस्य  
-महा-कवि-श्रीमद्-वेङ्कटाध्वरिणः कृतौ  
-विश्वगुणादर्श-चम्पूः समाप्तिम् अगात् ॥
-
-इति तत्प्रशस्तिः। 
 
 ### Ranga Nath Poudyal
 Son of Tāntrika Pandit Brajnath Poudyal Atri (Guru of King Pratap Singh Shah, writer of Purascaryarnava). Ranga Nath grew up in Benaras although he was born in Makhantol, Kathmandu in 1773 AD as his father was exiled to Benaras by Queen Rajendra Laxmi. Ranga Nath was considered among the finest scholars in all of Kashi. Hence, the king of Kashi gave him the title "King of Pandits". Once back to Nepal, he not only became Rājguru but also Mukhtiyār (Prime Minister) for a short time. 

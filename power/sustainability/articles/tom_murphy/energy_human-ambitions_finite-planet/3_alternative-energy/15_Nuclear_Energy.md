@@ -690,7 +690,7 @@ The result is that sterile 238U can be turned into fissile 239Pu that can be use
 
 [[260]]
 
-In fact, breeding happens as a matter of course in a nuclear reactor: it is estimated that one-third of the fission energy in ordinary nuclear reactors comes from plutonium breeding and subsequent fissioningwithout any extra effort. Special reactor designs enhance plutonium production, allowing the fuel rod to be "harvested" for plutonium. Usually, the plutonium is destined for use in weapons, but in principle reactors could be designed to efficiently produce and use plutonium from the 238U feedstock. Downsides will be addressed in Section 15.4.6 on weapons and proliferation.
+In fact, breeding happens as a matter of course in a nuclear reactor: it is estimated that one-third of the fission energy in ordinary nuclear reactors comes from plutonium breeding and subsequent fissioning without any extra effort. Special reactor designs enhance plutonium production, allowing the fuel rod to be "harvested" for plutonium. Usually, the plutonium is destined for use in weapons, but in principle reactors could be designed to efficiently produce and use plutonium from the 238U feedstock. Downsides will be addressed in Section 15.4.6 on weapons and proliferation.
 
 <details><summary>Box 15.5: Thorium Breeding</summary>
 

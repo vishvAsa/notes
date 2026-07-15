@@ -28,6 +28,9 @@ In general, one must read books/ passages with the intention of mining it for pr
 
 Given a research paper, one must get to the interesting information as rapidly as possible.
 
+Tricks to get to commentary - regex `([िइेी])त(ि|्य)`.
+
+
 ### Focus on word-smithery
 
 Sentence level focus is sensible in rare cases: eg: relishing exquisite word-smithery.
@@ -44,6 +47,9 @@ Comprehending passages reached a peak while preparing for the GRE general test. 
 
 ### Write while reading!
 Read with writing material. Make notes. Copy (after OCR-ing) the article into your notes and start annotating it. This has become a favored technique since the advent of note taking on internet/ computer.
+
+
+See [annotation notes](../notes).
 
 ### Seeking ideas
 
@@ -95,7 +101,12 @@ Consider relationships with previous knowledge. Besides being very natural and e
 
 ### Dealing with dense passages
 
-Read with writing material. Complicated passages may require diagrams and external symbol manipulation to understand. Also, while reading mathematics, writing the important parts and leaving out the fluff helps immensely. Also, tracing mathematical formulae, which are dense in information, ensures that all essential information is noticed.
+Read with writing material. 
+
+Complicated passages may require diagrams and external symbol manipulation to understand. 
+
+Also, while reading mathematics, writing the important parts and leaving out the fluff helps immensely.  
+Also, tracing mathematical formulae, which are dense in information, ensures that all essential information is noticed.
 
 Considering the ideas presented themselves is described elsewhere.
 

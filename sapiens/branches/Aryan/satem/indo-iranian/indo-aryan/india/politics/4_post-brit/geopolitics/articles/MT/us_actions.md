@@ -2,6 +2,83 @@
 title = "US actions"
 +++
 
+## 2026
+### Sabotage and killing
+One has to seriously consider the possibility that the mahAmlechCha were involved in sabotaging the defense satellite to be put up by ISRO. Unfortunately, as we remarked more than 22 years ago, it is easy to purchase agents in the desh. The same applies to the ongoing kerfuffle regarding the mahAmlechCha killing Indian sailors.
+
+Another conspiracy (not in a bad sense) theory I saw today was that the mahAmlechCha might be getting back for the killing of their preta agents in their Islamic allies and also their arrest in India. The same thought crossed my mind, and it is not entirely impossible. Currently, that angle needs to be investigated more before it is stated plainly.
+
+### Rubio visit
+The visit of the mahAmlechCha chiliarch+++(=Rubio)+++ to the pretabhAnaki's +++(→mother theresa)+++ pretAlaya is clearly designed to signal to the H that they will be engaging in subversion via the pretamata. Moreover, the chiliarch has sent on the eve of the probable resumption of hostilities in West Asia by the unmAda-dvaya with some concealed threats.
+
+Kolkata itself might be quite resilient to the preta assault but it could be a base for their operations elsewhere, especially the east. By visiting them the mahAmlechCha are signaling: "we have your back against the H"
+
+### Grasping patterns
+For those who have understood the essence of the medieval-to-modern history of the Occident, the events of Ukraine and Iran set in motion by the mlechChendra-s and mUShamatta-s are unsurprising. 
+
+Nevertheless, to watch them unfold gives so much vindication, while simultaneously fostering a deep sense of fear. 
+
+As I repeatedly tell H who to talk to me about such things, closely study 1857, the Crimean War, the two WWs and the Russian revolution, among other things. These are not unrelated to the great wars we currently witness. 
+
+However, we are not sure if the H and their leadership fully grasp their import. We hope at least some of the latter do at some pragmatic level. We are not sure if our human capital is up to it, but there is a good chance the struggle will come upon us very soon.
+
+
+### NE India
+Source: [TW](https://x.com/blog_supplement/status/2034061210111340612)
+
+The capture of mlechCha-praNidhi-s in bhArata might reveal how bad the situation on the ground is.
+
+The mlechCha-praNidhi-s' capture confirms something those in the know have known for long with respect to the preta terrorism in the NE and conversion of the tribal populations.
+
+However, it should also be taken as evidence by association for mlechCha subversion and hardening of their marUnmatta and preta allies elsewhere in bhArata (including the import of lawfare and judicial subversion into the nation).
+
+
+
+### iran attack
+
+The discerning can see that there is more to the u1-pArashava-marUnmatta-yuddha than meets the untrained eye. Those people who recently told me during the lATapati's visit that it was just a matter of days were right. 
+
+The question that really matters to the common folk is whether and how long the marUnmatta can close the straits of Hormuz. But that is only one thing; there is more.
+
+
+### Israel
+Source: [TW](https://x.com/blog_supplement/status/2026506125294592323)
+
+The timing of the lATarAja's visit to the Jewish state is interesting. Nathanyahoo is trying the incorporate India into the Hexagon alliance. We believe that is an important piece of the puzzle to understand this. 
+
+There is a common enemy in the turuShka, which is now engaging in a trade blockade of Israel.  
+On the H side, the Rumi Khans are aiding the Mogol rump state in the sindhu. 
+
+Hence, we suspect that from the lATarAT's perspective, it is important to solidify defensive networks with Isr and Greece against the turuShka. 
+
+However, they might be on the brink of a war with Iran, which has the potential to cause widespread chaos, especially for India. If they pull the trigger on Iran first, drawing the mahAmlechCha into it, where is all this Hexagon planning going? That is the open end of this puzzle that we don't fully get.
+
+This the AI summary of the so-called Hexagon strategy:
+
+🇮🇳 India: Global power & economic anchor  
+🇬🇷 Greece/Cyprus: Med security & energy  
+🇦🇪 UAE (Arab States): Regional hub/Trade  
+🇸🇴 Somaliland (Africa): Red Sea control  
+🇸🇬 SE Asia (SGP/VN): Tech & supply chains  
+🇮🇱 Israel: Defense, AI & Innovation
+
+Not sure if it can be put play if the Iran war breaks out.
+
+> I am scared of this timing of visit.. hope he is back in dilli soon..
+
+have to agree to a degree. Some people tell me that timing suggest that he want to have things in place so as something big in on the horizon -- probably in a matter of days more than months. This is not my thought -- simply mentioning it.
+
+### Challenges
+H will probably face challenging times in the relatively near future from the A~NglamlechCha directly or more likely via their marUnmatta allies.
+
+Source: [TW](https://x.com/blog_supplement/status/2007985238765449457)
+
+As 2026 proceeds, it seems like everything is shaping in the direction for the H to face major challenges from their mlechCha-marUnmatta-saMyoga. 
+
+There are some who think that the pichChilaka's support base are the main enemies of the H. They are, but if one thinks the liberals of the other pakSha are friends, open your eyes -- they are as much for the overthrow of H as the piciChilu~Nga's men. 
+
+As the laTanaresha ages, he will have to lead the H in his crisis. The question is who will be the successor -- one has to game scenarios like what the marahaTTa-s faced after rAjArAma's demise.
+
 ## 2025
 ### Competitor
 Source: [TW](https://x.com/blog_supplement/status/1973942591692411137)

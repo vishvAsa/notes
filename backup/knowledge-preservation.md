@@ -22,6 +22,10 @@ In descending order of longevity and utility-
 - Stable metal (eg. Nickel) sheet page stamps
 - Stable metal pages with laser engraving
 
+#### Lower best practices
+- 3d print plates with non-biodegradable plastic; so that they can later be used for stamp-printing copies.
+- Paper printing - print on acid free lignin free paper with pigment ink (not laser toner), dont attach lower grade covers, stitch (no staple or glue), preserve in Polypropylene envelopes.
+
 ### 6k+ yr
 #### Ceramics
 ##### Ceramic microfilms
@@ -220,17 +224,22 @@ Laser engraving on skin is possible. [YT](https://www.youtube.com/watch?v=dv40hx
 
 
 ### .1k-.3k yr
-#### Museum grade paper
+#### Lignin-free paper
 Curators love these papers because they’re made of 100% cotton rag and have no OBAs. The base stock is both acid- and lignin-free. The coating is acid-free.
 
 it must be manufactured using pure cotton fibres (a.k.a. cotton rag) or pure alpha cellulose fibres, which are naturally more durable than wood pulp.
 
 Must still be saved from acidic mats and sunlight.
 
+##### Lignin risk
+Lignin is highly sensitive to light and oxygen. When exposed, it undergoes a chemical reaction that turns the paper yellow or brown.
+
+As lignin breaks down (oxidizes), it produces acidic by-products, leading to "brittle paper syndrome".
+
 #### Archival paper
-Archival papers are (~100%) acid-free and lignin-free.  
+Archival papers are (~100%) acid-free and lignin-free. Superior to acid-free paper.  
 They can be made of virgin tree fiber (alpha-cellulose) or 25% to 100% cotton rag.  
-Oft  contains an alkaline reserve of calcium or magnesium carbonate to prevent acid degradation. This alkaline reserve can be achieved by adding bicarbonate during the drying process, which converts to calcium or magnesium carbonate. To last at least 100 years, archival paper needs an alkaline reserve of at least 2%.
+Oft contains an **alkaline reserve** of calcium or magnesium carbonate to prevent acid degradation. This alkaline reserve can be achieved by adding bicarbonate during the drying process, which converts to calcium or magnesium carbonate. To last at least 100 years, archival paper needs an alkaline reserve of at least 2%.
 
 Still, atmospheric pollutants cause acidity and degradation.
 
@@ -240,6 +249,11 @@ Files can be stored on paper - **PaperBack** -
 
 > If you have a good laser printer with the 600 dpi resolution, you can save up to 500,000 bytes of uncompressed data on the single A4/Letter sheet. Integrated packer allows for much better data density - up to 3,000,000+ (three megabytes) of C code per page. Source: [TW](https://www.ollydbg.de/Paperbak/)
 
+
+##### Difference from acid-free paper
+Acid-free = neutral/alkaline pH, no acids/lignin.  
+Archival = acid-free + lignin-free + buffered + often made from cotton rag + meets certification standards.  
+While all archival paper is acid-free, not all acid-free paper is archival.  For long-term preservation, choose paper labeled archival with certifications like ISO 9706 or ANSI Z39.48-1992.
 
 #### UV ink on ceramic tiles
 UV flatbed printing uses UV-cured inks that sit on top of the tile surface. While these inks are durable, water-resistant, and fade-resistant under normal conditions, they can degrade over long periods, especially with prolonged UV exposure, abrasion, or harsh environmental conditions. The inks are not fused into the tile body but rather bonded to the surface, making them less durable than kiln-fired ceramics
@@ -296,6 +310,9 @@ All resin-coated papers fall short of archival-grade for two reasons. First, the
 #### Dye ink
 4 - 20 yrs before beginning to fade.
 
+#### Acid free paper
+Turns yellow in 20 yrs, Brittle in 40 yrs. Total readability 70–80 Years. 
+
 #### Powder ink
 20 to 50 years on acid free paper.
 
@@ -325,11 +342,23 @@ hard drives limited by lifespan of only 4-5 years
 - Stainless steel staples (304 or 316) rarely rust, even in harsh or humid conditions, due to their high chromium content which forms a passive oxide layer that protects the metal from corrosion.
 
 ### .01k yr
+#### Staples
 - Zinc or nickel coated steel wire staples are relatively rust free. [TW](https://www.amazon.in/Kangaro-24-Staples-Pack-Packs/dp/B07FF62YBG/)
   - In typical indoor or dry environments, these staples may resist rust for 20 to 50 years, but their corrosion resistance is much lower in outdoor, humid, coastal, or polluted areas
 - Steel wire Staples begin to rust and decolorize paper in a quite fast. 
+
+#### Spirals
 - Metal Spiral (Steel/Aluminum), Wire-O Binding (Double-Loop Wire) - several years to decades
 - Plastic Spiral (PVC/Polypropylene) rib - to High (5-10 years)
+
+#### Rust risk
+The alkaline buffer in the paper can actually slightly accelerate the corrosion of certain metals if moisture is present.
+
+In Bangalore’s humid-to-dry cycles, the metal expands and contracts, effectively "sawing" into the paper over several decades.
+
+Rust (iron oxide) is a "double threat" to paper: it causes mechanical destruction (breaking the fibers) and chemical degradation (increasing acidity and triggering a specific destructive reaction).
+
+
 
 ## Retrieval/ playback
 Grammaphone doesn't require electricity to play sound. It's relatively easy to construct.
@@ -383,6 +412,40 @@ Other efforts
 - Memory of Mankind [archive](https://www.memory-of-mankind.com/?ref=longnow.org) - Hallstatt/Austria
   - The geological structure of the surrounding rock must not destroy the archive.
 
+### Environmental risks
+- Silverfish
+- Mold
+- High humidity (often exceeding 70% in Bangalore) accelerates hydrolysis, the chemical breakdown of paper fibers.
+- wood releases "lignin" gases that accelerate paper browning. Do not store the document directly against a wooden shelf.
+
+### Sleeves/ envelopes
+- Should not be airtight & create a microclimate. So flap can close but not seal.
+- Keep surrounding gases and silverfish out to some extant.
+- Can provide structural support to the paper inside.
+
+#### Plastic
+- (Mylar/Polyester) are ok. 
+- Polypropylene (PP) is inert, doesn't have additives. Good structural support.
+- Polythene (PE) is not good.
+  - often contain "slip agents" or plasticizers - Over 10–20 years, these chemicals can "migrate" out to paper.
+  - soft, stretchy, and "floppy." No structural support.
+  - quite "breathable" at a molecular level
+
+
+##### Options
+- 2026 Rs 24/ 140 A4 capacity Poly Propylene envelopes - [TW](https://www.amazon.in/Amazon-Brand-Solimo-Top-Opening-Reusable/dp/B0C6KFMP6T)
+- A3 poly-propylene sheets with anti-static additives - 2026 - 10Rs - Source: [TW](https://www.amazon.in/dp/B00TDG8KEU?ref=ppx_yo2ov_dt_b_fed_asin_title)
+
+When you buy the sleeves, open the pack. If there is a strong chemical odor, let them "air out" for 48 hours before putting your document inside. This allows any initial "outgassing" of additives to happen outside the sleeve rather than being trapped against your paper.
+
+### Boxes
+- Good to control humidity. Silica gel reduces it further.
+- Boxes avoid silverfish and dust.
+- Microclimate threat?
+- sealed plastic (polypropylene) box?
+
+### Covers
+- Covers should not be more acidifying than the paper - else acid migrates on to the content paper and degrade it.
 
 ## Recording
 - Paper printing see: [TW](https://sanskrit-coders.github.io/content/books/publish/paper-printing)

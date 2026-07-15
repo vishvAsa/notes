@@ -22,6 +22,27 @@ unicode_script = "devanagari"
 ## वेङ्कटाध्वरी
 तत्-काल-पित्रादि-विचारो [ऽन्यत्र](/kAvyam/laxyam/champUH/vishva-guNAdarshaH/01_upodghAtaH) । 
 
+venkaTAdhvarin
+(1600s of the common era), as has [been said](http://manasataramgini.wordpress.com/2012/04/06/some-maxims-of-venkatadhvarin/)\- "a shrauta ritualist, keen observer of humanity, master poet, proponent of vishiShTAdvaita and shrIvaiShNava bigot".
+
+> श्रीपञ्चमत-भञ्जन-निबन्धन-विख्यात-  
+तात-यज्व-भागिनेय-  
+वाजपेय--सार्व-प्रष्टाप्तोर्यामादि-याज्य्--  
+आत्रेय-वंश-मौक्तिकी-भवद्-  
+अप्पय्यार्य-तनू-भव--  
+श्लेष-यमक-चक्र-वर्ति-  
+रघुनाथाचार्य-तनयस्य  
+श्रीनिवास-कृपातिशय-संविदित-नयस्य  
+सीताम्बा-गर्भ-संभवस्य  
+श्रीमत्-काञ्ची-नगर-वास्तव्यस्य  
+महा-कवि-श्रीमद्-वेङ्कटाध्वरिणः कृतौ  
+विश्वगुणादर्श-चम्पूः समाप्तिम् अगात् ॥
+
+इति तत्प्रशस्तिः।
+
+> Taking  Venkatadhwari (1590-1660 CE) to be the grandson of the famous Appayya Deekshita (1520-1593 CE) is a mistake. The former is of Aatreya Gotra whereas the latter is a Bhaaradwaaja. This was pointed out by Krishnamacharya in his History of Classical Skt.Lit (MLBD, 1932,..several reprints).
+
+
 ## गोपाल-देशिकः
 वेङ्कटनाथार्य-द्विष उद्दिश्य गोपालदेशिकेन कृता प्रप्तत्तिः - 
 

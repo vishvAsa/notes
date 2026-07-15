@@ -2,6 +2,7 @@
 title = "Iq profile"
 +++
 
+## IQ profile
 Source: [TW](https://threadreaderapp.com/thread/1473845527083110405.html)
 
 To labor one specific point: in theory, given the normal distribution, we should indeed have lots of those even assuming an Indian IQ profile of (means & weights): $.4*85+.35*90+.15*95+.1*102$ +++(avg = 89.95)+++. So the question boils down to do they exist but don't get into academia or they don't exist.

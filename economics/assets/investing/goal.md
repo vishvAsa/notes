@@ -26,3 +26,6 @@ One should not be fooled by market jitters (or perhaps even by medium term booms
 Different living conditions will require different incomes. Projected cost of living should be calculated considering the cost of living, adjusted to the rate of inflation at the future abode. Living wage estimates: [here](https://tradingeconomics.com/india/living-wage-individual).
 
 To reduce need for money, one can lead a frugal lifestyle, live in a developing location/ country/ boat (at least part of the year) where cost of living is low and where, due to the exchange rate, savings in foreign currency can be exploited.
+
+## Circulation
+If welath should be circulated through society, and not purely hoarded for growth. This avoids social resentment and the resultant long term failures.

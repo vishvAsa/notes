@@ -11,5 +11,4 @@ title: Hero
   - Kaiser (Caeser) Augustus Octavian.
   - Kaiser Julian the apostate.
 - Porphyry, the Greek, author of the brilliant “Against the Christians”, who was beaten up by a Christian mob in Caesarea, Palestine. \[[M](https://manasataramgini.wordpress.com/2013/02/10/the-end-of-the-heathens/)\]
-- Proclus (Πρόκλος), the mathematician, and the last RShi of the yavana-s, who [preserved](http://manasataramgini.wordpress.com/2013/02/10/the-end-of-the-heathens) for some time the statue of Athena uprooted in 435 CE by the edict of the rascal Theodosius.
 - Martyrs such as Porphyry (author of "Against the Christians"), Hypatia - who were murdered by Christians.  

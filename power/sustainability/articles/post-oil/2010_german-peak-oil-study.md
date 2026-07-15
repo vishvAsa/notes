@@ -2,7 +2,8 @@
 title = "2010 german peak oil study"
 +++
 
-'Peak Oil' and the German GovernmentMilitary Study Warns of a Potentially Drastic Oil Crisis
+'Peak Oil' and the German Government  
+Military Study Warns of a Potentially Drastic Oil Crisis
 
 A study by a German military think tank has analyzed how "peak oil" might change the global economy. The internal draft document -- leaked on the Internet -- shows for the first time how carefully the German government has considered a potential energy crisis.
 

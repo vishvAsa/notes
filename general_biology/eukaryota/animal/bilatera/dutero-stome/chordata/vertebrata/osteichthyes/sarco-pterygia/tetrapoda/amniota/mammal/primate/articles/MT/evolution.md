@@ -1,0 +1,39 @@
++++
+title = "Evolution"
++++
+
+## Dino age animal
+Source: [TW](https://x.com/blog_supplement/status/2004255996009492834)
+
+In the closing stages of the age of the dinosaurs, there appeared a small arboreal animal, perhaps just 50 g in weight. With the great extinction decimating the non-avian dinosaurs in the trees, they underwent an ecological release and radiated into the forms like those shown below.  They were the plesiadapiforms -- the group within which primates -- thus our ancestors from the opening of the Cenozoic. Little would have one expected that a descendant of theirs would spread all over the world like a weed by the billions.
+
+We suspect their enlarged first incisors were probably a feature of their shared ancestry with rodents and rabbits. They had 3 incisors in each quadrant, like the ancestral placental, but one of those was lost down the line as modern primates emerged within them.
+
+## North America
+Source: [TW](https://x.com/blog_supplement/status/2004604972542173188)
+
+From around 56 to 34 million years ago, North America was a lemurian paradise with a diversity of lemur-like (adapiform) and tarsier-like (omomyoid) primates that went entirely extinct. Barring one migrant that might have reached around 30-26 Mya from East Asia, there were no primates thereafter until Homo sapiens invaded the continent 10s of thousands of years ago.
+
+The first extinction of the primates in North America is correlated with the mass loss of forest habitats and the emergence of more open grassy landscapes. This in turn is correlated with a global cooling and build up of ice. Why that happened is not clear.
+
+Between 30-26 million years back, about 5 million years after the primates had gone completely extinct in North America, a mysterious primitive primate Ekgmowechashala appeared in the Midwest and Western USA from Asia. It briefly established the primates on the continent once more before going extinct again. It may have been more distantly related to the lemur-like form Sivaladapis from the Indian Sivaliks
+
+## Miocene forests
+द्वादश-प्रयुतं वर्षम्  
+पूर्वं कपि-प्रियं वनम् ।  
+सिन्दूर-तरु-सम्पूर्णम्  
+पृथिव्याम् अभवत् पुरा ॥  
+यदि तन् न विनश्येत  
+कालेन बलिना तदा ।  
+अद्यापि वृक्ष-शाखासु  
+वयम् एव भवेमहि ॥
+
+From 12-9 million years, the dense Miocene forests, even at higher latitudes of Eurasia (the Oak forests) and also North Africa, were a paradise for great apes. There were numerous forms across these forests as the earth became the planet of the apes. 
+
+From there, they retreated as the forest died out closer to the equator until  
+the lineage leading to Homo again spread more widely.  
+
+In Asia, as far as we know, the orang lineage was dominant. In Asia, while the Orang retreated south, a giant orang (Pongo weidenreichi) 20% larger than modern orangs was widespread in mainland East Asia. 
+
+It probably became extinct only around 11-12000 years ago. They were also there on the island of Java till that time. This suggests that they were eaten up by their cousin Homo.
+

@@ -4,37 +4,71 @@ title = "Supr"
 
 ## Current classes
 - Math, history, misc topics (विश्वसः)
-- Science, programming (श्रुतिः)
+- Science (श्रुतिः)
 - tamiL - shrIvaiShNava texts and mags (बालकृष्णः)
 - Telugu rAmAyaNa (श्रीदेवी)
-- Taekwondo (**Iban-Jhop**)
 - कर्णाटक-कण्ठ-सङ्गीतम् (**स्नेहश्री**, **राजलक्ष्मी**)
 - कर्णाटक-सङ्गीतम् - Violin (**राजलक्ष्मी**)
-- भरत-नृत्तम् - कविता (पन्दनल्लूर्-शैली)
 - Spanish - daily 5 min (duolingo)
 - Portuguese - daily 5 min (duolingo)
 - रहस्य-त्रय-सारादि - पऴवेरि-लक्ष्मीनरसिंहः (अर्धावधानेन)
 - वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**प्रदीप-सिंहः**)
-- परवस्तु-सामानि (विश्वसः)
-- पञ्चतन्त्रम् (विश्वसः)
+- परवस्तु-सामानि (**विश्वसः**)
+- swimming (rAhul)
+- पञ्चतन्त्रम् (**विश्वसः**)
+- Indica geology book. (self)
+- Amar chitra kathA kindle comics. (self)
 
 ## Past
-- swimming (rAhul)
-- नृत्यम् - अनूषा, राधिका
+- नृत्यम् - अनूराधा-गणः (कलाक्षेत्र-शैली), अनूषा, सरोजिनी (ताञ्जावूरु-शैली), राधिका (पन्द-नल्लूरु-शैली), कविता (पन्दनल्लूर्-शैली)
 - kannaDa, english reading (श्रुतिः)
 - Goodreads [here](https://www.goodreads.com/review/list/184092601?shelf=read)
+- Taekwondo (**Iban-Jhop**) up to green belt
 
 ## Routine
 Class and ritual timings give structure.
 
 Rituals - tarpaNa, brahmayajna, sandhyAvandana, ijyA, japa, sandhyAvandana, samidAdhAna
 
+## 2026-02
+- Restarted swimming classes
+- Ended Taekwondo. Further improvement requires testosterone release, and fighting spirit.
+
+## 2026-01
+- न्याय-सुधा-मङ्गल-कार्यक्रम-दर्शनं कुक्के-सुब्रह्मण्य-क्षेत्रे। Small kumAra-parvata-trek. Poor performance in subrahmaNyana-hoLe in agrahAra.
+- Started reading Geology text Indica.
+- भरत-नृत्यम् - कविता (पन्द-नल्लूरु-शैली) class ended.
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+भरत-नृत्यम् - कविता -
+
+Unlike others, demanded full 1k, despite 50% cut in classes - that too rudely with 2 month arrears. She got 1k.
+</details>
+
+
+## 2025-12
+- tamiL class frequency cut to 50%.
+- telugu class frequency cut to 2 per week.
+- भरत-नृत्यम् class frequency cut to 1 per week.
+
+## 2025-11
+- telugu class frequency cut to 50%.
+- Started reading Indica.
+
+## 2025-10
+- Leh, sindhu, pangong trip
+- Started reading many comics on Kindle.
+
 ## 2025-04
 - भरत-नृत्यम् - कविता (पन्द-नल्लूरु-शैली). 1k monthly, 800 admission.
 - वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**प्रदीप-सिंहः**)
 
+## 2025-03
+- भरत-नृत्यम् - nRtyoma **राधिका** class ended. (Asked 6k for compulsory "annual day".)
+
 ## 2024-12
-- भरत-नृत्यम् - nRtyoma **राधिका** (पन्द-नल्लूरु-शैली). 1k monthly, 2k admission. Later asked 6k for compulsory "annual day".
+- भरत-नृत्यम् - nRtyoma **राधिका** (पन्द-नल्लूरु-शैली). 1k monthly, 2k admission. 
 
 ## 2024-11
 - Started Portuguese on **Duolingo**
@@ -128,7 +162,7 @@ bharatanATyam - **दृष्टि-संस्था** (main teacher **Rhea**
 - सामवेदः - परवस्तु-परम्परा (**विश्वासः**)
 
 ## 2022-04
-Started sangItamiL - neighbor **तुषारपत्नी मीरा**. Fee started around 450, but rose to 650 by 2023-10.
+Started sangItam - neighbor **तुषारपत्नी मीरा**. Fee started around 450, but rose to 650 by 2023-10.
 
 
 ## 2021-07
@@ -156,12 +190,13 @@ Liked watching approved educational **cartoons**, like Dr. Binocs; Aumsome.
 
 Taught him kannaDa and devanAgarI letters just by taking him on walks and reading house-name-boards.
 
-## 2019-01
+## 2018-07
+By 7/26/2018, got some story time (eg. Lost bear (houghton muffin)).
+
+## 2018-01
 Learned English alphabets by going around and reading out letters in Mountain View.
 
 Attended a play-home (**safari kids**) for a few hours each day for about 2 months.
-
-By 7/26/2019, got some story time (eg. Lost bear (houghton muffin)).
 
 ## 2017-09
 Started walking.  

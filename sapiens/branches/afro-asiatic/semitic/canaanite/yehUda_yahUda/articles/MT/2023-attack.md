@@ -2,6 +2,20 @@
 title = "2023-attack"
 +++
 
+## Chingiz Khan
+Source: [TW](https://x.com/blog_supplement/status/2034783095010832874)
+
+> “Jesus Christ has no advantage over Genghis Khan. If you are strong enough, ruthless enough, and powerful enough, evil will overcome good [and] aggression will overcome moderation.”  
+> Will Durant 1968 book The Lessons of History
+
+
+
+
+
+
+Whatever one thinks of the mUlavAtUleshvara, he is right in analogy involving Chingiz Khan and the preta. We believe this is not a coincidence: the uparimarakata-s, for their small size, have produced some fine Mongologists, whose work has greatly contributed to our understanding. We often wondered why that might be so and always had a suspicion that they obtained military inspiration and a model for emulation from these studies. It hints at what they intend doing with the Islamic Republic -- probably they are seeing themselves as prathamonmatta versions of Subedei and Hulegu.
+
+## Strategy
 Source: [TW](https://threadreaderapp.com/thread/1710905676141146570.html)
 
 It is unclear if the marUnmatta-s had any strategy in their current ghazwat. It was heavy on tactical effervescence -- something also previously seen with their coreligionist from the occupied pA~nchanada & sindhu -- but not clear if it aimed to achieve anything strategically. It that sense it was just like the 9/11 attack -- mass civilian deaths for shock value that will draw the attention of the world. 

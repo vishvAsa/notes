@@ -1,6 +1,26 @@
 +++
-title = "kennedy on decline"
+title = "Decline"
 +++
+
+## 2026
+### 150 yrs, 250 yrs
+Source: [TW](https://x.com/blog_supplement/status/2071396160237883436)
+
+It is interesting to note that the Lakota, Cheyenne and allied tribal groups celebrated the 150th anniversary of their rare but clear military victory against the USA, even as the US celebrates the 250th anniversary of its founding.
+
+### Fall
+> In the past few years the US:
+>
+> 1. Wound up the #Afghan war
+2. Started #Ukraine
+3. Took #Syria away from Iran/ Rus while keeping Ukr going full speed.
+4. Took #Venezuela
+5. Lit fires all over #India, esp NE
+6. Has severely hurt #Iran so far
+
+
+In fact, right now the American empire is in a similar phase as the Ching in 1750-60s or the Turks under Suleyman. However, one also sees the seeds of what will eventually bring down the empire, though that can take a 100 years
+
 
 ## 2025
 ### Comparisons

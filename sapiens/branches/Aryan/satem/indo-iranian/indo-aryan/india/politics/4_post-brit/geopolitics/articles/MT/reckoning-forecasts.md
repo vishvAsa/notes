@@ -2,6 +2,27 @@
 title = "Reckoning forecasts"
 +++
 
+## 2026
+
+### War study
+Source: [TW](https://x.com/blog_supplement/status/2044253523626324132)
+
+One can only hope that the Indian military has grasped the profound significance of the war in Iran and Ukraine. 
+
+The gods have been kind, so it was not the Indian army at this bleeding edge. 
+
+However, the lessons taught on these battlefields have been severe. 
+
+When we used to write our stories, we had a lurking foreboding that the nature of warfare would change quite a bit with drones and robotics. That has come to bear.  
+There is also AI and satellite internet tech to add to that.  
+So when the war comes to the Indian front, the tactical landscape would be very different. 
+
+Not what the older generation of warriors had prepared for in terms of conventional warfare, be it by air, water or by land.  
+
+What we don't know is whether the training and outlook of the current Indian military leadership are up to dealing with this new landscape and the need for a high degree of on-the-fly tactical innovation at multiple levels. 
+
+It is the kind of environment in which a Chingiz Khan or shivAjI bhonsla would have thrived, but many other H armies of yore might not have.
+
 ## 2025
 ### H Danger
 Source: [TW](https://x.com/blog_supplement/status/1922087206975336725)

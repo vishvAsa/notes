@@ -73,9 +73,9 @@ Air tickets should be purchased from ([F. No. 31011/12/2022-Estt.A-IV](https://d
 2024-2027 (3 Delhi, 1 anywhere)
 
 - 2024 - V, Sh, Su, Vaj - Delhi
-- 2025 - Ladhak ? ("hometown trip: one of these can be converted to a trip to UT of J&K and Ladakh")
-- 2026 - Andamans
-- 2027 - vasante - (hometown trip) Delhi ?
+- 2025 - Ladhak ("hometown trip: one of these can be converted to a trip to UT of J&K and Ladakh")
+- 2026 - vasante - (hometown trip) Delhi ?
+- 2027 - Andamans
 
 > My LTC trips can be as follows for first 8 years:  
 2020-2022 (three years hometown trip)  

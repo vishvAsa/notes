@@ -28,8 +28,27 @@ title = "वाधूलगोत्रम्"
 > Hagiography gives some folk etymology using gandham+ADai.. but in reality kandadai clan has existed even from the 9th century as seen from a copper plate grant of Nandivarman Pallava III.  
 > - रविलोचनः
 
+There exist kandadai vdks - RL
+
 ## गङ्गाधरः
 Gaṅgādhara Vājapeyayāi also known by names Gangadhara Adhvarin and Gangadhara Suri was a great vedic scholar of the Krishna Yajurveda from Thiruvalangadu in Thanjavur district of Tamil Nadu. He was an expert in Nyaya and Taraka Shastra. He was one of the eight jewels at the court of Maratha king Serfoji I of Tanjore. Bhaskararaya acquired knowledge of the Nyaya sastra and Tarka sastra from Gangadhara Vajapeyin.
+
+## स्वर्ण-कृष्णमाचार्यः
+तद्-ग्रामे समीपवर्तिनि बहवो माध्व-विद्वांसः,  
+अतो बाल्ये हि न्यायसुधाम् अप्य् अशिक्षत्,  
+पश्चाद् अन्येभ्योऽप्य् अपाठयत्।   
+
+श्रीमूष्ण-क्षेत्रय् उवास।  
+अत्यन्तसुन्दरकायः, यद्-दृष्टीर् गृह्णाति स्म देवदर्शनार्थिनाम् अपि।  
+अत एव "स्वर्णम्" इत्य् उपनामाप,  
+अत एव च देवालये नाधिकं तिष्ठति स्म -  
+देवाद् अवधानं नापकर्षाणीति।  
+उञ्छ-वृत्त्या जीवति स्म।  
+एका दुहिता। 
+
+इञ्जिमेडु-यति-शिक्षा-वृत्तान्तस् तत्-पत्त्रे द्रष्टव्यः।  
+
+
 
 ## नारायणाचार्यः
 कर्णाटेषु श्रीवैष्णवमतोपन्यासकः। स्वयमाचार्यः। 31-10-1933 - 26-11-2021.

@@ -42,15 +42,31 @@ Heat the milk in pipework to 73˚C and run it through the pipes at that temperat
 Worsens milk taste.
 
 ### bengaLUru
+- nandini (.001% adultration in bengaLUru 2026)
+  - Regular - 37/L (2026)
+  - A2 - 80/L (2026)
 - organic list [here](https://pureecoindia.in/a2-milk-providers-in-bangalore-rutaksha-rawat/)
 - mAthruka a2 - 53Rs/L  (2023)
 - vRndAvan a2 - 90Rs/L  (2023)
-- akShayakalpa a2 - 100 Rs/L  (2023)
+- akShayakalpa cow milk - 90 Rs/L  (2026)
+- akShayakalpa A2 cow milk - 94 Rs/L  (2026)
+- akShayakalpa organic high protein - 400 Rs/L  (2026)
+- akShayakalpa organic high protein - 400 Rs/L  (2026)
 - isiri - 135Rs/L Gir. no delivery to snagar. (2022)
 
 ## Cheese
 cheese-slices इति नानेतव्यम् - बहु preservative, वर्णादेः प्रयोगः, अपि च बहु plastic-प्रयोगः।
-तस्य स्थाने पनीरम् आनेतुं वरम् - [यथात्र](https://www.jiomart.com/p/groceries/mother-dairy-fresh-paneer-200-g/490544417?source=fbads&city=Haldwani)।  
+
+### Bengaluru
+- nandinI
+  - Paneer - .42 /g (2026)
+- akshayakalpa
+  - Paneer - 3.4/g (2026)
+  - Cheddar Mild - 6.6/g (2026)
+  - Cheddar Aged - 6.9/g (2026)
+- Milky mist
+  - Cheddar - .64/g (2026) bigbasket
+
 
 ## Ghee
 
@@ -67,6 +83,8 @@ cheese-slices इति नानेतव्यम् - बहु preservative,
 
 ### Bengaluru
 - vRndAvan a2 - 2200 Rs/L  (2023)
+- nandinI - 1600/L (2026)
+- akshayakalpa - 1752 (2026)
 
 ## Lactase
 - Amul mozarella diced cheese + yogurt in afternoon and evening led to flatulance and loose stools in V.

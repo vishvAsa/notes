@@ -13,10 +13,14 @@ tireless in his pursuit of वेदरक्षण, he shaped the आचार 
 
 ### सच्चिदानन्देन्द्रसरस्वती
 - (1880-1975)
-- Swamiji took upon himself the mountainous and apparently rebellious task of presenting the school of Gaudapada, Shankara and Sureshwara, the three respelendent stars of Advaita Vedanta, in its original pure form, both in words and spirit (via the text mUlAvidyA-nirAsa, in opposition to 1k year old neo-tradition). 
-- With a crusader's zeal, he spared no efforts to purge the doctrines foreign to and opposed to the Shankara school, which were attributed to Shankara by the later subcommentators. 
-- His life was an incessant battle with antagonistic forces with affilictions, social obligations, philistine opposition, weak health and what is most inexhorable, finance. However his perseverance against all odds saw to the establishment of Adhyatma Prakasha Karyalaya.
-- He was a prolific writer having authored over two hundred books on Vedanta in Kannada, Sanskrit and English.
+
+Swamiji took upon himself the mountainous and apparently rebellious task of presenting the school of Gaudapada, Shankara and Sureshwara, the three respelendent stars of Advaita Vedanta, in its original pure form, both in words and spirit (via the text mUlAvidyA-nirAsa, in opposition to 1k year old neo-tradition). 
+
+With a crusader's zeal, he spared no efforts to purge the doctrines foreign to and opposed to the Shankara school, which were attributed to Shankara by the later subcommentators. 
+
+His life was an incessant battle with antagonistic forces with affilictions, social obligations, philistine opposition, weak health and what is most inexhorable, finance. However his perseverance against all odds saw to the establishment of Adhyatma Prakasha Karyalaya.
+
+He was a prolific writer having authored over two hundred books on Vedanta in Kannada, Sanskrit and English.
 
 ### श्रीधर-दुष्यन्तः
 - With his fluency in English, Hindi and Tamil, 
@@ -36,5 +40,7 @@ He is said to have learnt (parts of) Śrī Bhāṣyam, Gītā Bhāṣyam, Rahasy
 
 
 ### hārīta veṅkaṭanātha
-kiḍāmbi tozhappar = hārīta veṅkaṭanātha, the śrīvaiṣṇava nibandhanakāra, author of smṛti ratnākara and iirc śiṣya of ādivaṇśaṭhakopa jīyar, founder of ahobila maṭha.
+kiḍāmbi tozhappar = hārīta veṅkaṭanātha, the śrīvaiṣṇava nibandhanakāra, author of smṛti ratnākara and iirc śiṣya of ādivaṇśaṭhakopa jīyar??.
 
+### श्रीधर-दुष्यन्तः
+हारितात् कौण्डिन्यायां जातः, वैश्वामित्रीम् उपयेमे। 
