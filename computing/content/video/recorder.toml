@@ -1,0 +1,50 @@
+
+[[data]]
+samUhaH = 'Multimedia'
+upasamUhaH = 'Video record (gif)'
+software = 'peek'
+choice = 1
+kAraNaM = 'great ui, intuitive'
+
+[[data]]
+samUhaH = 'Multimedia'
+upasamUhaH = 'Video record'
+software = 'gtk-recordmydesktop'
+kAraNaM = 'screencasting'
+kleshaH = '''
+Audio recording erratically stops after 4/ 15/ 15 minutes.
+On the fly full screen recording of ~1920*1080 window at 15 fps and 22k audio bitrate results in picture lagging wrt the sound.'''
+vyavasthA = '''
+Avoided problem on ~1920*1080 window with:
+8 frames per sec.
+1-channel, 11K audio frequency.
+Encoding on the fly. Enable subsampling.'''
+
+[[data]]
+samUhaH = 'Multimedia'
+upasamUhaH = 'Video record'
+software = 'obs-studio obs-gphoto obs-qtwebkit-git'
+choice = 1
+kAraNaM = 'screencasting, broadcasting to YT'
+
+[[data]]
+samUhaH = 'Multimedia'
+upasamUhaH = 'Video record'
+software = 'guvcview'
+kAraNaM = 'chalat-chitra-gRRihaNam'
+kleshaH = 'mpg2 format not recognized by YT and others'
+
+[[data]]
+samUhaH = 'Multimedia'
+upasamUhaH = 'Video record'
+software = 'xvidcap'
+kAraNaM = 'screencast'
+kleshaH = 'Does not record audio'
+
+[[data]]
+samUhaH = 'Multimedia'
+upasamUhaH = 'Video record'
+software = 'istanbul'
+kAraNaM = 'screencast'
+kleshaH = '''very slow, bad ui (can't see progress after recording is stopped)'''
+

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Complexity classes on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/computational_complexity/complexity_classes/</link>
+    <description>Recent content in &#43;Complexity classes on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/computational_complexity/complexity_classes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01 Computability and efficiency of problems</title>
+      <link>https://vishvAsa.github.io/notes/computing/computational_complexity/complexity_classes/01_Computability_and_efficiency_of_problems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/computational_complexity/complexity_classes/01_Computability_and_efficiency_of_problems/</guid>
+      <description>&lt;h2 id=&#34;uncomputability-by-tm&#34;&gt;Uncomputability by TM&lt;/h2&gt;&#xA;&lt;p&gt;Tabulate all TM strings vs all inputs; mark output (0, 1 or *); \textbf{diagonalize} (reverse output in diagonal) to get function UC no TM can solve. \textbf{Halting problem}: Uncomputable, else UC computable; Even model checking cannot predict halting of the twin primes (p, p+2) problem.&lt;/p&gt;&#xA;&lt;h2 id=&#34;decidability-by-tm&#34;&gt;Decidability by TM&lt;/h2&gt;&#xA;&lt;p&gt;TM decides &amp;lsquo;recursive languages&amp;rsquo;. Given query \(x \in L?\), TM gives coorect answer eventually.&lt;/p&gt;&#xA;&lt;h2 id=&#34;acceptance-by-tm-recursive-enumerability&#34;&gt;Acceptance by TM/ Recursive enumerability&lt;/h2&gt;&#xA;&lt;p&gt;Given query \(x \in L?\), TM gives coorect answer eventually if \(x \in L\). It may run for ever otherwise. TM accepts &amp;lsquo;recursively enumerable lanugages&amp;rsquo;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>02 P and NP</title>
+      <link>https://vishvAsa.github.io/notes/computing/computational_complexity/complexity_classes/02_P_and_NP/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/computational_complexity/complexity_classes/02_P_and_NP/</guid>
+      <description>&lt;h2 id=&#34;p&#34;&gt;P&lt;/h2&gt;&#xA;&lt;p&gt;P=coP. P completeness. CIRCUIT VALUE is P complete: In P by Spira and \(DSPACE(log^{k} n) \subseteq P\); . (Find out more.)&lt;/p&gt;&#xA;&lt;h2 id=&#34;non-determinism&#34;&gt;Non determinism&lt;/h2&gt;&#xA;&lt;h3 id=&#34;np&#34;&gt;NP&lt;/h3&gt;&#xA;&lt;p&gt;Evaluatable by a non-deterministic turning machine. All computation paths end in polytime.&lt;/p&gt;&#xA;&lt;h4 id=&#34;acceptance-of-x&#34;&gt;Acceptance of x&lt;/h4&gt;&#xA;&lt;p&gt;If \(x \in L\), there is at least 1 path which leads to acceptance of x. Else, all paths lead to rejection of x. Thus, assymetry in Acceptance/ Rejection criteria.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>03 Other classes</title>
+      <link>https://vishvAsa.github.io/notes/computing/computational_complexity/complexity_classes/03_Other_classes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/computational_complexity/complexity_classes/03_Other_classes/</guid>
+      <description>&lt;h2 id=&#34;space-classes&#34;&gt;Space-classes&lt;/h2&gt;&#xA;&lt;p&gt;\(NTIME(f(n)) \subseteq DSPACE(f(n))\).\&#xA;L, NL, polylog space, \(PSPACE = NSPACE\). \(L \subseteq NL \subseteq P \subseteq NP \subseteq PSPACE\): One of these is \(\subset\): from space hierarchy theorem.&lt;/p&gt;&#xA;&lt;p&gt;\textbf{Reachability method} on configuration graph: \&#xA;\(NSPACE(f(n)) \subseteq DTIME(2^{f(n)})\).&lt;/p&gt;&#xA;&lt;p&gt;Directed reachability in \(DSPACE(log^{2} n)\) (Savitch) \chk. So, by reachability method: \(NSPACE(f(n)) = DSPACE((f(n))^{2})\). Reachability is NL complete. \why&lt;/p&gt;&#xA;&lt;p&gt;Immerman-Szelepcsenyi: \(Unreachability \in NL\).\&#xA;So, coNSPACE(f(n)) = NSPACE(f(n)).&lt;/p&gt;&#xA;&lt;h2 id=&#34;boolean-circuits&#34;&gt;Boolean circuits&lt;/h2&gt;&#xA;&lt;p&gt;See Boolean fn ref.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>04 Other notions of complexity</title>
+      <link>https://vishvAsa.github.io/notes/computing/computational_complexity/complexity_classes/04_Other_notions_of_complexity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/computational_complexity/complexity_classes/04_Other_notions_of_complexity/</guid>
+      <description>&lt;h2 id=&#34;communication-complexity&#34;&gt;Communication complexity&lt;/h2&gt;&#xA;&lt;p&gt;See Information and coding theory ref.&lt;/p&gt;&#xA;&lt;h2 id=&#34;komogrov-complexity&#34;&gt;Komogrov complexity&lt;/h2&gt;&#xA;&lt;p&gt;Of a computational object: Resourses required to specify it. Eg: If P is a program which outputs a string x, then P is a description of x. The length of the description is just the length of P as a character string.&lt;/p&gt;&#xA;&lt;h2 id=&#34;smoothed-complexity&#34;&gt;Smoothed complexity&lt;/h2&gt;&#xA;&lt;p&gt;\tbc&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>05 Other topics</title>
+      <link>https://vishvAsa.github.io/notes/computing/computational_complexity/complexity_classes/05_Other_topics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/computational_complexity/complexity_classes/05_Other_topics/</guid>
+      <description>&lt;h2 id=&#34;explore-further&#34;&gt;Explore further&lt;/h2&gt;&#xA;&lt;p&gt;Interactive proofs. Transperent proofs: a small error shows up every where - make combinations of atomic results.&lt;/p&gt;&#xA;&lt;h2 id=&#34;lower-bounds&#34;&gt;Lower bounds&lt;/h2&gt;&#xA;&lt;p&gt;Crossing sequence: an important trick. \tbc Adverserial technique: Let adversary make an alg, you make an input to screw it up. \tbc Use information theory. Reduce to other hard problems. Construct input for which minimum processing is required.&lt;/p&gt;&#xA;&lt;p&gt;\(P \neq NP\) proof is hard: natural proofs (satisfy constructivity and largeness) won&amp;rsquo;t work: else you&amp;rsquo;ll end up with an alg =f(proof) to solve NP prob in Poly time. \why&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

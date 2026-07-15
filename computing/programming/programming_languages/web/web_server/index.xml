@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Web server on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/web/web_server/</link>
+    <description>Recent content in &#43;Web server on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/web/web_server/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apache</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/web/web_server/apache/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/web/web_server/apache/</guid>
+      <description>&lt;p&gt;A modular web server. MOdules not loaded unless enabled.&lt;/p&gt;&#xA;&lt;h2 id=&#34;apache&#34;&gt;apache&lt;/h2&gt;&#xA;&lt;div class=&#34;spreadsheet&#34; src=&#34;../apache.toml&#34; fullHeightWithRowsPerScreen=8&gt; &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Web API</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/web/web_server/api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/web/web_server/api/</guid>
+      <description>&lt;p&gt;Some web-services expose API to allow algorithmic access to the information they serve.&lt;/p&gt;&#xA;&lt;h2 id=&#34;request-response-format&#34;&gt;Request/ response format&lt;/h2&gt;&#xA;&lt;p&gt;They specify the serialization formats in which input/ request and output/ response objects (structured data) are to be encoded. This is usually in JSON or XML format.&lt;/p&gt;&#xA;&lt;p&gt;XML, being more verbose, results in slower computation and transmission.&lt;/p&gt;&#xA;&lt;h2 id=&#34;underlying-protocol&#34;&gt;Underlying Protocol&lt;/h2&gt;&#xA;&lt;p&gt;Usually, they use http or rpc protocol.&lt;/p&gt;&#xA;&lt;h2 id=&#34;web-interface-protocols&#34;&gt;Web interface Protocols&lt;/h2&gt;&#xA;&lt;h3 id=&#34;simple-object-access-protocol-soap&#34;&gt;Simple Object access protocol (SOAP)&lt;/h3&gt;&#xA;&lt;p&gt;It specifies the use of XML for representing objects, certain Message Exchange Patterns (MEP).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

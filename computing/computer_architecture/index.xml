@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Computer architecture on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/computer_architecture/</link>
+    <description>Recent content in &#43;Computer architecture on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/computer_architecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Display</title>
+      <link>https://vishvAsa.github.io/notes/computing/computer_architecture/Display/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/computer_architecture/Display/</guid>
+      <description>&lt;h2 id=&#34;gpu&#34;&gt;GPU&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;nVidia GP107 [GeForce GTX 1050] - DP 1.43, HDMI 2.0b, Dual Link-DVI&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;display-screens&#34;&gt;Display screens&lt;/h2&gt;&#xA;&lt;p&gt;Liquid Crystal displays tend to be more ergonomically friendly than CRT tube monitors.&lt;/p&gt;&#xA;&lt;h3 id=&#34;quality&#34;&gt;Quality&lt;/h3&gt;&#xA;&lt;h4 id=&#34;image-quality&#34;&gt;Image quality&lt;/h4&gt;&#xA;&lt;p&gt;Display screens vary in image quality parameters: screen size, maximum resolution: SVGA (800 x 600), XGA (1024 x 768), SXGA (1280 x 1024), or UXGA (1600 x 1200), contrast ratio.&lt;/p&gt;&#xA;&lt;h4 id=&#34;refresh-rate&#34;&gt;Refresh rate&lt;/h4&gt;&#xA;&lt;p&gt;They also vary in refresh rate, in the case of images generated from projection, as in CRT monitors or projectors: low refresh rate results in flicker and eye strain - especially from typing distance. Higher resolutions require correspondingly higher refresh rates.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Input</title>
+      <link>https://vishvAsa.github.io/notes/computing/computer_architecture/Input/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/computer_architecture/Input/</guid>
+      <description>&lt;h2 id=&#34;gaming-input&#34;&gt;Gaming input&lt;/h2&gt;&#xA;&lt;h3 id=&#34;motion-detection&#34;&gt;Motion detection&lt;/h3&gt;&#xA;&lt;p&gt;Microsoft Kinect detects hand motions at a certain optimum distance using a camera - no external devices are required.&lt;/p&gt;&#xA;&lt;h2 id=&#34;containment-size&#34;&gt;Containment/ Size&lt;/h2&gt;&#xA;&lt;h3 id=&#34;computer-case&#34;&gt;Computer case&lt;/h3&gt;&#xA;&lt;p&gt;The case/ tower provides power-supply and cooling. Good cooling systems try to be noiseless - they rely on airflow or ensure that the fan speed is usually low.&lt;/p&gt;&#xA;&lt;h3 id=&#34;size&#34;&gt;Size&lt;/h3&gt;&#xA;&lt;p&gt;Computer&amp;rsquo;s processing and storage components are sometimes fit into the monitor or under keyboard in case of a notebook computer, or in a small case.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Interfaces and networking</title>
+      <link>https://vishvAsa.github.io/notes/computing/computer_architecture/Interfaces_and_networking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/computer_architecture/Interfaces_and_networking/</guid>
+      <description>&lt;h2 id=&#34;device-interfaces&#34;&gt;Device interfaces&lt;/h2&gt;&#xA;&lt;p&gt;Common standards are often used to connect a wide variety of device pairs.&lt;/p&gt;&#xA;&lt;h3 id=&#34;universal-serial-bus&#34;&gt;Universal serial bus&lt;/h3&gt;&#xA;&lt;p&gt;USB is currently most popular. USB 3 enables superior data-transfer speeds.&lt;/p&gt;&#xA;&lt;p&gt;USB allows for a tiered star topology: so one can connect many devices to a particular device with a single usb wire branching out into many others. Power dissipation limits the extant to which this can be done.&lt;/p&gt;&#xA;&lt;h3 id=&#34;usb-plugs&#34;&gt;USB Plugs&lt;/h3&gt;&#xA;&lt;p&gt;USB wires have 4 (sometimes 5) terminals arranged in various shapes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Microphone</title>
+      <link>https://vishvAsa.github.io/notes/computing/computer_architecture/microphone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/computer_architecture/microphone/</guid>
+      <description>&lt;h2 id=&#34;pickup-pattern&#34;&gt;Pickup pattern&lt;/h2&gt;&#xA;&lt;p&gt;Rejects sound outside the pickup curve.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cardioid&lt;/li&gt;&#xA;&lt;li&gt;Bidirectional&lt;/li&gt;&#xA;&lt;li&gt;Omnidirectional&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ports&#34;&gt;Ports&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;XLR&#xA;&lt;ul&gt;&#xA;&lt;li&gt;better noise rejection and flexibility&lt;/li&gt;&#xA;&lt;li&gt;To convert to usb, must connect phantom power supply.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;USB&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;accessories&#34;&gt;Accessories&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Stand&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Shock Mounts&lt;/li&gt;&#xA;&lt;li&gt;arms&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Pop Filters - reduce P and B sounds.&lt;/li&gt;&#xA;&lt;li&gt;Windshields&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;history&#34;&gt;History&lt;/h2&gt;&#xA;&lt;h3 id=&#34;headphone-mic&#34;&gt;Headphone mic&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;White&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Clearer voice, but some static entered.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;webcam-in&#34;&gt;Webcam in&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2019-24&lt;/li&gt;&#xA;&lt;li&gt;Webcam input was unsatisfactory - muffled.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;types&#34;&gt;Types&lt;/h2&gt;&#xA;&lt;h3 id=&#34;dynamic-microphones&#34;&gt;Dynamic microphones&lt;/h3&gt;&#xA;&lt;p&gt;coil attached to a diaphragm that moves within a magnetic field, generating an electrical signal&lt;br&gt;&#xA;handle high sound pressure levels&lt;br&gt;&#xA;Good in environments with high ambient noise too.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Number storage formats</title>
+      <link>https://vishvAsa.github.io/notes/computing/computer_architecture/Number_storage_formats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/computer_architecture/Number_storage_formats/</guid>
+      <description>&lt;h2 id=&#34;design-factors&#34;&gt;Design factors&lt;/h2&gt;&#xA;&lt;h3 id=&#34;words-and-bits&#34;&gt;Words and bits&lt;/h3&gt;&#xA;&lt;p&gt;Suppose \(b\) bits are available to store a certain type of number: this is usally expressed in terms of multiples of words (collection of \(w\) bits). Because binary logic is used for addressing and processing, \(w\) is generally a power of 2. In old days, it used to be \(w = 2^2\), now 64 bit words are common.&lt;/p&gt;&#xA;&lt;h3 id=&#34;simplicity-of-computation-logic&#34;&gt;Simplicity of computation logic&lt;/h3&gt;&#xA;&lt;p&gt;Some representation formats require simpler and more efficient circuits for performing basic arithmetic operations than others. This is an important factor in choosing the representation format.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Parallel computers</title>
+      <link>https://vishvAsa.github.io/notes/computing/computer_architecture/Parallel_computers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/computer_architecture/Parallel_computers/</guid>
+      <description>&lt;h2 id=&#34;architecture&#34;&gt;Architecture&lt;/h2&gt;&#xA;&lt;p&gt;Possible 4 uses of multiple processing units were named by Flynn as single/ multiple instructions single/ multiple data-streams.&lt;/p&gt;&#xA;&lt;h2 id=&#34;communication&#34;&gt;Communication&lt;/h2&gt;&#xA;&lt;p&gt;Shared memory vs message passing architectures. Can use shared memory abstraction over message passing, vice-versa.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Procurement and maintenance</title>
+      <link>https://vishvAsa.github.io/notes/computing/computer_architecture/Procurement_and_maintenance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/computer_architecture/Procurement_and_maintenance/</guid>
+      <description>&lt;h2 id=&#34;maintenance&#34;&gt;Maintenance&lt;/h2&gt;&#xA;&lt;h3 id=&#34;fan-vent-cleaning&#34;&gt;Fan vent cleaning&lt;/h3&gt;&#xA;&lt;p&gt;In case of a laptop, the fan-vent needs to be cleaned periodically. CPU temperature can be monitored in the GUI using common applications.&lt;/p&gt;&#xA;&lt;h3 id=&#34;battery&#34;&gt;Battery&lt;/h3&gt;&#xA;&lt;p&gt;If laptop is always connected, best to disconnect battery \chk.&lt;/p&gt;&#xA;&lt;h3 id=&#34;vostro-1000-disassembly-procedure&#34;&gt;Vostro 1000 disassembly procedure&lt;/h3&gt;&#xA;&lt;p&gt;Remove panel above keyboard. Disconnect keyboard, wires to monitor, trackpad. Remove screws in the front and in the back. Remove the panel from above the keyboard.&lt;/p&gt;&#xA;&lt;h2 id=&#34;upgrades&#34;&gt;Upgrades&lt;/h2&gt;&#xA;&lt;h3 id=&#34;understand-needs&#34;&gt;Understand needs&lt;/h3&gt;&#xA;&lt;p&gt;In order to understand what needs to be change, it is good to understand resource limitations: is working memory low, or is the CPU too slow. Hence, run a system monitor application.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Speakers</title>
+      <link>https://vishvAsa.github.io/notes/computing/computer_architecture/speakers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/computer_architecture/speakers/</guid>
+      <description>&lt;h2 id=&#34;types&#34;&gt;Types&lt;/h2&gt;&#xA;&lt;p&gt;Active speakers have built in amplifiers.&lt;/p&gt;&#xA;&lt;p&gt;Connection&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;3.5MM / RCA JACKS.&lt;/li&gt;&#xA;&lt;li&gt;USB&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Power - oft a proxy for loudness&lt;/p&gt;&#xA;&lt;h2 id=&#34;desiderata&#34;&gt;Desiderata&lt;/h2&gt;&#xA;&lt;p&gt;USB connection is usually better.&lt;/p&gt;&#xA;&lt;h2 id=&#34;history&#34;&gt;History&lt;/h2&gt;&#xA;&lt;h3 id=&#34;vw-sonic-bar-120w-soundbar&#34;&gt;VW Sonic Bar 120W Soundbar&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2.1 Channel Home Theatre | 5.25” Wired Subwoofer | Multiple Connectivity &amp;amp; Sleek Design (Black)&lt;/li&gt;&#xA;&lt;li&gt;2024-&amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;beats-by-dre-pill-a1680-bluetooth-speaker--ml4m2ll&#34;&gt;Beats by Dre Pill+ a1680 Bluetooth Speaker  ML4M2LL&lt;/h2&gt;&#xA;&lt;p&gt;Seems 12 watts.&lt;/p&gt;&#xA;&lt;p&gt;Used 2018-2024.&lt;br&gt;&#xA;(mostly connected to computer by analog cable)&lt;br&gt;&#xA;Produced muffled sound at high volume.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Special computers</title>
+      <link>https://vishvAsa.github.io/notes/computing/computer_architecture/Special_computers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/computer_architecture/Special_computers/</guid>
+      <description>&lt;h2 id=&#34;pocket-computers&#34;&gt;Pocket computers&lt;/h2&gt;&#xA;&lt;h3 id=&#34;components&#34;&gt;Components&lt;/h3&gt;&#xA;&lt;p&gt;These devices are very compact, and often combined with specialized equipment like ability to connect to certain mobile phone networks, GPS, gyroscopes, compasses, cameras, flash led&amp;rsquo;s, accelerometers. Such components often make single function devices much less attractive.&lt;/p&gt;&#xA;&lt;h3 id=&#34;customizability&#34;&gt;Customizability&lt;/h3&gt;&#xA;&lt;p&gt;The hardware customizability is often very limited; but communication interfaces (eg: bluetooth, card slots) enable expansion.&lt;/p&gt;&#xA;&lt;h3 id=&#34;os&#34;&gt;OS&lt;/h3&gt;&#xA;&lt;p&gt;The operating systems used are often not easily switched; but may be upgradeable or hacked in minor ways. Popular OSes are Apple iOS, Windows, HP&amp;rsquo;s OS, Blackberry OS, Google&amp;rsquo;s Android (often allied with HTC sense UI). Applications/ programs for these operating systems can be bought/ distributed on the internet.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Storage devices</title>
+      <link>https://vishvAsa.github.io/notes/computing/computer_architecture/Storage_devices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/computer_architecture/Storage_devices/</guid>
+      <description>&lt;h2 id=&#34;magnetic-storage&#34;&gt;Magnetic storage&lt;/h2&gt;&#xA;&lt;p&gt;Unlike optical storage, magnetic storage is re-writable.&lt;/p&gt;&#xA;&lt;h3 id=&#34;bus-interface&#34;&gt;Bus interface&lt;/h3&gt;&#xA;&lt;p&gt;While SCSI has a processor integrated into the controller, SATA makes greater use of the system processor to serve that function; the former is costlier.&lt;/p&gt;&#xA;&lt;h3 id=&#34;quality&#34;&gt;Quality&lt;/h3&gt;&#xA;&lt;p&gt;Hard disk drives differ mainly in speed, storage capacity, size, redundancy (RAID), error correction, shock resistance.&lt;/p&gt;&#xA;&lt;h4 id=&#34;best-and-economical&#34;&gt;Best and economical&lt;/h4&gt;&#xA;&lt;p&gt;Areal density doubling every two to four years since their invention. So, even 1TB is economical.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

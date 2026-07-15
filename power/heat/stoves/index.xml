@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Stoves on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/power/heat/stoves/</link>
+    <description>Recent content in &#43;Stoves on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/power/heat/stoves/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Induction</title>
+      <link>https://vishvAsa.github.io/notes/power/heat/stoves/induction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/power/heat/stoves/induction/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Induction heating - an induction coil inside the cook-top heats the iron base of cookware by magnetic induction.&lt;/li&gt;&#xA;&lt;li&gt;safety, efficiency (the induction cook-top is not heated itself) and speed.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Wood Stove</title>
+      <link>https://vishvAsa.github.io/notes/power/heat/stoves/wood-stove/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/power/heat/stoves/wood-stove/</guid>
+      <description>&lt;h2 id=&#34;desiderata&#34;&gt;Desiderata&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Protection from wind&lt;/li&gt;&#xA;&lt;li&gt;Fuel supply&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Continuous supply mechanism is better.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Air supply&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Bottom, top, sides in case of gasification.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Chimney effect support&lt;/li&gt;&#xA;&lt;li&gt;Portability&lt;/li&gt;&#xA;&lt;li&gt;Pot support&lt;/li&gt;&#xA;&lt;li&gt;Life&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Small gauge Iron wires degrade with use&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Repairability&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;gasification&#34;&gt;Gasification&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Aka wood gas.&lt;/li&gt;&#xA;&lt;li&gt;Gasifiers can separate gas generation from gas combustion in space and time. In a reactor (gas generator) that is optimized for heat-dependent drying and pyrolysis, solid biomass is first converted into gases and vapors. These are guided into a combustion zone (gas burner) where they are burnt with a surplus of oxygen from a secondary air inlet.&lt;/li&gt;&#xA;&lt;li&gt;In a conventional fire the heat is controlled by regulating the fuel supply: the more fuel we add, the more heat we generate, provided sufficient air is available for the combustion. Gasifiers control and optimize both fuel and air supply.&lt;/li&gt;&#xA;&lt;li&gt;Gasifier stoves are currently the cleanest burning option to burn solid biomass in a cook stove. The “gas burner” provides the convenience and efficiency similar to cooking on fossil gas with very little soot and other emissions.&lt;/li&gt;&#xA;&lt;li&gt;Heat output is not easy to regulate.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;design-patterns&#34;&gt;Design patterns&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Provide holes below&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;material&#34;&gt;Material&lt;/h3&gt;&#xA;&lt;h2 id=&#34;cubes-with-top-side-open&#34;&gt;Cubes with top side open&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;If the combustion area is large enough and not cramped, equivalent to burning wood out in the open. Or in principle equivalent to a &amp;ldquo;Cube with 2 sides open&amp;rdquo; type stove with pot on top.&lt;/li&gt;&#xA;&lt;li&gt;Example: traditional homa-kUNDa-s (Idealized).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;row&#34;&gt;&#xA;![](../images/kuNDa/tretAgni-kuNDas-alight.jpg)&#xA;{class=&#34;thumbnail&#34;}&#xA;![](../images/kuNDa/tretAgni-kuNDas-AhavanIya-alight.jpg)&#xA;{class=&#34;thumbnail&#34;}&#xA;![](../images/kuNDa/tretAgni-kuNDas-with-fire-pots.jpg)&#xA;{class=&#34;thumbnail&#34;}&#xA;&lt;/div&gt;&#xA;&lt;h3 id=&#34;characteristics&#34;&gt;Characteristics&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Consumes quite a bit of wood.&lt;/li&gt;&#xA;&lt;li&gt;Lot of smoke when the fire is low, and in the initial and terminal stages.&lt;/li&gt;&#xA;&lt;li&gt;Ash accumulation + charcoal creation observed.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;improvement-with-grill-and-sieve&#34;&gt;Improvement with grill and sieve&lt;/h3&gt;&#xA;&lt;p&gt;This seems to achieve characteristics similar to &amp;ldquo;Cube with 2 sides open + holes for ventilation at the bottom and sides&amp;rdquo; type described below.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

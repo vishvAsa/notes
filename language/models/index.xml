@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Models on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/language/models/</link>
+    <description>Recent content in &#43;Models on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/language/models/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Communication</title>
+      <link>https://vishvAsa.github.io/notes/language/models/communication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/language/models/communication/</guid>
+      <description>&lt;h2 id=&#34;speech-generation&#34;&gt;Speech generation&lt;/h2&gt;&#xA;&lt;p&gt;Speech generation involves the following tasks:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Intention: Generating the thought to be spoken in the internal&#xA;language of logic.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Generation: Translating the logical language into natural language.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Synthesis: Speaking the generated words with appropriate stresses,&#xA;accents etc..&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;speech-comprehension&#34;&gt;Speech comprehension&lt;/h2&gt;&#xA;&lt;h3 id=&#34;tasks&#34;&gt;Tasks&lt;/h3&gt;&#xA;&lt;p&gt;Speech comprehension involves the following tasks:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Perception: Translating the sounds heard or symbols seen to words or&#xA;tokens; this is akin to lexical analysis by compilers.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Analysis: Inferring a logical sentence equivalent to the spoken&#xA;words. This involves the following tasks:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Language</title>
+      <link>https://vishvAsa.github.io/notes/language/models/language/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/language/models/language/</guid>
+      <description>&lt;h2 id=&#34;definition&#34;&gt;Definition&lt;/h2&gt;&#xA;&lt;p&gt;A language model models the probability of every possible string being a sentence spoken by a human.&lt;/p&gt;&#xA;&lt;h2 id=&#34;applications&#34;&gt;Applications&lt;/h2&gt;&#xA;&lt;p&gt;Language models are useful in speech recognition, machine translation, handwriting recognition, machine translation, speech generation, (context sensitive) spelling correction etc..&lt;/p&gt;&#xA;&lt;h2 id=&#34;multi-set-of-words-model&#34;&gt;Multi-set of words model&lt;/h2&gt;&#xA;&lt;p&gt;This very simple model ignores word order - a very important information. It models $Pr(w_{1:m}) = \prod Pr(w_i)$; and the parameters of this model - the word occurrence probabilities - are easily estimated; and it is known to follow the Zipf&amp;rsquo;s law, which is a heavy tailed distribution. This is actually the 1-gram model, a member of the n-gram model family described elsewhere.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

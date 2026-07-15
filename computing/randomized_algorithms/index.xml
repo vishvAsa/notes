@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Randomized on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/randomized_algorithms/</link>
+    <description>Recent content in &#43;Randomized on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/randomized_algorithms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analysis of randomized algorithms</title>
+      <link>https://vishvAsa.github.io/notes/computing/randomized_algorithms/Analysis_of_randomized_algorithms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/randomized_algorithms/Analysis_of_randomized_algorithms/</guid>
+      <description>&lt;p&gt;See probabilistic analysis ref.&lt;/p&gt;&#xA;&lt;h2 id=&#34;general-tricks&#34;&gt;General Tricks&lt;/h2&gt;&#xA;&lt;p&gt;Running time of \textbf{MDP-algorithm}: Make Markov chain, make RV \(Z_{i}\) steps for going to absorbing state from i, get and solve recurrance eqns for \(E[Z_{i}]\).&lt;/p&gt;&#xA;&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;&#xA;&lt;p&gt;2-SAT rand alg needs \(O(n^{2})\) time. 3-SAT rand alg (without restart) needs \(O(n^{3/2}(\frac{4}{3})^{n})\) time as Pr(moving forward in Markov chain) \(&amp;lt; 1/2\). Max load Y when hash function from k-universal family used: \(Pr(Y &amp;gt; \sqrt[k]{2n})&amp;lt;2^{-1}\) (bounding expected number of collisions, use Markov).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Applications</title>
+      <link>https://vishvAsa.github.io/notes/computing/randomized_algorithms/Applications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/randomized_algorithms/Applications/</guid>
+      <description>&lt;p&gt;For number theory applications, see number theory ref.&lt;/p&gt;&#xA;&lt;h2 id=&#34;perfect-matchings&#34;&gt;Perfect matchings&lt;/h2&gt;&#xA;&lt;h3 id=&#34;bipartite-graph&#34;&gt;Bipartite graph&lt;/h3&gt;&#xA;&lt;p&gt;G = (U, V, E); \(|U| = |V| = n\). Matching: \(\set{e} \in E\) not sharing endpoints. Perfect matching (pm) has size n. Naive alg takes \(O((n!)n)\) time.&lt;/p&gt;&#xA;&lt;p&gt;Make symbolic matrix with \(A_{i,j} = x_{i,j}\) if \((u_{i}, v_{j})\in E\), else 0. Let Q(x) = det(A) : \(n^{2}\)-nomial, &amp;lsquo;symbolic determinant&amp;rsquo;. G has pm iff \(\exists r: Q(r) \neq 0\). \(deg(Q) \leq n\). Take prime \(p &amp;gt; 2n\), pick r from \(Z_{p}\); by Schwartz Zippel Thm, \(Pr(Q(r) = 0 | \exists r&amp;rsquo;|Q(r&amp;rsquo;) \neq 0) &amp;lt; 2^{-1}\).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Approximation algorithms</title>
+      <link>https://vishvAsa.github.io/notes/computing/randomized_algorithms/Approximation_algorithms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/randomized_algorithms/Approximation_algorithms/</guid>
+      <description>&lt;h2 id=&#34;lp-based-approximation-algorithms&#34;&gt;LP based Approximation algorithms&lt;/h2&gt;&#xA;&lt;p&gt;Rephrase (maybe NP hard) problem as Integer Programming problem; Make LP relaxation; solve in polytime; translate solution by rounding; make \((\del, \eps)\) approximation guarantees. Rounding choices: To closest integer, or randomized rounding.&lt;/p&gt;&#xA;&lt;h3 id=&#34;vertex-cover-problem&#34;&gt;Vertex cover problem&lt;/h3&gt;&#xA;&lt;p&gt;G=(V,E). IP: Vars \(v_{i}\) = 0 or 1, \(\forall (i,j) \in E, v_{i}+v_{j} \geq 1\), \(\min \sum v_{i} = ?\); LP relaxation: \(\hat{v}&lt;em&gt;{i} \in [0,1]\); solution \(\sum \hat{v}&lt;/em&gt;{i} \leq opt \leq \sum v_{i}\); round to nearest int to get approx soln \(\set{v_{i}}\); as \(v_{i} \leq 2 \hat{v}&lt;em&gt;{i}\): \(\sum v&lt;/em&gt;{i} \leq 2 opt\).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Derandomization, explicit construction</title>
+      <link>https://vishvAsa.github.io/notes/computing/randomized_algorithms/Derandomization_explicit_construction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/randomized_algorithms/Derandomization_explicit_construction/</guid>
+      <description>&lt;h2 id=&#34;derandomization&#34;&gt;Derandomization&lt;/h2&gt;&#xA;&lt;p&gt;Design algorithm which uses random choices; Replace random choice with choice which maximizes conditional expectation; Eg: find \(\geq \frac{|E|}{2}\) cut in G=(V, E). Devise rand alg which uses n 2-wise ind bits; enumerate all values for \(\log n\) truly ind bits, make n 2-wise ind bits and run rand alg.&lt;/p&gt;&#xA;&lt;h2 id=&#34;explicit-construction-algorithms&#34;&gt;Explicit construction algorithms&lt;/h2&gt;&#xA;&lt;p&gt;Sample values for some variables, show that desired object still exists, use exhaustive search for other variables.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Generate random bits</title>
+      <link>https://vishvAsa.github.io/notes/computing/randomized_algorithms/Generate_random_bits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/randomized_algorithms/Generate_random_bits/</guid>
+      <description>&lt;p&gt;Random bit generator is usually a physical device. Usually, \(Pr(X = 1) = p\); from this, easily get random generator with \(Pr(X = 1) = 1/2\): flip every alternate bit. Flippling every t-th bit, get Pr(X = 1) = 1/t.&lt;/p&gt;&#xA;&lt;h2 id=&#34;2-wise-independent-bits-generation&#34;&gt;2-wise independent bits generation&lt;/h2&gt;&#xA;&lt;p&gt;\(2^{b}-1\) 2-ind bits \(Y_{i}\) from b ind bits \(X_{i}\): For each subset, \(Y_{i}=\oplus X_{i}\). In GF(p), p 2-ind elements from 2 ind elements: \(Y_{i}=(X_{1}+iX_{2}) \mod p\) for every i in GF(p). 2-universal (\(Pr(h(x) = h(x&amp;rsquo;)) \leq n^{-1}\)) hash function family: H has \(h:U \to V; |V| = n; a, b \in GF(p), a \neq 0\); \(h_{a,b}(x) = ((b+xa) \mod p) \mod n\). If a can be 0, strongly 2-universal (\(Pr(h(x) = y, h(x&amp;rsquo;)=y&amp;rsquo;) = n^{-2}\)).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Inference</title>
+      <link>https://vishvAsa.github.io/notes/computing/randomized_algorithms/Inference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/randomized_algorithms/Inference/</guid>
+      <description>&lt;p&gt;Here we only consider inference by sampling. Inference techniques particular to various model classes are considered elsewhere.&lt;/p&gt;&#xA;&lt;h2 id=&#34;inference-problems&#34;&gt;Inference problems&lt;/h2&gt;&#xA;&lt;p&gt;Find Pr(X=x) or \(Pr(X=x|Y=y)\). Inference algorithms may be exact or approximate.&lt;/p&gt;&#xA;&lt;p&gt;Or find E[X] or \(E[X|Y=y]\).&lt;/p&gt;&#xA;&lt;p&gt;Or find the mode of \(Pr(X=x|Y=y)\): as done in case of Maximum likelihood estimation.&lt;/p&gt;&#xA;&lt;h3 id=&#34;difficulty-in-calculating-prxx&#34;&gt;Difficulty in calculating Pr(X=x)&lt;/h3&gt;&#xA;&lt;p&gt;Pr(X=x) can be difficult to calculate analytically. One could specify \(Pr(X=x) = Z^{-1}f(x)\) by leaving the normalization constant Z unspecified, and describing only \(f(x)\).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sampling from distribution</title>
+      <link>https://vishvAsa.github.io/notes/computing/randomized_algorithms/Sampling_from_distribution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/randomized_algorithms/Sampling_from_distribution/</guid>
+      <description>&lt;h2 id=&#34;sampling-a-random-variable-x&#34;&gt;Sampling a random variable X&lt;/h2&gt;&#xA;&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;&#xA;&lt;p&gt;The pseudo random number generator yields a sequence of almost independent random bits: see randomized alg ref. How do you use them to sample from a given distribution?&lt;/p&gt;&#xA;&lt;h4 id=&#34;visualization&#34;&gt;Visualization&lt;/h4&gt;&#xA;&lt;p&gt;Want to &amp;lsquo;cover&amp;rsquo; the entire range(X) by the sampling: visualize as throwing darts in a oval: dart density corresponds to probability; the shape formed by the darts corresponds to the Pr(X) contour.&lt;/p&gt;&#xA;&lt;h4 id=&#34;challenges&#34;&gt;Challenges&lt;/h4&gt;&#xA;&lt;p&gt;Can&amp;rsquo;t sample from \(\Re\): computer can&amp;rsquo;t even store all possible \(\Re\). So, must sample from Q.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ways of making randomized algorithms</title>
+      <link>https://vishvAsa.github.io/notes/computing/randomized_algorithms/Ways_of_making_randomized_algorithms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/randomized_algorithms/Ways_of_making_randomized_algorithms/</guid>
+      <description>&lt;h2 id=&#34;algs-for-problems-in-the-class-rp&#34;&gt;Algs for problems in the class RP&lt;/h2&gt;&#xA;&lt;p&gt;One sided error; success probability \(p = Pr(f(x) = 1|x\in L) \geq 2^{-1}\).&lt;/p&gt;&#xA;&lt;h3 id=&#34;amplification-of-confidence-of-rp-alg&#34;&gt;Amplification of confidence of RP alg&lt;/h3&gt;&#xA;&lt;h4 id=&#34;monte-carlo-search-alg&#34;&gt;&amp;lsquo;Monte Carlo&amp;rsquo; search alg&lt;/h4&gt;&#xA;&lt;p&gt;Sample a solution, check correctness, repeat t times, lower bound p. If trials n-wise independent: tn random bits; failure probability: \((1-p)^{t} \approx e^{-tp}\leq 2^{-tp} \to 0\) for large t. So, even if \(p = (poly(n))^{-1}\); for t = poly&amp;rsquo;(n), success whp.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

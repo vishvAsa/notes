@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Statistics on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/probability/statistics/</link>
+    <description>Recent content in &#43;Statistics on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/math/probability/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clustering</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/clustering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/clustering/</guid>
+      <description>&lt;h2 id=&#34;the-clustering-problem&#34;&gt;The clustering problem&lt;/h2&gt;&#xA;&lt;p&gt;Given \(N\) points, want \(k\) clusters. Often, \(k\) is not known.&lt;/p&gt;&#xA;&lt;h3 id=&#34;use&#34;&gt;Use&lt;/h3&gt;&#xA;&lt;p&gt;Summarizing data is important for generalization, understanding future data points.&lt;/p&gt;&#xA;&lt;p&gt;Supplying labels to unlabeled data; thence classifying new data-points. Eg: Face recognition using Eigenfaces. Use to estimate distribution support and thence in novelty detection.&lt;/p&gt;&#xA;&lt;h3 id=&#34;criteria-continuity-vs-compactness&#34;&gt;Criteria: Continuity vs compactness&lt;/h3&gt;&#xA;&lt;p&gt;Consider a starfish: The continuity critierion will identify the 5 arms as 5 clusters, but the comactness criterion will fail. Consider points produced from two gaussians with distinct centers: the compactness criterion appears better.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data preparation</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/data_preparation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/data_preparation/</guid>
+      <description>&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;&#xA;&lt;p&gt;Data preparation often involves massaging attribute values to fit the requirements of operators/ models. For example, some operators cannot handle continuous values, others cannot handle polynomial values, some have problem with missing data.&lt;/p&gt;&#xA;&lt;h2 id=&#34;changing-the-range&#34;&gt;Changing the range&lt;/h2&gt;&#xA;&lt;p&gt;Ploynominal features can be converted to binomial features using a binary representation.&lt;/p&gt;&#xA;&lt;p&gt;Binominal features can be treated as numeric inputs.&lt;/p&gt;&#xA;&lt;p&gt;Continuous valued features can be converted to discrete valued features by binning them. The bins may be defined by a regular grid on the range, or irregularly to ensure roughly equal cardinality.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data representation</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/data_representation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/data_representation/</guid>
+      <description>&lt;h2 id=&#34;feature-extraction&#34;&gt;Feature extraction&lt;/h2&gt;&#xA;&lt;p&gt;Use some \(\ftr\): d-dim X formed by input vars \(\to\) m-dim Feature space; \(\ftr\) is a vector function. Basis of feature space are the &amp;lsquo;basis functions&amp;rsquo; \((\ftr_{i})\). \tbc&lt;/p&gt;&#xA;&lt;h3 id=&#34;dimensionality-reduction&#34;&gt;Dimensionality reduction&lt;/h3&gt;&#xA;&lt;p&gt;Remove irrelevant/ less relevant features, merge duplicate features. Eg: synonymous words in documents.&lt;/p&gt;&#xA;&lt;h4 id=&#34;importance&#34;&gt;Importance&lt;/h4&gt;&#xA;&lt;p&gt;Treating duplicate features as if they were different harms ability to classify or cluster data points. Irrelevent features also harm predictive ability, by acting as noise.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Decision procedure selection</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/decision_procedure_selection/</guid>
+      <description>&lt;h2 id=&#34;overview-motivation&#34;&gt;Overview, motivation&lt;/h2&gt;&#xA;&lt;p&gt;Some discipline is necessary in order to avoid common errors which consume effort and resources. The below describes steps common to many problems including density estimation and classification.&lt;/p&gt;&#xA;&lt;p&gt;Formulate the problem in decision theoretic terms properly - pick an appropriate &amp;lsquo;risk/ loss function&amp;rsquo; (possibly incorporating prior belief), a candidate feature set. Then fix a model family (possibly after a literature survey) and develop a model selection procedure. Then use empirical risk estimation using cross validation in order to avoid overfitting to training data. Repeat.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Decision theory</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/decision_theory/</guid>
+      <description>&lt;p&gt;Certain elements common to probability density estimation, distribution structure learning (including classification) etc.. can be studied within the abstract framework of decision theory.&lt;/p&gt;&#xA;&lt;h2 id=&#34;agents-actions-policies&#34;&gt;Agents: Actions, policies&lt;/h2&gt;&#xA;&lt;p&gt;How should an agent act in the face of uncertainty, given some observations? Our objective is to find good decision procedures for the agent.&lt;/p&gt;&#xA;&lt;p&gt;Like a game against nature. See game theory reference for adversarial games.&lt;/p&gt;&#xA;&lt;h3 id=&#34;state-and-parameters&#34;&gt;State and parameters&lt;/h3&gt;&#xA;&lt;h4 id=&#34;state-space&#34;&gt;State space&lt;/h4&gt;&#xA;&lt;p&gt;The state of nature changes, possibly in response to actions made by an agent. The agent must act optimally in some sense in the presence of uncertainty.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dimensionality reduction</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/dimensionality_reduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/dimensionality_reduction/</guid>
+      <description>&lt;h2 id=&#34;general-motivations&#34;&gt;General motivations&lt;/h2&gt;&#xA;&lt;p&gt;Perhaps one wants to find closest vectors to a given vector - perhaps for the purpose of executing the nearest neighbor algorithm.&lt;/p&gt;&#xA;&lt;p&gt;Computational efficiency - as in the case of Most variable subspace identification (PCA).&lt;/p&gt;&#xA;&lt;p&gt;Noise reduction - it could be that many of the features in a vector are not very informative.&lt;/p&gt;&#xA;&lt;h2 id=&#34;latent-factor-modeling&#34;&gt;Latent factor modeling&lt;/h2&gt;&#xA;&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;&#xA;&lt;p&gt;Here, one derives generative models to describe  affinity of one discrete variable (say \(U\)) with another (say \(V\)): eg: features and objects, documents and words.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hypothesis testing</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/hypothesis_testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/hypothesis_testing/</guid>
+      <description>&lt;h2 id=&#34;model-selection-given-2-models&#34;&gt;Model selection given 2 models&lt;/h2&gt;&#xA;&lt;p&gt;Aka Confirmatory data analysis: Test hypotheses, as against Exploratory data analysis: Find hypotheses worth testing.&lt;/p&gt;&#xA;&lt;p&gt;Which process is more likely to have generated the data? Which model is better at explaining the observations? Model selection, with only 2 models.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hypotheses&#34;&gt;Hypotheses&lt;/h2&gt;&#xA;&lt;h3 id=&#34;null-hypothesis&#34;&gt;Null hypothesis&lt;/h3&gt;&#xA;&lt;p&gt;\(H_{0}: t = t_{0}\) or \(t\leq t_{0}\)&lt;/p&gt;&#xA;&lt;h3 id=&#34;alternate-hypothesis&#34;&gt;Alternate hypothesis&lt;/h3&gt;&#xA;&lt;p&gt;\(H_{a}\); can be 1 sided like \(t &amp;gt; t_{a}\) or 2 sided: \(t \neq t_{0}\) or \(|t-t_{0}| \geq k\).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sample</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/sample/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/sample/</guid>
+      <description>&lt;p&gt;A statistical population exists. Thence, a sample of \(N\) points is drawn, from which we attempt to infer properties of the population.&lt;/p&gt;&#xA;&lt;h2 id=&#34;properties&#34;&gt;Properties&lt;/h2&gt;&#xA;&lt;p&gt;Sample statistics are considered elsewhere in the &lt;a href=&#34;../distribution_structure_learning/&#34;&gt;distribution structure learning&lt;/a&gt; pages.&lt;/p&gt;&#xA;&lt;h3 id=&#34;sample-bias&#34;&gt;Sample bias&lt;/h3&gt;&#xA;&lt;p&gt;Pick 2 people: he is either Indian or Chinese; but there exist over 180 other countries.&lt;/p&gt;&#xA;&lt;h3 id=&#34;completeness-accuracy-of-examples&#34;&gt;Completeness, accuracy of examples&lt;/h3&gt;&#xA;&lt;p&gt;It is possible that, some points are not completely specified. For a certain point \(X\), the component \(X_j\) may not be specified. This ambiguity allows optional auxiliary data to be considered.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,140 @@
+\documentclass{article}
+\input{../../../packagesMemoir}
+\input{../../../macros}
+\input{../../../amsartMacros}
+\lstset{language=matlab}
+
+
+%opening
+\title{Non Linear Programming: Exam 1}
+\author{vishvAs vAsuki}
+
+\begin{document}
+
+\maketitle
+
+\section{}
+\subsection{Problem setup}
+$Pr(x = a_i) = p_i$; $a_1 < a_2 .. < a_n$. P is the probability simplex, formed by all p : $1^{T}p = 1, p \geq 0$.
+
+\subsection{a}
+$\ga \leq E[f(x)] = \sum_i p_i f(a_i)\leq \gb$. This is convex: intersection of halfspaces.
+
+\subsection{b}
+$Pr(x>\ga) = \sum_{a_i> \ga}p_i \leq \gb$. Convex.
+
+\subsection{c}
+$var(X) = E[X^{2}] - (E[X]^{2})\leq \ga$. Not convex.
+
+\subsection{d}
+$var(X) = E[X^{2}] - (E[X]^{2})\geq \ga$. Not convex.
+
+\subsection{e}
+$quartile(x) = \inf\set{b: Pr(x \leq b) \geq 0.25} \geq \ga \equiv Pr(x < \ga) \leq 0.25$: convex.
+
+\subsection{f}
+$quartile(x) \leq \ga$. Convex.
+
+\subsection{g}
+$E[f(x)] = \sum p_i f(a_i)$: convex in p.
+
+\subsection{h}
+$Pr(\ga \leq x \leq \gb)$: convex in p.
+
+\subsection{i}
+var(x) : doesn't look as if it fits any category. \chk
+
+\subsection{j}
+quartile(x) : quasilinear.
+
+\section{}
+$f^{*}(y) = \sup_{x \in dom(f)} y^{T}x - f(x)$.
+
+\subsection{a}
+\begin{eqnarray*}
+h_1(x) &=& f(x) + c^{T}x + d\\
+h_1^{*}(y) &=& \sup_{x \in dom(f)} y^{T}x - f(x) - c^{T}x - d\\
+&=& \sup_{x \in dom(f)} (y - c)^{T}x - f(x) - d\\
+&=& f^{*}(y-c) - d \texttt{ if } y\neq c \\
+&=&  \sup_{x \in dom(f)} -f(x) - d \texttt{ if } y= c \\
+\end{eqnarray*}
+
+
+\subsection{b}
+\begin{eqnarray*}
+h_2(x, t) &=& tf(x/t), dom(h_2) = \set{(x, t)|t>0, x/t \in dom(f)}\\
+h_2^{*}(y) &=& \sup_{(x, t) \in dom(h_2)} y^{T}x - tf(x/t)\\
+&=& \sup_{(x, t) \in dom(h_2)} y^{T}x - tf(x/t)\\
+&=& \sup_{(x, t) \in dom(h_2)} t(y^{T}(x/t) - f(x/t))\\
+&=& \sup_{t>0}t \sup_{x/t \in dom(f)} (y^{T}(x/t) - f(x/t))\\
+&=& \sup_{t>0} t f^{*}(y)\\
+\end{eqnarray*}
+
+$dom(h_2^{*}) = \set{y| \exists k: \forall t: tf^{*}(y) \leq k}$.
+
+\subsection{c}
+\begin{eqnarray*}
+h_3(x) &=& \inf_z \set{f(z)|Az + b = x}\\
+h_2^{*}(y) &=& \sup_{x \in dom(h_3)} y^{T}x - \inf_{z: Az + b = x} f(z)\\
+&=& \sup_{x = Az + b, z\in dom(f) } y^{T}(Az + b) - \inf_{z} f(z)\\
+&=& y^{T}b + \sup_{z\in dom(f) } y^{T}A z - f(z)\\
+&=& y^{T}b + f^{*}(A^{T}y)\\
+\end{eqnarray*}
+
+
+\subsection{d}
+\begin{eqnarray*}
+h_4(x) &=& f(Ax + b)\\
+h_4^{*}(y) &=& \sup_{x \in dom(h_4)} y^{T}x - f(Ax + b)\\
+\end{eqnarray*}
+
+Consider the optimization problem: $\min_{w, x} f_0(w, x) = f(w) - y^{T}x : Ax + b = w$. The optimal value attained for this problem is $-h_4^{*}(y)$.
+
+Consdier the dual of this problem: $\sup_m -f_0^{*}(A^{T}m - m) - bm$. As strong duality holds, we can say that $-h_4^{*}(y) = \sup_m -f_0^{*}(A^{T}m - m) - bm$.
+
+Now, consider the relationship betweeen $f(y)^{*}$ and $f_0^{*}(y)$.
+\begin{eqnarray*}
+f^{*}(t) &=& \sup_x t^{T}x - f_0(x) - y^{T}x\\
+&=& f_0^{*}(t-y)\\
+\therefore -h_4^{*}(y) &=& \sup_m -f^{*}(A^{T}m - m + y) - bm\\
+\therefore h_4^{*}(y) &=& \sup_m f^{*}(A^{T}m - m + y) + bm\\
+\end{eqnarray*}
+
+
+\subsection{e}
+\begin{assumption}
+$dom(f_1) = dom(f_2)$.
+\end{assumption}
+
+
+\begin{eqnarray*}
+h_5(x) &=& f_1(x) + f_2(x)\\
+h_5^{*}(y) &=& \sup_{x \in dom(f_1) \inters dom(f_2)}y^{T}x - f_1(x) - f_2(x)\\
+\texttt{Let }y &=& y_1 + y_2\\
+h_5^{*}(y) &=& \sup_{x}y_1^{T}x - f_1(x) + y_2^{T}x - f_2(x)\\
+\end{eqnarray*}
+\tbc
+
+\subsection{f}
+\begin{eqnarray*}
+h_6(x) &=& \max \set{f_1(x), f_2(x)}\\
+h_6^{*}(y) &=& \sup_{x}y^{T}x - \max \set{f_1(x), f_2(x)}\\
+\end{eqnarray*}
+\tbc
+
+
+\section{}
+Submitted handwritten.
+
+\section{}
+Submitted handwritten.
+
+\section{}
+Submitted handwritten.
+
+
+
+% \bibliographystyle{plain}
+% \bibliography{../linAlg}
+
+\end{document}

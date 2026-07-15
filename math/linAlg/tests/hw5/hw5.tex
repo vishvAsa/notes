@@ -1,0 +1,197 @@
+\documentclass[10pt]{amsart}
+\usepackage{amssymb, graphics, bm, verbatim, algorithm2e}
+
+\input{../../macros}
+
+\newtheorem{thm}{Theorem}[subsection]
+\newtheorem{cor}[thm]{Corollary}
+\newtheorem{lem}[thm]{Lemma}
+
+\theoremstyle{remark}
+\newtheorem{defn}[thm]{Definition}
+\newtheorem*{notation}{Notation}
+\newtheorem{alg}[thm]{Algorithm}
+\newtheorem{rem}[thm]{Remark}
+
+%opening
+\title{Linear Algebra: Answer to Homework 5}
+\author{vishvAs vAsuki}
+
+\begin{document}
+
+\maketitle
+
+\section{20.4}
+The Gaussian elimination algorithm:\\
+
+\begin{algorithm}[H]
+\SetLine
+\KwIn{A}
+\KwOut{L, U}
+U = A\\
+L = I\\
+\ForEach{k = 1 to m-1}{
+\ForEach{j = k+1 to m}{
+$l_{j,k} = u_{j,k}/u_{k,k}$\\
+$u_{j,k:m} = u_{j,k:m} - l_{j,k}u_{k,k:m}$\\
+}
+}
+\end{algorithm}
+
+This code can be rewritten using just one explicit for loop indexed by k. Inside this loop, U will be updated at each step by a certain rank one matrix.
+
+\begin{algorithm}[H]
+\SetLine
+\KwIn{A}
+\KwOut{L, U}
+U = A\\
+L = I\\
+\ForEach{k = 1 to m-1}{
+$l_{k} = 0 (u_{1:m,k})$\\
+$l_{k+1:m,k} = l_{k} + \frac{u_{k+1:m,k}}{u_{k,k}}$\\
+$L_{k} = I - l_{k}e_{k}^{*}$\\
+$U = L_{k}U$\\
+}
+\end{algorithm}
+
+\section{20.5}
+Gaussian elimination yields A=LU.
+
+\subsection{a}
+Scenario: Elimination by columns from left to right, rather than by rows from top to bottom, so that A is made lower triangular.
+
+Yields LU factorization.
+
+Reason: These Column operations can be represented by right multiplication by upper triangular matreces.
+
+\subsection{b}
+Scenario: Gaussian elimination applied after preliminary scaling of columns of A by multiplication with diagonal matrix D.
+
+So, if $DA = LU; A = D^{-1}LU$.
+
+So, Ax=b is $Ax = D^{-1}LUx = b$; so LUx = Db. So, b is scaled.
+
+\subsection{c}
+Scenario: Gaussian elimination carried further, so that A, assumed non singular, is reduced to upper triangular and thence to diagonal.
+
+Yields the $A = LDU$ factorization; where L and U are unit triangular.
+
+\section{}
+\begin{rem}
+Below the inequalities such as the triangle inequality and the Cauchy Schwartz inequality, and the inequality due to the definition of the induced matrix norm are used without being explicitly mentioned each time.
+\end{rem}
+
+\subsection{}
+\begin{notation}
+$\eps$ denotes $\eps_{machine}$.
+\end{notation}
+
+\begin{thm}
+(Forward-error analysis)
+$$|fl(x^Ta)-x^Ta|\leq n\eps|x|^T|a|+O(\eps^2),$$
+where $x, a$ are $n$-dimensional floating point vectors and $fl(x^Ta)$ represents floating point computation of dot product between $x$ and $a$.
+\end{thm}
+\begin{proof}
+\begin{rem}
+In the calculations below, we ignore the $\eps^{2}$ terms, as doing so does not affect the soundness of the proof.
+\end{rem}
+
+Proof by induction.
+\begin{eqnarray*}
+fl(x_{i}a_{i} ) &\leq& x_{i}a_{i}(1 + \eps)\\
+|fl(x_{i}a_{i} ) - x_{i}a_{i}| &\leq& \eps |x_{i}a_{i}| \\
+&&\texttt{Assume that:}\\
+|fl(\sum_{i=1}^{m} x_{i}a_{i} ) - (\sum_{i=1}^{m}x_{i}a_{i})| &\leq& m\eps\sum_{i=1}^{m} |x_{i}a_{i}|+ O(\eps^{2})\\
+\\
+fl(\sum_{i=1}^{m+1} x_{i}a_{i}) &\leq& (fl(\sum_{i=1}^{m} x_{i}a_{i})) + x_{i+1}a_{i+1}(1 + \eps))(1+\eps)\\
+&\leq& fl(\sum_{i=1}^{m} x_{i}a_{i}) + x_{i+1}a_{i+1}(1+\eps)+\eps(fl(\sum_{i=1}^{m} x_{i}a_{i})) \\
+&& + O(\eps^{2})\\
+\\
+|fl(\sum_{i=1}^{m+1} x_{i}a_{i}) - (\sum_{i=1}^{m+1}x_{i}a_{i})| &\leq& |fl(\sum_{i=1}^{m} x_{i}a_{i}) - (\sum_{i=1}^{m}x_{i}a_{i})|+\eps(|fl(\sum_{i=1}^{m} x_{i}a_{i}|)\\
+&& + O(\eps^{2}) + \eps|x_{i+1}a_{i+1}|\\
+&\leq& m\eps\sum_{i=1}^{m} |x_{i}a_{i}|+ O(\eps^{2})+\eps(|fl(\sum_{i=1}^{m} x_{i}a_{i})|)\\
+&& + \eps|x_{i+1}a_{i+1}|\\
+&\leq& (m)\eps\sum_{i=1}^{m} |x_{i}a_{i}|+ \eps\sum_{i=1}^{m+1} |x_{i}a_{i}| + O(\eps^{2})\\
+&\leq& (m+1)\eps\sum_{i=1}^{m+1} |x_{i}a_{i}|+ O(\eps^{2})\\
+\end{eqnarray*}
+
+\end{proof}
+
+\subsection{}
+\begin{thm}
+(Forward-error analysis)
+$$\norm{fl(XA)-XA}_F\leq n\epsilon_{machine}\norm{X}_F\norm{A}_F+O(\epsilon_{machine}^2),$$
+where $X, A$ are $n\times n$ dimensional floating  point matrices %\in \mathbb{R}^{n\times n}$ %B\in \mathbb{R}^{n\times p}$ 
+and $fl(XA)$ represents floating point computation of matrix multiplication between $X$ and $A$ using dot-products. 
+\end{thm}
+\begin{proof}
+\begin{notation}
+Let M = fl(XA)-XA. $x_{i}^{*}$ represents ith row of X.
+\end{notation}
+
+\begin{eqnarray*}
+|M_{i,j}| &=& |fl(x_{i}^{*}a_{j})-x_{i}^{*}a_{j}|\\
+&\leq& n\eps|x_{i}|^T|a_{j}|+O(\eps^2) \texttt{ From earlier thm}\\
+M_{i,j}^{2} &\leq& n^{2}\eps^{2}(x_{i}^*a_{j})^{2}+O(\eps^3)+O(\eps^4)\\
+\sum M_{i,j}^{2} &\leq& \sum n^{2}\eps^{2}(x_{i}^*a_{j})^{2}+O(\eps^3)+O(\eps^4)\\
+\norm{M}_{F}^{2} &\leq& n^{2}\eps^{2}\norm{XA}_{F}^{2}+O(\eps^3)+O(\eps^4)\\
+\therefore \norm{M}_{F} &\leq& n\eps\norm{XA}_{F}+O(\eps^2)\\
+\therefore \norm{M}_{F} &\leq& n\eps\norm{X}_{F}\norm{A}_{F}+O(\eps^2)\\
+\end{eqnarray*}
+\end{proof}
+
+
+\subsection{}
+\begin{thm}
+(Backward-error analysis)
+Suppose $fl(XA) = X(A+\del A)$ and $k(X) = \norm{X}_{F}\norm{X^{-1}}_{F}$.
+The relative backward error $\frac{\norm{\del A}_F}{\norm{A}_F}\leq k(X)O(\epsilon_{machine})$.
+\end{thm}
+\begin{proof}
+\begin{eqnarray*}
+fl(XA) &=& XA+X\del A\\
+\norm{X\del A}_{F} &=& \norm{fl(XA) - XA}_{F}\\
+&\leq& n\eps\norm{X}_{F}\norm{A}_{F}+O(\eps^2)\\
+\frac{\norm{X\del A}_{F}}{\norm{A}_{F}}&\leq& n\eps\norm{X}_{F}+O(\eps^2)\\
+\frac{\norm{X^{-1}}_{F}\norm{X\del A}_{F}}{\norm{A}_{F}}&\leq& n\eps\norm{X}_{F}\norm{X^{-1}}_{F}+O(\eps^2)\\
+\therefore \frac{\norm{X^{-1}X\del A}_{F}}{\norm{A}_{F}}&\leq& n\eps\norm{X}_{F}\norm{X^{-1}}_{F}+O(\eps^2)\\
+\therefore \frac{\norm{\del A}_{F}}{\norm{A}_{F}}&\leq& O(\eps)k(X)\\
+\end{eqnarray*}
+\end{proof}
+
+
+\section{}
+Let $x$ be the solution of $Ax = b$, where $A$ is square and
+invertible.  Carry out the perturbation analysis when \emph{both} the
+matrix $A$ and the vector $b$ is perturbed.
+
+Let $\tilde{x} = x + \delta x$ such that $(A+\delta A)\tilde{x} = b+\delta b$.  
+
+\begin{thm}
+$$\frac{\norm{\del x}}{\norm{x}} \leq
+\frac{\kappa(A)}{1-\kappa(A)\frac{\norm{\del A}}{\norm{A}}}
+\left(\frac{\norm{\del A}}{\norm{A}} + \frac{\|\delta b\|}{\|b\|}\right),$$
+provided that $\delta A$ is sufficiently small, in our case assume that
+$\norm{A^{-1}}\norm{\del A} < 1$.  The matrix norm is the induced norm
+obtained from the vector norm used and $\kappa(A) =
+\norm{A}\norm{A^{-1}}$.
+\end{thm}
+\begin{proof}
+\begin{rem}
+Below the inequalities such as the triangle inequality and the Cauchy Schwartz inequality, and the inequality due to the definition of the induced matrix norm are used without being explicitly mentioned each time.
+\end{rem}
+\begin{eqnarray*}
+(A+\del A) (x+ \del x) & = & b + \del b\\
+\del x & = & A^{-1}(\del b - \del A x) - A^{-1}\del A \del x\\
+\norm{\del x} &\leq& \norm{A^{-1}}(\norm{\del b} + \norm{\del A x}) + \norm{A^{-1}\del A \del x}\\
+&\leq& \norm{A^{-1}}\norm{A}(\frac{\norm{\del b}}{\norm{A}} + \frac{\norm{\del A x}}{\norm{A}}) + \norm{A^{-1}}\norm{\del A}\norm{\del x}\\
+(1-k(A)\frac{\norm{\del A}}{\norm{A^{-1}}})\norm{\del x}&\leq& k(A)(\frac{\norm{\del b}}{\norm{A}} + \frac{\norm{\del A x}}{\norm{A}})\\
+\frac{\norm{\del x}}{\norm{x}} &\leq& \frac{k(A)}{(1-k(A)\frac{\norm{\del A}}{\norm{A^{-1}}})}(\frac{\norm{\del b}}{\norm{A}\norm{x}} + \frac{\norm{\del A x}}{\norm{A}\norm{x}})\\
+&\leq & \frac{k(A)}{(1-k(A)\frac{\norm{\del A}}{\norm{A^{-1}}})}(\frac{\norm{\del b}}{\norm{b}} + \frac{\norm{\del A}}{\norm{A}})\\
+\end{eqnarray*}
+
+\end{proof}
+
+
+\end{document}
+

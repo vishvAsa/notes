@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Convex prog on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/</link>
+    <description>Recent content in &#43;Convex prog on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1 Quadratic</title>
+      <link>https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/1_quadratic/</guid>
+      <description>&lt;p&gt;For ideas about its importance - both in solving general convex optimization problems and in other domains, look at the &amp;lsquo;Least squares&amp;rsquo; chapter.&lt;/p&gt;&#xA;&lt;h2 id=&#34;linear-constrained-qp&#34;&gt;Linear Constrained QP&lt;/h2&gt;&#xA;&lt;p&gt;Aka Quadratic programming. Minimize convex quadratic functional over a polyhedron (see vector spaces survey). Generalizes linear programming, special case of QCQP.&lt;/p&gt;&#xA;&lt;h3 id=&#34;visualization&#34;&gt;Visualization&lt;/h3&gt;&#xA;&lt;p&gt;If optimal value occurs when a constraint is active: Think of contours of the objective hitting an edge of the polyhedron. Slightly harder than in the LP case, where the minimum always occured in a vertex.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2 General</title>
+      <link>https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/2_general/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/optimization/4_convex_programming/2_general/</guid>
+      <description>&lt;h2 id=&#34;the-problem&#34;&gt;The problem&lt;/h2&gt;&#xA;&lt;h3 id=&#34;importance-efficient-solvability&#34;&gt;Importance, efficient solvability&lt;/h3&gt;&#xA;&lt;p&gt;Superset of LP. Many problems in nature are convex optimization problems. Many non-convex problems have convex equivalents : see section on modelling/ specifying optimization problems.&lt;/p&gt;&#xA;&lt;p&gt;(Nesterov, Nemorinsky) For any convex optimization problem, there exists self concordant barrier functions; so interior point methods and barrier methods can be made applicable: This is a non constructive proof. So, there exists a polynomial time algorithm for every convex optimization problem, but you will find it with certainty only if you can find these self concordant barrier functions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

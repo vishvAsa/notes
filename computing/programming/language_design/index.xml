@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Language Design on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/programming/language_design/</link>
+    <description>Recent content in &#43;Language Design on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/programming/language_design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abstraction from Hardware</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/language_design/hw_abstraction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/language_design/hw_abstraction/</guid>
+      <description>&lt;h3 id=&#34;view-of-memory&#34;&gt;View of memory&lt;/h3&gt;&#xA;&lt;p&gt;If in writing code, one thinks in terms of instructions and data which&#xA;can be understood by a processor (eg: bytes in the main memory,&#xA;registers, hardware IO signals), one is working with a low level&#xA;language.&lt;/p&gt;&#xA;&lt;p&gt;High level languages allow the programmer to think of memory locations&#xA;and data more abstractly/ declaratively by starting with assumptions&#xA;that there exist memory locations with certain properties which will be&#xA;bound to variables used by the programmer by the compiler with the OS’s&#xA;help.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Decision structures</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/language_design/decision_structures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/language_design/decision_structures/</guid>
+      <description>&lt;p&gt;The conciseness and clarity of expression of branching and iterative&#xA;operation in different languages is different.&lt;/p&gt;&#xA;&lt;h2 id=&#34;branching&#34;&gt;Branching&lt;/h2&gt;&#xA;&lt;p&gt;The if-else structure is the most basic decision structure, using which&#xA;more convenient decision structures like the if-elseif.. structure is&#xA;defined.&lt;/p&gt;&#xA;&lt;h2 id=&#34;matching-a-value&#34;&gt;Matching a value&lt;/h2&gt;&#xA;&lt;p&gt;Different branches of execution often depend on different tests&#xA;performed over the value of an expression. This is provided in terms of&#xA;the ’match with various cases’ construct.&lt;/p&gt;&#xA;&lt;h2 id=&#34;iterative-operations&#34;&gt;Iterative operations&lt;/h2&gt;&#xA;&lt;p&gt;The essential ingredients of an iteration are the starting state, the&#xA;code to be executed and the termination condition.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Functions</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/language_design/procedures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/language_design/procedures/</guid>
+      <description>&lt;h2 id=&#34;procedures&#34;&gt;Procedures&lt;/h2&gt;&#xA;&lt;p&gt;Code is often organized into different procedures, which may be invoked&#xA;under different contexts with different arguments.&lt;/p&gt;&#xA;&lt;h3 id=&#34;mathematical-functions&#34;&gt;Mathematical functions&lt;/h3&gt;&#xA;&lt;p&gt;A procedure can change state (has a side-effect) and maybe return a&#xA;value, doesn’t naturally correspond to mathematical function which&#xA;cannot do this. So a function, which cannot have side-effects, can be&#xA;viewed as a special type of procedure.&lt;/p&gt;&#xA;&lt;p&gt;C is a procedural programming language which is not structured.&lt;/p&gt;&#xA;&lt;h3 id=&#34;passing-arguments-to-procedures&#34;&gt;Passing arguments to procedures&lt;/h3&gt;&#xA;&lt;p&gt;Variables can be passed by reference, or by value. In the former case,&#xA;an address to the data can be considered as being passed; so a&#xA;modification to the data will be visible after the function returns. In&#xA;the latter case, this is not true.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Objects</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/language_design/objects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/language_design/objects/</guid>
+      <description>&lt;p&gt;Object oriented design is considered in the software architecture&#xA;survey.&lt;/p&gt;&#xA;&lt;h3 id=&#34;object-manipulation&#34;&gt;Object manipulation&lt;/h3&gt;&#xA;&lt;p&gt;The main idea of object oriented programming is to describe computation&#xA;in terms of manipulating states of objects. This causes state changes to&#xA;be local - which helps programmers design a well structured view of&#xA;state and behavior.&lt;/p&gt;&#xA;&lt;p&gt;This is distinct from the functional programming paradigm.&lt;/p&gt;&#xA;&lt;h3 id=&#34;encapsulation-and-locality&#34;&gt;Encapsulation and locality&lt;/h3&gt;&#xA;&lt;p&gt;Hiding data and methods from outside methods restricts state changes to&#xA;be local.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Paradigms</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/language_design/paradigms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/language_design/paradigms/</guid>
+      <description>&lt;h2 id=&#34;chapter-scope&#34;&gt;Chapter Scope&lt;/h2&gt;&#xA;&lt;p&gt;A signle programming language can support multiple paradigms. Programming language features enabling different programming paradigms and architectures are considered elsewhere. Eg: Higher order functions underlies functional programming paradigm.&lt;/p&gt;&#xA;&lt;h2 id=&#34;imperative-vs-declarative-programming&#34;&gt;Imperative vs declarative programming&lt;/h2&gt;&#xA;&lt;h3 id=&#34;imperative-programming&#34;&gt;Imperative programming&lt;/h3&gt;&#xA;&lt;p&gt;Views computation in terms of altering state.&lt;/p&gt;&#xA;&lt;h4 id=&#34;structured-programming&#34;&gt;Structured programming&lt;/h4&gt;&#xA;&lt;p&gt;In this programming paradigm, state changes are restricted locally. This helps organize code and state information. Structured programming code is more easily understood and maintainable than common procedural language code. This includes object oriented programming.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Syntax</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/language_design/syntax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/language_design/syntax/</guid>
+      <description>&lt;h3 id=&#34;literals&#34;&gt;Literals&lt;/h3&gt;&#xA;&lt;p&gt;All literals, apart from comments, in a program are of the following&#xA;sort: keywords; identifiers (names of variables); operators. Literals&#xA;are separated using delimiters and by using rules which specify the&#xA;allowed structure of the literal.&lt;/p&gt;&#xA;&lt;h3 id=&#34;identifiers&#34;&gt;Identifiers&lt;/h3&gt;&#xA;&lt;h4 id=&#34;overloading&#34;&gt;Overloading&lt;/h4&gt;&#xA;&lt;p&gt;A language may allow methods/ operators with similar names, but&#xA;different signature.&lt;/p&gt;&#xA;&lt;h4 id=&#34;scope&#34;&gt;Scope&lt;/h4&gt;&#xA;&lt;p&gt;Namespace/ scope of variables and functions is ordinarily defined by the&#xA;block of code wherein it is defined.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
