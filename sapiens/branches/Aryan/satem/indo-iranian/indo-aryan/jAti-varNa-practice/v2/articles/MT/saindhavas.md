@@ -17,3 +17,7 @@ jayAtaka's coins are modeled after the Iranian coins showing the fire altar tend
 The coins of raNavigraha and varAha with brAhmI-derived inscriptions indicate the ancient shaiva motifs of a trident and a bull (2, 3, 4)
 
 These coins indicate that neither raNavigraha nor varAha converted to marUnmAda and continued to heroically struggle against the Army of Islam. This situation resembles the back-and-forth struggle that took place in the neighboring Iranian realms against the same foe.
+
+> u think the "Rai" and "Chach/Silaijid/Brahman" dynasties are one and the same ???? If Yashaditya is Dahir Prachandendra is "Chandar" and Ranendra is "Chach", and then ? Xuanzang explicitly identifies the king as of V4 lineage.
+
+From a numistimatic perspective the so-called rai and chach are contiguous suggesting smooth succession even if they are not the same clan. I remain skeptical of chach lineage being v4 -- there is no other clear evidence in that regard. It is likely some of their elite fled to saurAShTra.
