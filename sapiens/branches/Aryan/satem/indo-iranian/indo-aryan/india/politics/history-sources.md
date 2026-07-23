@@ -1,5 +1,5 @@
 +++
-title = "Sources"
+title = "History - Sources"
 
 +++
 ## Maratha
@@ -30,3 +30,11 @@ In person access Readers can scrutinise records dating from the 17th C. They wou
 
 Light can damage old paper is their excuse for not allowing phone photos. And the records cannot be accessed by all. 
 One needs to carry letters from the university or be a bona fide scholar to access them. They will not even allow you the readers pass otherwise. Too many gatekeepers in indian archives. 
+
+
+## Mysore
+There are 2 palace archives  -  
+
+One covers period after tipu when the British residents and later Commissioner was in Mysore. The correspondence between the palace and them and palace correspondence with departments under the maharaja. This is largely from the mid 1800s and were also once in palace and now transferred (as a loan) to the Karnataka state archives in Mysore which are in the archives office in industrial area mysore. These are accessible to anyone who is doing academic research.
+
+Palace records in the palace which are private property of the royal family. Largely records till the 1830s. Written and printed. I am sure we will find many valuable documents here but the family is extremely touchy about allowing access since 2 generations when the privy purse was abolished have a persecution complex and are afraid if any records will be used against them.

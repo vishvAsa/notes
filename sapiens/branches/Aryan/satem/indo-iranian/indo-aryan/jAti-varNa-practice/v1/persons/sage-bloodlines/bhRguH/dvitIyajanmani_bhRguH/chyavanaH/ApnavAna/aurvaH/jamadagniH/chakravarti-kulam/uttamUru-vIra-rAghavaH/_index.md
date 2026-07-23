@@ -1,5 +1,5 @@
 +++
-title = "+UttamUru-vIrarAghavaH"
+title = "+उत्तमूर्-वीरराघवः"
 +++
 
 तस्य तिरुपदि-च्छात्रावास-चालन-पाटवं राजगोपालार्य-पत्त्रे वर्णितम् - Source: [TW](/notes/sapiens/branches/Aryan/satem/indo-iranian/indo-aryan/jAti-varNa-practice/v1/persons/sage-bloodlines/bhRguH/dvitIyajanmani_bhRguH/chyavanaH/ApnavAna/aurvaH/jamadagniH/chakravarti-kulam/paLHaveri-grAmastham/paLHaveri-rAjagopAlaH) ।  
