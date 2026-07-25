@@ -62,6 +62,8 @@ Author of Ahnika-sheShaH.
 यम् उत्तमूरु-वीरराघवोऽपि सहैव पाठने सक्तः सन्देहान् पृच्छति स्म,  
 यश् च सम्प्रदायप्रदीप इति दक्षिण-कलार्य-मत-खण्डनस्य लेखकः।
 
+> DTT was a landlord. I have heard that he paid fine coz he (via manager?) beat some of his laborers a lot and they were in deathbed. (As confirmed by descendents in 2020s). - SM
+
 
 ## दक्षिणकलार्याः
 A small section of tataryas (mostly belonging to the addanki branch and some belonging to srimushnam branch with a few more here n there) are tenkalais. More than 95% of tataryas must be vdk.

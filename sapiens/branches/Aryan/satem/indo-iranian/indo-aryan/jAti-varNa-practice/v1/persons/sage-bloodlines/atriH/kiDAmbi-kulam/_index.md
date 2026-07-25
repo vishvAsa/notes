@@ -3,13 +3,14 @@ title = "+किडाम्बि-कुलम्"
 unicode_script = "devanagari"
 +++
 
-किडाम्बि इति परिवर्तितरूपं घटाम्बु  इति वास्तविकं रूपं।  घटाम्बु इत्यस्य  मूलं  तीर्थसमर्पणकैङ्कर्यपरा:।
+किडाम्बि इति परिवर्तितरूपं घटाम्बु  इति वास्तविकं रूपं।  
+घटाम्बु इत्यस्य मूलं तीर्थसमर्पणकैङ्कर्यपराः।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-> Kidambi Actually refers to the old name of the Village Kīl̥ambi currently near Kanchi.
+> Kidambi Actually refers to the old name of the Village Kīl̥ambi currently near Kanchi. \- some guess. 
 
-- some guess. but the dIrgha conflicts with that theory.
+but the dIrgha conflicts with that theory.
 </details>
 
 
