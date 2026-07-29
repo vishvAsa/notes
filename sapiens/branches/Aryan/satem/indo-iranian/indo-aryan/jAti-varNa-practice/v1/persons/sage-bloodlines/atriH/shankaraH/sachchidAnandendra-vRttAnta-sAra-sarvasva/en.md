@@ -93,14 +93,8 @@ that the world we see is ultimately the supreme Truth, Parabrahman; all the jiva
 and the Brahma Sūtras. I was exhilarated in the beginning that in addition to translate these Bhāṣyas into Kannada to the best of my abillity, opportunity has come my way to remember his history also. But when I set myself to write this history, this excitement was gone - because, unfortunately, not even a single book is available to this date 
 which would truly decipher the history of the Jagadgururu. Also there 
 is no hope that we would get one in the future. 
-After collecting material for the history of the Acarya, what was understood clearly is: some works of poetry called SankaraVijayas, 
-fictitious works involving various heresays and stories concocted by 
-people about him and the source material prepared on the basis of 
-these by the people of the Mathas purported to be established by the 
-4 
-Acārya; and what some of the recent writers of historical interest have 
-written - except these, no other evidences or references we could pro- 
-cure. Even the historians, being devotees of one Matha or the other, 
+
+After collecting material for the history of the Acarya, what was understood clearly is: some works of poetry called SankaraVijayas, fictitious works involving various heresays and stories concocted by people about him and the source material prepared on the basis of these by the people of the Mathas purported to be established by the [[4]] Acārya; and what some of the recent writers of historical interest have written - except these, no other evidences or references we could procure. Even the historians, being devotees of one Matha or the other, 
 have made their analyses so that it would support their Mathas of af- filiation; even the small number of impartial ones had to put together 
 whatever they could collect as they have helplessly suffered lack of sufficient material for their study. 
 Although I have made use of the abovementioned types of books 
@@ -152,7 +146,7 @@ Chi.Śam.
 MādhavīyaŚankaraDigvijaya (also known as Sam- Ma.Sam. kṣepaśankara Vijaya). (Advaitarājyalakṣmī-Ṭīkā- 
 sahita, Anandāśrama, Poona. Printed in 1891) 
 Vyāsācalīya-SankaraVijaya (Manuscript obtained Vya. Śam. from Oriental Library, Madras) 
-BṛhatSankaraVijaya (We have not seen this. Pur- ported to be at Sankara Matha, Kumbhakoṇam) PrācīnaŚankaraVijaya (We have not seen this. Pur- ported to be at Sankara Matha, Kumbhakoṇam) SankaraVijayaCūrṇikā (Nirnayasagara Press) 
+BṛhatSankaraVijaya (We have not seen this. Purported to be at Sankara Matha, Kumbhakoṇam) PrācīnaŚankaraVijaya (We have not seen this. Pur- ported to be at Sankara Matha, Kumbhakoṇam) SankaraVijayaCūrṇikā (Nirnayasagara Press) 
 Bhagavatpādābhyudayam (Lakṣmaṇasūrīviracitam) (Vāṇīvilāsa Press, Śrīrangam, 1927). 
 Sam. Chu. 
 7 
@@ -810,7 +804,7 @@ him, his works and his message, will have to somehow come out of the fortress of
 and those of modern critics of the archaeology and be satisfied with 
 whatever valid conclusions that they can make. Nevertheless, in what 
 situation do the conflicting studies of those that are involved in this 
-hard to be accomplished task stand today? Is there a possibility of aŚri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+hard to be accomplished task stand today? Is there a possibility of a 
 2 
 better critique that could lead to more satisfactory conclusions in this 
 subject matter? We have attempted this work in order to quench the curiosity of such questioners. 
@@ -836,7 +830,7 @@ confidence to the extent they deserve.
 Madhaviya Samkṣepa-Śańkaravijaya ( संक्षेपशङ्करविजय) 
 3. It is really difficult to establish the age of such works known as ŚankaraVijayas. We shall go on mentioning our opinion regarding about how far the historic aspects depicted in them could be believed. If the readers remember the general details of these that we are going to give now, it would be helpful to them later to evaluate our opinions. 
 The author of the book that has come to be known as Madhaviya- 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 4 
 Sankaravijaya has referred to his work as Samkṣepa-Sankaravijaya at the end of every chapter. Many people believe that the author 
 of this work is Madhavācārya who later became the famous monk 
@@ -856,7 +850,7 @@ Vidyaranya belongs to the 14th century.
 (5) The author Madhava has written in his invocation that ['pra- ṇamya paramātmānam śrīvidyātīrtharūpiņam | prācīnaśankarajaye sāraḥ samgrhyate sphuțam' (Ma. Śam. 1-1)] [ TRAICHTİ श्रीविद्यातीर्थरूपिणम् । प्राचीनशङ्करजये सारः संगृह्यते स्फुटम्' (Ma. Sam. 1-1)] 'Saluting the Lord in the form of 'Vidyātīrtha' I am collecting the essence in the 'Präcīna-Sankarajaya'. He has urged the reader to see 'Śāmkaravākyasāra' in his work ['laghusamgrahe'sminnudvikṣyatām śānkaravākyasārah' (1-2) ] [ 'लघुसंग्रहेऽस्मिन्नुद्वीक्ष्यतां शांकरवाक्यसारः’ (1-2)]. Śri K. R. Venkataraman (KRTTW, p. 29) holds that Vidyātīrtha is none other than Vidyasankara who was the Guru of both 
 title as Nava-Kālidāsa ['Abhinavapadapūrvaḥ kālidāsaḥ' (1-7); 'navakalidāsa-viduṣa- ścampūprabandhāmrte' (1-152 ) ] [ 'अभिनवपदपूर्वः कालिदासः' (1-7); 'नवकालिदास- (1-152)]. His style resembles the style of the author of Śankara- 
 Vijaya in yamaka, anuprāsa etc. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 6 
 Bhāratītīrtha and Vidyaranya in the line of Śringeri pontiffs. This 
 remembrance of Vidyatirtha is the only evidence to say that the author of SankaraVijaya is Vidyaranya. But Venkataraman argues that Vidyaranya is not the same as Mādhavācārya (KRTTW, p. 33). If this be true, Vidyaranya cannot be held as author of Sankara- Vijaya; but even if it is held that Sāyaṇa and Madhava both are disciples of Vidyathīrtha, we have to bear in mind the fact that nobody has enlisted this SankaraVijaya among the books authored by Madhava. The statement ['Śrīvidyātīrtho Bhagavān Bhāṣya- kārah'] [‘'श्रीविद्यातीर्थो भगवान् भाष्यकारः']] of Dhanapati Sūri who has written 'Dindimavyākhyāna' (a commentary by name Dindima) to Madhavīya-Sankaravijaya need not be considered here since it does 
@@ -887,7 +881,7 @@ and those who know his work are also blessed!'
 For the term 'Vyāsācalakaviḥ' the 'Diṇḍima-Vyakhyānakāra' (Dha- napati Sūrī) has given the meaning ('vyāsa iva acalaḥ sthiraścāsau 
 kaviśreṣṭhaśca iti vyāsācalakavivaro mādhavo dhanyaḥ') ( 
 1. N. Venkataraman (NVSSK, p. 73) has held that this Prācīnaśankaravijaya' was written by the eighteenth pontiff by name 'Muka-Sankara' of Kanci Pitha. But it is not mentioned there as to why the name 'Prācīna' has been given to that. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 8 
 अचलः स्थिरश्चासौ कविश्रेष्ठश्च इति व्यासाचलकविवरो माधवो धन्यः') 
 (blessed is Madhava, the poet-laurate who is unshakable like Vyāsa). Although one can guess Madhava, who has called himself modern Kālidāsa, also might have adored himself as Vyāsācala, exhibiting one's commenting skill thus where the work with the title 'Vyāsā- 
@@ -918,7 +912,7 @@ details when we deal with this subject. Madhava has written a sloka implying tha
 शिवगुरुः स जरंस्त्रिसमे शिशावमृत कर्मवशः सुतमोदितः । 
 उपनिनीषितसूनुरपि स्वयं न हि यमोऽस्य कृताकृतमीक्षते ॥' (Ma. Sam. 4 
 -11) 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 10 
 Atmabodha, while commenting on the 18th śloka of 'Gururatna- mālikā' has cited this sloka as taken from 'Vyāsācaliya'; but in the 'Vya- sācaliya' that we have now, a different sloka 'तं पञ्चमाब्द उपनेतु मनाः # ya Yodca414 Gefa¶¶:' (Vyā. Śam. 4-32) with the same meaning implied. Hence this is not the source for 'Madhavīya'. The 
 published 'Vyāsācalīya' is incomplete; in the manuscript that is with 
@@ -946,7 +940,7 @@ obvious forgery and quite useless'. It appears that this book deserves
 such a harsh comment. Because the author, who has collected 
 quite a lot of recent material, has claimed in the beginning that ‘अनन्तानन्दगिरिरहं अप्रतिहताज्ञस्य भगवतः शिष्यः स्वगुरोरवतारप्रयोजनं 
 qu 
-(A. Sam. p 1) (I, Anantānandagiri, being the disciple of that Lord of invincible command, shall describe the purpose of theŚri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+(A. Sam. p 1) (I, Anantānandagiri, being the disciple of that Lord of invincible command, shall describe the purpose of the 
 127 
 incarnation of my Guru) and that 'जयतु सकललोकैः सेव्यमानो गुरुर्मे (Ā. Śam. p 256) (May victorious be my Guru who is to be honoured 
 by the whole world), at the end. 
@@ -965,7 +959,7 @@ Even if this be so, since it (Anantānandagirīya) was written after Anandagiriy
 reason for such confusion. And that is this. Many summarization sentences of Dhanapati Sūri in his Dindima-Vyākhyāna (डिण्डिम- व्याख्यान) of Mādhaviya SarkaraVijaya are found with minor changes in this Anantānandagirīya. For example, for the expression ‘अथ शिष्यवरैर्युतः' (then, along with excellent disciples) (Ma. Sam. 15-1) Dhanapati Sūri comments 'अथानन्तरं पद्मपाद-हस्तामलक-समित्पाणि- चिद्विलास-विज्ञानकन्द-विष्णुगुप्त-शुद्धकीर्ति-भानुमरीचि-कृष्णदर्शन-बुद्धि- वृद्धि-विरिञ्चिपादानन्दानन्दगिरिप्रमुखैः सहस्रैः शिष्यवरैर्युतः . The same sequence of the disciples of Sankara is found in the Anantă- nandagirīya: ‘पद्मपाद-हस्तामलक-समित्पाणि-चिद्विलास- (वि)ज्ञानकन्द- विष्णुगुप्त- (शुद्ध?) कीर्ति-भानुमरीचि-कृष्णदर्शन-बुद्धिवृद्धि- 
 विरिञ्चिपाद-शुद्धानन्तानन्दगिरिप्रमुखैः शिष्यवरैः सेव्यमानः' (Ā. śam. 4, p 18). Similarly, Dhanapati Sūri's commentary on the second Śloka of the same Chapter commencing from 'तथा हि श्रीशङ्कराचार्यो मध्यार्जुनं नाम शिवाविर्भूतस्थलविशेषं प्राप । मध्यार्जुनेशानमदृष्टपूर्वं विद्यादिभिः पूजितपादपद्मम् । ऋद्धोपचारैरभजत्परेशं निष्पापतां प्राप फलैकपात्रम्' and ending with ‘शुद्धाद्वैतपरायणा बभूवुः' is identical with what is found in Anantānandagiriya. In the same manner, in the commentary on the fourth, sixth slokas of the same Chapter, the sentences are 
 what are found in Anantānandagiriya. Since Dhanapati Sūri has 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 14 
 said ‘अत्र प्राचीनानुरोधेन मध्यार्जुनं प्राप्य ततः सर्वान् ककुभो विजिगीषुः प्रथमं सेतुं प्रति प्रतस्थे इति - व्याख्येयम्' (As per the ancient version, one has to comment including what is left over from here), people might have imagined that Anantānandagiriya must be earlier to this commentary, and that that itself is the Prācīnasankarajaya which is the source for the Madhaviya SankaraVijaya. If one thinks a little clearly, one finds that the Pracinaśankaravijaya which is bigger than the Madhaviya SankaraVijaya, can never be the same 
 as the little Anantānandagiriya that we have with us today. Not only this; Dhanapati Sūri has cited 581 slokas in his commentary on the second sloka of the same Chapter; none of these are to be found in the presently available Anantānandagiriya. Similarly, he 
@@ -990,7 +984,7 @@ nandagirīya and in the Diṇḍima-Vyākhyāna of Dhanapati Sūri, which
 we have cited above, leads to another corollary. One should note 
 that there are two names Cidvilāsa and Anandakanda in this series of 
 disciples; and that these are the names of the preceptor and disciple in Cidvilāsīya Sankaravijayavilāsa. Anantānandagiri might have written his work later than Cidvilāsīya; and the author Anandagiri of Prācīnaśankaravijaya too might have written his work later than Cidvilasiya. If this be true, we can say that the names of preceptor and disciple coined by Cidvilāsa for his work might have caused a 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 16 
 confusion later that these names are those of Śankara's disciples. Hence, we can say that the chronology of Sankara Vijayas could be Anandagiriya-SankaraVijaya, Cidvilāsīya, Prācīnaśankaravijaya of Ātmabodha, Vyāsācalīya, Mādhavīya, and finally Anantānandagirīya. 
 Since Madhava has described his work to be only a short sum- mary (‘अल्पसङ्ग्रह'), one could imagine that a bigger and detailed Śankara Vijaya ought to have been there earlier. Could someone with this imagination written a Bṛhat Śańkaravijaya and ascribed it to Cit- 
@@ -1019,7 +1013,7 @@ rsis or gods; because it is difficult either to establish how extensive the Pur�
 the Purānas with praises or abuses. We have given some such exam- 
 ples in Appendix II; these include slokas from Padmapurāņa where 
 1. see Aṣṭādasapurāṇadarpana (written in Hindi) by Pandit Jwālāprasāda Miśra, p. 51 wherein he has given the number of slokas added into the puraṇas according to different schools of thought. 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 to say 
 appears to 
 18 
@@ -1064,7 +1058,7 @@ primordial nature called Māyā, He appears by His Māyā as though
 born, as having taken up a body and blessing the world). We can say that this sentence of the Acarya gives all reasons to the theory of 
 incarnation. Thus it will not be absurd at all for people having faith 
 in Advaita philosophy to believe in the theory of incarnation. It is clear that those who raise the objection 'why should the all-powerful incarnate?' also will not be able to find any solution to objections 
-like 'why the ever-contented Parameswara create the world?' 'why he should resolve that the devotees should obtain liberation only through knowledge, devotion, dispassion etc.?. It seems Śivarahasya emphasises Acārya to be Amśāvatāra (partial incarnation). This isŚri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+like 'why the ever-contented Parameswara create the world?' 'why he should resolve that the devotees should obtain liberation only through knowledge, devotion, dispassion etc.?. It seems Śivarahasya emphasises Acārya to be Amśāvatāra (partial incarnation). This is 
 22 
 proper since the Lord appears in a certain time and at a certain place. But even then, since the ācārya says ‘व्यावृत्तकृत्स्नोपाधिभेदापेक्षया तु सर्वः परत्वेनाभिदीयते श्रुतिस्मृतिवाक्यैः' (Br. Bhā. 1.4.6 ) ( everyone is Paramātman only, in the form that is devoid of attributes), we feel 
 that it will not be wrong to say that he is Paramātman only, as he realised and preached the unity of Ātman and Brahman. 
@@ -1090,7 +1084,7 @@ The same work describes the Acārya's Siddhi in the following śloka: वर्�
 कल्यब्दैश्च शरेक्षणाध्वनयनैः सत्कामकोटिप्रथे 
 पीठे न्यस्य सुरेश्वरं समवितुं सर्वज्ञसंज्ञं मुनिम् । कामाक्ष्याः सविधे स जातु निविशन्नुन्मुक्तलोकस्पृहो 
 देहं स्वं व्यपहाय देह्यसुगमं धाम प्रपेदे परम् ॥ 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 24 
 The time of birth is just the same in Bṛhat Sankaravijaya written by Śri Citsukhācārya. This has been given in Appendices IV and V. 
 It is said that the time of Acarya's Siddhi is given in Brhat Sankara- vijaya as follows: 
@@ -1119,7 +1113,7 @@ Madhaviya SankaraVijaya does not give the time of Śankara. The śloka of Vyasac
 also: 
 लग्ने शुभे शुभयुते सुषुवे कुमारं श्रीपार्वतीव सुखिनी शुभवीक्षिते च । जाया सती शिवगुरोर्निजतुङ्गसंस्थे सूर्ये कुजे रविसुते च गुरौ च केन्द्रे ॥ (Ma. Śam. 2.71). Hence, it is certain that one of the two - Madhava or Vyāsācala - must have taken the sloka from the other. 
 1. at Bālekuduru Matha (Ku. Śam. p 9). 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 26 
 It is stated in the 5th Sarga of Cidvilāsīya that 
 दिवसे माधवर्तौ च स्वोच्चस्थे ग्रहपञ्चके । मध्याह्ने चाभिजिन्नाममुहूर्ते चार्द्रयायुते ॥ ३८ ॥ उदयाचलवेलेव भानुमन्तं महौजसम् । 
@@ -1155,7 +1149,7 @@ really are his works. Most people agree that the commentaries on Prasthānatraya
 discussion on this is to be taken up when we deal with the works of Sankara; but yet, one complication regarding even this is to be mentioned here. Top ranking is accorded to Sūtrabhāṣya by one 
 and all. Although Sureśwarācārya, the author of Naiskarmyasiddhiḥ 
 has verbally declared that he has written his book after serving the 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 28 
 Lotus Feet of Śri Sankara ( श्रीमच्छङ्कर- पादपद्मयुगलं संसेव्य, Nai. Si. 
 4.74), he has not cited any sentence from Sūtrabhāṣya; similarly, in 
@@ -1175,7 +1169,7 @@ karma, they start functioning there.... are to be rejected; because they are aga
 it is not contradictory to say prāņa starts functioning within the limits of the body' (पुत्तिकादिशरीरेषु गोत्वादिवत् कार्त्स्न्येन परिसमाप्त इति समत्वं प्राणस्य । न पुनः शरीरपरिमाणेनैव । अमूर्तत्वात्सर्वगतत्वाच्च ।... “त एते सर्व एव समाः सर्वे अनन्ताः” (बृ. १.५.१३) इति श्रुतेः । सर्वगतस्य तु शरीरेषु शरीरपरिमाणवृत्तिलाभो न विरुध्यते ॥ Br. Bha. 1.3.22 p 141 ). In the Sūtrabhāṣya, raising doubt on the basis of the Śruti : प्लुषिणा समो मशकेन समो नागेन सम एभिस्त्रिभिर्लोकैः समो अनेन सर्वेण' (बृ. १.३.२२) which holds prāna to be omnipresent, it is written 'this omnipresence that is told is not from the point of view of any 
 individual body, but from that of the universal and individual forms of the divine prāṇa in Hiranyagarbha; not only that, the Śruti H4: प्लुषिणा ... ('equal to the white ant ...) mentions the division of the prāṇa into the bodies of beings, and therefore there is no flaw here' (अधिदैविकेन समष्टिव्यष्टिरूपेण हैरण्यगर्भेण प्राणात्मनैव एतद्विभुत्वं आम्नायते नाध्यात्मिकेन । अपि च 'समः प्लुषिणा' इत्यादिना साम्यवचनेन प्रतिप्राणिवर्तिना प्राणस्य परिच्छेद एव प्रदर्श्यते । तस्माददोषः । Sū. Bhā. 2.4.13). Here if we recall what has been said in Brhadāranyaka Bhāsya, i.e., 'although all-pervading, it is not contradictory to say prāṇa starts 
 functioning within the limits of the body', there is reason to speculate 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 30 
 that an attempt at clarification is made in response to somebody's objection that it is against Śruti or that it goes against reason. 
 Thus, the critics have to agree that although the two sides are in accordance with both Śruti and reason, but from different points of view, there could have been difference of opinion among Vedāntins 
@@ -1198,7 +1192,7 @@ king must have lived during the later part of 6th century A.D. The Acārya too m
 Bombay High Court Justice by name Kāśinath Tryambaka Telanga (Bhāgavatacūrnikā Purnapithika) (भागवतचूर्णिका पूर्णपीठिका). 
 Here several questions arise. Did the Acarya actually see the cities Srughna and Paṭaliputra which he has cited (Sū.Bhā. 2.1.18, 4.2.5), 
 or did he write as was customary at that time to write in Samskṛt? Bṛhadaranyakopaniṣad says that Brahmins had come from Kuru Pāncāla kingdom (कुरुपाञ्चालानां ब्राह्मणा अभिसमेताः' Br. 3.1.1). The commentator says -Is it not in those kingdoms, that the learned are purported to be large in number ? (तेषु हि विदुषां बाहुल्यं प्रसिद्धम्). Could we say only on this basis that Acarya had actually seen the 
-learned of those kingdoms? From the sentence "The Lord of the entire earth is called the king of Ayodhya' (यथा समस्तवसुधाधिपतिरपि हि सन् ‘अयोध्यापतिः' इति व्यपदिष्यते Su. Bhā. 1.2.7 ) could we imagine that the Acarya lived during the times of a particular king of Ayodhya? Is there any historical evidence for the Acarya to have gone to the Magadha kingdom during the time of Pūrṇavarma? Was there noŚri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+learned of those kingdoms? From the sentence "The Lord of the entire earth is called the king of Ayodhya' (यथा समस्तवसुधाधिपतिरपि हि सन् ‘अयोध्यापतिः' इति व्यपदिष्यते Su. Bhā. 1.2.7 ) could we imagine that the Acarya lived during the times of a particular king of Ayodhya? Is there any historical evidence for the Acarya to have gone to the Magadha kingdom during the time of Pūrṇavarma? Was there no 
 32 
 other king by name Pūrṇavarma? From the sentence 'If the time limit 
 is fixed saying that the son of a barren woman was the king before crowning of Pūrṇavarma, it cannot mean that the son of a barren woman was actually the king' (न हि वन्ध्यापुत्रो राजा बभूव प्राक्पूर्णवर्मणः अभिषेकात् इत्येवञ्जातीयकेन मर्यादाकरणेन निरुपाख्यो वन्ध्यापुत्रः राजा बभूव, भवति, भविष्यति इति वा विशेष्यते Su. Bhā. 2.1.18) if it could mean that the Acarya was there during the crowning ceremony of Pūrṇavarma, from the sentence 'Pūrṇavarma's service begets 
@@ -1224,7 +1218,7 @@ Reference to Dinnāga
 18. Not only this, under the same Sūtra of the Sūtrabhāṣya, the 
 following sentences are there to deny the arguments of the Vi- 
 1. This work is available only in Tibetian language. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 34 
 jñānavādins: 
 यत उपलब्धिव्यतिरेकोऽपि बलादर्थस्याभ्युपगन्तव्यः उपलब्धेरेव । न हि कश्चिदुपलब्धिमेव स्तम्भः कुड्यं च इत्युपलभते । उपलब्धिविषयत्वेनैव तु स्तम्भकुड्यादीन् सर्वे लौकिका उपलभन्ते । अतश्च एवमेव सर्वे लौकिका उपलभन्ते यत्प्रत्याचक्षाणा अपि बाह्यार्थमेव व्याचक्षते “यदन्तर्ज्ञेयरूपं तद्बहिर्वदवभासते” इति । तेऽपि सर्वलोकप्रसिद्धां बहिरवभासमानां संविदं प्रतिलभमानाः प्रत्याख्यातुकामाश्च बाह्यमर्थं “बहिर्वत्” इति वत्कारं कुर्वन्ति । इतरथा हि कस्माद्बहिर्वदिति ब्रूयुः ? | न हि विष्णुमित्रो वन्ध्यापुत्रवदवभासत इति कश्चिदाचक्षीत । तस्माद्यथानुभवं तत्त्वमभ्युपगच्छद्भिः बहिरेवावभासत इति युक्तमभ्युपगन्तुं न तु बहिर्वदवभासत इति ॥' (Because it is perceived so, one has to accept that there is 
@@ -1247,7 +1241,7 @@ Evidence of the author of Bhāmatī
 earlier exposition Pañcapādikā which is only partly available will 
 be taken up for discussion later). There is a sloka in Nyāyasūcī- nibandha written by him: 'न्यायसूचीनिबन्धोयमकारि विदुषां मुदे । श्रीवाचस्पतिमिश्रेण वस्वङ्कवसुवत्सरे ॥ According to this, the work was written in the 898th Samvatsara. The same Vacaspati Miśra has writ- ten Vārtika-Nyāya-Tātparya-Ṭīkā (f) on which Udayanācārya has written an exposition Parisuddhi. Udayanācārya has stated that he has written a work called Lakṣaṇāvali in the year śaka 906 (‘तर्काम्बराङ्कप्रमितेष्वतीतेषु शकान्ततः । वर्षेषूदयनश्चक्रे सुबोधां 
 '). Following this if we accept what is told in Nyāyasūcī- 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 - 
 36 
 nibandha to be sakavarsha, there will be only a eight-year difference 
@@ -1267,7 +1261,7 @@ The Occasion of the Birth
 earth, people have given up duties according to their varņa and Asrama and have resorted to wrong practices. Some have given up Karma and, following Saiva and Vaisnava Āgamas, are going astray. We pray that you re-establish Dharma and thereby save all", Īśvara 
 ordained Skanda - you take birth on earth and save Karmakāṇḍa. I have ordained Viṣṇu and Ādiseṣa to save Upāsanā kāṇḍa. Brahma 
 will take birth as Mandana and will assist you. I myself will be born as Sankara the king of monks and by way of writing Advaita-oriented commentary on the Brahmasutras, will dispell illusions of the people' 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 38 
 (Ma. Sam. 1.40-56). Accordingly, Indra and other Gods took birth 
 in various forms. In the Cidvilāsīya it is mentioned that Brahma went along with Narada and prayed; in the Anandagiriya also it is mentioned that Brahma went and prayed Śiva. 
@@ -1298,7 +1292,7 @@ been an adjective aimed at highlighting his scholarship. There is a
 (Like a snake-charmer to the pundits who are like serpants extremely egotistic and arrogant, born in the lineage of the name 
 Vidyadhipati served by thousands of people, a son was born, of Āryāpati, Śiva by name, with a lustre equivalent of a thousand suns). 
 Vidyadhipati could mean the name of the family lineage also. And 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 40 
 Sankara's father has the name Śivaguru; this could mean Śiva's father too. If it only means that Śiva was born of him, it will not become his name. But even then, from the earlier usages like Śivākhyāt, Śiva- śarmanah (शिवाख्यात्, शिवशर्मणः) etc. (Gu. Ra. 16 ) we can safely believe that the name Śivaguru is not just Madhava's imagination. Now, regarding mother's name: in the already cited sloka 
 लग्ने शुभे शुभयुते सुषुवे कुमारं श्रीपार्वतीव सुखिनी शुभवीक्षिते च । जाया सती शिवगुरोर्निजतुङ्गसंस्थे सूर्ये कुजे रविसुते च गुरौ च केन्द्रे ॥ 
@@ -1320,7 +1314,7 @@ The story of Sankara's birth and his Name
 with all-excellence of qualities or, as opposed to this, whether he wants several sons who are long-living and with moderate-qualities. (देवोऽप्यपृच्छदथ तं द्विज विद्धि सत्यं सर्वज्ञमेवमपि सर्वगुणोपपन्नम् । पुत्रं ददाम्यथ बहून् विपरीतकांस्ते भूर्यायुषस्तनु-गुणानवदद्द्विजेशः ॥ 2.52). The brahmin replied let him be an all-knowing one'. At this, Śiva said 'All right, your penance is now over, go home with your wife. Upon waking up from sleep, Śivaguru narrated his dream to his wife, and 
 she was happy to hear it. The two, thinking of the brahmin in their 
 minds, organized a ceremony to propitiate brahmins, gifted money 
-to them liberally, received their blessings and later partook theŚri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+to them liberally, received their blessings and later partook the 
 42 
 residual food themselves. Śiva's splendour got into that food ( प्रविष्टमभवत्किल शैवतेजः ॥ 2.56 ). Sati Devi became pregnant and gave birth to a son at an auspicious moment. By reason of making the onlookers happy, or by reason of being born by the grace of Sankara after a long time (2.83), the father named the child as "Śankara (Ma. Śam. 2.46-83). 
 Similar details are there in the manuscript copy of Vyāsācaliya. The sloka pertaining to Śivaguru's grief that there was no issue 
@@ -1344,7 +1338,7 @@ I shall grant it. Out of their devotion they realized that he was the
 Lord of Vṛṣācala, and with folded hands, they narrated their story. 
 Then He asked 'shall I grant you a son of short life but an adept in all Śāstras, or several foolish sons who live long? (late सर्वशास्त्रविशारदम् ॥ २१ ॥ दास्यामि पुत्रमेकं वा चिरेतरवयोयुतम् । अथवा सुचिरायुष्कान् बहून् पुत्रांस्तु बालिशान् ॥ २२ ॥). The wife replied, ‘what is the use of several foolish sons? Though short-lived, one son who 
 is an adept in Vedas, Vedāngas and the Tattva will save our lineage!' 'All right' said Śiva and went away. Thus both of them looked at each 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 44 
 other. Having got up in the morning, they came to the conclusion that the Lord Girijapati, the Lord of Vṛṣācala, who has granted a 
 son already will make this only son also live long just as he granted long life to Markändeya, (सुपुत्रं दत्तवानेव वृषाचलकृताश्रयः । चिरायुष्यं करोत्येव मृकण्डोरिव बालकम् ॥). Thinking that the dream has fulfilled their desire, they concluded praying Śiva, went home, organised a 
@@ -1365,7 +1359,7 @@ she became pregnant, and the womb grew day by day. The brah-
 mins, considering Cidambara Himself as the sacrificer, conducted pu- 
 rifictory rites as prescribed by Vedas, from the third month of preg- nancy. In the tenth month, Mahadeva Himself was born by name Śankarācārya from the womb of Visiṣṭā (Ā.Gi.Śam. 2.8-9). The orig- inal slokas are given in Appendix V. 
 Anantānandagiri has called himself a direct disciple of Sankara. Even then, he says that Sankara's mother is Visiṣṭā, father is Viswajit 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 46 
 and that maternal grandfather is Sarvajña. If this be true, the first 
 objection that could be raised is how the other writers, leaving these names, could muster enough courage to call Sankara's mother as Āryambā or Sati, father as Sivaguru, and maternal grandfather as Magha (or Makha). Not only this, he has invented the most unnatural episode that the light of Śiva having entered the face of Visiṣṭā to 
@@ -1390,7 +1384,7 @@ demise of her husband; and fearing public criticism, she left the child in a for
 Vṛṣabha of Kali-Samvatsara 3889th Vibhavasamvatsara (788 A.D.). 
 हायनेऽथ विभवे वृषमासे शुक्लपक्ष दशमीदिनमध्ये | शेवधिद्विपदिशानलवर्षे तिष्य एनमुदसोऽष्ट विशिष्टा ॥ 
 Venkataraman says this on the evidence of the commentary of 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 48 
 Atmabodha's Gururatnamālikā which contains the following śloka's: 
 निजतातमृतेः परं प्रकाशे गजगर्भे त्रिशरद्विपच्य कोशे । 
@@ -1422,7 +1416,7 @@ her and went away. The child was brought up by her, and Bṛhaspati taught the c
 Needless to say this is a concocted story. Somanathiah says that 
 ślokas were added to this again and again and there are several ver- 
 sions. We have not seen the book; but yet for the ammusement of 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 50 
 curious readers, we have given what slokas could be procured in Ap- 
 pendix VII. The author, with an intention to make his work more fan- tastic than that of Anantānandagiri, has made Śankara incarnate in 
@@ -1451,7 +1445,7 @@ Sankara).
 The reason that the author gives for mother naming her child as 
 Sankara is surprising. Can any mother name her son so that the name reminds her every moment that she had been a harlot? - evidently the author did not think this way! Be that as it may, this also hap- pens to be a proof for Acarya's name is Sankara; and his place of birth is Kālaḍi (3⁄4¶¶¶). Baladeva Upadhyāya mentions that all Kerala people agree that Sankara's mother hailed from a Nambūdiri brahmin family by name pajura pannai illam, and that some people of that lin- eage are found living near Trichur even today (Bala. Śam. p 40). K. R. Venkataraman has written that Śivaguru was a Nambūdiri brahmin of family kaipilli illam, and that Aryamba belonged to Velapalur or 
 to Palupanai Illam (KRVTTW p 9). But neither gives any evidence in support of their opinion. These families being definitely from Kerala, even from the heresay of Kerala, it becomes established that Sankara 
-hails from Kerala.Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+hails from Kerala. 
 The Evidence of Badari 
 52 
 28. There is one more reason to believe that the Acārya was from Kerala. The chief priests of Badarīnath (or Pasupatinath) temples are from very long past Nambūdiri brahmins. It is said that the temples were established by Sankara himself. If this be true, it is but natural 
@@ -1484,7 +1478,7 @@ karācārya, the Loka Guru, is known to still fewer. Kālaḍi is 160 miles
 (150 miles by short-cut) from Trivendrum. It is really surprising that Sankarācārya, hailing from here, is not famous even among brahmins of this area. Some Nāḍars and Nairs, accusing Acārya with parakayapraveśam and 'bhagandara roga', ask what reason could be there that such a disease can befall on a person of Kalmad ब्रह्म', ‘करतलभिक्षस्तरुतलवासः' calibre ! Not even a single brahmin 
 sannyāsi has come this way. The reason is that the region is hilly and food is difficult to procure. That the Śringeri Jagadguru had come 
 to Trivendrum is known only to the retired officials of the palace. It 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 54 
 appears that only monks who are free come here and experience the place. 
 Kālaḍi 
@@ -1516,7 +1510,7 @@ the plantain strips. Those very people become the purohitas in the
 rites and provide til, darbhā, akṣată etc. The funeral rites cannot be 
 performed without them. This caste has also the names "elayadi" and 
 1. There is a place called Ponnar Thodata some 6 miles west of Kalaḍi. There is the house where Emblica (Amalaka) fruit was given when the Acarya went there for alms. It is said that the Acarya sang Kanakadhara Stotram here. Two rich families are there even now - the houses are called "swarṇattillam". 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 56 
 "nambiyādi". Even now these brahmins touch a sword to the dead body at several places before burning; the traditionalists actually cut; 
 then cover the pieces with plantain strips and drop them into the 
@@ -1562,7 +1556,7 @@ as already mentioned (p 6), in Vyāsācaliya and Madhavīya it is stated that Ś
 Ra. Śloka 18) that a śloka in Keraliya Sankara Vijaya reads पञ्चमाब्दे निजं पुत्रमुपनेतुमना द्विजः । पञ्चत्वमगमत्सद्यः कालो हि दुरतिक्रमः ॥ But, his exposition (Gu. Ra. Śloka 18) is that this is not correct, and that Śivaguru died after performing the upanayana as mentioned in Gururatnamālikā. To show that this opinion of his does not contradict Śivarahasya, Atmabodha has written that the expression ‘उपनीतस्तथा मात्रा' can be interpreted as शिवरहस्यवचनस्यापि ...मात्रा गुरुकुलं प्रापित इत्यर्थस्य सुवचत्वाच्च. (Shi. Ra. 16-15), mother sent him to Gurukula. In Cidvilāsīya it is stated that, following the sutra that the boy becomes radiant with Brahma-lustre if the upanayana is performed in the age of five, desiring to enhance the natural charm of the boy with Brahma-lustre, he performed the 'upanayana in the presence of relatives. पञ्चमाब्दोपनीतश्चेत्ब्रह्मवर्चसमृच्छति । इति सूत्रं समालम्ब्य निजतेजः समुज्ज्वलम् ॥ ब्राह्मेन तेजसा भूयोनिर्योक्तुं द्रुतमैहत । अतनिष्टोपनीतिं स समस्तैर्बन्धुभिर्युतः ॥' Ci. Sam. 7-3,9). Since Cidvilasiya happens to be a recent work compared to Madha- vīya, Somanāthiah (So. Sam. p. 40) imagines that Śivaguru must 
 have been no more, before upanayana took place. Regarding this, Gururatnamālikā mentions that 'उपनीय दिवंगते स्वताते' ('since father passed away after carrying out the upanayana' Gu. Ra. śloka 18). In order to uphold this, Atmabodha cites a statement from Prācina- śankaravijaya saying 'चौलं कर्म समाप्य चोपनयनं ताते दिवं प्रस्थिते' and a statement from Brhat Sarikaravijaya saying ‘शिवगुरुरुपनीय शङ्करार्यं निगममशेषमथाध्यजीगपत्तम्. Therefore, because of Cidvilāsīya descrip- tion, one need not have doubt in this matter; it purports to indicate 
 the existence of two schools of thought, that is all. But descriptive sentences of Cidvilāsīya saying 'अनेहसि महोदारे द्राविडाचारसम्मतम्। 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 60 
 पौरैः स्निग्धैर्विदग्धैश्च वृद्धैर्बन्धुभिरन्वितः । चौलोत्सवमथाकार्षीत् ॥' (Ci. śam.6-25,26) with regard to the caula ceremony, 
 ‘द्राविडाचारपारगान्’ 
@@ -1581,7 +1575,7 @@ Educational progress
 वेदे ब्रह्मसमस्तदङ्गनिचये गार्ग्योपमस्तत्कथा तात्पर्यार्थविवेचने गुरुसमस्तत्कर्मसंवर्णने । आसीत्जैमिनिरेव तद्वचनजप्रोद्बोधकन्धे समो व्यासेनैव स मूर्तिमानिव नवो वाणीविलासैर्वृतः ॥ १९ ॥ आनीक्षिक्यैक्षितन्त्रे परिचितिरतुला कापिले कापि लेभे पीतं पातञ्जलाम्भः परमपि विदितं भाट्टघट्टार्थतत्त्वम् । यत्तैः सौख्यं तदन्यान्तरभवदमलाद्वैतविद्यासुखेस्मिन् कूपे योर्थः स तीर्थे सुपयसि वितते हन्त नान्तर्भवेत्किम् ॥ 
 ‘(Sankara is) equal to Brahma in Vedas, and in Vedangas (he is) 
 Gargya himself. In the interpretation of the meaning of the Vedas he is equal to Bṛhaspati; and in explaining the Karmas therein (he is) Jaimini himself; In the matter of the knowledge of truth in the Vedic statements, he is equal to Vyasa himself. His eloquence was as if he 
-were Vyasa himself born again. He was an adept in logic, unparalleledŚri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+were Vyasa himself born again. He was an adept in logic, unparalleled 
 62 
 in the Tantras, gained (the knowledge of ) Sāmkhya of Kapila, drank the sea of Patanjali's works, came to know the expositions of Bhaṭṭa (forgetting that he is going to describe the meeting with Bhaṭṭa later, the poet here has made Bhatta earlier to Sankara!). The happiness of learning all those Śāstras was merged in the pure bliss of Advaita; 
 would not the gain whatever of the well-water be merged in the plen- 
@@ -1614,7 +1608,7 @@ thing else is transient; he acquired detachment from all, equanimity towards eve
 33. For those who doubt whether such a proficiency is possible at such a young age, Somanathiah (So. Śam. p 43-45) has given the ex- 
 amples of several such cases including those of an english boy Kauli, who wrote poems at fifteen, of Turgo, the french royal minister who was a scholar at a very early age, of Thomas Brown of Scotland who 
 outspoke the controversies of Bible stories at the age of four, of the 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 64 
 age of 
 English poet Coleridge who was an adept in spiritualism at the sixteen, of Mr. Pitt who became a minister at twenty two, of John Stu- 
@@ -1647,7 +1641,7 @@ amalaka to me; give her the merit of this!' Pleased once again, Laksmi showered 
 This story is not to be found in earlier ŚankaraVijayas like Vyāsā- 
 caliya. The author must have concocted this, having in mind the fa- mous Kanakadhārāstava ascribed to Sankara. We have given the same in Appendix VIII for the benifit of the readers. 
 (2) Sankara returned home to serve his mother, after completing his residence in the house of his preceptor, in his seventh year itself. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 66 
 His old mother Aryamba once swooned in the hot sun when she had been to the river. Sankara, with the help of people, brought her home 
 and nursed her. 
@@ -1680,7 +1674,7 @@ Agastya revealing Sankara's lifespan
 35. The Acarya did not spend much time living with his mother. He 
 expressed his desire to get into Sannyāsāśrama as early as possible. This is described by both Vyāsācala (Vyā. Śam. 4-42) and Mādhava (Mā. Śam. 5-34) in one śloka: 
 सा शङ्करस्य शरणं स च तज्जनन्या ह्यन्योन्ययोगविरहस्त्वनयोरसह्यः । 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 68 
 नो वोढुमिच्छति तथाप्यमनुष्य भावान्मेरुं गतः किमभिवाञ्छति 
 तथाप्यमनुष्यभावान्मेरुं दुष्प्रदेशम् ॥ 
@@ -1711,7 +1705,7 @@ early age was against the practice in Kerala. Child marriage was not in vogue in
 pete with each other to give their daughter in marriage to him (Mā. Śam. 2. 27-32). This detail is there in Vyāsācalīya also. We cannot 
 understand why these two authors have not taken into consideration 
 the practice that was there in Kerala. Cidvilāsīya even goes to the ex- tent to describe that Śivaguru himself had thought of the marriage of his son, and that the Acarya thought within himself 'Alas! he does not understand the principle thought that is there in me; he does not even know that my lifespan is short; what shall I do!' (Ci. Śam. 7. 35-46). And Sankara was only five-year old at that time! 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 70 
 (2) Madhava writes that the mother asked the rṣis 'what would be the life-span of this boy?' when they arrived. But both Madhava and Vyāsācala write that 'when the child was born, Śivaguru did not pose this question to the astrologers who wrote the jātaka; they also did not volunteer to tell; the wise do not mention bad things although they come to know of them' (नापृच्छि जीवितमनेन च तैर्न चोक्तं प्रायो विदन्नपि F¶¶F: || Mā. Śam. 2. 80; Vyā. Śam. 4. 26). Mādhava, fond 
 of fantasies, who writes here that the mother asked Agastya about the life-span of the child, does not mention why the astrologers were not 
@@ -1738,7 +1732,7 @@ mother's permission delicately, and using the favourable occasion,
 chanted the Praișa and took the vow of Sannyāsa. The crocodile too, having touched the foot of Śankara, got rid of its form due to the curse 
 - is the meaning of the sloka. 
 It is true that there are crocodiles in the river Pūrṇa (or Cūrṇi). At the time when the Jagadguru of Śringeri, Śri Satchidananda Śivabhinava NrisimhaBhārati established a Sankara temple at Kālaḍi, the author of the present book also had gone there. Although it was summer, boats were rowing to and from on the Pūrṇa river. 
-There was a commotion among people, caused by a news that aŚri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+There was a commotion among people, caused by a news that a 
 72 
 crocodile caught the planquin-bearer of the Swami of Śivaganga Matha. Hence, crocodile catching the foot of Sankara is not to be regarded as improbable. That it happened when Sankara was eight years old is agreed upon in all the SankaraVijayas. The Ācārya, in 
 several of his Bhāṣyas, has cited the authority of Jābālaśruti for those 
@@ -1772,7 +1766,7 @@ chosen high ideal and attempting to bring people on to the right way of life, it
 of oneself, even such people are not to be blamed as promoters of 
 beggary since their peace-bearing exemplifies to the whole world. 
 That society would be at stake is beyond question if people increase 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 74 
 in number who imitate the garb and the outward activities of Sadhus 
 and Sannyasis devoted to spiritual life without understanding their 
@@ -1828,7 +1822,7 @@ Meeting Govinda Bhagavatpāda and Sankara's adoration
 of him 
 40. Madhava has described that the Acarya, by this time, had all the qualifications for spiritual sadhana (Mā. Śam. 5. 82-86). The Acārya, 
 looking at the forest, rivers, towns, mountains, villages, people and 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 78 
 animals on the way, was thinking that 'just as a magician showing his magic, Brahman shows all this in this way!' (Ma. Śam. 5. 87). Trav- 
 elling 'with a single staff, and wearing ochre robes', found out by the signs of the Asrama, located the place where Govinda Bhagavatpāda lived. Seeing a narrow opening of the cave, and hearing people say that this is the cave of Govinda Deśika, Śankara prostrated before the door itself praising thus (Mā. Śam. 5. 88-93): 
@@ -1864,7 +1858,7 @@ In Prācīnaśankaravijaya, in the sloka गोविन्दमाश्रय
 not translated the part in parentheses into Kannada here, but are go- 
 ing to mention the same shortly). 
 In Gururatnamālikā, it is mentioned that 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 हरितल्पहराङ्घ्रिनूपुरक्ष्मा । धरसौमित्रिबलात्रिपुत्रलक्ष्मा । जयतादुपरेवमात्तधर्मा। जयगोविन्दमुनिः स चन्द्रनामा ॥ 
 80 
 Victory unto 'Jayagovindamuni' who was living in an Asrama on 
@@ -1899,7 +1893,7 @@ became a highly proficient scholar; having learnt the entire Mahāb- hāṣya fr
 of his excessive ego, his book extending to a lakh and a quarter slokas was destroyed [it seems he is the same Hari who has been mentioned in the half-sloka of Pracīnaśankaravijaya (kept in parentheses) start- ing as अप्यात्मजेन cited above ]. 
 The disciple of Patanjali thus being rid of the curse, approached Śuka, the son of Vyāsa, took Sannyāsa from him and remained in 
 the Himālayas. He liberated an eminent Buddhist by name Ayarcya from that religion, who was being served by the Śākya king Prākṛti of Takṣaśila and others, and also by Aparantya yogis by name Apalunya, 
-1. Opinions within parentheses are ours. We have modified some of them as per the commentary on Gururatnamālikā sloka 10.Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+1. Opinions within parentheses are ours. We have modified some of them as per the commentary on Gururatnamālikā sloka 10. 
 82 
 Dāmīśa and the like. And then he gave Sannyasa to Candra who 
 approached him, and gave him the name Govinda. He was teaching Advaita to all of them (Mā. Śam. 96-97 - in these slokas, this meaning might have been considered). 
@@ -1929,7 +1923,7 @@ ciple, and that must have later led to the belief that he was actually a direct 
 time of Govinda Bhagavatpada. May be to indicate that this is not im- probable, Mādhava has used the adjective Maharshi ('गौडपादान्महर्षेः' Mā. Śam. 5. 97). 
 Another aspect has to be considered here. There is no historical 
 evidence to say that Govinda Bhagavatpāda and the grammarian Can- 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 84 
 drāśarma are one and the same, and to imagine Vararuci, Vikrama, 
 Bhatti and Bhartṛhari are contemporaries. It is mentioned (NVSK, 
@@ -1964,7 +1958,7 @@ writing in his sarvadarśanasangraha, 'govindabhagavatpādairapi' सर्व�
 methodolgy of rasatantra Hd traditionalists. We see the same 
 way of referring to the earlier teachers of the respective darśanas in Sarvadarśanasangraha 4. Just because of that, 
 what evidence is there to conclude that Madhavācārya on his 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 86 
 own accord has used those respectful adjectives? Not only that, in the expression 'Govindabhagavatpādācāryo Govindanayakaḥ' ‘गोविन्दभगवत्पादाचार्यो गोविन्दनायकः, instead of thinking that Mādhavācārya has accorded the singular honour of naming Govinda Bhikshu as 'bhagavatpādācārya' '¶¶¶¶, is it not more rea- 
 sonable to think that there could have been a Rasa Siddha by name 
@@ -1996,7 +1990,7 @@ the lustrously shining Govinda Bhagavatpada who was performing
 penance. Wondering just as a digger desirous of the magic unguent 
 and searching for the valuable herb but found a great treasure of gold, soliloquizing 'could this be Vasistha, Suka or Kasyapa who has in- 
 carnated just to initiate me? Or, they say that Vyasa lives here, and this could be just Vyasa himself. Whoever he may be, lustrous like 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 88 
 the Sun as he is, let me take Sannyāsa methodically from him' (Chi. Śam. 8. 47-52). Then Govinda Bhagavatpāda, finding Sankara pros- trating before him after circumambulation, enquired him, 'who are 
 you? wherefrom have you come? where do you belong? what is your name? which country you come from? since how many days have you been here? why have you come here?' Sankara replied in a nor- mal and natural manner, 'I belong to Kerala, born as the son of Śi- 
@@ -2020,7 +2014,7 @@ The description in Cidvilāsīya is thus: observing that this boy is possessing 
 affectionately embraced him, took him on the lap and instructed him into lofty upanishadic expressions like 4, into the secrects 
 of daily meditation followed by those desiring liberation, into the 
 practices mentioned in Viśveśa Smrti for the Sannyasins, taught 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 90 
 the essence of the scriptures and methodically initiated him to Sannyasa. And he gave commandments like "realizing the truth of 
 'I am Paramātman', see oneness everywhere. Do not talk about the 
@@ -2043,7 +2037,7 @@ intentionally. Since he has said that the Guru instructed him to wear
 the loin cloth, string around the waist, staff, water-pot and ochre robe (कौपीनं कटिसूत्रं च धत्स्व दण्डकमण्डलू । काषायं वल्कलं वापि Ci. Śam. 6. 25), it appears that the Acarya took to wearing those after the methodical Sannyāsa. But Sankara Bhagavatpāda, while 
 writing about the subject matter of Sannyasa in Chandogyopaniṣad 
 Bhāṣya says 'the expression is befitting only to a parama- hamsa who has renounced all karmas and the apparatus therein, and who is beyond the four stages of life. Because it is said in the Śruti that the result is chiefly liberation and immortality. Thus, this only is true renunciation (pārivrajya) according to Vedas, and not 
-the acceptance of the sacred thread, the staff and the water-pot' ('ब्रह्मसंस्थशब्दो निवृत्तसर्वकर्मतत्साधनपरिव्राडेकविषये अत्याश्रमिणि परमहंसाख्ये वृत्त इह भवितुमर्हति । मुख्यामृतत्वफलश्रवणात् । अतश्च इदमेवैकं वेदोक्तं पारिव्राज्यम् । न यज्ञोपवीतत्रिदण्डकमण्डल्वादिपरिग्रहः’Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+the acceptance of the sacred thread, the staff and the water-pot' ('ब्रह्मसंस्थशब्दो निवृत्तसर्वकर्मतत्साधनपरिव्राडेकविषये अत्याश्रमिणि परमहंसाख्ये वृत्त इह भवितुमर्हति । मुख्यामृतत्वफलश्रवणात् । अतश्च इदमेवैकं वेदोक्तं पारिव्राज्यम् । न यज्ञोपवीतत्रिदण्डकमण्डल्वादिपरिग्रहः’ 
 (दण्डतर्पण); 
 92 
 Cham. Bhā. 2. 23. 1). There he has cited a Smrti which implies that a monk should be without the signs depicting the stage of life. There is no doubt that the "Sannyasa" given by Govinda Bhagavatpada is Paramahamsa-Pārivrājya. As a rule, the expression ‘Paramahamsa parivrājakācārya' ‘परमहंसपरिव्राजकाचार्य' appears at the end of every 
@@ -2075,7 +2069,7 @@ scripture. On the basis of this Upanisad, it is mentioned in Bhaga- vatpādābhy
 his works as an authority. The Mahāvākyas are considered as such because they summarize the Brahman-Atman identity which the respective Upanisads primarily teach, and not because they are holy syllables (Mantras) for the purpose of repetition (Japa). The Acarya 
 vehemently reiterates in his commentaries that the moment the 
 meaning of the Vedantic sentence is comprehended, all things to be done come to an end instantaneously (वाक्यार्थज्ञानसमकाल एव तु 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 94 
 aff | Mum. Bhā. 1.1.6). Hence to initiate one into the Mahāvākyas using them as Mantras or to use them for Japa would be contradicting the very Vedantic conclusion of Sankarācārya. Because, the Acarya in his commentary on Samanvayadhikaraṇa (of Brahmasūtras) has declared that these vākyas just teach the Brahman-Ãtman identity and that is the end of it; they do not 
 convey Brahman as a residue of a vedic injunction. The expression Mahāvākya itself is not to be found anywhere in Sankara Bhāṣyas. Hence, one has to examine whether Govinda Bhagavatpāda initiated the Acarya into the Mahāvākyas. 
@@ -2097,7 +2091,7 @@ or not. We have already given the hitches in believing him to
 be a Rasa Siddha (p *84). It is not clear anywhere with whom Sankara practised Yoga. Although he has rejected Yoga darśana in योगप्रत्युक्त्यधिकरणभाष्य, he has written that to whatsoever ex- tent Samkhya, Yoga etc. are not contradictory to the Vedas, he is happy with them (येन त्वंशेन न विरुध्येते तेनेष्टमेव साङ्ख्ययोगस्मृत्योः 
 Sū. Bhā. 2.1.3). Elsewhere he writes that one cannot deny outrightly the Smrtis stating that Yoga can beget Siddhis like An- ima etc. (योगोप्यणिमाद्यैश्वर्य-प्राप्तिफलो स्मर्यमाणो न शक्यते साहसमात्रेण 
 Sū. Bhā. 1.3.34). And in Śankara Vijayas the Acārya's Yogic powers have been described. This being so, and although Govinda Bhagavatpāda has been described as an incarnation of Patanjali the originator of Yoga, why it is not mentioned that Sankara learnt Yoga from him? This too is to be examined. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 96 
 That Sankara Bhagavatpāda might have learnt Yoga from this Guru is evident from an amazing incident depicted in Madhaviya. When the Acārya was serving his Guru the rainy season was onset, 
 and once the rainfall continued five days with a downpour of the size of an elephant trunk. Floodwater uprooted even trees; people were afraid what would happen. As the Guru Govinda Bhagavatpāda was in Samadhi, Śankara could not communicate with him; he just put 
@@ -2118,7 +2112,7 @@ that Govinda Bhagavatpada was not only the Guru who initiated into methodical Sa
 into Brahmavidyā, the one who dispelled the fear of saṁsāra due to avidya, bestowing liberating knowledge, and the one who instilled the qualities like self-control and humility that are characteristic of 
 those established in Brahman. This being so, since there is no other 
 evidence to indicate what extraordinary method of Vedānta Govinda Bhagavatpada introduced the Acarya into, we will have to guess the same only from the presently available bhāṣyas of Ācārya. 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 Guru's command to Sankara to write Bhāṣyas. 
 98 
 51. After the rainy season, it appears that the Guru beakoned his prime disciple Sankarācārya near and said: 'Great souls, after having spent the rainy season being engaged in dhāraṇa, dhyāna and samādhi are now moving about and making the world blessed. So, you too now 
@@ -2143,7 +2137,7 @@ mini Sūtras thrice with meaning. He knows the purport of the divine
 Upanisads; also the essence and meaning of Parasariya Sūtras. Hav- 
 ing got the nectar of Advaita by churning the sea of scriptures with the churning rod of reasoning, he is roaming about as a Jivanmukta. Why tell more and more? Verily he is Śiva Himself, incarnated to protect people who are confused by bad schools of thought ('नगजाजानिरेव H:'). Such great souls are moving around only to remove confusions 
 of the world'. We do not know on what basis Cidvilāsa has written 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 100 
 these several adjectives. It seems the author is of the opinion that 
 Gauḍapāda has an eternal life, and is still roaming about. 
@@ -2165,7 +2159,7 @@ There is another doubt too. In Śivarahasya we find the sloka wherein it is stat
 and there is no scope there for the story that Govinda Bhagavatpāda got it through lineage. Also there is no mention there about Ratna- garbha Ganapati. 
 Another confusing matter is there. In essence, what Śri Kumāra Madhava P. S. Śrikantha Sastry, who has carried out research on how the Candramouliswara linga came to Śringeri, writes is: Śri Satchidānanda Bhārati Swamiji, who was the pontiff of Śringeri, got Guruvamsa kāvya written by Kāśi Lakṣmaṇa Śāstry, a contemporary scholar at Sringeri Matha. In the third chapter of that, there is a śloka in the context when Śri Sankarācārya made Sureswarācārya the pontiff of Sringeri Pitha and started to proceed to Kāñci: 
 श्रीचन्द्रमौलीश्वरलिङ्गमस्मै सद्रत्नगर्भं गणनायकं च । सविश्वरूपाय सुसिद्धदत्तं दत्त्वा न्यगादीच्चिरमर्चयेति ॥ 
-1. We shall discuss this controversial issue again when we write about the Mathas later.Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+1. We shall discuss this controversial issue again when we write about the Mathas later. 
 102 
 He gave Ratnagarbha Ganapati and Candramouliswara got from 
 siddhas to Viswarupa, and instructed him to be worshipping them 
@@ -2192,7 +2186,7 @@ Just because they were given by his Guru, to imagine without any evidence that h
 of symbols, many times it is mentioned 'just as salagrāma for Viṣṇu'; but not even once the worship of Śiva linga. Why this is so? If he 
 himself was worshipping a linga, to say that he forgot to mention would not be correct. It is well known that the Sannyasis of Śankara 
 tradition even today do R. This being so, whether the Acarya really got Candramoulīśwara linga from somebody would 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 104 
 remain doubtful. The question why the poet Madhava, who has cited many strange things, did not discuss this aspect also has remained 
 unsolved. 
@@ -2239,7 +2233,7 @@ country, I have come to take shelter at your feet in order to escape from the ci
 In Cidvilasiya it is mentioned that this person by name Viṣṇu Śarma was the son of a brahmin couple Lakṣmi and Mādhavācārya 
 of Ahobala kṣetra, born by the blessings of Lord Nrsimha. After the 
 demise of his parents, as per the direction of Lord Narasimha in a 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 108 
 dream, he came to the Acārya (Ci. Sam. 19. 12-24). It appears none else has given this detail. 
 Lord Viśveswara gives darśana in the form of an antyaja 
@@ -2271,7 +2265,7 @@ Madhyārjuneswara giving His consent to Advaita (Pra. 4. p19; De. p16). Dinḍim
 when this Dindima commentary was composed? Could Cidvilāsa 
 have translocated this heresay of Madhyārjuna to Kāśi and composed 
 his story? The truth of this is to be established by scholars who are 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 adept in finding out the dates of ancient works. 
 110 
 It is Somanathiah's speculation that this type of conversation could have taken place since at the time when Buddhism was preva- lent, even non-brahmins were becoming learned scholars (So. Śam. 
@@ -2301,7 +2295,7 @@ ish those who accept the distinctions of low borns, untouchables, and
 practice the same, and has introduced the same into the Constitution. 
 There is the law that there should be free entry to the low-born who 
 are called Harijans, into the precints of holy temples; and on the basis of it the social reformers are trying to make them enter into temples 
-and the followers of caste-distinctions are opposing such a forced ac-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+and the followers of caste-distinctions are opposing such a forced ac- 
 112 
 tion; thus unity among people further has become loose. Educating the ignorant and teaching them reading and writing are not regarded as wrong by any; the social reformers have to think over whether there 
 is any real benefit in simply giving up right practices, and just mixing up castes without improving upon the bad ways of life in terms of food 
@@ -2338,7 +2332,7 @@ by one and all. Refute and win scholars like Bhāskara, Nīlakanṭha, Abhinavag
 had to be done, you will reach me' and disappeared. A wonderstruck Sankara went to the river; after the daily performances, meditated on Iswara and Guru and decided to write the Bhāṣyas (Mā. Śam. 6. 
 45-53). 
 Whether the Acarya had realization of Śiva or not, what shall we say about the poet who has imagined Śiva's consent for the Acarya 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 114 
 to win over Bhaskara, Abhinavagupta and Nilakantha? This is quite contradictory to historical fact, because these people came after Śan- karācārya. They are known to have refuted Sankara's Advaita from their own points of view. As Cidvilāsa has said, Śiva might have ap- peared before Śankara and, lifting his hand, declared thrice that Ad- vaita to be true and not Dvaita; but Ācārya's commentary is not writ- ten with the prime purpose of refuting Dvaita. Just as he has refuted Dvaita, he has refuted the different methods (Prakriyas) of Advaita that was already in vogue, and has established an extraordinary Ad- 
 vaita Vedanta Prakriya that was dear to his heart. We shall deliberate 
@@ -2368,7 +2362,7 @@ temple (the evidence to this story is Badarikāśrama Māhātmya, 5. p 128); Bal
 तीर्थान्नारदसंज्ञकात् । उद्धृत्य स्थापयिष्यामि हरिं लोकहितेच्छया ॥ २४५ ॥ 
 One could imagine the Acarya going to Badari where Bādarāyaṇa and the previous rșis did penance; it was quite probable that he would 
 get some who were established in jñāna there. Not fearing the cold, 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 116 
 rain, stones and thorns on the way, uneven ground, and eating fruits when he got them, Acarya, slept where he had to, and continued to 
 travel when got awakened - this description of Madhavīya is quite but natural (Mā. Śam. 6. 57-58). Mādhaviya describes that he wrote Sū- trabhāṣya when he was twelve; Vyāsācalīya says that he was sixteen when he wrote Sūtrabhāṣya (Vyā. Sam. 4. 65, 83). Baladeva Upă- dhyāya imagines that he was twelve when he went to Badari; he stayed there for four years; then he wrote the Sūtrabhāṣya (Bala. Śam. p 53). We have given the sloka which K. B. Pāṭhak got: 3↑ sıcaì सर्वशास्त्रवित् । षोडशे कृतवान् भाष्यं द्वात्रिंशे मुनिरभ्यगात् ॥' in Appendix IV. We shall shortly take up the discussion of what are all the works given in the SankaraVijayas would be probably Acārya's. 
@@ -2392,7 +2386,7 @@ having that fragrance; in reality it is not like that (air as such has no smell)
 that the qualities have parts; if it is that all His qualities come and join, then it would mean that Iswara is ignorant' (Mā. Śam. 6. 75-77). 
 There seems to be no evidence from the Bhāṣyas for this refuta- 
 tion of the Pasupatas. Because, in the Sūtrabhāṣya, starting from the Sūtra ‘पत्युरसामञ्जस्यात्' and upto 'अन्तवत्त्वमसर्वज्ञता वा' (Ve. Su. 2. 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 118 
 2. 37-41), the description refutes only the Pasupata theory that Iswara regulates the Pradhana and Puruṣas only as efficient cause. The mis- takes of the theory pointed out are the following: Iswara would Him- 
 self acquire attachment and aversion, no relationship could be shown to exist among Iswara, Pradhana and Purusas, it would be imperative to accept Iswara having a body, and that He would have divisions and he will not be omniscient. And in no other Bhāṣyas the Pasupata the- ory is taken up for examination. 
@@ -2419,7 +2413,7 @@ ways; Śankara refuted them in a thousand ways. The adepts argued for eight days
 he told 'hearing that you have written a commentary, I came to see 
 you. You are very dear to me. Do not think that writing the commen- 
 tary is a mere adventure; spread the message of Vedanta everywhere!'. Sankara's life-span was only eight years; he had earned another eight 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 120 
 by way of his penance; Vyasa blessed him saying 'May Śiva ordain an- other sixteen years of life to you! And may your commentary remain until the sun, moon and the stars remain!' and disappeared (Mā. Śam. 
 7.1-58). 
@@ -2445,7 +2439,7 @@ self has accepted this form out of sport (Līlāvigraha). Let Him do as he likes
 of life is not there. 
 (3) The story runs in Anantānandagiriya like this: Sankara, after telling the meaning of the Sutra in detail, slapped on the face of the 
 old man and told Padmapada 'thrash down this old man on the floor, and push him away with your foot! ('वृद्धस्य कपोलताडनमाचकार । परं च पद्मपादं निजशिष्यमाह एनं परपक्षिश्रेष्ठं वृद्धं भूम्युपरि अधोमुखं पातयित्वा पादाग्रावलम्बनाद्दूरं अपव्रजेति' A. Sam. 52. p. 206; De. p177). Padmapada prostrated before his Guru and said "Śankara is verily lord Sankara Himself; Vyasa is Nārāyaṇa Himself, What can I, a servant, do where a dispute has arisen between ('शङ्करः शङ्करः साक्षात् व्यासो नारायणः स्वयम् । तयोर्विवादे सम्प्राप्ते किङ्करः किं करोम्यहम् ॥') Then Sankara sang the glories of Vyasa when he appeared in his true 
-1. These words are not in De. version. ' is the reading there.Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+1. These words are not in De. version. ' is the reading there. 
 122 
 form and blessed him (Ā. Śam. 52. p207; De. p177). When Vyasa felt happy to see the Sūtrabhāṣya, and wanted to leave, Śankara told him, 'All-knower that you are, please witness my leaving the body now; if I give up the body in your presence, my liberation is certain!' Vyasa said, 'How the Bhāṣya would get publicised after you have left? So, please remain here'. When Śankara told him that his life-span is 
 only sixteen years, he invoked the presence of the creator Brahma by a mantra (व्यासस्त्वाकर्षयामास ब्रह्माणं सृष्टिकारणम्). Brahma appeared and said 'This Sankarācārya is verily the Lord of Kailasa; 
@@ -2477,7 +2471,7 @@ gated.
 clusions of Vedanta contained in Samanvaya and other Sutras, in the Vedānta Mīmāmsa, why did Vyasa choose the Sutra 
 (Vedanta Sūtra 3. 1. 1) which deals with transmigration of Jīva, a mat- 
 ter that is indirect for us, for discussion? What is there in it to re- fute Sankara's standpoint in 'a hundred' ways? And what could be Sankara's refutation in turn in 'a thousand' ways? This has not been taken up either by any author of ŚankaraVijaya or by the Dindima 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 124 
 commentator. This being so, is the discussion between Sankara and 
 Vyasa a mere imagination? Should it be taken to be symbolic to imply that several scholars used to come with an intention of raising objec- tions to Sankara's commentary? Śri C. N. Kriṣṇaswami Iyer (CNKS p 28) opines that there should have been much argumentation and quarrel about the commentary of Śankara, and that in many an occa- sion, Sankara had to accept the other man's point of view. Even then, 
@@ -2496,7 +2490,7 @@ served him alongwith his wife and children and presented him with
 a valuable crown, gem-studded bracelet of the upper arm, white umbrella, palanquin and two fans made up of yak-tail etc. (Ci. Śam. 12. 14-17). Śri C. N. Kriṣṇaswami Iyer (CNKS p29) opines that the name of this king was Ratnasimha; but in our books we could not 
 find this name. Since such descriptions are there in Cidvilāsīya and Anandagiriya, Iyer feels that the support of the kings too might have been instrumental in bringing about success of the conquest-tour of Śankara. But a better way of reasoning according to us is that, seeing the pontiffs of their time moving about with all their paraphernalia, the writers of those ŚankaraVijayas might have thought that it would be apt to include such honour to Acarya also. Whatever that be, there is no doubt that several disciples following Acārya because of 
 his knowledge, would have increased the respect people had on him. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 126 
+ 126 
 Refuting Śivapāshandi 
 64. Cidvilāsīya has written in its 15th chapter that while the Acarya was still residing in Kasi, several heretics called Śivapashandis came to win over him, and that the Acarya, after winning over them, got them give up their wrong practice of wearing burnt insignia of the lingam, trishul, ḍamaru etc. (as an imprint on the body) and drew them into the fold of Advaita. Likewise, it is written in Cidvilāsīya and in Anantānandagiriya that on various occasions the Acārya won over several opponents wearing various types of burnt insignia, forehead marks, Rudrakshi and Tulsi garlands etc. Such descriptions are plenty in Anantānandagiriya. We know that Anantānandagiri is a devotee of Cidambara. There might have been more of such practices like wear- 
 ing insignia like forehead marks, weapon marks etc. And he seems to have taken much trouble to emphasise that Acārya has stopped such practices. We shall discuss this point once again later. 
@@ -2530,7 +2524,7 @@ name Cūḍamaņi in South India. A well-to-do householder, he was
 respected by the king of Cuḍamani. Dharmakīrti was the son of a 
 brahmin by name Korunanda; as he was interested in Buddhism, he 
 studied at Nālanda Vidyāpīṭha under Sthavira Dharmapāla. Later, to 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 128 
 know about brahminical philosophy, he joined Kumārila as a servant; as per his wife's advice, Kumārila accorded an opportunity to him also 
 alongwith other brahmin students. Dharmakīrti became an adept in the Sastras, and after refuting other pundits in debates, he even ar- 
@@ -2564,7 +2558,7 @@ commentary on Pramāṇavārtika written by one by name Prajñākara Gupta. In t
 We can understand from this that Dharmakīrti refutes the theory 
 that Vedas are ‘apauruṣeya' (374). This supports the suggestion 
 1. In the Telugu copy, the part marked '...' is not clear. In De version, it is men- tioned ‘तेषां शीर्षाणि परशुभिच्छित्वा बहुषु उलूखलेषु निक्षिप्य कट (?) भ्रमणैश्चूर्णीकृत्य चैवं दुष्टमतध्वंसमाचरन्. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 130 
 that Dharmakīrti and Kumārila are contemporaries. In Tantravār- 
 tika there is evidence for the fact that Kumārila knew not only 
@@ -2590,7 +2584,7 @@ by name Kumārila Bhaṭṭa who got his education from the buddhists, but is re
 In Anantānandagiriya: The Acārya stayed at Śri Śaila for a month. 
 Once some brahmins came from Ruddha Nagara and told him that 'an 
 excellent brahmin by name Bhaṭṭācārya has come from the north and, 
-by way of debates, has won over innumerable Jains and, through the king, causing destruction of bad schools of thought, himself remain- ing without fear whatsoever. Hearing about such wonderful work, the Acārya came to Ruddha Nagara along with his disciples (Ā. Śam.Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+by way of debates, has won over innumerable Jains and, through the king, causing destruction of bad schools of thought, himself remain- ing without fear whatsoever. Hearing about such wonderful work, the Acārya came to Ruddha Nagara along with his disciples (Ā. Śam. 
 55. p 210; De. p 210). 
 132 
 Thus, the Acarya learnt about the Tuṣagniprāyaścitta (¶¶¶ 
@@ -2622,7 +2616,7 @@ Bhatta said 'there is Visņu, the Lord who rests on the serpent!' (Mā. Śam. 1.
 fanz gsuvilat: zy: fanyanfuguchf¥: 1 
 अदृश्यैर्विप्रलम्भार्थं पिशाचादिभिरीरिताः ॥ ( श्लोकवार्तिक, चोदनसूत्र, 138 - 140 ) 
 The statement of the buddhists that just by the presence of Buddha, like how it happens by a cintamani, teachings pour out even from walls profusely - is accept- able only for those who are faithfully devoted. But we do not believe in the teachings coming out of walls. (We doubt) whether those words are from Buddha or whether they are from unseen evil spirits to deceive; so we do not believe in them - is the meaning of these slokas. 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 134 
 expiation (Mā. Śam. 7. 100-102), have become false. For, accord- 
 ing to the first chapter, he won over the buddhists in debates, and did not betray his preceptor; and, having accepted Īśwara, said that Visnu is in the pot. To say that Bhaṭṭa rejected Iswara is not only 
@@ -2653,7 +2647,7 @@ caused Buddhism to retreat in this country. There is no historical evidence for 
 Himalayas; so, what authors like Madhava have written could only 
 1. In the Telugu printed book, the letters are not very clear; we have taken it down as we saw. (The version in De. Chap. 18 is egy akady f कटभ्रमणैः’ 
 :'). 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 be taken as an exaggeration. 
 136 
 In which state Kumārila Bhaṭṭa was seen by the Acārya? 
@@ -2678,7 +2672,7 @@ have given some selected slokas from Jinavijaya in the Appendix III. There is a 
 made reference to several opinions of Kumārila Bhaṭṭa and some they have agreed upon and some they have refuted. But in the 
 Vārtikas of Kumārila Bhaṭṭa, we do not find the consideration of the method of Vedanta accepted by Acārya. This does not mean that 
 1. For example, in the of Sūtrabhāṣya we find some of the Bhatta's opinions refuted, and some of them accepted. In Sureswara's बृहदारण्यकवार्तिक, we find Bhatta's Vartikas 'अप्रामाण्यं त्रिधा भिन्नम्' considered and his opinion that 'among false knowledge, nescience and doubt, only nescience is non-existent' (चोदनासूत्र, sloka 54, 55 ) has been refuted (बृहदारण्यकवार्तिक, 1.4. 421- 422). 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 138 
 Kumārila was not conversant with Vedanta; because he writes that 'the existence of Atman, which Sabaraswami cleverly establishes, becomes concrete by the practice of Vedanta' (दृढत्वमेतद्विषयप्रबोधः 
 fà-faqqu Slo. Var. - Atmavāda, 148). But it is doubtful whether he knew Sankara's Vedanta Prakriyā. He has nowhere discussed the extraordinary prakriyas of Sankara like Adhyāsa (अध्यास), Avasthātrayaprakriyā (अवस्थात्रयप्रक्रिया), etc. Because Bhaṭṭapada mentions points of disputation on a Jain Pandit by name 
@@ -2731,7 +2725,7 @@ this sloka.
 Now, let us see what is there in Cidvilāsīya. When Bhaṭṭa told 'I have decided about the expiation for the sin I have committed, on 
 the basis of the scriptures. Fortunately, you have come at the cor- rect time; within a short while I am going to die', the Acarya replied, 
 'You do not seem to know the meaning of what is expressed in the Gītā. Who is the killer, and who is the killed? All this is going on as ordained by Iswara' (Ci. Sam. 16. 5). Bhaṭṭa wondered 'Oh, you are 
-right. I have heard that some Sannyasin has written the Bhāṣya; itŚri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+right. I have heard that some Sannyasin has written the Bhāṣya; it 
 142 
 must be you, and this could be that Bhāṣya. Going through it only 
 will enable me to tell something. My body being half-baked, how my 
@@ -2772,7 +2766,7 @@ In Vyāsācaliya the story runs like this: The Acarya started with his disciples
 10). Bhatta offered hospitality through disciples, and explained how 
 he studied with buddhists, how they pushed him down from upstairs, and how he expiated himself for the sin of deceiving his Guru (Vyā. Śam. 5. 11-33). There is no mention of getting the buddhists killed. It 
 1. In the Devanagari copy, there is no mention of 3 (De. p 181). 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 144 
 is stated that 'There is one disciple of mine in Magadha country; he will compose a writing on your Bhāsya (मगधेषु वसन् ममास्ति शिष्यः स तु तस्मै प्रभवत्यसंशयम् Vyā. śam. 5. 34 ) ; he is famous as Viśwarūpa (स विश्वरूपः प्रथितो महीतले Vyā. Sam. 5.35 ); he is a celebrated house- holder, an adept in Vedic rites; he does not approve of renunciation. If you win over him, your desire will be fulfilled. So, go there with- out delay' ('महागृही वैदिककर्मतत्परः । प्रवृत्तिशास्त्रे निरतः स कर्मठः ॥ निवृत्तिशास्त्रे न कृतादरः स्वयं (केनाप्युपायेन वशं स नीयताम् । वशं गते तत्र भवेन्मनोरथस्तदन्तिकं गच्छतु मा चिरं भवान् ॥' (Vyā. śam. 5. 35-36). All this is about a Bhatta's disciple by name Viswarupa. We should note 
 that the very Ślokas of Mādhavīya (7. 114 115 ) are the slokas of Vyāsā- caliya (5.35,36). 
@@ -2798,7 +2792,7 @@ sentences leading towards Brahman, making Maṇḍana have firm de- votion in th
 The meaning of the sloka is that 'the Bhagavan (Acārya), desirous of seeing the house-holder Viswarupa, taking the arial route by the power of Yoga, descended in front of the courtyard of his house. As per Vyāsācaliya, Maṇḍana that was in Prayag is different from Viswarupa who was in Magadha kingdom. And it is clear that the present debate took place not with Mandana but with Viswarūpa. Govindanatha, following the Vyasacaliya closely, does not at all 
 mention the name of Mandana; he has made Bhaṭṭa say only 'my disciple by name Viswarupa is at Magadha' (Go. Śam. 5. 25). 
 Is the author of Vyasacaliya, Vyāsācala described by Madhava, or is he a different one? The reason for the doubt has already been mentioned (page *). Even if we think that the Vyāsācaliya that we have today is not the ancient Vyāsācaliya but different 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 146 
 and recent, we cannot deny that people were there at the time of the book, who thought Mandana and Viswarupa to be different. One Viswarupācārya is known as the author of a commentary to Yajñvalkyasmṛti (4) having the title Bālakrīḍā (a). The style of that book is different from the style of 
 Mandana. On this account also, it seems, the famous Mandana 
@@ -2826,7 +2820,7 @@ has been published in the Madras Oriental Manuscript Series (No.
 not written anywhere in his works that he is a disciple of Kumārila Bhatta; instead expressions like Acarya Maṇḍana Miśra, Śriman Man- ḍana Miśra, Mahāmahopadhyāya Mandana Miśra, Āryamaṇḍana, 
 Mandana etc. are found (Introduction to Brahmasiddhi, p xxv). (In a footnote Śri Sastry writes that in Vivarana Prameya Sangraha and Parāśara Madhaviya, Bṛhadaranyaka Vārtikas are considered as 
 authored by Viśwarūpācārya; this means that the illusion of consid- ering Viśwarūpa and Sureswara as one was firmly established at the very time of Madhavācārya. Sastry also says that Anandanubhava, the author of Nyāyaratnāvali, has written farfaà 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 148 
 विश्वरूपग्रन्थे दर्शितवाक्यपरिग्रहो दृश्यते । न चासौ ग्रन्थः संन्यासिना विरचितः । तथा हि परिव्राजकाचार्यसुरेश्वरविरचितेति ग्रन्थे नाम लिखेत् । लिखितं तु भट्टविश्वरूपेण विरचितेति ॥'. This means that in the opinion of Anandanubhava, Viswarupa is not the name of a Sanyasin. As this is not relevant presently, it can be ignored but since it bears 
 witness to what has been discussed in the previous section, we have mentioned it here). Sastry has pointed out that Mandana has also not written anywhere in his books that he is Sankarācārya's disciple 
@@ -2855,7 +2849,7 @@ the position of Vedāntins having attachment to pūrva-mīmāṁsā, should it n
 oncile with by inferring a broadening of views from pre-Shaankarite 
 to Shaankarite and to post-Shaankarite Vedāntins. Traditionalists 
 are saying in one voice that Maṇḍana the mīmāmsaka, after getting defeated by Sankara and consequent Sannyāsa, himself became 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 150 
 Sureśwarācārya. (3) There are a few slokas with similar meaning 
 and some common sentences in both Brahmasiddhi of Maṇḍana and Sambandha Vārtika of Sureswarācārya; this is possible only if these two persons are one and the same. (4) Both the upholders and opponents of Advaita of the immediate post-Sankara period 
@@ -2885,7 +2879,7 @@ Miśra would not have referred to himself in his works only by title name as 'Ac
 there are similar sentences and strategies (yukti) in the works of 
 Sureśwarācārya and Maṇḍana; just because of that it does not get proved that they are one and the same. Advaitins like Śaṁkarācārya 
 have been utilising acceptable advaitic prakriyas of other schools of 
-thought. For example, Mandana Miśra himself has used the opinion 'अनादिरप्रयोजना अविद्या' from Avidyopādāna-bhedavādin school of thought (Brahmasiddhi, p 10); and has also used somewhat altered version of Prapanca-pravilaya-vādin school of thought (Brahmasid- dhi, p 157). (5) The strategies that Sureśwarācārya has taken fromŚri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+thought. For example, Mandana Miśra himself has used the opinion 'अनादिरप्रयोजना अविद्या' from Avidyopādāna-bhedavādin school of thought (Brahmasiddhi, p 10); and has also used somewhat altered version of Prapanca-pravilaya-vādin school of thought (Brahmasid- dhi, p 157). (5) The strategies that Sureśwarācārya has taken from 
 152 
 Mandana are agreeable to both; it is not possible to decide whether any previous Advaitins had used them or whether Mandana has used 
 them for the first time. Sureswarācārya and later Advaitins have 
@@ -2914,7 +2908,7 @@ Sureswarācārya, in his Vārtikas, while retaining whatever portions that would
 that Mandana has not considered. Also he has refuted several that 
 are similar to Mandana argumentations. 
 1. This pertains to Atmabodha's commentary; we shall take up this issue later once again. 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 154 
 'Because of all these reasons, it would be difficult to believe that 
 Mandana Miśra is a disciple of Kumārila Bhaṭṭa, or that the Acarya's 
@@ -2944,7 +2938,7 @@ met Mandana at a place called Bijjalabiḍu. In the 17th Chapter of Cidvilāsīy
 शुभकरमवाप 17.2); and after describing the country in some slokas (समुल्लसल्लतालास्यविद्याभ्यासोचितैश्श्रितम् । विज्वलद्बिन्दुराख्यातं 
 YA: 17.15) it is mentioned that he came to a city called 
 Vijwaladbindu. In the Telugu manuscript that we have of Ananta- 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 156 
 nandagiriya, it is mentioned only that the Paramaguru reached the famous place Vidyānilaya (परमगुरुर्विद्यानिलयमिति प्रसिद्धपुरं 
 - 
@@ -2978,7 +2972,7 @@ According to Madhaviya, she is the incarnation of Saraswati; people also used to
 fiafti Mā. Śam. 3. 9). In the past, when the ṛṣis were studying their Vedas with Brahma, the ṛṣi Dūrvāsa erred some- 
 where, with a wrong intonation (swara). Hearing that, Saraswati 
 laughed; this enraged Dūrvāsa to curse her 'take birth as a human!'. When Saraswati fell at his feet and requested again and again to withdraw the curse, and as per the prayers of the other rṣis, he 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 158 
 qualified the curse that she would be released after meeting Śankara in human form (Mā. Śam. 3. 10-15). According to Cidvilāsīya! her 
 name is Sarasavāņi. The story runs similarly as in Madhaviya. All the four - Cidvilāsa (Ci. Sam. 16. 37), Mādhava (Mā. Śam. 3. 15,26,49,57), Vyāsācala (Vyā. Sam. 6. 14,26,29) and Govindānanda (Go. Śam. 5. 31) - say 
@@ -3022,7 +3016,7 @@ We have to take note that Anandagiri has written that Vidyalaya
 is the name of the city, and that Cidvilāsayati has written that it is 
 the name of Mandana's house. Cidvilāsa says that he had one plat- form in front of the house, and Anandagiri says he had two platforms. 
 On the whole, the biographers are equivocal in picturing Mandana 
-as a great scholar with a large number of disciples, and that he wasŚri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+as a great scholar with a large number of disciples, and that he was 
 162 
 rich. In Vyāsācalīya there is no mention of the city or the description 
 of the house. It is only mentioned that he was in Bhubhrinniketana (Vyā. Śam. 6. 28), or in Rājapura (Vyā. Śam. 6. 77). Both Man- ḍana and Bhāratī, after marriage, went to Rājagṛha (ĮĖ 
@@ -3049,7 +3043,7 @@ to what is in Cidvilāsīya (Chap. 56, p 213-214). Maṇḍana began plac- ing k
 There is no mention of the Śraddha ceremony in Vyasacaliya. 
 Viśwarupa had his routine observances done, and was expecting guests. Seeing Acarya, he decided in his mind to offer alms; washed and worshipped his feet with flowers (प्रतीक्ष्यमाणोऽतिथिमातिथेयः । उदैक्षतैनं Vyā. śam. 6. 2; स भिक्षवेऽदृष्टचराय तस्मै सङ्कल्प्य भिक्षं पदयोरमुष्य | चिक्षेप पुष्पम् 6. 3). The ācārya did neither sip the water that Bharati placed in his hands, nor put it down ( 
 6. 79). Asked why by Viswarupa, he answered, 'I shall eat in your house and drink this water if you comply by my requirement'. When Viswarupa said 'if that be possible, I shall comply', the Ācārya said 'I 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 164 
 wish to have a debate with you; if you give that Bhiksha, I shall drink this water' (‘सार्धं त्वया वदितुमिच्छति मे मनोर्हन् । तच्चेत्प्रदास्यति भवन् 
 :). Mandana commenced argumentation muttering 
@@ -3072,7 +3066,7 @@ First Dialogue purported to have taken place when Sankara arrived unexpectedly
 ther would not; additional load of tuft and the sacred thread would 
 be heavy for the scriptures) 
 (8) त्यक्त्वा पाणिगृहीतिं स्वामशक्त्या परिरक्षणे । शिष्यपुस्तक भारेच्छोर्व्याख्याता ब्रह्मनिष्ठता ॥ (leaving the wife married to you without being able to protect her, desiring the load of disciples' books instead, well exposed is the committment of yours to Brahman!) गुरुशुश्रूषणालस्यात्समावर्त्य 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 166 
 गुरोः कुलात् । स्त्रियं शुश्रूषमाणस्य व्याख्याता कर्मनिष्ठता ॥ (leaving the Guru without being able to serve him and coming home, and serving the wife instead, well exposed is the committment of yours to the Vedic rites!) 
 (9) स्थितोऽसि योषितां गर्भे ताभिरेव विवर्धितः । अहो कृतघ्नता मूर्ख कथं ता एव निन्दसि ॥ ( having had your stay in their womb, and having grown in them, O fool, how is that you are condemning the women, and what sort of ingratitude is this!) यासां स्तन्यं त्वया पीतं यासां जातोऽसि योनितः । तासु मूर्खतम स्त्रीषु पशुवद्रमसे कथम् ॥ (having drunk their breast milk, and having born from their womb, O idiot of the 
@@ -3094,7 +3088,7 @@ is correct.
 Firstly, Maṇḍana Miśra was a great scholar and a great soul com- 
 mitted to Vedic rites; He was a person to have even rṣis like Vyasa and Jaimini as brahmin invitees. On the day of the ceremony when as per the words ‘अक्रोधनैः शौचपरै:' (by those not inclined to passion anger, by those with internal and external purity, ...), at a time when the per- former and the invitee brahmins are to maintain extremely peaceful 
 mental poise, it does nor agree with the context that he abused the 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 168 
 yati who descended from the sky by his yogic power, using words re- pugnant and full of anger. And it is improbable that great rṣis like 
 Vyāsa and Jaimini kept silence while he was enraged thus and was in- 
@@ -3123,7 +3117,7 @@ Mandana agrees to hold the argument
 83. Now let us proceed to follow the story further. While Jaimini was 
 smiling, Vyasa addressed Maṇḍana, 'my dear, what you are doing is 
 not good conduct. You should not reproach the sannyasin who has 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 170 
 given up all desires; think of the unexpected guest as Vişņu Himself and invite him. Mandana did likewise. Then Sankara told him ‘dear 
 sir, in food alone I am not interested; I have come for the alms in the 
@@ -3151,7 +3145,7 @@ Secondly, Madhava (Mā. Śam. 8. 55) and also Sadananda (Sada.
 6. 46) have mentioned that both Vyasa and Jaimini told Mandana to 
 'keep Ubhayabhārati as mediator'. But in Cidvilāsīya, it is mentioned that Acārya himself suggested Mandana 'let your wife be the witness' (Ci. Śam. 18. 3) and in Anandagiriya, it is stated that both agreed to have her as the mediator (A. Śam. Chap. 56, p 216; De. p 184). Who 
 really fixed her as the mediator? It is not known what opinion the townsfolk had in the matter. Since Madhava has written (Mā. Śam. 8. 57-58) that Sankara came in the morning and took his seat in the assembly; and that Mandana having made his wife the mediator, was prepared to argue; therefore we have to understand that she was a 
-great scholar, and that in those days women too used to participate inŚri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+great scholar, and that in those days women too used to participate in 
 172 
 debates just as Gārgi and others. Whether this is suited to those times is a matter which historians are to decide. In Vyasacaliya, although Vyasa was not involved, Viswarupa, just as Maṇḍana of Madhaviya, readily agreed to argue. The slokas 
 (Ma. Sam. 8. 46), वादे हि afe (Mā. Śam. 8. 47) and :: (Mā. Śam. 8. 48) are also found in Vyāsācalīya (Vyā. Śam. 6. 86-88). Only the second half of the śloka अत्यल्पमेतद्भवतेरितं मुने । पास्यामि पाथो यदि वाददित्सुत् । (Vya. Śam. 6. 85) has been changed to suit the situation of the story there. ‘कः पार्ष्णिकः' has become ‘कः प्राश्निकः'; may be that itself is the cor- rect reading of Madhavīya. Further, the sloka reading also is common to both (Mā. Śam. 8. 62; Vyā. Śam. 6. 92). 
@@ -3174,7 +3168,7 @@ Vedantic declarations are not to be taken as valid means of knowl-
 edge about the conscious entity; because word has no active relation- 
 ship with an existing thing. The earlier part of the Vedas only is the valid means of knowledge regarding actions; it is known that word has 
 function only in action. My opinion is that through karma alone sal- vation is achieved; and it exists throughout life for beings. If I lose the argument, may it be contrary to what you have said; and that means I shall take Sannyasa and wear ochre robes. If my wife is aware of this, may she be the witness as you have told! (Vya. Śam. 6. 94-95). The same slokas are also found in Mādhavīya (Mā. Śam. 8. 64-65). We have something to say regarding these propositions. 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 174 
 (1) The subject about which the debate was held is not men- tioned in Anantānandagiriya; only it is stated 
 f 
@@ -3209,7 +3203,7 @@ Debate with Maṇḍana: As described in Mādhavīya
 of the slokas are shown at the respective places. Our comments are given within brackets. 
 Mandana: What is the pramāņa for the identity of Jīva and Ïśwara? 
 (8.76). 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 176 
 Śankara: The instruction given to Śvetaketu and others by Ud- dālaka et. al. is the pramāņa (8. 77). 
 [Sankara had not said anything about identity of Jīva and Iswara in his proposition; he had told that Brahman appears as the world 
@@ -3247,7 +3241,7 @@ mer, Jīva would become, verily, Paramātman and would be contrary
 to your thesis (8. 87). 
 [Neither this primafacie view nor its conclusion is found in the Bhāṣya. Neither for Maṇḍana, the mīmāmsaka, to propose this nor for Sankara to answer it there is occasion here. Could it be that the 
 poet, keeping the thesis of Rāmānuja and others in mind, has added this proposition and its conclusion?] 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 178 
 Mandana: It would not be wrong if we say what was not evident 
 earlier because of ignorance, would become (evident as) equality be- 
@@ -3286,7 +3280,7 @@ being material in nature, there exist connection and support (8. 96).
 Śankara: Is Atman omnipresent, or is he of the measure of an 
 atom? In both cases, there is no reason for joining, which is there for 
 entities with parts and not for partless entities - such a thing is not witnessed in the world. We have said this justification by accepting the mind as a sense organ; mind is only helpful to the sense organs 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 180 
+ 180 
 like the eye, but itself is not a sense organ. 
 [This proposition is a continuation of the previous proposition; it 
 would not be comprehensible to those not conversant with the spec- ulative systems. These propositions and consequent theses are not 
@@ -3320,7 +3314,7 @@ already accepted; and if you mean the latter, then, pot etc. cannot be examples;
 (8. 105-106). 
 [Instead of answering that inference is a means of knowledge only in vyavahāra, and not in the highest reality, why does the Acarya point out the fault in the inference !]. 
 Mandana: I am trying to prove difference without conditioning factors and you have accepted only difference with (upādhis) condi- 
-tioning factors. Pot as an example contains the former, isn't it (8. 106)?Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+tioning factors. Pot as an example contains the former, isn't it (8. 106)? 
 182 
 Śankara: Difference between pot and Iswara is also a difference 
 with upadhis. There is this avidya, an upadhi. Hence the demerit of 
@@ -3351,7 +3345,7 @@ Mandana: In the scriptural statement 'dvā suparṇā sayujā sakhāyā' (Rigved
 knowledge is not mentioned. Hence this does not come in the way of the identity (of Jiva and Iswara) that the scripture mentions. If it is not so, something which has meaning elsewhere becomes a measure 
 for one's own meaning (8. 113). 
 [It is agreed in the Bhāṣya that eulogies in Mantras that have mean- 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 184 
 ing elsewhere may become pramāņas in some cases. For example, 
 see Devatadhikaraṇa bhāṣya (1. 3. 33). However, if it was written that 
@@ -3389,7 +3383,7 @@ Mandana: By implication that he dwells in the body, Maheswara could also become 
 Mandana: If this refers only to sattva and Kṣetrajña, how could the Śruti that implies inert intellect to be the enjoyer by saying 'atti' be regarded as pramāņa (8. 125)? 
 Śankara: Just as non-burning iron becomes one that burns by con- 
 tact with fire, the intellect that is inert could become the enjoyer by entry of consciousness (8. 126). 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 186 
 [One should not forget that Mandana, although a karma- mīmāmsaka, has argued as if he were a Vedantin insisting difference between Jiva and Iswara, or as if he were a logician. A mīmām- 
 saka would never pose a proposition that requires the authority of Śruti for perception. The thesis that sattva could have bhoktṛtva (enjoyment) is contrary to Acarya's Bhāṣya. Kṣetrajña, considered alone, also cannot have bhoktṛtva. Surely the inert sattva, conceived 
@@ -3420,7 +3414,7 @@ finite consciousness, bliss, all desires become fullfilled.
 Mandana: The śruti says 'आत्मा वा अरे द्रष्टव्यः' (ātman has to be 
 seen), making Jīva the subject and Paramatman the predicate. If this is not so, the Śruti ceases to be pramāṇa, isn't it! 
 Śankara: This does not imply ultimate difference. Because, it will go against the Advaita Śruti. Hence, it remains pramāņa for Brahman. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 188 
 Mandana: Let it be that the Śruti stating non-difference is imply- ing imaginary non-difference! 
 Śankara: Difference is apprehended as it is evident in empirical transactions. Non-difference is not evident likewise, and hence it is 
@@ -3455,7 +3449,7 @@ etc. are obtained by karma alone; therefore, the brahmins who are
 conversant with the Vedas perform the rites'. 'The learned say that 
 he who knows the time of observation of rites, and he who observes 
 them at the proper time, is the knower'. 'He who observes karma du- 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 190 
 tifully is the devotee, he who carries them out punctually is the man of knowledge'. Sannyāsa in Kali Yuga is prohibited by several such 
 statements. And you have accepted the same; that too directly from brahmacarya stage itself (Ci. Sam. 18. 7-15). 
@@ -3481,7 +3475,7 @@ stood firm on the prime authority of the Upaniṣads (i.e., Jñāna kāṇḍa);
 and Mandana stuck to the Mantras and brahmanas as chief author- 
 ity. In Jñāna kāņṇḍa, Sannyāsa is prescribed as the subsidiary part for knowledge; and in Karma kāṇḍa, Vedic rites are prescribed and 
 their commendation and fruits thereof are explained. Therefore, it is 
-more appropriate to imagine that the two great scholars must have mainly argued about observation of Vedic rites and attaining knowl- edge through renunciation of Vedic rites.Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+more appropriate to imagine that the two great scholars must have mainly argued about observation of Vedic rites and attaining knowl- edge through renunciation of Vedic rites. 
 The Importance of Mandana's Arguments 
 192 
 87. The concept that this should have been the main thrust in the argumentation has another explanation for clarity. Buddha had 
@@ -3515,7 +3509,7 @@ eral previous practices that might have helped the opposers of karma. We feel th
 been added into the dharmasastras at that time. As a result of these 
 new efforts, several argumentations must have taken place between 
 the scholars who were protectors of the path of Vedic rites and the upholders of Jñāna kāṇḍa. It can be said that the Maṇḍana-Śankara 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 194 
 debate is one such most ancient and historically valuable argumen- 
 tation. 
@@ -3538,7 +3532,7 @@ This matter has been taken for a detailed discussion at the end of
 the fifth brāhmaṇa of the fourth chapter of Bṛhadāraṇyaka Bhāṣya. It is written that there are Śruti sentences supporting only one stage of life (of the householder) like 'aikāśramyajñāpakāni', in the Śruti 'yāvajjīvamagnihotram juhuyāt (juhoti?); also there are sentences upholding other stages of life. About the subject of Sannyasa, it is written that there are Śrutis and Smrtis mentioning krama, vikalpa, 
 yatheshṭāśramaseva; and there is the traditional practice by those conversant (एवं व्युत्थानविकल्पक्रमयथेष्टाश्रमप्रतिपत्ति-प्रतिपादकानि हि श्रुतिस्मृतिवाक्यानि शतशः उपलभ्यन्ते इतरेतरविरुद्धानि । आचारश्च 
 1). And at the end of the discussion, Acārya has concluded about Vidvat Sannyāsa by writing विदुषस्तावत्पारिव्राज्यं सिद्धम् । सम्प्रदानादिकर्मकारकजात्यादिशून्याविक्रिय-ब्रह्मात्मदृढप्रतिपत्तिमात्रेण वचनमन्तरेणापि ।' (a man accomplishes pārivrājya merely by unshak- 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 196 
 able knowledge of Brahman-Atman that is devoid of sampradāna 
 and other kārakas, genus, changes in form etc. although there is no sentence to that effect) He has written fafafafa fus पारिव्राज्यम् ।' एतमेवात्मानं लोकमिच्छन्तः प्रव्रजन्ति इति वचनात् । 
@@ -3558,7 +3552,7 @@ in the Jābālopanishad. Therefore, it is correct to say that all karma is only 
 clarified again and again in his Gītābhāṣya, Bhāṣyas on Upanisads like Iśāvāsya, Bṛhadāraṇyaka, Chandogya, Taittirīya, Aitareya, as well 
 as in his Sūtrabhāṣya that it is only for such ignorant people who are having desires that karma is prescribed to be performed as long as 
 they live. 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 198 
 Is Sannyasa prohibited in Kali Yuga? 
 Another aspect remains to be examined here. As described till now, (1) the paramahamsya to be adopted by those who have known At- man or by those seekers who are desirous of salvation, (2) the Āśrama 
@@ -3580,7 +3574,7 @@ Jaimini's opinion not opposed to Acarya's conclusions
 89. Before closing this subject of argumentation, it is necessary to describe another conversation between the Acarya and Mandana as mentioned in Mādhavīya (Mā. Śam. 9. 3-15). This is not mentioned in Cidvilāsīya. Getting up from his seat and prostrating before Śankara after three circumambulations, Maṇḍana said 'Sire, I beg your par- don for having abused your highest stage of life. I request you kindly to remove my ignorance, establish me in pure Advaita and make me a man of knowledge; give me sannyasa and accept me as your disci- ple'. Cidvilāsīya gives only this much of detail (Ci. Śam. 18. 44). But Madhaviya has another thing worth considering. Even after hearing Acarya's expounding of the meaning of scriptures with reasoning and after giving up his own pride, Mandana expressed one more doubt of 
 his before him: 'I am not the least unhappy that I have lost the ar- gument to you. But even Jaimini's exposition also are shown to be wrong! How is that the all-knower Jaimini wrote wrong things in his Sūtras?' (Mā. Śam. 9. 2-3). To answer this, the Acarya said 'This is not the fault of Jaimini. Not knowing what he really means, we are ac- cusing him of ignorance. Although Jaimini has purport in Parabrah- man, seeing that those attached to objects are not qualified for Brah- 
 mavidyā, he elaborated primarily dharma which would lead one to- 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 wards obtaining knowledge. The Śruti statement 
 200 
 ' (Bri. Up. 
@@ -3611,7 +3605,7 @@ from the opinion of the Upanisad that we have said. Not being aware of this, peo
 ence; the reason for that is the non-perceptability of Brahman by the senses. Although it is true that he has cited the Śruti che has cited that not for the sake of inference; but to convey that the At- 
 man that is known by a distinct kind of instruction of the Veda is not 
 being considered by any]. 
-Hearing this answer from the Acārya, all the people gathered thereŚri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+Hearing this answer from the Acārya, all the people gathered there 
 202 
 were happy including Mandana and Sarada. Desiring to know this by Jaimini himself, Mandana thought of him. Accordingly Jaimini 
 appeared and said 'Do not doubt this Bhāṣyakāra. What he has said 
@@ -3632,7 +3626,7 @@ bring in distinctions (bheda) in God and kill the right expressions (go, T); how
 That Jaimini appeared at the very remembrance of Mandana, that he said Sankara's opinion is his in essence, meaning that Sankara's 
 words only bestow knowledge of the ultimate and for this he cited Śiva purāņa as pramāņa - all these being sentences written by the poet for the sake of people who have faith in mantra siddhi and faith in the Purāņas lauding Sankara, it is not necessary for us to discuss upon 
 1. It seems the poet has punned here comparing the Vedāntins of his time who insisted upon distinctions with Muhammadans. But there is no evidence that Muhammadans (or even such Vedantins) were there at Acarya's time. (Bheda: dis- tinction or break; Go: cow or speech. -Translator) 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 204 
 them here. But it is true that the readers would get a doubt and won- der that Mandana Pandita, who had such greatness of penance as to 
 make Jaimini and Vyasa manifest before him by mere remembrance, 
@@ -3659,7 +3653,7 @@ seeing the garland that decored the neck of Mandana withering,
 she beckoned both of them "please come over for the bhiksha" () - this is all that is mentioned there (Mā. Śam. 8. 
 132). 
 Some of the slokas of Vyāsācalīya (Vyā. Śam. 6. 97-100) are exact replicae of the slokas of Madhaviya. Even mention about the garlands is there. But there is a sloka stating that the argumentation was held 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 for only six days: 
 206 
 सा सप्तमे दिन उपेत्य सरस्वती तौ संवीक्ष्य भिक्षितुमभूदुभयोरनीहा 
@@ -3689,7 +3683,7 @@ mentioned in Kumārila Bhatta's Tantravārtika:
 चतुर्दशाष्टादश वा विद्यास्थानानि धर्मप्रमाणत्वेन शिष्टैः परिगृहीतानि वेदोपवेदाङ्गोपाङ्गाष्टादशधर्मसंहितापुराणशास्त्र-शिक्षादण्डनीतिसंज्ञकानि 
 (Tam. Vā. 1. 3. 3-7, p 201) i.e., that dharma requires eighteen disci- 
 1. Or, was it the imagination of the poet that the defeated Maṇḍana's agitation of mind heated up his body? 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 208 
 plines of study. Sarasavāņi, who was witnessing the arguments of both, rose quickly upon hearing Sankara's words, and - every day she was inviting her husband for bhojana and the monk for bhiksha - invited both of them for bhiksha on the eighteenth day (Ci. Śam. 
 18. 38-41). It might be that the author has felt argumentation was 
@@ -3715,7 +3709,7 @@ till you win. Therefore I shall take leave' and prepared herself to de-
 part. Then, just to establish that his doctrine alone is the correct one (स्वमतैकसिद्ध्यै) - and not for the honour by all as an all-knowing person - and to win over Saraswati, the Acārya binded her by a spell of Aranyadurga, said 'I know that you are none other than Goddess 
 Saraswati; I am your devotee, and You can depart only when I permit You to go' (Mā. Śam.8. 133-136). Since Maṇḍana, defeated as he was and wanted to become his disciple, Sankara looked at his wife's face, (Mā. Śam. 9. 45) she said 'when I was young, a mendicant had pre- dicted my future; it has happened exactly as he had told. But you have not yet won over my husband completely; I being his better-half, win over me and then accept him as your disciple. Although you are the Ultimate Cause of the world, the all-knower Paramapuruşa, I am cu- rious to argue with you' (Ma. Śam. 9. 56-57). Since this looked quite reasonable, the Acarya agreed to this proposal. 
 Cidvilāsīya: Maṇḍana, after circumambulating and prostrating before the Acārya, said 'I beg your pardon for all bad things that I have said about Sannyāsa. And I request you to instruct me into the 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 210 
 knowledge of Advaita'. Accordingly, the Acarya gave him Sannyāsa (Ci. Śam. 18. 43-45). Witnessing all this, Vani, who now got herself liberated from the curse of Dūrvāsa, sang the glories of Śankara and prepared herself to go to her abode, the world of Truth (Ci. Sam. 18. 47). Then the Acarya, binding her by the spell of Vanadurga, asked her 'Without arguing with me and winning me over, where are you going?' (Ci. Śam. 19. 2-4). She replied, ‘O ye eminent Sannyasin, you could not know who I am. Never it is possible for you to win over me in argumentation. Sky being my abode, how a debate can take place between me and a terrestrial being like you? Seeing you, I have become free from the curse of Dūrvāsa. Hence, please permit me 
 to depart to my world of Truth. When again she started departing, the Acarya tightly binded her by the spell of Vanadurga, and started arguing with her (Ci. Śam. 19. 5-10). 
@@ -3738,7 +3732,7 @@ Dūrvāsa might have crept in. Beside Madhava, several others could
 have accepted the name 'Ubhayabharati'; this is evidenced by the fol- lowing śloka of Gururatnamālikā: 
 परकीयवपुः प्रवेशशैल्या स्मरतन्त्राणि विदन्वशी न लौल्यात् । अकृतातनुभारतीं वशे यः सुकृतं मे सुतरां गुरुः स जीयत् ॥ २९ ॥ 
 commented upon by Atmabodha the author of Susamā as follows: इदं पद्यमत्रत्याः कतिपये कामरा (श्रीमदा)चार्यविजयविद्याशङ्करविजयादिषु निषण्णबुद्धयः अकृतोभयभारतीम्' इति यत्किञ्चित्पदव्यत्ययेन पटुमण्डन- मिश्रेति पद्यसमनन्तरं पठन्ति” 
-[Some people here who admire Acāryavijaya, VidyāśankaraVijaya etc. read this stanza after (the 22nd) stanza patumandanamiśra with a little alteration of the text as 'akṛtobhayabhāratīm']. It seems Ātma-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+[Some people here who admire Acāryavijaya, VidyāśankaraVijaya etc. read this stanza after (the 22nd) stanza patumandanamiśra with a little alteration of the text as 'akṛtobhayabhāratīm']. It seems Ātma- 
 212 
 bodha calls the Madhaviya SankaraVijaya as VidyāśankaraVijaya. 
 Some of his followers too opined that the author of Gururatnamālikā 
@@ -3759,7 +3753,7 @@ was a Abhinavoddanḍa-Vidyāraṇya swāmi, whether he had written a Vidyāśan
 obstructed her (who was already in the sky) in order to establish that his philosophical conclusions were agreeable to all (Al मुनीन्द्रः ।... स्वमतैक्यसिद्ध्यै Ma. Sam. 8. 134); later he says that Ubhayabhārati herself challenged 'you have not won over me, the 
 better half of Mandana; first win over me and then make him your disciple. I am curious to argue with you' (वपुरर्धमस्य न जिता मतिमन्नपि मां विजित्य कुरु शिष्यमिमम् Ma. śam. 9. 56; त्वयैव सह वादकृते हृदयं 
 fauf 4 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 214 
 Ma. Sam. 9. 57). Out of these two, which one is true? And since Cidvilasiya and Anandagiriya contend that Śankara himself provoked Sarasavāņi for the debate, it is not clear what was the necessity for Acarya to make an argumentation with 
 her. 
@@ -3783,7 +3777,7 @@ gument, said 'would one of good reputation argue with women?' She replied 'be th
 answered it would be going against the Sannyasa dharma, and if they 
 are not answered, it would be indicating non-omniscience, what shall I do? Śankara offered to answer them if a month's time is given. When she agreed to this, he started by arial route using his Yogic power (Mā. Śam. 9. 70-73). 
 1. We have not given here Bharati's questions of the science of love and the prob- able answers the Acarya might have given, thinking that they are unnecessary. This subject is described in works like Vätsyāyana Kāmasūtra and Pañcasāyaka. 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 216 
 Cidvilasiya: Both of them argued for eight days. Then Vāņi ques- tioned him on the science of love. The Acarya asked for a month's time for answering, and started from there (Ci. Śam. 19. 12-18). 
 Anandagiriya: As requested by the Acārya, Saraswati remained in the sky and asked questions on Vedas, Purāņas, Itihāsas and other sys- 
@@ -3807,7 +3801,7 @@ Parakāyapraveśa (metempsychosis)
 on a hunting trip, swooned and fallen dead under a tree in the forest during night (Mā. Śam. 9. 75); or, his one hundred wives and elders of the place had brought the body of the dead king to the cremation ground and had placed it on the funeral pyre (Ci. Śam. 19. 22-23; Ā. Śam. Chap. 58, p 218, De. p 180). The Acārya said to Sanandana ‘this 
 Amaraka, having a hundred wives, is dead; I shall enter his body by Yo- gic power, make his son the king and come back; I shall see his wives 
 directly'. Then Sanandana replied, 'although you are omniscient and 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 218 
 know everything, I am telling this to you: in the past, Matsyendra left 
 his body in the care of his disciple Goraksha and entered the body of a 
@@ -3839,7 +3833,7 @@ scribe that the dead body of the king was brought to the cremation ground and la
 Is it that long time after the happening of the event the story-writers 
 wrote what they had heard, or is the story itself a concocted imagi- nation? Mādhaviya describes that the Acarya withdrew his vital airs 
 slowly starting from the tip of the toe and finally left the body from 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 says 
 220 
 the brahmarandhra at the top of the forehead, and likewise entered 
@@ -3866,7 +3860,7 @@ happened presently. And now let us examine the reasoning given by the Acarya tha
 lose himself in the company of the Gopis. This reasoning may well be adopted by the Sadhus and Sannyāsis who are having a delusion that they are detached, but actually not. (2) he says that since he has mastered vajroli yoga, he will not incur the fault of spilling (or ejacula- tion). The vajroli yoga is described in books like Hathayogapradīpikā 
 (Hatha. 3. 84-88); we hear that there exist persons who have in fact 
 practised this even now. But, could we say that the vow of celebacy is 
-not broken just because there is no ejaculation while in contact with woman? (3) Mādhavīya mentions the Acārya saying that the root of desire is in sankalpa (resolve) and that he is not having that sankalpa (Mā. Śam. 9. 91). If the Acarya had no resolve, how come he resolvedŚri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+not broken just because there is no ejaculation while in contact with woman? (3) Mādhavīya mentions the Acārya saying that the root of desire is in sankalpa (resolve) and that he is not having that sankalpa (Mā. Śam. 9. 91). If the Acarya had no resolve, how come he resolved 
 222 
 to do metempsychosis, first of all? He might have exercised his will just like Parameswara, the truth-willed One - cannot be the answer to 
 this question, because here the resolve is of the form one is wanted 
@@ -3900,7 +3894,7 @@ We have written here this detailed criticism only to point out that the justific
 not be misguided in the name of the great. What opinion Madhava 
 has expressed through Padmapada itself is ours: 
 व्रतमस्मदीयमतुलं क्व महत् । क्व च कामशास्त्रमतिगर्ह्यमिदम् । तदपीष्यते भगवतैव यदि । ह्यनवस्थितं जगदिहैव भवेत् ॥ ८७ ॥ अधिमेदिनि 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 224 
 प्रथयितुं शिथिलम् । धृतकङ्कणस्य यतिधर्ममिमम् । भवतः किमस्त्यविदितं तदपि । प्रणयान्मयेरितमिदं भगवन् ॥ ८८ ॥ 
 'Where is our incomparable Sannyasa dharma, and where is this extremely contemptible Kāmaśāstra? The orderliness of the world it- self might be upset if you accept that! What is not known to you, who is bent upon propagating on the earth this yatidharma which has al- ready become slack? Even so, O revered One, I am telling this out 
@@ -3922,7 +3916,7 @@ the author of Dhvanyāloka (-) etc. has reviewed Amaruka Śataka. Since he was a
 or any other evidence to say that this book was written by the Acarya. While writing a commentary on this book, Vemabhūpālaka 
 has stated that he has removed the interpolated slokas and high- lighted the purport of the poet Amaruka ('अमरुककविना रचितां शृङ्गाररसात्मिकां शतश्लोकीम् । श्रुत्वा विकसितचेतास्तदभिप्रायं प्रकाशतां नेतुम् । मूलश्लोकान् समाहृत्य प्रक्षिप्तान् परिहृत्य च । विधत्ते विदुषामिष्टां ART II). Thus we can say that during his time this work was not thought of as Sankara's. This work is not known as 
 1. this sloka is not found in De. version 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 226 
 Acārya's in northern region. Because of all these reasons, Somanatha- 
 iah has opined that it is not correct to say it is Bhagavatpada's work (So. Śam. p 138-140). 
@@ -3961,7 +3955,7 @@ adjuncts such as the wakeful state etc., just as the thread (in the gar-
 2. in printed book, this has been wrongly added to the next line. 
 ‘विन्दन्ति' is better than ‘विदन्ति’. 
 3. 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 228 
 land) is continuos through and different from the flowers (that are tied up)'. 
 पुरुष एवेदमित्यादि वेदेषु सर्वकारणतया यस्य सार्वात्म्यम् । 
@@ -3994,7 +3988,7 @@ What did the Acārya do after learning KāmaŚāstra?
 100. When the king heard the song sung by the disciples, he swooned 
 and became unconscious. In the same way as described earlier, the Acārya entered his body and got up. Cidvilāsiya says that he went to his original body in the form of a bird (कलविङ्काकृतिर्भूत्वा Ci. Sam. 20. 6). There that body was being forcibly put on fire by the servants of the king; then, in order to free himself from that state, the Acārya prayed to Lord Lakshminarasimha: 
 श्रीमत्पयोनिधिनिकेतन चक्रपाणे भोगीश भोगमणिरञ्जितपुण्यमूर्ते । योगीश शाश्वत शरण्य भवाब्धिपोत लक्ष्मीनृसिंह मम देहि करावलम्बम् ॥ The stotra commencing with this sloka are there both in Cidvilāsīya (Ci. Śam. 20. 13-20) and Anandagiriya (Chap. 60, p 221-222; De. p 189). As usual, the Diṇḍimakāra also has followed 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 230 
 Anandagiriya. The fire was put out by the grace of Lord Narasimha who was pleased with the stotra; and Sankarācārya came out safe (Mā. Śam. 10. 60); Lord Narasimha gave his supporting hand and made Śankarācārya get up and caressed him (Ci. Śam. 20. 21-22); and 
 after caressing him thus, the Lord blessed him saying 'win over the entire world' and then disappeared (Ā. Śam. Chap. 60, p 223; De. p 
@@ -4019,7 +4013,7 @@ the questions that you are going to ask. Sarasavāņi instantly agreed that 'you
 the arial route, constructing cakra on the banks of river Tungabhadra near Sringeri, and establishing Sarasavāņi on that' etc.). This sentence is there in Devanagari script copy also (De. p 190); alongwith that it is also mentioned एवं आकल्पं स्थिरा भव मदाश्रमे इत्याज्ञाप्य निजमठं 
 ! Why the sentences of Ānandagiriya change like this from version to version, and whose handiwork it is, only Iswara knows. 
 Sankaravijaya-Sangraha (or Kūṣmaṇḍa-SankaraVijaya): When Śankara requested her to follow him, Vāņi said 'I might follow you, but you should not look back at me; if you do so, I shall go away to 
-1. The matter regarding maṭha will be to taken up again in part 112Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+1. The matter regarding maṭha will be to taken up again in part 112 
 232 
 my abode'. While coming towards Pampapura, the Acārya wanted 
 to check whether she is following him and looked back; she took his permission and went away to Brahmaloka (Śam. Vi. Sam. 6. 9-12). 
@@ -4052,7 +4046,7 @@ the portion of the body that had already been burnt must remain with scars of bu
 There is no aptly fitting expression or reason in Lakshminarasimha Karavalambana Stotra that signifies it was composed on this occa- 
 sion. We are not able to understand on what evidence the authors of 
 says 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 234 
 SankaraVijayas and Dindima commentator decided that this fits into 
 that occasion. There is an expression in the eighth stanza of the Stotra 
@@ -4077,7 +4071,7 @@ Mandana might have taken oath that he would become a Bhikshu
 in case he lost in argumentation. It may be that seeing her husband 
 defeated, realizing that she had to part with her husband, she too 
 might have followed her husband out of dispassion. Further, it would 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 236 
 be a fitting tribute to her nature and caliber to imagine that when the Śringeri Matha was established and Mandana became its pontiff, 
 she might have come over there to spend her remaining part of life 
@@ -4124,7 +4118,7 @@ because the meaning of the sloka is 'having had all the karmas done as per Sanny
 all (bondage of) samsara'. Only if this sloka is present, the next sloka becomes appropriate: 
 संन्यासपूर्वं विधिवद्विभिक्षे पश्चादुपादिक्षदथाऽत्मतत्त्वम् । 
 आचार्यवर्यः श्रुतिमस्तकस्थं तदादिवाक्यं पुनराबभाषे ॥ (Ma. Sam. 10. 76, Vya. Śam. 6. 104). The meaning of the sloka is 'Mandana went 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 240 
 begging for alms, as per the prescribed method of Sannyāsa, and then the Acarya instructed him the expression "tat tvam asi" once again and gave its meaning. First the instruction, and then explanation of its meaning; not only that, it becomes interesting to say punah (again) in the word 'punarābabhāṣe'. 
 As indicated above, it is not possible to decide now whether Mad- hava himself introduced the sloka 'sa viśvarupo' from Vyāsācaliya or someone added it recently. Many slokas of Vyāsācalīya are found in 
@@ -4157,7 +4151,7 @@ the identity with body etc. The intellect etc. that get separated from
 each other, that do not continue from the state of waking to dream 
 etc., while the Ātman continues - just as a crack in the floor, a snake 
 or a stick are superimposed in the 'this' aspect of rope - are superim- 
-posed on tūrīya that is You. Know for sure that you are such fearlessŚri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+posed on tūrīya that is You. Know for sure that you are such fearless 
 242 
 Brahman; and do not be deluded as before. This inner self is quite 
 near to the knower, and far from the ignorant. How the ignorant are 
@@ -4186,7 +4180,7 @@ them repetition is a waste'.
 Although this commentary is detailed, its translation is given here 
 to indicate that after we have refined the meaning of the words, the identity of the meaning of words of Tat and Tvam would be unhin- dered. In Madhaviya, even after denying body etc. as non-Atman, 
 raising doubts such as 'how come “sarvajña” and “ajña" are considered 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 244 
 as identical? and saying that the meaning has to be taken as in 'He 
 is this Purusa' is not proper. In recent Vedantic treatises (Prakarana granthas) it has become common to illustrate sentences like "tattva- masi" with jahadajahallakshana and to exemplify with the sentence 'He is this Purusa'; and the author, under the influence of this prac- 
@@ -4211,7 +4205,7 @@ Kailasa in this very body. The Lord Bhairaveswara told me that if I
 could sacrifice the head of a king or that of an all-knower, my desire 
 will be fulfilled. Head of a king is difficult to get; since I have found 
 you, an all-knower. I think the time of satisfying my desire has come. Great ones sacrifice their bodies just for benefiting others. If you give me your head, you would attain greater glory, and my desire will be fulfilled. Thinking that this body is after all transient, you may do as you wish. The Acārya replied, 'by all means; but this has to be done 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 246 
 without the knowledge of my disciples; so please come all alone. 
 The Kāpālika waited for such a moment and came accordingly. At that time, the Acārya was in deep meditation, unaware of his sur- roundings. Just at the time when he was about to lift his triśula to cut the head of the Acarya, Padmapāda arrived there as if sent by God. 
@@ -4235,7 +4229,7 @@ creed. This being so, it cannot be decided with certainty whether the Acarya in 
 is just an imagination of poet Madhava. Considering the episode of Padmapāda assuming the glow of Nrsimha on himself linked with 
 the story of Kapalika, it can be said that Madhava might have thought 
 that if such supra-normal thing is included, it would increase the 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 248 
 glory of Acarya. Also he mentions the fruition - absence of accidental 
 death, mundane happiness of sorts and liberation at the end - for 
@@ -4263,7 +4257,7 @@ to Gokarna:
 श्रीगोकर्णं यातुकामः कदाचित् श्रीवल्याख्यं ग्रामवर्यं जगाम । 
 शिष्टैर्जुष्टं वेदविद्भिर्महद्भिः श्रीमान्पूज्यो देशिकेन्द्रोऽस्मदीयः ॥ (Vyā. 
 Sam. 12. 1) 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 250 
+ 250 
 Here, the reader may take note the mention of Śri Valli as the name 
 of the brahmin locality, unlike as in Madhaviya (TER 
 Mā. Sam. 12. 9). It cannot be decided whether Śri Bali is a transforma- tion of Śri Valli or whether both names were in vogue for the brahmin locality. The sloka of Hastamalaka's reply to the Acarya commencing with :' is found here also just as in Madhaviya (Vyā. Sam. 12. 22). We do not know why Govindanatha, who closely follows the story of Vyāsācaliya, mentions the name of that place as Śiva Vihara (f यातु कामः सन्नेकदा देशिकेश्वरः । मार्गे शिवविहाराख्यं ग्रामं प्रापदनुत्तमम् ॥’ Śri. Śam. Cha. 6. 88). The remaining parts of the story of Vyāsācaliya is just as in Madhaviya. 
@@ -4279,7 +4273,7 @@ The sloka in the begininng of the famous Hastāmalakīya
 is also found in Cidvilāsīya; if we look at the sloka of Madhaviya which says ‘कस्त्वं शिशो कस्य सुतः कुतो वेत्यस्माभिराचष्ट किलैष पृष्टः ' (Mā. Sam. 13. 28), we can guess that Madhava also had known this śloka. The next Śloka commencing with 'नाहं मनुष्यो न च देवयक्षौ..., is also found in Cidvilāsīya; the outward form of the treatise Sufyaaff (Ci. Śam. 11. 30) is given here. There is ev- idence to believe that the authors of SankaraVijayas were knowing that there are twelve slokas in this work; but we have to say that none 
 of them were knowing the real author of these slokas. Because, the first two ślokas in the form of question and answer do not rise expec- tations that twelve slokas would follow. Because, of the questions 'My dear child, who are you? Where do you propose to go?' etc., we may guess the boy alone was going without speaking; In the next slokas he replies ‘नाहं मनुष्यो... निजबोधरूपः' (I am not among men etc., be- cause I am the Spirit called the Atman). The last line of the follow- ing Śloka ‘नित्योपलब्धिस्वरूपोऽहमात्मा' is not there in this Śloka. An- 
 other thing is the author writes: later, when the occasion arose for the Acārya himself to review this, seeing Hastamalaka display so much of knowledge, the happy father says 'may this boy, who has transcended samsāra binding right from birth, be a disciple to you, the Jagadguru !' (‘आजन्मनः संसृतिपाशमुक्तः शिष्योऽस्त्वयं विश्वगुरोस्तवैव' Ma. Sam. 13. 31). But he also writes that the Acārya himself said 'this boy is not fit 
-to be with you; inert as he is, of what benefit he would be for you?' (‘वस्तुं न योग्यो भवता सहायं न तेऽमुनार्थो जडिमास्पदेन' Ma. Sam. 12. 59) and the like, took away that brahmin boy and went away as he wished (falcipit Ta' Ma. Sam. 12. 62)! As though this does not suffice, there is this reputation that Ācārya has written a commen-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+to be with you; inert as he is, of what benefit he would be for you?' (‘वस्तुं न योग्यो भवता सहायं न तेऽमुनार्थो जडिमास्पदेन' Ma. Sam. 12. 59) and the like, took away that brahmin boy and went away as he wished (falcipit Ta' Ma. Sam. 12. 62)! As though this does not suffice, there is this reputation that Ācārya has written a commen- 
 252 
 tary called 'Hastamalakastotrabhāṣyam'! This is included among the works of Sankara by the Srirangam Vāṇīvilās Press (Sankaragranthā- 
 valiḥ, Khaṇḍa 16, p 163-183)! No wonder that such contradictories are located, since the SankaraVijayas were written with the cherished idea of spreading the wonderful greatness of the Acarya. But, what 
@@ -4297,7 +4291,7 @@ before, and how come it suddenly flashed in his mind now? Madhava does not say a
 and mentions only this much: 
 यत्राधुनाप्युत्तममृष्यशृङ्गस्तपश्चरत्यात्मभृदन्तरङ्गः । संस्पर्शमात्रेण वितीर्णभद्रा विद्योतते यत्र च तुङ्गभद्रा ॥ 
 "There (the sage) Rsyaśringa is practising penance and inquiring 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 254 
 in to the Atman; Tungabhadra,(?) the river which begets all good by the mere touch, is flowing there' (Ma. Sam. 12. 64). 
 In Cidvilāsīya, 20th Chapter, the narration is as follows: Having prayed Saraswati to accompany him, Śankarācārya was constantly in search of a place befittingly suitable to establish Her - a place devoid of difficulties and always full of lush green plant growth, with all de- 
@@ -4327,7 +4321,7 @@ he might have guessed that it would not be peaceful if he stayed in
 his native place and must have thought of living in an outer region not too far from his place. Śringeri was not more than thirty gāvudas 
 from his native place. (one gāvuda is about six miles). And the king of that area also being devoted to him, might have encouraged him 
 1. In Cidvilāsīya, (24. 47) a king by name Vīrasena is mentioned. Historians will have to decide whether a king by that name was there at that time. 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 256 
 to establish a Matha there (So. Śam. p 159-160). All this being just speculation, we have no way of coming to a conclusion whether it is true or not. In Cidvilāsīya, it is stated that when the Acārya was still 
 with Govinda Bhagavatpada, he remembered his mother, went to his place, instructed her and helped her attain Vaikuntha (Ci. Śam. 10. 47). In the case of those who agree with this time sequence, the spec- ulation will not match. In the Vyāsācalīya that we have, it is stated that Sankara's mother longed for him while he was giving Sannyāsa to the brahmin boy who had come from Cola country (Vya. Śam. 4. 93). This also does not agree with the speculation. How can one imag- ine that Śankara's fame had already reached the southern kings when 
@@ -4348,7 +4342,7 @@ Tunga river are described. In the twenty-third chapter, the story of
 Rṣyaśringa is given; and in the twenty-fourth chapter, it is stated that Sankara, finding the place suitable, and as per the prayer of his dis- ciples and of the local householders who were devoted practioners of Vedic rites, was thinking of establishing Śāradā here; at that time 
 a celestial voice also said that this was the most suitable place for the establishment. The Acarya got an excellent temple built at the very place where he had seen the wonderful incident; and established Śāradā and Śri Cakra at an auspicious moment and according to the procedures of MantraŚāstra (Ci. Śam. 24. 21). He got the evil pow- ers blocked from all directions, and established appropiate deities as well at proper places; arranged for the festival of Sarannavarātri (Ci. Śam.24. 27); nearby established a large Śri Maṭha and arranged for a Vidyāpīṭha (Ci. Śam. 24. 32); and for protection against the evil forces, established (around Sringeri) four deities - Bhairava to the east, Kā- 
 likāmba to the north, Mahadurgi to the south and Maruti to the west (Ci. Śam. 24. 45-46). 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 Establishment of the Sārada Mathas 
 258 
 112. Mādhaviya contains only two things here - a high appreciation of the glory of Sringeri and the commencement of a tradition of worship of Śaradāmba. No mention of the establishment of a Matha is to 
@@ -4371,7 +4365,7 @@ covered here. This is not the occasion for taking up these in detail. For the pr
 be found here also. We need not reiterate that the matter of establish- 
 ment of the Matha at Śringeri is also found in recent Śankara histories like Manimañjarībhedinī (विद्यापीठमथाकलय्य भगवांत्सद्भारतीयं मुदा 3. 31) and Bhagavatpādābhyudaya (शारदामठ इत्येव नाम चक्रे 8. 37 ) . 
 With all these, the mention of the establishment of the Matha is 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 260 
 not to be found in Madhaviya. Believed by some as closely following Madhaviya, the work by name Sankara Katha Sudhanidhi has a sloka which says: 
 1) 
@@ -4397,7 +4391,7 @@ deal with the Mathas.
 Discipleship of Toṭakācārya 
 113. During all the time of his stay at Śringeri, the Acārya arranged for the worship of the Goddess Śāradāmba and was spending his time 
 teaching the Bhāṣyas to his disciples. One of the disciples was serving the Acarya ceaselessly with great devotion. Once, when he had gone to get the clothes of Acarya washed, the other disciples started to chant the Santi Mantra. The Acārya told, ‘let Giri too arrive!' 
-1. Recently we have procured a book entitled 'Śringeri Śri Mathiya Praktana Lekhana Mālā Sangraha'; this is the first inscription published in that. In the in- scription of Shalivahana Śaka 1277, the wordings 238 (for the service of this Maṭha) are found.Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+1. Recently we have procured a book entitled 'Śringeri Śri Mathiya Praktana Lekhana Mālā Sangraha'; this is the first inscription published in that. In the in- scription of Shalivahana Śaka 1277, the wordings 238 (for the service of this Maṭha) are found. 
 262 
 Padmapāda said 'he is not such an intellegent one, also not fit for the study of the Śāstras; why should we wait for him?' In order to remedy Padmapada's egotism, and desiring to show compassion towards his dependent, the Acarya instructed Giri 'fourteen disciplines' by the mind only (तस्य गर्वमपहर्तुमखर्वं स्वाश्रयेषु करुणातिशयाच्च । व्यादिदेश स gen: Ma. Sam. 12. 78). Through the grace of the Guru, immediately upon returning, he started singing the glories of the Acarya with a few slokas pregnent with conclusions 
 of Vedanta, in the Toṭaka metre. That work of his also is known by 
@@ -4422,7 +4416,7 @@ Critique of the Totaka story
 follows: 
 (1) What was the name of Toṭakācārya before his Sannyāsa? is un- certain. In Madhavīya, it is mentioned as Giri; some have recently converted it into Anandagiri by a false impression. In Cidvilāsīya, it is mentioned as Kalānātha. It is clear that names are imagined by the authors so that some name would be a necessary requirement. 
 (2) We will have to say that these slokas in the Toṭaka metre must have been existing earlier to SankaraVijayas in some order, and that the authors of SankaraVijaya must have used them in connection with one of the disciples. Since Dindimakāra, after writing five ślokas commencing from 'भगवन्नुदधौ मृतिजन्मजले' and ending with ‘यत एवमतोऽसि सदेव सदा, has written 'इत्यादिभिर्गुरुशिष्यसंवादेन परतत्त्वव्यञ्जकैः..तोटकवृत्तैः सह देशिकवरं श्रीशङ्करं प्रत्यागतवान् इत्यर्थः’ (he approached the best among the gurus, Śri Sankara, with these and other slokas in Toṭaka metre depicting the Supreme Principle by way of conversations between master and the disciple), we will 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 264 
 have to guess that during his time, the slokas commencing with ‘विदिताखिलशास्त्रसुधाजलधे' must have come after the five Ślokas indicated above. But in Cidvilāsīya, the eight slokas are clearly written commencing with विदिताखिलशास्त्रसुधाजलधे'; and there 
 is no indication that the other five slokas were there. And in the 
@@ -4460,7 +4454,7 @@ tice? Author Madhava all of a sudden has said that the other disci-
 ples started chanting Santipāṭha before Giri's arrival. Previously, nei- ther Govinda Bhagavatpāda nor the Acarya had instructed that San- 
 timantras are to be chanted in a particular order before commencing to explain the meaning of Upanisads or the Sutras. It is true that these Śāntipāṭhas do occur here and there at the beginning, in the middle or 
 at the end of the Upanisads; and the Bhāṣyakāra has written his com- 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 266 
 mentaries on them in the respective places. Neither the Acārya nor 
 the Smrtis have prescribed that these are to be collectively chanted in a particular order. And we see that Santipāṭhas are different in differ- 
@@ -4485,7 +4479,7 @@ agree to it since they feel you have purport in householdership', nar- rating wh
 Thus, after writing Naiskarmyasiddhiḥ', Sureswara expressed him- 
 self 'I did not write this intending to get fame, riches or worship; I did 
 it just to follow the behest of the Guru. Just because I was a house- holder earlier, will I lean towards it even now? I took Sannyāsa hear- ing the instructions of the Guru, not because I was defeated in argu- ment. I had also written other books related to Nyaya etc.; well, I shall 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 268 
 spend my time hereafterwards serving the Guru!' and remained quiet. The Acarya, softly consoling him, said 'you write a Vārtika on Tait- tiriya Upanisad which is my traditional branch, and another Vārtika on Bṛhadaranyaka Upanisad which belongs to your traditional Kāṇva 
 branch. This is my word, and is final. You need not take note of what 
@@ -4522,7 +4516,7 @@ have written a Vārtika on even Sūtrabhāṣya, might have been created
 by someone only to show that Sureswara's Vārtika is no less compared to Kumārila's Śloka Vārtika, 
 Secondly, there is no evidence that Sureswara intended to write 
 a Vārtika on Sūtrabhāṣya. We cannot guess either that Sūtrabhāṣya 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 270 
 had not come to his notice, or that he thought it was not sufficiently 
 worthy. Because, he has profusely cited from Sūtras in his work as pramāņa. Not only that, we have already indicated (p. *27) that there are some opinion differences between Sūtrabhāṣya and Bṛhadaranyakabhāṣya. On such instances, the author of Vārtika has 
@@ -4545,7 +4539,7 @@ to everything, having been born in the same brahmin locality just like brothers,
 Citsukhācārya the all-knower, has said like this in his own work Brhat SankaraVijaya). If this BṛhatSankaraVijaya is really composed as a 
 book, it is possible that it is available at Kumbhakoṇam Maṭha; if 
 someone finds it out, and with proper refinements publishes it, we can come to know how these epithets written by Atmabodha are 
-suited to Citsukhācārya. Till then, we will have to be contented sayingŚri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+suited to Citsukhācārya. Till then, we will have to be contented saying 
 that Citsukhācārya, the famous author of 
 272 
 ' (Tattvadīpikā), 
@@ -4573,7 +4567,7 @@ is the present Pañcapādikā or not. Since the author of Kalpataru
 has not used the title 'Pañcapadikā', it is difficult to decide whether 
 'Pañcapadika' and 'Pañcapādī' are one and the same. The author 
 of 'Pañcapādika' has implied that he is going to comment upon the entire work by saying 'सुगतमतपरीक्षायां निपुणतरं प्रपञ्चयिष्यामः' (we are going to explain while doing Sugatamata pariksha), 'दर्शयिष्यामः' (we are going to show how this is at the commencement of the sec- tion एक आत्मनः शरीरे भावात्'), 'प्रदर्शयिष्यामः' (we are going to prove Vākyābhāsatva in the respective sections) and the like. Therefore, it 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 274 
 means that 'Pañcapādika' means five sections are there in this work. ‘पदच्छेद’, ‘पदार्थोक्ति’, 'विग्रह', 'वाक्ययोजना' and 'आक्षेपसमाधान' are the 
 five sections (Po. Pam. introduction, p 5-6); or, the derivation can also be done as ' (wide), (knowledge) according to Śrīrāma Śāstri! All this is exhibition of skill in commenting, nothing else. Although the availability of the part of this commentary on the fifth 
@@ -4608,7 +4602,7 @@ Is the story of burnt-away 'Pañcapādikā' plausible?
 to south, must have arranged for the propagation of the established 
 conclusions of Advaita, and that his disciples too must have shown enthusiasm in the job - is something which all will agree. 
 Now let us try to go ahead with the story of Padmapāda as de- picted in the SankaraVijayas. Padmapādācārya convinced his Guru, and, taking his permission, started on a pilgrimage (Ma. Śam. 14. 1- 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 276 
 28). The Guru stayed at Sringeri for sometime, and, knowing by yogic power the condition in which his mother was placed, went to her by 
 the arial route. We shall describe shortly what happened there. 
@@ -4641,7 +4635,7 @@ ing thus, he sat to write once again. Seeing this, the uncle was all the
 more scared; and he mixed his food with some material which would 
 retard his intellect; thus he was unable to write his commentary as before - say some) (Ma. Śam. 14. 142; Vyā. Śam. 9. 33). 
 In Vyāsācaliya, there is no mention of the Acarya dictating the five sections once again. And there is no mention of Padmapāda meet- ing the Acarya in Kerala! But mention is made that Padmapāda met Ugrabhairava in Kerala (Vyā. Śam. 9. 35-83). Also there is the story 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 278 
 of Toṭakācārya (Vya. Śam. 9. 84-96). The manuscript of Vyāsācalīya 
 that we have with us may be a true copy or not, but it is certain that 
@@ -4672,7 +4666,7 @@ what are these dramas of king Rajasekhara. It is said that the belief of the sch
 these three dramas. But Baladeva Upadhyaya writes in a footnote (Bala. Śam. p 104) that the poet Rajasekhara was a Yāyāva brahmin; 
 his native was Vidarbha; and his workplace was Kanyakubja; and it is 
 absurd to guess that he was a Keralite. Till it is established that there was a poet with this name, who was a king in Kerala at the time of Acārya, all this recall story of the three dramas would just remain an imagination of poet Madhava. 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 280 
 14. ācārya's Devotion to His 
 Mother 
@@ -4685,7 +4679,7 @@ Principle. But she could not comprehend it. Then the Acarya wor- shipped Śiva b
 has described Visņu as follows: 
 भुजगाधिपभोगतल्पभाजं कमलाङ्कस्थलकल्पिताङ्घ्रिपद्मम् । अभिवीजितमादरेण नीलावसुधाभ्यां चलमानचामराभ्याम् ॥ ३९ ॥ विहिताञ्जलिना निषेव्यमाणं विनतानन्दकृताऽग्रतो रथेन । धृतमूर्तिभिरस्त्रदेवताभिः परितः पञ्चभिरञ्जितोपकण्ठम् ॥ ४० ॥ 
 महनीयतमालकोमलाङ्गं मुकुटे रत्नचयं महार्हयुक्तम् । 
-शिशिरेतर भानुशीलिताग्रं हरिनीलोपलभूधरं हसन्तम् ॥ ४१ ॥Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+शिशिरेतर भानुशीलिताग्रं हरिनीलोपलभूधरं हसन्तम् ॥ ४१ ॥ 
 282 
 We do not know from which Stotra this is excerpted. Holding fast in her heart the image of Visņu thus described by the Acarya and 
 thinking of Him only at her last moment, she gave up her body. Then the servants of Viṣṇu came with the plane, and with them she fol- lowed the path of Gods and reached the supreme abode. (Ma. Śam. 
@@ -4710,7 +4704,7 @@ could they have such divine insight to decide that!
 (4) It is difficult to say why the same poet who describes that the parents of Acārya got their offspring through devotion to Śiva, describes here in a manner that evokes the feeling that Śivaloka is fearful. Would, the servants of Śiva, although holding tridents, bows 
 and the like, appear terrifying to the devotees at the time of their last 
 breath? 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 284 
+ 284 
 (5) There should be the basis of a legend for the description that when the Acarya worshipped Visņu through Stotra, the servants of Viṣņu appeared and Acārya's mother gladly followed them to Vaikuntha. Because, otherwise, all the three - Mādhava, Vyāsācala 
 and Cidvilāsa - could not have brought in Viṣṇustotra in this context. 
 There should be some reason for Cidvilāsa, atleast who had said earlier that Sankara was worshipping Sivalingam, to say that. Critics 
@@ -4737,7 +4731,7 @@ alms from you; and may it be that you have your cremations in your own courtyard
 It is said that the Acarya cursed them just for not providing with fire; it is not specifically mentioned that they came in the way of car- rying out the funeral rites. 
 The story depicted in Cidvilasiya is as follows: When his mother was on deathbed, the Acārya called the brahmins. Since they did not respond, he cursed those offenders of Sannyasins: 'Be you without 
 knowledge hereafterwards! be you engrossed in improper conduct! be you engaged in commerce and agriculture! may your place be unfit 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 286 
 for Sannyasins! if any Sannyasins come to you, may they be fallen!' (Ci. Śam. 10. 40-42). Sankara's turning the course of the river Cūrṇī so 
 that it flowed near his mother's house, and the present service to his 
@@ -4769,7 +4763,7 @@ ter of Sannyāsa may not be helpful to say that Sannyāsis may engage in karma. 
 examination. 
 (3) Did the Acarya really curse the brahmins, and did he take the help of the king for its implementation? Seeing the peculiar traditions 
 of Kerala which are not in vogue at other places, someone might have 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 288 
 connected Sankara's curse to it. The practice of cremating corpses in one's own courtyard might be long-standing in those areas where peo- 
 ple live in wide fields. It is not special to Kerala that study of scriptures 
@@ -4798,7 +4792,7 @@ a direct vision of Narasimha at Narasimha Parvata, and below that
 mountain had darśana of Lord Rshyaśringa Maheswara. Having 
 sought His directions, he proceeded to Kāñci, the capital of Vara- darāja. This is the place where Brahma performed a sacrifice to please Visņu, and where Viṣṇu came out of the sacrificial fire and appeared before him. Rudra Śakti, of saguṇa as well as nirguṇa form, dwells in a cave nearby there. The Acarya wanted to have a township 
 built at that place. The local king Rājasena, as per the wishes of the Acarya, built Ekāmreswara temple just besides the Kamākṣi 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 290 
 temple and constructed Śiva Kāñci, and alongwith the Varadaraja temple Viṣṇu Kāñci within just eight days (Ci. Śam. 25. 1-11; 28-31). The Acarya himself wrote Śri Cakra, and behind that established 
 Goddess Kamākṣi; and arranged for the worship in the temples of Ekāmreswara and Varadaraja (Ci. Śam. 25. 44-55). 
@@ -4826,7 +4820,7 @@ there is no mountain in that area. Somanathaiah's guess is that he might have wr
 earlier. 
 (5) Cidvilāsa is very much inclined towards Śri Cakra. Even while describing Kañci he gives its details in eight slokas ending with 'तस्मान्मुमुक्षुभिः कार्यं श्रीचक्रार्चनमन्वहम् । शिवशक्त्यैकरूपत्वान्निर्मितं देशिकेन 
 (Therefore, everyone desirious of liberation must worship Śri Cakra. The Guru has prescribed that to drive home the identity of Śiva and Śakti) (Ci. Śam. 25. 43). By this we can guess that there was much animosity between followers of Śiva and the followers of Śakti in this area, and that the Acarya, or someone after his time must have convinced them about the identity of Śiva and Sakti and stopped the fighting. In Anandagiriya, Kamākṣi is described as ‘भगवती चिद्रूपिणी ब्रह्मविद्या रुद्रशक्तिः, (p 229; De. p 194) and ‘शैवानामपि शाक्तानां चक्राणां च परस्परम् । अविनाभावसम्बन्धं यो 
-1. It is mentioned as Ekāmresha in Telugu book (p 225). In Devanagari version it is mentioned as Ambaresha (p 132). In Somanāthaiah's book it is Ekāmbaresha!Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+1. It is mentioned as Ekāmresha in Telugu book (p 225). In Devanagari version it is mentioned as Ambaresha (p 132). In Somanāthaiah's book it is Ekāmbaresha! 
 292 
 जानाति स सर्ववित् ॥' (p 230; 'चक्रवित्, De. p 196 ). Since it is found in Cidvilasiya also (Ci. Śam. 25. 40), Cidvilāsa must have taken it from Anandagiriya; or both of them might have taken it from some other source. Mādhava too, in the context of the Acarya worshipping Goddess Mūkāmbika in the 12th Canto says about Śri Cakra: ‘श्रीचक्रषट्चक्रकयोः पुरोऽथ श्रीचक्रमन्वोरपि चिन्तितैक्यम्'; the commentator being fond of citing from Anandagiriya, has added eight slokas; among those the present 
 śloka is 
@@ -4855,7 +4849,7 @@ a new township came to existence, and since the Viṣņu temple became important
 Viṣṇukañci. The old name Thiru-atti-ooru was perhaps sanskritized as Śri-hasti-giri. We have also visited both the Kāñcis; but we came 
 to know the reason for the peculiarity in the construction of Viṣṇu temple only from Somanāthaiah. 
 294 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 In view of the description given above, Somanathaiah's opinion (So. Śam. p 182) that both Anandagiri and Cidvilāsa must have writ- ten their SankaraVijayas after the name ViṣṇuKāñci came to be well- known, seems to be reliable. 
 Acārya's visit to Venkatagiri 
 122. Mādhava describes that the Acarya blessed the Andhra devotees 
@@ -4882,7 +4876,7 @@ the priests of Lord Venkataramana into Advaita does not seem to be
 probable. We know from Vaikhānasa Sūtra that they were Advaitins who where Vaiṣṇavaites. Without knowing this, probably just by see- 
 ing that the Vaikhānasas bearing the Namam (emblems of Vaishnav- 
 1. At the foot of the mountain there is kapila Tirtha. The whereabouts of Kapileswara lingam is not known. In 9th Chapter of Skanda Mahāpurāṇa, it is stated that a Shudra by name Rangadāsa of Pandya kingdom served Śrīnivāsa at Kapilesha Kshetra on the śeshadri: 'शनैः सम्प्राप्य शेषाद्रिं निर्झरं सन्ददर्श ह । तत्समीपं समासाद्य कपिलापूजितं शिवम् ॥ 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 ism), Cidvilāsa might have written like that. 
 296 
 (3) Also the statement that the Acarya prostrated before Lord Govinda Rajeswara is similarly unreliable. 'From the works of a Śaivaite devotee Maanikkavācahar we come to know that the idol of 
@@ -4912,7 +4906,7 @@ in Vedanta? The poet has told none of these things, not even why he accompanied 
 was Karnataka area spread in those times? These things are to be as- 
 certained on the basis of history before we could decide about the 
 truth of this Kāpālika incident. 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 298 
 Somewhat similar is the description of this incident by Cidvilāsa, 
 but he narrates as if it took place at Rameswaram. He writes: 'the Kāpālikas met the Acarya there, who had arrived from Madhyārjuna. There was king Bhojasimha behind the Acarya. The Kāpālika and his disciples were talking at will, and the king thrashed them. When the Kāpālika meditated on Bhairava, the Lord appeared, and, pleased by Sankara's Stotra, said “you are revered; knowing that you had arrived 
@@ -4937,7 +4931,7 @@ works. Bṛhadāraṇyaka Bhāṣya has this sentence: हि विज्ञा
 ¶¶14 1' (Bṛ. Bhā. 2. 1. 20). (There is no difference of opinion among the followers of Upanisads, that identity is stated between Vijñānātma and Paramātma in all Upaniṣads). How over- hasty to imagine that Sankara, who has written thus, argued with a 
 Visiṣṭādvaitin! 
 (3) It is true that Nīlakanṭhācārya has written a Bhāṣya on the Sū- tras. But there is reason to believe that he has written the Bhāṣya only after Rāmānujācārya. Some Śrivaishnavas opine that he has stolen material from writings of Rāmānuja. Appayya deekshita, who has written a commentary "Śivarkamani Deepika" on Nilakantha's Bhāṣya, has strived to point out the speciality of it over Rāmānuja's Bhāṣya. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 300 
 Rāmānuja has never considered it for criticism. This being so, it is not probable that Sankarācārya could have had a debate with the author 
 of this new Bhāṣya. 
@@ -4963,7 +4957,7 @@ Dwarakā,
 Anandagiriya 
 mentions 
 Rafafafald. (p 210). There is no mention of Matha. 
-only:Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+only: 
 302 
 (2) If we compare the digvijaya given by Cidvilāsa, we will come to understand that according to Cidvilasa, the Acarya went from 
 Ujjayini to Dwarakā; and according to Madhava, he went first to Dwaraka and then came to Ujjayini. Cidvilāsa says that the Ācārya defeated Śāktas at Ujjayini; Madhava says he did that at setu, and won over Bhatta Bhāskara at Ujjayini. Ānandagiri says that the Acārya defeated Kāpālikas at Ujjayini (Chap. 23); but Cidvilāsa makes them defeated at Rameswaram and shifts Śāktas over here! We can observe 
@@ -4989,7 +4983,7 @@ there in his writings. Since Vacaspati Miśra's Bhamati contains
 refutations of the opinions of Bhāskarācārya, his time must be in between Sankara's time and Vacaspati Miśra's time. This being so, how can we believe that the Acarya had an argumentation with Bhaskarācārya? Because of the unbelievable nature of these stories, we have not presented what Madhava describes as primafacie views of Nilakantha or Bhaskarācārya, or the Acarya's refutations of them. 
 (6) The imagination that Bāna, Mayūra, Danḍi etc. were Ācārya's contemporaries (Ma. Śam. 15. 141) being historically untenable, we 
 need not at all comment on that. What could be the basis for Mād- 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 304 
 hava to say that they became interested to listen to Acārya's Bhāṣyas ('निजभाष्यश्रवणोत्सुकांश्चकार') is only known to him. 
 Defeat of the Arhatas at Bāhlika and of the others at 
@@ -5020,7 +5014,7 @@ tise Khandana Khanda Khadya belongs to a period later than that of Acārya; devo
 is a strong evidence indicating that Madhava may not be the same as Vidyaranya. 
 Abinavagupta in Kāmarūpa 
 127. Then the Acārya proceeded to Kāmarūpa country. He won over Abhinavagupta, the author of Śāktabhāṣya. Realizing that it is impos- sible to defeat him by any other means, he was posing externally as if he were a disciple of the Acarya. The reputation of Acarya's success spread in Videha, Kosala, Anga, Vanga countries. Later the Acārya defeated Murari Miśra, Udayana, Dharmagupta etc. and spread his 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 306 
 triumph in Gauḍa country also. Thus, having made Dvaita not to be heard in all quarters, he was solving all kinds of doubts raised by peo- ple (Ma. Śam. 15. - summary from 158 to the end of the Canto). 
 It is clear that the author's intention is only to impress that the Acārya won over all. Hence, not even considering historical times, he has collected everyone to be won over by the Acarya. Kamarupa is an important city of Assam; although it is true that Tantrikas are there, Abhinava Gupta does not belong to this part of the country. He is a 
@@ -5040,7 +5034,7 @@ Although hatred of other creeds is not seen in Cidvilāsīya, trend to- wards Ś
 It appears Cidvilāsa has chosen several names that Anantanan- dagiri describes. Skilled in fertile imagination, he writes that the Acārya conquered Śaivas, Śivamataikadesis, Vaiṣṇavas, Pāñcarātras, Vaikhānasas and Karmahīnas; worshippers of Ganapati like Vaiṣṇava, Hairanyagarbha, Soura, Agnivādi, Mahāganapati, Haridragaṇapati, Ucchishtaganapati, Navaneeta-swarṇa-santāna-gaṇapati; Śākteyas like Śakti, Mahalakshmi, Vagdevatha and Vāmacāra; creeds like 
 Kāpālika, Cārvāka, Sougata, Jaina, Bauddha, Mallāri, Viswaksena, 
 Manmatha, Kubera, Yama, Varuņa, Shūnya, Varāha, Loka, Guṇa, 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 308 
 Samkhya, Yoga, Aņu, Candra, Bhauma, Kshapanaka, Pitr, Śeṣagaruda, Siddha, Gandharva, Bhūta and Bhetāla! Some names among these are synonymous. It can be said that the authors have just imag- ined fictitious names just to convey that at Acārya's time, various traditions, practices, creeds and schools of thoughts were in vogue. 
 Establishment of the six creeds (षण्मतस्थापना) 
@@ -5062,7 +5056,7 @@ should note that there is difference in narration between the two: in
 Cidvilāsīya, the disciples took the initiative and requested the Acārya for the propagation of the six creeds; and in Anandagiriya, the Ācārya 
 himself thought that it would be necessary and acted. 
 Regarding the establishment of the creeds, we have to remember the following: (1) Although the Acarya thought that Advaita is the Ul- timate, he is of the opinion that in actual practice, worship involving Jiva-Iswara difference is desirable and also is in accordance with the Śāstras (he has expressed so in the introduction to Gītābhāṣya (12-10) 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 310 
 and in the introduction to Anandamayādhikaraṇa of Sūtrabhāṣya). Hence it is not improbable that he provided an opportunity for Śaiva 
 and other creeds; but they were already existent, and there was no necessity of his establishing them anew. (2) The names of the dis- ciples who were the promoters of the six creeds are different; and they are not mentioned anywhere else. Hence these should be the imaginations of Cidvilāsa and Anandagiri. (3) Observing the enti- 
@@ -5083,7 +5077,7 @@ Finally, at the behest of Lord Siva, the twin-gods Ashwini came in the
 form of men and declared 'this is the result of someone's spell; and hence there is no treatment for this'. Hearing this, Padmapada was ex- tremely angry; and without listening to preventive appeals of Acārya, 
 uttered a counter spell; as a result, Abhinava Gupta died of the same disease (Ma. Śam. 16. 1-32). 
 This story is there in Vyāsācalīya also, but the story of Abhinava- gupta is omitted. When the Acārya prayed for the twin-gods Ashwinī, 
-they appeared and cured the disease. In the tenth Canto of Vyāsā- caliya, the occasion of the disciples going in search of doctors is made unnecessarily long with many descriptions. Not contented with this, the poet has used seventy five slokas of the next Canto also to describeŚri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+they appeared and cured the disease. In the tenth Canto of Vyāsā- caliya, the occasion of the disciples going in search of doctors is made unnecessarily long with many descriptions. Not contented with this, the poet has used seventy five slokas of the next Canto also to describe 
 312 
 the season etc., and then says that the twin-gods Ashwini were sum- moned after all the doctors failed! Then the Acarya knew that they 
 were the twin-gods. Finally the poet ends the Canto (in the 152nd 
@@ -5114,7 +5108,7 @@ subsequent to his getting initiated from Govinda Bhagavatpāda;
 nowhere else such a meet is mentioned. Could it be true? Or, could 
 it be just a story to imply that the Acarya got the grace of Gauḍapāda 
 also? It is to be scrutinized. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 314 
 (2) Gauḍapada enquiring the Acarya 'Have you accomplished the 
 eight-fold yoga?' is not in accordance with his Kārikā. Because, only two - control of mind and realisation of the Self that is the Truth (At- masatyānubodha) - are mentioned as the means. The Acarya also has refuted Patanjala Yoga and has emphatically said in his Sūtrabhāṣya that the realisation Supreme Self is by Vedic yoga. 
@@ -5138,7 +5132,7 @@ To what extent this story of ascending the Sarvajña Pītha by Sankara could be 
 (1) At the end of the debate with Maṇḍana Miśra, Saraswati, af- ter subjecting the Acārya to examination in the science of love, had agreed that he is none other than Sankara (pages 229-231); at that 
 time, she did not doubt his purity. Now the same Saraswati doubt- ing his purity does not look proper. Since Mandana Miśra has been conquered, she has agreed on his omniscience; but what has become of her earlier statement 'you are none other than Śiva'? 
 (2) Vyāsācalīya mentioning that argumentation with Saraswati 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 316 
 has taken place now for the first time does not also fit in properly 
 with the earlier story. Released from the curse upon defeat of her husband, did the all-knowing Śāradā not know that the Acārya is none other than Śiva Himself, while disappearing? 
@@ -5165,7 +5159,7 @@ Kāśmir, but says that the throne was at Kañci; would it not mean that
 at his time Kānci Pitha was famed as the seat of all knowledge? 
 (2) In Anandagiriya also, having come to Kāñci from Ahobila, the Acarya argued with the scholars from the shores of Tamraparṇi river, and converted them into Advaita (A. Sam. Chap. 63, p 228; De. p 194). But there is no mention of the Sarvajña Pīṭha there. 
 (3) In the commentary on Gururatnamālikā written by Atma- bodha: असावत्रपाठस्तूचितः । सर्वज्ञपीठारोहण एव तद्विजयस्य शिवरहस्य- 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 318 
 बृहत्शङ्करविजय-प्राचीनशङ्करविजय व्यासाचलीयादिषु निरूपितत्वात् । It is proper for the Śloka starting with 'परकीयवपुः प्रवेशशैल्याः' (गु. र. २९) to be here; because in Śiva Rahasya etc. it is mentioned that winning 
 over Saraswati is after the ascent of Sarvajña Pitha'. In what he has written, (1) we have not been able to find the cited Śiva Rahasya sen- 
@@ -5196,7 +5190,7 @@ fering because of extreme cold there. Then Lord Mahadeva let out
 hot stream of water from his foothold, which is flowing as a river even 
 now. Thus, Gods Brahma, Indra etc., ṛṣis and siddhas arrived there to take Sankara, the great among Sannyasins, who had successfully ac- 
 complished Lord's work, to Kailasa. Taking the hand of Padmapāda for support, the Acarya mounted on the Nandi who had come there to take him, and went to his original abode (Ma. Sam. 16. 93-107). 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 320 
 The account in Cidvilāsīya is as follows: The Acarya, after estab- 
 lishing a Matha at Badari, forcefully made Toṭaka its pontiff, who was 
@@ -5230,7 +5224,7 @@ consciousness personified, granting liberation to the pious. (in the commentary 
 In Sankarācāryacaritra authored by Govindanatha (summary of 
 9th Chapter): 
 कामाक्ष्या नाम वाग्देव्याः स्थानं तत्पुरमवाप्तवान् । तत्रत्यत्सर्वविद्वद्भिः पूज्यमानं दिने दिने ॥ ३ ॥ सर्वज्ञपीठमारोढुमियेष यतिपुङ्गवः । 
-वादिभिः कर्मकाण्डज्ञैः काणादाभिरप्ययम् ॥ ४ ॥ स्वे स्वे शास्त्रे रहस्यं यत् तत्पृष्टः शङ्करो महान् ।Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 322 
+वादिभिः कर्मकाण्डज्ञैः काणादाभिरप्ययम् ॥ ४ ॥ स्वे स्वे शास्त्रे रहस्यं यत् तत्पृष्टः शङ्करो महान् । 322 
 यथावदुत्तरं सर्वं समुदीर्य महामतिः ॥ ५ ॥ 
 Thus having answered the argumentators, and having gotten ready to ascend the Kāñci Sarvajña Pīṭha, (the Acarya) heard the celestial voice; took seven-day's time, underwent metempsychosis (Parakāya pravesha) and returned; and, having answered all the questions of 
 Saraswati, ascended the Pitha, and then left Kāñci. After going around the several pilgrimage centres, he came to Vṛṣācala. 
@@ -5263,7 +5257,7 @@ known to any one. There is no dearth for concocted stories regarding this. Here 
 challenge was that if the opponent Buddhists are made to accept 
 defeat, they would be thrown into the cauldron of hot oil. Once, when there was a discussion in Mahācīnā (Tibet), after defeating the Tantrik Buddhists, disciple Anandagiri said, 'Revered Sire, no more heating oil in the cauldron. The world is unlimited. How long you could continue argumentation in this manner?' The Acarya agreed, and left the emptied cauldron upside down there itself. That place is even now called Śankara Katāha! It seems there is 
 another rumour in Nepal and Tibet. Some people say that one Lama (pontiff of a Buddhist Matha) defeated the Acarya, and as per the 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 324 
 challenge accepted before, the Acarya fell into the cauldron of hot oil. Some others say that the Lāma killed the Acarya by the excercise 
 of a Tantrik spell! (Bala. p. 127: Prof. Venkatesan - The Last Days of Śankarācārya, Journal of Research, Madras, Vol. I) No basis needed for a concocted story! 
@@ -5313,7 +5307,7 @@ self-controlled peaceful life, refraining from bad conduct and the like
 are taught in the Vedas and Upaniṣads with adulation and emphasis. May be an effort can be recognized in the Purāṇas and Itihāsas to remove some of the improper practices that were in vogue among the Buddhists of those times; and they might have emphasized faith in the Vedic rites, company of the virtuous, and devotion to God in order to protect people from transgressing their religion because 
 of the bad influence of the Buddhists. But it is difficult to contend 
 that the entire gamut of all the Purāņas has arisen only after the time of Buddhism. Whatever that be, it is certain that the Ācārya's 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 328 
 incarnation took place only after people at large had become familiar 
 with the Purānas, Itihāsas, Bhagavadgita and the Brahma Sutras. The 
@@ -5337,7 +5331,7 @@ Prohibiting Mudrādhāraṇa indicative of the sects
 139. Another thing to consider is whether the Acarya actually stopped the practice among the people of different sects, of painting "nama" on their bodies indicative of the particular sect to which they belonged, or of burning their bodies with hot metal to imprint those symbols. In ŚankaraVijayas, particularly in Anandagirīya 
 and in Cidvilāsīya, the frenzy of insignia of this type is described in detail and the Acarya is stated to have stopped that by the power of his instructions. There is no trace of mention of these insignia in Acārya's Bhāṣyas. We will have to seek some other evidence to decide whether such practices were in vogue during the time of Acārya. Even if they were prevalent, there is absolutely no evidence to indicate that the Acārya was against them. This being so, we are forced to 
 think that such practices were in vogue at the times in which the Śankara Vijayas were written, and they wrote in this manner thinking that such practices were not agreeable to the Acārya. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 330 
+ 330 
 Reforming Śākta and other Sects 
 140. Did Ācārya stop the bad practices of the Śāktas, Gāṇāpatyas and the Kāpālikas? Did he take the help of the different kings of his time to do this? is another thing to consider. Even today, the practice of so-called "vāmāchāra" is not extinct. Smoking hemp, drinking liquor 
 etc. in the name of Vedanta is even now practised by some; and such 
@@ -5362,10 +5356,8 @@ lation. It is also possible that after teaching Advaita to his people and
 disappearance, his disciples - each distributed in different parts of the 
 country - might have attempted to refute the sects in their respective area and to stop their evil practices that were in vogue among people. Not a wonder if illustrious personalities, inspired by lofty thought that one God is being worshipped in different forms, have attempted to carry out such reforms and have guided people towards the righteous path. 
 Thoughts about the great works of the Acārya 
-142. It may be true that the Acarya defeated several scholars in argu- 
-mentation. After Buddhists dominated in this country, conversion of people, condemning other schools of thought in their books, and ar- 
-ranging debate platforms here and there had become common and 
-publicised. Right from Kumārila Bhatta's time, in order to protectŚri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+142. It may be true that the Acarya defeated several scholars in argumentation. After Buddhists dominated in this country, conversion of people, condemning other schools of thought in their books, and arranging debate platforms here and there had become common and 
+publicised. Right from Kumārila Bhatta's time, in order to protect 
 332 
 and popularize their dharma, the followers of Vedic scriptures might 
 have looked forward to the support of kings and help from the rich. It 
@@ -5375,8 +5367,7 @@ nyāsins for the sake of writing books and for popularizing Advaita phi- losophy
 valuable treasure of books on Advaita that we have today. 
 The disciples of the Acārya do not belong to any particular area. Śri N. Venkataraman writes: '... it is possible that others might have imagined that the works of the disciples are works of Śankarācārya. 
 Not only that, they might have been constantly moving about as men- dicants; but while staying for sometime at a place during cāturmāsya they might have taught people on the basis of Śrutis and Smrtis and their disciples might have written down that and carried out a pro- 
-paganda through their followers in turn. Gradually these disciples might have established themselves at various places, and, may be for self-protection or may be in imitation of the Buddhists, established 
-Mathas. The local kings might have accorded to them titles, land and 
+paganda through their followers in turn. Gradually these disciples might have established themselves at various places, and, may be for self-protection or may be in imitation of the Buddhists, established Mathas. The local kings might have accorded to them titles, land and 
 riches...' (NVSK pp 36-37). It appears to us also, that this is plausi- 
 ble. Therefore, presently it has been difficult to decide what are the works which the Acārya truly wrote? and what are the Mathas which he truly established? We shall be discussing about his works in the 
 next chapter; and we shall take up the subject of Mathas established by him in another chapter. 
@@ -5387,7 +5378,7 @@ accorded to the world at large that has lasted till today, it is because of his 
 his minor works, and quite a few Stotras are widely spread even to nooks and corners of the country; and people of this country know them by heart and enjoying them by reciting them often in their day-to-day life. Now we are fortunate that the Acarya's works have been translated and transliterated into English and other western languages, and also to several Indian languages. 
 The marvellous incidents believed by people as actually happened in the life of Acarya, the minor Prakaraṇas that the people believe as the teachings he gave because of different reasons, the various Sto- 
 tras that are widely known as his, the advice and instructions that presently the pontiffs of the Mathas purported to have been establi- shed by him are giving from time to time, and the ideals of jñāna and vairagya that the independent monks, belonging to various sa- cred traditions and Mathas, are placing before people in his name – all these have been instrumental in establishing his memory perma- nently in the hearts of people. The celebrations of his birthday and the mass-adorations year by year, held here and there, have made his memory imprinted in the minds of people. Not only the people of our 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 334 
 country, but several westerners also believe that Sankarācārya is a lu- minary who took Sannyasa directly from celibate boyhood, a monk of the highest order, a great philosopher who moved throughout the country lifting up people to the high level of thinking, a jagadguru who stopped all kinds of evil practices among people and promoted 
 the six sects, a great devotee and a poet of high calibre, a great soul who incarnated for the benefit of the world and spared no efforts dur- 
@@ -5412,7 +5403,7 @@ The Prasthanatraya Bhāṣyas
 144. Ācārya's works can be divided into three categories: Bhāṣyas, 
 Prakaraṇas and Stotras. Among the Bhāṣyas, again there are three groupings: Śruti Prasthana or the Bhāṣya aimed at exploring the meaning of the Upanisads; Smrti Prasthāna or the Bhāṣyas aimed at expounding the meaning of the Gītā Smrti; and Sūtra Prasthāna 
 or the Bhāṣya aimed at explaining the purport of Vedanta Sūtras of 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 336 
 Bādarāyaṇa which themselves are composed to logically establish the purport of both Śrutis and Smṛtis. The Upanisads are also referred to 
 as Vedantas by scholars; the conclusions of Vedanta are based mainly 
@@ -5436,7 +5427,7 @@ inorder to aid the acquisition of knowledge of the unity of the Self. We are goi
 the nature of the embodied soul) how this is the purport of all the 
 Vedantas.) While dealing with the first Sūtra of the book, he has referred to VedāntaŚāstra as Vedānta Mīmāmsā Śāstra. It can be 
 said that the cited sentence totally summarises the purport of the Sūtras. We have followed here the principle that any book which goes against this purport cannot be regarded as authored by Acarya. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 Upanisad Bhāṣyas 
 338 
 146. All are using the Bhāṣyas of the ten Upanisads which are in the name of Acārya for study as well as for teaching. Some people be- lieve that apart from these ten, the Bhāṣyas on Śvetāśwatara as well as Nrsimhatapani are also authored by Acarya (page 114). 
@@ -5461,7 +5452,7 @@ Both Taittiriya and Bṛhadaranyaka Bhāṣyas adopt an extraordi- nary style wh
 this kind of style is found only in the Bhāṣyas of these two Up- aniṣads, and is not so evident in the Bhāṣyas of other Upanisads. 
 We have already indicated some differences in the views between Bṛhadaranyaka Bhāṣya and Sūtrabhāṣya (page *27). Scholars have 
 1. We have found one such example in Gītābhāsya. मोक्षायैव इति चेत् । सर्वकर्मणां कृतानां ईश्वरे न्यासो मोक्षायैव न फलान्तराय योगसहितः । योगाच्च विभ्रष्टः, इत्यतः तं प्रति नाशाशङ्कायुक्तैव इति चेत् ॥' (Gi. Bha. Intro. Ch. 6) 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 340 
 to examine whether there are any more differences besides these in 
 these two Bhāṣyas. 
@@ -5490,7 +5481,7 @@ hāṣya and the Upanisadbhāṣyas.
 Gītābhāṣya 
 147. The Gītābhāṣya also is similar to the other Bhāṣyas in style or in 
 the way of expounding the subject. (1) Refuting the argument that jñāna and Karma can coexist with each other (Jñāna-karma-samu- 
-1. May be because of this reason, or may be because during his time the Śvetāś- vatara Bhāṣya was already famous as a work of Sankarācārya, Śri Rāmānujācārya criticises the meaning of the citations from the Purāṇas here and has tried to show that they are not in accordance with the Advaita. He does not consider the famous Adhyāsabhāṣya at all for discussion! Researchers are to take up the question as to why is this. Since this is outside of our purview here, we leave it at this.Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+1. May be because of this reason, or may be because during his time the Śvetāś- vatara Bhāṣya was already famous as a work of Sankarācārya, Śri Rāmānujācārya criticises the meaning of the citations from the Purāṇas here and has tried to show that they are not in accordance with the Advaita. He does not consider the famous Adhyāsabhāṣya at all for discussion! Researchers are to take up the question as to why is this. Since this is outside of our purview here, we leave it at this. 
 342 
 ccaya-vāda); (2) Showing that although karma alone may lead to pros- 
 perity, if it is practised without desiring for the result and only for 
@@ -5524,7 +5515,7 @@ It is doubtful whether Lalita Triśatī Bhāṣya is a work of Acārya's.
 We shall deal with this later when we discuss about the Tantrik books. 
 People might often ascribe some glosses to the Acārya; but by merely observing the way they are written, one would feel that they 
 1. The Adhyatma Prakasha Karyalaya has published in Kannada, Acarya's Prasthāna traya Bhāṣyas, complete with introduction, original text, translation, notes and index. Those who are interested to know about the uniformity of Acarya's treatment of the subject are welcome to have a look at them. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 344 
 can never be Acārya's, and hence we have not named them. Śri Rudra Bhāṣya to which Cidvilasa has referred to (page *115) also belongs to this category. The Soundarya Lahari which he has cited will be 
 reffered to later when we discuss Tantrik books. 
@@ -5580,7 +5571,7 @@ him.
 forms his nature. All else, since they have no ascertained form or na- ture, are not true but illusory. 
 [यद्रूपेण यन्निश्चितं तद्रूपं न व्यभिचरति तत्सत्यम् । यद्रूपेण यन्निश्चितं तद्रूपं व्यभिचरत् अनृतमित्युच्यते । अतो विकारोऽनृतम् ॥ (Tai. Bhā. 2. 1)]. 
 This Atman is of the nature of Knowledge. Here, knowledge means 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 348 
 not the cognition of mundane objects like pot etc. that would be aris- ing and disappearing; what we say as 'knowledge of the pot is formed' 
 and 'it is gone' is vritti, a mode of our internal organ, a modification of 
@@ -5613,7 +5604,7 @@ evils of samsara of the form of 'I am the doer' and 'I am the enjoyer'.
 ... 
 (6) As said above, the Atman who is well-known to us all in the 
 state of avidya, in the forms 'I am the knower', 'I am the doer', 'I am the 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 350 
 enjoyer', is called ahamkartṛ (self as I-awareness, jīva, who is the agent of actions) and ahampratyayaviṣayah (the object of I-awareness, jīva). Distinct from him, Paramātman, the Atman of us all who is witness- 
 ing him directly, can only be known from the Upanisads; except in 
@@ -5638,7 +5629,7 @@ after the rise of that knowledge. This has to be understood similar
 to the knowledge gained during a dream becoming invalid as means 
 of knowledge after awakening. For this reason, the Upanisads are 
 regarded as the final means of knowledge. The Upanisads do not 
-teach Brahman as an object of knowledge; neither the knowledgeŚri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+teach Brahman as an object of knowledge; neither the knowledge 
 352 
 that arises from them objectifies Brahman. Because, Brahman, in the form of our Ātman, is the eternal Subject that illumines our mind, 
 speech etc. The function of the scriptures is only to negate what is not the nature of the Atman. When that knowledge of what is not the Atman is gained, the self-established Atman shines Himself. This method of teaching Atman by negating what is not the nature of Atman is called Agama. 
@@ -5665,7 +5656,7 @@ apavāda is showing that they are non-existent in reality. When it is required t
 ननु शास्ता, शास्त्रं, शिष्यः इति विकल्पः कथं निवृत्त इति? उच्यते ... यथायं प्रपञ्चोमायारज्जुसर्पवत्, तथायं शिष्यादिभेदविकल्पोऽपि प्राक् प्रतिबोधादेव उपदेशनिमित्तः । अतः उपदेशादयं वादः शिष्यः, शास्ता, शास्त्रं इति । उपदेशकार्ये तु ज्ञाने निर्वृत्ते ज्ञाते परमार्थतत्त्वे द्वैतं न विद्यते ॥ गौ. का. भा. १. 
 १८. ॥ 
 354 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 प्रसिद्धं तु भेदमनूद्य बन्धमोक्षव्यवस्था प्रतिपाद्यते । भेदस्तु उपाधिनिमित्तो मिथ्याज्ञानकल्पितो न पारमार्थिकः ॥ सू. भा. १. ४. १०. ॥ 
 तथा च सम्प्रदायविदां वचनम् ' अध्यारोपापवादाभ्यां निष्प्रपञ्चं प्रपञ्च्यते' इति ॥ गी. भा. १३. १३. ॥ 
 उत्पत्तिप्रलययोरभावात् बद्धादयो न सन्तीत्येषा परमार्थता ॥ गौ. का. भा. 
@@ -5699,7 +5690,7 @@ is all; and mere speculation of the human intellect will not be of any
 use here. 
 [न धर्मजिज्ञासायामिव श्रुत्यादय एव प्रमाणं ब्रह्मजिज्ञासायाम्, किं तु 
 356 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 श्रुत्यादयोऽनुभवादयश्च यथासम्भवमिह प्रमाणम् । अनुभवावसानत्वात्, भूतवस्तुविषयत्वाच्च ब्रह्मज्ञानस्य ॥ सू. भा. १.१.२. ॥ 
 । 
 कर्मफले हि स्वर्गादौ अनुभवानारूढे स्यादाशङ्काभवेद्वा न वा इति । अनुभवारूढं तु ज्ञानफलम् । यत्साक्षादपरोक्षात् ब्रह्म' (बृ. भा. ३. ५. १ ) इति श्रुतेः । ‘तत्त्वमसि' इति च सिद्धवदुपदेशात् ॥ सू. भा. ३. ३. ३२. ॥ 
@@ -5729,7 +5720,7 @@ meditation.
 यथाप्राप्तमेव कारकास्तित्वं उपादाय उपात्तदुरितक्षयार्थं कर्माणि विदधत् शास्त्रं मुमुक्षूणां फलार्थिनां च फलसाधनं न कारकास्तित्वे व्याप्रियते ॥ तै. शीक्षा. भा. उपसंहारः ॥ 
 तत्र अविद्यावस्थायां ब्रह्मणः उपास्योपासकादिलक्षणः सर्वो व्यवहारः ॥ 
 सू. भा. १. १. १२. ॥]. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 Results of Devoted Practice (Sadhana phala) 
 358 
 153. (1) If the actions prescribed for the classes and stages of life are 
@@ -5762,7 +5753,7 @@ relation with karma in the past, present or future, his knowledge will result in
 सह अतःपरं परिशुद्धं विष्णोः परमं पदं प्रतिपद्यन्ते । इत्थं क्रममुक्तिरनावृत्त्यादिश्रुत्यभिधानेभ गन्तव्या ॥ सू. भा. ४. ३. १०. ॥ 
 सर्वभूतस्थं सर्वेषु भूतेषु स्थितं स्वं आत्मानं सर्वभूतानि च आत्मनि 
 ब्रह्मादीनि स्तम्बपर्यन्तानि च सर्वभूतानि आत्मनि एकतां गतानि ईक्षते 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 360 
 पश्यति योगयुक्तात्मा समाहितान्तःकरणः । सर्वत्र समदर्शनः । सर्वेषु ब्रह्मादिस्थावरान्तेषु विषमेषु सर्वभूतेषु समं निर्विशेषं ब्रह्मात्मैकत्वविषयं दर्शनादिज्ञानं यस्य स सर्वत्रसमदर्शनः ॥ गी. भा. ६.२९. ॥ 
 तं पुराणं पुरातनं अध्यात्मयोगाधिगमेन विषयेभ्यः प्रतिसंहृत्य चेतस आत्मनि समाधानं अध्यात्मयोगः । तस्य अधिगमः । तेन मत्वा देवं आत्मानं धीरो हर्षशोकौ आत्मनः उत्कर्षापकर्षयोरभावात् जहाति ॥ का. भा. १. २. 
@@ -5786,7 +5777,7 @@ entering into the cycle of birth and death. Some maharshis practic- ing saguna v
 (4) To the question 'what are the means to liberation?' the an- swer that the Acarya has given is: carrying out one's own duties pre- scribed for one's class and stage of life as an offering to Īśwara, sād- hana catustaya sampatti, (four-fold qualification) Śravana mananani- didhyāsana preceded by renunciation of all karmas - these are more 
 and more inner practices. Because of these, knowledge is produced 
 and one attains liberation. All these things are told from the view point of superimposition; from the transcendental point of view how- ever, sādhana, bandha, mukti (means / effort, bondage, liberation) are not real; Brahman alone is the Truth. 
-[तस्मात्, यज्ञादीनि शमदमादीनि च यथाश्रमं सर्वाण्येव आश्रमकर्माणिŚri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+[तस्मात्, यज्ञादीनि शमदमादीनि च यथाश्रमं सर्वाण्येव आश्रमकर्माणि 
 362 
 विद्योत्पत्तौ अपेक्षितव्यानि । तत्रापि एवंवित् इति विद्यासंयोगात् प्रत्यासन्नानि विद्यासाधनानि शमादीनि, विविदिषासंयोगात्तु बाह्यतराणि यज्ञादीनि इति विवेक्तव्यम् ॥ सू. भा. ३. ४.२७ ॥ 
 तस्मात्, विद्यासंयुक्तं नित्यं अग्निहोत्रादिविद्याविहीनं च उभयमपि मुमुक्षुणा मोक्षप्रयोजनोद्देशेन इहजन्मनि जन्मान्तरे च प्राग् ज्ञानोत्पत्तेः कृतं यत् तद् यथासामर्थ्यं ब्रह्माधिगमप्रतिबन्धकारणोपात्तदुरितक्षयहेतुत्वद्वारेण ब्रह्माधिगमकारणत्वं प्रतिपद्यमानं श्रवणमननश्रद्धातात्पर्याद्यन्तरङ्गकारणापेक्षं ब्रह्मविद्यया सह एककार्यं भवतीति स्थितम् ॥ सू. भा. ४. २. १८. ॥ 
@@ -5800,7 +5791,7 @@ Earlier Teachers in the Tradition of Acārya
 In addition to these, the Acarya has cited from some earlier Acāryas, who are not known with certainty, in some places in his Sūtrabhāṣya. For example, we can see these sentences from Gītābhāsya. ‘तस्मादसम्प्रदायवित् सर्वशास्त्रविदपि मूर्खवदेव उपेक्षणीयः’ (therefore, one who does not know the tradition, although knowing all the Śāstras, is to be ignored as a fool) (Gī. Bhā. 13. 2); H- मेवं गुरुसम्प्रदायरहितानां' (for those who do not have tradition of a Guru, it is like this only) (Gi. Bhā. 18. 50); fe rurfaci वचनम् - अध्यारोपापवादाभ्यां निष्प्रपञ्चं प्रपञ्च्यत इति' (accordingly, 
 the knowers of the traditional method have declared 'that which is 
 devoid of all distinctions and details is explained through delibrate 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 364 
 superimposition and rescission) (Gī. Bhā. 13. 13). In Bṛhadaranyaka Bhāsya the Ācārya says 'अत्र च सम्प्रदायविदाख्यायिकामाचक्षते' (the knowers of the tradition have cited a story here) (Bṛ. Bhā. 2. 1. 20). We have already referred to some of the Advaitic ślokas, purported by some as of Sundara Pāṇḍya, which are at the end of the commentary on Samanvaya Sūtra in Sūtrabhāṣya (page). By all these, we can safely believe that the Vedantic method of Acarya is not his own, and that there had been so many Acāryas of that tradition earlier to him. 
 Dravidācārya, Brahmanandi, Upavarṣa 
@@ -5823,7 +5814,7 @@ people that he is none other than Bodhāyana, a Vṛittikāra of Visiṣṭād- 
 Glossators of different traditions earlier than Ācārya 
 156. There is evidence in Prasthanatraya Bhāṣyas that there were 
 several advaitins of different traditions who had written their glosses, even before Sankarācārya. For example, (1) In Samanvaya Sūtra- bhāṣya, the position that scriptures teach Brahman as a remainder of an injunction on upāsanā has been refuted; (2) In Anandama- 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 - 
 366 
 yadhikaraṇa (Sū. Bhā. 1. 1. 19), the position of the glossators who held that the blissful one (Anandamaya) is none other than Paramāt- man has been refuted; (3) In Ubhayalingadhikaraṇa (Sū. Bhā. 3. 2. 21), the position of glossators who conceived two topics (i) does Brahman have the characteristic of existence (sallakshana), 
@@ -5881,7 +5872,7 @@ avidyā, mūlāvidyā. Even then, some people of recent times, on the
 strength of his statement - ‘avidyā is cause (upādāna) to the magic 
 of dvaita' (Br. Var. 1. 4. 371) have imputed on him the theory of root 
 - 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 370 
 avidya. This will be made clearer when we take up a review of Vi- varana Prasthāna. He has stated, just as Bhāṣyakāra, Atman alone is the locus of avidya, and also its object; and since avidyā is known only by experience, he has clarified that there is no other means for know- 
 ing it. He clearly refutes the position that there is an avidyā the innate non-Atman, contrary to avidya of the Atman (Br. Var. 2. 4. 200). 
@@ -5907,7 +5898,7 @@ futed in detail the older Advaitic methodologies in both Sambandha
 Vārtika and in different parts of Brhadāraṇyaka Bhāṣya Vārtika, we can safely believe that he was of the opinion that Acarya's methodol- 
 ogy only is the sure means for accomplishing Advaita. But he agrees 
 that śravana and manana are prescribed (by the scriptures). He is of the opinion that nididhyāsana is self-established knowledge by 
-way of śravana and manana (Bṛ. Vā. 2. 4. 213-221). We do not know why he does not agree with Acārya's statement (Su. Bhā. 4. 1. 1) that nididhyāsana is a means (for realization of the Atman).Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+way of śravana and manana (Bṛ. Vā. 2. 4. 213-221). We do not know why he does not agree with Acārya's statement (Su. Bhā. 4. 1. 1) that nididhyāsana is a means (for realization of the Atman). 
 Summarising Vārtika Prasthāna 
 372 
 163. In summary, we can say that Sureswarācārya has only clarified and strengthened the Acarya's position. Although he has accepted 
@@ -5938,7 +5929,7 @@ for how this ignorance is the material cause of adhyāsa (Vi. p11).
 form of I-notion etc. (Pan. p 4-5). The author of Vivarana explains that this ignorance, the locus and object of which is Ātman, is also the material cause of silver that appears on the mother-of-pearl etc. 
 (Vi. p 12). 
 3. The author of Pañcapādikā holds that if avidyā-śakti is not 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 374 
 agreed upon, illusory object would not appear (Pan. p 4); the author of Vivarana has given perception, inference and presumption as the means of knowledge for that mūlāvidyā which is of the nature of 
 positive ignorance (Vi. p 12-14). 
@@ -5964,7 +5955,7 @@ Bhāmati Prasthāna (The System of Bhāmati)
 166. Bhāmatī is a critique on Sūtrabhāṣya written by Vācaspati Miśra. The methods of that critique and those developed by its commentators is called Bhāmatī Prasthāna. Although some rea- 
 soning used in Pañcapādikā are seen in Bhamati, Vācaspati Miśra closely follows Brahmasiddhi of Mandana in writing the critique on Sūtrabhāṣya and attempts to bring forth a new method for a 
 1. For more details the readers may refer the Karyalaya Books 'Sankara- Siddhanta', Vedanta-Vicārada Itihāsa, also footnotes of Prashthanatraya Bhāṣyas, all in Kannada, and the Books Mūlāvidya-Nirāsaḥ, Sugamā, Vedānta Prakriya Pratyab- hijnā, Māṇḍūkya-rahasya-Vivṛtiḥ, in Sanskrit. -Publisher. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 376 
 compromise between Sankara and Mandana. We have already pointed out with sufficient reasons (page *151*154) that the story of Mandana Miśra, after being defeated in argumentation with the Ācārya, assumed the name Sureswarācārya cannot be believed. We have also analysed and indicated that the story of Sureswarācārya deciding to write a Vārtika on Sūtrabhāṣya, the objections raised on it, and the Acārya consoling him that in future he would be born as 
 Vacaspati and would be writing an excellent critique - is also not 
@@ -5996,7 +5987,7 @@ th
 though both aim at explaining the opinions in the Sūtrabhāṣya. 
 Modern Vedāntins take consolation that these can be overlooked 
 since there is no difference between them in the final aim of Advaita. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 378 
 But, since they are contradictory to each other, and since unanimity 
 cannot be forged at all, between them, it has to be concluded that it is unreasonable to hold that they, both, convey what is implied in the Bhāṣya. We summarize here the main differences between them for the benefit of the readers. We have taken these from Pañcapādikā Bhūmika of Śāstraratnākara Polakam Su. Śrirāma Śāstry (Po. Pam. Bhu. P 116-135). 
@@ -6043,7 +6034,7 @@ that there are no oppositions between them. But Sureśwarācārya has refuted in
 that, more often than not, mutual refutations between themselves 
 and between recent authors on Advaita who are followers of their tra- 
 ditions have continued. Therefore, the fact that at the end they would be espousing Advaita alone would not be sufficient ground to say that 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 these Vyakhyāna Prasthānas expound only Acārya's views. 
 Conclusions on the systems of sub-commentaries 
 380 
@@ -6068,7 +6059,7 @@ ductions to each of these books.
 The Prakaranas published by the Kāryalaya 
 171. The following are the Prakaraṇas which have come out of the 
 Adhyatma Prakasha Kāryalaya till now: 
-(1, 2) उपदेशसाहस्री: Upadeśasahasrī has been published in two parts - prose composition and poetic composition. In the prose composition, the methodology of śravana-manana-nididhyāsanaŚri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+(1, 2) उपदेशसाहस्री: Upadeśasahasrī has been published in two parts - prose composition and poetic composition. In the prose composition, the methodology of śravana-manana-nididhyāsana 
 382 
 has been explained in great detail. The style is quite matured and 
 scholarly; nowhere there is any contradiction with the Bhāṣyas. In 
@@ -6101,7 +6092,7 @@ is not Acarya's. There is no mention of the
 Mahāvākyas in the Laghuvakyavritti! 
 (14) दृग्दृश्यविवेक: Drgdrśyaviveka has another name Vakya Sudha which is not meaningful for it. In the Introduction (of Karyalayas publication) it is mentioned that the work has accepted positions that are different from Acarya's. This work is not enlisted 
 in publications from Vāṇīvilās Press. Different opinions are there among scholars about the authorship of this work as Acārya's, 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 Vidyaranya's etc. 
 384 
 (15) सवार्तिकपञ्चीकरण: Pañcikarana itself is not the main subject 
@@ -6139,7 +6130,7 @@ Prakaraṇas which are yet to be published
 172. The following Prakaranas are going to be published from the Karyalaya in future. These have been published by the Śrīrangam 
 Vāṇīvilās Press. 
 386 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 (1) शतश्लोकी: Sataśloki elucidates the Vedäntic conclusions through slokas that are in long metres. Looking at the method of 
 exposition, the style of language and the examples therein, one would feel that it may not be Acārya's work. 
 (2) सर्ववेदान्तसिद्धान्तसारसङ्ग्रहः* Sarva VedāntaSiddhan- taSaraSangraha is a big Prakaraṇa consisting of 1006 slokas. Most probably this is written by the same Sankarānanda, the author of Vivekacūḍamani, because the presentation of the subject matter is 
@@ -6186,7 +6177,7 @@ varṇamālā', (13) 'Dakṣiṇāmūrtyaṣṭakam', (14) ‘Dakṣiṇāmūrti
 7. Stotras on Rivers etc.: (54) 'Narmadāṣṭakam', (55-56) 'Ya- munāṣṭakam' (two versions), (57) 'Gangāṣṭakam', (58) 'Manikarnikāṣṭakam', (59) 'Kāśīpañcakam', (60) 'Gurvaṣṭakam'. 
 8. Miscellaneous Stotras: (61) 'Prātaḥsmaraṇastotram', (62) 'Nir- 
 guṇamānasapūjā'. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 Opinion of Scholars about the Stotras 
 390 
 175. There are at least 240 Stotras in handwritten manuscript books. If their style and the subject matter are examined, the greater part of them appear to be artificial; and hence it is doubtful that they are compositions of Sankarācārya. At least there are fifteen 'Bhujangaprayāta's, and they are Stotras on deities like Gaṇeśa, 
@@ -6199,7 +6190,7 @@ Has Sankarācārya written books on Tantra?
 176. The question whether Ācārya has written any Śākta Tantra books has found no solution. Many people believe that he established God- dess Śārada, the manifestation of Brahmavidya, on the left bank of Tunga river, on Śri Cakra (page *257; KRTTW 14). We have already given the account of his writing Śri Cakra and establishing Goddess Kamākṣī on it at Kāñci (page *290) and have mentioned that accord- ing to Cidvilāsa, the Śri Cakra indicates the unity of Śiva and Śakti (page *291). The works 'Anandalaharī' and ‘Saundaryalaharï' are fa- mous as written by Acarya himself. It is also believed that he brought Śri Cakra from Kailasa, directly from Lord Śiva (Bala. Śam. 135). Now it has become a tradition that in each Matha a Sakti is being wor- 
 shipped. By all these reasons, it becomes quite plausible that the Acārya might have written books on tantra. 
 Did Acārya have householder disciples also? 
-177. We shall discuss about Acārya's Matha pontiff lineage later. Now, we have to examine whether he had householder disciples also. It appears there is a sloka in the book Śri Vidyārṇava that reads ‘शङ्कराचार्यशिष्याश्च चतुर्दश दृढव्रताः । देव्यात्मानो दृढात्मानो Aude: II' (1. 60). The Acarya had 14 disciples: Padmapāda, Bodha, Gīrvāṇa, Ānandatīrtha, Śankara, Sundara, Viṣṇu Śarma, Lakṣmaṇa, Mallikārjuna, Trivikrama, Śrīdhara, Kapardi, Keśava, Damodara - all these were worshippers of Devi, and were supreme Siddhas. These also had their own disciples. Visņu Śarma's chiefŚri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+177. We shall discuss about Acārya's Matha pontiff lineage later. Now, we have to examine whether he had householder disciples also. It appears there is a sloka in the book Śri Vidyārṇava that reads ‘शङ्कराचार्यशिष्याश्च चतुर्दश दृढव्रताः । देव्यात्मानो दृढात्मानो Aude: II' (1. 60). The Acarya had 14 disciples: Padmapāda, Bodha, Gīrvāṇa, Ānandatīrtha, Śankara, Sundara, Viṣṇu Śarma, Lakṣmaṇa, Mallikārjuna, Trivikrama, Śrīdhara, Kapardi, Keśava, Damodara - all these were worshippers of Devi, and were supreme Siddhas. These also had their own disciples. Visņu Śarma's chief 
 392 
 disciple was Pragalbhācārya; the disciple of his was Vidyārṇava, the author of Sri Vidyārṇava. It seems this author of Śri Vidyārṇava has 
 written in his Kāmarājavidyā as follows: 
@@ -6226,7 +6217,7 @@ Was Śrividya there in the Guru Tradition of Acārya?
 mention of a dravida śishu, which got breastfeeding from Bhagavati Herself (‘तव स्तन्यं मन्ये... दयावत्यादत्तं द्रविडशिशुरास्वाद्य तव यत्' - śloka 75). Some people opine that the Dravida shishu was a Śaiva saint by name Jñānasambandhar. Some others opine that this saint was none other than our Acarya! Even attempts have been made to decide 
 1. It seems in one of the Tamil books of Jñānasambandhar, it is stated that 'your breastfeeding has not been available to any human being"! 
 394 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 Acārya's time on the basis of the time of this Jñānasambandhar (Bala. Śam. p 145). But this argumentation would become tenable only after it is established that Soundaryalahari is a work of the Acarya. Similarly, Prapancasăra is purported to be a work of the Acarya, and that its commentary Vivarana is by Padmapādācārya. Some people think that Prapancasăra is a summary of Prapancagama (Bala. Śam. p 146). The Acarya in his Sūtrabhāṣya, while writing on Vedanta Sūtra (1. 3. 33) quotes from Svetāśvatara Upanisad (2. 12) that presents the greatness of Yoga. While explaining this, Amalananda, the author of Kalpataru, has cited a sloka from Prapancasāra stating that it is Acārya's; and in Nrsimhapūrvatāpinī, the Bhāṣyakāra has agreed that Prapancasăra is his own work. Baladeva Upadhyāya feels that 
 because of these reasons, the author of Prapancasăra can be taken to be Acārya himself (Bala.Sam. p 146-147). 
 However, we are constrained to say that sufficient evidence has not been available to regard Gauḍapada and Sankara to be worshippers of Śrividyā. Neither in GauḍapādaKārika nor in the Prasthānatraya Bhāṣya of the Acarya there is consideration of tantric aspects. It is quite meaningful that the Acarya does not take up the Sākteya school of thought either to support or to refute! In Gitābhāṣya the Acārya has mentioned that Bhutejyas means worshippers of Vinayaka, Matrgana, Caturbhaginis etc. (Gi. Bhā. 9. 25). He condemns such worship say- ing that 'only tāmasas worship the saptamātṛkas, bhūtagaṇas and the like' (GI. Bhā. 17. 4). We have mentioned this before (page *330). The Bhāṣya does not mention about Saktapuja anywhere else. Some peo- ple opine that if Śrividya was close to Brahmavidya and if the Acarya was a worshipper of Śrividyā, he would not have disregarded such 
@@ -6243,7 +6234,7 @@ At the time of the author of Dindima, Śiva was regarded as the au- thor of Soun
 work; there was also another tradition that it is a work of Lalita Devi. 
 Author of Sudhavidyotini, (a commentary) has mentioned that it is the work of Pravarasena, a Dravidian king. Mahādeva Śāstry in his introduction to the Stotra has opined that 'since Sankarācārya has re- fined the Śākta cult, since Sakti worship is being carried out in the 
 Advaita Mathas, since Devi-Jīva identity (śloka 22) as well as Vedānta 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 396 
 (śloka 84) both are expounded in the Stotra, by considering the style, and by the effort made in it to unify samaya and kaula methodologies, and also since Lakṣmīdhara and others say that this is Ācārya's, I am leaning towards believing that it is Acārya's work only' (p 11). None of these reasons appear to us as decisive. Because, the Acarya is not 
 the first to declare the identity of Paramātman and Jīva; just the com- mon name of Vedanta cannot be suggestive of Acarya; coordination 
@@ -6251,7 +6242,7 @@ of samaya-kaula paths might have been done by some recent tantrika Acārya; ther
 the present, that it is not that rational at all to decide just by the name Śankara, that the Acarya himself wrote tantrik books, or to decide that 
 he regarded brahmavidyā and the Tantrika vidyā to be one and the 
 same. 
-25. Mathas Established by 
+## 25. Mathas Established by 
 Acārya 
 Difficulties regarding the Mathas 
 179. It is well-known that the Acarya established four Pithas in four di- rections. As the pontiffs there are representatives of Acārya Śankara, they too are being called 'Sankarācārya's. Even then, which Matha the Acarya established first? How many Mathas are actually established 
@@ -6268,7 +6259,7 @@ The sacred texts of the Mathas (Maṭhāmnāyas)
 book entitled Maṭhāmnāya in which he had determined their fields of action, formulated rules and regulations for their daily practices etc. 
 But to our misfortune, there are several books entitled Maṭhāmnāya 
 with differing contents; hence it cannot be precisely told whether the Acarya wrote such books, and whether he regulated the fields of 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 398 
 action of the Mathas. For example, we have given in Appendix IX some of the Mathamnaya contents which we could procure. Perusal 
 of these would enable the readers to understand how complex this question has become and how difficult it is to solve. 
@@ -6301,7 +6292,7 @@ Advaitācāryas in those Mathas, it is necessary for us to know at least
 something about them. This is also not easy. For example, Bodas writes that there are four lists of lineage of the Śringeri Matha. Since 
 detailed history of the lineage of pontiffs of that Matha is now avail- 
 1. The listings of Bodas are given in Appendix IX. 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 400 
 able in The Throne of Transcendental Wisdom of Śri K. R. Venkața ra- 
 man, we shall follow his method of listing. 
@@ -6328,7 +6319,7 @@ the historical point of view that worship of the Lingam might have been commence
 (6-9) Jñānagiri, Simhagiri, Iśwaratīrtha, Nri(Nara?)simhatīrtha. K. R. Venkataraman's guess is that the one who defeated Madhvācārya might have been the last of these four or the next (KRTTW p 36). It seems several Mathas were established by this time; the study of Vedanta received encouragement. 
 (10) Vidyāśankara or Vidyātīrtha. It seems he gave Sannyāsa to two brahmin brothers from Ekashilānagar (Oragallu) and gave them yogapaṭṭas - Bhāratī Kṛṣṇa Tīrtha (Bhārati Tīrtha) and Vidyāraṇya. When Bharati Tīrtha was the pontiff in Sringeri, Vidyaranya used to be on travel. It seems Vidyāśankara got carved out the idol of Catur- 
 mūrtividyeswara at Simhagiri, and had foretold that after he finished 
-1. With Bharati Tirtha and Vidyaranya in the front, Vidyatirtha is in SiddhāsanaŚri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+1. With Bharati Tirtha and Vidyaranya in the front, Vidyatirtha is in Siddhāsana 
 402 
 his yoga for twelve years underground, his body would take the form of that idol. When the curious servants opened the door of his un- 
 derground confinement after three years, only the Lingam of the top 
@@ -6359,7 +6350,7 @@ them to complete them and get them published in their names ap- pears reasonable
 Doubtless this argumentation deserves to be considered further. 
 Even while the works like 'Vaiyāsikanyāyamālā', 'Pañcadaśī' etc. of 
 1. śri D. V. Gundappa argues that the author calling himself as 'सायणदुग्धाब्धि- implies that he belongs to the Sāyaṇa lineage; but the Koustubha was born directly in the Ksheerabdhi; not as a result of a lineage. Therefore, this appears to support those who opine that he is Sāyaṇa's son. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 404 
 Bhārati Tīrtha and Vidyaranya are so very famous, it does not look 
 proper that their individual aspects remain so doubtful. It seems 
@@ -6387,7 +6378,7 @@ also was established during this time. According to K. R. Venkaṭarā-
 man, the Maṭhas at Hariharapura, Tīrthamattūr and Kudali also were established in the 14th century A. D. with the encouragement of the pontiff of Śringeri Matha (KRTTW p 44). But the Kuḍali Matha are 
 not agreeing on this point (see Appendix IX). 
 As the Śringeri Samsthāna progressively developed the benefit of Śārada Pīṭham was available more and more to the public. The main Matha and the subordinate Mathas helped Sannyāsins, spiritual as- 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 406 
 pirants and scholars; help was made available to raise temples and 
 to establish boarding houses for charity. In spite of political turmoils 
@@ -6414,7 +6405,7 @@ the names of some important pontiffs of this Pītha.
 The important Pontiffs of Kamakoți Pīṭha 
 185. Apart from Śri Sankarācārya and Sureswarācārya, a further 66 pontiffs have ruled at Kāmakoți Pīṭha. Following Śri N. Venkața- 
 raman, we too shall count the lineage from Sarvajñātma and give the 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 408 
 names of only the important Gurus here. More details can be had from his English book or the Sanskrit Punyaślokamanjari. 
 (1) Sarvajñātma: It seems he argued with Sankara himself; and seeing his brilliance, the Acārya made him pontiff at his 7th year of 
@@ -6448,7 +6439,7 @@ ranya, and also of Bhāratī Kṛṣṇa Tīrtha who became the first pontiff of
 shed eight Mathas and made his eight disciples the heads of these 
 Mathas. He made Vidyaranya the pontiff of Virupākṣa Matha near the 
 capital of Vijayanagara Empire. Vidyātīrtha stayed at the Kāñci Maṭha for 73 years and then proceeded to Himalayas for penance. Out of the eight Mathas purported to be established by Vidyātīrtha, only two - Virūpākṣa and Puşpagiri - are now continuing. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 410 
 All these Mathas have the emblem Vidyaranya or Vidyāśankara on their Matha seals; both these names are of the same person. Vidyāśankara, the ninth pontiff in the lineage of Śringeri Matha is different. He passed away at a place called Nirmala during 491 A. D. 
 The above details are given as in N. Venkaṭarāman's book. If one goes through what has been given under Śringeri Matha lineage (page *401) for comparison and the material given in Appendix IX, it will be evident how controversial these things are. 
@@ -6477,7 +6468,7 @@ not mentioned them here. See Appendix for further details.
 About the Mathas: Conclusion 
 187. Since the pontiffs of the Mathas established by Sankarācārya, 
 from some time in the past, did not make any significant efforts for 
-1. At the time of translation of this book, he is the pontiff of Kamakoți Pitha.Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+1. At the time of translation of this book, he is the pontiff of Kamakoți Pitha. 
 412 
 improving the great activities of Mathas, for teaching Advaita to as- 
 pirants, or in spreading Advaita through publication of books etc., 
@@ -6503,7 +6494,7 @@ historical documents. On the top of it, blind followers of the different
 Mathas wrote some of them or promoted them in order to display the 
 greatness of their own tradition. Therefore, we will have to regretfully accept that we in fact know very little about the history of the Acarya. 
 Notwithstanding the very valuable guidance towards Jeevanmukti, very live and invigorating even today, available in his highly effica- sious Bhāṣyas, some people have ignored them and have shown the audacity of resorting to propaganda that some teachings of Vedanta that have gained currency alone are the opinion of the Acarya. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 414 
 Concerning the matters of practices and deliberations on which the Acarya has written clearly, we have not considered any of the SankaraVijayas as authority; We have explained his opinions only on the basis of Bhāṣyas, and we have refuted in unambigious terms, 
 those that contradict them. 
@@ -6566,7 +6557,7 @@ the birth of a pious brahmin in Kerala.
 5. alternate version 'तथा’. 
 6. ‘From my own part' is there in ślokas 7, 14, 15, 37, 39. This is against ‘शङ्कर एव साक्षात्' of Ma. Sam. (text, page 85). 
 7. alternate version 'कलाविमे'. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 सारस्वतास्तथा गौडा मिश्राः कार्णाञ्चिनो द्विजाः । 
 आममीनाशना देवि ह्यार्यावर्तानुवासिनः ॥९॥ 
 औत्तरा विन्ध्यनिलया भविष्यन्ति महीतले । 
@@ -6605,7 +6596,7 @@ win over the Jains and other followers of inferior creeds.
 4. alternate version 'विहृते' 
 5. better than the alternate version of the tika; the Jains are men- tioned next. 
 6. although in past tense, to be taken in future tense. 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 तदा मातरमामन्त्र्य परिव्राट्स भविष्यति । 
 परिव्राजकरूपेण मिश्रानाश्रमदूषकान् ॥ १९ ॥ 
 दण्डहस्तस्तथा कुण्डी काषायवसनोज्ज्वलः । भस्मदिग्धत्रिपुण्ड्राङ्को रुद्राक्षाभरणोज्जवलः ॥ २० ॥ ताररुद्रार्थÐपारीणः शिवलिङ्गार्चनप्रियः । 
@@ -6641,7 +6632,7 @@ meaning applying proper means of knowledge. After winning over Vyasa who is in A
 4. 'having dvaitic meaning' - this does not suit the context 
 5. no indication here that Advaita was there before Acārya. see text page *365, 
 6. after having darśan of Vyasa; see text page *119 
-7. alternate version 'द्वितीयोऽवतस्थे' (?).Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+7. alternate version 'द्वितीयोऽवतस्थे' (?). 
 422 
 Lord. This is verily Brahman, in the rear as well as in the front. There 
 would be only one Rudra so that there is no place for the second. 
@@ -6689,7 +6680,7 @@ it would have been better in metre and connection of
 10. should it be ‘सर्पभासेव'? 
 11. alternate version af. In the above verses of praise, the meaning of different 
 Śrutis are collected. 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 424 
 34-35. O Maheśa! from you are born this group of beings. This peculiar one lives enlivened by you, and in the end all of them will enter into you alone. Who can rightly sing the glories of such Isha? 
 Knowing a little with an intellect that appears to know everything, I 
@@ -6725,7 +6716,7 @@ after establishing her in the land of Agastya's wandering, on the bank of Tunga,
 5. Miśra again! 
 6. Matter within square brackets is not found in some versions. 
 7. It is Tungabhadra in Mādhavīya, but we shall take it up while discussing about the śringeri Pitha. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 426 
 of Advaita will become famous even in Kaliyuga]. You will have only thirty two years of lifespan; quickly come over to Kailasa 
 एतत्प्रतिगृहाण त्वं पञ्चलिङ्गं सुपूजय । 
@@ -6768,7 +6759,7 @@ But the Kañci Matha accepts the abovementioned version.
 are there. 
 6. it means that he had his Āśrama at Kāñci; he attained siddhi at Kañci implies that he gave up his body there, which is the version of Kañci tradition. 
 7. all Mațhas do not accept the portion within square brackets; so different serial numbers (1 to 13) are given. See concluding sentences after 13. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 ब्रह्मैकविद्यां रचयन् सभाष्यं शारीरकं नाम जगाद मोदात् ॥ १ ॥ 
 428 
 1. After attaining tapas-siddhis], in Kañci the dandi (one pos- sessing a staff) of the form of chandiswara, examining the world (?), composed brahmaikavidyali.e., Sārīraka Bhāsya - and taught (peo- ple). 
@@ -6804,7 +6795,7 @@ available, in order to get rid of the intense cold. The Gods and the
 Vriṣabha arrived from Kailasa, sang his glories, and requested him saying 'your lifespan is over; so please mount the Vrishbha'. The Lord pondered within himself and then gladly addressed his disciples thus: 
 यूयं चतुर्दिक्षु मठेषु लिङ्गैः साकं वसन्त्वित्युपदिश्य हर्षात् ॥ ९ ॥ विवेश पृष्ठं वृषभस्य हस्तं सङ्गृह्य वैरिञ्चमथास्य दत्तम् । सर्वैश्च देवैरभिनन्द्यमानः स शङ्करस्तन्निजगाम देवः ॥ १० ॥ विवेश कैलासनिवेशमच्छं सच्छब्दवृन्दारकवृन्दपूर्णम् । 
 1. this is quite comparable to Mādhaviya. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 तदादि तच्छङ्करभाष्यमेतद्भूमौ जनं मुक्तिपदं ददाति ॥ ११ ॥ 
 430 
 9-11. ‘You shall remain with Lingas in the Mathas in the four direc- 
@@ -6834,7 +6825,7 @@ ern versions; it is not there in the handwritten version that is with Puṇḍit
 has yet to be revealed by further research. 
 The subject of Lingas mentioned in the śloka 47 commencing with ' is present in Anandagiriya. Although the Telugu book clearly mentions the details as Muktilinga at Kedara (Chap. 55, p 209; De, not mentioned); Varalinga at Nilakantha (Chap. 55, p 210; De, not mentioned); Bhogalinga at Sringeri (Chap. 63, p225; De, not mentioned); Yogalinga at Kāñci ( Chap. 65, p 231; De, not mentioned); and Mokshalinga at Cidambaram (Chap. 84, p255; 
 De, not mentioned), there must be some reason why it is not found 
-in Devanagari version. It is necessary to find why the DevanagariŚri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+in Devanagari version. It is necessary to find why the Devanagari 
 432 
 version differs from the Telugu version here and there. May be since 
 it was not there in the original Telugu copy, it might not have been known to those who published the Devanagari copy; or they might have deliberately left it out thinking that it is unnecessary. God only knows the truth. It is exactly like the Telugu manuscript, in the Anandagiriya version of the notes of Sivasamhita in the Appendix of the book on the travelogue of Kañci pontiff entitled Gangāditīrtha 
@@ -6866,7 +6857,7 @@ appears
 the slokas have suffered variations here and there. 
 1. this version appears to be better than ‘परितृप्त’. 
 2. It seems the Acārya went to Nepal at the instance of the king Sankara there. At that time there was a Vriśabhadeva of the sun dynasty, and since at the time of Acārya's visit, a son was born to him and he was named as Śankara to mark the occasion (Bala. Śam. p 118). Nambūdaris had been the priests of Pasupatiswara temple here. Some staunch followers of Kancī Pitha write that the kings of Nepal give offerings every year; but R. Kriṣṇaswami Iyer negated this statement in his book (K. M. C. p 17). 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 पञ्चद्वारशुभालये निवसितं कृत्वाथ योगीश्वरः । वाञ्छासिद्धिमवाप्य विश्वजनकं श्रीनीलकण्ठेश्वरं 
 प्राप्य प्रौढतपश्चचार च ततः श्रीमेरुशैलं ययौ ॥३॥ तत्र स्वर्णशिलोच्चसानुशिखरप्रत्यन्तशैलान्(?)गुहाः (?) 
 वेदान्तागमसप्तकोटिसुमहामन्त्रान्महाघापहान् 
@@ -6910,7 +6901,7 @@ P 90).
 7. No review of yantras is found in Bhāṣyas 
 8. there are no references to yantras in Bhāsya texts. 
 9. Curse towards the kings who do not honour Sankarācārya. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 ते दुर्गतिमचिरेण प्राप्य पतन्त्यन्धतामिस्रे ॥ १५ ॥ ये रुद्राक्षविभूतिभिः कृतशुभालङ्कारदेहा महा- 
 देवध्यानजपार्चनासु निरतास्तैः शङ्करार्यो गुरुः । सम्पूज्यः सततं सुदूर भरणा (?) वप्यास्थितः श्रीपतिः 
 ब्रह्मा साम्बसदाशिवोऽपि वितरन्त्येतेषु राज्यश्रियम् ॥१६ ॥ सङ्कटसमये जगतां शङ्करगुरुचरणपङ्कजं शरणम् । 
@@ -6949,7 +6940,7 @@ APPENDIX I
 योग्यागाराणि रामाः शरददु (प) मुखीः (?) मोक्षसाम्राज्यलक्ष्मीम् ॥ 
 1. that Padmapāda was nominated to Śringeri is a version of Anandagiriya. 2. already it has been mentioned that Sureswara was appointed for worship. See the previous parispanda, 1oth sloka. 
 3. Sureswara was kept at Kāñci since he was an adept in Śrividyā. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 काञ्चीपीठाधिपं ये यतिपतिमखिलाचार्यमाखण्डलश्री- 
 सम्पन्नं पन्नगारिध्वजविधिहरि (?)भिर्भाव्यमानं शरण्यम् । ते सातत्यं रमन्ते कलशजलधिजाऽऽयुरारोग्ययुक्ता 
 स्थानेष्वानन्दभूमस्वनवरतशुभैश्वर्यभाजो महीपाः ॥ ५ ॥ यो चोन्मत्तान्तरङ्गा गुरुवरचरणाम्भोजसेवाविहीना 
@@ -6979,7 +6970,7 @@ tradition of Kañci Pīṭha.
 (2) Kurma Purāṇa 
 कलौ रुद्रो महादेवो लोकानामीश्वरः परः । तदेव(?) साधयेन्नृणां देवतानां च दैवतम् ॥ करिष्यवतारं स्वं शङ्करो नीललोहितः । श्रौतस्मार्तप्रतिष्ठार्थे भक्तानां हितकाम्यया ॥ उपदेक्ष्यति तज्ज्ञानं शिष्याणां ब्रह्मसंमितम् । सर्ववेदान्तसारं हि धर्मान् (?) वेदान्तदर्शनात् ॥ ये तं प्रीत्या निषेवन्ते येनकेनोपचारतः । 
 1. alternate version 'देवो'. 2. alternate version' अवताराणि' 3. print version ‘प्रतिष्ठार्थम्’. 4. alternate version ‘ब्रह्मसंज्ञितम्’. 5. alternate version ‘वेदनिदर्शितान्’. 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 विजित्य कलिजान् दोषान् यान्ति ते परमं पदम् ॥ 
 32-35) 
 ( 3 ) Vāyu Purāna 
@@ -7004,7 +6995,7 @@ Purāṇas that defame the Acārya
 3. alternate version ‘प्रोक्तानि च’. 
 4. alternate version श्रुणु. 
 5. this śloka is the 75th one in Padma Purāna. 6. alternate version ‘बौद्धमुच्यते'. 
-7. printed version 'वै'.Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+7. printed version 'वै'. 
 442 
 सर्वकर्मपरिभ्रंशान्नैष्कर्म्यं तत्र चोच्यते ॥ परात्मÐ जीवयोरैक्यं मया तु प्रतिपाद्यते । ब्रह्मणोऽस्य परं रूपं निर्गुणं दर्शितं मया ॥ सर्वस्य जगतोऽप्यस्य नाशनार्थं कलौ युगे । वेदार्थवन्महाशास्त्रं मायावादमवैदिक ॥ मयैव रक्ष्यते देवि जगतां नाशकारणात् । 
 (Uttara Khanda - Chap. 264, Ślokas 66-75 ) 
@@ -7042,7 +7033,7 @@ Krodha, the ministers of Kali
 (Skanda Purāṇa, Kedāra Khanda, 61st Chapter. The Lord teaches Kalidharma to Garuda) 
 कामस्तु द्राविडे देशे वर्धमानो महाद्युतिः । 
 कलिपूरुषसन्देशाद्विष्णुपाषण्डनामकम् ॥ 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 व्याख्यास्यति दुरात्मासौ मोहयित्वा जनान्भृशम् । 
 भङ्क्त्वसूत्राणि सर्वाणि ब्रह्माद्वैतपराणि च ॥ 
 श्रुतिस्मृतीस्तथा भङ्क्त्वद्वैते संस्थापयिष्यति । कारयिष्यति पुण्ड्राणि द्विजाद्यैः श्वेतमृत्स्नया ॥ तप्तलोहैर्द्विजातीनां दहिष्यति कलेवरान् । त्याजयिष्यति कर्माणि वैदिकानि दुरात्मवान् ॥ भाषाकृतप्रबन्धानि पाठयिष्यति सर्वशः । अभेदवादिनः साधून् दूषयिष्यति दुर्मतिः ॥ क्रोधः कर्नाटदेशीयः कामशास्त्रं समीक्ष्य च । स्वयं व्याख्यास्यते पुत्र तद्विरुद्धमते स्थितः ॥ तत्त्ववादसमाख्यां च कृत्वा तस्मिन्निजागमे । श्रुतिस्मृतिपुराणानि भञ्जयिष्यति सर्वशः ॥ स्वयं करिष्यते धीरः पुराणानि श्रुतिस्मृतीः । अष्टादशपुराणेषु स्मृतिष्वष्टादशस्वपि ॥ अद्वैतनिरतं सर्वं वाक्यमुत्पाटयिष्यति । कारयिष्यति पुण्ड्राणि वेणुपत्राकृतीनि च ॥ स्वकल्पितपुराणानि ख्यापयिष्यति भूतले । तत्त्ववादमते स्थित्वा केचिद्ब्राह्मणबान्धवाः ॥ दाहयिष्यन्ति गात्राणि तप्तलोहैर्द्विजाधमान् (माः ? ) । 
@@ -7072,7 +7063,7 @@ be the slokas from Skanda Purāṇa, Uttara kāṇḍa:
 मणिमत्पूर्वका दुष्टा दैत्या आसन् कलौ युगे । ते कुशास्त्रं प्रकुर्वन्तो हरिवायुविरोधिनः ॥ तेषां मध्ये सङ्करस्तु पूर्वं यो मणिमान् खलः । सौगन्धिकवने दिव्ये भीमसेनहतोऽसुरः ॥ यः क्रोधतन्त्रको दुष्टो मिथ्याशास्त्रं वदन् पुनः । कृष्णे भीमे च विद्वेषं कुर्वन् भूमावजायत ॥ कालडीग्रामके रुद्रवराज्जगद्विमोहयन् । बौद्धशास्त्रपरो विप्रो यः कश्चिद्द्वापरशिष्यकः ॥ 
 स सङ्करस्य संन्यस्य तस्मात्संन्यासरूपिणः । 
 वेदान्तमतमित्येतद्दुष्टशास्त्रं चकार ह ॥ 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 446 
 When a Madhva inquirer questioned 'is it right that Veda Vyasa has written in his Purāņas such sentences condemning Sankarācārya?' 
 the editor of the magazine, in his reply, asked the inquirer to have a 
@@ -7098,7 +7089,7 @@ Opinions of People of Other Creeds
 [Here it is described as Manimantha, after his death along with three billion (padma-traya) demons, was born in Kaliyuga; he spread (his) deceitfull intellect everywhere and went into deep darkness. Śankarācārya's doctrine that the world is illusory is indicated indi- 
 rectly as Manimantha's. There is no evidence in the Mahabharata for 
 this]. 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 (2) Maņimañjari 
 448 
 It appears that Trivikrama Paṇḍitācārya, a disciple very dear to Madhvācārya, was born in the latter part of Salivahana Śaka 1180 in 
@@ -7142,7 +7133,7 @@ ers went to outer areas of the state in disguise (5- from 38 to 51).
 In the sixth chapter, Narayana Pandita has named Bhāravi, Māgha, 
 Prabhakara, Vararuci, Bāņa, Mayūra, Kālidāsa, Dandi, Umbeka, Man- 
 ḍana and Rephaņa as stalwarts of scriptures and has exhibited his 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 level of knowledge about Mīmāmsā. 
 450 
 We have already mentioned how he says that Sankara's birth was from a brahmin woman illegitimately (page 5). We have critically 
@@ -7174,7 +7165,7 @@ in it is just an all-pervading vacuum to this dullard! Nirvisesa, Nirguna, Šūn
 After going to Govinda to become his disciple, Śankarācārya became a māyi (māyāvādi); and he told Govinda 'let us hide our 
 śūnyavāditva and profess that we are Vedāntins; otherwise people may fie upon 
 us!' (643) and then went to Brahmadatta in order 
-to study with the trio Prabhakara, Bhaṭṭakumāra and Bhaskara (6 43)! Since all of them developed different opinions, they simply diverged! The author has no hesitation that people may laugh at him,Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+to study with the trio Prabhakara, Bhaṭṭakumāra and Bhaskara (6 43)! Since all of them developed different opinions, they simply diverged! The author has no hesitation that people may laugh at him, 
 452 
 declares that these people are all Sankara's contemporaries! A lie has 
 a thousand feet! 
@@ -7203,7 +7194,7 @@ thor has tried to show that the Advaitins were fanatics, or whether it is just t
 Condemnation of gods, gurus, reminiscence of demons, creating divisions among brahmins, impressions of passion and hatred - these would be seeded into the minds of young ones by such books; it goes 
 without saying that keeping them in circulation, whether by Madhva 
 or Smarta or any other brahmins is an act of great sin. Instead, may 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 454 
 Lord Narayana inspire the publishers of books to try propagandizing 
 devotion to God, and thereby uplift brahmins as well as the Hindu 
@@ -7243,7 +7234,7 @@ He is purported to have given the following opinions in his book Esoteric Buddhi
 (1) The secret is the Śankarācārya is, from all points, none other 
 than Gautama Buddha, only with a new body. I have come to know 
 this from an Advaitic brahmin of the South. (2) Some of the lower- incarnations of Buddha are described as shades of his Atman; but Sankarācārya is verily the incarnation of Buddha. (3) The important purpose of Buddha (to reincarnate) was to correct the mistakes of his earlier teachings and to fill up the blanks of certain omissions. (4) 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 456 
 Buddha tried his best in his Sankara-incarnation to snub the hatred that was to happen among the different creeds. (5) Śankarācārya trav- elled in all the regions of India and established Mathas in important places. (6) In his books, Śankarācārya emphasized the inevitability of knowledge in the path of liberation. 
 (3) Dr. Annie Besant 
@@ -7294,7 +7285,7 @@ birth given in Madhavīya. If, as stated in the text, it is established that Mā
 Rashikuṇḍali will take! 
 (b) In Bṛhat SankaraVijaya of Citsukhācārya 
 ततः सा दशमे मासे सम्पूर्णशुभलक्षणे । षड्विंशे शतके श्रीमद्युधिष्ठिरशकस्य वै ॥ एकत्रिंशेऽथ वर्षे तु हायने नन्दने शुभे । मेषराशिं गते सूर्ये वैशाखे मासि शोभने ॥ शुक्लपक्षे च पञ्चम्यां तिथ्यां भास्करवासरे । पुनर्वसुगते चन्द्रे लग्ने कर्काटकाह्वये ॥ मध्याह्ने चाभिजिन्नाम मुहूर्ते शुभवीक्षिते । स्वोच्चस्थे केन्द्रसंस्थे च गुरौ मन्दे कुजे रवौ ॥ निजतुङ्गगते शुक्रे रविणा सङ्गते बुधे । 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 प्रासूत तनयं साध्वी गिरिजेव षडाननम् ॥ 
 According to this, the Rashikundali would be as shown below: 
 460 
@@ -7326,7 +7317,7 @@ slokas:
 दुष्टाचारविनाशाय प्रादुर्भूतो महीतले । 
 स एव शङ्कराचार्यः साक्षात् कैवल्यनायकः ॥ अष्टवर्षे चतुर्वेदान्(दी?) द्वादशे सर्वशास्त्रकृत् । षोडशे कृतवान्भाष्यं द्वात्रिंशे मुनिरभ्यगात् ॥ निधिनागेभवह्न्न्यब्दे विभवे शङ्करोदयः । गुहाप्रवेशः कल्यब्दे चन्द्रनेत्राङ्कवह्निगे ॥ वैशाखे पूर्णिमायां तु शङ्करः शिवतामगात् । 
 In this it is stated that the date of Acarya is from 788 A. D. to 820 A. D. Some of the modern scholars now agree this date (or this source) as the date of Śankara. It begins with 'आदौ शिवः' and narrates the lineage upto Sankara. Śankarācārya, having made Prithvidhara the pontiff on the banks of Tunga bhadra, and having given him the title 
-Bhāratī, and mentions as under:Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+Bhāratī, and mentions as under: 
 आगत्य स्वेच्छया काञ्चीं पर्यटन् पृथिवीतले । 
 तत्र संस्थाप्य कामाक्षीं जगाम परमं पदम् 
 462 
@@ -7364,7 +7355,7 @@ born].
 पश्चात्पञ्चदशे वर्षे शङ्करस्य गते सति । 
 भट्टाचार्यकुमारस्य दर्शनं कृतवान् शिवः ॥ 
 1. alternate version ताम्राक्षः (Sre. Sam. Appendix 2-33). 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 464 
 When Sankara was 15 years old, he saw Kumārila Bhaṭṭa (Śre. Śam. Appendix 2-32). According to this Acarya's date of birth would be 509 
 B. C. 
@@ -7398,7 +7389,7 @@ R. G. Bhandarkar (KRTTW p 6).
 (4) 6th Century A. D. 
 Kashināth Tryambaka Telang (KRTTW p 6). See text, p 31 The 
 citations of Srughna, Madhura, Paṭaliputra etc. are found in Patanjala Mahābhāṣya (Nirṇayasagar Press, Vol. II, p 3, 95). 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 (5) 7th Century A. D. 
 466 
 Dr. Fleet on the basis of a book by a Buddhist by name Tārānāth 
@@ -7430,7 +7421,7 @@ abode) by Cintamani mantra at Dwarakā.
 Rudramālā, establishment of Yadavendra, establishment of 
 Siddheswaralaya. 
 2648 Phalguna Sukla 9: Fearing widowhood, Saraswati was returning again in the form of Kalāshṭaka to her abode; Śankara attracted 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 468 
 her to Sringeri by the same mantra, constructed a Matha and 
 established her again, there. 
@@ -7459,7 +7450,7 @@ differences in the text of Devanagari script, they are also shown:
 ततः सर्वात्मको देवश्चिदम्बरपुराश्रितः । आकाशलिङ्गनाम्ना तु विख्यातोऽभून्महीतले ॥ तत्र विद्वन्महेन्द्रस्य काले द्विजगणाश्रिते । जातः सर्वज्ञनाम्ना तु कश्चिद्द्विजकुलेश्वरः ॥ कामाक्षीति सती चाभूत्तस्य लक्षणलक्षिता । चिदम्बरेश्वरं ध्यात्वा तावुभौ प्रापतुः सुताम् ॥ सा कुमारी सदा ध्यानसक्ता भूज्ज्ञानतत्परा । विशिष्टेति च नाम्ना तु प्रसिद्धाऽभून्महीतले ॥ तामष्टमेऽब्दे विप्राय शान्तायाद्भुतकर्मणे । प्रददौ विश्वजिन्नाम्नो सर्वज्ञो ज्ञो पिता स्वयम् ॥ सा सभापतिमद्वैतं ध्यात्वाकाशात्मकं शिवम् । अस्या राधनमत्युग्रमाचकार विवेकिनी ॥ तादृशीमपि सन्त्यक्त्वा ययौ विश्वजिदद्भुतम् । 
 1. alternate version ‘अस्याः' 2. alternate version ‘सदा पतिम्’ 
 3. alternate version ‘तस्य' 4. alternate version ‘संत्यज्य' 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 470 
 अरण्ये तपसे कृत्वा मनोनिश्चयतां गतः ॥ 
 तदा प्रभृति सा नारी चिदम्बरमहेश्वरम् । पूजयामास पूजाभिर्ध्यानैरात्मगतैः सदा ॥ स देवः सर्वपूर्णोऽपि तस्या वदनपङ्कजम् । प्रविश्य विस्मितान् कुर्वन् जनानन्यान् समागतान् ॥ महोग्रतेजसा जुष्टा विशिष्टाऽभूत् दृढाम्बिकाÐ । सर्वैः सम्पूजिता नित्यं पित्रादिभिरुपासिताः ॥ अतीते मासि गर्भस्य वृद्धिरासीद्दिने दिने । चिदम्बरेश्वरं कृत्वा यजमानं द्विजोत्तमाः ॥ तृतीयादिषु मासेषु चक्रुः कर्माणि वेदतः । प्राप्ते तु दशमे मासि विशिष्टागर्भगोलतः ॥ प्रादुरासीन्महादेवः शङ्कराचार्यनामतः । आसीत्तदा पुष्पवृष्टिः देवसङ्घैः प्रचोदिता । नेदुर्दुन्दुभयो दिव्याः स्वर्गलोकेऽम्बरे सुखम् ॥ 
@@ -7483,7 +7474,7 @@ APPENDIX V
 व्यजायत शुभः कालः पञ्चोच्चग्रहसंयुतः । कल्हारकलिकागन्धबन्धुरो मरुदाववौ ॥ ८ ॥ दिशः प्रकाशिताकाशा बभूवुः सूर्यरश्मिभिः । प्रायः प्रदक्षिणज्वाला जज्वलुर्यज्ञपावकाः ॥ ९ ॥ 
 [Same Ślokas in Ci. 
 [Ci. śam 5-441/2] 
-[Ci. Śam 5-45 1/2]Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+[Ci. Śam 5-45 1/2] 
 ननन्दुर्बान्धवाः सर्वे ननृशुश्चाप्सरोगणाः । 
 472 
 ससृजुः पुष्पवर्षाणि देवा भूम्यन्तरिक्षगाः ॥ १० ॥ 
@@ -7525,7 +7516,7 @@ herself that this is none other than Vriṣācaleśwara, (she) begged Him to exh
 बालकं मेनिरे प्रोद्यदिन्दुबिम्बमिवोज्ज्वलम् ॥ २४ ॥ 
 [Ci. śam. 5. 51,511 / 2 ; the Śloka-halves are in reverse order ]. ततः श्रुत्वा पिता सोऽपि निधिं प्राप्येव निर्धनः । 
 मुमुदे नितरां चित्ते वित्तेशं नाभ्यलक्ष्यत ॥ २५ ॥ स्नात्वा शिवगुरुस्तूर्णं यज्वनामग्रणीस्ततः । विप्रानाकारयामास पुरन्ध्रीरपि सर्वतः ॥ २६ ॥ तदोत्सवो महानासीत् पुरे सद्मनि सन्ततम् । धान्यराशीन् मखिभ्योऽसौ विद्भ्यो भूयः प्रदत्तवान् ॥ धनानि भूरिविप्रेभ्यो वेदविद्भ्यो दिदेश सः । वासांसि भूयो दिव्यानि सफलानि प्रदत्तवान् ॥ २८ ॥ पुरन्ध्रीणां च नीरन्ध्रं वस्तुजातमदादसौ । घटोध्नीर्बहुशो गाश्च सालङ्काराः सदक्षिणाः ॥ २९ ॥ 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 [Ci. śam. 5. 53-57; the same Ślokas are in the same order ]. ततः शिवगुरुर्यज्वा ब्राह्मणान् पूर्वतोऽधिकम् । 
 सन्तर्प्य बन्धुभिः सार्धं मुदितो न्यवसत्सुधीः ॥ ३० ॥ सर्वज्ञानः - 
 श्रीचित्सुखेन्द्रगुरुराजसमुद्भवोद्यद्वृत्तं निशम्य नितरां हृषितं मनो मे । अग्रे यदद्य वद तच्चरितं क्रमेण भूयो नतोऽस्मि गुरवे भवतापहर्त्रे ॥ ३१ ॥ श्रीचित्सुखः - 
@@ -7592,7 +7583,7 @@ prakarana 67, page 203
 page 204 
 शृङ्गगिरिस्थानस्थां 
 कृत्वा 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 478 
 prakarana 74, page 216 
 ततः परं सर्वज्ञः 
@@ -7612,7 +7603,7 @@ in the original.
 I Chapter 
 पुरा भूमण्डले कश्चिद्देशः केरलसंज्ञकः । धनधान्यसमृद्धश्च संवृतो बहुभिर्जनैः ॥ ४ ॥ इला नाम नदी तत्र सर्वपापप्रणाशिनी । मरुद्वृधा नाम महा तटिनी च विराजिता ॥ ५ ॥ 
 1. alternate version ‘तथा तटिनी: 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 चूर्णेति प्रथिता लोके तटिनी पुण्यदा परा । देवालया आश्रमाश्च तत्तीरे निवसन्ति हि ॥६॥ प्रख्यातं पृथिवीमध्ये पद्मनाभस्य मन्दिरम् । सर्वेषामेव लोकानां दर्शनादेव मुक्तिदम् ॥ ७ ॥ महत्तत्र प्रविख्यातं क्षेत्रं कालटिसंज्ञया । पुष्पितैर्फलितैर्वृक्षैर्विविधैरुपशोभितम् ॥ ८ ॥ कैलासाधिपतिश्शम्भुः कदाचिद्वीक्षणेच्छया । सर्वलक्षणसम्पन्नो भिक्षुरूपं समाश्रितः ॥ ९ ॥ चरन्कलियुगे भूमौ जनान्पापरतान्बहून् । ब्राह्मणान्क्षत्रियान्वैश्यान्स्वधर्माचारवर्जितान् ॥ १० ॥ 
 *** 
 वेदाग्निहोत्रहीनांश्च दृष्ट्वा शम्भुर्महीतले । 
@@ -7638,7 +7629,7 @@ II Chapter
 1. alternate version ‘'बिलमासीच्च’. 
 2. alternate version 'न'. 
 3. alternate version ‘समरक्षत’. 4. alternate version ‘जनवचः’. 
-5. alternate version ‘सद्यः'.Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+5. alternate version ‘सद्यः'. 
 482 
 ततः सा बालकं सम्यगतिहर्षादपालयत् । 
 एतस्मिन्नन्तरे काले समागत्य बृहस्पतिः ॥ ८ ॥ 
@@ -7672,7 +7663,7 @@ text. See page 250].
 षण्मतं स्थापयामास पृथिव्यां शङ्करो गुरुः ॥ १२॥ 
 शैवं च वैष्णवं शाक्तं सौरं वैनायकं तथा । 
 स्कान्दं च भक्तिमार्गं च (?) दर्शनानि षडेव हि ॥ १३ ॥ एवं क्रमेण सकलं षण्मतोद्धारणं क्रमात् । कृत्वा जित्वा च विमतान् रामसेतुमवाप सः ॥ १४ ॥ सुरेश्वराभिदो योगी सत्यलोकमवाप सः । पद्मपादाभिदो भिक्षुः प्राप्तवान् वैष्णवं पदम् ॥ १५ ॥ हस्तामलकसंज्ञस्तु शक्रलोकमवाप्तवान् । ययौ तोटकयोगी तु सूर्यलोकमनुत्तमम् ॥१६ ॥ 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 484 
 एवं शिष्यास्तु चत्वारस्तत्तद्देवांशसम्भवाः । 
 स्वं स्वं स्थानं क्रमेणैव शङ्करानुग्रहाद्ययुः ॥ १७ ॥ 
@@ -7702,7 +7693,7 @@ Stotras Related to Acarya's History
 6. alternate version 'धाराधरे'. 
 7. alternate version यत्तटिदङ्गनेव. 
 ६ ॥ 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 486 
 मय्यापतेत्तदिह मन्दरमीक्षणार्थं मन्दालसाक्षि मकराकर कन्यकायाः ॥ 
 विश्वामरेन्द्रपदविभ्रमदानदक्षमानन्दहेतुरधिकं मधु विद्विषोऽपि । ईशन्निषीदतु मयि क्षणमीक्षणार्धमिन्दीवरोदरसहोदरमिन्दिरायाः ॥ ७ ॥ 
@@ -7736,7 +7727,7 @@ We cannot be sure whether these last slokas actually belong to this
 Stotra or not. Whatever that be, this Stotra does not seem to be rele- 
 vant to the main story of Acārya's life. Although the alliteration etc. exhibited here appear to agree with of Madhaviya 'पदचित्रैः' (Ma. Śam. 4. 25), the style is not that of ācārya. One can compare these Ślokas with उपदेशसाहस्रि (padya). 
 1. alternate version ‘सरोरुहाक्षि’. 2. alternate version ‘सरसिजनिलये’. 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 (2) Nirvāņadaśaka Stotra - Daśaśloki 
 १ ॥ 
 ७॥ 
@@ -7758,7 +7749,7 @@ APPENDIX VIII
 1. because of the repetition of 
 44' the prakarana gets its name. 
 2. nowhere in Bhāṣyas the avidya called as having the three qualities. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva या तिर्यङ्नरदेवताभिरहमित्यन्तः स्फुटा गृह्यते यद्भासा हृदयाक्षदेहविषया भान्ति स्वतोऽचेतनाः । तां भास्यैः पिहितार्कमण्डलनिभां स्फूर्तिं सदा भावयन् योगी निर्वृतमानसो हि गुरुरित्येषा मनीषा मम ॥ ८ ॥ यत्सौख्याम्बुधिलेशलेशत इमे शक्रादयो निर्वृता यच्चित्ते नितरां प्रशान्तकलने लब्ध्वा मुनिर्निर्वृतः । यस्मिन्नित्यसुखाम्बुधौ गलितधीर्ब्रह्मैव न ब्रह्मविद् 
+ या तिर्यङ्नरदेवताभिरहमित्यन्तः स्फुटा गृह्यते यद्भासा हृदयाक्षदेहविषया भान्ति स्वतोऽचेतनाः । तां भास्यैः पिहितार्कमण्डलनिभां स्फूर्तिं सदा भावयन् योगी निर्वृतमानसो हि गुरुरित्येषा मनीषा मम ॥ ८ ॥ यत्सौख्याम्बुधिलेशलेशत इमे शक्रादयो निर्वृता यच्चित्ते नितरां प्रशान्तकलने लब्ध्वा मुनिर्निर्वृतः । यस्मिन्नित्यसुखाम्बुधौ गलितधीर्ब्रह्मैव न ब्रह्मविद् 
 यः कश्चित्स सुरेन्द्रवन्दितपदो नूनं मनीषा मम ॥ ९ ॥ 
 490 
 [Note: We could not make out wherefrom the sloka commencing from ‘सत्याचार्यस्य गमने ' is taken. The commentator of Advaitarājya- Laksmi has stated that Manīsā Panicakam commences from 'कदाचि- च्छङ्कराचार्यः काशीं प्रति पुरीं ययौ' (Ma. Sam. 6. 34 ). In the footnote of page 51 of Bhagavat pādābhyudaya of Lakṣmaṇa Sūri, it is men- tioned that the Śloka 'अन्नमयादन्नमयम्' is in Anandagirīya. But it is not found in the Anandagiriya that we have with us. Whatever that be, we will have to believe that this मनीषापञ्चक was existing somewhere 
@@ -7790,7 +7781,7 @@ APPENDIX VIII
 10. alternate version 'दहनाकर'. 
 11. alternate version 'सरसीरुहमागतस्य'.८ ॥ 
 ९ ॥ 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 492 
 संसारजालपतितस्य जगन्निवास सर्वेन्द्रियार्थबडिशा झषोपमस्य । प्रोत्खण्डितः प्रचुरतालुकमस्तकस्य लक्ष्मीनृसिंह मम देहि करावलम्बम् ॥ 
 संसारभीकरकरीन्द्रकराभिघातनिष्पिष्टम वपुषः सकलार्तिनाश । प्राणप्रयाणभवभीतिसमाकुलस्य लक्ष्मीनृसिंह मम देहि करावलम्बम् ॥ 
@@ -7823,7 +7814,7 @@ are deeply submerged in samsara, we have to say that someone must have somehow l
 न ब्रह्मचारी न गृही वनस्थो भिक्षुर्न चाहं निजबोधरूपः ॥ २ ॥] निमित्तं मनश्चक्षुरादिप्रवृत्तौ निरस्ताखिलोपाधिराकाशकल्पः । रविर्लोकचेष्टानिमित्तं यथा यः स नित्योपलब्धिस्वरूपोऽहमात्मा ॥ १ ॥ यमग्न्युष्णवन्नित्यबोधस्वरूपं मनश्चक्षुरादीन्यबोधात्मकानि । 
 प्रवर्तन्त आश्रित्य निष्कम्पमेकं स नित्योपलब्धिस्वरूपोऽहमात्मा ॥ २ ॥ मुखाभासको दर्पणे दृश्यमानो मुखत्वात्पृथक्त्वेन नैवास्ति वस्तु । चिदाभासको धीषु जीवोऽपि तद्वत्स नित्योपलब्धिस्वरूपोऽहमात्मा ॥ 
 यथा दर्पणाभाव आभासहानौ मुखं विद्यते कल्पनाहीनमेकम् । 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 494 
 तथा धीवियोगे निराभासको यः स नित्योपलब्धिस्वरूपोऽहमात्मा ॥ ४ ॥ मनश्चक्षुरादेर्वियुक्तः स्वयं यो मनश्चक्षुरादेर्मनश्चक्षुरादिः । मनश्चक्षुरादेरगम्यस्वरूपः स नित्योपलब्धिस्वरूपोऽहमात्मा ॥ ५ ॥ य एको विभाति स्वतः शुद्धचेताः प्रकाशस्वरूपोऽपि नानेव धीषु । शरावोदकस्थो यथा भानुरेकः स नित्योपलब्धिस्वरूपोऽहमात्मा ॥ ६ ॥ यथानेकचक्षुःप्रकाशो रविर्नक्रमेण प्रकाशीकरोति प्रकाश्यम् । 
 अनेकाधियो यस्तथैकप्रबोधः स नित्योपलब्धिस्वरूपोऽहमात्मा ॥ ७ ॥ विवस्वत्प्रभातं यथारूपमक्षं प्रगृह्णाति नाभातमेवं विवस्वान् । तथा भात आभासयत्यक्षमेकः स नित्योपलब्धिस्वरूपोऽहमात्मा ॥ ८ ॥ यथा सूर्य एकोऽप्स्वनेकश्चलासु स्थिरास्वप्सु चैकोऽ विभाव्यस्वरूपः । चलासु प्रभिन्नासु धीष्वेक एव स नित्योपलब्धिस्वरूपोऽहमात्मा ॥ ९ ॥ घनच्छन्नदृष्टिर्घनच्छन्नमर्कं यथा निष्प्रभं मन्यते जातिमूढः । 
@@ -7842,7 +7833,7 @@ APPENDIX VIII
 हृदये कलये विमलं शरणं भवशङ्करदेशिक मे शरणम् ॥ १ ॥ करुणावरुणालय पालय मां भवसागरदुःखविदूनहृदम् । रचिताखिलदर्शनतत्त्वविदं भवशङ्करदेशिक मे शरणम् ॥ २ ॥ भवता जनता सुहिता भविता निजबोधविचारणचारुमते । कलयेश्वरजीवविवेकविदं भवशङ्करदेशिक मे शरणम् ॥ ३ ॥ भव एव भवानिति मे नितरां समजायत चेतसि कौतुकता । मम वारय मोहमहाजलधिं भवशङ्करदेशिक मे शरणम् ॥ ४ ॥ सुकृतेऽधिकृते बहुधा भवतो भविता पददर्शनलालसता । अतिदीनमिमं परिपालय मां भवशङ्करदेशिक मे शरणम् ॥ ५ ॥ जगतीमवितुं कलिताकृतयो विचरन्ति महामहसश्छलतः । अहिमांशुरिवात्र विभासि पु(गु)रो भवशङ्करदेशिक मे शरणम् ॥ ६ ॥ गुरुपुङ्गवपुङ्गवकेतन ते समतामयतां न हि कोऽपि सुधीः । शरणागतवत्सल तत्त्वनिधे भवशङ्करदेशिक मे शरणम् ॥७ ॥ विदिता न मया विशदैककला न च किञ्चन काञ्चनमस्ति गुरो । द्रुतमेव विधेहि कृपां सहजां भवशङ्करदेशिक मे शरणम् ॥ ८ ॥ 
 [Note: In डिण्डिमकार 's version footnote, extra verses: सकलं मनसा क्रियया जनितं समवेक्ष्य विनाशितया तु जगत् । निरविद्यथ कश्चिदतो निखिलादविनाशिकृते यतितव्यमिति ॥ १ ॥ प्रतिपित्सुरसावविनाशिपदं यतिधर्मरतो यतिमेव गुरुम् । विदितात्मकलं समुपेत्य कविः प्रणिपत्य निवेदितवान् स्वमतम् ॥ २ ॥] 
 भगवन्नुदधौ मृतिजन्मजले सुखदुःखझषे पतितं व्यथितम् । कृपया शरणागतमुद्धर मामनुशाध्युपसन्नमनन्यगतिम् ॥ १ ॥ विनिवर्त्य रतिं विषये विषमां परिमुच्य शरीरविबद्धमतिम् । परमात्मपदे भव नित्यरतो जहि मोहमयं भ्रममात्ममते ॥ २ ॥ विसृजान्नमयादिषु पञ्चसु तामहमस्मि ममेति मतिं सततम् । दृशिरूपमनन्तमजं विगुणं हृदयस्थमवेहि सदाऽहमिति ॥ ३ ॥ 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 जलभेदकृता बहुतेव रवेर्घटिकादिकृता नभसोऽपि यथा । मतिभेदकृता तु तथा बहुता तव बुद्धिदृशोऽविकृतस्य सदा ॥ ४ ॥ दिनकृत्प्रभया सदृशेन सदा जनचित्तगतं सकलं स्वचिता । विदितं भवताऽविकृतेन सदा यत एवमतोऽसि सदेव सदा ॥ ५ ॥ 
 496 
 [Since it is mentioned at the end ‘इत्यादिभिर्गुरुशिष्यसंवादेनपरतत्त्व- व्यञ्जकैः...सह देशिकवरं श्रीशङ्करं प्रत्यागतवानित्यर्थः', it means there are some more verses. It seems in a book entitled Vedānta Samuccaya published by Brahmarsi Harirāma Sarma (p 207-222), a collection of 179 totakas are there, called Srutisāra Samuddharana (Bala. śam. P 158). We do not know whether this is from the same or not]. 
@@ -7875,7 +7866,7 @@ APPENDIX VIII
 6. alternate version ‘भवानेव’. 
 7. alternate version 'तमेव'. 
 8. alternate version 'तमेव. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 वसन्तं सुतं त्रातुमग्रे मृकण्डोर्यमप्राणनिर्वापणं त्वत्पदाब्जम् ॥ १३ ॥ अकण्ठे कलङ्कादनङ्गे भुजङ्गादपाणौ कपालादफालेऽनलाक्षात् । अमौलौ शशाङ्कादवामे कलत्रादहं देवमन्यं न मन्ये न मन्ये ॥ १४ ॥ 
 [Note: The Vāṇīvilās version has the following extra slokas:] 
 शिरोदृष्टिहृद्रोगशूलप्रमेहज्वरार्शोजरायक्ष्महिक्काविषार्तान् । 
@@ -7898,7 +7889,7 @@ APPENDIX VIII
 २१ ॥ 
 यतोऽजायतेदं प्रपञ्चं विचित्रं स्थितिं याति यस्मिन् यदेकान्तमन्ते । सकर्मादिहीनः स्वयंज्योतिरात्मा शिवोऽहं शिवोऽहं शिवोऽहं शिवोऽहम् ॥ 
 २२ ॥ 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 किरीटे निशेशो ललाटे हुताशो भुजे भोगिराजो गले कालिमा च । तनौ कामिनी यस्य तत्तुल्यदेवं न जाने न जाने न जाने न जाने ॥ २३ ॥ अनेन स्तवेनादरादम्बिकेशं परां भक्तिमासाद्य यं ये नमन्ति । मृतौ निर्भयास्ते जनास्तं भजन्ते हृदम्भोजमध्ये सदासीनमीशम् ॥ २४ ॥ भुजङ्गप्रियाकल्प शम्भो मयैवं भुजङ्गप्रयातेन वृत्तेन क्लृप्तम् । नरः स्तोत्रमेतत् पठित्वोरुभक्त्या सुपुत्रायुरारोग्यमैश्वर्यमेति ॥ २५ ॥ 
 (8) Viṣṇu Bhujangaprayāta Stotra 
 (Text, page 276) 
@@ -7926,7 +7917,7 @@ APPENDIX VIII
 स मोहं विहायाशु युष्मत्प्रसादात्समाश्रित्य योगं व्रजत्यच्युतं त्वाम् ॥ २॥ 
 1. alternate version 'संनिरुद्धेन्द्रियाश्वः' 
 2. alternate version 'किमद्यापि 
-3. alternate version ‘असंख्याम्’.Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+3. alternate version ‘असंख्याम्’. 
 502 
 [Note: Just as in Śiva Bhujangaprayata, in this Viṣṇu Bhujanga prayāta also there is no indication that it has been told by Acarya to 
 his mother. This is not expressive of Visņu as described in Mādhavīya. As in the earlier Stotra, here also there is alliteration; but the compo- sition is not as tight. If it is the same Visnu Bhujangaprayāta as told in Cidvilāsīya, one can only say that during his time this was known as composed by the Acarya. The last sloka seems to be failing in the connection of words (anvaya). In both these Bhujangaprayātas, there are alternate versions; they are more in Śiva Bhujangaprayāta. In some places, the expressions are not at all intelligible] 
@@ -7940,7 +7931,7 @@ Sacred Traditions of the Mathas and Pontiff Lineages
 क्षेत्रं च वृषलादेवी सर्वलोकेषु विश्रुता । प्रकाशब्रह्मचारीति हस्तामलकसंज्ञितः ॥ ९ ॥ आचार्यः कथितस्तत्र नाम्ना लोकेषु विश्रुतः । 
 ख्यातं महोदधिस्तीर्थं ऋग्वेदः समुदाहृतः ॥ 
 1. it is mentioned as: when it comes again. Perhaps it is here because of the rule रलयोरभेदः ! 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 504 
 महावाक्यं च तत्रोक्तं प्रज्ञानं ब्रह्म चोच्यते । 
 ३ उत्तरस्यां श्रीमठः स्यात्क्षेत्रं बदरिकाश्रमः ॥११॥ 
@@ -7960,7 +7951,7 @@ in the Anandagirīya of Devanāgari script (p 192) has been changed as ' in the 
 ] 
 [Note: The above slokas in square brackets are somewhat similar 
 to the previous Maṭhāmnāya. We do not know whether someone has 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 506 
 added it here or whether it was like this originally. If it be so, it bears witness for saying that it is not written by Acārya]. 
 अथ पूर्वाम्नायाः 
@@ -7983,7 +7974,7 @@ The concluding sentences of above Āmnāyās are: चतुर्णां च �
 १ * द्वारकाख्यं हि क्षेत्रं स्याद्देवः सिद्धेश्वरः 
 ः स्मृतः । 
 भद्रकाली तु देवी स्यादाचार्यो विश्वरूपकः 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 गोमतीतीर्थममलं ब्रह्मचारी स्वरूपकः । 
 सामवेदस्य वक्ता च तत्र धर्मं समाचरेत् ॥ ३ ॥ 
 २ *पूर्वाम्नायो द्वितीयः स्यात् गोवर्धनमठः स्मृतः । भोगवारः सम्प्रदायो वनारण्ये पदे स्मृते ॥४॥ पुरुषोत्तमं तु क्षेत्रं स्याज्जगन्नाथोऽस्य देवता । विमलाख्या हि देवी स्यादाचार्यः पद्मपादकः तीर्थं महोदधिः प्रोक्तं ब्रह्मचारी प्रकाशकः । ऋगाह्वयस्तत्र वेदस्तत्र धर्मं समाश्रयेत् ॥ ६ ॥ ३ * तृतीयस्तूत्तराम्नायो ज्योतिष्मान्हि मठो भवेत् । 
@@ -8005,7 +7996,7 @@ APPENDIX IX
 1. it is mentioned at the end of Navabhārati Mathāmnāya: कीटादयो विशेषेण वार्यन्ते जीवजन्तवः । 
 भूतानुकम्पया नित्यं कीटवारः स उच्यते ॥ 
 भोगो विषय इत्युक्तो वार्यते येन जीविनाम् । सम्प्रदायो यतीनां च भोगवारः स उच्यते ॥ आनन्देति विलासश्च वार्यते येन जीविनाम् । सम्प्रदायो यतीनां चानन्दवारः स उच्यते ॥ भूरिशब्देन सौवर्णं वार्यते येन जीविनाम् । सम्प्रदायो यतीनां च भूरिवारः स उच्यते ॥ 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 सम्प्रदायो यतीनां चानन्दवारः स उच्यते ॥ २६ ॥ 
 वसिष्ठो भार्गवश्चैव काश्यपस्तदनन्तरम् । 
 भारद्वाजश्च चत्वारि गोत्राणि कथितानि वै ॥ २७ ॥ 
@@ -8028,7 +8019,7 @@ After ending with ‘इति श्रीशङ्कराचार्यस�
 (3) Mathāmnāyabhāgah (मठाम्नायभागः) 
 गोवर्धनमठे रम्ये विमलापीठसंज्ञके । पूर्वाम्नाये भोगवारे श्रीमत्काश्यपगोत्रजः ॥ माधवस्य सुतः श्रीमान् सनन्दन इति श्रुतः । प्रकाशब्रह्मचारी च ऋग्वेदी सर्वशास्त्रवित् ॥ श्रीपद्मपादः प्रथमाचार्यत्वेनाभ्यषिच्यत । 
 [Note: This has been cited by Baladeva Upādhyāya (Bala. Sam. p 
-166)].Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+166)]. 
 (4) Mathāmnāyasetuh (मठाम्नायसेतुः) 
 इदं परं पदं साक्षात्परिव्राजकसन्ततेः । अस्मिंस्तिष्ठन्ति ये पीठे कामकोटिसमाह्वये ॥ १ ॥ 
 शारदापीठनाम्ना तु प्रसिद्धे जगतीतले । 
@@ -8049,7 +8040,7 @@ APPENDIX IX
 2. alternate version ‘चतुराचार्याः' B. 
 3. alternate version 'आचार्याणां' B. and N. 
 4. alternate version संशीलयन्त्वेव' B. and N. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 देशाः पश्चिमदिक्स्था ये कालिकापीठशासने ॥२३॥ कुरुकाश्मीरकाम्भोजपाञ्चालाः गौडकोसलाः । ज्योतिर्मठवशा देशा उदीच्यां दिशि संस्थिताः अङ्गवङ्गकलिङ्गाश्च मगधोत्कलबर्बराः । 
 गोवर्धनमठाधीना देशाः प्राच्यं व्यवस्थिताः ॥ २५ ॥ 
 आन्ध्रौढ्रलाटकर्नाटकोङ्कणास्तेङ्कणा अपि । शृङ्गेर्यधीना देशास्ते संश्रिता दक्षिणापथम् 
@@ -8078,7 +8069,7 @@ APPENDIX IX
 2. alternate version ‘योगज्ञः सर्वतन्त्राणामस्मदास्थानमाप्नुयात्' B. and N. 
 3. Ślokas here upto 40 are not there in B. and N. 
 4. in B. this Śloka occurs after the next Śloka. The latter half is ‘तत्तत्पीठक्रमेणैव न बहुर्युज्यते क्वचित्' in B. and N. 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 देवराजोपचारांश्च यथावत्तत्र कल्पयेत् ॥ ४३ ॥ 
 केवलं धर्ममुद्दिश्य विभवो बाह्यचेतसाम् । विहितश्चोपकाराय पद्मपत्रनयं व्रजेत् ॥ ४४ ॥ सुधन्वाद्या महाराजाः हालाद्याश्च महीश्वराः । धर्मपारम्परीमेतां पालयन्तु निरन्तरम् ॥ ४५ ॥ ब्रह्मस्तम्बोदरे भूत्वा यः पीठं दूषयेदमुम् । आसुर्यानेत्य लोकान्स मज्जत्यन्धे तमोभरे ॥४६॥ ब्रह्मक्षत्रादिजो भूत्वा भारतीपीठदूषकः । परार्थ्याच्च्यवते चान्ते पैशाचीं योनिमाप्नुयात् ॥४७॥ पीठमेनं तथान्यांश्च शिष्याणां चतुरः शुचीन् । यो दूषयति दर्पेण नरः स पतितो भवेत् ॥ ४८ ॥ न संव्यवहार्योऽस्मास्वग्रजन्मसु सर्वतः । नास्तिकत्वेन निर्हार्यः चौढ (बौद्ध)वत्कर्मभूमितः ॥ आसेतोराहिमाद्रेश्च सेव्या मत्पीठसंश्रयाः । तथा मच्छिष्यपीठीयाः सर्वेऽप्याचार्यसम्मिताः ॥ शृङ्गेरीमठ आचार्यो भारताख्यो बहूत्तमः । कालिकामठ आचार्य आश्रमाख्यः सुनिर्मलः ॥ ज्योतिर्मठस्य विदित आचार्यः पर्वताभिधः । गोवर्धनस्य विज्ञेयोऽरण्यनामा विचक्षणः ॥५२॥ कामकोटीमठे त्वस्मिन् गुरुरिन्द्रसरस्वती । 
 1. alternate version यथावदनुपालयेत्' B. and N. 
@@ -8101,7 +8092,7 @@ APPENDIX IX
 3. alternate version मठाश्चत्वार आचार्याश्चत्वारश्च धुरन्धराः । सम्प्रदायाश्च चत्वार एषा धर्मव्यवस्थितिः' N. 
 4. the previous sloka is not there in B. and N. 
 5. 65th śloka is there after this in B.; alternate version 'शासनं सर्वसम्मतम्. 6. the śloka is exactly like this in N. it is not there in B. 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 इत्येवं मनुरप्याह गौतमोऽपि विशेषतः । 
 विशिष्टशिष्टाचारोऽपि मूलादेव प्रसिद्ध्यति ॥ ६४ ॥ 
 तस्मात्सर्वप्रयत्नेन शासनं रक्ष्यतामिदम् । आचार्यस्य विशेषेण ह्यौदार्यभर भागिनः ॥ ६५ ॥ धर्मपद्धतिरेषा हि जगतः स्थितिहेतवे । सर्ववर्णाश्रमाणां हि यथाशास्त्रं विधीयते ॥ ६६ ॥ कृते विश्वगुरुर्ब्रह्मा त्रेतायामृषिसत्तमः । 
@@ -8121,7 +8112,7 @@ APPENDIX IX
 ॐ तत्सत् 
 This is taken from Punyaślokamanjari printed during 1918 in Kalaratnākara Press, Madras by the agent of Kañci Matha, Śri Kuppu swamayyar. This is to be compared with the second Maṭhāmnāya (page *505): both are favourable to Kañci Matha. But in this there is 
 an inkling that the Kāñci Matha is the original one, and the others 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 520 
 are disciple (śisya) Mathas. Regarding this there are sustained burnt feelings towards Kāñci Matha, among the disciples of the other 
 Mathas. People have written books to show that there is nothing 
@@ -8157,7 +8148,7 @@ Navabhārati Karyalaya and from Baladeva Upadhyaya's book.
 तीर्थाश्रमवनारण्यगिरिपर्वतसागराः । 
 सरस्वती भारती च पुरी नामानि वै दश ॥ १ ॥ 
 त्रिवेणीसङ्गमे तीर्थे तत्त्वमस्यादिलक्षणे । 
-स्नायात् तत्त्वार्थभावेन तीर्थनामा स उच्यते ॥ २ ॥Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+स्नायात् तत्त्वार्थभावेन तीर्थनामा स उच्यते ॥ २ ॥ 
 522 
 2. One who bathes in the consummation of the three rivers, i.e., Tat 
 Tvam Asi etc., dwelling in the knowledge of Truth, is called by name 
@@ -8200,7 +8191,7 @@ breath, and the second swara refers to the intonations of Vedas. It appears that
 दुःखभारं न जानाति भारती परिकीर्त्यते ॥ १० ॥ 
 10. One who has renounced all kinds of loads, but is complete with the load of vidya, and does not know the heaviness of misery, is called 
 “Bhāratīi”. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 [alternate version ‘परित्यजेत्, ‘परिकीर्तितः’ B.] 
 ज्ञानतत्त्वेन सम्पूर्णः पूर्णतत्त्वपदे स्थितः । 
 परब्रह्मरतो नित्यं पुरी नामा स उच्यते ॥ ११ ॥ 
@@ -8224,7 +8215,7 @@ fully. When they proceeded further, they came across molten copper in a place. W
 not caring that their throats would be burnt, drank it; the others qui- etly stayed back. The Acarya cursed them to become 'fallen'. These 
 are the Daśanāmis. The story has many variations, and God knows what element of truth it contains. Baladeva Upadhyāya has summa- rized it in another form in his book (Bala.Śam. p 213). 
 These Daśanāmis adorn themselves with arms. In Rajasthan and 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 526 
 in central areas, the leaders of these Daśanāmis were called Gosais; 
 they used to be heads of states having their own armed soldiers. 
@@ -8279,7 +8270,7 @@ In Baladeva Upadhyāya's listing, Sankara's Sannyāsa on Vikrama Śaka 22, siddh
 3. In the listings (2)-(4) his time is from 846-910 A.D. 
 Name 
 Year 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 of Total no 
 528 
 of Year 
@@ -8407,7 +8398,7 @@ rati II
 rati II 
 1. In (2)-(4), the next two Swāmis from here have their commencing years 1557 and 1563 A. D. 
 2. In (2), the 23rd Swami has the prefix 'immaḍi' (which means II); 24th and 25th Swāmis have the prefix 'abhinava'. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 530 
 Name 
 Year 
@@ -8523,7 +8514,7 @@ II
 3. for details about him, see text. Also written some details below this list. 
 4. Venkaṭarāman has referred to as NrisimhaBhārati in the history for this name and ahead in his book.Name 
 Year 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 of Pontiff 
 of Year 
 Sannyasa 
@@ -8601,7 +8592,7 @@ Madhwācārya was a contemporary of Vidyātīrtha, and it was only after his sam
 (3) Śri N. Venkataraman states that it is quite evident that Śringeri 
 Matha was for a long time without pontiff, and only later it was re- 
 juvenated by the very fact that Sureswarācārya was accorded a span 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 534 
 of 800 years (NVSK p 95). He says that all the eight Mathas establi- shed by Vidyatirtha use Vidyāśankara or Vidyaranya in their official seals just as Śringeri Matha does. We have written earlier in this book that it is the opinion of Śri K. R. Venkataraman that the emblem of 
 'Vidyāśankara' is related to Vidyatirtha only. There is a traditional 
@@ -8636,7 +8627,7 @@ either at Kañci or at any of the nearby places. Therefore, it is difficult
 to believe that he was a pontiff of the Kanci Pitha". 
 (5) Was Vidyaranya the pontiff of Sringeri Pitha? Regarding this, Śri K.R. Venkataraman has written us: 
 "Śri N. Venkataraman objects to inclusion of Vidyaraṇya in the pontiff lineage of Śringeri. But there is not a single historian, either from India or from elsewhere, who does not say that he was a pontiff 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 536 
 at Sringeri or that he was the founder of Vijayanagara. The answer to Śri N. Venkataraman's objection can be found in my book The Throne of Trancendental Wisdom." 
 "It suffices to say this much here. Harihara the II has granted in 1380 A. D. several more grāmas to Śringeri Matha in honour of Vidya- 
@@ -8723,7 +8714,7 @@ dhi
 447 A. D. 
 1. Atmabodha has written in his Suṣamā that Śankara did not establish Sureswara on the Pitha because he was not a Paramahamsa(?); but had made him to look after the affairs of the Pīțha (Gu. Ra. p 41). This may be one of the reasons why Sureswara is not counted here. 
 Name 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 538 
 Piṭhādhipatya (no. Year of sid- 
 of years) 
@@ -8876,7 +8867,7 @@ dhi
 7 days 
 1908 A. D. 
 Name 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 540 
 Piṭhādhipatya (no. Year of sid- of years) 
 dhi 
@@ -8908,7 +8899,7 @@ nanda.
 Kāśmir; if that be so, what was going on at Kāñci? 
 7. 
 Śankara (4) (Pontiff No. 18; 398-437 A. D.; text page 240). His pen-name is Mūka. Traditionally, it is said that Mūka was a priest at 
-1. N. Venkataraman also has agreed (NVSK p. 54) that the dates regarding Sureswara in the traditions of Śringeri as well as Kāñci are not believable.Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+1. N. Venkataraman also has agreed (NVSK p. 54) that the dates regarding Sureswara in the traditions of Śringeri as well as Kāñci are not believable. 
 542 
 Kāñci, who had the skill of poetry as a result of worship. His time is 
 by any means not earlier than 16th century A. D. The Kumbhakoṇam 
@@ -8947,7 +8938,7 @@ could face the Colas!
 14. Advaitānandabodha (Pontiff No. 46; 1166-1200 A. D.). It is said that he won over Abhinavagupta. But Abhinavagupta was a century earlier than this Guru; and no one has heard of the writings of this 
 Guru. 
 15. Vidyātīrtha (Pontiff No. 49; 1297-1385 A. D.; text page 284). Also 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 544 
 famed as Vidyāśankara, he attained samādhi in 1333 A. D., and not in 1385 A. D. as Kumbhakoṇam people write. His samadhi is there in Śringeri, in honour of which Bukka, Harihara II and others have given 
 land in 1346, 1356 and 1375 A. D. Records are there to show this. He is said to have been known as Sarvajñaviṣṇu previous to Sannyasa. This 
@@ -8978,7 +8969,7 @@ Disciple Paramasiva (Author of Daharavidyā prakāśa)
 Disciple Sadasivendra (Times known: 1726,1734,1761) 
 From the above listing, it becomes evident that the Guru of Sadasivendra, i.e., ParamaŚiva is different from the Kumbhakoṇam Pontiff ParamaŚiva II. Because, the Guru of the former is Abhinava 
 Nārāyaṇendra Saraswati, whereas the Guru of the latter is Sarvajña Sadasiva Bodha. Sadasiva Brahmendra was the contemporary of (i) 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 546 
 Tulasaji Maharaj of Tanjavore, (ii) Mahārājaśri Rāmavarma Kārtikai Tirumala of Travancore and (iii) Raja Raghunatharaya Tonḍimāna of Pudukoṭṭai. By way of giving initiation in 1739 A. D. to Rāja 
 Raghunatharāya Tondimāna of Pudukoṭṭai, he came to be known as Rājaguru. Reference to his name and that of his samadhi at Nerur 
@@ -9014,7 +9005,7 @@ Swāmi Vedanta Rāmānuja Jeer of Tiruvellore. The conference took
 the decision that there is no evidence to support the said sloka. 
 1. Śri Sänkara Pitha Tattva Darśanam, Appendix I, p 15-16. 
 2. the above decision was contradicted and condemned by Bhatta Narayaṇa Śāstry, Kokkanḍa Venkataratnam Pantulu and others in the form of some publi- 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 548 
 Perusal of the text of Jeer's decision revealed that it upheld the stance that Kumbhakoṇam lineage is the real Sankara lineage. The Jeer 
 based his decision on two slokas of Manimanjari Bhedini, Canto 3: द्वादशाब्दं गुरुरत्र पीठे स्थित्वानवद्यामुपदिश्य विद्याम् । श्रीपद्मपादं च निधाय -:'(Mani. Bhe. 3. 63) (the Acarya, after 
@@ -9037,7 +9028,7 @@ APPENDIX IX
 तत आसि(आसीत्?)ततो जातः सच्चिदानन्द भारती । 
 ततो ब्रह्मानन्दयतिस्ततश्चिद्रूपभारती ॥ 
 1. the printed book may be wrong. Could it be आचार्याः पान्तु or साचार्याः पातु माम्? 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 पुरुषोत्तमयोगी च ततोऽभून्मधुसूदनः । गुरुस्ततो जगन्नाथो विश्वानन्दयतिस्तथा ॥ तस्माच्च विमलानन्दो यो विद्यारण्य भारती । ततो जातो त्रिस्वरूपयतिर्बोधायनस्तथा ॥ 
 ततो जातो तम(ज्ञानोत्तम?)यतिस्ततः शङ्करभारती । 
 550 
@@ -9094,7 +9085,7 @@ Niryāṇa
 2. Citsukha 
 416 
 3. Sarvajñāna 
-357Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+357 
 4. Brahmanandatīrtha 
 308 
 5. Swarupābhijñāna 
@@ -9198,7 +9189,7 @@ Vishramāśrama
 1411 
 44. Bhavāśrama 
 1421 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 554 
 Pitha 
 Bala. 
@@ -9286,7 +9277,7 @@ Pub.
 the recent ones agreeable dates have been written. N. Venkataraman 
 writes that since both the Mathas give the same number of pontiffs for the same period, the Kañci listing is strengthened (NVSK p 13-14). But, as the Kāñci periods themselves are controversial, not much is gained by this statement. 
 1. Bala. and Bodas listing ends here. 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 556 
 (2) As both N. Venkaṭarāman and Baladeva Upadhyāya have writ- ten, no historical incidents worth mentioning are there regarding the Dwaraka Matha pontiffs. 
 (3) Inclusion of Sureswara in this listing is to be noted. He is said to be the pontiff of this Śāradā Pīṭha from Yudhishṭhira Śaka 2649 Magha Śukla 7. Baladeva Upadhyaya who writes that Hastāmalaka is the Acarya for this Pitha at two places (Bala. Śam. p 167, p177), also writes that the first Acarya for the Sārada Pīṭha is Sureswarācārya (p 
@@ -9307,7 +9298,7 @@ Kriṣṇānanda Tīrtha (2). 33. Abhinava Sadānanda Tīrtha (2). 34. Abhi- nav
 There is no correspondence between the two lists regarding either the number of Acaryas or their names. In this listing, there is great prominence for the yogapaṭṭa 'tīrtha'; and Padmapādācārya has been placed instead of Sureswarācārya. We do not know any historical in- 
 cidents worth mentioning about the Dwaraka Matha. But, before the present pontiff Śrimat Abhinava Satchidanandatīrtha Swamiji, some 
 incidents about the gurus who stayed in Mysore region, have been col- 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 558 
 lected from the book Śri Dwarakā Jagadguru Samsthānada Sankṣipta 
 Itihāsa: 
@@ -9337,7 +9328,7 @@ the forest area of elephants. There Bhāgavata tradition is in vogue; it is call
 entire northern region and brought up the Matha prestige ( Iti., p 14). 6. During Śalivahana Śaka 1795 Śri Abhinava Sadanandatīrtha 
 went to Gujarat on tour; people decided that he is the truly rightful pontiff of the Dwārakā Pīṭha ( Iti., p 16). 
 7. Śri Abhinava Kriṣṇānandatīrtha (pontiff No. 34) took Sannyasa during 1894 A. D. He travelled throughout India and became famous 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 (Iti., p 16-18). 
 560 
 Now Śrimadabhinava Satchidānandatīrtha Swamiji is reigning the 
@@ -9361,7 +9352,7 @@ differences.
 561 
 APPENDIX IX 
 मध्यकाले स्थितानेतानाचार्याख्यान्नमाम्यहम् ॥ २४ ॥ अथ तीर्थाभिधान् श्रीमद्गोवर्धनमठे स्थितान् । अस्मदाचार्यपर्यन्तान्गुरून्नाम्ना स्मराम्यहम् ॥ २५ ॥ एकोनविंश आचार्यो बृहदारण्यतीर्थकः । महादेवोऽथ परमब्रह्मानन्दस्ततः स्मृतः ॥ २६ ॥ रामानन्दस्ततो ज्ञेयस्त्रयोविंशः सदाशिवः । हरीश्वरानन्दतीर्थो बोधानन्दस्ततः परम् ॥ २७ ॥ श्रीरामकृष्णतीर्थोऽथ चिद्बोधात्माभिधस्ततः । तत्त्वाक्षरमुनिः पश्चादूनत्रिंशस्तु शङ्करः ॥ २८ ॥ श्रीवासुदेवतीर्थश्च हयग्रीव श्रुतीश्वरः । विद्यानन्दस्त्रयस्त्रिंशो मुकुन्दानन्द एव च ॥ २९ ॥ हिरण्यगर्भतीर्थश्च नित्यानन्दस्ततः परम् । सप्तत्रिंशः शिवानन्दो योगीश्वरसुदर्शनौ ॥ ३० ॥ अथ श्रीव्योमकेशाख्यो ज्ञेयो दामोदरस्ततः । योगानन्दाभिधस्तीर्थो गोलकेशस्ततः परम् ॥ ३१ ॥ श्रीकृष्णानन्दतीर्थश्च देवानन्दाभिधस्तथा । चन्द्रचूडाभिधः षट्चत्वारिंशोऽथ हलायुधः ॥ ३२ ॥ सिद्धसेव्यस्तारकात्मा ततो बोधायनाभिधः । श्रीधरो नारायणश्च ज्ञेयश्चान्यः सदाशिवः ॥ ३३ ॥ जयकृष्णो विरूपाक्षो विद्यारण्यस्तथापरः । विश्वेश्वराभिधस्तीर्थो विबुधेश्वर एव च ॥ ३४ ॥ महेश्वरस्तूनषष्टितमोऽथ मधुसूदनः । रघूत्तमो रामचन्द्रो योगीन्द्रश्च महेश्वरः ॥ ३५ ॥ ॐकाराख्यः पञ्चषष्टितमो नारायणोऽपरः । जगन्नाथः श्रीधरश्च रामचन्द्रस्तथापरः ॥ ३६ ॥ अथ ताम्रकतीर्थः स्यात्तत उग्रेश्वरः स्मृतः । उद्दण्डतीर्थश्च ततः सङ्कर्षणजनार्दनौ ॥ ३७ ॥ 
-।Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+। 
 562 
 अखण्डात्माभिधस्तीर्थः पञ्चसप्ततिसंख्यकः । 
 दामोदरः शिवानन्दस्ततः श्रीमद्गदाधरः ॥ ३८ ॥ 
@@ -9385,7 +9376,7 @@ cause of extreme cold, Badari temple would remain closed from Octo-
 ber to April; then the movable idol etc. of that temple will be brought here. Historians believe that the idol of Badari was established by Adi Śankarācārya. These details are available in Baladeva Upadhyāya's book (Bala. Śam. 183 ). It appears people remember the pontiff lin- eage of this Matha for daily morning remembrance (Bala. śam. p184): 
 तोटको विजयः कृष्णः कुमारो गरुडध्वजः । विन्ध्यो विशालो वकुलो वामनः सुन्दरोऽरुणः ॥ १ ॥ श्रीनिवासः सुखानन्दो विद्यानन्दः शिवो गिरिः । विद्याधरो गुणानन्दो नारायण उमापतिः ॥ २ ॥ एते ज्योतिर्मठाधीशा आचार्याश्चिरजीविनः । य एतान्संस्मरेन्नित्यं योगसिद्धिं स विन्दति ॥ ३ ॥ 
 । 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 564 
 [It is said here that the pontiffs whose names are expressed here live eternally; one who remembers them daily will accomplish yo- 
 gasiddhi.] 
@@ -9476,7 +9467,7 @@ Period Samvat Pūjākāla
 2. Rāmacandra Rāmabrahma 
 1842-1843 
 1 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 Period Samvat Pūjākāla 
 Name 
 3. Nīladanta Raval 
@@ -9536,7 +9527,7 @@ Hari and Hara both manifested themselves in the divine form of Har-
 ihara in Kudali (Harihara)" (KRTTW p 73). 
 But the Kudali Matha's opinion is different. The Samsthāna 
 has printed at Mysore and published a lineage (Guruparamparā 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 nāmamāle) which contains the following slokas: 
 तज्जः परिव्राट् सुत्रामा श्रीनृसिंहसुभारती । वारणस्यादितीर्थानां यात्रार्थमगमद्गुरुः ॥ २२ ॥ प्रत्यावृत्तो बहोः कालाच्छृङ्गेर्यां च महाजनैः । अन्यं हठादविधिना कृतं दृष्ट्वा यतिं स्वयम् ॥ २३ ॥ तुङ्गभद्रासङ्गमगं कूडलीक्षेत्रमेत्य सः । 
 जगद्गुरुपदं तत्र प्रतिष्ठाप्यावसत् सुखम् ॥ २४ ॥ 
@@ -9557,7 +9548,7 @@ The letter is summarised below.
 ... 
 ऋष्यशृङ्गपुरवराधीश्वर 
 तुङ्गभद्रातीरवास श्रीमद्विद्याशङ्कर पादपद्माराधक श्रीरामचन्द्रभारतीस्वामि 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 करकमलसञ्जात शृङ्गेरी श्रीनृसिंहभारतीस्वामिनां चरणसरोजेषु- 
 570 
 'Your dear disciple Ramacandra Bharati who was ordained to wor- ship Śri Śāradāmba submits that when you had been on pilgrimage the local people fraudulently gave me Asrama so that you will not be able to return; while on your way to Śringeri you arrived at the Tunga- 
@@ -9581,7 +9572,7 @@ called by names such as Narasimha Kshetra, Kuḍali, Vidyānagara(?),
 Rishyāśrama etc. and that since Bharati Tīrtha, the Guru of Vidya- ranya, chose that place for his penance in around 1346 A. D., that also came to be called by name Śringeri. It appears that majority support is not there for this line of argument till now. 
 Kudali Matha is now divided into two branches. One is famous by name "Kudali-Śringeri Matha". Their contention is that they are the real pontiff of Śringeri and that the one presently on the Śringeri 
 Pitha is the descendent of the one who was ordained by them to perform worship of Saradāmba. There was a controversy about 
-who shall be the rightful pontiff of Kuḍali Matha, and presently the Matha properties are with the present Pīṭhādhipa Śri Satchidananda Sankara Bhāratī.Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+who shall be the rightful pontiff of Kuḍali Matha, and presently the Matha properties are with the present Pīṭhādhipa Śri Satchidananda Sankara Bhāratī. 
 572 
 The other branch, which is claiming that they are the real rightful ones from 1873 A. D., have control over some of the land property and some of the Matha disciples. Their contention is that 'when Śri 
 Narasimha Bhāratī Swamiji went on a tour around 1580 A. D., the people of Śringeri made one Narasimha Bhārati (not Rāmacandra Bhārati) the Śringeri pontiff by following the method of "Pustaka Sannyasa". The controversy was taken to the court of the then ruling Keladi Venkatappa Nayaka (1553-1629 A. D.). He gave the verdict that the new Sannyasin should continue to worship Śāradāmba and look after the affairs of the Matha. In the 2nd and 12th inscriptions of Śringeri Jahageeri (Epigraphica Carnatica, Kadur Dist., p 348 and 374) they have made a reference as "disciple of the Lotus Feet" of Narasimha Bhāratī of Kuḍali-Śringeri Matha; not as "Kara Kamala Sanjāta”; even when this is the state of affairs, the Śringeri Matha people are claiming that they alone are the Jagadguru of Śringeri Matha. Many grāmas were donated to the new Śringeri Matha of 
@@ -9604,7 +9595,7 @@ In the introduction to the Śārīraka Bhāṣya (p 32) edited by Śri Kāshi Se
 there: 
 "In the year Śaka 1422(?), Śri Śankara Bhāratī Swāmiji, the tenth from Adi Sankarācārya, while travelling in Himalayas, wished to 
 see the cave in which Govinda Bhagavatpāda (?) had lived. Before 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 574 
 entering the cave, he said to his associates that he would come out 
 within so many days, and if he failed to come out on the said day, 
@@ -9636,7 +9627,7 @@ what lands were given to the Ammāji Swāmi were transferred to the Śringeri Ma
 (7) Shambhu Chatrapati of Satara has ordered that the land grants and other assets will have to go to the Śringeri Swamiji and not to Kuḍali Swamiji. 
 (8) The various appeals of Kuḍali Matha regarding the titles, hon- 
 ours enjoyed etc., submitted to at Hyderabad and Mysore were re- 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 576 
 jected and the verdicts given in favour of the Sringeri Pitha by the 
 Hyderabad Government (1845 A. D.), Diwan of Mysore (1884 A. D.) and by the Resident of Mysore (1895 A. D.). 
@@ -9670,7 +9661,7 @@ the same tradition is being followed by this Matha. The reason why
 both these Mathas have "Bhāratī" in their names of pontiffs, is that both of them belong to the Śringeri Tradition (p 34-35). 
 Relation between Kudali and Karaveera Mathas 
 Lord Cidambareswara entered through the face of Visiṣṭādevi and born as Sankarācārya during Yudhishthira Śaka 2723 Sarvadhāri Samvatsara. The Acarya assigned four of his disciples as pontiffs to the four Pīțhas that he had established. After residing at Śringeri for 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 578 
 some time, in order to validate the word of Saraswati, he established 
 a Matha at Karaveera Kshetra, which is famous as the southern 
@@ -9703,7 +9694,7 @@ Khidrapur, Nrisimhawāḍi, Golavana, Paithana, Kāśi etc.
 The abovementioned Sankara Bhāratī Swamiji - the other name of his was Jagadguru Deva Gosavi - established a Matha at Sankeswara 
 around 1500 A. D. Since the Chieftain of the army of Peshwe Kon- 
 1. It should be noted that regarding this verdict of Sahu Chatrapati, the second division of Kudali Matha have differences. Here the Karaveera Pitha enjoys im- portance;Śri Sastri writes that this verdict was sent by Sahu Mahārāja to Śringeri Śri Narasimha Bharati Swamiji also through a letter written on Kārtika Kṛṣṇa So- mavasara (Samvatsara is not mentioned). 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 580 
 hera Rao Patavardhan (Kāgawāḍakara) robbed the Matha and set 
 fire to it, the Swami there remained at Sankeśwara. From that 
@@ -9737,7 +9728,7 @@ has, for the sake of livelihood, been claiming that "Swāmiji of Kuḍali
 Matha has given me Sannyāsa." Upon enquiry we found that he is a Rigvedi, householder, and of Gosavi tradition. How can such a 
 fellow become vested with authority of Dravida, Dakshināmnāya, Bhogavāra tradition of Sankara Bhagavatpāda? In this Matha, Sann- yāsa after brahmacarya, and the Mahāvākya is from Yajurveda. This 
 being so, how he can be suitable to Sannyasa from this Matha? This hypocrite should be suitably punished by you through a letter given to Kondibhatta; or, if you write to us his details, we shall take action 
-on him'.Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+on him'. 
 582 
 Perusal of these two letters would show that from one letter the 
 Sankeshwar Matha is subordinate to Kudali Matha, and from another letter, it is having no authority for Sannyāsa of Śankara tradition. With 
@@ -9769,7 +9760,7 @@ and by Nityabodhaghanācārya, the second disciple of Sureśwara, the Śringeri 
 Keladi and Nagara and established idols of Sītā, Rāma and Lakṣmaṇa in the area south of Nagara on the banks of Śarāvati, north of Agasty- atīrtha, and central part north-east of Śrikarṇagiri, and named the 
 area as Rāmacandrapura. From that time, this Matha was known as 
 Rāmacandrapura Matha; no more pontiffs are there at Raghuttama 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 Matha thenceforward. 
 584 
 From that time, the lineage of pontiffs also was carried on at 
@@ -9802,7 +9793,7 @@ But the author of Susama writes 'it is heard to be thus'. Śri K. R.
 Venkataraman says that this does not suit the historical dates; and we have mentioned this under the discussion on the lineage of Śringeri 
 Matha. 
 In the lineage of the pontiffs of the Virūpākṣi Matha that we 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 586 
 have got, it is mentioned that the Virūpākṣi Matha was established by Vidyaranya Swami, the author of Vedabhāṣya, the disciple of BhāratiKṛṣṇa Tīrtha the 11th pontiff of Śringeri lineage. And that 
 he entered yogasamādhi in a cave of the same area on Shobhakrit Samvatsara Vaisakha Sukla Tṛtīya. Although Śri K. R. Venkataraman has written that the 'Shakatapura' (Bandigadde), 'Hariharapura', 
@@ -9837,7 +9828,7 @@ Taluk; 3. Yoganandeswara Matha, Holenarasipura; 4. Kodandāśrama
 Matha, Hebbur, Tumkur district; 5. Balekuduru Matha, Udupi Taluk; 
 6. Yaḍaneeru Matha, Kasaragod Taluk; 7. Honnavalli Matha, Sirasi 
 Taluk; 8. Chitrapura Matha, Shirāli, Uttara Kannada; 9. Kaivalya 
-Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+ 
 588 
 Matha, Kelosi, Goa; 10. Tarakeśwara Matha, West Bengal; and 11. 
 Chintamani Matha, Hospet. 
@@ -9880,7 +9871,7 @@ Bahula - The dark half of a month.
 Bhagandara - A kind of Fistula. 
 Bhagavatpāda - (Guru) always at the feet of the Lord. 
 Bhashya - An explanatory work, commentary, exposition. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 Bhedabhedavāda - acceptance of identity in difference. 
 Bhiksha - Food obtained as alms. 
 Bhoktṛtva - The state of being an enjoyer. 
@@ -9937,7 +9928,7 @@ The abode of Siva.
 Kāma - Gratification of human desire (a purushartha). 
 Karanas - Organs (of sense, action). 
 Karma - Deeds done, presribed duties. 
-Karmakaṇḍa - The part of Vedas relating to sacrificial rites. Kārtika - 8th month of year.Śri Sankara Bhagavatpāda Vṛttanta Sārasarvasva 
+Karmakaṇḍa - The part of Vedas relating to sacrificial rites. Kārtika - 8th month of year. 
 Kartṛtva - The state of being a doer, performer. 
 Kavya - Poetical composition. 
 Kosha - Dictionary, lexicon, also a sheath. 
@@ -9993,7 +9984,7 @@ Rasa - Sentiment or feeling prevailing (in rhetoric).
 Rişi - Sage, Seer of Vedas. 
 Rudrākṣa - Berries of Rudrākṣa tree strung as a rosary. 
 Sagunabrahma - Brahman with qualities, attributes. 
-Śri Sankara Bhagavatpāda Vṛttānta Sārasarvasva 
+ 
 594 
 Saligrama - Black stone found in river Gandaki worshipped as Viṣņu 
 pervading it. 
