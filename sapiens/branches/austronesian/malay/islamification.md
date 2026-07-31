@@ -13,3 +13,6 @@ title: Islamification
 - At independence the non Mohammedan pop was nearly half, now drastically reduced thru bhumiputra laws favoring indolent mohammedans.
 - If a Malay leaves Islam, he is stripped of all his "Bumiputera" rights.
 
+
+## Temple destruction
+Malaysia destroyed 719 temples from 2012-2019,hindus aren't even bhumiputra nd discriminated in jobs. Hindu persecution is extreme in Sumatra.
