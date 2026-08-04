@@ -20,6 +20,10 @@ title = "Creation"
 ## Editors
 <div class="spreadsheet" src="editor.toml" fullHeightWithRowsPerScreen=8> </div>  
 
+### Losslesscut
+Start segment - i, end segment - o
+
+
 ### Kdenlive
 - `Shift R` for cutting
 

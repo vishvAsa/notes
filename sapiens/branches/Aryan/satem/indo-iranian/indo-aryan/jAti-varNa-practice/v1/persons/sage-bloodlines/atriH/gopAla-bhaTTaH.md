@@ -163,6 +163,7 @@ narottama-dAsa, shixA disciple of jIva, composed praises on gopAla-bhaTTa.
 jIva is said to have asked shrInivAsa AchArya to take dIxA from gopAla-bhaTTa. He went on to compose Shad-gosvamy-ashtaka.  
 shrInivAsa AchArya and narottama became close friends. 
 
+> GV say that hita harIvamsa was a rejected disciple of gopAla bhaTTa as he was caught eating in ekAdazI but premAnanda says hita harIvamsa was initiated by rAdhArAnI herself. - kamal
 
 ##### puNDra-s
 gopAla-bhaTTa-parivAra bears the very ungauDIya and SV-like puNDra. Further placement of the puNDra-s on the body (atleast the front portion) are identical to SV layout, except that the neck tilakas have moved down.
