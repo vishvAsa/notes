@@ -2,6 +2,13 @@
 title = "Locations"
 +++
 
+## India 2026
+Source: [TW](https://x.com/blog_supplement/status/2085234921631633814)
+
+There are clear indications that the current mahAmlechCha government of the pichChilaka is going to place roadblocks for Indian students and postdocs from seeking a future in the US. It may not name India openly as one of the targeted countries, but it would definitely do so. If this policy continues beyond the remainder of the pichChilu~Nga's term (say under duShTa kuruvinda+++(=rubio)+++ or anUpa+++(=vance)+++), then it is possible that India is left with a lot of talent, a sliver of which would be really high-end. Hopefully, the government has a mechanism to leverage this. It might fail due to the general gridlock, the coming nirNaya on the streets or even mlechCha subversion, but there is a chance that they are able to turn it to national advantage. 
+
+In light of this, Jain's new physics institute is an interesting venture. I wonder whether people might be interested in funding similar ventures in other sciences – it would be much harder than in theoretical physics. Regarding Jain's institute, I'm also unsure of a system without PhD students, given that they typically bring new blood and youthful vigor.
+
 ## USA advantage
 
 I have often wondered about the below. I have arrived a list of reasons whose individual weights might be different for different people. There may several reasons beyond these:

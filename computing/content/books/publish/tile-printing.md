@@ -25,5 +25,5 @@ In kiln-fired ceramic tile printing ( CPP or ceramic pigment printing), the cera
   - Fired at lower temperatures (~1100°C) to integrate pigment into glaze.
   - Parshwa home decor Jakkur - 650 INR/sqft (2025). Low res. Other providers - min order 200.
 - Generic laser
-  - Sunyatee International Foundation 2026 - output is promising.
+  - Sunyatee International Foundation 2026 - output is promising. But use ink bonding.
 - Fiber Laser Machine

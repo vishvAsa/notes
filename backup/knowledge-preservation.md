@@ -260,6 +260,8 @@ UV flatbed printing uses UV-cured inks that sit on top of the tile surface. Whil
 
 UV flatbed printers - While UV-cured inks are designed to withstand sunlight, excessive exposure to UV rays can cause fading and discoloration over time. To minimize this risk, consider applying a UV-protective coating or installing shading devices, such as awnings or pergolas, in outdoor areas.
 
+
+
 #### 3D printed plastics
 [YT](https://youtu.be/KMi9P4FdAqw?t=1694)
 

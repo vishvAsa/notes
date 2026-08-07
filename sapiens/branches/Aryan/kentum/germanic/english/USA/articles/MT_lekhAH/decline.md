@@ -3,6 +3,13 @@ title = "Decline"
 +++
 
 ## 2026
+### Elections
+I suspect that going forward, the mahAmlechCha elections are going to see such unprecedented interference and "fudging" that it would make the games played to put piNDaka on the Asandi look docile. 
+
+The move would be to position duShTa kuruvinda+++(=Rubio)+++ as the successor to the pichiChilaka, and try to keep anUpa as far away from the Asandi as possible. 
+
+By acting unprincipled, anUpa has probably lost a lot of his sheen. I wonder if even jarilaputra+++(=carlson)+++, who is no friend of ours, still supports him. With jarilonmatta+++(=charlie kirk)+++ dead, there is no one to counter the influence of AdivAtUla-s.
+
 ### 150 yrs, 250 yrs
 Source: [TW](https://x.com/blog_supplement/status/2071396160237883436)
 
