@@ -1,0 +1,27 @@
+[[data]]
+item = "millet cooked"
+per_serving = 190
+protein = 6.67
+fat = 1.9
+carbohydrate = 45
+fiber = 2.5
+water = 135.7
+
+[[data]]
+item = "quinoa cooked wet"
+per_serving = 260
+protein = 13
+fat = 5.7
+carbohydrate = 68.52
+fiber = 5.9
+Sodium = 0.511
+
+[[data]]
+item = "cooked dAl bit wet"
+per_serving = 422
+protein = 18
+fat = 0.45
+carbohydrate = 45
+fiber = 14
+Sodium = 0.03
+

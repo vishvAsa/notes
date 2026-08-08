@@ -1,0 +1,45 @@
+[[data]]
+item = "Chickpea Bengal gram flour (unroasted besan) (roasted sattu)"
+quantity_grams = 100
+calories = 387
+protein = 22.39
+fat = 6.7
+carb = 57.8
+fiber_unsoluble = 10.8
+
+[[data]]
+item = "mUng dAl"
+quantity_grams = 100
+calories = 340
+protein = 24
+fat = 2
+carb = 62
+fiber_unsoluble = 16
+
+[[data]]
+item = "tUr dAl"
+quantity_grams = 100
+calories = 343
+protein = 22.86
+fat = 1.43
+carb = 62.86
+fiber_unsoluble = 17.1
+
+[[data]]
+item = "masUr dAl"
+quantity_grams = 100
+calories = 356
+protein = 24.4
+fat = 0
+carb = 64.44
+fiber_unsoluble = 11.1
+
+[[data]]
+item = "urad dAl"
+quantity_grams = 100
+calories = 350
+protein = 24
+fat = 1.5
+carb = 60
+fiber_unsoluble = 17.1
+

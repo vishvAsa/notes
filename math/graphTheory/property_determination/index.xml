@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Property determination on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/graphTheory/property_determination/</link>
+    <description>Recent content in &#43;Property determination on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/math/graphTheory/property_determination/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network flow</title>
+      <link>https://vishvAsa.github.io/notes/math/graphTheory/property_determination/network_flow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/graphTheory/property_determination/network_flow/</guid>
+      <description>&lt;p&gt;Take network G=(V,E) with source s, sink t; \&#xA;\((u,v) \in E\) has capacity c(u,v). Flow \(f:V\times V \to R\) with capacity constraints, flow conservation \(\sum_{u} f(u, v) = 0\), skew symmetry: f(u, v) = -f(v, u). Residual capacity of an edge: \(c_{f}(u, v)\). Thence, can get residual network \(G_{f}\). Augmenting path \(s, v_{1}, v_{2} .. t\): \(\forall i, c_{f}(v_{i}, v_{i+1})&amp;gt;0\).&lt;/p&gt;&#xA;&lt;h2 id=&#34;max-flow-problem&#34;&gt;Max flow problem&lt;/h2&gt;&#xA;&lt;p&gt;Start with 0 flow. Max flow exists iff \( \nexists \) augmenting path. Check for augmented flow; Keep increasing or decreasing flow by small fractions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Node search</title>
+      <link>https://vishvAsa.github.io/notes/math/graphTheory/property_determination/node_search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/graphTheory/property_determination/node_search/</guid>
+      <description>&lt;h2 id=&#34;searching-for-a-goal-node&#34;&gt;Searching for a goal node&lt;/h2&gt;&#xA;&lt;p&gt;Problem; initial state; successor function; goal test; path cost; step cost.&lt;/p&gt;&#xA;&lt;p&gt;The search tree vs state graph; its branching factor. NP hardness. Optimality vs completeness of algorithms. Eg: Route finding problem with a map; TSP.&lt;/p&gt;&#xA;&lt;h2 id=&#34;uninformed-search-problem&#34;&gt;Uninformed Search problem&lt;/h2&gt;&#xA;&lt;p&gt;Breath first search; exponential memory demands. When pathcost varies: Uniform cost search.&lt;/p&gt;&#xA;&lt;p&gt;Depth first search: linear space complexity. Iterative deepening DFS: use diameter of state graph. When pathcost varies: Iterative lengthening search.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tree search</title>
+      <link>https://vishvAsa.github.io/notes/math/graphTheory/property_determination/tree_search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/graphTheory/property_determination/tree_search/</guid>
+      <description>&lt;h2 id=&#34;find-minimum-spanning-tree-mst&#34;&gt;Find minimum spanning tree (MST)&lt;/h2&gt;&#xA;&lt;p&gt;(Kruskal) Start with forest F = V; pick \(e \in G\) with least weight; if e connects 2 trees in F, add it to F: else discard e; repeat.&lt;/p&gt;&#xA;&lt;p&gt;(Prim) Grow a tree T starting from a vertex: at each step, add edge with least wt which brings in new vertex to T.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+[[data]]
+samUhaH = 'Multimedia'
+upasamUhaH = 'Video edit'
+software = 'avidemux'
+kAraNaM = 'Video editor, converter, volume booster'
+kleshaH = 'Wont open files recorded with recordmydesktop'
+
+[[data]]
+samUhaH = 'Multimedia'
+upasamUhaH = 'Video edit'
+software = 'kdenlive'
+kAraNaM = 'Video editor excellent.'
+kleshaH = '.h264 mp4 export worked - 25 min for 1hr vid'
+vyavasthA = 'Import clip. Drag it down. Move cursor using arrow. Cut clip. Delete, join. Export.'
+
+[[data]]
+samUhaH = 'Multimedia'
+upasamUhaH = 'Video edit/ slideshow'
+software = 'imagination'

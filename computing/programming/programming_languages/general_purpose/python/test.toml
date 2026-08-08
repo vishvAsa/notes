@@ -1,0 +1,374 @@
+[[data]]
+Language = 'Python'
+"Operand Type" = 'unittest test'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import unittest
+class TestStringMethods(unittest.TestCase):
+  def setUp(self):pass
+  def tearDown(self):pass 
+  def test_upper(self):
+      self.assertEqual('foo'.upper(), 'FOO')
+
+if __name__ == '__main__':
+    unittest.main()'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'unittest test'
+Feature = 'assertions'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+
+  def test_isupper(self):
+      self.assertTrue('FOO'.isupper())
+      self.assertFalse('Foo'.isupper())
+
+  def test_split(self):
+      s = 'hello world'
+      self.assertEqual(s.split(), ['hello', 'world'])
+      # check that s.split fails when the separator is not a string
+      with self.assertRaises(TypeError):
+          s.split(2)
+'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'pytest'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'concept'
+Syntax = ''
+Description = 'easy'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'pytest'
+Feature = 'run'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+find tests -name '*.pyc' -delete
+pytest'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'pytest'
+Feature = 'fixture'
+Subfeature = 'define'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+@pytest.fixture(scope='module'', params=None, autouse=False)
+def resource_a_setup(request):
+    print('\nresources_a_setup()')
+    def resource_a_teardown():
+        print('\nresources_a_teardown()')
+    request.addfinalizer(resource_a_teardown)
+    return xyz'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'pytest'
+Feature = 'test'
+Subfeature = 'define'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+# prefix test_ is essential
+def test_SOMETHING():
+    assert detection == scheme, u'%s == %s (%s)' % (detection, scheme, text)'''
+Description = 'Test files should end with _test, and test functions should be named test_*'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'pytest'
+Feature = 'test list'
+Subfeature = 'define'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+@pytest.mark.parametrize('data', BASIC)
+def test_SOMETHIGN(data):
+  ...'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'pytest'
+Feature = 'test'
+Subfeature = 'use fixture'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+def test_1_that_needs_resource_a(resource_a_setup):
+    print('test_1_that_needs_resource_a()')'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'pytest'
+Feature = 'test'
+Subfeature = 'skip'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+@pytest.mark.skip(reason="no way of currently testing this")
+@pytest.mark.skipif(sys.version_info < (3,3),
+                    reason="requires python3.3")'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'pytest'
+Feature = 'test'
+Subfeature = 'exceptions'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+  with pytest.raises(jsonschema.ValidationError) as exception_info:
+     ...
+  assert exception_info.value.message.startswith("zyz")
+'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'tox test env'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'concept'
+Syntax = ''
+Description = 'setup test automation: connect with travis, test on multiple py versions, invoke multiple tools (flake8 linter, pytest ) etc.. '
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'tox test env'
+Feature = 'run'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+tox
+# Clear cache:
+rm -R .tox; tox '''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'tox test env'
+Feature = 'setup'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'Create file tox.ini'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'tox test env'
+Feature = 'setup'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+[tox]
+envlist = py27, py36
+
+[testenv]
+deps = pytest
+commands = pytest tests/detect_test.py tests/sanscript_test.py'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'tox test env'
+Feature = 'setup'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+[testenv]
+deps = pytest
+commands = pytest'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'mox mock'
+Feature = 'record, replay'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+ mock_bell = mox.MockObject(DoorBell)
+  mock_bell.RingDoorBell(mox.IgnoreArg())
+...// other expectations.
+  mox.Replay(mock_bell)
+  self.postman.Ring(mock_bell)
+  mox.Verify(mock_bell)'''
+Description = 'Record replay paradigm'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'mock'
+Feature = 'generic'
+Subfeature = 'create'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import mock
+m = mock.create_autospec(SomeClass)
+mock_bell = Mock([spec=class| obj| strList],
+[wraps=obj])'''
+Description = 'All Mock objects are callable.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'mock'
+Feature = 'unconstrained mock'
+Subfeature = 'create'
+Importance = ''
+"Implementation Type" = ''
+Syntax = """
+import mock
+mk = mock.MagicMock()
+mk.__str__.return_value = 'foobarbaz'"""
+Description = 'Easier to verify obj.__str__() etc..'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'mock'
+Feature = 'Function/ method'
+Subfeature = 'fake return'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+mock_fn.return_value = 'foo'
+m.fn.return_value = ..
+m.fn.side_effect = [retValues]'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'mock'
+Feature = 'Function/ method'
+Subfeature = 'fake side effect'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+m.fn = Mock(side_effect=KeyError('foo'))
+m.fn.side_effect = someFn()
+m.fn()'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'mock patch'
+Feature = 'decorator'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import moduleX
+@mock.patch('moduleX.clsY')
+@mock.patch('moduleX.fnY')
+def testXYZ(self, mockObjFromPatch):
+
+@patch.multiple('__main__', thing=DEFAULT, other=DEFAULT)
+
+@patch('module.ClassName2')
+... @patch('module.ClassName1')
+... def test(MockClass1, MockClass2):'''
+Description = '''
+If you import moduleX.clsY, do @patch('thisMod.clsY').
+Replaces class with mock, after function exits, undoes the replacement.'''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'mock patch'
+Feature = 'Context manager'
+Subfeature = 'object'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+ with patch.object(Xcls, 'xyz', return_value=None) as mock_method:
+...     thing = Xcls()
+...     thing.xyz(1, 2, 3)
+mock_method.assert...'''
+Description = 'Replaces class with mock, after with block ends, undoes the replacement.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'mock patch'
+Feature = 'Context manager'
+Subfeature = 'module'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+with mock.patch.object(module, 'methodName', return_value=..) ....
+'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'mock patch'
+Feature = 'Context manager'
+Subfeature = 'dictionary'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+with patch.dict(foo, {'newkey': 'newvalue'}, clear=True):
+...
+'''
+Description = 'Replaces class with mock, after with block ends, undoes the replacement.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'mock'
+Feature = 'Verify'
+Subfeature = 'method call'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+mock_obj.has_calls([
+    mock.call.OneMethod('foo'),
+    mock.call.AnotherMethod('bar')])
+self.assertEquals(2, mock_bell.RingDoorBell.call_count)
+'''
+Description = 'Action assert paradigm'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'mock'
+Feature = 'Verify'
+Subfeature = 'function call'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''fn.assert_called_once_with('foo')'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'mock'
+Feature = 'Verify'
+Subfeature = 'function call'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+fn.assert_called_with(mock.ANY)
+mock_fn.assert_called_with(mock.REGEXP(pat))
+mock_fn.assert_called_with(mock.IS(pred_fn))'''
+Description = ''

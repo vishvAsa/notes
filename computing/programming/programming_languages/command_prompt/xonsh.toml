@@ -1,0 +1,34 @@
+[[data]]
+Language = 'xonsh'
+"Operand Type" = 'alias'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+aliases['g'] = 'git status -sb'
+aliases['gp'] = ['git', 'pull']'''
+Description = ''
+
+[[data]]
+Language = 'xonsh'
+"Operand Type" = 'alias'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''aliases['gp'] = lambda (args, stdin=None): ...'''
+Description = 'return None, stdout, or stdout, stderr, return_value'
+
+
+
+[[data]]
+Language = 'xonsh'
+"Operand Type" = 'run command'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '$()'
+Description = 'returns stdout'
+
