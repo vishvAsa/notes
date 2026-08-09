@@ -14,3 +14,13 @@ That shall also explain how allasani peddanna (who was in krishnarayas durbar) c
 AVS date in 1400s matches well with annamacharya. There is no problem.
 
 Sixth AS is claimed to have been felicitated by mukunda deva gajapati who ruled from 1560-68 only. 
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Dates as per 33rd ahobila yati (weekday, nakShatra mismatch)
+
+Siddhartha samvatsara purattasi shuklapanchami ~~guruvaram jyeshta nakshatra~~ - 1439
+
+bahudanya Chaitra ~~Krishna Ekadashi sthiravara abhijitnakshatra(shravana's first pada).~~ - 1518
+</details>

@@ -13,3 +13,5 @@ Transport
 ## Chennai
 - Train
   - Blr chennai trains fill up fast. Esp weekends, over-night trains. Should reserve 1 month early in such cases.
+
+- Likeable places - Mylapore and south, Chromepet and east.
