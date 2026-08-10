@@ -2,6 +2,12 @@
 title = "Mohit and Rustics"
 +++
 
+## Dacoities
+> People don't realise the importance of mobile phones in breaking insurgencies in India. Before, if you have some information, you need to trek for kilometres undetected to pass the information. But today, all you need to do is make a phone call or send a message from a secluded area. The ease with which police and army gets the tips, it's unprecedented.
+
+
+Not just insurgencies, village dacoities which were still pretty common even in early 2000s..
+
 ## Visit-mania
 Jun 28, 2021  
 After living in village for 2 years, I’d say it is not true that there is no peace in the city life.. If you’re not into a job, there’s more peace in the city life.. 
