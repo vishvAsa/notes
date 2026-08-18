@@ -2,6 +2,10 @@
 title = "Reforms - kastUri"
 +++
 
+Making an observation from "the ground". Whole bunch of v1s who are purohitas or having v1 adjacent secular jobs like Sanskrit professorsin my circles. A good variety of subcastes and are pushing 50s, 50s and almost 60s. Unmarried!  
+One guy has his own business and earning good money and still unmarried. There's a fundamental systemic issue. 
+
+
 Relaxation of v1 definition and varNa inheritance via father; Samskaras for the bride into a Kashyapa gotra; V1s entering "anAtha Ashram" field.  
 
 Cultivate young kanyAs steeped in dharma and vaidika readiness.  
