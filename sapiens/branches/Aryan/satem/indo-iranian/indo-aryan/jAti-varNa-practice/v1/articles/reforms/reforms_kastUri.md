@@ -21,3 +21,5 @@ V1s need to be aggregators now instead of splitters.
 
 I don't think any of these can happen or happen easily.
 
+
+We can let ultra orthodox pure in 7 generation on both side vaidikas to their own devices. Afaik the agraharams are mostly gone and fires are extinguished. Children migrated to cities and took to secular jobs. I'm pretty sure pockets still survive. They don't have to intermarry with the new group perhaps.
