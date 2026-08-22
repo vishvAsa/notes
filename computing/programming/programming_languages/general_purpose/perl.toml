@@ -1,0 +1,677 @@
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'statement'
+Feature = 'discipline'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'use strict; use warnings;'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'statement'
+Feature = 'include file routines'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'require "./routines.pl";'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'statement'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'statement; {BLOCK}'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'statement'
+Feature = 'comment'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '#comment'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'statement'
+Feature = 'comment'
+Subfeature = 'pod'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ' =word1 many lines =cut.'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'statement'
+Feature = 'decision'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+if (EXPR) BLOCK
+COMMAND if/unless EXPR'''
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'statement'
+Feature = 'decision'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'if (EXPR) BLOCK else BLOCK'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'statement'
+Feature = 'decision'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'if (EXPR) BLOCK elsif (EXPR) BLOCK ... else BLOCK'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'statement'
+Feature = 'decision'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+unless EXPR BLOCK 
+COMMAND if/unless EXPR'''
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'subroutine'
+Feature = 'exit'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'goto LABEL'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'subroutine'
+Feature = 'definition'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+sub fnName {
+my($head,$synset) = @_;
+...
+$returnVar
+}
+1;'''
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'subroutine'
+Feature = 'invocation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'fn(args) or fn args'
+Description = 'Optionally, one prepends \& to the function name.'
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'generic'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '$var = 50'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'generic'
+Feature = 'instantiation'
+Subfeature = 'null object'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'undef'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'generic'
+Feature = 'contextual binding'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '$_'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'regular expression'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '/exp/'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'regular expression'
+Feature = 'replacement pattern'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 's/exp1/exp2/[g]'
+Description = '''
+Alternate delimiters:
+ s!import (.)../../../../!import \1//! 
+s<import (.)../../../../><import \1//>
+s{import (.)../../../../}{import \1//}'''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'regular expression'
+Feature = 'replacement pattern'
+Subfeature = 'character-wise'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'tr/cls1/cls2/'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'IO'
+Feature = 'file'
+Subfeature = 'open'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'open(OUTFILE, ">path")'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'IO'
+Feature = 'file'
+Subfeature = 'close'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'close(OUTFILE)'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'IO'
+Feature = 'file'
+Subfeature = 'read lines'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '@lines = <FILE>'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'IO'
+Feature = 'directory'
+Subfeature = 'read'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'readdir(DIR)'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'IO'
+Feature = 'STDOUT'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'print val1, val2..'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'IO'
+Feature = 'STDIN'
+Subfeature = 'read lines'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '<>'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'IO'
+Feature = 'STDERR'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'cmd || die strMsg;'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'run'
+Feature = 'command line'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'run'
+Feature = 'command line'
+Subfeature = 'all lines'
+Importance = ''
+"Implementation Type" = ''
+Syntax = "perl -en 'cmd1' 'cmd2'"
+Description = 'while(<>) {commands}'
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'run'
+Feature = 'install modules'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+perl -MCPAN -e 'install modName'
+cpanm moduleName (insall with cpan App::cpanminus)'''
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'run'
+Feature = 'input agruments'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '@ARGV'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'statement'
+Feature = 'loop'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'while (EXPR) BLOCK'
+Description = '''
+can be written in the form: 
+COMMAND loopCmd EXPR.'''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'statement'
+Feature = 'loop'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'while (EXPR) BLOCK continue BLOCK'
+Description = '''
+can be written in the form: 
+COMMAND loopCmd EXPR.'''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'statement'
+Feature = 'loop'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'for (EXPR; EXPR; EXPR) BLOCK'
+Description = '''
+can be written in the form: 
+COMMAND loopCmd EXPR.'''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'statement'
+Feature = 'loop'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'foreach VAR (LIST) BLOCK'
+Description = '''
+can be written in the form: 
+COMMAND loopCmd EXPR.'''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'statement'
+Feature = 'loop'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'foreach VAR (LIST) BLOCK continue BLOCK'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'statement'
+Feature = 'loop'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'until (EXPR) BLOCK'
+Description = '''
+can be written in the form: 
+COMMAND loopCmd EXPR.'''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'statement'
+Feature = 'loop'
+Subfeature = 'control'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'next last redo'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'statement'
+Feature = 'loop'
+Subfeature = 'exit'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'goto LABEL'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'statement'
+Feature = 'loop'
+Subfeature = 'continue'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'BLOCK continue BLOCK'
+Description = '''The continue block is executed even when 'next' is used. But, it is not executed when redo is used.'''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'statement'
+Feature = 'loop'
+Subfeature = 'label'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'xyz:'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'array'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '@var'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'array'
+Feature = 'index'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '$arr[k]'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'array'
+Feature = 'slice'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '@arr[a..b] @arr[1, 3, 5]'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'array'
+Feature = 'index'
+Subfeature = 'last'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '$@arr'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'array'
+Feature = 'length'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '$len = @arr'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'array'
+Feature = 'sort'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'sort, reverse'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'array'
+Feature = 'instantiation'
+Subfeature = 'literal'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '(item1, item2 ..)'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'array'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'qw(str1, str2 ..)'
+Description = 'No "" required'
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'array'
+Feature = 'add'
+Subfeature = 'prepend'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+unshift(@myNames, 'Larry'); 
+unshift(@myNames, @moreNames); '''
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'array'
+Feature = 'add'
+Subfeature = 'append'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'push(@arr, $str)'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'array'
+Feature = 'to string'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'join EXPR,LIST'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'array'
+Feature = ''
+Subfeature = 'concatenate'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '@arr3 = (@arr1, @arr2, $var2)'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'map'
+Feature = 'reference'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '%var'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'map'
+Feature = 'instantiation'
+Subfeature = 'literal'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '(k1 => v1, k2 =? v2 ..)'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'map'
+Feature = 'keys'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'keys(%v)'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'map'
+Feature = 'values'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'values(%v)'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'map'
+Feature = 'index'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'var{key}'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'map'
+Feature = 'pointer'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'my $ref = hashLiteral'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'map'
+Feature = 'pointer'
+Subfeature = 'index'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'ref->key'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'string'
+Feature = 'instantiation'
+Subfeature = 'literal'
+Importance = ''
+"Implementation Type" = ''
+Syntax = "\"asdf\" 'asdf'"
+Description = 'can be multiline'
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'string'
+Feature = 'comparison'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'eq ne lt gt'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'string'
+Feature = 'regular expression'
+Subfeature = 'check'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '  =~'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'string'
+Feature = 'concatenate'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '$str1 . $str2'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'string'
+Feature = 'split'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'split(/,/,$str)'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'string'
+Feature = 'strip'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'strip($str)'
+Description = ''
+
+[[data]]
+Language = 'Perl'
+"Operand Type" = 'string'
+Feature = 'to int'
+Subfeature = 'int'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Int(str)'
+Description = ''

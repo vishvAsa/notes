@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Matrix on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/linAlg/matrix/</link>
+    <description>Recent content in &#43;Matrix on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/math/linAlg/matrix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linear operators</title>
+      <link>https://vishvAsa.github.io/notes/math/linAlg/matrix/linear_operators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/linAlg/matrix/linear_operators/</guid>
+      <description>&lt;h2 id=&#34;linear-transformation&#34;&gt;Linear Transformation&lt;/h2&gt;&#xA;&lt;h3 id=&#34;definition-and-linearity&#34;&gt;Definition and Linearity&lt;/h3&gt;&#xA;&lt;h4 id=&#34;linearity&#34;&gt;Linearity&lt;/h4&gt;&#xA;&lt;p&gt;\(A(ax+by) = aA(x)+bA(y)\). \(A\) called operator, from viewing vector as functions.&lt;/p&gt;&#xA;&lt;h4 id=&#34;mapping-between-vector-spaces&#34;&gt;Mapping between vector spaces&lt;/h4&gt;&#xA;&lt;p&gt;For any field \(F\), can consider linear transformations \(A: F^{n} \to F^{m}\).&lt;/p&gt;&#xA;&lt;h3 id=&#34;applications-examples&#34;&gt;Applications, examples&lt;/h3&gt;&#xA;&lt;p&gt;Vector spaces can model many real world things (see vector spaces ref), even functions. In all of these, linear transformations have deep meanings.&lt;/p&gt;&#xA;&lt;p&gt;Over function spaces: Differentiation, integration, multiplication by fixed polynomial in \(P_n\).&lt;/p&gt;&#xA;&lt;p&gt;Geometric operations: \(Ax\). \&#xA;Rotation, projection, reflection, stretching, shearing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Matrix approximation</title>
+      <link>https://vishvAsa.github.io/notes/math/linAlg/matrix/matrix_approximation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/linAlg/matrix/matrix_approximation/</guid>
+      <description>&lt;h2 id=&#34;approximating-a-matrix&#34;&gt;Approximating a matrix&lt;/h2&gt;&#xA;&lt;h3 id=&#34;the-problem&#34;&gt;The problem&lt;/h3&gt;&#xA;&lt;p&gt;Take set of matrices S. Want \(\argmin_{B \in S} \norm{A - B}\) is minimized wrt some \(\norm{}\) and some set S.&lt;/p&gt;&#xA;&lt;h4 id=&#34;the-error-metric&#34;&gt;The error metric&lt;/h4&gt;&#xA;&lt;p&gt;Also, often \(\norm{.}\) is an operator norm, as this ensures that \(\norm{(A-B)x}\) is low wrt the corresponding vector norm. Other times, as in the case of matrix completion problems, it may be desirable for \(\norm{}\) to be the Frobenius norm.&lt;/p&gt;&#xA;&lt;h4 id=&#34;low-rank-k-factorization-problem&#34;&gt;Low rank (k) factorization problem&lt;/h4&gt;&#xA;&lt;p&gt;In many problems, S is the set of rank k matrices, where k is small.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Misc decompositions</title>
+      <link>https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/linAlg/matrix/misc_decompositions/</guid>
+      <description>&lt;h2 id=&#34;importance-of-decompositions&#34;&gt;Importance of decompositions&lt;/h2&gt;&#xA;&lt;p&gt;Very important in restating and understanding the behavior of a linear operator. Also, important in solving problems: get decomposition, use it repeatedly. For algebraic manipulation: Factor the matrix: QR, LU, Eigenvalue decomposition, SVD.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ew-revealing-decompositions&#34;&gt;EW revealing decompositions&lt;/h2&gt;&#xA;&lt;p&gt;See section on eigenvalues.&lt;/p&gt;&#xA;&lt;h3 id=&#34;eigenvalue-decomposition&#34;&gt;Eigenvalue decomposition&lt;/h3&gt;&#xA;&lt;p&gt;Aka Spectral Decomp. Only if \(A\) diagonalizable.&lt;/p&gt;&#xA;&lt;p&gt;Take \(S\): Eigenvectors-as-columns matrix, with independent columns; \(\EW\): Eigenvalue diagonal matrix. Then, AS = SL; So, \(S^{-1}AS = L\); \(A=SLS^{-1}\): a similarity transformation. Also, If AS=SL, S&amp;rsquo;s columns must be eigenvectors.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

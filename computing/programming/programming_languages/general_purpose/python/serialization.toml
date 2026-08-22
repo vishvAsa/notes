@@ -1,0 +1,361 @@
+[[data]]
+Language = 'Python'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'instantiation'
+Subfeature = 'deserialize'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+obj = pbClass.FromString(s)
+obj = pbClass()
+msg.ParseFromString(binarystr)
+msg.ParseFromString(someFile.read())
+obj.MergeFromString(binarystr)
+text_format.Merge(ascii, msg)
+
+msg.ParseASCII(ascii) // proto1, deprecated.
+'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'CopyFrom(pb2)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'instantiation'
+Subfeature = 'string literal'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'explained in fleFmt sheet'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'reflection'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'method'
+Syntax = 'HasField(name) ListFields()'
+Description = 'ValueError if field is not defined.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'reflection'
+Subfeature = 'descriptor'
+Importance = ''
+"Implementation Type" = 'field'
+Syntax = '''
+DESCRIPTOR
+.name .full_name
+.containing_type
+.nested_types[_by_name]
+.enum_types[_by_name|_by_value]
+.extensions[_by_name]'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'reflection'
+Subfeature = 'fieldDetails'
+Importance = ''
+"Implementation Type" = 'field'
+Syntax = '''
+DESCRIPTOR.fields
+.fields_by_name
+.fields_by_number '''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'reflection'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'len(msg.repeated_message) '
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'reflection'
+Subfeature = 'general'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'As in python objects. setattr, getattr..'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'get'
+Subfeature = 'scalar field'
+Importance = ''
+"Implementation Type" = 'field'
+Syntax = 'obj.scalar_field'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'get / set'
+Subfeature = 'extension in pb namespace'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+
+foo = Foo()
+foo.Extensions[proto_file_pb2.bar] = 2
+assert foo.Extensions(proto_file_pb2.bar) == 2
+assert foo.HasExtension(proto_file_pb2.bar) // '''
+Description = '''
+message Foo {
+  extensions 100 to 199;
+}
+extend Foo {
+  optional int32 bar = 123;
+}'''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'get'
+Subfeature = 'extension in Message namespace'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+
+foo = Foo()
+foo.Extensions[proto_file_pb2.Bar.info].data_file = "2"
+'''
+Description = '''
+message Foo {
+  extensions 100 to 199;
+}
+message Bar {
+  optional string data_file = 1;
+  extend Foo {
+    optional Bar info = 52384165;
+  }
+}
+'''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'modify'
+Subfeature = 'scalar field'
+Importance = ''
+"Implementation Type" = 'field'
+Syntax = 'myproto.fieldName = 23'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'modify'
+Subfeature = 'clear Extension'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'foo.ClearExtension(some_pb2.fieldName)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'modify'
+Subfeature = 'scalar field'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'setattr(pbuff, arg, val)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'modify'
+Subfeature = 'message field'
+Importance = ''
+"Implementation Type" = 'field'
+Syntax = '''
+msg.message_field.value = 3
+foo.message_field.CopyFrom(baz)
+sub_msg = msg.message_field'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'modify'
+Subfeature = 'repeated message field add'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+submsg = buf.fldName.add()
+msg.repeated_message[i]'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'modify'
+Subfeature = 'repeated field extend'
+Importance = ''
+"Implementation Type" = 'list field'
+Syntax = '''
+extend(pbuff.valueList)
+extend([xyz])
+extend(xyz)'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'modify'
+Subfeature = 'repeated scalar field'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'buf.fldName.add(val)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'modify'
+Subfeature = 'merge other message'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+
+ob1.MergeFrom(ob2)'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'modify'
+Subfeature = 'clear'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'ob1.Clear()'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'serialize'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+msg.SerializePartialToString()
+obj.SerializeToString()'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'serialize'
+Subfeature = 'to ASCII'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+ascii = text_format.MessageToString(msg)
+obj.ToASCII() // proto1'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'serialize'
+Subfeature = 'human readable string'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+str(msg)
+print msg'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'protocol buffer 1'
+Feature = 'scalar field'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+msg.scalar_field()
+msg.set_scalar_field(3)
+msg.has_scalar_field()
+msg.clear_scalar_field()
+'''
+Description = 'https://sites.google.com/a/google.com/protocol-buffers/migration/new-api-features-in-proto2/proto2-python-api?pli=1'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'protocol buffer 1'
+Feature = 'message field'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+sub_msg = msg.message_field()
+msg.mutable_message_field().set_value(3)
+'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'protocol buffer 1'
+Feature = 'repeated field'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+msg2 = msg.add_foo()
+msg.repeated_scalar_list()'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'json'
+Feature = 'to/ from object'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'Listed elsewhere'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'json'
+Feature = 'to/ from list or dict'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+your_json = '["foo", {"bar":["baz", null, 1.0, 2]}]'
+>>> parsed = json.loads(your_json)
+json.dumps(parsed, sort_keys=True, indent=4)'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'json'
+Feature = 'schema'
+Subfeature = 'validate'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ' jsonschema.validate({"name" : "Eggs", "price" : 34.99}, schemaDict)'
+Description = ''

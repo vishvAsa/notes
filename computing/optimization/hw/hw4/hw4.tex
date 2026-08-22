@@ -1,0 +1,101 @@
+\documentclass{article}
+\input{../../../packagesMemoir}
+\input{../../../macros}
+\input{../../../amsartMacros}
+\lstset{language=matlab}
+
+
+%opening
+\title{Non Linear Programming: Homework 4}
+\author{vishvAs vAsuki}
+
+\begin{document}
+
+\maketitle
+
+\section{3.32 Products and quotients of convex functions on R}
+\begin{rem}
+Consider functions on R. Assume differentiability too. Let D be the differential operator with respect to x.
+\end{rem}
+
+\subsection{a}
+\begin{thm}
+If f, g are convex, both nondecreasing (or nonincreasing) +ve functions, then fg is convex.
+\end{thm}
+\begin{proof}
+$D^{2} f(x)g(x) = D^{2}f(x) g(x) + 2 Df(x) Dg(x) + f(x)D^{2}g(x) \geq 0$. All terms in this sum are non-negative from the assumptions.
+\end{proof}
+
+
+\subsection{b}
+\begin{thm}
+If f, g are concave, +ve, with f nondecreasing and g nonincreasing, fg is concave.
+\end{thm}
+\begin{proof}
+$D^{2} f(x)g(x) = D^{2}f(x) g(x) + 2 Df(x) Dg(x) + f(x)D^{2}g(x) \geq 0$. All terms in this sum are non-positive from the assumptions.
+\end{proof}
+
+
+\subsection{c}
+\begin{thm}
+If f is convex, nondecreasing, +ve. g is concave, nonincreasing, +ve. Then, f/g is convex.
+\end{thm}
+\begin{proof}
+$D^{2} f(x)/g(x) = D^{2}f(x)/g(x) - 2 Df(x)Dg(x)/g(x)^2 - \\
+f(x)D^{2}g(x)/g(x)^{2} - f(x)D^{2}g(x)/g(x)^{2} + 2f(x)(Dg(x))^2/ g(x)^3 \geq 0$. All terms in this sum are non-negative from the assumptions.
+\end{proof}
+
+
+\section{3.36 (a)-(d) Conjugate functions}
+\subsection{Hint}
+Problem 3.36 concerns conjugate functions, and is likely to be quite difficult for some of you. Conjugates often defy intuition. I recommend a two-step approach:
+
+    * First, determine the *domain* of the conjugate, by trying to find general conditions under which the supremum is unbounded. Many conjugate functions have bounded domains even when the original function does not.
+    
+    * Then, choose a point inside the domain and determine the supremum. 
+
+Do not be surprised by strange results! (Though verify them!)
+
+\begin{notation}
+Given f(x), conjugate function is $f'(y) = \sup_{x \in dom(x)} (y^{T}x - f(x))$. Assume that y is not 0.
+
+\end{notation}
+
+\subsection{a max}
+$f'(y) = \sup_{x \in dom(x)} (y^{T}x - f(x)) = \infty$. This is a special case of part b below.
+
+\subsection{b Sum of top k values}
+Let $y_{(i)}$ denote entry of y corresponding to ith largest entry of x, $x_{[i]}$. $f'(y) = \sup_{x \in dom(x)} \sum_{i=1}^k (y_{(i)} - 1)x_{[i]} + \sum_{i=k+1}^n y_{(i)}x_{[i]} = \infty$, when $n > k$.
+
+\subsection{c Piecewise linear fn}
+$f'(y) = \sup_{x \in dom(x)} \min_i (y - a_i)x - b_i$. This will correspond to x which is either be unbounded if $y >a_n$, or a point where two linear pieces whose slopes are such that $a_i \leq y \leq a_{i+1}$ intersect.
+
+\subsection{d Powers}
+$f'(y) = \sup_{x \in dom(x)} yx - x^{p}$. To find the supremum, set the gradient to 0 to get: $y - px^{p-1} = 0$. This is indeed the maximum because the hessian happens to be $-px^{p-2} \leq 0$ for $p>1$. So, the maximizing x is $g(y) = (\frac{y}{p})^{\frac{1}{p-1}}$. So, $f'(y) = yg(y) - g(y)^{p}$.
+
+For $p<0$, $f'(y) = \infty$.
+
+\section{3.49 Log concavity}
+\subsection{a Logistic fn}
+$\log f(x) = x - \log (1+e^{x})$. We see that $D^{2}(\log f(x)) = -e^{3x}/(1+e^{x}) \leq 0$, so f(x) is log concave.
+
+\subsection{b Harmonic mean}
+From the slides, we know that $g(x) = x^{-1}$ is log concave. It is also decreasing. So, $\log g(x)$ is concave and decreasing. Consider $h:R^{n}_{++} \to R$: $h(x) = \sum x_i^{-1}$. This, being a sum of concave functions, is concave. Applying the rules of function composition, we have that $\log g(h(x))$ is concave. So, f(x) is log concave.
+
+
+\subsection{c Product over sum}
+From the slides, we know that $g(x) = x^{-1}$ is log concave. It is also decreasing. So, $\log g(x)$ is concave and decreasing. Consider $h:R^{n}_{++} \to R$: $h(x) = \sum x_i$ is also concave. So, $\log g(h(x)) = (\sum x_i)^{-1}$ is log concave. Also, functions $f_i(x) = x_i$ are all log concave. Product of log concave functions is log concave. So, $f(x) = \frac{\prod_i x_i}{\sum_i x_i}$ is also log concave.
+
+\subsection{d Determinant over trace}
+We use part c and claim that $g(\ew) =  \frac{\prod_i \ew_i}{\sum_i \ew_i}$ is log concave in $\ew$. So, $\log g(\ew)$ is concave and increasing (seen by taking the derivative and seeing its non-negativity). The eigenvalue function, $\ew(X)$ is convex.
+
+So, by composition rules, $f(X) = \frac{det(X)}{tr(X)} = g(\ew(X))$ is log concave.
+
+\section{3.51}
+Let p be a degree k polynomial on R, with all roots $\set{r_i}$ being real. So, $p(x) = \prod_{i=1}^{k} (x - r_i)$ and $\log p(x) = \sum_{i=1}^{k} \log (x - r_i)$. $\log (x - r_i)$ is a concave function (composition of concave fn with affine transformation). So, $\log p(x)$ is concave where it is +ve and x exceeds all $r_i$.
+
+
+% \bibliographystyle{plain}
+% \bibliography{../linAlg}
+
+\end{document}
