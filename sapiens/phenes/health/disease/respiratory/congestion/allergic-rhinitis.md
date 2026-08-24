@@ -5,8 +5,10 @@ title = "Allergic rhinitis"
 ## Night routine
 - wet wipe-down (not dry!) or shower. Change clothes.
 - run air purifier .5 hr before night sealing.
+- If you go to pee, in the middle of the night, wear a mask.
 - Target the nose. With antihistamine sprays, saline rinses. 
 - oral antihistamine (like fexofenadine or levocetirizine) taken a few hours before bed?
+
 
 ## Combination drugs
 ### Anti-histamine + Vasoconstrictor
