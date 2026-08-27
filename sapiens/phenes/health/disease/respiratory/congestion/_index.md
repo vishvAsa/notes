@@ -25,5 +25,5 @@ title = "Congestion"
 ### Combination drugs
 - salmeterol (broncho-dilator) + Fluticasone Propionate (a Gluco-corticoid anti-inflammatory)
   - Seroflo 250 inhaler
-  - Janaushadhi: Rotocap 148/30 Inhaler 250/100
+  - Janaushadhi 2020: Rotocap 148/30 Inhaler 250/100
 

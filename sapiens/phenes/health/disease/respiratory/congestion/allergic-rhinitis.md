@@ -6,8 +6,8 @@ title = "Allergic rhinitis"
 - wet wipe-down (not dry!) or shower. Change clothes.
 - run air purifier .5 hr before night sealing.
 - If you go to pee, in the middle of the night, wear a mask.
-- Target the nose. With antihistamine sprays, saline rinses. 
-- oral antihistamine (like fexofenadine or levocetirizine) taken a few hours before bed?
+- Target the nose. With corticosteroid sprays, saline rinses. 
+- Severe cases - oral antihistamine (like fexofenadine or levocetirizine) taken a few hours before bed?
 
 
 ## Combination drugs
@@ -25,7 +25,7 @@ title = "Allergic rhinitis"
 - Nasal oil application - medicated oil (Anu taila or Shadbindu Taila)
   or plain oil (Sesame or Coconut) or nasal application of cow's ghee (Goghrita) once or twice in a day, especially before going out and after coming back to home
 
-## Anti-histamines
+## Nasal spray
 Fluticasone nasal spray - a spray for each nostril once daily. Because it targets the underlying allergic inflammation rather than just temporarily constricting blood vessels, it takes a few days of continuous daily use to reach peak effectiveness. Using it only occasionally when you already feel stuffy will not give you the best results.
 
 Unlike over-the-counter decongestant nasal sprays (like oxymetazoline), which can cause "rebound congestion" if used for more than three days, fluticasone is an intranasal corticosteroid. 

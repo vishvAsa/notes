@@ -10,11 +10,11 @@ title = "Bronchodilator"
 - Theophylline	
 
 ### Long-acting 
-- salmeterol + Fluticasone Propionate (a Gluco-corticoid anti-inflammatory)
-  - Seroflo 250 inhaler
-- salmeterol
+- Formoterol - rapid - 1-3 min onset, 12hrs effectiveness.
+  
+- salmeterol (30-45 min onset, 12hrs effectiveness)
+  -  + Fluticasone Propionate (a Gluco-corticoid anti-inflammatory)- Seroflo 250 inhaler
 - Tiotropium
-- Formoterol
 
 ### Short-acting
 - Aka rescue inhalers.
