@@ -32,8 +32,7 @@ ascribable to the fear inspired by our father.
 
 ## EFFORTS FOR INCREASING BODILY STRENGTH
 But as our minds subsequently began to follow their own bent in regard to the object in view,
-we naturally neglected our studies and thus suffered in the estimation of our father. First we directed
-our efforts to the acquisition of bodily strength. We began to accustom ourselves to the jor and
+we naturally neglected our studies and thus suffered in the estimation of our father. First we directed our efforts to the acquisition of bodily strength. We began to accustom ourselves to the jor and
 baithak exercises. But these practices were brought to the notice of our father, who used to get very
 angry with us. On several occasions he even burnt our langots.+++(4)+++ Finding that our father disapproved
 of this matter we changed our mode of exercise by substituting prostrations in worship of the Sun for
