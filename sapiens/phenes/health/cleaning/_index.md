@@ -11,7 +11,10 @@ title = "+Cleaning"
 - soap nut powder generates lather. 38Rs/g in 2025
 - haritaki powder - 33Rs/g in 2026: [TW](https://www.amazon.in/gp/product/B019RV7H9O)
 - Baking soda + water is good. [TW](https://www.healthline.com/health/baking-soda-toothpaste) . Long term use can damage enamel.
-- salt occassionally - can permanently damage your tooth enamel.
+
+The below can permanently damage your tooth enamel. But occassional use may be ok. 
+
+- salt, wood ash, brick powder.
 
 ### Sticks
 - neem stick chewed in the end to make a brush.
