@@ -7,6 +7,7 @@ title: IME/ typing
   - Downloaded site [here](https://keyman.com/).
   - devanAgarI ITRANS-based vedic keyboard - [KM cloud](https://keyman.com/keyboards/itrans_devanagari_sanskrit_vedic).
     - web based version [here](https://sanskritdocuments.org/learning_tools/sanskritvedic.html).
+  - pre-vedic keyboard [here](../keyman_pre_vedic).
 - [medhA](https://github.com/lalitaalaalitah/medhA-keyboard_layout)
 
 ## Linux
@@ -17,7 +18,7 @@ title: IME/ typing
 
 #### Necessary packages
 - debian search [here](https://packages.debian.org/search?searchon=names&keywords=m17n).
-- Suggested ubuntu packages: ibus sanskrit iBus-m17n ibus-qt4 m17n-db m17n-contrib ttf-indic-fonts . See our [note here](https://sites.google.com/site/sanskritcode/optitrans).
+- Suggested ubuntu packages: ibus sanskrit iBus-m17n ibus-qt4 m17n-db m17n-contrib ttf-indic-fonts . See our [note here](../optitrans).
 
 #### Debugging / update tips
 
@@ -26,7 +27,7 @@ title: IME/ typing
 - Configure: m17n-im-config or [http://i.imgur.com/vtq0njh.png](http://i.imgur.com/vtq0njh.png)
 
 #### Optitrans
-- Linux ibus hindi/ sanskrit/ kannada users: For your typing convenience download and use - see [optitrans](optitrans.md).
+- Linux ibus hindi/ sanskrit/ kannada users: For your typing convenience download and use - see [optitrans](../optitrans).
 
 ## Windows
 

@@ -29,7 +29,7 @@ Examples: Type `saMskRta` for संस्कृत.
 ## Installation and use
 Install keyman on your computer. Then make it use the the below kmp file. (In Mac, you double click that file, or you can drag and drop the file onto the keyman settings window.)
 
-- [kmp](https://sanskrit-coders.github.io/input/keyman_pre_vedic/optitrans_devanagari_sanskrit_pre_vedic.kmp)
+- [kmp](optitrans_devanagari_sanskrit_pre_vedic.kmp)
 - [js](optitrans_devanagari_sanskrit_pre_vedic.js)
 
 ## Building
