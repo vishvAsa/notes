@@ -1,0 +1,436 @@
+[[data]]
+Entity = 'script'
+Operation = ''
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = 'mongo'
+Syntax = 'load()'
+Description = ''
+
+[[data]]
+Entity = 'table'
+Operation = 'list tables'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = 'mongo'
+Syntax = '''
+use <db>
+show collections'''
+Description = ''
+
+[[data]]
+Entity = 'table'
+Operation = 'dump'
+Feature = 'to json'
+Subfeature = ''
+Importance = ''
+Universality = 'mongo'
+Syntax = 'mongoexport -h vedavaapi.org:27017 -u ... -p ... --authenticationDatabase admin  -d vedavaapi_grammardb -c dhaatus -o scl_dhaatus.json --jsonArray'
+Description = ''
+
+[[data]]
+Entity = 'row'
+Operation = 'select'
+Feature = 'structure'
+Subfeature = ''
+Importance = ''
+Universality = 'mongo'
+Syntax = 'db.collection.find(conditionDict, projectionDict)'
+Description = ''
+
+[[data]]
+Entity = 'row'
+Operation = 'select'
+Feature = 'all'
+Subfeature = ''
+Importance = ''
+Universality = 'mongo'
+Syntax = 'db.book_portions.find()'
+Description = ''
+
+[[data]]
+Entity = 'row'
+Operation = 'select'
+Feature = 'scalar condition'
+Subfeature = 'equality'
+Importance = ''
+Universality = 'mongo, mango'
+Syntax = '''
+{ _id: 5 }
+{ _id: {$eq: 5} }'''
+Description = ''
+
+[[data]]
+Entity = 'row'
+Operation = 'select'
+Feature = 'scalar condition'
+Subfeature = 'order comparison'
+Importance = ''
+Universality = 'mongo, mango'
+Syntax = '''
+{ qty: { $gt: 4 } } 
+{ field: { $gt: value1, $lt: value2 } }'''
+Description = ''
+
+[[data]]
+Entity = 'row'
+Operation = 'select'
+Feature = 'scalar condition'
+Subfeature = 'containment'
+Importance = ''
+Universality = 'mongo, mango'
+Syntax = ' _id: { $in: [ 5,  ObjectId("507c35dd8fada716c89d0013") ] }'
+Description = ''
+
+[[data]]
+Entity = 'row'
+Operation = 'select'
+Feature = 'scalar condition'
+Subfeature = 'regex'
+Importance = ''
+Universality = 'mongo'
+Syntax = '{ <field>: /pattern/<options> }'
+Description = ''
+
+[[data]]
+Entity = 'row'
+Operation = 'select'
+Feature = 'subdoc condition'
+Subfeature = 'full equality'
+Importance = ''
+Universality = 'mongo'
+Syntax = '''
+name: {
+first: "Yukihiro",
+last: "Matsumoto"
+}'''
+Description = '''
+Would not match: {
+   first: "Yukihiro",
+   aka: "Matz",
+   last: "Matsumoto"
+}'''
+
+[[data]]
+Entity = 'row'
+Operation = 'select'
+Feature = 'subdoc condition'
+Subfeature = 'partial equality'
+Importance = ''
+Universality = 'mongo, mango'
+Syntax = '''
+{
+"name.first": "Yukihiro",
+"name.last": "Matsumoto"
+}'''
+Description = ''
+
+[[data]]
+Entity = 'row'
+Operation = 'select'
+Feature = 'vector condition'
+Subfeature = 'some element qualifies'
+Importance = ''
+Universality = 'mongo, mango'
+Syntax = '''
+{ score: { $gt: 0, $lt: 2 } } 
+{ pictures: { $gt: [] } }
+{ pictures: { $exists: true, $ne: [] } })
+{"targets" : {"$not" : {"$size" : 0}}}'''
+Description = ''
+
+[[data]]
+Entity = 'row'
+Operation = 'select'
+Feature = 'doc-vector condition'
+Subfeature = 'some element qualifies'
+Importance = ''
+Universality = 'mongo, mango'
+Syntax = '''
+awards: {
+{ <field>: { $elemMatch: { <query1>, <query2>, ... } } }
+}
+genre": {"$elemMatch": {"$eq": "Horror"} }'''
+Description = 'If you specify only a single <query> condition in the $elemMatch expression, you do not need to use $elemMatch.'
+
+[[data]]
+Entity = 'row'
+Operation = 'select'
+Feature = 'doc-vector condition'
+Subfeature = 'all elements'
+Importance = ''
+Universality = 'mongo, mango'
+Syntax = '{ <field>: { $allMatch: { <query1>, <query2>, ... } } }'
+Description = ''
+
+[[data]]
+Entity = 'row'
+Operation = 'select'
+Feature = 'compound condition'
+Subfeature = 'and'
+Importance = ''
+Universality = 'mongo, mango'
+Syntax = '''
+{"name": "Paul",
+"location": "Boston"}'''
+Description = ''
+
+[[data]]
+Entity = 'row'
+Operation = 'select'
+Feature = 'compound condition'
+Subfeature = 'or '
+Importance = ''
+Universality = 'mongo, mango'
+Syntax = '''
+{$or: [
+{expires: {$gte: new Date()}}, 
+{expires: null
+}]}
+'''
+Description = ''
+
+[[data]]
+Entity = 'field'
+Operation = 'select'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = 'mongo'
+Syntax = '''
+db.products.find( { qty: { $gt: 25 } }, { item: 1, qty: 1 } )
+db.bios.find(
+   { contribs: 'OOP' },
+   { 'name.first': 0, birth: 0 }
+)'''
+Description = 'Includes _id by default'
+
+[[data]]
+Entity = 'index'
+Operation = ''
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = 'mongodb'
+Syntax = '''
+{ 
+    "someFld.subField" : 1,
+    "otherFld" : -1
+}'''
+Description = 'ascending index on a field, specify a value of 1; for descending index, specify a value of -1.'
+
+[[data]]
+Entity = 'index'
+Operation = 'doc array subfield'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = 'mongodb'
+Syntax = '''
+{    "someArrayField.subField" : 1}
+{    "someArrayField.subField.arrayField2" : 1}'''
+Description = '''
+Caveat: No cross product! Can't index two or more array fields with the same index.
+If query condition spans multiple indexed fields, Only 1 index is used in the "input stage".'''
+
+[[data]]
+Entity = 'index'
+Operation = 'text'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = 'mongodb'
+Syntax = '''
+db.reviews.createIndex(
+{subject: "text", comments: "text"})
+db.collection.createIndex( { "$**": "text" } )'''
+Description = '''
+Text index: values are split using sensible delimiters, stored to ignore diacritics, case etc.. Index language can be seprately set.
+A collection can have at most one text index.
+'''
+
+[[data]]
+Entity = 'database'
+Operation = ''
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = 'mongodb'
+Syntax = ''
+Description = 'mongoserver -> databases -> collections (group of documents)'
+
+[[data]]
+Entity = 'database'
+Operation = 'admin databases'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = 'mongo'
+Syntax = 'admin'
+Description = ''
+
+[[data]]
+Entity = 'database'
+Operation = 'list'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = 'mongo'
+Syntax = 'show dbs'
+Description = ''
+
+[[data]]
+Entity = 'database'
+Operation = 'use'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = 'mongo'
+Syntax = 'use <db>'
+Description = ''
+
+[[data]]
+Entity = 'database'
+Operation = 'permissions'
+Feature = 'list users'
+Subfeature = ''
+Importance = ''
+Universality = 'mongo'
+Syntax = 'db.getUsers()'
+Description = ''
+
+[[data]]
+Entity = 'database'
+Operation = 'permissions'
+Feature = 'add user'
+Subfeature = ''
+Importance = ''
+Universality = 'mongo'
+Syntax = '''
+use someDB
+db.createUser(
+  {
+    user: "myTester",
+    pwd: "xyz123",
+    roles: [ { role: "readWrite", db: "test" },
+             { role: "read", db: "reporting" } ]
+  }
+)'''
+Description = '''
+roles: read, readWrite, dbOwner, dbAdmin, userAdmin
+admin db roles: readAnyDatabase, readWriteAnyDatabase, userAdminAnyDatabase, dbAdminAnyDatabase, root
+'''
+
+[[data]]
+Entity = 'database'
+Operation = 'permissions'
+Feature = 'drop user'
+Subfeature = ''
+Importance = ''
+Universality = 'mongo'
+Syntax = '''
+use someDB
+db.dropUser("textractUser")'''
+Description = ''
+
+[[data]]
+Entity = 'db server'
+Operation = 'config'
+Feature = 'file'
+Subfeature = ''
+Importance = ''
+Universality = 'mongo'
+Syntax = '''
+/etc/mongod.conf in v 3.4
+/etc/mongodb.conf '''
+Description = 'Includes db path.'
+
+[[data]]
+Entity = 'db server'
+Operation = 'config'
+Feature = 'connect from anywhere'
+Subfeature = ''
+Importance = ''
+Universality = 'mongo'
+Syntax = 'bind_ip = 0.0.0.0'
+Description = ''
+
+[[data]]
+Entity = 'db server'
+Operation = 'config'
+Feature = 'security'
+Subfeature = 'role based restriction'
+Importance = ''
+Universality = 'mongo'
+Syntax = '''
+security:
+  authorization: enabled
+'''
+Description = ''
+
+[[data]]
+Entity = 'db server'
+Operation = 'permissions'
+Feature = ''
+Subfeature = ''
+Importance = ''
+Universality = 'mongo'
+Syntax = '''
+use admin
+db.createUser(
+  {
+    user: "vvasuki",
+    pwd: "abc123",
+    roles: [ { role: "root", db: "admin" } ]
+  }
+)'''
+Description = '''
+add user to admin database with appropriate role.
+see database -> permissions for details'''
+
+[[data]]
+Entity = 'db server'
+Operation = 'permissions'
+Feature = 'authenticate'
+Subfeature = ''
+Importance = ''
+Universality = 'mongo'
+Syntax = '''
+use admin
+db.auth("myUserAdmin", "abc123" )
+'''
+Description = 'Must specify auth database - admin or something else.'
+
+[[data]]
+Entity = 'db server'
+Operation = 'permissions'
+Feature = 'authenticate'
+Subfeature = ''
+Importance = ''
+Universality = 'mongo'
+Syntax = '''
+mongo --port 27017 -u "myUserAdmin" -p "abc123" --authenticationDatabase "admin"
+'''
+Description = ''
+
+[[data]]
+Entity = 'db client'
+Operation = ''
+Feature = 'gui'
+Subfeature = 'intellij'
+Importance = ''
+Universality = 'mongo'
+Syntax = ''
+Description = '''There's a good plugin.'''
+
+[[data]]
+Entity = 'db client'
+Operation = ''
+Feature = 'gui'
+Subfeature = 'robo studio 3t'
+Importance = ''
+Universality = 'mongo'
+Syntax = ''
+Description = ''

@@ -1,0 +1,223 @@
+\documentclass[10pt]{amsart}
+\usepackage{amssymb, algorithm2e}
+
+\input{../../macros}
+
+\input{../../amsartMacros}
+
+%opening
+\title{Computational Learning Theory: Answers to Homework 3}
+\author{vishvAs vAsuki}
+
+\begin{document}
+
+\maketitle
+
+\begin{rem}
+ Thank you for the wonderful assignment. The solution to the first two parts of problem 4 were especially pleasing.
+\end{rem}
+
+\section{}
+\begin{thm}
+C is efficiently PAC learnable. Then, there is an efficient algorithm A such that: given a sample of size m labelled according to $c \in C$, A, with probability 1-d finds a hypothesis h that is consistent with all the m points and has size poly(n, size(c), log(m)).
+\end{thm}
+\begin{proof}
+Proof by construction.
+
+As C is efficiently PAC learnable, there exists an efficient algorithm L which can PAC learn C. So, given error parameter $\eps = 0.25$ and confidence parameter $d'$; L is capable of producing, with probability $1-d'$, a hypothesis h with $error(h) \leq \eps$. The advantage of h over random guessing is $g = 0.5 - error(h) \geq 0.5 - \eps$.
+
+Given a sample S and confidence parameter d, the algorithm A uses ADAboost algorithm to repeatedly invoke algorithm L and produce a hypothesis consistent with S.
+
+During this process, A always uses L to get a hypothesis h with $error(h) \leq \eps = 0.25$ with confidence $1-d'$, where $d'$ will be specified later. Note that the specified $\eps$ determines g.
+
+After $\frac{\ln m}{2 g^{2}}$ steps, A produces a hypothesis h of size $|h| = O(\frac{\ln m}{2 g^{2}})|c|$ which is consistent with S. (This follows from the analysis of Adaboost done in class.)
+
+Now we find out what $d'$ must be in order for A to succeed with probability 1-d. A can fail only when one or more of the $\frac{\ln m}{2 g^{2}}$ invocations of L fail to produce an $\eps$ close hypothesis. From the union bound, this happens with probability $\frac{\ln m}{2 g^{2}} d'$. Thus, when $d' = \frac{2d g^{2}}{\ln m}$, A succeds with probability 1-d.
+
+\end{proof}
+
+\section{}
+\begin{rem}
+f and h are $\set{\pm 1}$ boolean functions.
+\end{rem}
+
+\subsection{a}
+\begin{thm}
+For any distribution D, h is a weak hypothesis for f with advantage g if and only if $E_{x \distr D}[h(x)f(x)]\geq 2g$.
+\end{thm}
+\begin{proof}
+\begin{eqnarray*}
+E_{x \distr D}[h(x)f(x)] &=& Pr_{x\distr D}[h(x)f(x)= 1] - Pr_{x\distr D}[h(x)f(x)= -1]\\
+&=& 1-2Pr_{x\distr D}[h(x)f(x)= -1]\\
+\end{eqnarray*}
+
+
+h is a weak hypothesis for f if and only if $Pr_{x\distr D}[h(x)f(x)= -1] \leq 2^{-1}+g$; which happens if and only if $1-2Pr_{x\distr D}[h(x)f(x)= -1] \geq 2g$; which happens if and only if $E_{x \distr D}[h(x)f(x)]\geq 2g$.
+\end{proof}
+
+\subsection{b}
+\begin{thm}
+f is an LTF. $f=sgn(w.x)$; $w\in Z^{n}$; $W = \sum |w_{i}|$. Assume: $\forall x, \dprod{w,x} \neq 0$. For any distribution D, there exists an $x_{i}$ such that $|E_{x\distr D}[f(x)x_{i}]|\geq W^{-1}$.
+\end{thm}
+\begin{proof}
+Assumption: $w_{i} \neq 0$. This assumption can be removed by not considering any $x_{i}$ corresponding to $w_{i} = 0$.
+
+Now, we will see that an absurd thing will happen if we suppose that $\forall i : |E_{x\distr D}[f(x)x_{i}]| < W^{-1}$.
+
+Then:
+\begin{eqnarray*}
+W^{-1} &>& |E_{x\distr D}[f(x)x_{i}]|\\
+|w_{i}|W^{-1} &>& |w_{i}||E_{x\distr D}[f(x)x_{i}]|\\
+&\geq& w_{i}E_{x\distr D}[f(x)x_{i}]\\
+&=& E_{x\distr D}[f(x)w_{i}x_{i}]\\
+\therefore \sum_{i}|w_{i}|W^{-1} &>& \sum_{i}E_{x\distr D}[f(x)w_{i}x_{i}]\\
+1 &>& E_{x\distr D}[f(x)\sum_{i}w_{i}x_{i}]\\
+\end{eqnarray*}
+
+$|\dprod{w,x}|\geq 1$ due to $w_{i}$ being non zero integers, and due to the fact that \\
+$\forall x, \dprod{w,x} \neq 0$.
+
+So, $E_{x\distr D}[f(x)\sum_{i}w_{i}x_{i}] \geq 1$ as $\dprod{w,x}$ and f(x) always agree on sign. Thus we have reached an absurdity.
+\end{proof}
+
+\subsection{c}
+\begin{question}
+What is the weak learner?
+\end{question}
+\begin{answer}
+Let WL be the weak learner. We have shown earlier that \\
+$|E_{x\distr D}[f(x)x_{i}]|\geq W^{-1}$. So, for each of the n bits, WL finds the bit \\
+$argmax_{i} |E_{x\distr D}[f(x)x_{i}]|$. If $\max_{i} E_{x\distr D}[f(x)x_{i}] > 0$, it uses the corresponding bit $x_{i}$ as its weak hypothesis h; otherwise it uses $-x_{i}$.
+
+Note that h has advantage $(2W)^{-1}$. Also, using the Hoeffding ineuqality, for any i, $E_{x\distr D}[f(x)x_{i}] = Pr_{x \distr D}[f(x)x_{i} = 1] - Pr_{x \distr D}[f(x)x_{i} = -1]$ can be estimated whp to arbitrarily high accuracy by taking a sufficiently large polynomial sized sample.
+\end{answer}
+
+\begin{question}
+How do we apply a boosting algorithm?
+\end{question}
+\begin{answer}
+We take WL as a black box, and simply apply any convinient boosting algorithm. Eg: ADABoost.
+\end{answer}
+
+\begin{question}
+What is the output hypothesis?
+\end{question}
+\begin{answer}
+If ADABoost is used for boosting, the output hypothesis reduces to a halfspace; as all the hypotheses the weak learner returns are of the form $\pm x_{i}$!
+\end{answer}
+
+\begin{question}
+For what values of W do we get a polynomial time algorithm?
+\end{question}
+\begin{answer}
+The individual hypotheses produced by WL are guaranteed to have an advantage of $(2W)^{-1}$. So, boosting makes sense only when W is sub exponential. Also, when ADA boost is used, the number of iterations required is polynomial in W. So, for values of W which are polynomial, we get a polynomial time algorithm.
+\end{answer}
+
+
+\section{}
+\begin{notation}
+$p_{S}$ denotes the parity function $\chi_{S}$.
+\end{notation}
+
+
+\begin{thm}
+$\sum_{|S|\geq d} \hat{f}(S)^{2} \leq \eps$. $Pr_{x}(g(x)\neq f(x)) = \eta$. Then, $E[(g(x)-\sum_{|S|<d}\hat{g}(S)p_{S}(x))^{2}] \leq E[(g(x)-\sum_{|S|<d}\hat{f}(S)p_{S}(x))^{2}]$.
+\end{thm}
+\begin{proof}
+Using the Fourier expansion of f and g, we see the following:
+
+\begin{eqnarray*}
+E[(g(x)-\sum_{|S|<d}\hat{g}(S)p_{S}(x))^{2}] &=& \norm{\sum_{|S|\geq d}\hat{g}(S)p_{S}(x))}^{2}\\
+&=& \sum_{|S|\geq d} \hat{g}(S)^{2}\\
+\end{eqnarray*}
+
+
+\begin{eqnarray*}
+E[(g(x)-\sum_{|S|<d}\hat{f}(S)p_{S}(x))^{2}] &=& \norm{\sum_{|S|\geq d}\hat{g}(S)p_{S}(x))+ \sum_{|S|<d}(\hat{g}(S)-\hat{f}(S))p_{S}(x)}^{2}\\
+&=& \sum_{|S|\geq d} \hat{g}(S)^{2} + \norm{\sum_{|S|<d}(\hat{g}(S)-\hat{f}(S))p_{S}(x)}^{2}\\
+\end{eqnarray*}
+
+Thence the result.
+\end{proof}
+
+\begin{cor}
+$\sum_{|S|\geq d} \hat{g}(S)^{2} \leq O(\eta + \eps)$.
+\end{cor}
+\begin{defn}
+$f_{<d} = \sum_{|S|<d}\hat{f}(S)p_{S}(x)$. $f_{\geq d} = \sum_{|S| \geq d}\hat{f}(S)p_{S}(x)$.
+\end{defn}
+\begin{proof}
+
+Note that:
+\begin{eqnarray*}
+\norm{g-f}^{2} &=& E_{x}[(g(x)-f(x))^{2}]\\
+&=& 4Pr_{x}(f(x) \neq g(x))\\
+&=& 4\eta \\
+\end{eqnarray*}
+
+
+Using the theorem proved earlier:
+\begin{eqnarray*}
+\sum_{|S|\geq d} \hat{g}(S)^{2} &\leq& \norm{g - f_{<d}}^{2}\\
+&=& \norm{g - f + f_{\geq d}}^{2}\\
+&=& \norm{g - f}^{2} + \norm{f_{\geq d}}^{2} + 2\dprod{f_{\geq d}, g-f}\\
+&\leq& \norm{g - f}^{2} + \norm{f_{\geq d}}^{2} + 2\norm{g - f}\norm{f_{\geq d}}\\
+&\leq& 4\eta + \eps + 4\sqrt{\eta\eps}\\
+&\leq& 4\eta + \eps + 4 \max (\eta, \eps)\\
+&=& O(\eta + \eps)\\
+\end{eqnarray*}
+\end{proof}
+
+
+\section{}
+\begin{thm}
+f is a monotone boolean function. Flipping a bit $x_{i}$ from 1 to -1 cannot cause f(x) to flip from -1 to 1. Then, $I_{i}(f) = \hat{f}(\set{x_{i}})$.
+\end{thm}
+\begin{proof}
+Let $x' \in \set{1,-1}^{n-1}$ be a variable corresponding to parts of the string x without $x_{i}$. Let $g(x_{i}, x') = f(x)$ for all values of $x_{i}$ and $x'$.
+
+Note that, for any $x'$, $g(-1,x') = 1 \et g(1,x') = -1$ can never happen as g and f are montonic. So, the only way $g(-1,x') = -g(1,x')$ can happen is when $g(-1,x') = -1 \et g(1,x') = 1$. Also, for this reason, $E_{x'}[g(1,x') - g(-1,x')] = 2 Pr_{x'}(g(1,x') = 1 \et g(-1,x') = -1 ) $.
+
+So,
+\begin{eqnarray*}
+I_{i}(f) &=& Pr_{x}[f(x) \neq f(x^{(i)})]\\
+&=& Pr_{x'}[g(1,x') \neq g(-1,x')]\\
+&=& Pr_{x'}(g(1,x') = 1 \et g(-1,x') = -1 )\\
+&=& 2^{-1}E_{x'}[g(1,x') - g(-1,x')]\\
+&=& 2^{-1}(E_{x'}[g(1,x')] - E_{x'}[g(-1,x')])\\
+\end{eqnarray*}
+
+
+But,
+\begin{eqnarray*}
+\hat{f}(\set{i}) &=& E_{x}[f(x)x_{i}]\\
+&=& Pr_{x}(x_{i}=1)E_{x}[f(x)|x_{i}=1] - Pr_{x}(x_{i}=-1)E_{x}[f(x)|x_{i}=-1]\\
+&=& 2^{-1}(E_{x'}[g(1,x')] - E_{x'}[g(-1,x')])\\
+&=& I_{i}(f)\\
+\end{eqnarray*}
+
+\end{proof}
+
+\begin{cor}
+The sum of influences of any monotone function is at most $\sqrt{n}$.
+\end{cor}
+\begin{proof}
+This follows from the inequality between 1-norm and 2-norm.
+
+$\sum_{i}I_{i}(f) = \sum_{i} \hat{f}(\set{i}) \leq \sqrt{n}\sum_{i} (\hat{f}(\set{i})^{2})^{1/2} \leq \sqrt{n}$.
+\end{proof}
+
+\begin{cor}
+Sum of influences of the majority function is $\approx n(\frac{2}{(n-1)\pi})^{0.5}$.
+\end{cor}
+\begin{proof}
+Consider the influence of a single variable. Flipping a single variable can make a difference only when there is a tie between the votes of the remaining variables. This can happen with probability $2^{-(n-1)}\frac{(n-1)!}{(\frac{n-1}{2})!(\frac{n-1}{2})!}$. Using Stirling's approximation and multiplying by n; we get the above mentioned estimate.
+
+\end{proof}
+
+
+% \bibliographystyle{plain}
+% \bibliography{../colt}
+
+
+\end{document}

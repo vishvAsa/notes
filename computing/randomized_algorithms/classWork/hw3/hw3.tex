@@ -1,0 +1,384 @@
+\documentclass[10pt]{article}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+%opening
+\title{CS388R: Answer to Homework 3}
+\author{vishvAs vAsuki}
+
+\begin{document}
+
+\maketitle
+
+\section{Question}
+Exercise 4.15: Let X1, ..., Xn be independent random variables such that
+$Pr(X_{i}=1-p_{i})=p_{i}$ and $Pr(X_{i}=-p_{i})=1-p_{i}$.
+
+Let $X=\sum_{i=1}^{n}X_{i}$. Prove $Pr(|X|\geq a) \leq 2e^{-2a^{2}/n}$.
+
+Hint: You may need to assume the inequality
+$p_{i}e^{l(1-p_{i})}+(1-p_{i})e^{-lp_{i}} \leq e^{l^{2}/8}$.
+
+This inequality is difficult to prove directly.
+
+\subsection{Solution}
+
+\begin{eqnarray}
+E[e^{tX}] &=& E[e^{t\sum_{i=1}^{n}X_{i}}]\\
+ &=& E[\prod_{i=1}^{n} e^{t_{i=1}^{n}X_{i}}]\\
+&& \text{As all variables are independent,}\\
+ &=& \prod_{i=1}^{n} E[e^{tX_{i}}]\\
+E[e^{tX_{i}}] &=& p_{i}e^{t(1-p_{i})} + (1-p_{i})e^{tp_{i}}\\
+ &=& p_{i}e^{t(1-p_{i})} + e^{tp_{i}} -p_{i}e^{-tp_{i}}\\
+ &\leq& e^{t^{2}/8}\\
+E[e^{tX}] &\leq& \prod_{i=1}^{n} e^{t^{2}/8}\\
+E[e^{tX}] &\leq& e^{nt^{2}/8}\\
+\end{eqnarray}
+\begin{eqnarray}
+&& \text{If t=4a/n, or if t=-4a/n:}\\
+E[e^{tX}] &\leq& e^{n16a^{2}/(8n^{2})}\\
+E[e^{tX}] &\leq& e^{2a^{2}/n}\\
+&& \text{Using Chernoff bound with +ve t:}\\
+Pr(X \geq a) &=& Pr(e^{Xt} \geq e^{ta}) \leq E[e^{tX}]/e^{ta}\\
+&& \text{If t=4a/n:}\\
+Pr(X \geq a) &\leq& e^{2a^{2}/n}/e^{4a^{2}/n}\\
+Pr(X \geq a) &\leq& e^{-2a^{2}/n}\\
+&& \text{Using Chernoff bound with -ve t:}\\
+Pr(X \leq -a) = Pr(e^{Xt} \geq e^{ta}) &\leq& E[e^{tX}]/e^{-ta}\\
+&& \text{If t=-4a/n:}\\
+Pr(X \leq -a) &\leq& e^{2a^{2}/n}/e^{4a^{2}/n}\\
+Pr(X \leq -a) &\leq& e^{-2a^{2}/n}\\
+So: Pr(|X| \geq a) &=& Pr(X \geq a)+Pr(X \leq -a)\\
+\therefore &\leq& 2e^{-2a^{2}/n}\\
+\end{eqnarray}
+
+
+\section{Question}
+Exercise 4.20: We prove that the Randomized Quicksort algorithm sorts a set of n numbers in time O(n log n) with high probability. Consider the following view of Randomized Quicksort. Every point in the algorithm where it decides on a pivot element is called a node. Suppose the size of the set to be sorted at a particular node is s. The node is called good if the pivot element divides the set into two parts, each of size not exceeding 2s/3. Otherwise the node is called bad. The nodes can be thought of as forming a tree in which the root node has the whole set to be sorted and its children have the two sets formed after the first pivot step and so on.
+
+   \subsubsection{1.} Show that the number of good nodes in any path from the root to a leaf in this tree is not greater than c log2 n, where c is some positive constant.
+   \subsubsection{2.} Show that, with high probability (greater than $1-1/n^{2}$), the number of nodes in a given root to leaf path of the tree is not greater than c' log2 n, where c' is another constant.
+   \subsubsection{3.} Show that, with high probability (greater than 1-1/n), the number of nodes in the longest root to leaf path is not greater than c' log2 n. (Hint: How many nodes are there in the tree?)
+   \subsubsection{4.} Use your answers to show that the running time of Quicksort is O(n log n) with probability at least 1-1/n.
+
+\subsection{Solution}
+
+\subsubsection{1.}
+
+With every node along a path, the size of the set to be sorted, and the size of the set, and the maximum number of future nodes possible, can only decrease. Hence, in order to arrive at the maximum number of good nodes, we will consider the case where all the nodes in a path are good.
+
+Suppose that, after a certain node, the size of the set is s. In the next node, if the node is good, we are left with at most (2/3)s. As, at the root node the size of the set is n, the size of the set at the mth node along the path from the root to a leaf is $(2/3)^{m}n$.
+
+At any leaf of the quicksort tree, the size of the set to be sorted is 1. Hence, the maximum number of good nodes possible is m, which solves the equation: $(2/3)^{m}n=1$.
+
+\begin{eqnarray}
+(2/3)^{m}n &=& 1\\
+n &=& (3/2)^{m}\\
+log_{1.5}n &=& m\\
+log_{1.5}2 log_{2}n &=& m\\
+\end{eqnarray}
+
+So, the number of good nodes in any path from the root to a leaf in this tree is not greater than c log2 n.
+
+\subsubsection{2.}
+
+We want to show that, with high probability (greater than $1-1/n^{2}$), the number of nodes in a given root to leaf path of the tree is not greater than c' log2 n, where c' is another constant.
+
+We claim that the number of nodes, for any path, is at most c' log2 n with high probability, where $c' > c = log_{1.5}2$. First we prove a lemma.
+
+\textbf{Lemma}: For any path with greater than c' log2 n nodes, the probability that such a path exists, which is equal to the probability of not having c log2 n good nodes, is less than $1/n^{2}$, for some constant c'.
+
+\textbf{Proof}: From the definition of good nodes, it follows that in any given set of size s, the probability of choosing a good node is 1/3. Also, the probability of not choosing a 
+good node is 2/3. Let the random variable Y represent the number of nodes in a path. The probability that a path with c' log2 n nodes exists is at most the probability that fewer than c log2 n good nodes exist in that path. (This follows from the answer to the previous subquestion.) This probability is equal to the probability of choosing at most c log2 n successes from the binomial distribution bin(c' log2 n, 1/3) of a random variable X. So, $Pr(Y = c' log2 n) \leq Pr(X<c log2 n)$.
+
+So, we now find $Pr(X<c log2 n)$. X, being binomial, is a sum of bernoulli random variables. So, $\mu=E[X]=\frac{c'log_{2} n}{3}$. So, we want to find $Pr(X_{Y = c' log2 n}<c log2 n) = Pr(X<\frac{c'log_{2} n}{3}(1-\frac{c'-c}{c'}))$ We have the following result for such a variable from \cite{mitzenmacherUpfal}: $Pr(X \leq (1-d)\mu) < \frac{e^{-d\mu}}{(1-d)^{(1-d)\mu}}$. With, $d=\frac{c'-c}{c'}$, we get the following:
+
+\begin{eqnarray}
+Pr(X<c log2 n) &<& \frac{e^{-\frac{c'-c}{c'}\frac{c'log_{2} n}{3}}}{(\frac{c}{c'})^{(\frac{c}{c'})\frac{c'log_{2} n}{3}}}\\
+&& \text{Let c'=kc}\\
+&=& \frac{e^{-\frac{k-1}{k}\frac{kclog_{2} n}{3}}}{(\frac{1}{k})^{\frac{1}{k}\frac{kclog_{2} n}{3}}}\\
+&=& \frac{e^{-\frac{k-1}{k}\frac{kclog_{2} n}{3}}}{(e)^{(-lnk)\frac{clog_{2} n}{3}}}\\
+&=& e^{-\frac{k-1}{k}\frac{kclog_{2} n}{3}+lnk\frac{clog_{2} n}{3}}\\
+&=& 2^{-(log_{2}n) (log_{2}e) \frac{c}{3}(k-1-lnk)}\\
+&=& n^{-(log_{2}e) \frac{c}{3}((k-1-lnk)}\\
+&& \text{But, k can be arbitrarily chosen such that:}\\
+3 &<& (log_{2}e) \frac{c}{3}((k-1-lnk)\\
+&& \text{So, for some c':}\\
+Pr(X<c log2 n) &<& 1/n^{3}\\
+\end{eqnarray}
+
+It then follows that the probability that a path of length c' log2 n nodes exists is less than $1/n^{3}$.
+
+\textbf{Proof of the final result:}
+We have shown that the probability that a path of length c' log2 n nodes exists is less than $1/n^{3}$. By union bound, the probability that a path of length greater than c' log2 n nodes exists $\leq (n-1-c' log2 n)1/n^{3} < 1/n^{2}$. Hence, the probability that any given path has at most c' log2 n nodes is atleast $1-1/n^{2}$.
+
+\subsubsection{3.} 
+
+We want to show that, with high probability (greater than 1-1/n), the number of nodes in the longest root to leaf path is not greater than c' log2 n.
+
+The number of leaves in the tree is exactly n. Thus, there are exactly n distinct root to leaf paths in the tree. In our answer to the previous subquestion, we showed that the probability that any given path has at greater than c' log2 n nodes is less than $1/n^{2}$. Hence, applying the union bound, we conclude that the probability that any of path in the tree being greater than c' log2 n nodes is less than $n*1/n^{2}=1/n$.
+
+Hence, with high probability (greater than 1-1/n), the number of nodes in the longest root to leaf path is not greater than c' log2 n.
+
+\subsubsection{4.}
+
+We want to show that the running time of Quicksort is O(n log n) with probability at least 1-1/n. To do this, we show that the number of comparisons is O(n log n) with probability at least 1-1/n.
+
+We also showed in the answer to the previous subquestion that with high probability (greater than 1-1/n), the number of nodes in the longest root to leaf path is not greater than c' log2 n. That means that with probability atleast 1-1/n, the maximum depth of the tree is c' log2 n. But, we know that at any depth d, the maximum number of comparisons is n. Hence, the maximum number of comparisons done with a tree of depth c' log2 n is nc' log2 n.
+
+Hence, with high probability (greater than 1-1/n), the running time of randomized quicksort is O(n log n).
+
+\section{Question}
+Exercise 4.22: Consider the following modification to the bit-fixing routing algorithm for routing a permutation on the n-cube. Suppose that, instead of fixing the bits in order from 1 to n, each packet chooses a random order (independent of other packets' choices) and fixes the bits in that order. Show that there is a permutation for which this algorithm requires $2^{\Omega(n)}$ steps with high probability.
+
+\subsection{Solution}
+
+\textbf{Acknowledgement:} In solving this problem, discussions with Varadharajan Ponnappan were helpful.
+
+Suppose that n is even. Consider the transpose permutation routing problem, which is defined as follows: Every node $a*2^{n/2}+b$ sends a packet to $b*2^{n/2}+a$. Note that the first n/2 bits of the source address is equal to the last n/2 bits of the destination address. In this permutation routing problem, consider all packets which originate in the nodes with addresses of the form $a*2^{n/2}+0$. The destination of these packets are nodes with the addresses of the form $0*2^{n/2}+a$.
+
+Let us consider the probability that such a packet passes through the node with the address 0 to node with the address $1*2^{\frac{n}{2}-1}$. Consider a packet originates in $a_{i}*2^{n/2}+0$, such that its first bit from the left is 1. Suppose that the number of 1's in the binary representation of $a_{i}$, excluding the first bit, be k. Now, for this packet to get to its destination, 2k+2 bits need to be inverted. This packet passes through indicated edge iff the following two conditions are met: 1- among these 2k+2 bits, exactly the first k+1 bits are flipped (in any order), and 2- Among the k+1 bits remaining after this, the first bit is flipped. Thus, the probability of this happening is $\frac{1}{\binom{2k+2}{k+1}}\frac{1}{k+1}$. Let us define an indicator random variable, $X_{k,i}$ for this event. Hence, $Pr(X_{k,i}=1)=E[X_{k,i}]=\frac{1}{\binom{2k+2}{k+1}}\frac{1}{k+1}$.
+
+Now, consider the event where any packet whose with source address of the form $a*2^{n/2}0$, whose first bit is 1, and where a's binary representation contains k 1's, excluding the first bit. Let us define an indicator random variable, $X_{k}$ for this event. There are $\binom{\frac{n}{2}-1}{k}$ packets which fit this description. So, $X_{k}=\sum_{i=0}^{\binom{\frac{n}{2}-1}{k}} X_{k,i}$. Hence, by linearity of expectations, $E[X_{k}]= \sum_{i=0}^{\binom{\frac{n}{2}-1}{k}} E[X_{k,i}] \geq \frac{\binom{\frac{n}{2}-1}{k}}{\binom{2k+2}{k+1}}\frac{1}{k+1}$. But, we know this equals: $\frac{\frac{n}{2}-1}{2k+2}\frac{\frac{n}{2} - 2}{2k+1} .. \frac{\frac{n}{2}-k+1}{k+3}\frac{1}{k+2} \geq (\frac{\frac{n}{2}-1}{2k+2})^{k}\frac{1}{k+2} =(\frac{n-2}{4k+4})^{k}\frac{1}{k+2}$.
+
+Now, consider the case where $k=\frac{n-10}{8}$. $E[X_{\frac{n-10}{8}}] \geq  2^{\frac{n-10}{8}}\frac{8}{n+6}$\\
+$=2^{\frac{n-10}{8}+3-log(n-10)}$.
+
+Now, we consider the probability: $Pr(X_{\frac{n-10}{8}}\leq (1-d)\mu) \leq e^{-\mu d^{2}/2} \leq e^{-2^{\frac{n-10}{8}+3-log(n-10)} d^{2}/2}$. \cite{mitzenmacherUpfal} Let d=.5. In this case, we would get: $Pr(X_{\frac{n-10}{8}}\leq (1-d)\mu) \leq e^{-2^{\frac{n-10}{8}+3-log(n-10)} .25/2}$.
+
+Hence, with very high probability $=2^{\frac{n-10}{8}+3-log(n-10)}$ packets pass through edge between the node with the address 0 to node with the address $1*2^{\frac{n}{2}-1}$. Hence, the time required for this permutation to be routed by random-bit-fixing algorithm is atleast $2^{\Omega(n)}$ with very high probability.
+
+\section{Question}
+Exercise 4.25: In this exercise, we design a randomized algorithm for the following packet routing problem. We are given a network that is an undirected connected graph G, where nodes represent processors and the edges between the nodes represent wires. We are also given a set of N packets to route. For each packet we are given a source node, a destination node, and the exact route (path in the graph) that the packet should take from the source to its destination. (We may assume that there are no loops in the path.) In each time step, at most one packet can traverse an edge. A packet can wait at any node during any time step, and we assume unbounded queue sizes at each node.
+
+A schedule for a set of packets specifies the timing for the movement of packets along their respective routes. That is, it specifies which packet should move and which should wait at each time step. Our goal is to produce a schedule for the packets that tries to minimize the total time and the maximum queue size needed to route all the packets to their destinations.
+
+\subsubsection{1.}
+The dilation d is the maximum distance traveled by any packet. The congestion c is the maximum number of packets that must traverse a single edge during the entire course of the routing. Argue that the time required for any schedule should be at least $\Omega(c+d)$.
+
+\subsubsection{2.}
+Consider the following unconstrained schedule, where many packets may traverse an edge during a single time step. Assign each packet an integral delay chosen randomly, independently, and uniformly from the interval $[1, \lceil \alpha c/log(Nd)\rceil]$, where $\alpha$ is a constant. A packet that is assigned a delay of x waits in its source node for x time steps; then it moves on to its final destination through its specified route without ever stopping. Give an upper bound on the probability that more than O(log(Nd)) packets use a particular edge e at a particular time step t.
+
+\subsubsection{3.}
+Again using the unconstrained schedule of part (b), show that the probability that more than O(log(Nd)) packets pass through any edge at any time step is at most 1/(Nd) for a sufficiently large $\alpha$.
+
+\subsubsection{4.}
+Use the unconstrained schedule to devise a simple randomized algorithm that, with high probability, produces a schedule of length O(c+d log(Nd)) using queues of size O(log(Nd)) and following the constraint that at most one packet crosses an edge per time step.
+
+
+\subsection{Solution}
+
+\subsubsection{1.}
+We want to argue that the time required for any schedule should be at least $\Omega(c+d)$. The dilation d is the maximum distance traveled by any packet. The congestion c is the maximum number of packets that must traverse a single edge during the entire course of the routing. Note that a schedule is defined as follows: 'A schedule for a set of packets specifies the timing for the movement of packets along their respective routes.'
+
+Consider the packet which needs to travel distance d. For the schedule to route this packet, the schedule requires $\Omega(d)$ time. Also, because at some point in the schedule, c packets must traverse a single edge, and because only one packet can traverse an edge at a time, the schedule requires $\Omega(c)$ time.
+
+Let f be the time required by the schedule. According to the problem described, it is not necessary for the maximum congestion to happen in the route taken by the packet which travels the distance d. $f=\Omega(c)$ and $f=\Omega(d)$ implies $f=\Omega(max(d,c))$. This inturn implies $f = \Omega(c+d)$. An \textbf{alternative proof} is shown below:
+
+We know that c=O(f) and d=O(f). Suppose that $c=\Theta(d)$, then: $(c+d)=O(f)$. So, $f = \Omega(c+d)$ Suppose instead that $c=o(d)$, then: $(c+d)= O(d) = O(f)$. So, $f = \Omega(c+d)$. Suppose instead that $d=o(c)$, then: $(c+d)= O(c) = O(f)$. So, $f = \Omega(c+d)$. Hence, in all cases, f is $f = \Omega(c+d)$.
+
+\subsubsection{2.}
+Consider the following unconstrained schedule, where many packets may traverse an edge during a single time step. Assign each packet an integral delay chosen randomly, independently, and uniformly from the interval $[1, \lceil \alpha c/log(Nd)\rceil]$, where $\alpha$ is a constant. A packet that is assigned a delay of x waits in its source node for x time steps; then it moves on to its final destination through its specified route without ever stopping.
+
+We know that, with any schedule, at most c packets pass through any edge. Hence, we know that, for any edge e, at any time step t, the number of packets which pass through it can range from 0 to c. The probability of n packets passing through e at time-step t is given by $\binom{c}{n}p^{n}(1-p)^{c-n}$, where $p=1/\lceil \alpha c/log(Nd)\rceil]$. We know that the expectation of such a binomially distributed random variable is $\mu = cp = c /\lceil \alpha c/log(Nd)\rceil] \geq c /(2\alpha c/log(Nd))=log(Nd)/2\alpha$.
+
+Now, we want an upper bound on the probability that more than O(log(Nd)) packets use a particular edge e at a particular time step t. For this, we use a chernoff bound mentioned in \cite{mitzenmacherUpfal}. Let X be the random variable corresponding to the binomial distribution described above. We know that for $R>6\mu$, $Pr(X \geq R)\leq 2^{-R}$. So, $Pr(X \geq 3\lceil\alpha\rceil log(Nd)/\alpha) \leq 2^{-3log(Nd)\lceil\alpha\rceil/\alpha} = (Nd)^{-3\lceil\alpha\rceil/\alpha}$. So, a alpha is a constant, for any alpha: $Pr(X \geq O(log(Nd) \leq Pr(X \geq 3log(Nd)/\alpha) \leq (Nd)^{-3\lceil\alpha\rceil/\alpha}$.
+
+\subsubsection{3.}
+Again using the unconstrained schedule of part (b), we want to show that the probability that more than O(log(Nd)) packets pass through any edge at any time step is at most 1/(Nd) for a sufficiently large $\alpha$. We have already shown, that for any alpha, $Pr(X \geq O(log(Nd))) \leq (Nd)^{-3\lceil\alpha\rceil/\alpha}$. So, if $\alpha$ is atleast 1, we can claim that: $Pr(X \geq O(log(Nd)) \leq (Nd)^{-3} \leq 1/(ND)$.
+
+\subsubsection{4.}
+We want to use the unconstrained schedule to devise a simple randomized algorithm that, with high probability, produces a schedule of length O(c+d log(Nd)) using queues of size O(log(Nd)) and following the constraint that at most one packet crosses an edge per time step.
+
+This randomized algorithm is as follows:
+
+\textbf{Input}: N packets to route, values for the congestion c, and the dilation d as described above.
+
+\textbf{Output}: A routing schedule
+
+\textbf{Algorithm}:
+\begin{itemize}
+\item Assign each packet an integral delay chosen randomly, independently, and uniformly from the interval $[1, \lceil \alpha c/log(Nd)\rceil]$, where $\alpha$ is a constant.
+\item For each packet create a schedule does the following:
+\subitem A packet that is assigned a delay of x waits in its source node for x time steps.
+\subitem If more than one packet need to cross a certain edge during a time-step, they are placed in a queue, and are scheduled to cross the edge one packet at a time.
+\item Return the newly created schedule.
+\end{itemize}
+
+In our answer to the previous subquestion, we had shown that, using an unconstrained schedule, the probability that more than O(log(Nd)) packets pass through any edge at any time step is at most 1/(Nd) for a sufficiently large $\alpha$. From this result, it follows that, for the constrained scheduled output by the above algorithm, we can infer that the \textbf{queue length} can be at most O(log(Nd)) with high probability.
+
+The length of the schedule created by the above algorithm is equal to the maximum number of time steps utilized by any packet in travelling to its destination. This includes time utilized for the initial wait, and the time used for travelling to the destination. In our answer to the previous subquestion, we had shown that, with high probability, the number of packets which need to cross any edge is O(log(Nd)). Considering the fact that the dilation is d, the maximum travel time for any packet is O(log(Nd))d = O(d log(Nd)) with high probability.
+
+The initial wait, being a value randomly chosen from the range \\
+$[1, \lceil \alpha c/log(Nd)\rceil]$, is at most c, for any value of $\alpha$, and sufficiently large N.
+
+Hence, the \textbf{schedule length} is at most O(d log(Nd)) + c = O(d log(Nd) + c) with high probability.
+
+\section{Question}
+Exercise 5.7: Suppose that n balls are thrown independently and uniformly at random into n bins.
+
+\subsubsection{1.}
+Find the conditional probability that bin 1 has one ball given that exactly one ball fell into the first three bins.
+\subsubsection{2.}
+Find the conditional expectation of the number of balls in bin 1 under the condition that bin 2 received no balls.
+\subsubsection{3.}
+Write an expression for the probability that bin 1 receives more balls than bin 2.
+
+\subsection{Solution}
+\subsubsection{1.}
+The conditional probability that bin 1 has one ball, given that exactly one ball fell into the first three bins, is 1/3, due to symmetry.
+
+\subsubsection{2.}
+Bin 2 did not receive any balls. Hence, we now have a n balls and n-1 bins problem. The expectation of the number of balls in bin 1, in this case, is n/(n-1).
+
+\subsubsection{3.}
+We provide 2 expressions for the probability that bin 1 receives more balls than bin 2 (event E).
+
+\textbf{First expression:} The probability that bin 2 gets exactly i-1 balls is $\binom{n}{i-1}\frac{1}{n^{i-1}}(\frac{n-1}{n})^{n-i+1}$. The probability that bin 1 gets atleast i balls, given that bin 2 gets exactly i-1 balls is: $\binom{n-i+1}{i}\frac{1}{n^{i}}$. Multiplying them together, and summing over all possible values of i, we get: Pr(E) = $\sum_{i=1}^{n/2}\binom{n}{i-1}\frac{1}{n^{i-1}}$ $(\frac{n-1}{n})^{n-i+1}\binom{n-i+1}{i}\frac{1}{n^{i}}$.
+
+\textbf{Alternate expression}: The probability that bin 2 gets exactly i balls is $\binom{n}{i}\frac{1}{n^{i}}(\frac{n-1}{n})^{n-i}$. The probability that bin 1 gets exactly i balls, given that bin 2 gets exactly i balls is: $\binom{n-i}{i}\frac{1}{n^{i}}(\frac{n-1}{n})^{n-i}$. Multiplying them together, and summing over all possible values of i, we get the probability that both bins have equal load: $\sum_{i=1}^{n/2}\binom{n}{i}\frac{1}{n^{i}}(\frac{n-1}{n})^{n-i}\binom{n-i}{i}\frac{1}{n^{i}}(\frac{n-1}{n})^{n-i}$. Thus, after considering symmetry, Pr(E) = $0.5(1-\sum_{i=1}^{n/2}\binom{n}{i}\frac{1}{n^{i}}(\frac{n-1}{n})^{n-i}\binom{n-i}{i}\frac{1}{n^{i}}(\frac{n-1}{n})^{n-i})$
+
+\section{Question}
+
+Exercise 5.11:
+
+The following problem models a simple distributed system wherein agents contend for resources but back off in the face of contention. Balls represent agents, and bins represent resources.
+
+The system evolves over rounds. Every round, balls are thrown independently and uniformly at random into n bins. Any ball that lands in a bin by itself is served and removed from consideration. The remaining balls are thrown again in the next round. We begin with n balls in the first round, and we finish when every ball is served.
+
+\subsubsection{1.}
+If there are b balls at the start of a round, what is the expected number of balls at the start of the next round?
+\subsubsection{2.}
+Suppose that every round the number of balls served was exactly the expected number of balls to be served. Show that all the balls would be served in O(log log n) rounds. (Hint: If xj is the expected number of balls left after j rounds, show and use that $x_{j+1}\leq x_{j}^{2}/n$.)
+
+
+\subsection{Solution}
+
+We begin with n balls and n bins.
+
+\subsubsection{1.}
+There are b balls at the start of a round. We first find out the expected number of bins which received exactly 1 ball. Let $X_{i}$ be an indicator random variable which is 1 if the ith bin gets exactly 1 ball. $Pr(X_{i}=1)=b(\frac{1}{n})(\frac{n-1}{n})^{b-1}$. So, $E[X_{i}]=b(\frac{1}{n})(\frac{n-1}{n})^{b-1}$. Then, the random variable $X=\sum_{i=1}^{n} X_{i}$ describes the number of balls which are served in a given round. By linearity of expectations, $E[X]=\sum_{i=1}^{n}X_{i}=\sum_{i=1}^{n}b(\frac{1}{n})(\frac{n-1}{n})^{b-1}=b(\frac{n-1}{n})^{b-1}$.
+
+We want the expected number of balls at the start of the next round. To do this, we define a new random variable Y=b-X. We want to find E[Y]. By linearity of expectations, this is $b-E[X] = b-b(\frac{n-1}{n})^{b-1}=b(1-(\frac{n-1}{n})^{b-1})$. This is the expected number of balls at the start of the next round.
+
+\subsubsection{2.}
+Suppose that every round the number of balls served was exactly the expected number of balls to be served. In our answer to the previous subquestion, we showed the following: If b is the number of balls at the beginning of a round, $b(\frac{n-1}{n})^{b-1}$ is the expected number of balls served, and $b(1-(\frac{n-1}{n})^{b-1})$ is the expected number of balls during the next round. So, after the first round, the number of balls left is $ n(1-(\frac{n-1}{n})^{n-1})$. We will call the second factor p.
+
+If xj is the expected number of balls left after j rounds, we show that $x_{j+1}\leq x_{j}^{2}/n$:
+
+\begin{eqnarray}
+x_{j+1} &\leq& x_{j}^{2}/n\\
+b(1-(\frac{n-1}{n})^{b-1}) &\leq& b^{2}/n \\
+&&\text{The above statement is true if:}\\
+(1-(\frac{n-1}{n})^{b-1}) &\leq& b/n \\
+&&\text{The above statement is true if:}\\
+(\frac{n^{b-1}-(n-1)^{b-1}}{n^{b-1}}) &\leq& b/n \\
+&&\text{The above statement is true if:}\\
+&&\text{(Applying an algebraic identity.)}\\
+(\frac{\sum_{i=0}^{b-2}n^{i}(n-1)^{b-2-i}}{n^{b-1}}) &\leq& b/n \\
+&&\text{But, we already know that, for any such i:}\\
+\frac{n^{i}(n-1)^{b-2-i}}{n^{b-1}} &\leq& 1/n\\
+So:(\frac{\sum_{i=0}^{b-2}n^{i}(n-1)^{b-2-i}}{n^{b-1}}) &\leq& (b-1)/n \leq b/n\\
+\end{eqnarray}
+
+Hence, we have showed that $x_{j+1}\leq x_{j}^{2}/n$.
+
+We know that, after the first round, we are left with np balls. Using this with the above inequality, we see that $x_{2}\leq np^{2}$, $x_{3}\leq np^{4}$, $x_{4}\leq np^{8}$. In general, we see that $x_{j}\leq np^{2^{j-1}}$. All balls are served when $x_{j}=1$. This is guaranteed to happen by the time $np^{2^{j-1}}=1$. Solving this equation, we get:
+
+\begin{eqnarray}
+np^{2^{j-1}} &=& 1\\
+log n 2^{j-1}log p &=& 0\\
+2^{j-1} &=& -log n/log p \\
+2^{j-1} &=& log n/log (1/p) \\
+j-1 &=& log log n/log (1/p) \\
+j &=& log log n/log (1/p) +1\\
+\end{eqnarray}
+
+Hence, by $log log n/log (1/p) +1$ rounds, all balls will have been served. Thus, we have showed that all the balls would be served in O(log log n) rounds.
+
+\section{Question}
+Exercise 5.12: Suppose that we vary the balls-and-bins process as follows. For convenience let the bins be numbered from 0 to n-1. There are log2 n players. Each player randomly chooses a starting location $l$ uniformly from [0, n-1] and then places one ball in each of the bins numbered $l$ mod n, $l$+1 mod n, ..., $l+n/log_{2}n-1 mod n$. Argue that the maximum load in this case is only O(log log n/log log log n) with probability that approaches 1 as $n\rightarrow \infty$.
+
+\subsection{Solution}
+From the question, one can see that each player carries $n/log_{2}n$ balls. Consider an indicator random variable $X_{i,j}$, which is 1 if the player j places a ball in the bin i. $X_{i,j} = 1$ when $l$ is selected from among $n/log_{2}n$ positions. As there are n possible initial locations, this happens with the probability $1/log_{2}n$. Thus, $E[X_{i,j}]=1/log_{2}n$.
+
+Now, consider the random variable $X_{i}=\sum_{j=1}^{log_{2}n}X_{i,j}$. This random variable represents the load of the ith bin. Due to linearity of expectations, we see that $\mu=E[X_{i}]=\sum_{j=1}^{log_{2}n}E[X_{i,j}]=\sum_{j=1}^{log_{2}n}1/log_{2}n=1$.
+
+Now, we find: $Pr(X_{i}>\frac{log log n}{log log log n}) = Pr(X_{i}\geq 1+\frac{log log n}{log log log n})$ = $Pr(X_{i}\geq (1+\frac{log log n}{log log log n})\mu)$. Let $d=\frac{log log n}{log log log n}$.
+
+From an Chernoff bound for a sum of poisson trials derived in \cite{mitzenmacherUpfal}, we have:
+\begin{eqnarray}
+0 < Pr(X_{i} \geq (1+d)\mu) &<& \frac{e^{d\mu}}{(1+d)^{(1+d)\mu}}\\
+&=& \frac{e^{d}}{(1+d)^{(1+d)}}\\
+&=& \frac{e^{d+1}}{e(1+d)^{(1+d)}}\\
+&=& \frac{1}{e(\frac{(1+d)}{e})^{(1+d)}}\\
+\lim_{n\rightarrow \infty}\frac{log log n}{log log log n} &=& \infty\\
+\therefore \lim_{n\rightarrow \infty}(\frac{(1+d)}{e}^{(1+d)}) &=& \infty\\
+\therefore \lim_{n\rightarrow \infty}\frac{1}{e(\frac{(1+d)}{e})^{(1+d)}} &=& 0\\
+\therefore \lim_{n\rightarrow \infty} Pr(X \geq (1+d)\mu) = 0\\
+\end{eqnarray}
+
+Thus, we have proved that the probability that $X_{i} > log log n/log log log n$ approaches 0 as n approaches infinity. Hence, the maximum load in this case is only O(log log n/log log log n) with probability that approaches 1 as $n\rightarrow \infty$.
+
+\section{Question}
+Exercise 5.13: We prove that if Z is a Poisson random variable of mean m, where $m \geq 1$ is an integer, then $Pr(Z\geq m)\geq1/2$ and $Pr(Z\leq m)\geq1/2$.
+
+\subsubsection{1.}
+Show that $Pr(Z=m+h)\geq Pr(Z=m-h-1)$ for $0\leq h\leq m-1$.
+\subsubsection{2.}
+Using part (a), argue that $Pr(Z\geq m)\geq 1/2$.
+
+\subsection{Solution}
+\subsubsection{1.}
+We want to show that $Pr(Z=m+h)\geq Pr(Z=m-h-1)$ for $0\leq h\leq m-1$.
+
+\begin{eqnarray*}
+Pr(Z=m+h) &\geq& Pr(Z=m-h-1)\\
+&&\text{The above is implied by the following statement:}\\
+&&\text{(From the definition of the Poisson distribution.)}\\
+e^{-m}m^{m+h}/(m+h)! &\geq& e^{-m}m^{m-h-1}/(m-h-1)! \\
+&&\text{The above is implied by the following statement:}\\
+m^{h}/(m+h)! &\geq& m^{-h-1}/(m-h-1)! \\
+&&\text{The above is implied by the following statement:}\\
+m^{2h+1} &\geq& (m+h)!/(m-h-1)! \\
+&&\text{The above is implied by the following statement:}\\
+m^{2h+1} &\geq& (m+h)(m+h-1)..m..(m-h+1)(m-h) \\
+&&\text{The above is implied by the following statement:}\\
+&&\text{Rewriting the expression:}\\
+m^{2h+1} &\geq& (m+h)(m-h)(m+h+1)(m-h-1)\dots \\
+&& (m+1)(m-1)m\\
+&&\text{The above is implied by the following statement:}\\
+m^{2h+1} &\geq& [m^{2}-h^{2}][m^{2}-(h-1)^{2}]..[m^{2}-1^{2}]m\\
+&&\text{Each of the h factors listed above is $\leq m^{2}$}\\
+&&\text{Hence, the above statement is indeed true!}\\
+\end{eqnarray*}
+
+Hence, by modus ponens, $Pr(Z=m+h) \geq Pr(Z=m-h-1)$!
+
+\subsubsection{2.}
+We have shown that $Pr(Z=m+h)\geq Pr(Z=m-h-1)$ for $0\leq h\leq m-1$.
+
+So, $\sum_{h=0}^{m-1}Pr(Z=m+h)\geq \sum_{h=0}^{m-1}Pr(Z=m-h-1)$.
+
+So, $\sum_{h=0}^{m-1}Pr(Z=m+h)\geq Pr(Z<m)$.
+
+But, $Pr(Z \geq m) \geq \sum_{h=0}^{m-1}Pr(Z=m+h)$.
+
+So, $Pr(Z \geq m) \geq Pr(Z < m)$.
+
+So, $Pr(Z \geq m) - c= Pr(Z < m)$, for some constant c in [0,1].
+
+But, $Pr(Z \geq m) + Pr(Z < m) = 1$.
+
+So, $2Pr(Z \geq m) - c = 1$.
+
+So, $Pr(Z \geq m) = 1/2 + c$.
+
+Hence, $Pr(Z \geq m) > 1/2$.
+
+
+\bibliographystyle{plain}
+\bibliography{../randomizedAlgorithms}
+
+\end{document}
