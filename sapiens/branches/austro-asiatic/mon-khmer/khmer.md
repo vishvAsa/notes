@@ -21,5 +21,11 @@ title: Khmer
 - "In 1434, King Ponhea Yat made Phnom Penh his capital, and Angkor was abandoned to the jungle. ... "
 - "Due to continued Siamese and Vietnamese aggression, Cambodia appealed to France for protection in 1863 and became a French protectorate in 1864. During the 1880s, along with southern Vietnam and Laos, Cambodia was drawn into the French-controlled Indochinese Union."
 
-## Current religion
-- "Modern Khmer strongly identify their ethnic identity with their religious beliefs and practices, which combine the tenets of Theravada Buddhism with elements of indigenous ancestor-spirit worship, animism and shamanism. ... "
+## Religion
+Constantine effect - 
+
+> Thereafter, the Khmer empire was restored by Jayavarman VII, who established a new capital at Angkor Thom and the Bayon as the state temple, situated to the north. The temple was dedicated to Buddhism as the king's wife Indradevi was a devout Mahayana Buddhist who encouraged him to convert. Angkor Wat was therefore also gradually converted into a Buddhist site with many Hindu sculptures replaced by Buddhist art.
+
+> There r more than a hundred buddhu statues inside the temple. Kept in prakaras. Main garbhagrha is empty. These vishnu murtis seem to have been removed from garbhagrha.
+
+> "Modern Khmer strongly identify their ethnic identity with their religious beliefs and practices, which combine the tenets of Theravada Buddhism with elements of indigenous ancestor-spirit worship, animism and shamanism. ... "

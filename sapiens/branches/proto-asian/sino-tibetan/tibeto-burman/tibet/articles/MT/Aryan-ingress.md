@@ -1,0 +1,10 @@
++++
+title = "Aryan ingress"
++++
+Source: [TW](https://x.com/blog_supplement/status/2095394589892899004)
+
+Ancient DNA from both Roopkund and Abi Srinjamo Bao (Old Lady Spider Cave: OLSC) has thrown up surprises and taught us things that regular archaeology, historical studies (numismatics, epigraphy, etc.), and philology would not have revealed on their own. This suggests that if more aDNA were to be reliably obtained from India, we would have many more unexpected findings beyond the mode and tempo of the Aryan invasions. 
+
+For example, OLSC aDNA has shown that the males have predominantly Indian haplogroups: R1a, J2 and H. The females show more eastern mito-haplogroups. However, the presence of a pair of females with the U5a1d1 mito-haplogroup may suggest that some females with Aryan ancestry from northern India were also part of the movement. The autosomal admixture is close to a 50/50 Indian/Tibetan admixture. The X chromosomes of these individuals carry a noticeably higher fraction of Tibetan-related ancestry compared to the autosomal genome as a whole. The age of the admixture is estimated to be approximately 800 BCE. This points to a male-dominated movement from Northern India into high-altitude Ladakh, followed by admixture with local women of Tibetan ancestry. 
+
+This is not something recorded in history. However, it might be consistent with philological inferences from old texts. The mahAbhArata mentions the pANDava-s penetrating into the Himalayan realms and going past them. The Tibetans claim ancestry from a pANDava lineage. In anthropological terms, these movements might explain the emergence of the Brokpa/Minaro, with their claim of "Aryan" ancestry. It also provokes thoughts regarding the pre-bauddha religion of the Tibetans and certain intriguing elements found in the Bon religion: there are hints of Hindu elements that predate the introduction of the bauddha religion. Could these have emerged from the contact with Indian groups that contributed to the ancestry of the OLSC people? We think that is plausible, though there might have been several other such alternative movements of which we have yet to obtain any records.
