@@ -2,6 +2,9 @@
 title = "Fitness-effect"
 +++
 
+## Strategy vs Tactic
+While both tactical and strategic thinking have selected for increased IQ, we believe that strategic thinking places a higher premium on it. However, some environments seem to confer greater fitness on tactical thinking, while others favor strategic thinking.
+
 ## Fixation
 Saw a debate between two u1 intellectuals on this medium. One of them held the rather peculiar position that genetic variants favoring higher intelligence will go to fixation in every population, and insinuated that there might not be any major trade-offs for increasing intelligence. 
 

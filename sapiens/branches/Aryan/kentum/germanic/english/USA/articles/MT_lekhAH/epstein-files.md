@@ -2,6 +2,12 @@
 title = "Epstein files"
 +++
 
+### Black supporters angry?
+Source: [TW](https://x.com/blog_supplement/status/2094950336330899767)
+
+One can sort of see why the kR^iShNa-s and their backers are angry: Their fake professor +++(→Jason Arday)+++ went down the shaft, whereas the fake professor +++(←Neri Oxman plagiarist??)+++ of the prathamonmatta-s, a friend of Apastiya, has remained afloat. One has to see if the latest round of exposure of his fraud does him in.
+
+
 ### Multi epstein
 Source: [TW](https://x.com/blog_supplement/status/2033773164405100887)
 

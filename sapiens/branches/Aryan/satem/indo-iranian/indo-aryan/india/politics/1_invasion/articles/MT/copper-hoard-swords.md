@@ -13,3 +13,9 @@ Mainstream indology holds that the Indo-Aryans invaded India after the collapse 
 The Painted Greyware (PGW) is unambiguously associated with the Aryans, and there are rare reports of swords associated with PGW sites. 
 
 Taken together, these observations raise a further problem for the widely accepted mainstream hypothesis of the late composition of the RV in India.
+
+
+## Harpoons and riders
+Source: [TW](https://x.com/blog_supplement/status/2095725645103796661)
+
+Several sites in Uttar Pradesh depict horse-and elephant riders who wield a multi-barbed weapon reminiscent of the OCP/Cu-hoard harpoon. This example is from Barha Ki Dond, Mau, UP. If these are indeed the Cu-hoard harpoons, then it would imply that these people were already riding horses and elephants and would have implications for the Aryan presence in India. Hence, the connection between the harpoons in rock art and those of the Cu-hoards needs to be better explored.
