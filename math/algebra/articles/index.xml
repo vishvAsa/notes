@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Articles on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/algebra/articles/</link>
+    <description>Recent content in &#43;Articles on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/math/algebra/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unoriginal Khwarizmi</title>
+      <link>https://vishvAsa.github.io/notes/math/algebra/articles/unoriginal_khwarizmi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/algebra/articles/unoriginal_khwarizmi/</guid>
+      <description>&lt;p&gt;A thread on the Hindu origins of the works of the medieval Persian mathematician Al-Kḥwārizmī (Ibn Musa) (خوارزمی) who lived from 780-850 CE.&lt;/p&gt;&#xA;&lt;p&gt;First, let us understand that Al-Kḥwārizmī did &lt;em&gt;not&lt;/em&gt; invent a new science or discover it. So what is Algebra then? Kḥwārizmī&amp;rsquo;s chief treatise was named &amp;ldquo;Hisab Al-Jabr va Al-Muqabla&amp;rdquo;(Al-Jabr) meant the restoration of an equation by eliminating negative terms. Or multiplying both sides of the equation to remove fractions. While, Al-Muqabla meant subtracting negatives from both sides of eqn. So this is merely basic mathematical operation. But was Kḥwārizmī the first to do this? or write a treatise on equations?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

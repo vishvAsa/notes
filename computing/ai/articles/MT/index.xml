@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;MT on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/ai/articles/MT/</link>
+    <description>Recent content in &#43;MT on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/ai/articles/MT/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Problem solving</title>
+      <link>https://vishvAsa.github.io/notes/computing/ai/articles/MT/problem-solving/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/ai/articles/MT/problem-solving/</guid>
+      <description>&lt;h2 id=&#34;navier-stokes&#34;&gt;Navier-Stokes&lt;/h2&gt;&#xA;&lt;p&gt;Source: &lt;a href=&#34;https://x.com/blog_supplement/status/2097515452758978674&#34;&gt;TW&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Many people in school may have seen Newton&amp;rsquo;s law of force: F = M*a. But far fewer might have seen the Navier-Stokes equation, which is a more complex expression of the same law in a fluid. For most basic everyday purposes, in the rare event you need to use it, you can solve it numerically. Whether it blows out or not doesn&amp;rsquo;t matter to even that sliver of humanity. It tells the connoisseur that the continuum model of a fluid predicts its own breakdown at the microscale. But we already knew that physical fluids are made up of molecules, and we need to shift to molecular models at microscales. Thus, for a person of modest IQ and limited understanding, it seems more of a curiosity with little impact for our understanding of the molecular structure of matter. I do realize it has an impact on more niche areas like turbulence, but life would go on for most of us with or without that.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

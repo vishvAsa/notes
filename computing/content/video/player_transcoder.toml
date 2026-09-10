@@ -1,0 +1,49 @@
+
+[[data]]
+samUhaH = 'Multimedia'
+upasamUhaH = 'Video transcode'
+software = 'soundconverter'
+choice = 1
+kAraNaM = 'Transcoder - uttamam'
+
+[[data]]
+samUhaH = 'Multimedia'
+upasamUhaH = 'Video transcode'
+software = 'winff libavcodec-extra'
+kAraNaM = '''
+transcode to audio.
+multiverse package.'''
+
+[[data]]
+samUhaH = 'Multimedia'
+upasamUhaH = 'Video transcode'
+software = 'Arista'
+
+[[data]]
+samUhaH = 'Multimedia'
+upasamUhaH = 'Video transcode play'
+software = 'vlc vlc-plugin-pulse mozilla-plugin-vlc'
+kAraNaM = 'Good player, converter'
+
+[[data]]
+samUhaH = 'Multimedia'
+upasamUhaH = 'Video transcode'
+software = 'mencoder'
+
+[[data]]
+samUhaH = 'Multimedia'
+upasamUhaH = 'Video transcode'
+software = 'libfaac0'
+kAraNaM = 'libfaac codec required for mpeg4 encoding'
+
+[[data]]
+samUhaH = 'Multimedia'
+upasamUhaH = 'Video transcode'
+software = 'libav-tools'
+kAraNaM = 'ffmpeg converter.'
+
+[[data]]
+samUhaH = 'Multimedia'
+upasamUhaH = 'video rip'
+software = 'HandBrake'
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;MT on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/neural-network/large-language-model/articles/MT/</link>
+    <description>Recent content in &#43;MT on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/neural-network/large-language-model/articles/MT/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Power</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/neural-network/large-language-model/articles/MT/power/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/neural-network/large-language-model/articles/MT/power/</guid>
+      <description>&lt;h2 id=&#34;2025&#34;&gt;2025&lt;/h2&gt;&#xA;&lt;p&gt;Source: &lt;a href=&#34;https://x.com/blog_supplement/status/1975719164737151326&#34;&gt;TW&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Electricity bill .. up 60% since 2023&amp;rdquo; in Athens, Georgia (US) due to new AI data center demand for electricity.&lt;/p&gt;&#xA;&lt;p&gt;One of the under-appreciated facts about the current state-of-the art AI is how extraordinarily energy inefficient it is.&lt;/p&gt;&#xA;&lt;p&gt;This is a huge issue for India. Even if we could afford all the GPUs (not!), we cannot afford the electricity bill. We cannot afford to hurt households and factories.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;MT on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/matter/chemistry/articles/MT/</link>
+    <description>Recent content in &#43;MT on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/matter/chemistry/articles/MT/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elements</title>
+      <link>https://vishvAsa.github.io/notes/matter/chemistry/articles/MT/elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/matter/chemistry/articles/MT/elements/</guid>
+      <description>&lt;h2 id=&#34;aryan-history&#34;&gt;Aryan history&lt;/h2&gt;&#xA;&lt;p&gt;The metallic elements known in Aryan antiquity were Au: hiraNya; Ag: rajata; Cu: tAmra; Sn: trapu; Pb: sIsa; Zn: kAmsya/dastA; Fe: kR^iShNAyas/loha. Yet the ancients went really &amp;ldquo;fundamental&amp;rdquo; in postulating 5 underlying components of matter!&lt;/p&gt;&#xA;&lt;p&gt;It shows how non-trivial the concept of a chemical element is. In its most primitive form in late IE tradition the 5 fundaments were: 1. H20; 2.Air N2+O2+&amp;hellip;; 3. Fire O+X; 4. &amp;ldquo;earth&amp;rdquo;: everything. 5. vacuum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hückel’s series, Carbon rings &amp; life</title>
+      <link>https://vishvAsa.github.io/notes/matter/chemistry/articles/MT/huckels_series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/matter/chemistry/articles/MT/huckels_series/</guid>
+      <description>&lt;p&gt;Source: &lt;a href=&#34;https://x.com/blog_supplement/status/1959476936536687057&#34;&gt;TW&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Life exists because benzene ($C_6H_6$) and related rings form and exhibit high stability. At some point in school or junior college, you might have encountered something called Hückel’s series ($4n + 2$), &amp;ldquo;explaining&amp;rdquo; why benzene is extrastable. If you were not too physico-chemically aware, you might have wondered where that rule came from.&lt;/p&gt;&#xA;&lt;details&gt;&lt;summary&gt;विश्वास-टिप्पनी&lt;/summary&gt;&#xA;&lt;p&gt;For benzene (C6H6), it&amp;rsquo;s 6 π electrons with n=1.&lt;/p&gt;&#xA;&lt;/details&gt;&#xA;&lt;details&gt;&lt;summary&gt;madhu&lt;/summary&gt;&#xA;&lt;p&gt;Any molecule following Huckels rule is stable compared to the Anti aromatic molecules. So 4n pi electron molecules are anti aromatic. Anyway for Huckels rule - it is always the pi electrons. Aromaticity is related to the pi bond alone - not the sigma bond.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

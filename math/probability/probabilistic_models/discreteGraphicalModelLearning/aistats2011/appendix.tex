@@ -1,0 +1,679 @@
+% \documentclass{article}
+% 
+% \usepackage{aistats2e}
+% 
+% \usepackage{epsfig, graphics}
+% \usepackage{latexsym}
+% \usepackage{amsmath,amsthm,amssymb,amsfonts}
+% \usepackage{fullpage}
+% \usepackage[numbers]{natbib}
+% 
+% \usepackage[T1]{fontenc}
+% %\usepackage{avant}
+% \renewcommand*\familydefault{\sfdefault}
+% \newtheorem{definition}{Definition}
+% \newtheorem{proposition}{Proposition}
+% \newtheorem{theorem}{Theorem}
+% \newtheorem{lemma}{Lemma}
+% \newcommand{\myparagraph}[1]{\noindent \paragraph{#1}}
+% \newcommand{\comment}[1]{}
+% \newcommand{\tr}[2]{\left<#1,#2\right>}
+% \newcommand{\matnorm}[2]{|\!|\!|#1|\!|\!|_{#2}}
+% \newcommand{\norm}[2]{\left\|#1\right\|_{#2}}
+% \newcommand{\flaten}[1]{\mathbf{v}\left(#1\right)}
+% \def\M{\mathcal{M}}
+% \def\N{\mathcal{N}}
+% \def\A{\mathcal{A}}
+% \def\X{\mathcal{X}}
+% \def\I{\mathcal{I}}
+% \def\J{\mathcal{J}}
+% \def\real{\mathbb{R}}
+% \def\pdim{p}
+% \def\mdim{m}
+% \def\kdim{k}
+% \def\numobs{n}
+% \def\Data{D}
+% \def\regpar{\lambda}
+% 
+% \newenvironment{carlist}
+% {\begin{list}{$\bullet$}
+% {\setlength{\topsep}{0in} \setlength{\partopsep}{0in}
+%  \setlength{\parsep}{0in} \setlength{\itemsep}{\parskip}
+%  \setlength{\leftmargin}{0.07in} \setlength{\rightmargin}{0.08in}
+%  \setlength{\listparindent}{0in} \setlength{\labelwidth}{0.08in}
+%  \setlength{\labelsep}{0.1in} \setlength{\itemindent}{0in}}}
+% {\end{list}}
+% \def\vertex{V}
+% \def\edge{E}
+% \def\statenum{m}
+% \def\svert{\ensuremath{r}}
+% \def\defn{:=}
+% \def\fisher{Q}
+% \def\support{S}
+% \def\dual{Z}
+% 
+% %\synctex=0
+% \title{Learning Discrete Graphical Models}
+% 
+% \date{}
+% 
+% \begin{document}
+% 
+% \maketitle
+% 
+% 
+\noindent
+{\Large {\bf Supplementary Material}}
+
+
+%\appendix
+\section{Auxiliary Lemmas: Proof of Lemma~\ref{LemSuffOptCond}}
+
+
+\begin{proof}
+We can rewrite \eqref{EqnPairwiseGroup} as an optimization problem over the $\ell_1/\ell_2$ ball of radius $C$ for some $C(\regpar_n)<\infty$. Since $\lambda_n>0$, by KKT conditions, $\norm{\widetilde{\Theta}_{\backslash \svert}}{1,2}=C$ for all optimal primal solution $\widetilde{\Theta}_{\backslash \svert}$.
+
+\noindent By definition of the $\ell_1/\ell_2$ subdifferential, we know that for any column $u\in\vertex\backslash\{\svert\}$, we have $\left\|\left(\hat{\dual}_{\backslash \svert}\right)_u\right\|_2\leq 1$. Considering the necessary optimality condition $\nabla\ell\left(\hat{\Theta}_{\backslash \svert}\right)+\regpar_n \hat{\dual}_{\backslash \svert}=0$, by complementary slackness condition, we have $\tr{\widetilde{\Theta}_{\backslash \svert}}{\hat{\dual}_{\backslash \svert}}-C=\tr{\widetilde{\Theta}_{\backslash \svert}^T}{\hat{\dual}_{\backslash \svert}}-\norm{\widetilde{\Theta}_{\backslash \svert}}{1,2}=0$. Now if for an arbitrary column $u\in\vertex\backslash\{\svert\}$, we have $\left\|\left(\hat{\dual}_{\backslash \svert}\right)_u\right\|_2<1$ and $\left(\widetilde{\Theta}_{\backslash \svert}\right)_u \neq 0$ then this would contradict the condition that $\tr{\widetilde{\Theta}_{\backslash \svert}}{\hat{\dual}_{\backslash \svert}} = \norm{\widetilde{\Theta}_{\backslash \svert}}{1,2}$.
+
+For this restricted problem, if the Hessian sub-matrix is positive definite, then the problem is strictly convex and it has a unique solution.\\
+\end{proof}
+
+
+
+\section{Derivatives of the Log-Likelihood Function}
+In this section, we point out the key properties of the gradient, Hessian and derivative of the Hessian for the log-liklihood function. These properties are used to prove the concentration lemmas.
+
+\subsection{Gradient}
+By simple derivation, we have
+\begin{equation}
+\begin{aligned}
+&\frac{\partial}{\partial\theta^*_{\svert t;\ell k}}\ell^{(i)}(\Theta_{\backslash \svert}; \Data) \\ &\,=\! \I\left[x_t^{(i)}=k\right]\!\! \left(\!\I\left[x_\svert^{(i)}\!\!=\!\ell\right]\!\! -\! \mathbb{P}_{\Theta^*_{\backslash\svert}}\!\! \left[X_\svert\!\! =\! \ell \! \mid \! X_{\backslash \svert}\! =\!
+x_{\backslash \svert}^{(i)}\right]\!\right)\!.
+\end{aligned}
+\nonumber
+\end{equation}
+It is easy to show that $\mathbb{E}_{\Theta^*_{\backslash\svert}}\!\!\left[\!\frac{\partial}{\partial\theta^*_{rt;\ell k}}\ell^{(i)}(\Theta_{\backslash \svert}; \Data)\!\right]\!=\!0$ and $\!\text{Var}\!\left(\!\frac{\partial}{\partial\theta^*_{rt;\ell k}}\ell^{(i)}(\!\Theta_{\backslash \svert}; \Data)\!\right)\!\!\leq\!\!\frac{1}{4}$. With i.i.d assumption on drawn samples, we have $\text{Var}\left(\frac{\partial}{\partial\theta^*_{rt;\ell k}}\ell(\Theta_{\backslash \svert}; \Data)\right)=\text{Var}\left(\frac{1}{n}\sum_{i=1}^n\frac{\partial}{\partial\theta^*_{rt;\ell k}}\ell^{(i)}(\Theta_{\backslash \svert}; \Data)\right)\leq\frac{1}{4n}$. Hence, for a fixed $t\in\vertex\backslash\{\svert\}$ by Jensen's inequality,
+\begin{equation}
+\begin{aligned}
+&\mathbb{E}_{\Theta^*_{\backslash\svert}}\left[\norm{\frac{\partial}{\partial\theta^*_{\svert t;\ell k}}\ell(\Theta_{\backslash \svert}; \Data)}{2}\right]\\
+&\qquad\qquad\qquad\leq\sqrt{\mathbb{E}_{\Theta^*_{\backslash\svert}}\left[\norm{\frac{\partial}{\partial\theta^*_{\svert t;\ell k}}\ell(\Theta_{\backslash \svert}; \Data)}{2}^2\right]}\\
+&\qquad\qquad\qquad\leq\frac{m-1}{2\sqrt{n}}.
+\end{aligned}
+\nonumber
+\end{equation}
+Considering the terms associated with $\theta^*_{\svert t;\ell k}$'s in the gradient vector of the log-likelihood function, for a fixed $t\in\vertex\backslash\{\svert\}$, only $m-1$ (out of $(m-1)^2$) values are non-zero. By a simple calculation, we get
+\begin{equation}
+\max_{t\in\vertex\backslash\{\svert\}}\norm{\frac{\partial}{\partial\theta^*_{\svert t;\ell k}}\ell^{(i)}(\Theta_{\backslash \svert}; \Data)}{2}\leq\sqrt{2}\qquad\forall i.\\
+\nonumber
+\end{equation}
+By Azuma-Hoeffding inequality, we get
+\begin{equation}
+\mathbb{P}\left[\norm{\frac{\partial}{\partial\theta^*_{\svert t;\ell k}}\ell(\Theta_{\backslash \svert}; \Data)}{2}\!\!\!>\!\!\frac{m-1}{2\sqrt{n}}\!+\!\epsilon\right]\!\!\leq\! 2\exp\left(\!-\frac{\epsilon^2}{4}n\!\right),
+\nonumber
+\end{equation}
+for all $t\in\vertex\backslash\{\svert\}$. Using the union bound, we get
+\begin{equation}
+\begin{aligned}
+&\mathbb{P}\left[\max_{t\in\vertex\backslash\{\svert\}}\norm{\frac{\partial}{\partial\theta^*_{\svert t;\ell k}}\ell(\Theta_{\backslash \svert}; \Data)}{2}\!\!\!>\!\frac{m-1}{2\sqrt{n}}\!+\!\epsilon\right] \\&\qquad\qquad\qquad\qquad\quad\leq 2\exp\left(-\frac{\epsilon^2}{4}n+\log(p-1)\right).\\
+\end{aligned}
+\label{gradient_inf_2_bound}
+\end{equation}
+
+\subsection{Hessian}
+\label{Hessian_Section}
+\noindent For the Hessian of the log-likelihood function, we have
+\begin{equation}
+\frac{\partial^2\, \ell^{(i)}(\Theta_{\backslash \svert}; \Data)}{\partial\theta^*_{\svert t_2;\ell_2 k_2}\, \partial\theta^*_{\svert t_1;\ell_1 k_1}}\! =\! \I\!\left[x_{t_1}^{(i)}\!\!=\!k_1\!\right] \!\!\I\!\left[x_{t_2}^{(i)}\!\!=\!k_2\!\right]\! \eta_{\ell_1\ell_2}\!\!\left(\!x^{(i)}\!\right)\!\!,
+\nonumber 
+\end{equation}
+where,
+\begin{equation}
+\begin{aligned}
+&\eta_{\ell_1\ell_2}\left(x^{(i)}\right) \defn \mathbb{P}_{\Theta^*_{\backslash\svert}} \left[X_\svert = \ell_1 \, \Big| X_{\backslash \svert} =
+x_{\backslash \svert}^{(i)}\right] \\ &\left(\!\!\I\left[x_\svert^{(i)}\!\!=\!\ell_1\right]\!\I\left[x_\svert^{(i)}\!\!=\!\ell_2\right] \!-\! \mathbb{P}_{\Theta^*_{\backslash\svert}} \left[X_\svert \!\!=\! \ell_2 \! \Big| X_{\backslash \svert}\! =\!
+x_{\backslash \svert}^{(i)}\right]\!\right).\\
+\end{aligned}
+\nonumber
+\end{equation}
+
+\noindent Consider the zero-mean random variable
+\begin{equation}
+\begin{aligned}
+&Z^{(i)}_{t_1\ell_1k_1;t_2\ell_2k_2}:=\\
+&\qquad\frac{\partial^2\, \ell^{(i)}(\Theta_{\backslash \svert}; \Data)}{\partial\theta^*_{\svert t_2;\ell_2 k_2}\, \partial\theta^*_{\svert t_1;\ell_1 k_1}}-\mathbb{E}\left[\frac{\partial^2\, \ell(\Theta_{\backslash \svert}; \Data)}{\partial\theta^*_{\svert t_2;\ell_2 k_2}\, \partial\theta^*_{\svert t_1;\ell_1 k_1}}\right].
+\end{aligned}
+\nonumber
+\end{equation}
+\noindent Notice that $\text{Var}\left(Z^{(i)}_{t_1\ell_1k_1;t_2\ell_2k_2}\right)\leq 1$ and consequently, by i.i.d assumption, $\text{Var}\left(\frac{1}{n}\sum_{i=1}^nZ^{(i)}_{t_1\ell_1k_1;t_2\ell_2k_2}\right)\leq \frac{1}{n}$. Hence, for fixed values $t_1,\ell_1,k_1$ and $t_2\in\support_2\subseteq\vertex\backslash\{\svert\}$, we have
+\begin{equation}
+\begin{aligned}
+&\mathbb{E}_{\Theta^*_{\backslash\svert}}\left[\norm{\frac{1}{n}\sum_{i=1}^nZ^{(i)}_{t_1\ell_1k_1;t_2\ell_2k_2}}{2}\right]\\
+&\qquad\qquad\qquad\leq\sqrt{\mathbb{E}_{\Theta^*_{\backslash\svert}}\left[\norm{\frac{1}{n}\sum_{i=1}^nZ^{(i)}_{t_1\ell_1k_1;t_2\ell_2k_2}}{2}^2\right]}\\
+&\qquad\qquad\qquad\leq\sqrt{\frac{|S_2|}{n}}.
+\end{aligned}
+\label{eq1}
+\end{equation}
+This radom variable, for fixed values $t_1,\ell_1,k_1$ and a fixed $t_2$, is bounded and in particular, $\norm{\frac{1}{n}\sum_{i=1}^nZ^{(i)}_{t_1\ell_1k_1;t_2\ell_2k_2}}{2}\leq 2$. By Azuma-Hoeffding inequality and the union bound,
+\begin{equation}
+\begin{aligned}
+&\mathbb{P}\left[\norm{\fisher^n_{\support_\svert\support_\svert} -\fisher^*_{\support_\svert\support_\svert}}{\infty,2}>\frac{\sqrt{d_\svert}}{\sqrt{n}}+\epsilon\right]\\
+&\qquad\qquad\qquad\leq 2\exp\left(-\frac{\epsilon^2}{8}n+\log\left((m-1)^2d_\svert\right)\right).\\
+&\mathbb{P}\left[\norm{\fisher^n_{\support_\svert^c\support_\svert} -\fisher^*_{\support_\svert^c\support_\svert}}{\infty,2}>\frac{\sqrt{d_\svert}}{\sqrt{n}}+\epsilon\right]\\
+&\qquad\leq 2\exp\left(-\frac{\epsilon^2}{8}n+\log\left((m-1)^2(p\!-\!d_\svert\!-\!1)\right)\right)\!.\\
+\end{aligned}
+\label{fisher_inf_1_bound1}
+\end{equation}
+Similar analysis as \eqref{eq1} combined with the ineqality $\Lambda_{\max}(\cdot)\leq\norm{\cdot}{\infty,2}$, shows that
+\begin{equation}
+\begin{aligned}
+&\mathbb{P}\left[\Lambda_{\max}\left(\fisher^n_{\support_\svert\support_\svert} -\fisher^*_{\support_\svert\support_\svert}\right)>\frac{\sqrt{d_\svert}}{\sqrt{n}}+\epsilon\right]\\ &\qquad\qquad\qquad\leq\, 2\exp\left(-\frac{\epsilon^2}{8}n+\log\left((m-1)^2d_\svert\right)\!\right)\!.\\
+\end{aligned}
+\label{fisher_2_bound}
+\end{equation}
+We also need a control over the deviation of the inverse sample Fisher information matrix from the inverse of its mean. We have
+\begin{equation}
+\begin{aligned}
+&\Lambda_{\max}\left(\left(\fisher^n_{\support_\svert\support_\svert}\right)^{-1} -\left(\fisher^*_{\support_\svert\support_\svert}\right)^{-1}\right)\\ &\,=\Lambda_{\max}\left(\left(\fisher^*_{\support_\svert\support_\svert}\right)^{-1} \left(\fisher^*_{\support_\svert\support_\svert} -\fisher^n_{\support_\svert\support_\svert}\right) \left(\fisher^n_{\support_\svert\support_\svert}\right)^{-1}\right)\\
+&\,\leq\Lambda_{\max}\left(\left(\fisher^*_{\support_\svert\support_\svert}\right)^{-1}\right)
+\Lambda_{\max}\left(\fisher^*_{\support_\svert\support_\svert} -\fisher^n_{\support_\svert\support_\svert}\right)\\ &\qquad\qquad\qquad\qquad\qquad\qquad\qquad\Lambda_{\max}\left(\left(\fisher^n_{\support_\svert\support_\svert}\right)^{-1}\right)\\
+&\,\leq\frac{\sqrt{d_\svert}}{C_{\min}\sqrt{n}} \Lambda_{\max}\left(\left(\fisher^n_{\support_\svert\support_\svert}\right)^{-1}\right).\\
+\end{aligned}
+\nonumber
+\end{equation}
+By part (B1) in Lemma~\ref{Concentration_Lemma}, we have
+\begin{equation}
+\begin{aligned}
+&\mathbb{P}\left[\Lambda_{\max}\left(\left(\fisher^n_{\support_\svert\support_\svert}\right)^{-1}\right) >\frac{1}{C_{\min}}+\epsilon\right]\\ &\,\leq \! 2\exp\left(\!\!-\frac{\left(\frac{C_{\min}\epsilon\sqrt{n}\!\!}{1+C_{\min}\epsilon}-\sqrt{d_\svert}\right)^2}{8}+\!\log\left((m-1)^2d_\svert\right)\!\right)\!.
+\end{aligned}
+\label{sample_fisher_2_bound}
+\end{equation}
+Hence, we get,
+\begin{equation}
+\begin{aligned}
+&\mathbb{P}\left[\Lambda_{\max}\left(\left(\fisher^n_{\support_\svert\support_\svert}\right)^{-1}\!\!\!\!\! -\!\left(\fisher^*_{\support_\svert\support_\svert}\right)^{-1}\right) >\frac{\sqrt{d_\svert}}{C_{\min}^2\sqrt{n}}\!+\!\epsilon\right]\\
+&\,\leq\! 4\exp\left(\!\!-\frac{\left(\frac{C_{\min}\epsilon\sqrt{n}\!\!}{1+C_{\min}\epsilon}-\sqrt{d_\svert}\right)^2}{8}+\!\log\left((m-1)^2d_\svert\right)\!\right)\!.
+\end{aligned}
+\label{fisher_inf_1_bound2}
+\end{equation}
+
+\subsection{Derivative of Hessian}
+\label{derivative_hessian}
+We want to bound the rate of the change for the elements of Hessian matrix. Let
+\begin{equation}
+\begin{aligned}
+&\nabla\fisher_{t_2\ell_2k_2;t_1\ell_1k_1}^{(i)}\\
+&\qquad:= \frac{\partial}{\partial\Theta_{\backslash\svert}}\frac{\partial^2\, \ell^{(i)}(\Theta_{\backslash \svert}; \Data)}{\partial\theta^*_{\svert t_2;\ell_2 k_2}\, \partial\theta^*_{\svert t_1;\ell_1 k_1}}\\
+&\qquad=\I\left[x_{t_1}^{(i)}=k_1\right] \I\left[x_{t_2}^{(i)}=k_2\right] \frac{\partial}{\partial\Theta_{\backslash\svert}}\eta_{\ell_1\ell_2}\left(x^{(i)}\right).
+\end{aligned}
+\nonumber
+\end{equation}
+Recall the definition of $\eta(\cdot)$ from section~\ref{Hessian_Section}. We have
+\begin{equation}
+\begin{aligned}
+&\frac{\partial\eta_{\ell_1\ell_2}\left(x^{(i)}\right)}{\partial\theta_{\svert t_3;\ell_3k_3}}\! =\! \I\left[x_{t_3}^{(i)}\!\!=\!k_3\right] \mathbb{P}_{\Theta^*_{\backslash\svert}}\!\! \left[X_\svert\!\! =\! \ell_1 \! \Big| X_{\backslash \svert}\! =\!
+x_{\backslash \svert}^{(i)}\right]\\ &\qquad\left(\eta_{\ell_2\ell_3}\left(x^{(i)}\right)-\frac{\eta_{\ell_1\ell_2}\left(x^{(i)}\right) \eta_{\ell_1\ell_3}\left(x^{(i)}\right)} {\mathbb{P}_{\Theta^*_{\backslash\svert}} \left[X_\svert = \ell_1 \, \Big| X_{\backslash \svert} =
+x_{\backslash \svert}^{(i)}\right]^2}\right).
+\end{aligned}
+\nonumber
+\end{equation}
+For any $t_3\in\vertex\backslash\{\svert\}$, each entry is bounded by $\frac{1}{2}$ and there are only $m-1$ non-zero entries for each $k_3$. Hence, for any $t_3$, one can colculde that $\norm{\frac{\partial}{\partial\theta_{\svert t_3;\ell_3k_3}}\eta_{\ell_1\ell_2}\left(x^{(i)}\right)}{2}\leq\frac{m-1}{\sqrt{2}}$ for all $i$. Finally, for all $\ell_1$ and $\ell_2$ we have
+\begin{equation}
+\max_{t_3\in\vertex\backslash\{\svert\}} \norm{\frac{\partial}{\partial\theta_{\svert t_3;\ell_3k_3}}\eta_{\ell_1\ell_2}\left(x^{(i)}\right)}{2}\leq\frac{m-1}{\sqrt{2}}.
+\label{derivative_hessian_eq}
+\end{equation}
+
+
+\section{Proof of Lemma~\ref{Concentration_Lemma}}
+\noindent {\bf (B1)} By variational representation of the smallest eigenvalue, we have
+\begin{equation}
+\begin{aligned}
+\Lambda_{\min}\left(\fisher^*_{\support_\svert\support_\svert}\right) &= \min_{\norm{x}{2}=1}x^T\fisher^*_{\support_\svert\support_\svert}x\\
+&\leq y^T\fisher^n_{\support_\svert\support_\svert}y + y^T\left(\fisher^*_{\support_\svert\support_\svert}-\fisher^n_{\support_\svert\support_\svert}\right)y,
+\end{aligned}
+\nonumber
+\end{equation}
+for all $y\in\mathbb{R}^{(m-1)^2d_\svert}$ with $\norm{y}{2}=1$ and in particular for the unit-norm minimal eigenvalue of $\fisher^n_{\support_\svert\support_\svert}$. Hence,
+\begin{equation}
+\Lambda_{\min}\left(\fisher^n_{\support_\svert\support_\svert}\right) \!\geq\Lambda_{\min}\left(\fisher^*_{\support_\svert\support_\svert}\right) \!-\Lambda_{\max}\left(\fisher^*_{\support_\svert\support_\svert}\!\!-\!\fisher^n_{\support_\svert\support_\svert}\right).
+\nonumber
+\end{equation}
+By \eqref{fisher_2_bound}, we get
+\begin{equation}
+\begin{aligned}
+&\mathbb{P}\left[\Lambda_{\min}\left(\fisher^n_{\support_\svert\support_\svert}\right)< C_{\min}-\epsilon\right]\\ &\qquad\leq\mathbb{P}\left[\Lambda_{\max}\left(\fisher^*_{\support_\svert\support_\svert}-\fisher^n_{\support_\svert\support_\svert}\right) > \epsilon\right]\\ &\qquad\leq 2\exp\left(-\frac{(\epsilon\sqrt{n}-\sqrt{d_\svert})^2}{8}+\log\big((m-1)^2d_\svert\big)\right).\\
+\end{aligned}
+\nonumber
+\end{equation}
+
+\noindent {\bf (B2)} We can write
+\begin{equation}
+\begin{aligned}
+&\fisher^n_{\support^c_\svert\support_\svert}\left(\fisher^n_{\support_\svert\support_\svert}\right)^{-1}= \underbrace{\fisher^*_{\support^c_\svert\support_\svert}\left(\fisher^*_{\support_\svert\support_\svert}\right)^{-1}}_{T_0}\\
+&\qquad+\underbrace{\fisher^*_{\support^c_\svert\support_\svert} \left(\left(\fisher^n_{\support_\svert\support_\svert}\right)^{-1} -\left(\fisher^*_{\support_\svert\support_\svert}\right)^{-1}\right)}_{T_1}\\
+&\qquad+\underbrace{\left(\fisher^n_{\support^c_\svert\support_\svert}-\fisher^*_{\support^c_\svert\support_\svert}\right) \left(\fisher^*_{\support_\svert\support_\svert}\right)^{-1}}_{T_2}\\
+&\qquad+\underbrace{\left(\fisher^n_{\support^c_\svert\support_\svert}-\fisher^*_{\support^c_\svert\support_\svert}\right) \left(\left(\fisher^n_{\support_\svert\support_\svert}\right)^{-1}\!\!\!\! -\left(\fisher^*_{\support_\svert\support_\svert}\right)^{-1}\right)}_{T_3}.\\
+\end{aligned}
+\nonumber
+\end{equation}
+Considering assumption (A3), $\norm{T_0}{\infty,2}<\frac{1-2\alpha}{\sqrt{d_\svert}}$ and hence, it suffices to show that $\norm{T_i}{\infty,2}<\frac{\alpha}{3\sqrt{d_\svert}}$ for $i=1,2,3$. For the first term, we have
+\begin{equation}
+\begin{aligned}
+&\norm{\fisher^*_{\support^c_\svert\support_\svert} \left(\left(\fisher^n_{\support_\svert\support_\svert}\right)^{-1}\!\!\!\! -\left(\fisher^*_{\support_\svert\support_\svert}\right)^{-1}\right)}{\infty,2}\\ &\,=\!\!\norm{\fisher^*_{\support^c_\svert\support_\svert} \left(\fisher^*_{\support_\svert\support_\svert}\right)^{-1}\!\! \left(\fisher^*_{\support_\svert\support_\svert}\!\! -\!\fisher^n_{\support_\svert\support_\svert}\right) \left(\fisher^n_{\support_\svert\support_\svert}\right)^{-1}}{\infty,2}\\
+&\,\leq\!\!\norm{\fisher^*_{\support^c_\svert\support_\svert} \left(\fisher^*_{\support_\svert\support_\svert}\right)^{-1}}{\infty,2} \Lambda_{\max}\left(\fisher^*_{\support_\svert\support_\svert} -\fisher^n_{\support_\svert\support_\svert}\right)\\ &\qquad\qquad\qquad\qquad\qquad\qquad\qquad\Lambda_{\max}\left(\left(\fisher^n_{\support_\svert\support_\svert}\right)^{-1}\right)\\
+&\,\leq\frac{1-2\alpha}{\sqrt{d_\svert}}\frac{\sqrt{d_\svert}}{\sqrt{n}}\frac{1}{C_{\min}}.
+\end{aligned}
+\nonumber
+\end{equation}
+The last inequality follows from \eqref{fisher_inf_1_bound1} and \eqref{sample_fisher_2_bound} with high probability. Setting $\bar{C}_{\min}=\min\left(C_{\min},1\right)$, by applying the union bound,
+\begin{equation}
+\begin{aligned}
+&\mathbb{P}\left[\norm{\fisher^*_{\support^c_\svert\support_\svert} \left(\left(\fisher^n_{\support_\svert\support_\svert}\right)^{-1} -\left(\fisher^*_{\support_\svert\support_\svert}\right)^{-1}\right)}{\infty,2}>\epsilon\right]\\
+&\leq\! 4\!\exp\!\left(\!\!-\frac{\left(\bar{C}_{\min}\epsilon\sqrt{n}\!-\!\sqrt{d_\svert}\!-\!\frac{1\!-2\alpha}{C_{\min}}\right)^{\!2}}{8}\!+\!\log\!\left(\!(\!m\!-\!1\!)^2\!d_\svert\!\right)\!\!\!\right)\!\!.
+\end{aligned}
+\nonumber
+\end{equation}
+
+For the second term, we have
+\begin{equation}
+\begin{aligned}
+&\norm{\left(\fisher^n_{\support^c_\svert\support_\svert}-\fisher^*_{\support^c_\svert\support_\svert}\right) \left(\fisher^*_{\support_\svert\support_\svert}\right)^{-1}}{\infty,2}\\ &\qquad\qquad\leq \norm{\fisher^n_{\support^c_\svert\support_\svert}-\fisher^*_{\support^c_\svert\support_\svert}}{\infty,2} \Lambda_{\max}\left(\left(\fisher^*_{\support_\svert\support_\svert}\right)^{-1}\right)\\
+&\qquad\qquad\leq\frac{\sqrt{d_\svert}}{\sqrt{n}}\frac{1}{C_{\min}}.
+\end{aligned}
+\nonumber
+\end{equation}
+The last inequality follows from \eqref{fisher_inf_1_bound1} with high probability. Hence, we have
+\begin{equation}
+\begin{aligned}
+&\mathbb{P}\left[\norm{\left(\fisher^n_{\support^c_\svert\support_\svert} -\fisher^*_{\support^c_\svert\support_\svert}\right) \left(\fisher^*_{\support_\svert\support_\svert}\right)^{-1}}{\infty,2}>\epsilon\right]\\ &\!\leq\! 2\!\exp\!\left(\!\!-\frac{\left(\!\epsilon\sqrt{n}\!-\!\frac{\left(1\!+\!C_{\min}\right)\sqrt{d_\svert}}{C_{\min}}\!\right)^{\!2}\!\!}{8}\!+\!\log\!\left(\!(\!m\!-\!1\!)^{\!2}\!(\!p\!-\!1\!\!-\!d_\svert\!)\!\right)\!\!\!\right)\!\!.
+\end{aligned}
+\nonumber
+\end{equation}
+
+For the third term, we have
+\begin{equation}
+\begin{aligned}
+&\norm{\left(\fisher^n_{\support^c_\svert\support_\svert}-\fisher^*_{\support^c_\svert\support_\svert}\right) \left(\left(\fisher^n_{\support_\svert\support_\svert}\right)^{-1}\!\!\!\! -\left(\fisher^*_{\support_\svert\support_\svert}\right)^{-1}\right)}{\infty,2}\\ &\leq\!\! \norm{\fisher^n_{\support^c_\svert\support_\svert}\!\!-\fisher^*_{\support^c_\svert\support_\svert}}{\infty,2} \!\!\Lambda_{\max}\left(\left(\fisher^n_{\support_\svert\support_\svert}\right)^{-1}\!\!\!\! -\left(\fisher^*_{\support_\svert\support_\svert}\right)^{-1}\right)\\
+&\leq\frac{\sqrt{d_\svert}}{\sqrt{n}}\frac{\sqrt{d_\svert}}{C_{\min}^2\sqrt{n}}\,\,=\frac{d_\svert}{C_{\min}^2n}
+\end{aligned}
+\nonumber
+\end{equation}
+The last inequality follows from \eqref{fisher_inf_1_bound1} and \eqref{fisher_inf_1_bound2}. Hence, we have
+\begin{equation}
+\begin{aligned}
+&\mathbb{P}\left[\norm{\left(\fisher^n_{\support^c_\svert\support_\svert}\!\! -\fisher^*_{\support^c_\svert\support_\svert}\!\right)\! \left(\!\!\left(\fisher^n_{\support_\svert\support_\svert}\right)^{\!-1}\!\!\!\! -\left(\fisher^*_{\support_\svert\support_\svert}\right)^{\!-1}\right)}{\infty,2}\!\!\!\!>\!\epsilon\right]\\ &\leq 6\exp\Biggr(-\frac{\left(\bar{C}_{\min}\epsilon\sqrt{n}-\left(1+\frac{\sqrt{d_\svert}}{C_{\min}^2\sqrt{n}}\right)\sqrt{d_\svert}\right)^2}{8}\\ &\qquad\qquad\qquad\qquad\qquad+\log\left((m-1)^2(p-1-d_\svert)\right)\Biggr).
+\end{aligned}
+\nonumber
+\end{equation}
+The result follows by substituting $\epsilon$ with $\frac{\alpha}{3\sqrt{d_\svert}}$.
+
+\noindent {\bf (B3)} We can write
+\begin{equation}
+\begin{aligned}
+&\mathbb{P}\left[\Lambda_{\max}\left(\J^n\right)> D_{\max}+\epsilon\right]\\ &\qquad\qquad\qquad\quad\leq\mathbb{P}\left[\norm{\frac{1}{n}\sum_{i=1}^n\left(\J^{(i)}-\J^*\right)}{F}>\epsilon\right].
+\end{aligned}
+\nonumber
+\end{equation}
+Consequently, same analysis as part (B1) gives the result.\\
+
+This concludes the proof of the Lemma.
+
+\section{Sufficiency Lemmas for Pairwise Dependencies}
+\begin{lemma}
+The constructed candidate primal-dual pair $\left(\hat{\Theta}_{\backslash \svert},\hat{\dual}_{\backslash \svert}\right)$ satisfy the conditions of the Lemma~\ref{SuffOptCond} with probability $1-c_1\exp(-c_2n)$ for some positive constants $c_1,c_2\in\mathbb{R}$.
+\label{OptCertificate}
+\end{lemma}
+
+\begin{proof}
+Using the mean-value theorem, for some $\bar{\Theta}_{\backslash\svert}$ in the convex combination of $\hat{\Theta}_{\backslash\svert}$ and $\Theta^*_{\backslash\svert}$, we have
+\begin{equation}
+\begin{aligned}
+&\nabla^2\ell\left(\Theta^*_{\backslash\svert};D\right)\left[\hat{\Theta}_{\backslash\svert}-\Theta^*_{\backslash\svert}\right]\\ &=\nabla\ell\left(\hat{\Theta}_{\backslash\svert};D\right)-\nabla\ell\left(\Theta^*_{\backslash\svert};D\right)\\ &\quad+\left(\nabla^2\ell\left(\Theta^*_{\backslash\svert};D\right)-\nabla^2\ell\left(\bar{\Theta}_{\backslash\svert};D\right)\right)\left[\hat{\Theta}_{\backslash\svert}-\Theta^*_{\backslash\svert}\right]\\
+&=-\regpar_n\hat{\dual}_{\backslash\svert}-\underbrace{\nabla\ell\left(\Theta^*_{\backslash\svert};D\right)}_{W_{\backslash\svert}^n}\\ &\quad+\underbrace{\left(\nabla^2\ell\left(\Theta^*_{\backslash\svert};D\right)-\nabla^2\ell\left(\bar{\Theta}_{\backslash\svert};D\right)\right) \left[\hat{\Theta}_{\backslash\svert}-\Theta^*_{\backslash\svert}\right]}_{R_{\backslash\svert}^n}.\\
+\end{aligned}
+\nonumber
+\end{equation}
+We can rewrite these set of equations as two sets of equations over $\support_\svert$ and $\support_\svert^c$. By Lemma~\ref{Concentration_Lemma}, the Hessian sub-matrix on $\support_\svert$ is invertible with high probability and thus we get
+\begin{equation}
+\begin{aligned}
+&\fisher^n_{\support_\svert^c\support_\svert} \!\left(\fisher^n_{\support_\svert\support_\svert}\right)^{\!-1}\!\! \left(\!-\!\regpar_n\!\left(\!\hat{\dual}_{\backslash\svert}\!\right)_{\support_\svert} \!\!-\!\left(\!W_{\backslash\svert}^n\!\right)_{\support_\svert} \!\!+\!\left(\!R_{\backslash\svert}^n\!\right)_{\support_\svert}\!\right)\\ &\qquad\qquad=-\regpar_n\left(\hat{\dual}_{\backslash\svert}\right)_{\support_\svert^c} -\left(W_{\backslash\svert}^n\right)_{\support_\svert^c} +\left(R_{\backslash\svert}^n\right)_{\support_\svert^c}.
+\end{aligned}
+\nonumber
+\end{equation}
+Equivalently, we get
+\begin{equation}
+\begin{aligned}
+\left(\hat{\dual}_{\backslash\svert}\right)_{\support_\svert^c} &= \frac{1}{\regpar_n}\left[\left(W_{\backslash\svert}^n\right)_{\support_\svert^c} \!\!\!\!-\left(R_{\backslash\svert}^n\right)_{\support_\svert^c}\right]\\ &\quad-\frac{1}{\regpar_n}\fisher^n_{\support_\svert^c\support_\svert}\! \left(\!\fisher^n_{\support_\svert\support_\svert}\right)^{\!-1} \!\!\left(\!\left(\!W_{\backslash\svert}^n\!\right)_{\support_\svert} \!\!\!\!-\left(\!R_{\backslash\svert}^n\!\right)_{\support_\svert}\!\right)\\ &\quad+\fisher^n_{\support_\svert^c\support_\svert} \left(\fisher^n_{\support_\svert\support_\svert}\right)^{-1} \left(\hat{\dual}_{\backslash\svert}\right)_{\support_\svert}.\\
+\end{aligned} 
+\nonumber
+\end{equation}
+Notice that $\norm{\left(\hat{\dual}_{\backslash\svert}\right)_{\support_\svert}}{\infty,2}=1$. Thus, we can establish the following bound
+\begin{equation}
+\begin{aligned}
+&\norm{\left(\hat{\dual}_{\backslash\svert}\right)_{\support_\svert^c}}{\infty,2}\\ &\qquad\qquad\leq \left(1+\norm{\fisher^n_{\support_\svert^c\support_\svert} \left(\fisher^n_{\support_\svert\support_\svert}\right)^{-1}}{\infty,2}\!\!\sqrt{d_\svert}\right)\\ &\qquad\qquad\qquad\quad\left[\frac{\norm{W_{\backslash\svert}^n}{\infty,2}}{\regpar_n} +\frac{\norm{R_{\backslash\svert}^n}{\infty,2}}{\regpar_n}+1\right]-1\\
+&\qquad\qquad\leq(2-\alpha)\left(\frac{\alpha}{4(2-\alpha)}+\frac{\alpha}{4(2-\alpha)}+1\right)-1\\ &\qquad\qquad= 1-\frac{\alpha}{2} \,<\, 1.
+\end{aligned}
+\nonumber
+\end{equation}
+The second inequality holds with high probability acoording to Lemma~\ref{Concentration_Lemma} and Lemma~\ref{generalbounds}.\\
+\end{proof}
+
+\begin{lemma}
+For quantities defined in the proof of Lemma~\ref{OptCertificate}, the following inequalities hold:
+\begin{equation}
+\begin{aligned}
+&\mathbb{P}\left[\frac{\norm{W_{\backslash\svert}^n}{\infty,2}}{\lambda_n} \geq \frac{\alpha}{4(2-\alpha)}\right]\\ &\quad\leq 2\exp\left(-\frac{\left(\frac{\alpha}{4(2-\alpha)}\regpar_n\sqrt{n} - \frac{m-1}{2}\right)^2}{4}+\log(p-1)\right)\\
+&\mathbb{P}\left[\frac{\norm{R_{\backslash\svert}^n}{\infty,2}}{\regpar_n}>\frac{\alpha}{4(2-\alpha)}\right]\\ &\quad\leq 2\exp\left(-\frac{\left(\frac{\alpha}{4(2-\alpha)}\regpar_n\sqrt{n} - \frac{m-1}{2}\right)^2}{4}+\log(p-1)\right)\!\!.\\
+\end{aligned}
+\nonumber
+\end{equation}
+\label{generalbounds}
+\end{lemma}
+
+\begin{proof}
+The first inequality follows directly from \eqref{gradient_inf_2_bound}, for $\epsilon=\frac{\alpha}{4(2-\alpha)}\regpar_n-\frac{m-1}{2\sqrt{n}}$, provided that $\regpar_n\geq\frac{2(2-\alpha)}{\alpha}\frac{m-1}{\sqrt{n}}$. This probability goes to zero, if $\regpar_n\geq\frac{8(2-\alpha)}{\alpha}\left(\sqrt{\frac{\log(p-1)}{n}}+\frac{m-1}{4\sqrt{n}}\right)$.\\
+
+\noindent Before we proceed, we want to point out a technical fact that we will use it through the rest of the proof. For $\regpar_n$ achieves the lower bound mentioned above, any positive value $K$ and $n\geq\frac{1}{K^2}\frac{64(2-\alpha)^2}{\alpha^2}\left(\sqrt{\log(p-1)}+\frac{m-1}{4}\right)^2d_\svert^{\,2}$, we have $\regpar_nd_\svert\leq K$. Hence, we can assume $\regpar_nd_\svert$ is less than any \emph{fixed} constant $K$ for sufficiently large $n$.\\
+
+\noindent In order to bound $R^n_{\backslash\svert}$, we need to bound \footnotesize $\norm{\left(\hat{\Theta}_{\backslash\svert}\right)_{\support_\svert}-\left(\Theta^*_{\backslash\svert}\right)_{\support_\svert}}{\infty,2}$\normalsize, using the technique used in \citet{Rothman08}. Let $G:\mathbb{R}^{(m-1)^2d_\svert}\rightarrow\mathbb{R}$ be a function defined as\footnotesize
+\begin{equation}
+\begin{aligned}
+G\Big(\left(U\right)_{\support_\svert}\Big) &:=\ell\left(\left(\Theta^*_{\backslash\svert}\right)_{\support_\svert}\!\!+\!\left(U\right)_{\support_\svert};D\right) \!-\!\ell\left(\left(\Theta^*_{\backslash\svert}\right)_{\support_\svert};D\right)\\ &\quad+\!\regpar_n\left(\!\norm{\!\left(\Theta^*_{\backslash\svert}\right)_{\support_\svert} \!+\!\left(U\right)_{\support_\svert}}{1,2} \!\!\!\!\!-\!\norm{\!\left(\Theta^*_{\backslash\svert}\right)_{\support_\svert}}{1,2}\right).
+\end{aligned}
+\nonumber
+\end{equation}\normalsize
+By optimality of $\hat{\Theta}_{\backslash\svert}$, it is clear that \footnotesize $\left(\hat{U}\right)_{\support_\svert} =\left(\hat{\Theta}_{\backslash\svert}\right)_{\support_\svert} -\left(\Theta^*_{\backslash\svert}\right)_{\support_\svert}$\normalsize minimizes $G$. Since $G(\mathbf{0})=0$ by construction, we have \footnotesize$G\Big(\left(\hat{U}\right)_{\support_\svert}\Big)\leq 0$\normalsize. Suppose there exist an $\ell_\infty/\ell_2$ ball with radius $B_\svert$ such that for any \footnotesize$\norm{\left(U\right)_{\support_\svert}}{\infty,2}=B_\svert$\normalsize, we have that $G\Big(\left(U\right)_{\support_\svert}\Big)>0$. Then, we can claim that $\norm{\left(\hat{U}\right)_{\support_\svert}}{\infty,2}\leq B_\svert$; because if, in contrary, we assume that \footnotesize$\left(\hat{U}\right)_{\support_\svert}$\normalsize is outside the ball, then for an appropriate choice of $t\in(0,1)$, the point $t\left(\hat{U}\right)_{\support_\svert}\!\!\!+(1-t)\mathbf{0}\,\,\,$ lies on the boundary of the ball. By convexity of $G$, we have
+\begin{equation}
+\begin{aligned}
+G\left(t\left(\hat{U}\right)_{\support_\svert}\!\!\!\!+(1-t)\mathbf{0}\right)&\!\leq t\,G\left(\!\left(\hat{U}\right)_{\support_\svert}\!\right)\!+\!(1-t)G\left(\mathbf{0}\right)\\ &\leq 0.
+\end{aligned}
+\nonumber
+\end{equation}
+This is a contradiction to the assumption of the positivity of $G$ on the boundary of the ball.\\
+
+\noindent Let $\left(U\right)_{\support\svert}\in\mathbb{R}^{(m-1)^2d_\svert}$ be an arbitrary vector with \footnotesize$\norm{\left(U\right)_{\support_\svert}}{\infty,2}=\frac{5}{C_{\min}}\regpar_n$\normalsize.  Applying mean value theorem to the log liklihood function, for some $\beta\in[0,1]$, we get
+\begin{equation}
+\begin{aligned}
+&G\Big(\!\left(U\right)_{\support_\svert}\!\Big) =\tr{\left(W_{\backslash\svert}\right)_{\support_\svert}} {\left(U\right)_{\support_\svert}}\\ &\quad+ \tr{\left(U\right)_{\support_\svert}}{\nabla^2\ell\left(\left(\Theta^*_{\backslash\svert}\right)_{\support_\svert}+\beta\left(U\right)_{\support_\svert};D\right) \left(U\right)_{\support_\svert}} \\ &\quad+\regpar_n\left(\norm{\left(\Theta^*_{\backslash\svert}\right)_{\support_\svert}+\left(U\right)_{\support_\svert}}{1,2} -\norm{\left(\Theta^*_{\backslash\svert}\right)_{\support_\svert}}{1,2}\right).
+\end{aligned}
+\label{Gu_Eqn}
+\end{equation}
+We bound each of these three terms individually. By Cauchy-Schwartz inequality, we have
+\begin{equation}
+\begin{aligned}
+\left|\tr{\left(W_{\backslash\svert}\right)_{\support_\svert}} {\left(U\right)_{\support_\svert}}\right| &\leq\norm{\left(W_{\backslash\svert}\right)_{\support_\svert}}{\infty,2} \norm{\left(U\right)_{\support_\svert}}{1,2}\\
+&\leq\frac{\alpha}{4(2-\alpha)}\regpar_n d_\svert \frac{5}{C_{\min}}\regpar_n\\
+&\leq\frac{5}{4C_{\min}} d_\svert \regpar_n^2.
+\end{aligned}
+\nonumber
+\end{equation}
+Moreover, by triangle inequality,
+\begin{equation}
+\begin{aligned}
+&\regpar_n\left(\norm{\left(\Theta^*_{\backslash\svert}\right)_{\support_\svert}+\left(U\right)_{\support_\svert}}{1,2} -\norm{\left(\Theta^*_{\backslash\svert}\right)_{\support_\svert}}{1,2}\right)\\ &\qquad\qquad\qquad\qquad\qquad\qquad\qquad\geq -\regpar_n \norm{\left(U\right)_{\support_\svert}}{1,2}\\
+&\qquad\qquad\qquad\qquad\qquad\qquad\qquad\geq -\frac{5}{C_{\min}} d_\svert \regpar_n^2.
+\end{aligned}
+\nonumber
+\end{equation}
+To bound the other term, notice that by Tailor expansion, we get
+\begin{equation}
+\begin{aligned}
+&\Lambda_{\min}\left(\nabla^2\ell\left(\left(\Theta^*_{\backslash\svert}\right)_{\support_\svert}+\beta\left(U\right)_{\support_\svert};D\right)\right)\\ &\geq \min_{\beta\in[0,1]}\Lambda_{\min}\left(\nabla^2\ell\left(\left(\Theta^*_{\backslash\svert}\right)_{\support_\svert}+\beta\left(U\right)_{\support_\svert};D\right)\right)\\
+&\geq \Lambda_{\min}\left(\fisher^*_{\support_\svert\support_\svert}\right)\\ &\quad-\!\!\max_{\beta\in[0,1]}\!\Lambda_{\max}\! \left(\!\!\tr{\!\frac{\partial\nabla^2\ell\left(\Theta_{\support_\svert};D\right)} {\partial\Theta_{\support_\svert}}\Biggr|_{\left(\Theta^*_{\backslash\svert}\right)_{\support_\svert}\!\!\!\!\!+\beta\left(U\right)_{\support_\svert}\!\!\!\!\!}\!\!\!\!} {\left(U\right)_{\support_\svert}}\!\!\right)\\
+&\geq C_{\min} - \left(\max_{t_3\in\vertex\backslash\{\svert\}} \norm{\frac{\partial}{\partial\theta_{\svert t_3;\ell_3k_3}}\eta_{\ell_1\ell_2}\left(x^{(i)}\right)}{2}\sqrt{d_\svert}\right)\\ &\qquad\qquad\qquad\qquad\qquad\quad\!\!\Lambda_{\max}(\Im^*) \sqrt{d_\svert} \norm{\left(U\right)_{\support_\svert}}{\infty,2}\!,
+\end{aligned}
+\label{sim_analysis}
+\end{equation}
+where, $\eta(\cdot)$ is defined in Section \ref{Hessian_Section}. We know that $\Lambda_{\max}(\Im^*)=\Lambda_{\max}(\J^*)$ as a property of Kronecher product. By \eqref{derivative_hessian_eq} and assumption on the maximum eigenvalue of $\J^*$, we have
+\begin{equation}
+\begin{aligned}
+&\Lambda_{\min}\left(\nabla^2\ell\left(\left(\Theta^*_{\backslash\svert}\right)_{\support_\svert}+\beta\left(U\right)_{\support_\svert};D\right)\right)\\ &\quad\geq C_{\min} - \frac{m-1}{\sqrt{2}} \, d_\svert D_{\max}\norm{\left(U\right)_{\support_\svert}}{\infty,2}\\
+&\quad\geq C_{\min} - \frac{m-1}{\sqrt{2}} \, d_\svert D_{\max}  \frac{5}{C_{\min}} \regpar_n\\
+&\quad\geq \frac{C_{\min}}{2}\qquad\qquad \left(\regpar_n d_\svert\leq\frac{C_{\min}^2}{\sqrt{50}(m-1)D_{\max}}\right).
+\end{aligned}
+\nonumber
+\end{equation}
+Hence, from \eqref{Gu_Eqn}, we get
+\begin{equation}
+\begin{aligned}
+G\Big(\!\left(U\right)_{\support_\svert}\!\Big) &\geq d_\svert \frac{5}{C_{\min}} \regpar_n^2 \left(-\frac{1}{4}+\frac{5}{2}-1\right) > 0.
+\end{aligned}
+\nonumber
+\end{equation}
+We can colclude that
+\begin{equation}
+\norm{\left(\hat{\Theta}_{\backslash\svert}\right)_{\support_\svert} -\left(\Theta^*_{\backslash\svert}\right)_{\support_\svert}}{\infty,2}\leq \frac{5}{C_{\min}}\regpar_n.
+\label{L_inf_2_bound}
+\end{equation}
+with high probability. With similar analysis on the maximum eigenvalue of the derivative of Hessian as in \eqref{sim_analysis}, it is easy to show that
+\begin{equation}
+\begin{aligned}
+&\frac{\norm{R^n_{\backslash\svert}}{\infty,2}}{\regpar_n}\\ &\qquad\leq \frac{1}{\regpar_n} \frac{m-1}{\sqrt{2}}\, d_\svert D_{\max} \norm{\left(\hat{\Theta}_{\backslash\svert}\right)_{\support_\svert} -\left(\Theta^*_{\backslash\svert}\right)_{\support_\svert}}{\infty,2}^2\\
+&\qquad\leq \frac{m-1}{\sqrt{2}} \, d_{\svert} D_{\max} \frac{25}{C_{\min}^2} \regpar_n\\
+&\qquad\leq\frac{\alpha}{4(2-\alpha)},
+\end{aligned}
+\nonumber
+\end{equation}
+provided that $\regpar_n d_\svert\leq\frac{C_{\min}^2}{50\sqrt{2}(m-1)D_{\max}}\frac{\alpha}{2-\alpha}$.\\
+\end{proof}
+
+\section{Proof of Lemma~\ref{concentration_clique}}
+\noindent {\bf (D1)} By variational representation of the smallest eigenvalue, we have
+\begin{equation}
+\begin{aligned}
+&\Lambda_{\min}\Bigg(\left[\nabla^2\ell\Big(\bar{\Theta}^*_P;\Data\Big)\right]_{\support_\svert\support_\svert}\Bigg)\\ &\geq\Lambda_{\min}\left(\left[\nabla^2\ell\Big(\bar{\Theta}^*_{\backslash\svert};\Data\Big)\right]_{\support_\svert\support_\svert}\right)\\ &\quad-\Lambda_{\max}\!\!\left(\!\left[\nabla^2\ell\Big(\bar{\Theta}^*_{\backslash\svert};\Data\Big)\right]_{\support_\svert\support_\svert} \!\!\!\!\!\!-\left[\nabla^2\ell\Big(\bar{\Theta}^*_P;\Data\Big)\right]_{\support_\svert\support_\svert}\!\right)\\
+&\geq C_{\min}(1+\gamma)\\ &\quad-\Lambda_{\max}\!\!\left(\!\left[\nabla^2\ell\Big(\bar{\Theta}^*_{\backslash\svert};\Data\Big)\right]_{\support_\svert\support_\svert} \!\!\!\!\!\!-\left[\nabla^2\ell\Big(\bar{\Theta}^*_P;\Data\Big)\right]_{\support_\svert\support_\svert}\!\right)\!\!.
+\end{aligned}
+\nonumber
+\end{equation}
+In the second inequality, we used the result of Lemma~\ref{Concentration_Lemma}, i.e., the inequality holds with probability stated in Lemma~\ref{concentration_clique}. By Tailor expansion, for some $\beta\in[0,1]$, and by \eqref{sim_analysis_general}, we get
+\begin{equation}
+\begin{aligned}
+&\Lambda_{\max}\left(\left[\nabla^2\ell\Big(\bar{\Theta}^*_{\backslash\svert};\Data\Big)\right]_{\support_\svert\support_\svert} \!\!\!\!-\left[\nabla^2\ell\Big(\bar{\Theta}^*_P;\Data\Big)\right]_{\support_\svert\support_\svert}\right)\\ &\leq\Lambda_{\max}\left(\tr{\frac{\partial\left[\nabla^2\ell\Big(\bar{\Theta};\Data\Big)\right]_{\support_\svert\support_\svert}}{\partial\bar{\Theta}}\Biggr|_{\bar{\Theta}^*_{\backslash\svert}-\beta\bar{\Theta}^*_{P^c}}}{\bar{\Theta}^*_{P^c}}\right)\\
+&\leq\norm{\nabla\eta_{\ell_1\ell_2}\left(x^{(i)}\right)}{\infty}D_{\max}\norm{\bar{\Theta}^*_{P^c}}{1}\\
+&=\gamma C_{\min}. 
+\end{aligned}
+\nonumber
+\end{equation}
+Note that $\norm{\nabla\eta_{\ell_1\ell_2}\left(x^{(i)}\right)}{\infty}\leq 1$ for $\eta(\cdot)$ defined in section \ref{derivative_hessian}. The last inequality holds as a result of Lemma~\ref{Concentration_Lemma} with the probability stated in Lemma~\ref{concentration_clique}. Hence, the result follows.
+
+\noindent {\bf (D2)} We can write
+\begin{equation}
+\nabla^2\ell\left(\bar{\Theta}^*_P;D\right)_{\support_\svert^c\support_\svert}\!\! \left(\nabla^2\ell\left(\bar{\Theta}^*_P;D\right)_{\support_\svert\support_\svert}\right)^{\!-1}=\sum_{i=0}^3T_i,
+\nonumber
+\end{equation}
+where,
+\footnotesize\begin{equation}
+\begin{aligned}
+T_0&=\nabla^2\ell\left(\bar{\Theta}^*_{\backslash\svert};D\right)_{\support_\svert^c\support_\svert}\!\! \left(\nabla^2\ell\left(\bar{\Theta}^*_{\backslash\svert};D\right)_{\support_\svert\support_\svert}\right)^{\!-1}\\
+T_1&=\nabla^2\ell\left(\bar{\Theta}^*_{\backslash\svert};D\right)_{\support_\svert^c\support_\svert}\\ &\quad\left(\left(\nabla^2\ell\left(\bar{\Theta}^*_P;D\right)_{\support_\svert\support_\svert}\right)^{\!-1} \!\!\!\!-\left(\nabla^2\ell\left(\bar{\Theta}^*_{\backslash\svert};D\right)_{\support_\svert\support_\svert}\right)^{\!-1}\right)\\
+T_2&=\left(\nabla^2\ell\left(\bar{\Theta}^*_P;D\right)_{\support_\svert^c\support_\svert}\!\! -\nabla^2\ell\left(\bar{\Theta}^*_{\backslash\svert};D\right)_{\support_\svert^c\support_\svert}\right)\\ &\qquad\qquad\qquad\qquad\qquad\qquad\left(\nabla^2\ell\left(\bar{\Theta}^*_{\backslash\svert};D\right)_{\support_\svert\support_\svert}\right)^{\!-1}\\
+T_3&=\left(\nabla^2\ell\left(\bar{\Theta}^*_P;D\right)_{\support_\svert^c\support_\svert}\!\! -\nabla^2\ell\left(\bar{\Theta}^*_{\backslash\svert};D\right)_{\support_\svert^c\support_\svert}\right)\\ &\quad\left(\left(\nabla^2\ell\left(\bar{\Theta}^*_P;D\right)_{\support_\svert\support_\svert}\right)^{\!-1} \!\!\!\!-\left(\nabla^2\ell\left(\bar{\Theta}^*_{\backslash\svert};D\right)_{\support_\svert\support_\svert}\right)^{\!-1}\right)\!\!.\\
+\end{aligned}
+\nonumber
+\end{equation}\normalsize
+
+By Lemma~\ref{Concentration_Lemma}, we have that $\norm{T_0}{\infty,1}\leq \frac{1-\tau}{\sqrt{d_\svert}}$ with the probability stated in Lemma~\ref{concentration_clique}. For the second term, we have
+\begin{equation}
+\begin{aligned}
+&\norm{T_1}{\infty,2}\\ &\leq\!\norm{T_0}{\infty,2}\! \Lambda_{\max}\left(\underbrace{\!\!\nabla^2\ell\left(\bar{\Theta}^*_{\backslash\svert};D\right)_{\support_\svert\support_\svert} \!\!\!\!\!\!\!-\nabla^2\ell\left(\bar{\Theta}^*_P;D\right)_{\support_\svert\support_\svert}\!\!}_{T_{12}}\right)\\ &\qquad\qquad\qquad\qquad\qquad\!\!\Lambda_{\max}\left(\underbrace{\left(\nabla^2\ell\left(\bar{\Theta}^*_P;D\right)_{\support_\svert\support_\svert}\right)^{\!-1}}_{T_{13}}\right)\\
+&\leq\frac{1-\tau}{\sqrt{d_\svert}}\gamma C_{\min}\frac{1}{C_{\min}}\,\,=\frac{1-\tau}{\sqrt{d_\svert}}\gamma.
+\end{aligned}
+\nonumber
+\end{equation}
+We used the result of (D1) for $\Lambda_{\max}\left(T_{13}\right)\leq\frac{1}{C_{\min}}$.\\
+
+\noindent For the third term, we have
+\begin{equation}
+\begin{aligned}
+\norm{T_2}{\infty,2} &\leq \norm{\underbrace{\nabla^2\ell\left(\bar{\Theta}^*_{\backslash\svert};D\right)_{\support_\svert^c\support_\svert} \!\!\!\!\!\!\!-\nabla^2\ell\left(\bar{\Theta}^*_P;D\right)_{\support_\svert^c\support_\svert}}_{T_{21}}}{\infty,2}\\ &\qquad\qquad\quad\,\Lambda_{\max}\left(\underbrace{\left(\nabla^2\ell\left(\bar{\Theta}^*_{\backslash\svert};D\right)_{\support_\svert\support_\svert}\right)^{\!-1}}_{T_{22}}\right)\\
+&\leq\gamma C_{\min}\frac{1}{C_{\min}(1+\gamma)}\\
+&=\frac{\gamma}{1+\gamma}.
+\end{aligned}
+\nonumber
+\end{equation}
+
+\noindent For the fourth term, we have
+\begin{equation}
+\begin{aligned}
+\norm{T_3}{\infty,2}&\leq \norm{T_{21}}{\infty,2} \Lambda_{\max}\left(T_{22}\right)\Lambda_{\max}\left(T_{12}\right) 
+\Lambda_{\max}\left(T_{13}\right)\\
+&\leq\gamma C_{\min}\frac{1}{C_{\min}(1+\gamma)}\gamma C_{\min} \frac{1}{C_{\min}}\\
+&\leq\frac{\gamma^2}{1+\gamma}.\\
+\end{aligned}
+\nonumber
+\end{equation}
+
+\noindent Putting all piences together, we get the result.\\
+
+\noindent {\bf (D3)} The result follows directly from Lemma~\ref{Concentration_Lemma}.\\
+
+This concludes the proof of Lemma.
+
+
+\section{Sufficiency Lemmas for Higher Order Dependencies}
+\begin{lemma}
+The constructed candidate primal-dual pair $\left(\hat{\Theta}_{\backslash \svert},\hat{\dual}_{\backslash \svert}\right)$ satisfy the conditions of the Lemma~\ref{SuffOptCond} with probability $1-c_1\exp(-c_2n)$ for some positive constants $c_1,c_2\in\mathbb{R}$.
+\label{OptCertificate_general}
+\end{lemma}
+
+\begin{proof}
+Using the mean-value theorem, for some $\bar{\Theta}_{\backslash\svert}$ in the convex combination of $\hat{\Theta}_{\backslash\svert}$ and $\bar{\Theta}^*_P$, we have
+\begin{equation}
+\begin{aligned}
+&\nabla^2\ell\left(\bar{\Theta}^*_P;D\right)\left[\hat{\Theta}_{\backslash\svert}-\bar{\Theta}^*_P\right]\\ &=\nabla\ell\left(\hat{\Theta}_{\backslash\svert};D\right)-\nabla\ell\left(\bar{\Theta}^*_P;D\right)\\ &\quad+\left(\nabla^2\ell\left(\bar{\Theta}^*_P;D\right)-\nabla^2\ell\left(\bar{\Theta}_{\backslash\svert};D\right)\right)\left[\hat{\Theta}_{\backslash\svert}-\bar{\Theta}^*_P\right]\\
+&=-\regpar_n\hat{\dual}_{\backslash\svert}-\underbrace{\nabla\ell\left(\bar{\Theta}^*_P;D\right)}_{\bar{W}_{\backslash\svert}^n}\\ &\quad+\underbrace{\left(\nabla^2\ell\left(\bar{\Theta}^*_P;D\right)-\nabla^2\ell\left(\bar{\Theta}_{\backslash\svert};D\right)\right) \left[\hat{\Theta}_{\backslash\svert}-\bar{\Theta}^*_P\right]}_{\bar{R}_{\backslash\svert}^n}.\\
+\end{aligned}
+\nonumber
+\end{equation}
+We can rewrite these set of equations as two sets of equations over $\support_\svert$ and $\support_\svert^c$. By Lemma~\ref{concentration_clique}, the Hessian sub-matrix on $\support_\svert$ is invertible with high probability and thus we get
+\begin{equation}
+\begin{aligned}
+&\nabla^2\ell\left(\bar{\Theta}^*_P;D\right)_{\support_\svert^c\support_\svert}\!\! \left(\nabla^2\ell\left(\bar{\Theta}^*_P;D\right)_{\support_\svert\support_\svert}\!\right)^{\!\!-1}\\ &\,\left(\!-\regpar_n\left(\hat{\dual}_{\backslash\svert}\right)_{\support_\svert}\!\!\!\!\!\!\! -\!\!\left(\bar{W}_{\backslash\svert}^n\right)_{\support_\svert}\!\!\!\!\!\!\! +\!\!\left(\bar{R}_{\backslash\svert}^n\right)_{\support_\svert}\!\!\right)\\ &\qquad\qquad\qquad\quad=-\regpar_n\left(\hat{\dual}_{\backslash\svert}\right)_{\support_\svert^c}\!\!\!\! -\!\left(\bar{W}_{\backslash\svert}^n\right)_{\support_\svert^c}\!\!\!\! +\!\left(\bar{R}_{\backslash\svert}^n\right)_{\support_\svert^c}.
+\end{aligned}
+\nonumber
+\end{equation}
+Notice that \footnotesize$\norm{\left(\hat{\dual}_{\backslash\svert}\right)_{\support_\svert}}{\infty,2}$ \normalsize$=1\,$ and hence, we get
+\begin{equation}
+\begin{aligned}
+&\norm{\left(\hat{\dual}_{\backslash\svert}\right)_{\support_\svert^c}}{\infty,2}\\ &\leq\!\! \left(\!1\!+\!\norm{\nabla^2\ell\left(\bar{\Theta}^*_P;D\right)_{\!\!\support_\svert^c\support_\svert}\!\!\! \left(\nabla^2\ell\left(\bar{\Theta}^*_P;D\right)_{\!\!\support_\svert\support_\svert}\right)^{\!\!-1}}{\infty,2} \!\!\!\!\!\!\!\sqrt{d_\svert}\right)\\ &\qquad\qquad\qquad\qquad\!\!\!\left[\frac{\norm{\bar{W}_{\backslash\svert}^n}{\infty,2}}{\regpar_n} +\frac{\norm{\bar{R}_{\backslash\svert}^n}{\infty,2}}{\regpar_n}+1\right]-1\\
+&\leq(2-\alpha)\left(\frac{\alpha}{4(2-\alpha)}+\frac{\alpha}{4(2-\alpha)}+1\right)-1\\ &= 1-\frac{\alpha}{2} \,<\, 1.
+\end{aligned}
+\nonumber
+\end{equation}
+The second inequality holds with high probability according to Lemma~\ref{concentration_clique} and Lemma~\ref{generalbounds_clique}.\\
+\end{proof}
+
+\begin{lemma}
+For quantities defined in the proof of Lemma~\ref{OptCertificate_general}, the following inequalities hold:
+\begin{equation}
+\begin{aligned}
+&\mathbb{P}\left[\frac{\norm{\bar{W}_{\backslash\svert}^n}{\infty,2}}{\lambda_n} > \frac{\alpha}{4(2-\alpha)}\right]\\ &\leq 2\exp\Biggr(\!\!\!-\!\frac{\left(\left(\!\frac{\alpha}{4(2-\alpha)}\regpar_n\!\!-\!\!\frac{1}{2}\norm{\bar{\Theta}^*_{P^c}}{1}\!\right)\sqrt{n} \!-\! \frac{m-1}{2}\right)^2}{4}\\ &\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad+\log(p-1)\Biggr)\\
+&\mathbb{P}\left[\frac{\norm{\bar{R}_{\backslash\svert}^n}{\infty,2}}{\regpar_n}>\frac{\alpha}{4(2-\alpha)}\right]\\ &\leq 2\exp\Biggr(\!\!\!-\!\frac{\left(\left(\!\frac{\alpha}{4(2-\alpha)}\regpar_n\!\!-\!\!\frac{1}{2}\norm{\bar{\Theta}^*_{P^c}}{1}\!\right)\sqrt{n} \!-\! \frac{m-1}{2}\right)^2}{4}\\ &\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad+\log(p-1)\Biggr)\!.\\
+\end{aligned}
+\nonumber
+\end{equation}
+\label{generalbounds_clique}
+\end{lemma}
+
+\begin{proof}
+By simple derivation, we have
+\begin{equation}
+\begin{aligned}
+&\frac{\partial}{\partial\bar{\theta}^*_{\svert t;\ell k}}\ell^{(i)}(\bar{\Theta}_P; \Data) = \I\left[x_t^{(i)}=k\right] \\ &\qquad\left(\I\left[x_\svert^{(i)}=\ell\right] - \mathbb{P}_{\bar{\Theta}^*_P} \left[X_\svert = \ell \, \mid X_{\backslash \svert} =
+x_{\backslash \svert}^{(i)}\right]\right).
+\end{aligned}
+\nonumber
+\end{equation}
+It is easy to show that
+\begin{equation} 
+\begin{aligned}
+&\mathbb{E}_{\bar{\Theta}^*_{\backslash\svert}}\left[\frac{\partial}{\partial\bar{\theta}^*_{\svert t;\ell k}}\ell^{(i)}(\bar{\Theta}_P; \Data)\right]\\ &=\mathbb{P}_{\bar{\Theta}^*_{\backslash\svert}}\left[X_\svert=\ell\mid X_t=k,X_{\backslash\svert,t}=x_{\backslash\svert,t}\right]\\ &\qquad\qquad\qquad-\mathbb{P}_{\bar{\Theta}^*_P}\left[X_\svert=\ell\mid X_t=k,X_{\backslash\svert,t}=x_{\backslash\svert,t}\right]\\
+&\leq\!\norm{\bar{\Theta}^*_{P^c}}{1}\\ &\quad\max_{\beta\in[0,1]}\!\norm{\nabla\mathbb{P}_{\bar{\Theta}^*_{\backslash\svert}\!\!\!-\,\beta\bar{\Theta}^*_{P^c}} \left[\!X_\svert\!=\!\ell\!\mid\! X_t\!=k\!,\!X_{\backslash\svert\!,\,t}\!=\!x_{\backslash\svert\!,\,t}\!\right]}{\infty}\\ &\leq\frac{1}{4}\norm{\bar{\Theta}^*_{P^c}}{1},
+\end{aligned}
+\nonumber
+\end{equation}
+where, with abuse of notation $\bar{\Theta}^*_{\backslash\svert}-\beta\bar{\Theta}^*_{P^c}$ represents the matrix $\bar{\Theta}^*_{\backslash\svert}$ purturbed only on the entries corresponding to $\bar{\Theta}^*_{P^c}$. Also, one can show that $\text{Var}\left(\frac{\partial}{\partial\theta^*_{\svert t;\ell k}}\ell^{(i)}(\Theta_{\backslash \svert}; \Data)\right)\leq\frac{1}{4}$. Consequently, with i.i.d assumption on drawn samples, we have $\text{Var}\left(\frac{\partial}{\partial\bar{\theta}^*_{rt;\ell k}}\ell(\Theta_{\backslash \svert}; \Data)\right)\leq\frac{1}{4n}$. For a fixed $t\in\vertex\backslash\{\svert\}$ by Jensen's inequality,
+\begin{equation}
+\begin{aligned}
+&\mathbb{E}_{\Theta^*_{\backslash\svert}}\left[\norm{\frac{\partial}{\partial\bar{\theta}^*_{\svert t;\ell k}}\ell(\Theta_{\backslash \svert}; \Data)}{2}\right]\\ &\qquad\qquad\qquad\quad\leq\sqrt{\mathbb{E}_{\Theta^*_{\backslash\svert}}\left[\norm{\frac{\partial}{\partial\bar{\theta}^*_{\svert t;\ell k}}\ell(\Theta_{\backslash \svert}; \Data)}{2}^2\right]}\\
+&\qquad\qquad\qquad\quad\leq\frac{1}{2}\sqrt{\frac{(m-1)^2}{n}+\norm{\bar{\Theta}^*_{P^c}}{1}^2}\\
+&\qquad\qquad\qquad\quad\leq\frac{m-1}{2\sqrt{n}}+\frac{1}{2}\norm{\bar{\Theta}^*_{P^c}}{1}.
+\end{aligned}
+\nonumber
+\end{equation}
+We have $\max_{t\in\vertex\backslash\{\svert\}}\norm{\frac{\partial}{\partial\bar{\theta}^*_{\svert t;\ell k}}\ell^{(i)}(\Theta_{\backslash \svert}; \Data)}{2}\leq\sqrt{2}$ for all $i$ and hence, by Azuma-Hoeffding inequality and the union bound, we get
+\begin{equation}
+\begin{aligned}
+&\mathbb{P}\left[\norm{\frac{\partial}{\partial\bar{\theta}^*_{\svert t;\ell k}}\ell(\Theta_{\backslash \svert}; \Data)}{\infty,2}\!\!\!\!>\frac{m-1}{2\sqrt{n}}+\frac{1}{2}\norm{\bar{\Theta}^*_{P^c}}{1}+\epsilon\right]\\ &\qquad\qquad\qquad\qquad\qquad\!\!\!\!\leq 2\exp\left(-\frac{\epsilon^2}{4}n+\log(p-1)\right)\!.\\
+\end{aligned}
+\nonumber
+\end{equation}
+For $\regpar_n\geq \frac{8(2-\alpha)}{\alpha}\left(\frac{m-1}{4\sqrt{n}}+\frac{1}{4}\norm{\bar{\Theta}^*_{P^c}}{1}\right)$, the result follows.\\
+
+\noindent In order to bound $\bar{R}^n_{\backslash\svert}$, we need to control the estimation error $\left(\hat{\Theta}_{\backslash\svert}\right)_{\support_\svert}\!\!\!\! -\left(\bar{\Theta}^*_P\right)_{\support_\svert}$. Let $H:\mathbb{R}^{(m-1)^2d_\svert}\rightarrow\mathbb{R}$ be a function defined as
+\begin{equation}
+\begin{aligned}
+H(U_{\support_\svert})&:=\ell\left(\left(\bar{\Theta}^*_P\right)_{\support_\svert}+U_{\support_\svert};D\right) -\ell\left(\left(\bar{\Theta}^*_P\right)_{\support_\svert};D\right)\\ &+\regpar_n\left(\norm{\left(\bar{\Theta}^*_P\right)_{\support_\svert}+U_{\support_\svert}}{1,2} -\norm{\left(\bar{\Theta}^*_P\right)_{\support_\svert}}{1,2}\right). 
+\end{aligned}
+\nonumber
+\end{equation}
+By optimality of $\hat{\Theta}_{\backslash\svert}$, it is clear that  $U^*=\left(\hat{\Theta}_{\backslash\svert}\right)_{\support_\svert} -\left(\bar{\Theta}^*_P\right)_{\support_\svert}$ minimizes $H$. Since $H(\mathbf{0})=0$ by construction, we have $H(U^*)\leq 0$. Suppose there exist an $\ell_\infty/\ell_2$ ball with radius $B_\svert$ such that for any $\norm{U}{\infty,2}=B_\svert$, we have that $H(U)>0$. Then, we can claim that $\norm{U^*}{\infty,2}\leq B_\svert$. See proof of Lemma~\ref{generalbounds} for more discussion on this proof technique. Let $U_0\in\mathbb{R}^{(m-1)^2d_\svert}$ be an arbitrary vector with $\norm{U_0}{\infty,2}=\frac{5}{C_{\min}}\regpar_n$. We have
+\begin{equation}
+\begin{aligned}
+H(U_0)&:=\ell\left(\left(\bar{\Theta}^*_P\right)_{\support_\svert}+U_0;D\right) -\ell\left(\left(\bar{\Theta}^*_P\right)_{\support_\svert};D\right)\\ &+\regpar_n\left(\norm{\left(\bar{\Theta}^*_P\right)_{\support_\svert}+U_0}{1,2} -\norm{\left(\bar{\Theta}^*_P\right)_{\support_\svert}}{1,2}\right). 
+\end{aligned}
+\label{Hu_Eqn}
+\end{equation}
+We bound each of these three terms individually. Applying mean value theorem to the log liklihood function, for some $\beta\in[0,1]$, we get
+\begin{equation}
+\begin{aligned}
+&\ell\left(\left(\bar{\Theta}^*_P\right)_{\support_\svert}+U_0;D\right) -\ell\left(\left(\bar{\Theta}^*_P\right)_{\support_\svert};D\right)\\ &=\!\! \tr{\!\left(\!\bar{W}^n_{\backslash\svert}\right)_{\support_\svert}\!\!\!\!}{U_0}\! +\!\tr{U_0}{\!\nabla^2\ell\left(\left(\bar{\Theta}^*_P\right)_{\support_\svert}\!\!+\beta U_0;D\right)\!U_0}.
+\end{aligned}
+\nonumber
+\end{equation}
+Note that $\frac{\alpha}{4(2-\alpha)}\regpar_n\leq\frac{1}{4}\regpar_n$ and hence, by our bound on $\bar{W}^n_{\backslash\svert}$ and Cauchy-Shwartz inequality, we have
+\begin{equation}
+\begin{aligned}
+\left|\tr{\left(\bar{W}^n_{\backslash\svert}\right)_{\support_\svert}}{U_0}\right| &\leq\norm{\left(\bar{W}^n_{\backslash\svert}\right)_{\support_\svert}}{\infty,2} \norm{U_0}{1,2}\\ &\leq\frac{\regpar_n}{4}d_\svert\norm{U_0}{\infty,2}\\
+&\leq\frac{5}{4C_{\min}}\regpar_n^2d_\svert.
+\end{aligned}
+\nonumber
+\end{equation}
+To bound the other term, by Tailor expansion, we get
+\begin{equation}
+\begin{aligned}
+&\Lambda_{\min}\left(\nabla^2\ell\left(\left(\bar{\Theta}^*_P\right)_{\support_\svert}\!\!\! +\beta U_0;\Data\right)\right)\\
+&\geq \min_{\beta\in[0,1]}\Lambda_{\min}\left(\nabla^2\ell\left(\left(\bar{\Theta}^*_P\right)_{\support_\svert} \!\!\!+\beta U_0;D\right)\right)\\
+&\geq \Lambda_{\min}\left(\nabla^2\ell\left(\left(\bar{\Theta}^*_P\right)_{\support_\svert}\!\!\!\!;D\right)\right)\\ &\quad-\!\!\max_{\beta\in[0,1]}\!\Lambda_{\max} \left(\!\tr{\!\frac{\partial\nabla^2\ell\left(\left(\bar{\Theta}_P\right)_{\support_\svert}\!;D\right)\!\!\!} {\partial\left(\bar{\Theta}_P\right)_{\support_\svert}}\,\Biggr|_{\left(\bar{\Theta}^*_P\right)_{\support_\svert}\!\! +\beta U_0\!\!\!\!}\!\!\!\!} {U_0}\right)\\
+&\geq C_{\min}\\ &\quad -  \max_{t_3\in\vertex\backslash\{\svert\}}\norm{\frac{\partial\eta_{\ell_1\ell_2}\left(x^{(i)}\right)}{\partial\bar{\theta}_{\svert t_3;\ell_3k_3}}}{2}\!\!d_\svert\,\, \Lambda_{\max}(\Im^*) \norm{U_0}{\infty,2}\\
+&\geq C_{\min} - \frac{m-1}{\sqrt{2}}\,\, d_\svert D_{\max}\norm{U_0}{\infty,2}\\ &\geq\frac{C_{\min}}{2} \qquad\qquad\left(\regpar_nd_\svert\leq\frac{C_{\min}^2}{\sqrt{50}(m-1)D_{\max}}\right).
+\end{aligned}
+\label{sim_analysis_general}
+\end{equation}
+Here, we used the fact that $\Lambda_{\max}(\Im^*)=\Lambda_{\max}(\J^*)$ as a property of Kronecher product and also our assumption on the maximum eigenvalue of $\J^*$. By triangle inequality,
+\begin{equation}
+\begin{aligned}
+\regpar_n\left(\norm{\bar{\Theta}^*_P+U_0}{1,2} -\norm{\bar{\Theta}^*_P}{1,2}\right) &\geq -\regpar_n \norm{U_0}{1,2}\\
+&\geq -\regpar_n d_{\svert} \norm{U_0}{\infty,2}\\
+&\geq -\frac{5\regpar_n^2d_\svert}{C_{\min}}.
+\end{aligned}
+\nonumber
+\end{equation}
+Hence, from \eqref{Hu_Eqn}, we get $H(U_0)\geq\frac{5\regpar_n^2d_\svert}{4C_{\min}}>0$ and hence,
+\begin{equation}
+\norm{\left(\hat{\Theta}_{\backslash\svert}\right)_{\support_\svert} -\left(\bar{\Theta}^*_P\right)_{\support_\svert}}{\infty,2}\leq \frac{5}{C_{\min}}\regpar_n,
+\label{err_bound_general}
+\end{equation}
+with high probability. With similar analysis as in \ref{sim_analysis_general}, we have
+\begin{equation}
+\begin{aligned}
+&\frac{\norm{\bar{R}^n_{\backslash\svert}}{\infty,2}}{\regpar_n}\\ &\qquad\leq \frac{1}{\regpar_n}\frac{m-1}{\sqrt{2}}\,d_\svert D_{\max} \norm{\left(\hat{\Theta}_{\backslash\svert}\right)_{\support_\svert} \!\!\!-\left(\Theta^*_{\backslash\svert}\right)_{\support_\svert}}{\infty,2}^2\\
+&\qquad\leq \frac{m-1}{\sqrt{2}} \,d_{\svert} D_{\max} \frac{25}{C_{\min}^2} \regpar_n\\
+&\qquad\leq\frac{\alpha}{4(2-\alpha)},
+\end{aligned}
+\nonumber
+\end{equation}
+provided that $\regpar_nd_\svert\leq\frac{C_{\min}^2}{50\sqrt{2}(m-1)D_{\max}}\frac{\alpha}{2-\alpha}$.\\
+\end{proof}
+% 
+% \end{document}

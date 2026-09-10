@@ -1,0 +1,189 @@
+[[data]]
+Language = 'Python'
+"Operand Type" = 'regular expression regex'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = "r'str'"
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'regular expression regex'
+Feature = 'repetition'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+r'x{m}'
+r'c{m,n}' # m to n repetitions
+r'c{m,n}' # minimal match
+c* c+ c? #maximal match
+c*? c+? c?? #minimal match
+(?xyz) # one or more letters xyz'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'regular expression regex'
+Feature = 'start end'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '$ ^'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'regular expression regex'
+Feature = 'character set'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+[xyz]
+[^xyz] # not xyz
+. #anything'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'regular expression regex'
+Feature = 'group'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+(...) # Use \num to retrieve matched string.
+(\P<name>...)
+(?P=name) to match pattern defined earlier.'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'regular expression regex'
+Feature = 'lookahead'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+(?=...)
+(?!...) # match only if following str does not match ...'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'regular expression regex'
+Feature = 'character classes'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+\W non-alnum
+\w alnum'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'regular expression regex'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+\p{property=value}; \P{property=value}; \p{value} ; \P{value}
+\P{alpha} # non alphabet
+\p{alpha} # alphabet
+\p{P}+ # punctuation'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'regular expression regex'
+Feature = 'match'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import regex
+p = re.compile('[a-z]+')
+m = p.match('tempo') # can be used as bool
+m.group() # returns tempo'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'regular expression regex'
+Feature = 'match'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = """
+>>> p = re.compile('(a(b)c)d')
+>>> m = p.match('abcd')
+>>> m.group(0)
+'abcd'
+>>> m.group(1)
+'abc'
+>>> m.group(2)
+'b'"""
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'regular expression regex'
+Feature = 'flags'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 're.IGNORECASE | re.DOTALL | re.MULTILINE'
+Description = 'bitwise or them'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'regular expression regex'
+Feature = 'findall'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+re.findall(r'(?=(\w\w))', 'hello')
+matches = regex.findall(r"( [^\\,()]+? )", line, flags=re.UNICODE, overlapped=True)'''
+Description = 'regex is better than re, which has mor etrouble with unicode characters.  http://stackoverflow.com/questions/12746458/python-unicode-regular-expression-matching-failing-with-some-unicode-characters'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'regular expression regex'
+Feature = 'replace/ substitute'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+headword_str = regex.sub("\s+;", ";", headword_str, flags=regex.UNICODE)
+'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'regular expression regex'
+Feature = 'substitute group'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''re.sub(r'(foo)', r'\g<1>123', 'foobar')'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'regular expression re'
+Feature = 'replace/ substitute'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+num = re.sub(r'abc', '', input)              # Delete pattern abc
+num = re.sub(r'abc', 'def', input)           # Replace pattern abc -> def
+num = re.sub(r'\s+', '\s', input)            # Eliminate duplicate whitespaces
+num = re.sub(r'abc(def)ghi', '\1', input)    # Replace a string with a part of itself'''
+Description = ''

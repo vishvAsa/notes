@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Design on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/algorithms/design/</link>
+    <description>Recent content in &#43;Design on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/algorithms/design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abstract Data types and Data structures</title>
+      <link>https://vishvAsa.github.io/notes/computing/algorithms/design/Abstract_Data_types_and_Data_structures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/algorithms/design/Abstract_Data_types_and_Data_structures/</guid>
+      <description>&lt;h2 id=&#34;abstract-data-types&#34;&gt;Abstract data types&lt;/h2&gt;&#xA;&lt;p&gt;When data is stored, we often want to perform various operations (ie evaluate mathematical functions) on it.&lt;/p&gt;&#xA;&lt;p&gt;Abstract data type is a mathematical construct of a data-store, defined by the operations which can be performed over it, and consistency rules (which define the effect of the aforementioned operations on the stored data). For example, a stack can be defined using push, pop operations, with constraints such as pop(push(stack, x)) = x.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Algorithm design strategies</title>
+      <link>https://vishvAsa.github.io/notes/computing/algorithms/design/Algorithm_design_strategies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/algorithms/design/Algorithm_design_strategies/</guid>
+      <description>&lt;h2 id=&#34;bottom-up-solution&#34;&gt;Bottom up solution&lt;/h2&gt;&#xA;&lt;p&gt;Aka Divide and conquer. A bottom-up way of constructing the solution.&lt;/p&gt;&#xA;&lt;p&gt;This includes Dynamic programming, which is discussed in the Optimization survey.&lt;/p&gt;&#xA;&lt;h3 id=&#34;time-analysis&#34;&gt;Time Analysis&lt;/h3&gt;&#xA;&lt;p&gt;\tbc&lt;/p&gt;&#xA;&lt;h2 id=&#34;greedy-algorithms&#34;&gt;Greedy algorithms&lt;/h2&gt;&#xA;&lt;p&gt;Eg: shortest path algorithm.&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-matroid&#34;&gt;The matroid&lt;/h3&gt;&#xA;&lt;p&gt;This is a pair: (Set, Independence property). Eg: (vertices, Independent sets in a graph). There are efficient algorithms for finding the maximal indpendent subset. So, often sufficient to specify the problem using the matroid formalism.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sequence operations</title>
+      <link>https://vishvAsa.github.io/notes/computing/algorithms/design/Sequence_operations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/algorithms/design/Sequence_operations/</guid>
+      <description>&lt;h2 id=&#34;membership-query-algorithms&#34;&gt;Membership query algorithms&lt;/h2&gt;&#xA;&lt;p&gt;The abstract data types relevant here are Sets and multisets (defined in the algebra survey).&lt;/p&gt;&#xA;&lt;h3 id=&#34;over-associative-arrays&#34;&gt;Over Associative arrays&lt;/h3&gt;&#xA;&lt;p&gt;When the elements are stored as an associative array - eg: hash-fn map or a treep, answering membership queries is O(1).&lt;/p&gt;&#xA;&lt;h3 id=&#34;fingerprinting&#34;&gt;Fingerprinting&lt;/h3&gt;&#xA;&lt;p&gt;Coding theory is useful here: see fingerprinting in information theory ref.&lt;/p&gt;&#xA;&lt;h3 id=&#34;sequential-search-and-sorting&#34;&gt;Sequential search and sorting&lt;/h3&gt;&#xA;&lt;p&gt;Sequential search: O(n) in the worst case. When the list is unsorted, there is no choice but to do this. But, when the list is sorted, one can do better.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Set</title>
+      <link>https://vishvAsa.github.io/notes/computing/algorithms/design/Set/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/algorithms/design/Set/</guid>
+      <description>&lt;p&gt;Basic operations include listing elements, checking set-membership, finding unions and intersections.&lt;/p&gt;&#xA;&lt;p&gt;Set implementations include the ListSet and the BitSet.&lt;/p&gt;&#xA;&lt;h2 id=&#34;bit-set&#34;&gt;Bit-set&lt;/h2&gt;&#xA;&lt;p&gt;BitSet uses a sequence of bits - one for each element. Theoretically, it can store arbitrary elements which may be mapped to integers, but is often used to store integers. Its size is equal to the largest number N stored in the set, though it may store k elements; so, from this perspective, using it in preference to ListSet makes sense when the set is dense. Unlike listSets, membership check is constant time. But, listing the elements of the set requires O(N) time, often greater than O(k) required by ListSets.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Storing sequences</title>
+      <link>https://vishvAsa.github.io/notes/computing/algorithms/design/Storing_sequences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/algorithms/design/Storing_sequences/</guid>
+      <description>&lt;h2 id=&#34;operations&#34;&gt;Operations&lt;/h2&gt;&#xA;&lt;p&gt;Already stored data may be mutated with additions and deletions. Searching and sorting are considered elsewhere.&lt;/p&gt;&#xA;&lt;h3 id=&#34;low-level-operations&#34;&gt;Low level operations&lt;/h3&gt;&#xA;&lt;p&gt;Important special cases defined based on restrictions on insertion and deletion operations include stacks, queues, priority queues. In the case of stacks, elements leave the sequence in a last in first out (LIFO) order. In case of queues, elements leave in a first in first out (FIFO) order.&lt;/p&gt;&#xA;&lt;h3 id=&#34;higher-level-operations&#34;&gt;Higher level operations&lt;/h3&gt;&#xA;&lt;p&gt;These operations are defined in terms of low level operations described earlier: Eg: map, filter etc.. So, an efficient realization of low level operations automatically enables higher level operations.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

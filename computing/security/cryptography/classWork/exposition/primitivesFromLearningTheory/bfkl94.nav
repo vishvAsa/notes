@@ -1,0 +1,69 @@
+\beamer@endinputifotherversion {3.06pt}
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\sectionentry {1}{Outline}{2}{Outline}{0}}
+\headcommand {\beamer@sectionpages {1}{1}}
+\headcommand {\beamer@subsectionpages {1}{1}}
+\headcommand {\slideentry {1}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\slideentry {1}{0}{3}{3/5}{}{0}}
+\headcommand {\beamer@framepages {3}{5}}
+\headcommand {\sectionentry {2}{Introduction to Learning Theory}{6}{Introduction to Learning Theory}{0}}
+\headcommand {\beamer@sectionpages {2}{5}}
+\headcommand {\beamer@subsectionpages {2}{5}}
+\headcommand {\slideentry {2}{0}{4}{6/6}{}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\slideentry {2}{0}{5}{7/10}{}{0}}
+\headcommand {\beamer@framepages {7}{10}}
+\headcommand {\slideentry {2}{0}{6}{11/16}{}{0}}
+\headcommand {\beamer@framepages {11}{16}}
+\headcommand {\slideentry {2}{0}{7}{17/19}{}{0}}
+\headcommand {\beamer@framepages {17}{19}}
+\headcommand {\slideentry {2}{0}{8}{20/25}{}{0}}
+\headcommand {\beamer@framepages {20}{25}}
+\headcommand {\slideentry {2}{0}{9}{26/28}{}{0}}
+\headcommand {\beamer@framepages {26}{28}}
+\headcommand {\sectionentry {3}{Hardness of learning as a cryptographic assumption}{29}{Hardness of learning as a cryptographic assumption}{0}}
+\headcommand {\beamer@sectionpages {6}{28}}
+\headcommand {\beamer@subsectionpages {6}{28}}
+\headcommand {\slideentry {3}{0}{10}{29/29}{}{0}}
+\headcommand {\beamer@framepages {29}{29}}
+\headcommand {\beamer@subsectionpages {29}{29}}
+\headcommand {\slideentry {3}{1}{1}{30/30}{What do we really mean?}{0}}
+\headcommand {\beamer@framepages {30}{30}}
+\headcommand {\slideentry {3}{1}{2}{31/34}{What do we really mean?}{0}}
+\headcommand {\beamer@framepages {31}{34}}
+\headcommand {\slideentry {3}{1}{3}{35/38}{What do we really mean?}{0}}
+\headcommand {\beamer@framepages {35}{38}}
+\headcommand {\beamer@subsectionpages {30}{38}}
+\headcommand {\slideentry {3}{2}{1}{39/39}{Fixing the problem in hardness definition}{0}}
+\headcommand {\beamer@framepages {39}{39}}
+\headcommand {\slideentry {3}{2}{2}{40/41}{Fixing the problem in hardness definition}{0}}
+\headcommand {\beamer@framepages {40}{41}}
+\headcommand {\slideentry {3}{2}{3}{42/47}{Fixing the problem in hardness definition}{0}}
+\headcommand {\beamer@framepages {42}{47}}
+\headcommand {\sectionentry {4}{Pseudorandom generator from Hard to learn set of functions}{48}{Pseudorandom generator from Hard to learn set of functions}{0}}
+\headcommand {\beamer@sectionpages {29}{47}}
+\headcommand {\beamer@subsectionpages {39}{47}}
+\headcommand {\slideentry {4}{0}{4}{48/48}{}{0}}
+\headcommand {\beamer@framepages {48}{48}}
+\headcommand {\slideentry {4}{0}{5}{49/53}{}{0}}
+\headcommand {\beamer@framepages {49}{53}}
+\headcommand {\slideentry {4}{0}{6}{54/55}{}{0}}
+\headcommand {\beamer@framepages {54}{55}}
+\headcommand {\sectionentry {5}{Conclusion}{56}{Conclusion}{0}}
+\headcommand {\beamer@sectionpages {48}{55}}
+\headcommand {\beamer@subsectionpages {48}{55}}
+\headcommand {\slideentry {5}{0}{7}{56/56}{}{0}}
+\headcommand {\beamer@framepages {56}{56}}
+\headcommand {\slideentry {5}{0}{8}{57/60}{}{0}}
+\headcommand {\beamer@framepages {57}{60}}
+\headcommand {\slideentry {5}{0}{9}{61/63}{}{0}}
+\headcommand {\beamer@framepages {61}{63}}
+\headcommand {\slideentry {5}{0}{10}{64/64}{}{0}}
+\headcommand {\beamer@framepages {64}{64}}
+\headcommand {\beamer@partpages {1}{64}}
+\headcommand {\beamer@subsectionpages {56}{64}}
+\headcommand {\beamer@sectionpages {56}{64}}
+\headcommand {\beamer@documentpages {64}}
+\headcommand {\def \inserttotalframenumber {23}}

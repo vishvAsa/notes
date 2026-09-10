@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Numerical Analysis on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/numerical_analysis/</link>
+    <description>Recent content in &#43;Numerical Analysis on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/numerical_analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Common problems</title>
+      <link>https://vishvAsa.github.io/notes/computing/numerical_analysis/common_problems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/numerical_analysis/common_problems/</guid>
+      <description>&lt;h2 id=&#34;interpolation&#34;&gt;Interpolation&lt;/h2&gt;&#xA;&lt;p&gt;See approximation theory ref.&lt;/p&gt;&#xA;&lt;h2 id=&#34;root-finding&#34;&gt;Root finding&lt;/h2&gt;&#xA;&lt;p&gt;Find \(x: f(x) = 0\).&lt;/p&gt;&#xA;&lt;h3 id=&#34;newtons-method&#34;&gt;Newton&amp;rsquo;s method&lt;/h3&gt;&#xA;&lt;p&gt;Find the root iteratively. Take a local linear approximation \(g(x) = f(x_n) + \gradient f(x_n)^{T}(x-x_n)\) for \(f\), find its root; and use it as the next guess for the root.&lt;/p&gt;&#xA;&lt;p&gt;\(x_{n+1} = x_{n} + \frac{f(x_{n})}{f&amp;rsquo;(x_{n})}\). For vector function \(f\): \(x_{n+1} = x_{n} + (\gradient(f(x_{n})))^{-1}f(x_{n})\).&lt;/p&gt;&#xA;&lt;p&gt;This becomes the Newton&amp;rsquo;s method in optimization, when applied to solving for the optimality condition \(\gradient f(x) = 0\).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dense algebra</title>
+      <link>https://vishvAsa.github.io/notes/computing/numerical_analysis/dense_algebra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/numerical_analysis/dense_algebra/</guid>
+      <description>&lt;h2 id=&#34;decompositional-approach&#34;&gt;Decompositional approach&lt;/h2&gt;&#xA;&lt;p&gt;Easy to analyze stability. Can reuse decomposition to solve multiple instances of the problem: eg consider A = LU.&lt;/p&gt;&#xA;&lt;h2 id=&#34;condition-number-of-a-matrix&#34;&gt;Condition number of a matrix&lt;/h2&gt;&#xA;&lt;h3 id=&#34;condition-number-of-ax-when-x-perturbed&#34;&gt;Condition number of Ax when x perturbed&lt;/h3&gt;&#xA;&lt;p&gt;\(k = \sup_{\change x} \frac{\norm{A\change x}}{\norm{\change x}}\frac{\norm{x}}{\norm{Ax}} = \norm{A}\frac{\norm{x}}{\norm{Ax}} \leq \norm{A}\norm{A^{-1}}\) or \(\leq \norm{A}\norm{A^{+}}\) if A not square.&lt;/p&gt;&#xA;&lt;p&gt;So, condition of \(A^{-1}b\) when b perturbed, \(k = \norm{A^{-1}}\frac{\norm{Ax}}{\norm{x}} \leq \norm{A}\norm{A^{-1}}\).&lt;/p&gt;&#xA;&lt;h3 id=&#34;condition-number-of-matrix-wrt-norm&#34;&gt;Condition number of matrix wrt norm&lt;/h3&gt;&#xA;&lt;p&gt;\(k(A) = \norm{A}\norm{A^{-1}}\).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Low error computation</title>
+      <link>https://vishvAsa.github.io/notes/computing/numerical_analysis/low_error_computation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/numerical_analysis/low_error_computation/</guid>
+      <description>&lt;h2 id=&#34;round-off-errors&#34;&gt;Round off errors&lt;/h2&gt;&#xA;&lt;p&gt;See the computer architecture survey&amp;rsquo;s chapters on number storage where representation accuracy and arithmetic accuracy are described. Tolerance of the problem and of the algorithm to representation error and error in basic arithmetic computations is considered later.&lt;/p&gt;&#xA;&lt;h3 id=&#34;underflow-avoidance&#34;&gt;Underflow avoidance&lt;/h3&gt;&#xA;&lt;p&gt;Sometimes, in case of computations involving multiplication and division with very small numbers (eg: probability calculation), there is the chance of underflow: a small non-0 number \(x\) may be stored as 0; which would then lead to \(0\) and \(\infty\) results during later multiplication and division. To avoid this, one can use the logrithmic representation: x would be stored as \(\log x\), and (xy) would be computed using \(\log x + \log y\).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

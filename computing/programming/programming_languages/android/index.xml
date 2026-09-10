@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Android on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/android/</link>
+    <description>Recent content in &#43;Android on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android API</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/android/android_api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/android/android_api/</guid>
+      <description>&lt;h2 id=&#34;components&#34;&gt;Components&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Activities - UI - a screen on the display. An activity is a single, focused thing that the user can do.&lt;/li&gt;&#xA;&lt;li&gt;Services - perform long-running operations in the background&lt;/li&gt;&#xA;&lt;li&gt;Content Providers - manage access to repositories of data&lt;/li&gt;&#xA;&lt;li&gt;Broadcast Receivers - respond to broadcast intents&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;activity&#34;&gt;Activity&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Hierarchical parent: All screens in your app that are not the main entrance to your app (the &amp;ldquo;home&amp;rdquo; screen) should offer the user a way to navigate to the logical parent screen in the app&amp;rsquo;s hierarchy by pressing the Up button in the action bar.&lt;/li&gt;&#xA;&lt;li&gt;Intent - An Intent is an object that provides runtime binding between separate components (such as two activities). The Intent represents an app’s &amp;ldquo;intent to do something.&amp;rdquo;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;view-group&#34;&gt;View group&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Invisible container containing other viewGroup and View objects&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;manifest&#34;&gt;manifest&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Components that you include in your source but do not declare in the manifest are not visible to the system and, consequently, can never run.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Lists:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

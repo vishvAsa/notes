@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Math on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/</link>
+    <description>Recent content in &#43;Math on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CVX</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/cvx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/cvx/</guid>
+      <description>&lt;h2 id=&#34;distinctive-features&#34;&gt;Distinctive features&lt;/h2&gt;&#xA;&lt;h3 id=&#34;disciplined-convex-programming-framework&#34;&gt;Disciplined convex programming framework&lt;/h3&gt;&#xA;&lt;p&gt;Makes specification easy. Abstracts away the mathematical and methodological details (like what underlying solver to call?).&lt;/p&gt;&#xA;&lt;p&gt;Tries to mimic the way people formulate convex programs: drawing from a library of convex functions, combining them in various valid ways to preserve convexity. Similarly, it has a rich, expandable library of functions with known properties, plus it specifies valid ways of composing and combining them.&lt;/p&gt;&#xA;&lt;p&gt;Good way to check convexity of the problem!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google Spreadsheet</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/google_spreadsheet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/google_spreadsheet/</guid>
+      <description>&lt;h2 id=&#34;google-docs&#34;&gt;Google docs&lt;/h2&gt;&#xA;&lt;h3 id=&#34;cell-referencing&#34;&gt;Cell referencing&lt;/h3&gt;&#xA;&lt;p&gt;Columns are numbered with letters and rows with numbers. A cell can be specified using a latter and a number.&lt;/p&gt;&#xA;&lt;p&gt;When cell references are copied (perhaps as part of formulae), the references may be automatically changed in a certain way - this is called relative reference: Eg: The reference A20 used in cell A2, when copied to B2 will automatically be changed to B20.&lt;/p&gt;&#xA;&lt;p&gt;When such change does not happen, we have absolute reference to a cell. Eg A$20, and $A20 (the former indicating that the row is fixed and the latter fixing the column), $A$20.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Matlab/ Octave</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/matlab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/matlab/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;h3 id=&#34;distinctive-features-of-the-language&#34;&gt;Distinctive features of the language&lt;/h3&gt;&#xA;&lt;p&gt;Excellent plotting facilities; many libraries; interactive sessions good for exploring features of data; easy I/O: don&amp;rsquo;t need to spend as much time in getting I/O right as in actual computation; excellent debugging facilities.&lt;/p&gt;&#xA;&lt;p&gt;Octave is an open source clone of matlab.&lt;/p&gt;&#xA;&lt;h4 id=&#34;purpose-of-design&#34;&gt;Purpose of design&lt;/h4&gt;&#xA;&lt;p&gt;Matrix computations. This is meant to be a rapid prototyping language : It is not meant for fast implementations.&lt;/p&gt;&#xA;&lt;h4 id=&#34;versions&#34;&gt;Versions&lt;/h4&gt;&#xA;&lt;p&gt;Certain OOP methods, properties don&amp;rsquo;t work with 2007 version.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>R</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/R/</guid>
+      <description>&lt;h2 id=&#34;introduction-and-use&#34;&gt;Introduction and use&lt;/h2&gt;&#xA;&lt;h3 id=&#34;when-to-use&#34;&gt;When to use&lt;/h3&gt;&#xA;&lt;p&gt;Statistics is the emphasis, not matrix manipulation. It is an expression language.&lt;/p&gt;&#xA;&lt;h3 id=&#34;when-not-to-use&#34;&gt;When not to use&lt;/h3&gt;&#xA;&lt;p&gt;Text processing and general purpose programming are painful.&lt;/p&gt;&#xA;&lt;h3 id=&#34;writing-building-and-executing-code&#34;&gt;Writing, Building and executing code&lt;/h3&gt;&#xA;&lt;h4 id=&#34;script-execution&#34;&gt;Script execution&lt;/h4&gt;&#xA;&lt;p&gt;source(&amp;quot;/path/file.R&amp;quot;).&lt;/p&gt;&#xA;&lt;h4 id=&#34;reloading-changed-code&#34;&gt;Reloading changed code&lt;/h4&gt;&#xA;&lt;p&gt;library(&amp;ldquo;R.utils&amp;rdquo;);&lt;/p&gt;&#xA;&lt;p&gt;sourceDirectory(&amp;ldquo;work&amp;rdquo;, modifiedOnly=TRUE, \pattern=&amp;quot;[A-Z]*[.]R$&amp;quot;, recursive=FALSE);&lt;/p&gt;&#xA;&lt;h4 id=&#34;important-environment-variables&#34;&gt;Important environment variables&lt;/h4&gt;&#xA;&lt;p&gt;\verb R_LIBS : the place where R libraries are installed.&lt;/p&gt;&#xA;&lt;h4 id=&#34;working-environment&#34;&gt;Working environment&lt;/h4&gt;&#xA;&lt;p&gt;getwd(), setwd(dir)&lt;/p&gt;&#xA;&lt;p&gt;options(): Example options(digits=3)&lt;/p&gt;&#xA;&lt;h4 id=&#34;command-history&#34;&gt;Command history&lt;/h4&gt;&#xA;&lt;p&gt;history(), savehistory, loadhistory.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rapidminer</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/rapidminer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/math/rapidminer/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;h3 id=&#34;purpose&#34;&gt;Purpose&lt;/h3&gt;&#xA;&lt;p&gt;Rapidminer provides convenient tools for data loading, exploration, modelling, visualization.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ui-and-api&#34;&gt;UI and API&lt;/h3&gt;&#xA;&lt;p&gt;It comes with a nice GUI. It provides Java API. It also has a scripting interface.&lt;/p&gt;&#xA;&lt;h3 id=&#34;data-types&#34;&gt;Data types&lt;/h3&gt;&#xA;&lt;p&gt;(Bi or Poly) Nominal, Integer, Double, Varchar.&lt;/p&gt;&#xA;&lt;h2 id=&#34;processes&#34;&gt;Processes&lt;/h2&gt;&#xA;&lt;p&gt;One can visualize the data mining process as a tree of operators. The leaf nodes correspond to the result nodes. Processes can be edited in the design view : here it looks like an electronic circuit. This is effectively programming using a GUI.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

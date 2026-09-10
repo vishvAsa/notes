@@ -1,0 +1,1026 @@
+[[data]]
+Language = 'C++'
+"Operand Type" = 'array'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'type v[size]; type v[s1][s2];'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'array'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+ typ tmp[] = {obj1, obj2 ..};
+array<int,5> myints;'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'array'
+Feature = 'size'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+tmp.size();
+sizeof(tmp)/sizeof(int)'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'array'
+Feature = 'type'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'base_type[][depth][depth]'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'array'
+Feature = 'indexing'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'v[idx] = 50;'
+Description = 'Same as *(v + idx)'
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'array'
+Feature = 'fill'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+int array[100];
+    std::fill(array, array+100, 0);'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Iterator'
+Feature = 'concept'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'pointer-like object that can be incremented with ++, dereferenced with *, and compared against another iterator with !=.'
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Iterator'
+Feature = 'value'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '* iter'
+Description = 'like pointers.'
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Iterator'
+Feature = 'increment'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'iter ++'
+Description = 'like pointers.'
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Iterator'
+Feature = 'compare'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'like pointers.'
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Iterator'
+Feature = 'for each'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+for (auto iter = v.begin(); iter != v.end(); iter++)
+          cout << (*iter) << endl;'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Iterator'
+Feature = 'for each'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'C++11 style'
+Syntax = 'for (auto& iter : v) {}'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Iterator'
+Feature = 'for each'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'for_each(in_iter, out_iter, fn)'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Iterator'
+Feature = 'map'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+#include <algorithm>
+transform(inIterBeg, inIterEnd, outIter, fn)
+std::transform (foo.begin(), foo.end(), bar.begin(), op_increase);'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Iterator'
+Feature = 'map'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+#include <algorithm>
+transform(inIterBeg, inIterEnd, inIter2Beg, outIter, fn)
+std::transform (foo.begin(), foo.end(), bar.begin(), foo.begin(), std::plus<int>());'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Iterator'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'find_if (iterBeg, iterEnd, fn)'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Iterator'
+Feature = 'binary search'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+bool = binary_search(iterBeg, iterEnd, val);
+iter_result = find(...);'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'output iterator'
+Feature = 'back inserter'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+std::back_insert_iterator< std::vector<int> > back_it (foo);
+back_inserter(foo)'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Iteration'
+Feature = 'loop'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'for(initialization; condition; increment) codeBlock'
+Description = 'The pre and post statements are optional.'
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Iteration'
+Feature = 'loop'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'while(condition) codeblock'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Iteration'
+Feature = 'loop'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'do codeblock while(condition)'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Iteration'
+Feature = 'loop'
+Subfeature = 'break'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'break'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Iteration'
+Feature = 'loop'
+Subfeature = 'skip'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'continue'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'list'
+Feature = 'Concept'
+Subfeature = 'definition'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Doubly linked list.'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'list'
+Feature = 'push'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+std::list<int> mylist (2,100);         // two ints with a value of 100
+  mylist.push_front (200);
+  mylist.push_back (300);'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'list'
+Feature = 'pop'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'list'
+Feature = 'emplace'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '  myvector.emplace_back (100);'
+Description = 'Inserts a new element at the end of the vector, right after its current last element. This new element is constructed in place using args as the arguments for its constructor.'
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'list'
+Feature = 'iterate'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'for (std::list<int>::iterator it=mylist.begin(); it!=mylist.end(); ++it)'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'list'
+Feature = 'iterate'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'C++ 11'
+Syntax = '''
+for (int i : vec ) 
+{
+    cout << i;
+}'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'circular buffer'
+Feature = 'push'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+      boost::circular_buffer<int> cb(3);
+
+      // Insert some elements into the buffer.
+      cb.push_back(1);
+      cb.push_back(2);
+      cb.push_back(3);
+ cb.push_back(4);  // Overwrite 1 with 4.'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'circular buffer'
+Feature = 'pop'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+cb.pop_back();  // 5 is removed.
+      cb.pop_front(); // 3 is removed.'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'vector'
+Feature = 'Concept'
+Subfeature = 'definition'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Wrapper over arrays. Akin to arraylist in java.'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'vector'
+Feature = 'vector of unique pointers'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+  vector<unique_ptr<A>> m;
+  m.push_back(unique_ptr<A>(new A()));
+  unique_ptr d = m[0];
+  unique_ptr d = m.at(0); // fails'''
+Description = 'a reference is returned, so no problem.'
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'vector'
+Feature = 'initialize'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+#include <vector>
+vector<T> var;
+vector<T> var(size [, def]);
+vector<T> vec1(vec2);'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'vector'
+Feature = 'caveat'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+vector<T *> var;
+
+'''
+Description = 'Use T* if they are not primitive - for efficiency. Thus you can ensure that objects are not needlessly copied.'
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'vector'
+Feature = 'initialize'
+Subfeature = 'from iterator'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'vec.assign(iter1, iter2)'
+Description = 'Can use array pointers as iterators!'
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'vector'
+Feature = 'initialize'
+Subfeature = 'literal'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'v = {1, 2, 3, 4};'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'vector'
+Feature = 'indexing'
+Subfeature = 'pointer'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'vec1.at(idx) = val;'
+Description = '''
+vec1[odx] is unsafe - does not check bounds.
+akin to arr[idx]
+The reference returned can be used to access or modify elements. Concurrently accessing or modifying different elements is safe.
+'''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'vector'
+Feature = 'size, capacity'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+vec1.size() vec1.capacity();
+bIsEmpty = v.empty();'''
+Description = 'Capacity adjusted automatically'
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'vector'
+Feature = 'size, capacity'
+Subfeature = 'adjust'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'resize() reserve()'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'vector'
+Feature = 'RandomAccessIterator'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+iter1 = v.begin(); // first element
+iter2 = v.end(); //past-the-end element'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'vector'
+Feature = 'RandomAccessIterator'
+Subfeature = 'last'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'auto& el = v.back()'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'vector'
+Feature = 'insert'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+v.insert(iter, value);
+v.insert(iter, numElements, val);
+
+vectorOfGamers.push_back(Player());   // add a new element to vector<Player>
+// But this will not correctly add subtypes - they will be slized!'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'vector'
+Feature = 'stack'
+Subfeature = 'push pop'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'v.pop_back(); v.push_back(val);'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'vector'
+Feature = 'clear'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'v.clear();'
+Description = '''
+Calls destructor of every element.
+If vector contains pointers, does not release memory.'''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'vector'
+Feature = 'sort'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+#include <algorithm>  
+std::sort (myvector.begin(), myvector.end())'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'vector'
+Feature = 'fill'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+   std::vector<int> v{0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
+   std::fill(v.begin(), v.end(), -1);'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'queue'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+std::queue<int> myints;
+  std::cout << "0. size: " << myints.size() << '\n';
+  for (int i=0; i<5; i++) myints.push(i);
+  myints.pop();
+'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'set'
+Feature = 'initialize'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+set<T> var;
+std::set<std::string> str = {"John", "Kelly", "Amanda", "Kim"};
+myset.insert(20);
+it=myset.find(20); // set::end if not found.'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'map'
+Feature = 'initialize'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+std::map<T1, T2> m; // Ordered by key
+hash_map<T1, T2> m;
+unordered_map<T1, T2> m;'''
+Description = 'Use T1* and T2* if they are not primitive - for efficiency.'
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'map'
+Feature = 'size'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'm.size()'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'map'
+Feature = 'indexing'
+Subfeature = 'bounds check'
+Importance = ''
+"Implementation Type" = 'Not in hash_map'
+Syntax = '''
+auto& x = m.at(key)
+m.at(key) = val // bounds checking'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'map'
+Feature = 'indexing'
+Subfeature = 'fill if empty'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+T1& el = m[key];
+m[key] = val;'''
+Description = 'fills in default value (value returned by default constructor) if no value exists.'
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'map'
+Feature = 'literal'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+{
+                { "alpha", 0 },
+                { "beta", 0 },
+                { "gamma", 0 } };'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'map'
+Feature = 'store unique pointers'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''
+both m.at() and m[idx] return references to the unique pointer. So, the unique pointer is not copied, so the map will retain the value contained in the unique pointer even if it is accessed multiple times.
+
+  map<string, unique_ptr<A>> m;
+  m["a"].reset(new A());
+  unique_ptr<A> tmp = m["a"]; 
+fails to compile.'''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'map'
+Feature = 'check key'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+if (m.count(key) > 0) ...
+============
+ auto search = example.find(2);
+(search != example.end()) {'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'map'
+Feature = 'pair/ iterator element'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+    // iterator->first = key
+    // iterator->second = value'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'map'
+Feature = 'iterate'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'See general iterator loops '
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'map'
+Feature = 'iterate'
+Subfeature = 'values'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'for (const auto& label_entry : value_view(label_entry_map)) {...}'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'map'
+Feature = 'erase'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+ it=mymap.find('b');
+  mymap.erase (it);                   // erasing by iterator
+  mymap.erase ('c');                  // erasing by key
+'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'map'
+Feature = '''insert value but don't overwrite'''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'myMap.insert(std::make_pair(key, val));'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'map'
+Feature = 'copy'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'm2.insert(m1.begin(), m1.end());'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'multimap'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ' multimap<string, string> mm;'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'multimap'
+Feature = 'insert'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+mm.insert(pair);
+mm.insert(std::pair<char,int>(a, 2))'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'pair'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'pair<T1, T2> p = make_pair(a, b);'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'tuple'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+#include <tuple>   
+std::tuple<int,char> foo (10,'x');
+  auto bar = std::make_tuple ("test", 3.1, 14, 'y');'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'tuple'
+Feature = 'access element'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+auto t = std::make_tuple(1, "Foo", 3.14);
+std::get<0>(t); // returns 1
+std::get<int>(t); // returns 1'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Eigen::Matrix'
+Feature = 'dynamic vs static size'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+cout << "v: " << v.rows() << " rows, " << v.cols() << " cols" << endl;
+'''
+Description = 'use fixed sizes for very small sizes where you can, and use dynamic sizes for larger sizes or where you have to'
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Eigen::Matrix'
+Feature = 'Matrix'
+Subfeature = 'dynamic size'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+#include <Eigen/Dense> 
+MatrixXd m(2,2); // creates double matrix
+  m(0,0) = 3;
+  m(1,1) = m(1,0) + m(0,1);
+m << 1, 2,
+       3, 4;
+m.resize(4,3);
+Matrix3f m;
+m.row(0) << 1, 2, 3;
+m.block(1,0,2,2) << 4, 5, 7, 8;
+m.col(2).tail(2) << 6, 9;   
+m.row(0) = v1;'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Eigen::Matrix'
+Feature = 'Vector (col)'
+Subfeature = 'dynamic size'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+VectorXd v(2);
+  v(0) = 4;
+v.resize(5);
+  Vector3d v(1,2,3);
+  Vector3d w(0,1,2);'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Eigen::Matrix'
+Feature = 'Vector (row)'
+Subfeature = 'dynamic size'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+RowVectorXd vec1(3);
+vec1 << 1, 2, 3;'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Eigen::Matrix'
+Feature = 'Matrix'
+Subfeature = 'special'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+MatrixXd m = MatrixXd::Random(3,3);
+ArrayXXf a3 = ArrayXXf::Zero(3, 4);
+MatrixXd::Ones(rows,cols);'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Eigen::Matrix'
+Feature = 'operations'
+Subfeature = 'set elements'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+VectorXf v;
+v.setLinSpaced(5,0.5f,1.5f);
+v.setConstant(12);
+v.fill(1);'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Eigen::Matrix'
+Feature = 'operations'
+Subfeature = 'join'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+MatrixXf matA(2, 2);
+matA << 1, 2, 3, 4;
+MatrixXf matB(4, 4);
+matB << matA, matA/10, matA/10, matA;
+
+RowVectorXd vec2(4);
+vec2 << 1, 4, 9, 16;;
+std::cout << "vec2 = " << vec2 << std::endl;
+RowVectorXd joined(7);
+joined << vec1, vec2;'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Eigen::Matrix'
+Feature = 'operations'
+Subfeature = 'scalar products'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'a * 2.5; 0.1 * v'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Eigen::Matrix'
+Feature = 'operations'
+Subfeature = 'addition'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+std::cout << "a + b =\n" << a + b << std::endl;
+'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Eigen::Matrix'
+Feature = 'operations'
+Subfeature = 'conjugate, transpose, adjoint'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+a.transpose()
+a.transposeInPlace() // more efficient than a = a.transpose() 
+a.conjugate() // conjugate $ \bar{a} $
+a.adjoint() // adjoint (i.e., conjugate transpose) $ a^* $'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Eigen::Matrix'
+Feature = 'operations'
+Subfeature = 'multiplication'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+a*b
+a*=b 
+vec^T*mat
+  Vector3d v(1,2,3);
+  Vector3d w(0,1,2);
+v.dot(w)'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Eigen::Matrix'
+Feature = 'operations'
+Subfeature = 'reduction'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'mat.sum() , .prod() .mean(), .minCoeff() .maxCoeff() .trace()'
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Eigen::Matrix'
+Feature = 'operations'
+Subfeature = 'Coefficient-wise operations'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+  MatrixXf m(2,2);
+  MatrixXf n(2,2);
+  MatrixXf result(2,2);
+result = m.array() * n.array();'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Eigen::Matrix'
+Feature = 'operations'
+Subfeature = 'Compare'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+C_actual.isApprox(C_expect)
+C_actual.isApprox(C_expect, precision_factor)
+bool r = ((a - b).norm() == 0); 
+bool r = ((a - b).norm() < small_positive_value);'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Eigen::Matrix'
+Feature = 'operations'
+Subfeature = 'row-wise, columnwise'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Eigen::MatrixXf mat(2,4);
+  Eigen::VectorXf v(2);
+...  //add v to each column of m
+  mat.colwise() += v;
+ mat.rowwise() += w.transpose();'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Eigen::Array'
+Feature = 'concept'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'general-purpose arrays, as opposed to the Matrix class which is intended for linear algebra. Furthermore, the Array class provides an easy way to perform coefficient-wise operations, which might not have a linear algebraic meaning, such as adding a constant to every coefficient in the array or multiplying two arrays coefficient-wise.'
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Eigen::Array'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+ArrayXXf  m(2,2);
+ArrayXf a = ArrayXf::Random(5);
+// element access same as in Matrix object'''
+Description = ''
+
+[[data]]
+Language = 'C++'
+"Operand Type" = 'Eigen::Array'
+Feature = 'operations'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+a - 2 // subract scalar
+ a.min(a.abs().sqrt())
+a.exp().cwiseInverse()'''
+Description = ''

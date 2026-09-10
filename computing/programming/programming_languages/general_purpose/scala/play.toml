@@ -1,0 +1,165 @@
+[[data]]
+"Operand Type" = ''
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'concept'
+Syntax = ''
+Description = '''
+Heavy in features, complexity, compilation: compared to some others which don't bother with templating and such. Even a basic app requires lot of gruck.
+Has been quite fluid in shifting from version to version - requiring maintenance cost.
+Reactive (event handling based) web server where threads are mostly kept free of blockages (hence fast).
+Easy to write reactive non-blocking code - but must follow certain pattern.'''
+
+[[data]]
+"Operand Type" = 'routes'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+GET    /                     v1.post.PostController.list
+GET    /:id                 v1.post.PostController.show(id)
+POST    /:id                v1.post.PostController.update(id)
+->     /v1/posts                    posts.routes'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'resources'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'Just put in the config folder.'
+
+[[data]]
+"Operand Type" = 'parallelism'
+Feature = 'ExecutionContext'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'implicit val context = play.api.libs.concurrent.Execution.Implicits.defaultContext'
+Description = ''
+
+[[data]]
+"Operand Type" = 'Result'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'concept'
+Syntax = ''
+Description = 'A way to represent HTTP response'
+
+[[data]]
+"Operand Type" = 'Result'
+Feature = 'instantiate'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Results.OK(someStr)
+Results.NotFound("")
+'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'Action'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'concept'
+Syntax = ''
+Description = 'a (play.api.mvc.Request => play.api.mvc.Result) or Request => Future[Result] function, which, within a Controller object, are used for handling HTTP requests'
+
+[[data]]
+"Operand Type" = 'Action'
+Feature = 'create'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+def echo = Action { request =>
+  Ok("Got request [" + request + "]")
+}
+def echo = Action.async { request =>
+  Future.successful(Ok("Got request [" + request + "]"))
+}'''
+Description = 'Both Action.apply and Action.async create Action objects that are handled internally in the same way - asynchronously.  The .async builder is just a facility to simplify creating actions based on APIs that return a Future, in which case one might want the Action to return another Future object.'
+
+[[data]]
+"Operand Type" = 'Action'
+Feature = 'redirect'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+def index = Action {
+  Redirect("/user/home")
+}
+def index = Action {
+  Redirect("/user/home", MOVED_PERMANENTLY)
+}'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'Action'
+Feature = 'Dummy page'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'def index(name:String) = TODO'
+Description = ''
+
+[[data]]
+"Operand Type" = 'Action'
+Feature = 'swagger doc'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+  @ApiResponses(Array(
+    new ApiResponse(code = 400, message = "Invalid root supplied"),
+    new ApiResponse(code = 404, message = "Root not found")))
+  def show(@ApiParam(allowableValues = "sAXAraNa,sarvanAma,safkhyA,safkhyeya,pUraNa", value="Click on 'Try it out'!") prakaara: String,
+           @ApiParam(allowableValues = "pum,napum,swrI", value="Click on 'Try it out'!") linga: String,
+           @ApiParam(value = "root in WX", example= "rAma") root: String,
+           @ApiParam(value = "Click on 'Try it out'! (8 is sambodhana-prathamA)", allowableValues= "1,2,3,4,5,6,7,8") vibhaktiIn: String,
+           @ApiParam(value = "Click on 'Try it out'!", allowableValues= "1,2,3") vachana: String
+          ): Action[AnyContent] = Action(implicit request => {... }
+'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'controller'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'concept'
+Syntax = ''
+Description = '''
+an object with methods that "generates" Action functions. These can be used to specify route-handling.
+Caveat: the application code should avoid blocking in controllers. Client will wait, but server thread will not be blocked and can handle other clients fast.'''
+
+[[data]]
+"Operand Type" = 'controller'
+Feature = 'setup'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+class SubantaavaliiController extends Controller {
+...}'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'controller'
+Feature = 'setup'
+Subfeature = 'inject wsclient'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+@Api(value = "Archive item to podcast . Click on the API to try it out!")
+class Application @Inject() (ws: WSClient) extends Controller {
+}'''
+Description = 'call other HTTP services from within a Play application via its WS library'

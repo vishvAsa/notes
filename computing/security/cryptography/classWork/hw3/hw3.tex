@@ -1,0 +1,164 @@
+\documentclass[10pt]{article}
+\usepackage{amssymb, algorithm2e, amsthm, amsmath}
+
+\input{../../macros}
+
+\input{../../amsartMacros}
+
+%opening
+\title{Cryptography: Answers to Homework 3}
+\author{vishvAs vAsuki}
+
+\begin{document}
+
+\maketitle
+
+\begin{rem}
+ No Collaborators unless specifically acknowledged in individual solutions.
+\end{rem}
+
+
+\section{Answer to question 1}
+The answer is simply the Lamport one time signature scheme, about which I read in the Wikipedia.
+
+\subsection*{Some notation}
+Let the message space be contained in $\set{0, 1}^{k}$. Alternatively, you can think of this space as the space to which all messages are hashed to by a collision resistant hash function, prior to signing.
+
+Let G be the prime order group of order p. Let g be some generator of G.
+
+\subsection*{The one-time signature scheme Sig}
+\begin{itemize}
+\item Setup(l): For $i \in \set{1, .. k}$ and $j \in {0, 1}$, pick numbers $y_{i,j}$ uniformly at random from G. Compute numbers $z_{i,j} = g^{y_{i,j}} \mod p$. The verfication key $VK = (z_{i, j})$. Signing key $SK = (y_{i,j})$.
+\item Sign(m): Let $m_{i}$ represent the ith bit of m. Then, signature \\
+$s = (y_{1, m_{1}} .. y_{k, m_{k}})$.
+\item Verify(m, s): The following checks are done for every number in the vector s: $g^{y_{i,m_{i}}} \mod p \iseq z_{i, m_{i}}$. If all tests succeed, the s is considered to be a valid signature for m.
+\end{itemize}
+
+\subsection*{Proof of unforgeability under one-time signature scheme}
+Consider the following security game. Let A be the Discrete log assumption challeger. Let B be the Sig challenger/ Discrete log assumption attacker. Let C be an attacker against the Sig scheme.
+
+\begin{itemize}
+ \item A challenges B to find the a in $b = g^{a} \mod p$, given g, p and b.
+ \item B runs the setup algorithm described above. B then replaces a randomly picked $z_{i, j}$ with b. So, $z_{i, j} = b$ now.
+ \item B tells C the VK.
+ \item C asks B to sign some message of its choice $m'$.
+ \item B returns the signature $s'$, if $m'_{i} \neq j$. Here j is one of the indices of the number $z_{i,j}$ which was replaced with b. Otherwise, B aborts. As $z_{i,j}$ was randomly chosen, this happens with probability 1/2.
+ \item C forges a valid signature s for message $m\neq m'$ with some non negligible probability p.
+ \item m differs from m' by atleast 1 bit. If one of the changed bits is i, and if s is valid, B obtains the solution for $b = g^{a} \mod p$, $y_{i, j} = a$ from the ith number in s. As i, j were randomly chosen, this happens with probability at least 1/k.
+ \item In such a case, B can respond to A's challenge by sending it a.
+\end{itemize}
+
+Thus, B successfully responds to A's challenge with probability at least $\frac{p}{2k}$, which is non negligible.
+
+\section{Answer to question 2}
+We want to show a separation between weak signatures and existentially unforgeable signatures. In the weak definition, the attacker must tell the challenger all the messages he wants signed before seeing the public key.
+
+It is obvious that every existentially unforgeable signature is also a weak signature. To show the separation between these two classes, we will therefore construct a weak signature scheme Sig-W which is not existentially unforgeable.
+
+Take any standard signature scheme, Sig, with the algorithms Setup, Sign and Verify.
+
+% We consider two schemes, the \textbf{second} of which appears more likely to be correct.
+
+\subsection*{Scheme 1}
+\begin{ack}
+ This scheme emerged during a discussion with Rashid Kaleem.
+\end{ack}
+We build the algorithms of $Sig_{W}$ as follows:
+
+\begin{itemize}
+ \item $Setup_W(\gl, m_{1}, .. m_{n})$ :
+ \subitem As this is the setup function of a weak signature scheme, we are assuming that it will know beforehand the messages $m_{1}, .. m_{n}$, whose signatures the adversary will see.
+ \subitem Call Setup($\gl$). This returns the public key VK and the secret key SK. Set $VK_{W} = VK, SK_W = (SK, m_{1}, .. m_{n}, m')$, where $m'$ is picked randomly from the message space such that $m' \notin (m_{1}, .. m_{n})$.
+
+\item $Sign_{W}(m, SK_W)$ : 
+ \subitem If $m \in (m_{1}, .. m_{n})$, return Sign(m, SK). Otherwise, return Sign(m', SK).
+\item $Verify_{W}(m, s, VK_W)$:
+ \subitem Simply return the result of $Verify(m, s, VK)$
+\end{itemize}
+
+\subsubsection*{$Sig_W$ is a weak signature.}
+To see this, suppose that there existed an attacker C which is able to break $Sig_W$ under the weak signature security game. We will see that C can be used to build an attacker B which is successful against the strong signature scheme, Sig. Consider the following security game, where A is the challgenger for Sig.
+
+\begin{itemize}
+ \item A runs Setup, and announces VK to B.
+ \item B simulates the functioning of the weak signature scheme $Sig_W$.
+ \subitem It gathers from C the messages it wants signed: $(m_{1}, .. m_{n})$.
+ \subitem B announces $VK_{W} = VK$ to C.
+ \item B gets signatures for $(m_{1}, .. m_{n})$ from A and passes it on to C.
+ \item C produces a forgery on message $m \notin (m_{1}, .. m_{n})$ with some non negligible probability p.
+ \item B then transmits C's attempt at forgery to A. Thus, B succeeds with non negligible probability p.
+\end{itemize}
+
+\subsubsection*{$Sig_W$ is not existentially unforgeable.}
+Under $Sig_W$, all $m \notin (m_{1}, .. m_{n})$ have the same signature s. Under the definition of existential unforgeability, the attacker is allowed to make a polynomial number of signature queries, after seeing the verification key VK. So, an attacker C would simply need to see the signatures of n+2 distinct messages. Then, C could trawl through the signatures and find the signature s which appears atleast twice. Then, it picks a message m at random from the message space. Then, if M is the size of the message space, with probability at least $\frac{n+2}{M}$, s is a forged signature for m.
+
+\subsubsection*{A potential problem}
+Is the proof that $Sig_W$ is a weak signature valid? It may not be, because the attacker C is not guaranteed to work on such a weird distribution.
+
+% \subsection*{Scheme 2}
+% \begin{ack}
+%  The idea behind the following scheme is entirely due to Sanjam Garg. He also pointed out the potential problem with scheme 1.
+% \end{ack}
+% 
+% We build the algorithms of $Sig_{W}$ as follows:
+% 
+% \begin{itemize}
+%  \item $Setup_W(\gl)$ :
+%  \subitem Call Setup($\gl$). This returns the public key VK and the secret key SK. Use the same key pair.
+% \item $Sign_{W}(m, SK_W)$ : 
+%  \subitem Pick a random number r. Return $r, s_{1} = sign(m \xor r, SK), s_{2} = sign(r, SK)$.
+% \item $Verify_{W}(m, r, s_{1}, s_{2}, VK_W)$:
+%  \subitem Simply return $Verify(m \xor r, s_{1}, VK) \et Verify(r, s_{2}, VK)$.
+% \end{itemize}
+% 
+% \subsubsection*{$Sig_W$ is a weak signature.}
+% To see this, suppose that there existed an attacker C which is able to break $Sig_W$ under the weak signature security game. We will see that C can be used to build an attacker B which is successful against the strong signature scheme, Sig. Consider the following security game, where A is the challgenger for Sig.
+% 
+% \begin{itemize}
+%  \item A runs Setup, and announces VK to B.
+%  \item B simulates the functioning of the weak signature scheme $Sig_W$.
+%  \subitem It gathers from C the messages it wants signed: $(m_{1}, .. m_{n})$.
+%  \subitem B announces $VK_{W} = VK$ to C.
+%  \item B picks $(r_{1}, .. r_{n})$ randomly, gets signatures for $(m_{1} \xor r_{1}, .. m_{n} \xor r_{n}), (r_{1}, .. r_{n})$ from A, constructs signatures under $Sig_{W}$ and passes it on to C.
+%  \item C produces a forgery on message $m \notin (m_{1}, .. m_{n})$ with some non negligible probability p.
+%  \item B then transmits C's attempt at forgery to A. Thus, B succeeds with non negligible probability p.
+% \end{itemize}
+% 
+% \subsubsection*{$Sig_W$ is not existentially unforgeable.}
+% Here is a successful attack against $Sig_W$.
+% 
+% Obtain $sign_w(m, SK) = r, s_{1} = sign(m \xor r, SK), s_{2} = sign(r, SK)$.
+% 
+% Obtain $sign_w(r, SK) = r', s_{1}' = sign(r \xor r', SK), s_{2}' = sign(r', SK)$.
+% 
+% Produce the forgery: $sign_w(m \xor r', SK) = r' \xor r, s_{1}'' = sign(m \xor r' \xor r \xor r', SK) = s_{1}, s_{2}'' = sign(r \xor r', SK) = s_{2}'$.
+% 
+% The forgery attempt fails if r' = r. But, as these numbers are picked randomly, this happens with negligible probability.
+
+\section{Answer to question 3}
+\subsection*{A precise definition for a pseudorandom bit generator}
+Let n be the security parameter. For making a precise argument, we will use k(n) and l(n) instead of k and l mentioned in the question.
+
+$G:\set{0, 1}^{k(n)} \to \set{0, 1}^{l(n)}$ for $l(n)>k(n)$ is called pseudorandom if, for all polynomial time (possibly randomized) algorithms A, and for all polynomials q(n), $\exists n_{0}: n>n_{0} \implies |Pr_{x \in \set{0, 1}^{k(n)}}(A(G(x))) - Pr_{y \in \set{0, 1}^{l(n)}}(A(y))| \leq \frac{1}{q(n)}$.
+
+\subsection*{The generator G'}
+Consider the function $G':\set{0, 1}^{2k(n)} \to \set{0, 1}^{2l(n)}$ which is evaluated by executing G on the first k(n) input bits and then on the next k(n) input bits. We will show that G' is also pseudorandom bit generator.
+
+\subsection*{Proof}
+Note that this proof implicitly, but not explicitly, uses the hybrid technique.
+
+Suppose, for the sake of contradiction, that G' is not a pseudorandom bit generator. Consider any polynomial time algorithm A.
+
+For each i, let $t_{i}$ denote the probability that A(y)=1 when the first i bits of y are the first i bits of G'(x), evaluated over a random input x; and the remaining bits of y are truly random.
+
+If G' were not a pseudorandom generator, $1/q(n) \leq |t_{0} - t_{2l(n)}| \leq |t_{0} - t_{l(n)}| + |t_{l(n)} - t_{2l(n)}|$ for some polynomial q(n) and for arbitrarily large n. As G is a pseudorandom generator, $|t_{0} - t_{l(n)}| \leq (2q(n))^{-1}$ for sufficiently large n. So, we have: $(2q(n))^{-1} \leq |t_{l(n)} - t_{2l(n)}|$ for arbitrarily large n.
+
+With A, one can build a randomized algorithm B which can tell if it has been supplied truly random bits, or bits from G. This is done as follows: Given $x \in {0, 1}^{l(n)}$, B first runs G by supplying it k(n) truly random bits. It prepends the l(n) bits it gets from G to x, and gets the bit-string y. B then runs A on y. As $(2q(n))^{-1} \leq |t_{l(n)} - t_{2l(n)}|$, B behaves noticably differently on truly random x, and on x generated from G.
+
+The existence of B then leads us to a contradiction of our assumption that G is a pseudorandom bit generator. Thus, B cannot exist. Thus, G' is a pseudorandom bit generator if G is.
+
+% \bibliographystyle{plain}
+% \bibliography{../colt}
+
+
+\end{document}
