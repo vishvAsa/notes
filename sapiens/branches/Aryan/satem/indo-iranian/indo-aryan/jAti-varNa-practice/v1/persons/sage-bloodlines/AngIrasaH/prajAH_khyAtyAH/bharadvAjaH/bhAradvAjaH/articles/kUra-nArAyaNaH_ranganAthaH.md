@@ -1,5 +1,5 @@
 +++
-title = "KUra-nArAyaNaH rangan Atha H"
+title = "KUra-nArAyaNaH ranganAthaH"
 +++
 
 periya-tirumuDi-adaivu says that kUra-nArAyaNa jIyar is bhAradhvAja gotra, a hayagrIva-sudarshana-upAsaka and called nalantigazh nArAyaNa jeeyar, 1st pontiff of the srirangam matha (hence called ranga-nArAyaNa too). Said to have authored a taittirIyopaniShad bhAShya.
