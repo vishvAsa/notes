@@ -16,7 +16,13 @@ MMs sishya's son lived till 1570 (since PTA refers to seventh ahobilam jeeyar wh
 
 (Subtracting 60 years from 125 for the next vijaya year), My assumption is that he lived for 65 yrs only. Must hv been born in 1413 vijaya year then. Lived till 1478. Or if we consider 73 yrs, till 1486. These dates would match with AVS dates as well.
 
-Mamunigal was acharya for kandadai Ramanuja aiyangar. Inscription no 14 of TTD inscriptions volume 2 clearly says that. He lived in late 1400s. Vijaya year of birth matches this perfectly.
+Mamunigal was acharya for kandadai Ramanuja aiyangar. Inscription no 14 of TTD inscriptions volume 2 clearly says that. He lived in late 1400s. Vijaya year of birth matches this perfectly. Inscriptions of Kandāḍai Rāmānujan and Māvali Vāṇādirāyar make the later dating clear. 
+
+Later texts falsely make Kandāḍai Rāmānuja into “Annans”. Source: [TW](https://x.com/Ravilochanan86/status/2097889155938426933)
+
+## Sādhāraṇa year fabrications
+PTA gives MM’s birth year as Vijaya. All Thenkalai claims of an earlier birth year (Sādhāraṇa) are based on books written later than PTA and are later fabrications (a 43-year back-dating). [TW](https://x.com/Ravilochanan86/status/2097656421781516644) [TW](https://x.com/Ravilochanan86/status/2097659227859001854)
+
 
 ## TVM Pillai regency
 But thiruvaimozhipillai is claimed to have lived in madurai before mamunis birth and served as minister to pandyas. This is impossible given that it was sultanate rule from 1323 to 1371. Otoh, vijayanagar regents ruled in place of pandyan minor princes in early 1400s and thiruvaimozhipillai story matches with that date only.
