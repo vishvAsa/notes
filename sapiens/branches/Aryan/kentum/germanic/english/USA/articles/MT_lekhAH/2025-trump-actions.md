@@ -2,6 +2,11 @@
 title = "2025+ trump actions"
 +++
 
+## Coming loss
+Source: [TW](https://x.com/blog_supplement/status/2104768759458353439)
+
+The hastin-s would probably lose seats to the gardabha-s in a big way in the midterm elections, the way things are going now. At that point, all these "core MAGA" and ex-duShTa  anugAmin supporters will find a way to blame the H.
+
 ## UFO
 
 Source: [TW](https://x.com/blog_supplement/status/2053194198552130036)
