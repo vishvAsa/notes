@@ -48,7 +48,25 @@ Gaṅgādhara Vājapeyayāi also known by names Gangadhara Adhvarin and Gangadha
 
 इञ्जिमेडु-यति-शिक्षा-वृत्तान्तस् तत्-पत्त्रे द्रष्टव्यः।  
 
+## रङ्गदेशिकः
+Source: [TW](https://www.youtube.com/watch?v=1xEHPZG21uY)
 
+वृन्दावने रङ्ग-मन्दिरं समस्थापयत्।  
+
+वाधूलवंशकलशाम्बुधिपूर्णचन्द्रं  
+श्री-श्रीनिवासगुरुवर्यपदाब्जभृङ्गम् ।  
+श्रीवाससूरितनयं विनयोज्ज्वलन्तं  
+श्री-रङ्गदेशिकमहं शरणं प्रपद्ये ॥
+
+कार्तिक कृष्ण सप्तमी तिथिः।  
+पुनर्वसुनक्षत्रम्।
+
+Tamil/Sanskrit treatises explained by Sri Rangadeshika Swami:
+
+Mumukshuppadi (मुमुक्षुपडि) – Explanations and commentary  
+Tattva Thrayam (तत्त्वत्रय)  
+Artha Panchakam (अर्थपञ्चक)  
+Rahasya Thrayam (रहस्यत्रय)
 
 ## नारायणाचार्यः
 कर्णाटेषु श्रीवैष्णवमतोपन्यासकः। स्वयमाचार्यः। 31-10-1933 - 26-11-2021.
