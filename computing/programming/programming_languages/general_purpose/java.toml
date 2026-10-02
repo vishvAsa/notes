@@ -1,0 +1,1184 @@
+[[data]]
+Language = 'Java'
+"Operand Type" = 'Running / compiling'
+Feature = 'Point of entry'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'SomeClass.main(String[] argVector).'
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'Decompiling'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'data types'
+Feature = 'primitive'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'void, byte, char, int, double.'
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'data types'
+Feature = 'object'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'Even classes are special types of objects.'
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'operators'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''Same as in C. '.' indicates membership or namespace.'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'statement syntax'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Code blocks and sentence syntax are same as in C.'
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'comments'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'C style comments. Plus, /** javadoc documentation generation */.'
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'logging'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'logback (logback-core.jar and logback-classic.jar) with the slf4g interface package is attractive. Other options include log4j and java.util.logging, which may also be accessed using the generic slf4j interface (slf4j-api.jar).'
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'logging'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Use LoggerFactory.getLogger(class).'
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'logging'
+Feature = 'config'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'Create logback.xml file in the classpath, wherein logging level and appenders (destinations) with output pattern are specified.'
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'decision structure'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Same as C.
+
+The following is allowed Java 5 onwards: for (String arg : args) statementBlock.'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'decision structure'
+Feature = 'exception'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'try CODEBLOCK catch(ExceptionType e) CODEBLOCK'
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'decision structure'
+Feature = 'exception'
+Subfeature = 'concept'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''
+All exceptions descend from the Exception class: see javadoc for details.
+
+Exceptions may be checked or unchecked - depending on whether the compiler forces the program to check for and handle exceptions thrown by a certain subprogram. Run-time exceptions usually go unchecked.
+
+Exceptions of the type Error cannot be caught usually.'''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'method'
+Feature = 'return'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'return XYZ;'
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'method'
+Feature = 'syntax'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'AccessModifier returnType functionName(ArgumentList) CodeBlock'
+Description = '''
+Invocation is same as in C. Arguments of Primitive datatypes are always passed by value, whereas object arguments are passed by reference.
+'''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'method'
+Feature = 'syntax'
+Subfeature = 'template'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'public <T> List<T> magicalListGetter(Class<T> klazz) {}'
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'method'
+Feature = 'override'
+Subfeature = 'annotation'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+@Override
+newMethodDeclaration'''
+Description = 'Annotation makes the compiler complain if method signature is wrong.'
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'threads'
+Feature = 'concept'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'The main thread always exists. Apart from that, other threads can be started. Extend the Thread class or implement Runnable interface. Threads can be started or interrupted. Threads can run or wait or sleep.'
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'threads'
+Feature = 'mutex'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'The synchronize keyword is used to enforce mutual exclusion from critical code blocks or methods.'
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'package'
+Feature = 'define'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'package ...;'
+Description = '''
+First line of file.
+Must be same as directory name'''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'package'
+Feature = 'import'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'import packages.subpackage.*;.'
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'class'
+Feature = 'definition'
+Subfeature = 'inheritence'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+class Name1 [extends SupCl1,
+implements InterfaceLst] {
+..
+}'''
+Description = 'Classes can be nested.'
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'class'
+Feature = 'definition'
+Subfeature = 'access'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'public|private.. classDefinition'
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'class'
+Feature = 'definition'
+Subfeature = 'interface'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+interface Name extends IF2 {
+//variable declarations
+//method declarations
+}'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'class'
+Feature = 'definition'
+Subfeature = 'final'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'final classDefinition'
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'class'
+Feature = 'definition'
+Subfeature = 'hyperclass'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'accessModifier interface/ class <Type> ..'
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'class'
+Feature = 'introspection'
+Subfeature = 'name (canonical)'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+private static final String LOG_TAG = SomeClass.class.getCanonicalName();
+'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'class'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'variableName = new ClassName( arguments for the appropriate constructor );'
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'string'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+substring, indexOf, startsWith, contains
+split(regex)'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'string'
+Feature = 'from bytes'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'content = new String(arg2, "UTF-8");'
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'string'
+Feature = ''
+Subfeature = 'format'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+String.format("%1$05d %2$05d", i, i + 10);
+String value = String.format("Three numbers after decimal: %1$.3f",
+                number);
+
+String value = String.format("%s %s", first, last)
+value = String.format("%1s %2s", first, last);'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'string'
+Feature = 'compare'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'int comparisonResult = a.compareTo(b);'
+Description = '''
+Same as strcmp:
+strcmp(a, b);  //-1
+strcmp(a, a);  //0
+strcmp(b, a);  //1'''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'file IO'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import org.apache.commons.io.FilenameUtils;
+String baseName = FilenameUtils.getBaseName(url);
+        String extension = FilenameUtils.getExtension(url);
+        String name = FilenameUtils.getName(url);
+'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'file IO'
+Feature = 'make dirs'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+File f = new File("C:/parent/test");
+f.mkdirs();'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'file IO'
+Feature = 'get parent'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'f.getParent()'
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'file IO'
+Feature = 'timestamp'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+file.lastModified();
+SimpleDateFormat sdf = new SimpleDateFormat("MM/dd/yyyy HH:mm:ss");
+System.out.println("After Format : " + sdf.format(file.lastModified()));'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'file IO'
+Feature = 'extract tar.gz'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+final TarGZipUnArchiver ua = new TarGZipUnArchiver();
+ua.setSourceFile(sourceFile);
+destDir.mkdirs();
+ua.setDestDirectory(destDir);
+ua.extract();'''
+Description = "compile 'org.codehaus.plexus:plexus-archiver:2.8.2'"
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'file IO'
+Feature = 'extract tar.gz'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = "org.apache.commons:commons-compress:1.2'"
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'file IO'
+Feature = 'write byte stream'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+File file = new File("outputfile.txt");
+        FileOutputStream fos = null;
+        try {
+            fos = new FileOutputStream(file);
+            // Writes bytes from the specified byte array to this file output stream
+            fos.write(s.getBytes());
+        }
+        catch (FileNotFoundException e) {
+            System.out.println("File not found" + e);
+        }
+'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'file IO'
+Feature = 'apache csv'
+Subfeature = 'read'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Reader in = new FileReader("path/to/file.csv");
+Iterator<CSVRecord> records = CSVFormat.EXCEL.parse(in).iterator();
+for (CSVRecord record : records) {
+    String lastName = record.get("Last Name");
+    String firstName = record.get("First Name");
+}
+        '''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'jsoup html'
+Feature = 'class structure'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''
+Node - {Element, TextNode, Comment, DataNode, DocumentType, XmlDeclaration}
+Element - {Document FormElement}'''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'jsoup html'
+Feature = 'document'
+Subfeature = 'from browser'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+ Document document = Jsoup.connect("https://www.desco.org.bd/ebill/authentication.php")
+            .data("cookieexists", "false")
+            .data("username", "32007702")
+            .data("login", "Login")
+            .cookies(loginForm.cookies())
+            .post();'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'jsoup html'
+Feature = 'document'
+Subfeature = 'from string'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+String html = "<html><head><title>First parse</title></head>"
+  + "<body><p>Parsed HTML into a doc.</p></body></html>";
+Document doc = Jsoup.parse(html);'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'jsoup html'
+Feature = 'element'
+Subfeature = 'from id'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Element content = doc.getElementById("content");'
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'jsoup html'
+Feature = 'element'
+Subfeature = 'text get'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+ <p>One <span>Two</span> Three <br> Four</p>
+ with the p element selected:
+p.text() = "One Two Three Four"
+p.ownText() = "One Three Four"
+p.children() = Elements[<span>, <br>]
+p.childNodes() = List<Node>["One ", <span>, " Three ", <br>, " Four"]
+p.textNodes() = List<TextNode>["One ", " Three ", " Four"]'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'jsoup html'
+Feature = 'element'
+Subfeature = 'children get'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+ <p>One <span>Two</span> Three <br> Four</p> with the p element selected:
+p.children() = Elements[<span>, <br>]
+p.childNodes() = List<Node>["One ", <span>, " Three ", <br>, " Four"]
+p.textNodes() = List<TextNode>["One ", " Three ", " Four"]'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'jsoup html'
+Feature = 'element'
+Subfeature = 'attributes get'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+p.attr(key)
+attributes() '''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'jsoup html'
+Feature = 'element'
+Subfeature = 'css get'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'id(), className() and classNames()'
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'jsoup html'
+Feature = 'element'
+Subfeature = 'tag name'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'tagName()'
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'jsoup html'
+Feature = 'elements'
+Subfeature = 'find'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Elements xxxDivs = document.select("div.answer[name=xxx]");
+Elements links = doc.select("a[href]"); // a with href
+Elements pngs = doc.select("img[src$=.png]");
+Elements resultLinks = doc.select("h3.r > a"); // direct a after h3 with class r
+'''
+Description = '''
+Rich selector syntax here: https://jsoup.org/cookbook/extracting-data/selector-syntax
+#id: find elements by ID, e.g. #logo
+.class: find elements by class name, e.g. .masthead
+[attribute]: elements with attribute, e.g. [href] [width=500]
+[attr^=value], [attr$=value], [attr*=value]
+[attr~=regex]
+Combinations:
+ancestor child
+parent > child
+siblingA + siblingB: finds element immediately preceded 
+siblingA ~ siblingX  sibling X element preceded by sibling A
+el, el, el :  find unique elements that match any of the selectors;'''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'jsoup html'
+Feature = 'elements'
+Subfeature = 'from element'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Elements links = content.getElementsByTag("a");'
+Description = '''
+Superclasses:
+java.util.ArrayList<Element>
+org.jsoup.select.Elements'''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'Junit test'
+Feature = 'setup'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+public class DictionaryGetterTest {
+    Logger logger = Logger.getLogger(this.getClass().getName());
+
+    @Test
+    public void test_url_encoding() {
+        try {
+        logger.info("@Test - test_method_1");
+    }
+}
+'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'couchdb cloudant'
+Feature = 'setup'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'maven'
+Syntax = '''
+<dependency>
+  <groupId>com.cloudant</groupId>
+  <artifactId>cloudant-client</artifactId>
+  <version>2.9.0</version>
+</dependency>'''
+Description = 'java-cloudant'
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'couchbase-lite'
+Feature = 'database'
+Subfeature = 'create/ open'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+try {
+     Manager manager = new Manager(new JavaContext("data"), Manager.DEFAULT_OPTIONS);
+     manager.setStorageType("ForestDB"); // more efficient than default sql
+     this.db = manager.getDatabase("my-database");
+ } catch (IOException e) {
+     Log.e(TAG, "Cannot create database", e);
+     return;
+ }'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'couchbase-lite'
+Feature = 'database'
+Subfeature = 'create/ open with encryption'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+String key = "password123456";
+DatabaseOptions options = new DatabaseOptions();
+options.setCreate(true);
+options.setEncryptionKey(key);
+// options.setEncryptionKey(null);
+Database database = manager.openDatabase("db", options);'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'couchbase-lite'
+Feature = 'database'
+Subfeature = 'query all'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Query query = database.createAllDocumentsQuery();
+query.setAllDocsMode(Query.AllDocsMode.ONLY_CONFLICTS);
+QueryEnumerator result = query.run();
+for (Iterator<QueryRow> it = result; it.hasNext(); ) {
+    QueryRow row = it.next();
+    if (row.getConflictingRevisions().size() > 0) {
+        Log.w("MYAPP", "Conflict in document: %s", row.getDocumentId());
+        beginConflictResolution(row.getDocument());
+    }
+}'''
+Description = '''
+AllDocsMode : allDocs: The default mode. 
+includeDeleted. 
+showConflicts: In this mode, each QueryRow's conflictingRevisions property can be used to find whether it's in conflict and what the IDs of the conflicting revisions are.
+onlyConflicts: Like showConflicts, but only conflicted documents are returned.'''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'couchbase-lite'
+Feature = 'document'
+Subfeature = 'write with automatic id'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Map<String, Object> properties = new HashMap<String, Object>();
+properties.put("type", "list");
+properties.put("title", title);
+properties.put("created_at", currentTimeString);
+properties.put("owner", "profile:" + userId);
+properties.put("members", new
+ArrayList<String>());
+Document document = database.createDocument();
+document.putProperties(properties); '''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'couchbase-lite'
+Feature = 'document'
+Subfeature = 'write with id'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Document document = database.getDocument("978-0061120053");'
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'couchbase-lite'
+Feature = 'document'
+Subfeature = 'read'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Document doc = database.getDocument(myDocId);
+doc.getProperty("title");
+// Or go through its properties dictionary:
+Map<String, Object> properties = doc.getProperties();
+String owner = (String) properties.get("owner");'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'couchbase-lite'
+Feature = 'document'
+Subfeature = 'update'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Map<String, Object> properties = new HashMap<String, Object>();
+properties.putAll(doc.getProperties());
+properties.put("xyz", xyz);
+try {
+    doc.putProperties(properties);
+} catch (CouchbaseLiteException e) {
+    e.printStackTrace();
+}'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'couchbase-lite'
+Feature = 'document'
+Subfeature = 'update'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Document doc = database.getDocument(myDocId);
+doc.update(new Document.DocumentUpdater() {
+    @Override
+    public boolean update(UnsavedRevision newRevision) {
+        Map<String, Object> properties = newRevision.getUserProperties();
+        properties.put("title", title);
+        properties.put("notes", notes);
+        newRevision.setUserProperties(properties);
+        return true;
+    }
+});'''
+Description = 'handle races better while writing.'
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'couchbase-lite'
+Feature = 'document'
+Subfeature = 'delete'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Document task = (Document) database.getDocument("task1");
+task.delete();'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'couchbase-lite'
+Feature = 'index = view'
+Subfeature = 'setup'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+View phoneView = database.getView("phones");
+phoneView.setMap(new Mapper() {
+    @Override
+    public void map(Map<String, Object> document, Emitter emitter) {
+        List<String> phones = (List) document.get("phones");
+        for (String phone : phones) {
+            emitter.emit(phone, document.get("name"));
+        }
+    }
+}, "2");'''
+Description = '2 is the version number. as you update the app, you may change the behavior of a map function. This invalidates any existing index generated by that function, so the next time the app runs, the view should rebuild the index from scratch using the new function. hence the number.'
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'couchbase-lite'
+Feature = 'queries'
+Subfeature = 'from view'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Query query = database.getExistingView("widgetsByName").createQuery();
+query.setStartKey("m");
+query.setLimit(100);'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'couchbase-lite'
+Feature = 'queries'
+Subfeature = 'all docs'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Query query = database.createAllDocumentsQuery();
+query.setAllDocsMode(Query.AllDocsMode.ONLY_CONFLICTS);
+'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'couchbase-lite'
+Feature = 'queries'
+Subfeature = 'run'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+QueryEnumerator result = query.run();
+'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'couchbase-lite'
+Feature = 'queries'
+Subfeature = 'results'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+QueryEnumerator result = query.run();
+for (Iterator<QueryRow> it = result; it.hasNext(); ) {
+    QueryRow row = it.next();
+    if (row.getConflictingRevisions().size() > 0) {
+        Log.w("MYAPP", "Conflict in document: %s", row.getDocumentId());
+        beginConflictResolution(row.getDocument());
+    }
+}'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'couchbase-lite'
+Feature = 'query'
+Subfeature = 'filter'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+query.setPostFilter(new Predicate<QueryRow>() {
+            @Override
+            public boolean apply(QueryRow type) {
+                if (!type.getDocumentId().startsWith("Record_")) {
+                    return false;
+                }
+                Map<String, Object> map = type.getDocument().getUserProperties();
+                return map.containsKey(TRANSFER_ID) && map.get(TRANSFER_ID).equals(transferId);
+            }
+        });'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'couchbase-lite'
+Feature = 'live query'
+Subfeature = 'setup'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+query = listsView.createQuery().toLiveQuery();
+query.addChangeListener(new LiveQuery.ChangeListener() {
+    @Override
+    public void changed(final LiveQuery.ChangeEvent event) {
+        ((Activity) LiveQueryAdapter.this.context).runOnUiThread(new Runnable() {
+            @Override
+            public void run() {enumerator = event.getRows(); notifyDataSetChanged();}
+        });
+    }
+});
+query.start();'''
+Description = 'Live Query to keep monitoring the database for new results. Any time the result of that query changes through user interaction or synchronization, it will notify your application via the change event.'
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'couchbase-lite'
+Feature = 'replication'
+Subfeature = 'create'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+URL url = new URL("https://example.com/mydatabase/");
+Authenticator auth = new BasicAuthenticator(username, password);
+
+Replication push = database.createPushReplication(url);
+Replication pull = database.createPullReplication(url);
+push.setContinuous(true);
+push.setAuthenticator(auth);
+'''
+Description = 'Does not sync views.'
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'couchbase-lite'
+Feature = 'replication'
+Subfeature = 'run'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+push.addChangeListener(new Replication.ChangeListener() {
+    @Override
+    public void changed(Replication.ChangeEvent event) {
+        // will be called back when the push replication status changes
+    }
+});
+push.start();'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'Array'
+Feature = 'concept'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'Arrays are actually objects of an Array class. Array indexing starts from 0, as in C. '
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'Array'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '{a, b, c}'
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'Array'
+Feature = 'multi dimensional'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'Multidimensional arrays in java are actually arrays of arrays: so var[0] and var[1] may be of different length.'
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'Enumeration'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+public enum Day {
+    SUNDAY, MONDAY
+}
+Day day = Day.MONDAY;
+switch(day) {
+case MONDAY: ..
+}
+'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'Collection libraries'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'Libraries like GNU Trove provide high performance native language libraries of collections which are faster and require less memory. They also enable storing java collections of primitive data types (traditionally only possible using wrappers like Integer and Float).'
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'collection interfaces'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'List<T> Set<T> Map<T1, T2>'
+Description = 'These are implemented in classes such as ArrayList, LinkedList, HashSet, HashMap'
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'collection interfaces'
+Feature = 'common methods'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'retainAll(Collection), removeAll, containsAll, contains, remove'
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'ArrayList'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Arrays.asList()'
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'List'
+Feature = 'iterator'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'l.iterator()'
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'List'
+Feature = 'iterate'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'for (T t : c) BLOCK'
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'Guava collection lib'
+Feature = 'Function building'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'compose(Function<B, C>, Function<A, B>)         constant(T)         identity()         toStringFunction()'
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'Guava collection lib'
+Feature = 'Map'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+List<Double> list2 = Lists.transform(list1, new Function<String, Double>() {
+public Double apply(String from) {
+return Double.parseDouble(from);
+}
+});'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'Guava collection lib'
+Feature = 'Filter'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Iterable<String> filtered = Iterables.filter(list, new Predicate<String>() {
+public boolean apply(String input) {
+return input == null || input.startsWith("B");
+}
+}); '''
+Description = 'Also see Map.filterkeys'
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'Guava collection lib'
+Feature = 'list checking'
+Subfeature = 'predicate'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Predicates.equalTo
+contains(Pattern)'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'Guava collection lib'
+Feature = 'list checking'
+Subfeature = 'predicate'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'and(pred1, not(pred2)) '
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'Guava collection lib'
+Feature = 'zip'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Iterators.pairUp()'
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'mediawiki -  jwbf'
+Feature = 'Setup bot'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+    bot_wiktionary.login(userName, passwd)
+'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'mediawiki -  jwbf'
+Feature = 'SimpleArticle'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+    SimpleArticle article = new SimpleArticle();
+    article.setTitle(text.getLabel());
+    article.setText(text.getText());
+    article.setMinorEdit(text.isMinorEdit());
+    article.setEditSummary(text.getEditSummary());
+   
+    bot.writeContent(article);'''
+Description = ''
+
+[[data]]
+Language = 'Java'
+"Operand Type" = 'mediawiki -  jwbf'
+Feature = 'SimpleArticle'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+    val article = bot.readData("Wiktionary:Sandbox123")
+    log info article.getText()
+// scala use. returns "" if no article.'''
+Description = ''

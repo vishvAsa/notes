@@ -1,0 +1,803 @@
+[[data]]
+Language = 'Python'
+"Operand Type" = 'collection'
+Feature = 'membership'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'Operator'
+Syntax = 'in, not in'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'collection'
+Feature = 'length'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'Function'
+Syntax = 'len'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'collection'
+Feature = 'to string'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'method'
+Syntax = 'sep.join(coll)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'sequence'
+Feature = 'indexing'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'Operator'
+Syntax = '''
+s[i], s[-i], s[start_index:end_index_exclusive], 
+s[i:j:k], s[:], s[:-i].'''
+Description = 'No out-of-bounds error checking with slices.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'collection'
+Feature = 'indexing'
+Subfeature = 'tuple'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'tup1[0]'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'sequence'
+Feature = 'apply functionals'
+Subfeature = 'filter'
+Importance = ''
+"Implementation Type" = 'Function'
+Syntax = '''
+less_than_zero = list(filter(lambda x: x < 0, number_list))
+Alter:
+(x for x in lst if x > 6)
+[x for x in lst if x > 6]'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'sequence'
+Feature = 'apply functionals'
+Subfeature = 'map'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+map(fn, lst)
+flatMap = map().flatten
+[item for sublist in l for item in sublist]'''
+Description = 'List comprehension or map is more efficient than for loop - avoids interpreter overhead for each iteration.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'sequence'
+Feature = 'apply functionals'
+Subfeature = 'fold'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+reduce(2to1Fn, lst)
+reduceLeft, reduceRight,
+sum, product, min, max'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'sequence'
+Feature = ''
+Subfeature = 'prefix'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+from itertools import takewhile
+sub = takewhile(fn, seq)'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'iteration'
+Feature = 'while'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'statement while cond'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'iteration'
+Feature = 'while'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'while cond: stBlock'
+Description = 'List comprehension or map is more efficient than for loop - avoids interpreter overhead for each iteration.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'iteration'
+Feature = 'exit'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'break continue'
+Description = 'Does not cause else part of for loop to run.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'sequence'
+Feature = 'modify'
+Subfeature = 'concatenate'
+Importance = ''
+"Implementation Type" = 'Operator'
+Syntax = 'seqA + seqB'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'sequence'
+Feature = 'modify'
+Subfeature = 'concatenate'
+Importance = ''
+"Implementation Type" = 'Method'
+Syntax = 'extend(seqB)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'sequence'
+Feature = 'modify'
+Subfeature = 'append'
+Importance = ''
+"Implementation Type" = 'Method'
+Syntax = 'append(single_obj)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'sequence'
+Feature = 'modify'
+Subfeature = 'sort'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+sorted([5, 2, 3, 1, 4])
+sorted(student_tuples, key=lambda student: student[2], reverse=True)
+seq.sort()'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'sequence'
+Feature = 'modify'
+Subfeature = 'insert'
+Importance = ''
+"Implementation Type" = 'Function'
+Syntax = 'insert(idx, obj)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'sequence'
+Feature = 'conversions'
+Subfeature = 'conversion'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'array() list() dict() set()'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'List'
+Feature = 'modify'
+Subfeature = 'push'
+Importance = ''
+"Implementation Type" = 'Method'
+Syntax = 'push(val)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'List'
+Feature = 'modify'
+Subfeature = 'pop'
+Importance = ''
+"Implementation Type" = 'Method'
+Syntax = 'pop([i])'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'List'
+Feature = 'instantiation'
+Subfeature = 'literal'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '[a, b, c]'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'List'
+Feature = 'instantiation'
+Subfeature = 'int range'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '  range([start,] stop[, step])'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'List'
+Feature = 'instantiation'
+Subfeature = 'numeric range'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import numpy as np
+>>> np.arange(0.0, 1.0, 0.1)'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'List'
+Feature = ''
+Subfeature = 'List comprehension'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '[f(x) for x in someList if cond]'
+Description = 'Contrast with generators'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'List'
+Feature = 'instantiation'
+Subfeature = 'zip'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'zip(lst1, lst2)'
+Description = 'Return list of tuples'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'List'
+Feature = 'instantiation'
+Subfeature = 'unzip'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'unzip(lst1, lst2)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'List'
+Feature = 'instantiation'
+Subfeature = 'item repitition'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''' 'a'*20'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'List'
+Feature = 'to string'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''\n'.join(mylist)'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'List'
+Feature = 'reorder'
+Subfeature = 'shuffle'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'random.shuffle(lst)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'List'
+Feature = 'reorder'
+Subfeature = 'ascending'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'sorted(lst)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'List'
+Feature = 'reorder'
+Subfeature = 'by functional, ascending'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''newlist = sorted(list_to_be_sorted, key=lambda k: k['name'])'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'List'
+Feature = 'iteration'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+for x in lst: stBlock
+for x in list1, list2: stBlock
+for x, y in lst: stBlock
+for x, y in tupleList: stBl // maybe zip(l1, l2)
+for index, item in enumerate(lst): stB1'''
+Description = 'List comprehension or map is more efficient than for loop - avoids interpreter overhead for each iteration.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'List'
+Feature = 'iteration'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'lst.foreach(fn )'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'List'
+Feature = 'iteration'
+Subfeature = 'progress bar'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+from tqdm import tqdm
+for i in tqdm(range(10000)):
+    ...'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'List'
+Feature = 'iteration'
+Subfeature = 'progress bar'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import tqdm
+pbar = tqdm.tqdm(total=5)
+video_log = tqdm.tqdm(total=0, position=3, bar_format='{desc}')
+
+for ii in range(5):
+    pbar.write(f'Hello {ii}')
+    video_log.set_description_str(...)
+    pbar.update(1)'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'List'
+Feature = 'iteration'
+Subfeature = 'progress bar'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+with tqdm(total=num_batches,
+          bar_format='{postfix} - {n_fmt}/{total_fmt}{desc}{percentage}%|{bar}| '
+           '[{elapsed}<{remaining}, {rate_fmt}]') as pbar:
+    for epoch in range(max_epochs):
+        # let the next `update()` decide whether to refresh
+        pbar.set_postfix(epoch=epoch, refresh=False)
+        # manual alternative:
+        # pbar.set_postfix_str("Epoch {epoch:2d}".format(epoch=epoch), refresh=False)
+        pbar.update(1)
+        # ...'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'List'
+Feature = 'iteration'
+Subfeature = 'parallel'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+from multiprocessing import Pool
+pool = Pool(4)
+results = pool.map(f, letters)'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'List'
+Feature = 'iteration'
+Subfeature = 'parallel with progress bar'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+from tqdm.contrib.concurrent import process_map  # or thread_map
+r = process_map(_foo, range(0, 30), max_workers=2)'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'List'
+Feature = 'iteration'
+Subfeature = 'check'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+forall(boolFn, lst)
+exists
+count'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'security bcrypt'
+Feature = 'password'
+Subfeature = 'create'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+#   (Using bcrypt, the salt is saved into the hash itself)
+    return bcrypt.hashpw(plain_text_password, bcrypt.gensalt())'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'security bcrypt'
+Feature = 'password'
+Subfeature = 'check'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+# Check hased password. Useing bcrypt, the salt is saved into the hash itself
+    return bcrypt.checkpw(plain_text_password, hashed_password)'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'Counter map'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+>>> cnt = Counter()
+>>> for word in ['red', 'blue', 'red', 'green', 'blue', 'blue']:
+...     cnt[word] += 1
+>>> cnt
+Counter({'blue': 3, 'red': 2, 'green': 1})
+'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'Tuple'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'a, b, c'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'Tuple'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '() '
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'Tuple'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '(d,) [but not (d)!!].'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'Tuple'
+Feature = 'indexing'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+tup[1]
+(a, b) = tup
+a, b = tup'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'Named tuple'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+from collections import namedtuple
+cls = namedtuple(tplName, fieldList)
+cls(valueList)'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'Iterator'
+Feature = 'instantiation'
+Subfeature = 'type casting'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+iter(lst)
+lst.foreach(fn) // fn has yield statement'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'Generator'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'funciton f():  for i in myList: yield i'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'Generator'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '(x*x for x in range(3) if cond)'
+Description = 'think of list comprehensions as generator expressions wrapped in a list constructor.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'Generator'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'xrange(100)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'Generator'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'iterutils generators'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'Generator'
+Feature = 'check emptiness'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+try:
+        first = next(iterable)
+    except StopIteration:
+        return None'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'map'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''{'jack': 4098, 'sape': 4139}'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'map'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+dict(sape=41, jack=4098)
+dict(tupleList)
+dict(zip(lst1, lst2))
+
+ast.literal_eval("{'muffin' : 'lolz', 'foo' : 'kitty'}")
+
+s = "{'muffin' : 'lolz', 'foo' : 'kitty'}"
+json_acceptable_string = s.replace("'", "\"")
+d = json.loads(json_acceptable_string)'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'map'
+Feature = 'copy + modify'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''setup2 = dict(setup1.items() + {'param1': val10, 'param2': val20}.items())'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'map'
+Feature = 'indexing'
+Subfeature = 'get'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+tel[xyz] // no default
+tel.get(key, default=None)'''
+Description = '''
+But if tel[xyz] = None is assigned, tel[xyz] returns without exception.
+If tel[xyz] does not exist, KeyError is thrown.'''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'map'
+Feature = 'modify'
+Subfeature = 'set'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''tel['guido'] = 4127'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'map'
+Feature = 'modify'
+Subfeature = 'delete'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+del tel['sape']
+val = my_dict.pop('key', None)'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'map'
+Feature = 'modify'
+Subfeature = 'append dict'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'dict_a.update(dict_b)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'map'
+Feature = 'modify'
+Subfeature = 'clear'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'dict.clear()'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'map'
+Feature = 'keys'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'tel.keys()'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'map'
+Feature = 'keys'
+Subfeature = 'check'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''' 'guido' in tel'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'map'
+Feature = 'values'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+mapx.values()
+mapx.itervalues()'''
+Description = 'Prefer using itervalues when necessary.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'map'
+Feature = 'iteration'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+for key in mapX: stBlock
+for x, y in mapX.items(): stBlock '''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'map'
+Feature = 'iteration'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'python 2'
+Syntax = 'for x, y in mapX.iteritems(): stBlock '
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'counter map'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import collections
+c = collections.Counter()
+c1 = collections.Counter(iter)
+c[wrd] = c[wrd] + 1'''
+Description = 'Object to int map, with default value 0.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'default dict'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+d = defaultdict(int)
+d[k] += 1'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'Set'
+Feature = 'instantiation'
+Subfeature = 'type casting'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'set(list)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'Set'
+Feature = 'modify'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'Method'
+Syntax = '''
+add, update, remove, discard, clear
+s - t 
+s & t # intersection
+'''
+Description = ''

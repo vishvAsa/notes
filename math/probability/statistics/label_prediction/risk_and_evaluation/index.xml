@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Risk &amp; eval on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/risk_and_evaluation/</link>
+    <description>Recent content in &#43;Risk &amp; eval on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/risk_and_evaluation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Loss functions: labeling multiple data points</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/risk_and_evaluation/Loss_functions_labeling_multiple_data_points/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/risk_and_evaluation/Loss_functions_labeling_multiple_data_points/</guid>
+      <description>&lt;h2 id=&#34;confusion-matrix&#34;&gt;Confusion matrix&lt;/h2&gt;&#xA;&lt;p&gt;Let  For qualitative evaluation, make k*k confusion matrix \(C\) with \(C_{i,j}\) as number of points belonging to class i predicted as belonging to class j.&lt;/p&gt;&#xA;&lt;p&gt;A 2x2 example:&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;Predicted T&lt;/th&gt;&#xA;          &lt;th&gt;Predicted F&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Actual T&lt;/td&gt;&#xA;          &lt;td&gt;12&lt;/td&gt;&#xA;          &lt;td&gt;3&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Actual F&lt;/td&gt;&#xA;          &lt;td&gt;31&lt;/td&gt;&#xA;          &lt;td&gt;13&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;figure class=&#34;&#34;&gt;&#xA;&#xA;    &lt;a href=&#34;../images/positive-negative-predictive-value.webp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&#xA;        &lt;img src=&#34;../images/positive-negative-predictive-value.webp&#34; alt=&#34;&#34; title=&#34;&#34;&gt;&#xA;    &lt;/a&gt;&#xA;&#xA;    &#xA;&#xA;&lt;/figure&gt;&#xA;&lt;h2 id=&#34;notation&#34;&gt;Notation&lt;/h2&gt;&#xA;&lt;p&gt;\(U \dfn \) set of all points. \(y(c) \dfn\) points belonging to class c. \(\hat{y}(c) \dfn\) set of points predicted to belong to class c.&lt;/p&gt;&#xA;&lt;h2 id=&#34;true-and-false-positives&#34;&gt;True and false positives&lt;/h2&gt;&#xA;&lt;p&gt;True positives: \(tp(c, \hat{y}) \dfn |y(c) \inters \hat{y}(c)|\). Points correctly labelled as positive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Loss functions: labeling single data points</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/risk_and_evaluation/Loss_functions_labeling_single_data_points/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/risk_and_evaluation/Loss_functions_labeling_single_data_points/</guid>
+      <description>&lt;p&gt;Different measures of goodness/ error functions are appropriate for different scenarios.&lt;/p&gt;&#xA;&lt;h2 id=&#34;loss-functions-vector-labels&#34;&gt;Loss functions: vector labels&lt;/h2&gt;&#xA;&lt;p&gt;Loss functions in this case are often defined to penalize deviation from the actual label symmetrically.&lt;/p&gt;&#xA;&lt;p&gt;See loss functions in regression section.&lt;/p&gt;&#xA;&lt;h2 id=&#34;loss-functions-for-classification&#34;&gt;Loss functions for classification&lt;/h2&gt;&#xA;&lt;p&gt;Below we mainly consider the loss functions \(l(\hat{y}, y)\) (where \(\hat{y}\) estimates label y) which are without regularization to account for prior belief. Loss functions used in regression can directly be applied to this case: Eg: like squared difference.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

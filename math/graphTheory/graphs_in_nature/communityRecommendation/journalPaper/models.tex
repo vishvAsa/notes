@@ -1,0 +1,151 @@
+In this section, we first establish the notation used, and then pose the affiliation recommendation problem as a \emph{ranking} problem. Then we describe a natural way of combining the friendship and affiliation networks into a single graph. In the subsections that follow, we describe affiliation recommendation approaches based on the \textit{graph proximity model} and those based on the \textit{latent factors model}.
+
+\paragraph*{Notation}
+We use $N_u$ to denote the total number of users in the affiliation network and $N_g$ to denote the total number of communities in the affiliation network. $\A \in \mathbb{R}^{N_u \times N_g}$ denotes the user $\times$ group adjacency matrix of affiliation network $\calA$. $\SS \in \mathbb{R}^{N_u \times N_u}$ denotes the user $\times$ user adjacency matrix of friendship network $\calS$. We will use $\A_{i,j}$ and $[\cdot]_{i,j}$ to denote the $i,j$ entry of the matrix $\A$ or the corresponding matrix expression within the brackets. Other notation will be introduced as needed.
+
+\paragraph*{Ranking problem}
+We are considering the task to recommend affiliations to a given user. This problem can be posed as a problem of ranking various affiliations in the order of the user's interest in joining them. The methods we describe here to solve this problem rely on assigning scores to various affiliations in order to rank them. The task of an affiliation recommendation algorithm can be viewed as one of generating an $N_u \times N_g$ score matrix. 
+
+\subsection{Prediction on the Combined Graph}
+Consider the adjacency matrices $\A$ and $\SS$. For now, we assume $\SS$ to be symmetric (or equivalently $\calS$ to be undirected), although a non-symmetric extension to our model can be easily obtained. Clearly, $\SS$ corresponds to an undirected graph among users and $\begin{bmatrix}
+ 0 & \A \\
+\A^T & 0
+\end{bmatrix}$
+corresponds to an undirected bipartite graph between users and groups. Despite the heterogeneity of the two types of ``links", it is rather natural to consider a graph $\calC$ between all the users and groups, with the combined adjacency matrix
+\begin{equation}
+\C =
+\begin{bmatrix}
+\lambda \SS & \A \\
+\A^T & 0
+\end{bmatrix},
+\label{e:C}
+\end{equation}
+where the heterogeneity of two types of links is reduced to a single parameter $\gl \geq 0$, that controls the ratio of the weight of friendship to the weight of group membership. Clearly when $\gl = 0$, the user-user friendship ceases to play a role in this joint graph, and it simply degenerates to the bipartite affiliation graph.
+
+As in the case of prediction with a single graph, the prediction on $\calC$ can be carried out from the following two perspectives.
+\begin{compactenum}
+\item \textbf{Graph Proximity Model:} We assume that the entire graph is known, and that the prediction of new or unobserved links is based on an estimated proximity in $\C$ between nodes.
+\item \textbf{Latent Factors Model:} We model the graph as a matrix, some of whose zero entries are actually ones, while modelling all entries as the product of latent factors.
+\end{compactenum}
+We will elaborate on the two perspectives in the following two subsections.
+
+\subsection{Graph Proximity Model}
+\label{Graph Proximity Model}
+As described earlier, the affiliation network can be modelled by a graph. The graph proximity model assumes that the probability of there arising a link between two nodes in a graph is based on an estimated proximity between the two nodes. The proximity of two vertices can be calculated as the weighted sum of the number of paths connecting the two with varying lengths. This is the underlying mechanism of many link prediction models in the context of social network analysis. Consider the widely-used \textsf{Katz} measure \cite{katz53,KleinbergLinkPred} on the friendship network $\calS$. The proximity is given by
+\[
+\textsf{Katz}(\SS; \beta) = \beta \SS + \beta^2 \SS^2 + \beta^3 \SS^3 + \cdots = \sum_{i=1}^\infty \beta^i \SS^i,
+\]
+where the weights of paths decay exponentially with the length and $\beta$ is a parameter to ensure convergence of the series. 
+
+A simple extension of \textsf{Katz} to the bipartite graph $\calA$ is
+\begin{align}
+\textsf{extKatz}(\A; \beta)  & = (\beta \A\A^T + \beta^2 (\A\A^T)^2 + \beta^3 (\A\A^T)^3 + \cdots) \A \nonumber \\
+\hspace{-6pt} &=  \textsf{Katz}(\A\A^T;\beta) \A,
+%\beta \A\A^T\A + \beta^2 (\A\A^T)^2\A + \cdots.
+\label{e:extKatz}
+\end{align}
+where, in the co-occurrence matrix $\A\A^T$, two users $i$ and $j$ are considered connected if $i$ and $j$ are members in the same group, i.e. $[\A\A^T]_{i,j} > 0$. In this case, we consider the paths of the following types
+\[
+\text{user $i$} \, \xrightarrow{\A\A^T}\, \text{ $j$ } \, \xrightarrow{\A\A^T}\, \text{ $k$ } \,  \xrightarrow{\A} \text{ group $n$.}
+\]
+The intuition in considering $\A\A^T\A$ is if user $i$ shares some community with user $j$, it is likely that $i$ will join some other community $j$ belongs to. The higher order terms can be interpreted in a similar way.
+
+Consider the following \textsf{Katz} measure proximity matrix on the combined graph $\calC$
+\[
+\textsf{Katz}(\C; \beta) = \beta \C + \beta^2 \C^2 + \beta^3 \C^3 + \cdots = \sum_{i = 1}^\infty \beta^i \C^i.
+\]
+The user-community block\footnote{The user-community block is the 1-2 block matrix of $\textsf{Katz}(\C;\beta)$, that originates from the block partitioning of $\C$ in Equation \eqref{e:C}.} of $\textsf{Katz}(\C; \beta)$ is denoted 
+$\textsf{Katz}(\calC; \beta)_{12}$ and given by 
+\begin{align}
+\textsf{Katz}(\calC; \beta)_{12}  & = \beta \A + \beta^2 \lambda \SS \A +  \beta^3(\lambda^2 \SS^2 \A + \A \A^T \A) + \notag \\
+ & \mathrel{\phantom{=}} \beta^4(\lambda^3 \SS^3 \A + \gl \A \A^T \SS \A+ \gl \SS \A \A^T \A) + \cdots.
+\label{e:combKatz}
+\end{align}
+Equation (\ref{e:combKatz}) is another generalization of the \textsf{Katz} measure on the bipartite graph $\A$
+by also considering paths involving the frienship graph $\calS$, e.g. 
+\[
+\text{user $i$ } \, \xrightarrow{\SS}\, \text{ $j$ } \,\xrightarrow{\A} \, \text{ group $n$ (in $\C^2$)}
+\]
+and
+\[
+\text{user $i$ } \, \xrightarrow{\SS} \, \text{ $j$ } \, \xrightarrow{\A\A^T} \, \text{ $k$ }\, \xrightarrow{\A}\, \text{ group $n$ (in $\C^4$)}.
+\]
+Clearly we can use $\textsf{Katz}(\calC; \beta)_{12}$ as a score matrix.
+
+Computing the \textsf{Katz} measure is expensive as it either involves a summation of large number (infinite) of terms with matrix powers or the inverse of a potentially large matrix\footnote{It can be shown that $\textsf{Katz}(\C;\beta) = ( I - \beta \C)^{-1} - I$.}, where the resulting inverse is dense. We consider a truncated \textsf{Katz} measure, e.g. with the combined adjacency matrix $\C$ we have  
+\begin{equation}
+\textsf{tKatz}(\C, \beta, k) = \sum_{i=1}^{k} \beta^i \C^i.
+\label{e:tKatzC}
+\end{equation}
+where the truncation parameter $k$ is usually quite small. Also for the truncated \textsf{Katz} measure we will be interested in only the user-community block, which we will denote $\textsf{tKatz}(\C, \beta, k)_{12}$, e.g. with $k = 2$ we have
+\begin{equation}
+\textsf{tKatz}(\C, \beta, 2)_{12} = \beta \A + \beta^2 \lambda \SS \A.
+\label{e:tkatz12}
+\end{equation}
+For computing the \textsf{tKatz} or \textsf{extKatz} measures for the graphs $\C$ or $\A$, respectively, a conservative estimate of the computational cost is $O(N_u \times \textsf{nnz})$, where $\textsf{nnz}$ is the number of non-zeros in $(\A\A^T)^k$.
+
+\subsection{Latent Factors Model}
+\label{Latent Factors Model}
+We will now describe the \textit{latent factors model}. We will present the optimization problem it solves, and examine some of its properties. In this model, the zeros in the adjacency matrix of the affiliation network, $\A$ may be viewed as being unobserved entries with a huge prior belief in favor of them being actually zero. Every user $i$ and community $j$ are assumed to have a low dimensional representations $\mathbf{u}_i$, $\mathbf{g}_j$. The affinity of a user $i$ to a community $j$ is assumed to correspond to $\mathbf{u}_i^{T} \mathbf{g}_j$. In other words, users and communities with a high inner product are assumed to be connected to each other, i.e. $\A_{i, j} \approx \mathbf{u}_i^T \mathbf{g}_j$.
+In matrix form, we express this as
+\begin{equation}
+ \label{e:lfm}
+\A \approx \U^T \G,
+\end{equation}
+where $\U \in \bbR^{d \times N_u}$ is the matrix of user factors and $\G \in \bbR^{d \times N_g}$ is the matrix of group factors. Note that $\text{rank}(\U) \leq d,\ \text{rank}(\G) \leq d,\text{ and } d \ll N_u, N_g$.
+
+To get factors which account for both the observed entries in $\A$ as well as the interactions in $\SS$ we consider the following combined network,
+\begin{equation}
+\C'(\lambda, \D) =
+\begin{bmatrix}
+\lambda \SS & \A \\
+\A^T & \D
+\end{bmatrix},
+\label{e:generalizedCombined}
+\end{equation}
+where $\D$ is a \emph{derived} similarity between groups which is \emph{not} observed. Note that $\C = \C'(\lambda, \mathbf{0})$. Let $\C' \approx \V \mathbf{\Lambda} \V^T$ be the rank-$d$ dominant spectral approximation, where the $d$ columns of $\V$ are eigenvectors and $\mathbf{\Lambda}$ is a $d \times d$ diagonal matrix with the largest in magnitude eigenvalues. Partitioning the spectral approximation according to the block structure of $\C'$ we obatain 
+\[
+\C'(\lambda, \D)  = 
+\begin{bmatrix}
+\lambda \SS & \A \\
+\A^T & \D
+\end{bmatrix}
+\approx 
+ \begin{bmatrix}
+ \V_1 \\
+ \V_2
+ \end{bmatrix}
+\mathbf{\Lambda}
+\begin{bmatrix}
+\V_1^T & \V_2^T
+\end{bmatrix} = 
+\begin{bmatrix}
+\V_1 \mathbf{\Lambda} \V_1^T & \V_1 \mathbf{\Lambda} \V_2^T  \\
+\V_2 \mathbf{\Lambda} \V_1^T & \V_2 \mathbf{\Lambda} \V_2^T 
+\end{bmatrix}.
+\]
+Clearly, we have $\A \approx \V_1 \mathbf{\Lambda} \V_2^T$ and we can set $\U^T = \V_1 \mathbf{\Lambda} $ and $ \G = \V_2^T$ in model of Equation \eqref{e:lfm}. The user factors in $\U$ and group factors in $\G$ contain information from the friendship network $\calS$ as the computation of $\V_1$, $\V_2$ and $\mathbf{\Lambda}$ are influenced by the presense of $\SS$ in $\C'$. We also note that the user and group factors are not unique. It is straightforward to show that the factors $\V_1$, $\mathbf{\Lambda}$ and $\V_2$ obtained by the spectral approximation of $\C'$ solve the following minimization problem 
+\begin{equation}
+\label{e:objective}
+ \argmin_{\V_1, \gL, \V_2} \left(\|\V_1 \mathbf{\Lambda} \V_1^T -\lambda \SS \|_F^2 + 2\|\V_1 \mathbf{\Lambda} \V_2^T -\A \|_F^2 +  \|\V_2 \mathbf{\Lambda} \V_2^T - \D\|_F^2\right), 
+\end{equation}
+with the constraints $\rank(\V_1) = \rank(\V_2) = \rank(\mathbf{\Lambda}) \leq d$. We will interpret the low rank approximation of $\A$
+\begin{equation}
+\A \approx \V_1 \mathbf{\Lambda} \V_2^T
+\label{e:LFM}
+\end{equation}
+as a score matrix.
+
+\paragraph*{Role of $\lambda$}
+Intuitively, in equation (\ref{e:objective}), $\gl$ controls the contribution of $\SS$ in deciding the user factors. The larger the $\lambda$, the learned factor model describes the friendship network $\calS$ better, and correspondingly the affiliation network is described less well.
+
+\paragraph*{Choice of D}
+The derived similarity between the communities $\D$ in the combined matrix $\C'$ can be approximated using proximity between communities in the graph corresponding to $\C'$. It follows that a potential choice is $\D = \A^T \A$, which is simply the number of users which any two communities share. One may also consider weighing the contribution of $\D$ with $\gl$, which is the weight factor learnt for $\SS$. We will see later that the experiments suggest that the choice of $\D$ is not very important, and that the information from $\D$, when derived from $\A$, is redundant.
+
+%\subsection{Solution to the optimization problem}
+%The analytical solution to the minimizing $\U$, $G$ of the objective function in (\ref{e:objective}) is given by the SVD of $\C'$. Specifically,
+%\begin{equation}
+% \argmin_{\U, \G} \{\|\U^T \U -\lambda \SS \|^2 + 2\|\U^T \G -\A \|^2 +  \|\G^T\G - \D\|^2 \} =  \text{SVD}(\C', d)
+%\end{equation}
+%where SVD($\C', d$) denotes the rank-$d$ singular value decomposition of matrix $\C'$, i.e, $\C' \approx \U \bSigma \G^T$, where
+%$\bSigma$ is the $d \times d$ matrix of singular values, $\U$ is the matrix of $d$ leading left singular vectors, and $\G$ is the matrix of $d$ leading right singular vectors. 

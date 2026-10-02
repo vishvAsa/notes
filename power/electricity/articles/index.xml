@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Articles on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/power/electricity/articles/</link>
+    <description>Recent content in &#43;Articles on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/power/electricity/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Edison on storage batteries</title>
+      <link>https://vishvAsa.github.io/notes/power/electricity/articles/edison_on_storage-batteries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/power/electricity/articles/edison_on_storage-batteries/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The storage battery is, in my opinion, a catchpenny, a sensation, a mechanism for swindling the public by stocking companies  &amp;hellip; Edison&amp;rsquo;s view on storage batteries in 1883&lt;br&gt;&#xA;Edison&amp;rsquo;s view on storage batteries in 1883&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;What is the maximum of a storage battery?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;It is about 50 per cent. You get the maximum of current when you utilise the full capacity of the battery, the same as in a steam engine, where, if steam is admitted for the full stroke, 50 per cent, of the steam or power is wasted, but you obtain the maximum power from the engine; but this is also the minimum of economy. Hence, to get the proper economy, engine builders only take onethird to one-fourth of the maximum power from their engines, but this adds to the investment, which is compensensated for by the saving in economy, which more than pays interest on increased investment.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

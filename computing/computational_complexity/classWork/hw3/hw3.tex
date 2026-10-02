@@ -1,0 +1,240 @@
+\documentclass[10pt]{amsart}
+\usepackage{graphicx}
+
+\newtheorem{thm}{Theorem}[subsection]
+\newtheorem{cor}[thm]{Corollary}
+\newtheorem{lem}[thm]{Lemma}
+
+\theoremstyle{remark}
+\newtheorem{defn}[thm]{Definition}
+\newtheorem*{ack}{Acknowledgement}
+\newtheorem{alg}[thm]{Algorithm}
+\newtheorem{rem}[thm]{Remark}
+
+%opening
+\title{CS388T: Answer to Homework 3}
+\author{vishvAs vAsuki}
+
+\begin{document}
+
+\maketitle
+
+\section{Question}
+\subsection{A} Prove that a DNF formula can be switched in polynomial time to a CNF formula (with a possibly different number of variables), preserving satisfiability.
+
+\subsection{B} Prove that if $P \neq NP$, there is no polynomial time algorithm that switches a CNF formula to a DNF formula preserving satisfiability.
+
+\subsection{Solution}
+
+\begin{ack}
+I benefitted from discussions with Zifei and Alok in solving this problem.
+\end{ack}
+
+\subsection{A} 
+
+\begin{thm}
+A DNF formula can be switched in polynomial time to a CNF formula (with a possibly different number of variables), preserving satisfiability.
+\end{thm}
+\begin{proof}
+A DNF is a disjunction of conjunctions. A DNF is satisfiable if some conjunction is satisfiable. Any conjunction of literals is satisfiable if and only if that conjunction does not contain both a literal and its negation. Hence, there exists a linear time algorithm, DNF-SAT-ALG, to verify whether a DNF is satisfiable.
+
+If DNF-SAT-ALG determines that the DNF is satisfiable, it can be easily modified to produce the following CNF: (x). DNF-SAT-ALG can also be modified to produce the CNF $(x \wedge ~x)$, which is unsatisfiable, if the DNF is unsatisfiable.
+
+Hence, we have proved that every DNF formula can be switched in polynomial time to a CNF formula, preserving satisfiability, in polynomial time.
+\end{proof}
+
+\subsection{B} 
+
+\begin{thm}
+If $P \neq NP$, there is no polynomial time algorithm that switches a CNF formula to a DNF formula preserving satisfiability.
+\end{thm}
+\begin{proof}
+We produce a proof by contradiction. Let us call the problem of switching a CNF formula to a DNF formula while preserving satisfiability CNF-SAT2DNF-SAT.
+
+3-SAT, which is about checking the satisfiability of a CNF with atmost 3 variables in each clause, is NP Complete. We know that if $P \neq NP$, no deterministic polynomial time algorithm can solve an NP complete problem such as 3-SAT.
+
+Suppose that CNF-SAT2DNF-SAT can be solved in polynomial time even when $P \neq NP$. As we explained in the answer to the previous subquestion, DNF-SAT can be solved in linear time. So, this assumption leads us to a way of solving 3-SAT in deterministic polynomial time! This contradicts our earlier result that there is no deterministic polynomial time algorithm to solve 3-SAT if $P \neq NP$.
+
+Hence, discarding our assumption which led us to an absurdity, we conlcude that if $P \neq NP$, there is no polynomial time algorithm for CNF-SAT2DNF-SAT.
+\end{proof}
+
+\section{Question}
+A boolean formula in a conjunctive normal form is said to be a Horn formula if each clause contains at most one non negated variable. Describe a polynomial time algorithm to decide whether a Boolean Horn formula is satisfiable.
+
+\subsection{Solution}
+\begin{ack}
+I referred to \cite{papadimitriouCC} in solving this problem.
+\end{ack}
+
+\begin{alg}
+Algorithm HORN for HORNSAT:
+\begin{itemize}
+\item Input: Horn formula F.
+\item Output: TRUE if F is satisfiable, FALSE otherwise.
+\item The algorithm:
+\subitem Initial assignment A: Initialize all variables to FALSE.
+\subitem Repeat until all clauses with a positive literal are satisfied:
+\subsubitem Take some unsatisfied clause with a positive literal, U.
+\subsubitem Alter the assignment A: Assign TRUE to the positive literal in U.
+\subitem If the A satisfies F, return TRUE. Otherwise, return FALSE.
+\end{itemize}
+\end{alg}
+
+\begin{thm}
+HORN correctly solves HORNSAT.
+\end{thm}
+\begin{proof}
+HORN returns TRUE only if it has a satisfying assignment, A. We only need to prove that HORN returns FALSE only if F is unsatisfiable. Let A be the assignment used by HORN to decide whether F is satisfiable.
+
+HORN starts off with an assignment where all variables are FALSE. Due to its construction, HORN assigns TRUE only to variables in F only if it is necessary to satisfy some clause in F. Thus, A has the minimum number of variables set to true for satisfying clauses in F with positive literals.
+
+Now, consider a purely negative clause. As explained above, any assignment A' will have a greater number of variables set to true, when compared with A. So, if A cannot satisfy this clause, no other assignment, A' can.
+
+Hence, HORN returns FALSE only if F is unsatisfiable. Thus, we have proved that HORN correctly solves HORNSAT.
+\end{proof}
+
+\begin{thm}
+HORN takes polynomial time.
+\end{thm}
+\begin{proof}
+Consider executing HORN on a random access machine. The initial assignment is created in linear time. The selection of an unsatisfied clause with a positive literal in F can only take linear time. The number of times we search for an unsatisfied clause with a positive literal is also polynomial. The step where we check if the assignment A satisfies the formula can also be done in polynomial time. Hence, as all steps in HORN take polynomial time, we conclude that HORN takes polynomial time.
+\end{proof}
+
+\section{Question}
+Prove that if there is a language L in $NP \cap coNP$, that is NP complete under polynomial time reductions, then NP = coNP.
+
+\subsection{Solution}
+Consider a language a language L in $NP \cap coNP$. Let L be NP complete under polynomial time reductions.
+
+\begin{lem}
+If there is a language L in $NP \cap coNP$, that is NP complete under polynomial time reductions, then $NP \subset coNP$
+\end{lem}
+
+\begin{proof}
+
+As every language L' in NP is polynomial time reducible to L, every L' in NP also belongs to coNP. Thus, $NP \subset coNP$.
+\end{proof}
+
+\begin{lem}
+If there is a language L in $NP \cap coNP$, that is NP complete under polynomial time reductions, then $coNP \subset NP$.
+\end{lem}
+\begin{proof}
+As L is NP complete under polynomial time reductions, L is coNP complete under polynomial time reductions. So, every language L' in coNP can be reduced to L under polynomial time reductions. But L is in NP. So, every L' in coNP is also in NP.
+\end{proof}
+
+Due to the above lemmata, the main result follows: "If there is a language L in $NP \cap coNP$, that is NP complete under polynomial time reductions, then NP=coNP."
+
+\section{Question}
+Show that if $P = NP \cap coNP$, there is a polynomial time algorithm for factoring. (Be sure that your argument maintains a clear distinction between decision problems and function computation problems.)
+
+\subsection{Solution}
+
+\begin{defn}
+FACTOR(n,m) := A decision problem which returns true if n has a factor smaller than the number m and greater than one.
+\end{defn}
+
+\begin{defn}
+NOFACTOR(n,m) := The complement of FACTOR(n,m).
+\end{defn}
+
+\begin{defn}
+FACTORING(n) := A function which returns the list of prime factors of n, if n has a factor  greater than one.
+\end{defn}
+
+\begin{lem}
+$FACTOR \in NP$
+\end{lem}
+
+\begin{proof}
+FACTOR is in NP as the following algorithm can be executed by a non deterministic turing machine in polynomial time.
+
+\begin{alg}
+Algorithm ALG-FACTOR for FACTOR:
+\begin{itemize}
+\item Input: n,m
+\item Output: TRUE if there is a prime factor p of n, such that $p \leq m$, FALSE other wise.
+\item Algorithm:
+\subitem Generate a number $x \leq m$ by guessing one bit of x in every nondeterministic step. This can be done in O(log m) nondeterministic steps.
+\subitem If x divides n, return TRUE. Otherwise return FALSE.
+\end{itemize}
+\end{alg}
+\end{proof}
+
+\begin{lem}
+$FACTORING \in FNP$
+\end{lem}
+\begin{proof}
+FACTORING is in NP as the following algorithm can be executed by a non deterministic turing machine in polynomial time.
+
+\begin{alg}
+Algorithm ALG-FACTORING for FACTORING:
+\begin{itemize}
+\item Input: n
+\item Output: A list of prime factors of n.
+\item Algorithm:
+\subitem Initialize the output string, OUTPUT to an empty string.
+\subitem Use binary search the list of numbers from 1 to n-1 to find the smallest prime number x which divides n. The identification of the correct range of numbers to search is identified in each step using calls to ALG-FACTOR. This can be done in $O(\log n)$ calls to the algorithm ALG-FACTOR.
+\subitem If no such x is found, add n to OUTPUT, and return OUTPUT.
+\subitem If x is found, add x to the string OUTPUT.
+\subitem Recursively call ALG-FACTORING with the parameter n/x, and add the output of this call to the string OUTPUT.
+\subitem Return the string OUTPUT.
+\end{itemize}
+\end{alg}
+
+Note that the number of recursive calls to ALG-FACTOR is O(log n). This is due to the fact that 2 being the smallest prime, with each recursive call, the parameter to ALG-FACTOR is reduced by atleast a factor of 2.
+
+\end{proof}
+
+\begin{ack}
+The professor gave me many clues to arrive at ALG-FACTORING.
+\end{ack}
+
+
+As noted in the above proof, we have the following corollary:
+\begin{cor}
+The number of prime factors of n is $O(\log n)$.
+\end{cor}
+
+\begin{lem}
+$FACTOR \in coNP$
+\end{lem}
+\begin{proof}
+Consider the problem NOFACTOR(n,m). It belongs to NP as the following algorithm is in NP.
+\begin{alg}
+Algorithm ALG-NOFACTOR for NOFACTOR:
+\begin{itemize}
+\item Input: n, m
+\item Output: FALSE if there is a prime factor p of n, such that $p \leq m$, TRUE otherwise.
+\item Algorithm:
+\subitem Get the list of prime factors of n using the algorithm ALG-FACTORING. This step can be executed in O(log n) steps by a non-deterministic turing machine.
+\subitem Parse the list of prime factors to find any number x less than m. If x exists, return FALSE. Otherwise, return TRUE.
+\end{itemize}
+\end{alg}
+
+\end{proof}
+
+\begin{lem}
+If $P = NP \cap coNP$, there exists a polynomial time algorithm which decides FACTOR.
+\end{lem}
+\begin{proof}
+From the above lemmata, we can conclude that $FACTOR \in NP \cap coNP$. If $P = NP \cap coNP$, then $FACTOR \in P$. By the definition of P, we conclude that FACTOR has a polynomial time algorithm if $P = NP \cap coNP$.
+\end{proof}
+
+\begin{lem}
+If there exists a polynomial time algorithm which decides FACTOR, there exists a polynomial time algorithm which computes FACTORING.
+\end{lem}
+\begin{proof}
+Consider the algorithm ALG-FACTORING introduced in one of the lemmata above. We had stated earlier that the part of the algorithm which uses binary search to find the smallest prime factor involves $O(\log n)$ calls to ALG-FACTOR. The functioning of ALG-FACTORING will remain unaffected with any other implementation of ALG-FACTOR. If there exists a deterministic polynomial time algorithm for ALG-FACTOR, the total time taken by ALG-FACTORING will be $O(\log^{2} n)$. (This can be seen by adding the time required by the various steps of ALG-FACTORING.)
+
+Hence, we conclude that if there exists a polynomial time algorithm which decides FACTOR, there exists a polynomial time algorithm which computes FACTORING.
+\end{proof}
+
+From the above lemmata, we have the main result:
+\begin{thm}
+If $P = NP \cap coNP$, there is a polynomial time algorithm for factoring.
+\end{thm}
+
+\bibliographystyle{plain}
+\bibliography{../computationalComplexity}
+
+\end{document}

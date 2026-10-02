@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Verification &amp; validation on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/verification_validation/</link>
+    <description>Recent content in &#43;Verification &amp; validation on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/verification_validation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reasoning</title>
+      <link>https://vishvAsa.github.io/notes/computing/verification_validation/reasoning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/verification_validation/reasoning/</guid>
+      <description>&lt;p&gt;Also see distributed computing ref.&lt;/p&gt;&#xA;&lt;h2 id=&#34;correctness&#34;&gt;Correctness&lt;/h2&gt;&#xA;&lt;h3 id=&#34;assertion&#34;&gt;Assertion&lt;/h3&gt;&#xA;&lt;p&gt;Assertion p: Assume that p is true.&lt;/p&gt;&#xA;&lt;p&gt;In practice, good programmers use special statements to check if assertions are true; eg: Java.&lt;/p&gt;&#xA;&lt;h3 id=&#34;correctness-1&#34;&gt;Correctness&lt;/h3&gt;&#xA;&lt;p&gt;S is correct wrt precondition p and postcondition q if: starting with p true, run S, get q.&lt;/p&gt;&#xA;&lt;h3 id=&#34;partial-correctness&#34;&gt;Partial correctness&lt;/h3&gt;&#xA;&lt;p&gt;\(\set{p}S\set{q}\). S is correct wrt p and q if: starting with p true, if ye run S, ye get q if S terminates. This is useful notation for proving correctness of program segments.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

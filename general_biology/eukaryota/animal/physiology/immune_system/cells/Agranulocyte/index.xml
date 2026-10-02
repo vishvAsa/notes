@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Agranulocyte on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/general_biology/eukaryota/animal/physiology/immune_system/cells/Agranulocyte/</link>
+    <description>Recent content in &#43;Agranulocyte on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/general_biology/eukaryota/animal/physiology/immune_system/cells/Agranulocyte/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leucocyte</title>
+      <link>https://vishvAsa.github.io/notes/general_biology/eukaryota/animal/physiology/immune_system/cells/Agranulocyte/Leucocyte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/general_biology/eukaryota/animal/physiology/immune_system/cells/Agranulocyte/Leucocyte/</guid>
+      <description>&lt;h2 id=&#34;t-cells&#34;&gt;T cells&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cytotoxic T cells recognize infected cell (by recognizing some antigen) and spur cell death.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;memory-t-cells&#34;&gt;Memory T cells&lt;/h3&gt;&#xA;&lt;p&gt;Reignite during secondary exposure.&lt;/p&gt;&#xA;&lt;h2 id=&#34;b-cells&#34;&gt;B cells&lt;/h2&gt;&#xA;&lt;p&gt;When activated: Secrete antibodies.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Neutralizing antibodies bind to a virus and ensure that they can&amp;rsquo;t bind to cell receptors.&lt;/li&gt;&#xA;&lt;li&gt;Non-neutralizing antibodies bind to antigens on surface of infected cells - detected by natural killer cells.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;plasma-cells&#34;&gt;Plasma cells&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Some B cells become plasma cells, which secrete antibodies for years.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;memory-b-cells&#34;&gt;Memory B cells&lt;/h3&gt;&#xA;&lt;p&gt;Can reignite antibodies during second exposure.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monocyte</title>
+      <link>https://vishvAsa.github.io/notes/general_biology/eukaryota/animal/physiology/immune_system/cells/Agranulocyte/Monocyte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/general_biology/eukaryota/animal/physiology/immune_system/cells/Agranulocyte/Monocyte/</guid>
+      <description>&lt;h2 id=&#34;dendridic-cells&#34;&gt;Dendridic cells&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Major role in adaptive immunity.&lt;/li&gt;&#xA;&lt;li&gt;Antigen-presenting cells (also known as accessory cells). Take infection to lymph nodes and activate T and B cells.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

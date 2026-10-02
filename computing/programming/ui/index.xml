@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;User interface on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/programming/ui/</link>
+    <description>Recent content in &#43;User interface on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/programming/ui/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GUI Metaphors</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/ui/GUI_Metaphors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/ui/GUI_Metaphors/</guid>
+      <description>&lt;p&gt;The most common graphical user interfaces use the desktop/ workspace and the windows metaphor.&lt;/p&gt;&#xA;&lt;h2 id=&#34;desktop&#34;&gt;Desktop&lt;/h2&gt;&#xA;&lt;p&gt;A desktop/ workspace corresponds to a big area in the available screen space whence applications are launched, and within which statuses, widgets and windows are displayed.&lt;/p&gt;&#xA;&lt;p&gt;There may be multiple workspaces on a device - especially in case of devices with limited screen size.&lt;/p&gt;&#xA;&lt;h3 id=&#34;layering&#34;&gt;Layering&lt;/h3&gt;&#xA;&lt;p&gt;Various windows, widgets and the desktop conceptually form a stack of various displays available to the user. This concept is useful when understanding widgets.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GUI Software Stack</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/ui/GUI_Software_Stack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/ui/GUI_Software_Stack/</guid>
+      <description>&lt;p&gt;Graphical user interfaces are implemented using a stack of software. The software stack, with examples is as follows:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Windowing system: provides abstraction from hardware, provides graphics primitives, basic window drawing abilities. Eg: xorg server.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Login session manager. Enables selection of desktop environment. Eg: gdm, kdm, lxdm, simpledm.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Desktop environment. Eg: gnome, kde (programmed with widgeting toolkits gtk+ and qt respectively). application ivocation: mouse driven or keyboard driven (possibly with autocompletion). transferring copied content, drag/ drop. Status panel showing useful updates like time, weather, input language.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Logging systems</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/ui/Logging_systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/ui/Logging_systems/</guid>
+      <description>&lt;p&gt;Examples include various java logging frameworks including log4j.&lt;/p&gt;&#xA;&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;&#xA;&lt;p&gt;One is to be able to log at various levels, usually named debug, info, error etc..&lt;/p&gt;&#xA;&lt;p&gt;Log messages should be informative and customizable: printing things like the name of the function where it originates, the class-name, the line number, the time, the log-message level etc..&lt;/p&gt;&#xA;&lt;p&gt;Logging is to have a simple, yet expressive syntax for constructing messages.&lt;/p&gt;&#xA;&lt;p&gt;One is to be able to set logging levels for various modules at various levels, so as to filter out relatively unimportant messages out of the log.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Special indicators</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/ui/Special_indicators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/ui/Special_indicators/</guid>
+      <description>&lt;h2 id=&#34;lighted-icons&#34;&gt;Lighted icons&lt;/h2&gt;&#xA;&lt;p&gt;Sometimes lighted icons are provided to provided binary information about something. Eg: is the caps-lock on, is there a waiting notification.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Special input hardware</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/ui/Special_input_hardware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/ui/Special_input_hardware/</guid>
+      <description>&lt;h2 id=&#34;buttons&#34;&gt;Buttons&lt;/h2&gt;&#xA;&lt;p&gt;Buttons are often provided, dedicated for a simgle (possibly broad) purpose. These include buttons to power off, adjust volume, reset the computer etc.. They provide a useful, cheap ever-present way of accepting input from the user, which is partly why they are not located on the screen.&lt;/p&gt;&#xA;&lt;h2 id=&#34;dials&#34;&gt;Dials&lt;/h2&gt;&#xA;&lt;p&gt;Dials - simulated or otherwise - are very useful for accepting numeric input; and are therefore provided in case of clocks, timers, etc..&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
