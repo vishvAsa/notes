@@ -23,3 +23,22 @@ There are relatively rare belts that allow such a regime. But given the enormity
 
 ## Kepler
 Johannes Kepler thought there were at least two species of aliens on the Moon, one on the bright side and one on the dark side. He conceived them as hibernating, giant, scaly creatures. He also thought Jupiter has advanced aliens on it.
+
+
+## Psycho-social phenomenon
+
+Source: [TW](https://x.com/blog_supplement/status/2106223651901063528)
+
+I'm essentially a non-believer in alien visitors and crafts, reptiles or otherwise. Not really there. 
+
+However, there is a psycho-social phenomenon that interests me in this regard: the claim of people being abducted by aliens or coming in contact with them in common place settings. From my surveys such people are most commonly found in the USA but have also been reported from the lesser developed corners of the world. 
+
+There seem to be multiple common motifs in their experiences and they appear very intense. Some people also seem to have physical scars. These seem to resemble in a very broad sense other phenomenon like "near death experiences", encounters of ghost apparitions, and past-life recollections. They are not typical hallucinations.
+
+I encountered 2 American women, who were close friends, one of whom claimed an encounter experience and narrated it to the other shortly after the experience. They are not famous or public people who make any profit from widely sharing it. Their narrations were pretty intense but clearly secondarily overlaid with internet "mythology". For e.g., the experiencer felt she heard something which sounded like a Greek letter $\kappa$ and then through internet search connected it to a planet around Kappa Andromedae. So she felt she was visited by an alien from that planet. 
+
+Of course that is scientifically improbably(p=0) in many ways, which I tried gently explaining. But you cannot undo beliefs of believers -- they'd be angry for me saying that. 
+
+That said, I still there was still a core psycho-somatic experience there. AFAIK they were not substance users (including alcohol) and physically fit.  So it doesn't appear that the experience stemmed from the more common explanations, though it was definitely not a physical alien visitation. 
+
+It is notable both were "believers" in ghosts and had accounts of experiences of ghost phenomena. So, like other strange phenomena, it is worth recording and investigating.
