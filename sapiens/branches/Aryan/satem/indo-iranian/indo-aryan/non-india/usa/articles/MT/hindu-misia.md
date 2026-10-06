@@ -20,3 +20,18 @@ Israel is probably one of most important nations for American identity, but even
 
 As we have remarked before the hate for H is a point of convergence between preta core MAGA and left-liberal gardabha-s; hence, that aspect is unsurprising.
 
+## Resurfacing
+Source: [TW](https://x.com/blog_supplement/status/2107321216075751793)
+
+There are two points regarding the resurfacing Anti-Indian xenophobia among the mahAmlechCha. 
+
+First (I think made by others here), it is driven by the same MAGA -  
+and duShTa anugAmin-associated mid- to dim-wits  
+who were claiming to battle the ShaNDa-shAsana when aTTahAsakI and piNDaka were holding sway.  
+So DEI is bad as long as it is against them,  
+but they want it back for them when others compete with them for elite status.+++(5)+++
+
+Second, they are mostly OK with accepting chIna/East Asian superiority in IQ  
+and actively advertise it with things like PISA or Math olympiad performance: Galtonism.  
+But when it comes to H, they have to bring out their preta conditioning.
+
