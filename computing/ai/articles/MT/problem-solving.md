@@ -27,3 +27,8 @@ We crossed those realms but fell apart somewhere while trying to manage group th
 We wonder if the AIs will show the existence of such a ceiling for even Fields medalists and their ilk, even those who are confused about the existence of two biological sexes in animals. 
 
 If that happens, we wonder what will happen to the mathematicians – will they continue rejoicing in the fall of this theorem or that? Or will they lose drive and realize that, like tvaShTR^i, they have spawned vishvarUpa and vR^itra?
+
+## 2026 capacity
+Source: [TW](https://x.com/blog_supplement/status/2107637090812920224)
+
+Three years ago, we were talking about AI not being able to distinguish between the area of a circle and a square. Today human mathematical capacity of the best mathematicians, the highest cognitive segment of human society, has been far exceeded. We may be heading to a point where we are what a dog is to its owner in cognitive terms, or still worse a pet tarantula.
