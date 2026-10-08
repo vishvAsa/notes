@@ -3,6 +3,9 @@ title = "US actions"
 +++
 
 ## 2026
+### Musk & starlink
+duShTa muShkavAn kastUri is essentially acting on behalf of the A~Ngla-mlechCha-praNidhi-s to provide a foothold for them in the desh via tArAtantu.
+
 ### Sabotage and killing
 One has to seriously consider the possibility that the mahAmlechCha were involved in sabotaging the defense satellite to be put up by ISRO. Unfortunately, as we remarked more than 22 years ago, it is easy to purchase agents in the desh. The same applies to the ongoing kerfuffle regarding the mahAmlechCha killing Indian sailors.
 

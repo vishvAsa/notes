@@ -2,7 +2,7 @@
 title = "Test"
 +++
 
-This is a test page for the [keyman pre-vedic sanskrit keyboard](../).
+This is a test page for the [keyman pre-vedic sanskrit keyboard](../) and related keyboards.
 
 
 <script src='https://s.keyman.com/kmw/engine/18.0.240/keymanweb.js'></script>
@@ -29,6 +29,39 @@ This is a test page for the [keyman pre-vedic sanskrit keyboard](../).
       languages: [{
         name: 'Sanskrit',
         id: 'sa',
+        region: 'in'
+      }]
+    });
+    keyman.addKeyboards({
+      name: 'Kannada Sanskrit',
+      id: 'optitrans_kannada_sanskrit',
+      filename: '../optitrans_kannada_sanskrit.js',
+      version: '1.0',
+      languages: [{
+        name: 'Sanskrit',
+        id: 'sa',
+        region: 'in'
+      }, 
+      {
+        name: 'Kannada',
+        id: 'kn',
+        region: 'in'
+      }]
+    });
+  });
+    keyman.addKeyboards({
+      name: 'Telugu Sanskrit',
+      id: 'optitrans_telugu_sanskrit',
+      filename: '../optitrans_telugu_sanskrit.js',
+      version: '1.0',
+      languages: [{
+        name: 'Sanskrit',
+        id: 'sa',
+        region: 'in'
+      }, 
+      {
+        name: 'Telugu',
+        id: 'te',
         region: 'in'
       }]
     });
