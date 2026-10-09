@@ -11,6 +11,11 @@ This is a test page for the [keyman pre-vedic sanskrit keyboard](../) and relate
 <!-- The textarea where you will type -->
 <textarea id="myTextarea" rows="10" cols="80"></textarea>
 
+<!-- Keyboard switcher that works even when KeymanWeb's own toolbar refuses to
+     load (it skips touch devices, and some desktop browsers wrongly report
+     touch support, e.g. with a graphics tablet or iPad Sidecar attached). -->
+<p>Keyboard: <select id="kbdSelect"><option value="">(loading…)</option></select></p>
+
 <!-- The output display element -->
 <h2>Typed Content:</h2>
 <div id="output"></div>
@@ -163,9 +168,40 @@ This is a test page for the [keyman pre-vedic sanskrit keyboard](../) and relate
       ]);
     }).then((results) => {
       results.forEach((r) => { if (r.status === 'rejected') console.error(r.reason); });
+      refreshKbdSelect();
       keyman.setActiveKeyboard('optitrans_devanagari_sanskrit_pre_vedic', 'sa');
+      refreshKbdSelect();
     }).catch((e) => {
       console.error(e);
+    });
+    // Keep the dropdown in sync when keyboards finish loading later.
+    if (keyman.addEventListener) {
+      keyman.addEventListener('keyboardregistered', () => refreshKbdSelect());
+      keyman.addEventListener('keyboardchange', () => refreshKbdSelect());
+    }
+    function refreshKbdSelect() {
+      var sel = document.getElementById('kbdSelect');
+      if (!sel || typeof keyman.getKeyboards !== 'function') return;
+      var kbs = keyman.getKeyboards() || [];
+      var active = '';
+      try { active = keyman.getActiveKeyboard() || ''; } catch (e) {}
+      var html = '<option value="">(System keyboard)</option>';
+      kbs.forEach((k) => {
+        var id = k.InternalName || k.id || k.KI || '';
+        var lang = k.LanguageCode || k.lang || '';
+        var label = (k.LanguageName || lang) + ' - ' + (k.Name || id);
+        var selAttr = (active && active.indexOf(id) === 0) ? ' selected' : '';
+        html += '<option value="' + id + '@' + lang + '"' + selAttr + '>' + label + '</option>';
+      });
+      sel.innerHTML = html;
+    }
+    document.getElementById('kbdSelect').addEventListener('change', (e) => {
+      var parts = (e.target.value || '').split('@');
+      try {
+        if (parts[0]) keyman.setActiveKeyboard(parts[0], parts[1] || '');
+        else keyman.setActiveKeyboard('', '');
+      } catch (err) { console.error(err); }
+      refreshKbdSelect();
     });
     document.getElementById('myTextarea').addEventListener('input', (e) => {
       document.getElementById('output').textContent = e.target.value;
