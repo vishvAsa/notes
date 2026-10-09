@@ -66,6 +66,66 @@ This is a test page for the [keyman pre-vedic sanskrit keyboard](../) and relate
             id: 'te',
             region: 'as'
           }]
+        }),
+        keyman.addKeyboards({
+          name: 'Sanskrit ISO-15919',
+          id: 'optitrans_iso15919_sanskrit',
+          filename: '../optitrans_iso15919_sanskrit.js',
+          version: '1.0',
+          languages: [{
+            name: 'Sanskrit',
+            id: 'sa',
+            region: 'as'
+          }]
+        }),
+        keyman.addKeyboards({
+          name: 'Tamil Subscripted Sanskrit',
+          id: 'optitrans_tamil_subscripted_sanskrit',
+          filename: '../optitrans_tamil_subscripted_sanskrit.js',
+          version: '1.0',
+          languages: [{
+            name: 'Sanskrit',
+            id: 'sa',
+            region: 'as'
+          },
+          {
+            name: 'Tamil',
+            id: 'ta',
+            region: 'as'
+          }]
+        }),
+        keyman.addKeyboards({
+          name: 'Vedic Sanskrit Devanagari Phonetic (ITRANS)',
+          id: 'itrans_devanagari_sanskrit_vedic',
+          filename: '../itrans_devanagari_sanskrit_vedic.js',
+          version: '1.3.0',
+          languages: [{
+            name: 'Sanskrit',
+            id: 'sa',
+            region: 'as'
+          }]
+        }),
+        keyman.addKeyboards({
+          name: 'Hindi Devanagari Phonetic (ITRANS)',
+          id: 'itrans_devanagari_hindi',
+          filename: '../itrans_devanagari_hindi.js',
+          version: '1.4.0',
+          languages: [{
+            name: 'Hindi',
+            id: 'hi',
+            region: 'as'
+          }]
+        }),
+        keyman.addKeyboards({
+          name: 'Odia/Oriya Phonetic (ITRANS)',
+          id: 'itrans_odia',
+          filename: '../itrans_odia.js',
+          version: '1.1.1',
+          languages: [{
+            name: 'Oriya',
+            id: 'or',
+            region: 'as'
+          }]
         })
       ]);
     }).then((results) => {

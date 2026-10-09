@@ -7,7 +7,7 @@ title: IME/ typing
   - Downloaded site [here](https://keyman.com/).
   - devanAgarI ITRANS-based vedic keyboard - [KM cloud](https://keyman.com/keyboards/itrans_devanagari_sanskrit_vedic).
     - web based version [here](https://sanskritdocuments.org/learning_tools/sanskritvedic.html).
-  - pre-vedic keyboard [here](../keyman_pre_vedic).
+  - pre-vedic keyboard [here](../keyman_indic).
 - [medhA](https://github.com/lalitaalaalitah/medhA-keyboard_layout)
 
 ## Linux
