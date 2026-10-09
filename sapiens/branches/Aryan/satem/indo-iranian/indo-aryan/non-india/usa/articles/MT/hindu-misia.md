@@ -35,3 +35,7 @@ Second, they are mostly OK with accepting chIna/East Asian superiority in IQ
 and actively advertise it with things like PISA or Math olympiad performance: Galtonism.  
 But when it comes to H, they have to bring out their preta conditioning.
 
+## Assimilation
+Source: [TW](https://x.com/blog_supplement/status/2108429661357117533)
+
+Unfortunately, many H in mlechCha lands do not realize that "assimilation" demanded by the identitarian Europoid majority is a mere canard. This story has played out before with the yahvasAdhaka-s in shUlapUruSha-desha. The said yahvArdhaka-s were highly "assimilated", speaking on the shUla-jana-bhAShA, and even contributing major works to its literature. Many also fought on behalf of the shUlapuruSha-s in WW1. But their assimilation and admixing did not help them one bit when the shUlapuruSha-s were incited to turn against them. The same could happen with the H, irrespective of how much they assimilate.
