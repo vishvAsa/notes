@@ -126,6 +126,39 @@ This is a test page for the [keyman pre-vedic sanskrit keyboard](../) and relate
             id: 'or',
             region: 'as'
           }]
+        }),
+        keyman.addKeyboards({
+          name: 'Gujarati Phonetic (ITRANS)',
+          id: 'itrans_gujarati',
+          filename: '../itrans_gujarati.js',
+          version: '1.3.0',
+          languages: [{
+            name: 'Gujarati',
+            id: 'gu',
+            region: 'as'
+          }]
+        }),
+        keyman.addKeyboards({
+          name: 'Bengali Phonetic (ITRANS)',
+          id: 'itrans_bengali',
+          filename: '../itrans_bengali.js',
+          version: '1.1.0',
+          languages: [{
+            name: 'Bengali',
+            id: 'bn',
+            region: 'as'
+          }]
+        }),
+        keyman.addKeyboards({
+          name: 'Gurmukhi Phonetic (ITRANS)',
+          id: 'itrans_gurmukhi',
+          filename: '../itrans_gurmukhi.js',
+          version: '1.1',
+          languages: [{
+            name: 'Panjabi',
+            id: 'pa',
+            region: 'as'
+          }]
         })
       ]);
     }).then((results) => {
