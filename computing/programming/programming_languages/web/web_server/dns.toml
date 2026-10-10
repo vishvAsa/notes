@@ -1,0 +1,20 @@
+[[data]]
+Language = 'DNS record'
+"Operand Type" = 'mail'
+Feature = 'Register sender'
+Syntax = 'TXT        @        v=spf1 a mx include:_spf.google.com ~all'
+Description = '''
+~all = soft fail for all else
+a = ips in A records for current domain'''
+
+[[data]]
+Language = 'DNS record'
+"Operand Type" = 'map to IP'
+Feature = 'base domain'
+Syntax = 'A	@	103.240.32.243'
+
+[[data]]
+Language = 'DNS record'
+"Operand Type" = 'map to IP'
+Feature = 'sub domain'
+Syntax = 'CNAME	api	@	1 Hour'

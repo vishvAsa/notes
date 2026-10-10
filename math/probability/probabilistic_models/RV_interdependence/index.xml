@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;RV interdependence on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/</link>
+    <description>Recent content in &#43;RV interdependence on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01 Distribution models</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/01_Distribution_models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/01_Distribution_models/</guid>
+      <description>&lt;h2 id=&#34;discrete-l-response-probability-discriminative-models&#34;&gt;Discrete L: Response probability: Discriminative models&lt;/h2&gt;&#xA;&lt;h3 id=&#34;boolean-valued-functions&#34;&gt;Boolean valued functions&lt;/h3&gt;&#xA;&lt;p&gt;One can use boolean valued functions to get deterministic models of the form \(y = f(x)\). These functions are considered in the boolean functions survey and the computational learning theory survey.&lt;/p&gt;&#xA;&lt;h3 id=&#34;probability-from-regression-models&#34;&gt;Probability from regression models&lt;/h3&gt;&#xA;&lt;p&gt;Take any (continuous variable regression) model \(f: X \to [0, 1]\). Such a model can be interpreted as modeling the probability distribution \(f_L\).&lt;/p&gt;&#xA;&lt;h4 id=&#34;advantages-of-modeling-probability&#34;&gt;Advantages of modeling probability&lt;/h4&gt;&#xA;&lt;p&gt;The classifier doesn&amp;rsquo;t care whether \(C_{1}\) is called class 1 or class 100. So, better than solving regression problem with y as the target.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>02 Graphical models</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/</guid>
+      <description>&lt;h2 id=&#34;graphical-model-g-of-distribution&#34;&gt;Graphical model G of distribution&lt;/h2&gt;&#xA;&lt;h3 id=&#34;the-modeling-problem&#34;&gt;The modeling problem&lt;/h3&gt;&#xA;&lt;p&gt;Got RV&amp;rsquo;s \(X = (X_{i})\), \(f_X(x)\): joint probability density. RV&amp;rsquo;s as nodes. Edges representing dependencies.&lt;/p&gt;&#xA;&lt;h4 id=&#34;distribution-structure-sparsity&#34;&gt;Distribution structure/ sparsity&lt;/h4&gt;&#xA;&lt;p&gt;Seek to represent some factorization of the joint probability distribution concisely, thence conditional independence relationships too. In many cases, these factors involve small subsets of variables: sparsity in the dependency graph.&lt;/p&gt;&#xA;&lt;p&gt;Eg: \(f_X(x) = Z^{-1}\prod_{C \subseteq V} \gf_{C}(x_C)\). Compare notation with exponential family distributions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>03 Sparse signal detection</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/03_Sparse_signal_detection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/03_Sparse_signal_detection/</guid>
+      <description>&lt;h2 id=&#34;scale-mixture-models&#34;&gt;Scale mixture models&lt;/h2&gt;&#xA;&lt;p&gt;\tbc&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>04 Affinity modeling</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/04_Affinity_modeling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/04_Affinity_modeling/</guid>
+      <description>&lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;&#xA;&lt;p&gt;One wants to probabilitically model &amp;lsquo;affinities&amp;rsquo; (joint, conditional probabilities) of entities of two or more types. Entity types are modeled by discrete random variables (say \(W\) and \(D\)).&lt;/p&gt;&#xA;&lt;h3 id=&#34;motivation&#34;&gt;Motivation&lt;/h3&gt;&#xA;&lt;p&gt;Besides common motivations for modeling joint distributions of random variables, one may want to model affinities probabilistically in order to get low dimensional representations of one or both of these entities (motivations for which are described in the dimensionality reduction chapter of the statistics survey).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>06 Continuous response variables&#39; prediction</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/06_Continuous_response_variables_prediction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/probabilistic_models/RV_interdependence/06_Continuous_response_variables_prediction/</guid>
+      <description>&lt;p&gt;Aka regression.&lt;/p&gt;&#xA;&lt;p&gt;For overview, see Statistics survey. Here one models a (set of ) response random variable \(Y\) in terms of input variables \(X\).&lt;/p&gt;&#xA;&lt;h2 id=&#34;data-preparation-and-assumptions&#34;&gt;Data preparation and assumptions&lt;/h2&gt;&#xA;&lt;p&gt;Saling, centering, addition of bias variables is assumed below. That, along with motivation, is described in the statistics survey.&lt;/p&gt;&#xA;&lt;h2 id=&#34;generalized-linear-model&#34;&gt;Generalized linear model&lt;/h2&gt;&#xA;&lt;h3 id=&#34;linear-models&#34;&gt;Linear models&lt;/h3&gt;&#xA;&lt;p&gt;Here, we suppose that \(L|X \distr XW + N\), where \(N\) is a 0-mean noise RV. Then, \(E[L] = XW\), which is linear in parameters \(w\).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

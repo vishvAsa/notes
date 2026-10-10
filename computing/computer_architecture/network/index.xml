@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Network on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/computer_architecture/network/</link>
+    <description>Recent content in &#43;Network on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/computer_architecture/network/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cables</title>
+      <link>https://vishvAsa.github.io/notes/computing/computer_architecture/network/cables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/computer_architecture/network/cables/</guid>
+      <description>&lt;h2 id=&#34;types&#34;&gt;Types&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cat 6 - 10 Gbps. 2x Performance of Cat 5 &amp;amp; 5e - frequency up to 250 MHz&lt;/li&gt;&#xA;&lt;li&gt;Cat 5e - 1Gbps&lt;/li&gt;&#xA;&lt;li&gt;Cat 5 - 100MBPs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;conductor&#34;&gt;Conductor&lt;/h2&gt;&#xA;&lt;h2 id=&#34;shielding&#34;&gt;Shielding&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Indoor cables must overcome interference from other wires. So shielding is needed.&lt;/li&gt;&#xA;&lt;li&gt;Unshielded cables are generally ok for outdoor use.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;types-1&#34;&gt;Types&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;U/UTP (Unshielded Twisted Pair) means the cable consists of 4 unshielded twisted pairs and no outer shielding.&lt;/li&gt;&#xA;&lt;li&gt;CAT6A F/UTP (Foiled Unshielded Twisted Pair) means the cable consists of 4 unshielded twisted pairs however it contains an outer foil shield.&lt;/li&gt;&#xA;&lt;li&gt;S/FTP (screened/foiled twisted pair) cable, normally a CAT7 cable that has four individually shielded pairs and an outer screen braid around all four pairs.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;crimping&#34;&gt;Crimping&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Video &lt;a href=&#34;https://www.youtube.com/watch?v=NmtMPSu--q0&amp;amp;feature=emb_logo&#34;&gt;here&lt;/a&gt; .&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;wire-terminal-matching&#34;&gt;Wire-terminal matching&lt;/h3&gt;&#xA;&lt;p&gt;T-568B is most commonly used.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wifi Router</title>
+      <link>https://vishvAsa.github.io/notes/computing/computer_architecture/network/wifi-router/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/computer_architecture/network/wifi-router/</guid>
+      <description>&lt;h2 id=&#34;desiderata&#34;&gt;Desiderata&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Have sufficient wireless speed.&lt;/li&gt;&#xA;&lt;li&gt;Be dual band&lt;/li&gt;&#xA;&lt;li&gt;Support new wifi protocols (eth ac &amp;gt; n)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;protocols&#34;&gt;Protocols&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;802.11ax &amp;gt; 802.11ac (5GHz faster) &amp;gt; 802.11n (100Mbps) &amp;gt; 802.11g &amp;gt; 802.11b &amp;gt; 802.11a &amp;gt; 802.11&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;bands&#34;&gt;Bands&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;5GHz is faster but lower range.&lt;/li&gt;&#xA;&lt;li&gt;2.4GHz is slower, but longer range. Older devices need it.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;wifi-router-history&#34;&gt;wifi-router-history&lt;/h2&gt;&#xA;&lt;div class=&#34;spreadsheet&#34; src=&#34;../wifi-router-history.toml&#34; fullHeightWithRowsPerScreen=8&gt; &lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

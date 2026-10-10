@@ -1,0 +1,66 @@
+\documentclass{article}
+\input{../../../packagesMemoir}
+\input{../../../macros}
+\input{../../../amsartMacros}
+\lstset{language=matlab}
+
+
+%opening
+\title{Non Linear Programming: Homework 7}
+\author{vishvAs vAsuki}
+
+\begin{document}
+
+\maketitle
+\section{Binary least squares}
+Theoretical part submitted handwritten.
+
+\subsection{Code}
+\lstinputlisting{code/binaryLeastSquaresExperiments.m}
+
+\subsection{Results}
+\subsection{Results}
+\begin{verbatim}
+Noise level: 5.000000e-01, Rough Lower bound on squared error: 1.732435e+01
+A: disagreement fraction: 0 squaredError: 1.732435e+01
+B: disagreement fraction: 0 squaredError: 1.732435e+01
+C: disagreement fraction: 1 squaredError: 6.519655e+03
+D: disagreement fraction: 0 squaredError: 1.732435e+01
+
+Noise level: 1, Rough Lower bound on squared error: 6.929739e+01
+A: disagreement fraction: 2.500000e-02 squaredError: 1.620505e+02
+B: disagreement fraction: 0 squaredError: 6.929739e+01
+C: disagreement fraction: 1 squaredError: 6.515046e+03
+D: disagreement fraction: 0 squaredError: 6.929739e+01
+
+Noise level: 2, Rough Lower bound on squared error: 2.771895e+02
+A: disagreement fraction: 1.000000e-01 squaredError: 9.085323e+02
+B: disagreement fraction: 0 squaredError: 2.771895e+02
+C: disagreement fraction: 1 squaredError: 6.609775e+03
+D: disagreement fraction: 2.500000e-02 squaredError: 3.664738e+02
+
+Noise level: 3, Rough Lower bound on squared error: 6.236765e+02
+A: disagreement fraction: 1.750000e-01 squaredError: 1.151512e+03
+B: disagreement fraction: 2.500000e-02 squaredError: 6.736883e+02
+C: disagreement fraction: 9.750000e-01 squaredError: 7.334321e+03
+D: disagreement fraction: 1.000000e-01 squaredError: 8.187229e+02
+\end{verbatim}
+
+\section{Approximation with trigonometric polynomials}
+Theoretical part submitted handwritten.
+
+\subsection{Code}
+\lstinputlisting{code/trigonometricApproximationExperiments.m}
+
+\includegraphics[scale=.2]{code/trigonometricApproximationExperiments.jpg}
+
+\includegraphics[scale=.2]{code/trigonometricApproximationExperimentsResidualsL2.jpg}
+
+\includegraphics[scale=.2]{code/trigonometricApproximationExperimentsResidualsL1.jpg}
+
+l2 has better tracking: due to greater sensitivity to outliers.
+
+% \bibliographystyle{plain}
+% \bibliography{../linAlg}
+
+\end{document}

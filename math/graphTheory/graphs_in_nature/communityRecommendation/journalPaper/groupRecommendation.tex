@@ -1,0 +1,66 @@
+\documentclass[acmtist]{acmtrans2m}
+\input{packages}
+\input{../paper/macros}
+\input{../paper/MACPdef}
+
+\acmVolume{555}
+\acmNumber{555}
+\acmYear{555}
+\acmMonth{555}
+
+\markboth{Vishvas Vasuki et al.}{Scalable Affiliation Recommendation using Auxiliary Networks}
+
+\title{Scalable Affiliation Recommendation using Auxiliary Networks}
+\author{
+VISHVAS VASUKI \\ NAGARAJAN NATARAJAN \\ ZHENGDONG LU \\ BERKANT SAVAS \and INDERJIT DHILLON\\ University of Texas at Austin
+}
+\begin{abstract}
+\input{abstract}
+
+\end{abstract}
+
+\category{H.2.8}{Database applications - Data mining}{}
+\terms{Algorithms, Experimentation}
+\keywords{Scalability}
+\begin{document}
+\setcounter{page}{111}
+
+\begin{bottomstuff}
+A preliminary version of this paper was presented at RecSys '10, the Third ACM Conference on Recommender Systems \cite{vasukiNatarajan}.\\
+Author's address: Department of Computer Science and ICES, University of Texas at Austin.
+\end{bottomstuff}
+\maketitle
+
+\section{Introduction}
+\label{Introduction}
+\input{introduction}
+
+\section{Models}
+\label{Models}
+\input{models}
+
+\section{Scaling to large data sets}
+\label{Scalability}
+\input{scalability}
+
+\section{Related work}
+\label{Related work}
+\input{relatedWork}
+
+\section{Experimental Evaluation}
+\label{Experimental Evaluation}
+\input{experimentalEvaluation}
+
+\section{Conclusion and Future Work}
+\label{Conclusion and Future Work}
+\input{conclusionAndFutureWork}
+
+\section{Acknowledgements}
+We thank Prateek Jain for helpful discussions. Zhengdong Lu is supported by an ICES postdoctoral fellowship at UT Austin. 
+Berkant Savas is supported by the Swedish Research Foundation international postdoctoral fellowship and ICES.
+This research was supported by NSF grants CCF-0916309 and IIS-0713142.
+
+\bibliographystyle{acmtrans}
+\bibliography{../paper/references,myBibsEN}
+
+\end{document}

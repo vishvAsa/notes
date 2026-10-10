@@ -1,0 +1,153 @@
+\documentclass{article}
+\input{../../packagesMemoir}
+\input{../../macros}
+
+
+%opening
+\title{Learning theory: homework}
+\author{vishvAs vAsuki}
+
+\begin{document}
+
+\maketitle
+
+\section{1}
+Consider $A = \set{\set{x \in R^{p} : w^{T}x + b \geq 0}, w, b \in R^{p}}$. This is just the set of all half spaces in $R^{p}$. Its VCD is known to be p + 1.
+
+\section{2}
+\subsection{Problem and notation}
+For prior p over $\set{\gt}$, we have $r_p(d) \dfn \int R(\gt, d)p(\gt)d \gt$.
+
+The Bayesian estimator: $d_p \dfn argmin_d r_p(d)$.
+
+Assume: $r_p(d_p) = \sup_\gt R(\gt, d_p)$.
+
+\subsection{Minimax-ness of the bayesian estimator}
+\begin{eqnarray*}
+\texttt{Let } f(d) &\dfn& \sup_\gt R(\gt, d)\\
+r_p(d) = E_\gt[R(\gt, d)] &\leq& \sup_\gt R(\gt, d) = f(d)\\
+\therefore r_p(d_p) = \min_d r_p(d) &\leq& \min_d f(d)\\
+\texttt{But } r_p(d_p) &=& \sup_\gt R(\gt, d_p) = f(d_p)\\
+\therefore r_p(d_p) &\leq& \min_d f(d) \leq f(d_p) = r_p(d_p)\\
+\therefore \min_d f(d) = \min_d \sup_\gt R(\gt, d) &=& f(d_p) = r_p(d_p)\\
+\end{eqnarray*}
+
+Thus, $d_p$ is also minimax.
+
+\subsubsection{Uniqueness}
+Suppose that $d_p$ is the unique solution to $argmin_d r_p(d)$. Then suppose that $\exists d':: f(d_p) = f(d') = \min_d f(d)$. Then, using earlier observations:
+
+\begin{eqnarray*}
+r_p(d') = E_\gt[R(\gt, d')] &\leq& \sup_\gt R(\gt, d')\\
+&=& f(d') = f(d_p) = r_p(d_p)\\
+&=& \min_d r_p(d)\\
+\therefore r_p(d') &=& \min_d r_p(d)\\
+\end{eqnarray*}
+
+Thence, following our assumption that $d_p$ is the unique solution to\\ $argmin_d r_p(d)$, we conclude that $d' = d_p$. Hence, if $d_p$ is also unique bayes, $d_p$ is also unique minimax.
+
+\section{3}
+\subsection{The problem setup}
+Observed data: $Z = (Z_1 .. Z_n) \in R^{n}$. Model: $Z_i = \gt_i + \stddev \eps_i$, where $\eps_i \distr N(0, 1)$. In vector form, $Z = \gt + \stddev \eps$.
+
+Loss function: $l(\hat{\gt}, \gt) = \sum (\hat{\gt}_i - \gt_i)^{2} = \norm{\hat{\gt} - \gt}_2^{2}$.
+
+\subsection{Linear shrinkage estimators}
+Linear shrinkage estimators: $L = \set{bZ: b \in [0, 1]}$. Take $\hat{\gt} = bZ = b\gt + b\stddev \eps$. Then, the risk calculation is as follows:
+
+\subsubsection{Risk calculation}
+\begin{eqnarray*}
+l(bZ, \gt) &=& \norm{\hat{\gt} - \gt}_2^{2}\\
+&=& \norm{b\gt + b\stddev \eps - \gt}_2^{2}\\
+&=& \norm{(b-1)\gt + b\stddev \eps}_2^{2}\\
+&=& (b-1)^{2}\gt^{T}\gt + (b\stddev)^{2} \eps^{T}\eps + 2(b-1)b\stddev\gt^{T}\eps \\
+R(bZ, \gt) &=& E_Z[l(bZ, \gt)] = E_\eps[l(bZ, \gt)]\\
+&=& (b-1)^{2}\gt^{T}\gt + (b\stddev)^{2} E_{\eps}[\eps^{T}\eps] + E_{\eps}[2(b-1)b\stddev\gt^{T}\eps]\\
+&=& (b-1)^{2}\gt^{T}\gt + (b\stddev)^{2} n E_{\eps}[\eps_i^{2}] \texttt{ As last term is 0, $\eps_i$ are iid.}\\
+&=& (b-1)^{2}\gt^{T}\gt + (b\stddev)^{2}n \\
+\end{eqnarray*}
+
+\subsubsection{Minimax estimator for unrestricted parameters}
+Let $T =R^{p}$. $\sup_{\set{\gt \in T}} R(bZ, \gt) = \infty$ if $b \neq 1$ and $(b\stddev)^{2}n$ otherwise. So, Z is the minimax estimator. $R(Z, \gt) = \stddev^{2}n$.
+
+\subsubsection{When parameters restricted to a ball}
+Let $T = \set{\gt:\norm{\gt}_2^{2} \leq R^{2}}$. Then:
+\begin{eqnarray*}
+f(b) = \sup_{\set{\gt \in T}} R(bZ, \gt) &=& (b-1)^{2}R^{2}+ (b\stddev)^{2}n\\
+f(\hat{b})' &=& 2(\hat{b}-1)R^{2} + 2\hat{b}\stddev^{2}n = 0  \texttt{ Min wrt b}\\
+\hat{b} &=& (R^{2} + \stddev^{2}n)^{-1}R^{2}\\
+R(\hat{b}Z, \gt) &=& (\hat{b}-1)^{2}\gt^{T}\gt + (\hat{b}\stddev)^{2}n\\
+\end{eqnarray*}
+
+\paragraph*{Comparison with Z and admissibility}
+We have seen that $R(Z, \gt) = \stddev^{2}n$. Does this imply inadmissibility of $\hat{b}Z$? This implication is not true if \\
+if $\exists \gt: [R(\hat{b}Z, \gt) < R(Z, \gt)]$ is true. To see that this condition holds, consider any $\gt: \norm{\gt}_2^{2} < \stddev^{2}n$.
+
+Even though we still have not proved the admissibility of $\hat{b}Z$, we see that comparizon with Z does not let us conclude that $\hat{b}Z$ is inadmissible.
+
+
+\subsubsection{When parameters restricted to hyper-ellipse}
+Let 1 be the vector $1^{n}$, and $e_i$ the the ith column of $I_n$.
+
+Let $T = \set{\gt:\sum_j a_j^{2}\gt_j^{2} \leq c^{2}} = \set{\gt:\gt^{T}A\gt \leq c^{2}1, A = diag(a_1^2 .. a_n^2)}$. Consider $L = \set{WZ:W = diag(w_1, .. w_n)}$. Then:
+
+\begin{eqnarray*}
+WZ &=& W\gt + \stddev W\eps\\ 
+\norm{WZ - \gt}_2^{2} &=& \norm{(W - I)\gt + \stddev W\eps}_2^{2}\\
+&=& \gt^{T}(W - I)^{2}\gt + \stddev^{2} \eps^{T}W^{2}\eps + 2 \stddev \eps^{T}W^{T}(W - I)\gt\\
+R(WZ, \gt) &=& E_Z[\norm{WZ - \gt}_2^{2}] = E_\eps[\norm{WZ - \gt}_2^{2}]\\
+&=& \gt^{T}(W - I)^{2}\gt + E_\eps[\stddev^{2} \eps^{T}W^{2}\eps]\\
+t(W) &\dfn& argsup_{\gt \in T} \gt^{T}(W - I)^{2}\gt\\
+&=& (\frac{c}{a_i})e_i: i = argmax_j (w_j-1)^{2}(\frac{c}{a_j})^{2}\\
+\sup_{\gt \in T} R(WZ, \gt) &=& t(W)^{T}(W - I)^{2}t(W) + \stddev^{2} 1^{T}W^{2}1\\
+\min_w \sup_{\gt \in T} R(WZ, \gt) &=& ?\\
+\end{eqnarray*}
+\tbc
+
+
+\section{4}
+\subsection{Notation}
+$B_1$: $l_1$ unit ball in $R^{p}$. Want to find lower bound of $M(\eps, B_1, \norm{.}_2)$.
+
+\subsection{The set S}
+$m \in N, S = \set{u \in \set{-1, 0, 1}^{p} : \norm{u}_1 = 2m}$. Its cardinality $\#S = \binom{p}{2m} 2^{2m}$, considering $\binom{p}{2m}$ ways of picking positions for non 0 elements, and $2^{2m}$ ways of assigning values from $\set{1, -1}$ to those positions.
+
+\subsubsection{Number of vectors with low hamming distance from v}
+h(u, v) is the hamming distance on S.
+
+Fix $v \in S$. Consider \\
+$close(v) = \set{u \in S: h(u, v) \leq m} \subseteq \set{u \in \set{-1, 0, 1}^{p}: h(u, v) \leq m}$. The cardinality of the latter set is bounded above by $\binom{p}{m} 3^{m}$, where $\binom{p}{m}$ counts the number of ways of choosing the positions at which u potentially differs from v, and $3^{m}$ counts the possible values u has in those positions.
+
+Thus, $\#close(v) \leq \binom{p}{m} 3^{m}$.
+
+\subsubsection{Number of vectors with low hamming distance from A}
+Take any $A \subseteq S$ with cardinality $a_m = \binom{p}{2m}/ \binom{p}{m}$. Then, using the previous result, \\
+$\#\set{u \in S: \exists v \in A, h(u, v) \leq m} \leq |A|\#close(v) \leq  \binom{p}{2m} 3^{m} < \binom{p}{2m} 2^{2m} = \#S$.
+
+\paragraph*{Existance of v in S atleast m-away from A}
+From this, we see that there $\exists y \in S-A: \forall v \in A: h(v, y) > m$. This also implies that, $\forall A \subseteq S: |A| \leq a_m$, $\exists y \in S-A: \forall v \in A: h(v, y) > m$.
+
+\subsubsection{Packing set for S}
+The following process constructs a packing set for S. Start with $A = \set{}$. Do the following while $|A| \leq a_n$: find $y\in S-A: \forall v \in A: h(v, y) > m$, set $A = A \union \set{y}$. We are sure that there always exists such a y as long as $|A| \leq a_n$ due to a previous result.
+
+Using the above process, we have constructed a packing set A for S, whose elements are at least m apart in the h metric.
+
+\subsubsection{Relating hamming distance to the sq euclidian norm}
+Take $\forall u, v \in A$. $|u-v|$ has either 1 or 2 in atleast m positions. So, $\norm{u-v}_2^{2} > m$, and $\forall u, v \in A: \norm{u-v}_2 > \sqrt{m}$.
+
+\subsection{A packing set for the unit ball}
+Consider the set S and its packing A described above. Take \\
+$A_1 = \set{(2m)^{-1}v: v \in A}$. Every v in A has exactly 2m positions with $\pm 1$ values, and we had: $\forall v\in A, \norm{v}_1 = 2m$. So, $\forall v \in A_1: \norm{v}_1 = 1$, and $A_1 \subseteq B_1$.
+
+As $\forall u, v \in A: \norm{u-v}_2 > \sqrt{m}$, we have $\forall u, v \in A_1: \norm{u-v}_2 > (2m)^{-1}\sqrt{m}$.
+
+So, for any $\eps \leq 1/(2 \sqrt{m})$ or $m \leq (2 \eps)^{-2}$, we have  $a_m \leq M(\eps, B_1, \norm{.}_2)$.
+
+\subsubsection{A rough lower bound on \htext{$a_m$}{..}}
+$a_m = \binom{p}{2m}/ \binom{p}{m} \geq (\frac{p}{2m})^{2m}/(\frac{p^{m}}{m!}) \geq \frac{p^{m}k^{m}}{m^{m}}$ for a constant k. In the first inequality, we apply lower and upper bounds $(\frac{a}{b})^{b} < \binom{a}{b} < a^{b}/b!$. In the second inequality, we use an inequality from Stirling's approximation for m!, whose use is justified because m tends to be large.
+
+% \bibliographystyle{plain}
+% \bibliography{../linAlg}
+
+
+\end{document}

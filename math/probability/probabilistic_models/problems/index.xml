@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Problems on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/probability/probabilistic_models/problems/</link>
+    <description>Recent content in &#43;Problems on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/problems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gambler&#39;s ruin: biased dice</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/probabilistic_models/problems/gamblers_ruin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/probabilistic_models/problems/gamblers_ruin/</guid>
+      <description>&lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;&#xA;&lt;p&gt;Say you start with a capital of 25. Then you fight your rival. If you win you add 1 to what you have, if you lose you subtract 1 from what you have. If you reach 0 you&amp;rsquo;re extinct. If your probability of winning is 49.5% calculate ~ the median number of fights you will last before going extinct. This will teaches you something about survivorship, background extinction and the fate of empires.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
