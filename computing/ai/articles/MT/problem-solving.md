@@ -28,6 +28,13 @@ We wonder if the AIs will show the existence of such a ceiling for even Fields m
 
 If that happens, we wonder what will happen to the mathematicians – will they continue rejoicing in the fall of this theorem or that? Or will they lose drive and realize that, like tvaShTR^i, they have spawned vishvarUpa and vR^itra?
 
+Source: [TW](https://x.com/blog_supplement/status/2108934100526535066)
+
+
+Sometime back, we twted about everyone hitting their mathematical ceiling -- be it early or late in their climb. We see AI as showing that such a ceiling exists, even if you are a Serre or Tao.
+
+This may sound obvious, but that something else has poked past the highest human ceilings is a matter of immense (probably negative) significance for a lot of us who don't do or understand math.
+
 ## 2026 capacity
 Source: [TW](https://x.com/blog_supplement/status/2107637090812920224)
 

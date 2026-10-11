@@ -84,3 +84,20 @@ The success of chatGPT/Dall-E gives you some insight into this.
 
 ### g correlation
 As per the theory of g both verbal and rotator iq stem from a common factor g. While IQ tests are designed to capture g as much as possible, they might not succeed in doing so. The so called "g loading" of tests differ be they testing math or verb IQ
+
+## mathematicians and grammar
+
+Source: [TW](https://x.com/blog_supplement/status/2108951137273381236)
+
+A Vasantatilakā verse of Bhāskara-II showing that in the H knowledge tradition, even mathematicians privileged grammar.
+yo veda veda-vadanaṃ sadanaṃ hi samyak 
+brāhmyāḥ sa vedam api veda kim anya-śāstram ।
+yasmād ataḥ prathamam etad adhītya dhīmān 
+śāstrāntarasya bhavati śravaṇe 'dhikārī ॥
+
+He who knows the face of the Veda (grammar), which is indeed the sacred abode 
+of [Goddess] Brāhmī, knows the Veda itself, what to say of other sciences?
+For this reason, an intelligent person, having first mastered this [grammar], 
+becomes truly qualified to receive instruction in all other branches of knowledge.
+
+When LLM-based AI first began performing surprising heroics, it was thought that it would destroy those professions based on word-smithing. However, today we hear people say that it might overrun mathematical professions more than those based on word-smithing. What we see from a Hindu perspective, as indicated by the above verse from one of our greatest historical intellectuals, is that the two are deeply interlinked. The H realized early on that the processes behind verbal and mathematical formalism are unified. In terms of IQ, despite the divergence in the verbal and mathematical vectors, we see that the angle between them is small.
