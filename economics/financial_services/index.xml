@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Financial services on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/economics/financial_services/</link>
+    <description>Recent content in &#43;Financial services on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/economics/financial_services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hawala</title>
+      <link>https://vishvAsa.github.io/notes/economics/financial_services/hawala/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/economics/financial_services/hawala/</guid>
+      <description>&lt;h2 id=&#34;modus-operandi&#34;&gt;Modus operandi&lt;/h2&gt;&#xA;&lt;figure class=&#34;thumbnail&#34;&gt;&#xA;&#xA;    &lt;a href=&#34;../images/hawala.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&#xA;        &lt;img src=&#34;../images/hawala.png&#34; alt=&#34;&#34; title=&#34;&#34;&gt;&#xA;    &lt;/a&gt;&#xA;&#xA;    &#xA;&#xA;&lt;/figure&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A customer (A, left-hand side) approaches a hawala broker (X) in one city and gives a sum of money (red arrow) that is to be transferred to a recipient (B, right-hand side) in another, usually foreign, city. Along with the money, he usually specifies something like a password that will lead to the money being paid out (blue arrows).&lt;/li&gt;&#xA;&lt;li&gt;The hawa calls another hawala broker M in the recipient&amp;rsquo;s city, and informs M about the agreed password, or gives other disposition of the funds.&lt;/li&gt;&#xA;&lt;li&gt;Then, the intended recipient (B), who also has been informed by A about the password (2a), now approaches M and tells him the agreed password (3a). If the password is correct, then M releases the transferred sum to B (3b), usually minus a small commission. Plus they make money by bypassing the official exchange rates.&lt;/li&gt;&#xA;&lt;li&gt;X now basically owes M the money that M had paid out to B; thus M has to trust X&amp;rsquo;s promise to settle the debt at a later date. Hawaladar networks are often based on membership in the same family, village, clan, or ethnic group, and cheating is punished by effective ex-communication and &amp;ldquo;loss of honour&amp;rdquo;—leading to severe economic hardship.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;benefits&#34;&gt;Benefits&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Escapes government taxation.&lt;/li&gt;&#xA;&lt;li&gt;Fast and convenient transfer of funds, usually with a far lower commission than that charged by banks.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;risks&#34;&gt;Risks&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The transaction takes place entirely on the honour system. No legal recourse.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Infrastructure</title>
+      <link>https://vishvAsa.github.io/notes/economics/financial_services/trading_infrastructure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/economics/financial_services/trading_infrastructure/</guid>
+      <description>&lt;h2 id=&#34;securities-exchanges&#34;&gt;Securities Exchanges&lt;/h2&gt;&#xA;&lt;p&gt;Stock markets provide a regulated/ facilitated environment for carrying out securities transactions/ trades. It operates in fixed trading hours - beyond those hours, brokers may trade on their amongst themselves in extended trading hours.&lt;/p&gt;&#xA;&lt;h2 id=&#34;brokerages&#34;&gt;Brokerages&lt;/h2&gt;&#xA;&lt;p&gt;Every trade is accomplished by agents/ brokers authorized to trade in the stock market - usually on behalf of their customers. A fraction of each trade is usually collected by the stock exchange as fees. A fraction is also collected from the buyers by the brokerage agency.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Insurance</title>
+      <link>https://vishvAsa.github.io/notes/economics/financial_services/insurance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/economics/financial_services/insurance/</guid>
+      <description>&lt;p&gt;Insurance products, besides serving the main purpose of hedging to counter financial risk, often also function as investment in mutual funds.&lt;/p&gt;&#xA;&lt;h2 id=&#34;functioning&#34;&gt;Functioning&lt;/h2&gt;&#xA;&lt;h3 id=&#34;as-security&#34;&gt;As security&lt;/h3&gt;&#xA;&lt;p&gt;This business takes advantage of the fact that risk of a particular kind (house burning down, theft, death), affects a small fraction of a population at any given time, with very high probability. So, it collects fees/ premiums from a large number of insured people, and compensates those on whom a bad event befalls.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Intermediary trading</title>
+      <link>https://vishvAsa.github.io/notes/economics/financial_services/intermediary_trading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/economics/financial_services/intermediary_trading/</guid>
+      <description>&lt;p&gt;Basic negotiable securities tradings actions are considered elsewhere.&lt;/p&gt;&#xA;&lt;h2 id=&#34;role-in-markets&#34;&gt;Role in markets&lt;/h2&gt;&#xA;&lt;p&gt;Intermediary traders buy and sell items, holding them for a short time while it changes hands between long-term investors. In doing so, they make a profit.&lt;/p&gt;&#xA;&lt;p&gt;So, they focus strongly on the guessing and taking advantage of the motives of investors - aka front-running investors.&lt;/p&gt;&#xA;&lt;h3 id=&#34;liquidity-cost&#34;&gt;Liquidity, cost&lt;/h3&gt;&#xA;&lt;p&gt;The benefit they provide is in bringing greater liquidity to assets, buy supplying a sea of ready purchasing and selling power. So, an investor wanting to find a seller or a buyer has a easier time.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

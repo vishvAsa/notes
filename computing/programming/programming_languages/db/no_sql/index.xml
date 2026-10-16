@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;NoSql on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/db/no_sql/</link>
+    <description>Recent content in &#43;NoSql on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/db/no_sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bigtable</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/db/no_sql/bigtable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/db/no_sql/bigtable/</guid>
+      <description>&lt;p&gt;A sparse 3D map: (rowkey, column-name, timestamp) to data. No other indexing, not a relational database. rowkey can be any byte sequence.&lt;/p&gt;&#xA;&lt;h2 id=&#34;efficient-operations&#34;&gt;Efficient operations&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Single row lookup. Scan row ranges/ prefixes.&lt;/li&gt;&#xA;&lt;li&gt;Scan column, timestamp ranges&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;advantages&#34;&gt;Advantages&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Scales easily, shards as necessary (during &amp;lsquo;compaction&amp;rsquo; times). Shards are called tablets.&lt;/li&gt;&#xA;&lt;li&gt;Shards may be overloaded before the unpredictable compaction times, so intelligent key distribution may be desirable.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;disadvantages&#34;&gt;Disadvantages&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Columns can be grouped into column family. Only column families are specified at the time of creation. Columns are created as needed.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Couchdb</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/db/no_sql/Couchdb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/db/no_sql/Couchdb/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Master-Master Replication - so better than master-slave. Eventual consistency. partition tolerance.&lt;/li&gt;&#xA;&lt;li&gt;lately allows ad hoc querying with sql-like syntax (changed in 2016?). Can also do map-reduce with views.&lt;/li&gt;&#xA;&lt;li&gt;great versioning system.&lt;/li&gt;&#xA;&lt;li&gt;heavy-write friendly thanks to its append-only nature (writes operations return in no time while guaranteeing that no data will ever be lost).&lt;/li&gt;&#xA;&lt;li&gt;CouchDb relies on b-tree for all, even indexes. This means that even with 20 billions, the querying time will always remain below 10ms. This is a game changer which makes CouchDb a low-latency and read-friendly database.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;distributions&#34;&gt;Distributions&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;oft very inter-compatible:&lt;/li&gt;&#xA;&lt;li&gt;apache couchdb.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;free couchbase community (apache couchdb + memcache). commercial couchbase.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Couchbase Lite (android api).&lt;/li&gt;&#xA;&lt;li&gt;js pouchdb.&lt;/li&gt;&#xA;&lt;li&gt;Cloudant BigCouch (scales horizontally -  While it appears to the end-user as one CouchDB instance, it is in fact one or more nodes in an elastic cluster,)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;contents&#34;&gt;Contents&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Documents. Each document is identified uniquely by its ID.&lt;/li&gt;&#xA;&lt;li&gt;Views. Each view has a unique name, and a persistent index as well as map and reduce functions.&lt;/li&gt;&#xA;&lt;li&gt;Filter functions. These are used to replicate subsets of documents.&lt;/li&gt;&#xA;&lt;li&gt;Replications. Each replication specifies a remote database to sync documents to or from, and other parameters.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;querying&#34;&gt;Querying&lt;/h2&gt;&#xA;&lt;p&gt;Queries can then look up a range of rows from a view, and either use the rows&amp;rsquo; keys and values directly or get the documents they came from.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mongo</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/db/no_sql/Mongo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/db/no_sql/Mongo/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Master-Slave Replication ONLY&lt;/li&gt;&#xA;&lt;li&gt;allows ad-hoc querying with a SQL like syntax. makes the transition from SQL even easier.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;distributions&#34;&gt;Distributions&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;mongodb&lt;/li&gt;&#xA;&lt;li&gt;meteor.js&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;commands&#34;&gt;Commands&lt;/h2&gt;&#xA;&lt;div class=&#34;spreadsheet&#34; fullHeightWithRowsPerScreen=8 src=&#34;../mongo.toml&#34;&gt; &lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

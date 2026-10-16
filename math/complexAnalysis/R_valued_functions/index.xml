@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> &#43;R valued functions on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/complexAnalysis/R_valued_functions/</link>
+    <description>Recent content in  &#43;R valued functions on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/math/complexAnalysis/R_valued_functions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Definite integral</title>
+      <link>https://vishvAsa.github.io/notes/math/complexAnalysis/R_valued_functions/definite_integral/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/complexAnalysis/R_valued_functions/definite_integral/</guid>
+      <description>&lt;h2 id=&#34;definitions&#34;&gt;Definitions&lt;/h2&gt;&#xA;&lt;p&gt;For a fixed \(f:R \to R\), the definite integral function is \(R^{2} \to R\). In general, it is defined for any \(f\) over a measurable space.&lt;/p&gt;&#xA;&lt;p&gt;Simply see the definition of min-cover integrals defined elsewhere: those form superior notions of integration than what follows.&lt;/p&gt;&#xA;&lt;h3 id=&#34;integral-as-least-upper-sum-greatest-lower-sum&#34;&gt;Integral as least Upper sum, greatest lower sum&lt;/h3&gt;&#xA;&lt;p&gt;Aka Reimann Integral.&lt;/p&gt;&#xA;&lt;h4 id=&#34;partitions-of-ab&#34;&gt;Partitions of [a,b]&lt;/h4&gt;&#xA;&lt;p&gt;Any such partition \(P\) is specified by a set of points \(a = x_{0} \leq x_{1} .. x_{n} = b; \gD x_{i} = x_{i}- x_{i-1}\).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Properties</title>
+      <link>https://vishvAsa.github.io/notes/math/complexAnalysis/R_valued_functions/properties/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/complexAnalysis/R_valued_functions/properties/</guid>
+      <description>&lt;p&gt;Because of the nature of their range, real valued functions can be characterized using some special features.&lt;/p&gt;&#xA;&lt;p&gt;Also consider properties of functions over ordered semigroups described elsewhere.&lt;/p&gt;&#xA;&lt;h2 id=&#34;topological-properties&#34;&gt;Topological properties&lt;/h2&gt;&#xA;&lt;p&gt;Limits, continuity, smoothness, steepness. See topology ref.&lt;/p&gt;&#xA;&lt;h3 id=&#34;limits&#34;&gt;Limits&lt;/h3&gt;&#xA;&lt;p&gt;See topology ref. Left and right handed limits. \(\pm \infty\) as limits.&lt;/p&gt;&#xA;&lt;p&gt;Limits of sums, products, quotients. Squeeze or pinching theorem: If \(f(x) \leq g(x) \leq h(x)\), and if \(\lim_{x \to a} f(x) = \lim_{x \to a} h(x) = b\), \(\lim_{x \to a} g(x)=b\).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

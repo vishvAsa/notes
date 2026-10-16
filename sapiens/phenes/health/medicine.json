@@ -1,0 +1,170 @@
+{
+  "Decongestant": {
+    "Agent": "Decongestant",
+    "Category": "",
+    "Action": "Reduces respiratory blockage by various means.",
+    "Side effect": "even worse nasal congestion once the decongestant wears off (rebound rhinitis). All too often, people think their colds are getting worse, so they increase their use of nasal spray, leading to a downward spiral of medication use and worsening congestion.",
+    "Administration": ""
+  },
+  "Vasoconstrictior": {
+    "Agent": "Vasoconstrictior",
+    "Category": "Decongestant",
+    "Action": "causes the blood vessels to constrict (vasoconstriction), leading to less fluid leaking out of blood vessels.",
+    "Side effect": "Same as decongestant",
+    "Administration": ""
+  },
+  "Decongestant Bronchodilator": {
+    "Agent": "Decongestant Bronchodilator",
+    "Category": "",
+    "Action": "relax muscle bands that tighten around your airways.",
+    "Side effect": "",
+    "Administration": ""
+  },
+  "short-acting beta2 agonists": {
+    "Agent": "short-acting beta2 agonists",
+    "Category": "Rescue Bronchodilator",
+    "Action": "These cause smooth muscle relaxation, leading to widening of bronchial passages.",
+    "Side effect": "Same as decongestant",
+    "Administration": ""
+  },
+  "long-acting beta-agonists (LABA)": {
+    "Agent": "long-acting beta-agonists (LABA)",
+    "Category": "Bronchodilator",
+    "Action": "\"use them along with inhaled steroids and never as the only medication to control your asthma.\"",
+    "Side effect": "Same as decongestant",
+    "Administration": ""
+  },
+  "anti-cholinergic": {
+    "Agent": "anti-cholinergic",
+    "Category": "Bronchodilator",
+    "Action": "blocks acetylcholine at synapses in nervous system.  nerve fibers of the parasympathetic system are responsible for the involuntary movement of smooth muscles (lungs, etc..)",
+    "Side effect": "",
+    "Administration": ""
+  },
+  "Histamine receptor blocker": {
+    "Agent": "Histamine receptor blocker",
+    "Category": "",
+    "Action": "Histamine, produced in response to foreign pathogens, induces an inflammatory response.  Some compounds have similar structure, block histamine recepters, making histamine secretion ineffective.",
+    "Side effect": "",
+    "Administration": ""
+  },
+  "Antibiotics": {
+    "Agent": "Antibiotics",
+    "Category": "",
+    "Action": "They either kill bacteria or keep them from reproducing. Binds to antigen. No use against viruses. Must complete dose to avoid antibiotic resistance.",
+    "Side effect": "",
+    "Administration": ""
+  },
+  "Immunogen antigen": {
+    "Agent": "Immunogen antigen",
+    "Category": "",
+    "Action": "Used in vaccination. Stimulates antibody production.",
+    "Side effect": "",
+    "Administration": ""
+  },
+  "Nasal steroid": {
+    "Agent": "Nasal steroid",
+    "Category": "",
+    "Action": "Nasal steroids reduce inflammation in the nasal passages and are better than oral antihistamines at relieving most nasal symptoms, including a blocked nose. Nasal steroids have to be used regularly to be effective. They are best started a couple of weeks before the pollen season begins.",
+    "Side effect": "",
+    "Administration": ""
+  },
+  "steroid": {
+    "Agent": "steroid",
+    "Category": "",
+    "Action": "biologically active organic compound with four rings arranged in a specific molecular configuration.",
+    "Side effect": "",
+    "Administration": ""
+  },
+  "hormone": {
+    "Agent": "hormone",
+    "Category": "",
+    "Action": "any member of a class of signaling molecules, produced by glands in multicellular organisms, that are transported by the circulatory system to target distant organs to regulate physiology and behavior",
+    "Side effect": "",
+    "Administration": ""
+  },
+  "Steroid hormone": {
+    "Agent": "Steroid hormone",
+    "Category": "",
+    "Action": "",
+    "Side effect": "",
+    "Administration": ""
+  },
+  "Corticosteroids": {
+    "Agent": "Corticosteroids",
+    "Category": "Steroid hormone",
+    "Action": "produced in the adrenal cortex",
+    "Side effect": "",
+    "Administration": ""
+  },
+  "Glucocorticoids": {
+    "Agent": "Glucocorticoids",
+    "Category": "Steroid hormone, Corticosteroid",
+    "Action": "glucose + cortex + steroid. part of the feedback mechanism in the immune system which reduces certain aspects of immune function, such as inflammation.",
+    "Side effect": "",
+    "Administration": ""
+  },
+  "Glucocorticoid inhaler": {
+    "Agent": "Glucocorticoid inhaler",
+    "Category": "",
+    "Action": "",
+    "Side effect": "Inhaled steroids have fewside effects, especially at lower doses. Thrush (a yeast infection in the mouth) and hoarseness may occur, although this is rare. Rinsing the mouth, gargling after using the asthma inhaler, and using a spacer device with metered dose inhalers can help prevent these side effects. Thrush is easily treated with a prescription antifungal lozenge or rinse.",
+    "Administration": "Prime the inhaler before your first use. Using a spacer or holding the inhaler 2 inches from the mouth may improve delivery. Start inhaling a few seconds before spraying. Hold breath for ~10 sec or as long as you can. 30s between sprays.\nThe only reliable way to determine if the inhaler is empty is to count the number of doses. \nrinse/ gargle their mouths with water and spit after glucocorticoid inhaler use to prevent oral thrush/ cancer and dysphonia.\nSome improvement in asthma symptoms can be seen in 1 to 3 weeks after starting inhaled steroids, with the best results seen after 3 months of daily use."
+  },
+  "Glucocorticoid rotahaler": {
+    "Agent": "Glucocorticoid rotahaler",
+    "Category": "",
+    "Action": "",
+    "Side effect": "Same as Glucocorticoid inhaler",
+    "Administration": "Refill with rotacaps"
+  },
+  "Glucocorticoid multihaler": {
+    "Agent": "Glucocorticoid multihaler",
+    "Category": "",
+    "Action": "",
+    "Side effect": "Same as Glucocorticoid inhaler",
+    "Administration": "Refill with Rotadisks"
+  },
+  "Glucocorticoid diskhaler": {
+    "Agent": "Glucocorticoid diskhaler",
+    "Category": "",
+    "Action": "",
+    "Side effect": "Same as Glucocorticoid inhaler",
+    "Administration": "Refill with Rotadisks"
+  },
+  "Leukotrine modifier": {
+    "Agent": "Leukotrine modifier",
+    "Category": "Glucocorticoids",
+    "Action": "Leukotrienes are inflammatory chemicals that occur naturally in our bodies and cause tightening of airway muscles and production of mucus",
+    "Side effect": "",
+    "Administration": ""
+  },
+  "cortisol": {
+    "Agent": "cortisol",
+    "Category": "Glucocorticoids",
+    "Action": "In the fasted state, cortisol stimulates several processes that collectively serve to increase and maintain normal concentrations of glucose in blood.",
+    "Side effect": "",
+    "Administration": ""
+  },
+  "prostaglandin blocker": {
+    "Agent": "prostaglandin blocker",
+    "Category": "",
+    "Action": "When you get injured, the damaged tissue releases chemicals called prostaglandins, which are like hormones and cause the tissue to swell. They also intensify the electrical signal coming from the nerves, which increases the pain you feel. prostaglandin blockers somehow jinx their production-chain.",
+    "Side effect": "",
+    "Administration": ""
+  },
+  "Anesthetic": {
+    "Agent": "Anesthetic",
+    "Category": "",
+    "Action": "",
+    "Side effect": "",
+    "Administration": ""
+  },
+  "Local Anesthetic": {
+    "Agent": "Local Anesthetic",
+    "Category": "",
+    "Action": "When it is used locally as a numbing agent, local neurons cannot signal the brain.",
+    "Side effect": "",
+    "Administration": ""
+  }
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Programming on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/programming/</link>
+    <description>Recent content in &#43;Programming on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coder profession</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/profession/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/profession/</guid>
+      <description>&lt;h2 id=&#34;general-advice&#34;&gt;General advice&lt;/h2&gt;&#xA;&lt;p&gt;Ergonomics - &lt;a href=&#34;https://www.facebook.com/shriramana.sharma/posts/657037774430709?pnref=story&#34;&gt;FB thread&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;training&#34;&gt;Training&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Vivek: &amp;ldquo;What you need then is 10 repetitions of these 10 courses (1) Calculus (2) Probability and Stats 3) Machine Learning 4) computer architecture 5) Data Structures and Algorithms 6) Operating Systems 7) Databases 8) Distributed Systems 9) Networking 10) Linear Algebra. Only the above 10 courses need to repeated 10 times from the age of 15-22 and you will see a good CS person come out.&amp;rdquo;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;on-the-software-engineering-profession&#34;&gt;On the software engineering profession.&lt;/h2&gt;&#xA;&lt;p&gt;From an OLD (early 2010-s) email thread:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

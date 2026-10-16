@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Information coding on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/informationCodingTheory/</link>
+    <description>Recent content in &#43;Information coding on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/math/informationCodingTheory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding</title>
+      <link>https://vishvAsa.github.io/notes/math/informationCodingTheory/coding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/informationCodingTheory/coding/</guid>
+      <description>&lt;h2 id=&#34;fingerprinting&#34;&gt;Fingerprinting&lt;/h2&gt;&#xA;&lt;p&gt;This codes can also be used as error detection codes.&lt;/p&gt;&#xA;&lt;h3 id=&#34;chinese-reminder-code&#34;&gt;Chinese reminder code&lt;/h3&gt;&#xA;&lt;p&gt;Codes which use a mod p, with rand p. \(\hat{F}(a)\) elements will use diff fields; so not preferred.&lt;/p&gt;&#xA;&lt;h4 id=&#34;checking-equality&#34;&gt;Checking equality&lt;/h4&gt;&#xA;&lt;p&gt;A picks rand prime p between 1 and \(k = n^{3}\); Sends (a mod p, p) to B; B says &amp;lsquo;=&amp;rsquo; if \(a \equiv b \mod p\).&lt;/p&gt;&#xA;&lt;p&gt;\(Pr_{p}(a \equiv b \mod p|a \neq b) \leq n^{-1}\): num(p with \(a \equiv b mod p\) when \(b \neq a\)) or, \(num(p | (a-b)) \leq n^{-1}\) as \(a-b \in [0, 2^{n}-1]\); so \(Pr(p|a-b) &amp;lt; \frac{n}{\Pi(n^{3})} = \leq \frac{n\ln n}{n^{3}} \leq \frac{1}{n}\) Using Prime number theorem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Information</title>
+      <link>https://vishvAsa.github.io/notes/math/informationCodingTheory/information/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/informationCodingTheory/information/</guid>
+      <description>&lt;h2 id=&#34;self-information-of-an-event&#34;&gt;Self Information of an event&lt;/h2&gt;&#xA;&lt;p&gt;Aka surprisal. Measure of information content associated with event e: rarer the event, more the info, and in case of independence \(\perp(e, f): h(e, f) = h(e)+h(f)\). In the latter case, Pr(e,f) = Pr(e)Pr(f); thence get derivation: \(h(e) = h(X=x) = \log (\frac{1}{Pr(e)})\).&lt;/p&gt;&#xA;&lt;h3 id=&#34;as-code-length-for-recording-event&#34;&gt;As code-length for recording event&lt;/h3&gt;&#xA;&lt;h4 id=&#34;coding-problem&#34;&gt;Coding problem&lt;/h4&gt;&#xA;&lt;p&gt;Suppose that we wanted to record information that an event occurred, but we wanted to use as few bits in expectation as possible. We want to satisfy this: the more common the event, fewer the bits one would need to transmit the event&amp;rsquo;s occurrence.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

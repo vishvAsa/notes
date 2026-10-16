@@ -1,0 +1,288 @@
+[[data]]
+"Operand Type" = 'concept'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''
+A JS framework to extend HTML attributes with (ng-)Directives, and binds data to HTML with Expressions : creating a more powerful view presentation language.
+
+An app data-model "bound" with html elements.'''
+
+[[data]]
+"Operand Type" = 'html directives'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'caveat'
+Syntax = ''
+Description = '''
+You can use data-ng-, instead of ng-, if you want to make your page HTML valid.
+
+'''
+
+[[data]]
+"Operand Type" = 'setup app / angular element'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+ <script src="http://code.angularjs.org/1.0.4angular.min.js"></script>
+<html ng-app> .. or
+<div ng-app = ""> .. </div>'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'app data'
+Feature = 'initialize'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+<div ng-init="somelist = ['Chrome', 'Safari', 'IE'] ">
+<div ng-app="" ng-init="firstName='John'">
+'''
+Description = 'value syntax is javascript like  - maps, lists etc.. '
+
+[[data]]
+"Operand Type" = 'app data'
+Feature = 'bind to html controls'
+Subfeature = 'map field'
+Importance = ''
+"Implementation Type" = 'caveat'
+Syntax = '''
+ng-model="fieldName"
+ng-model="fieldName1.fieldName2"...'''
+Description = 'If the property in the ng-model attribute does not exist, AngularJS will create one for you.'
+
+[[data]]
+"Operand Type" = 'app data'
+Feature = 'bind to html controls'
+Subfeature = 'input'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+  <p>Name: <input type="text" ng-model="name"></p>
+    <input type="email" name="myAddress" ng-model="myText" required>
+'''
+Description = '''
+If name is preset in javascript, it is shown as default value. User modifications are recorded into model.
+name can be a list.'''
+
+[[data]]
+"Operand Type" = 'app data'
+Feature = 'bind to html controls'
+Subfeature = 'editable content'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '<div contentEditable="true" ng-model="content">Edit Me</div>'
+Description = ''
+
+[[data]]
+"Operand Type" = 'app data'
+Feature = 'bind to view'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '<p ng-bind="name"></p>'
+Description = ''
+
+[[data]]
+"Operand Type" = 'app data'
+Feature = 'bind to view'
+Subfeature = 'expression'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+{{someAppDataField}}
+{{topElementName.nextElementName.$valid}} '''
+Description = '''
+same as using ng-bind.
+like JS expressions, except:
+AngularJS expressions do not support conditionals, loops, and exceptions, while JavaScript expressions do.'''
+
+[[data]]
+"Operand Type" = 'app data'
+Feature = 'bind to view'
+Subfeature = 'loop'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '<li ng-repeat="name in names">{{name}}</li>'
+Description = ''
+
+[[data]]
+"Operand Type" = 'app data'
+Feature = 'bind to view'
+Subfeature = 'filter'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+ {{ 1234567890 | number }} 
+{{ list | filter:predicate | json }}'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'app data'
+Feature = 'affect css'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''
+ng-model directive adds/removes the following classes, according to the status of the form field:
+ng-empty
+ng-not-empty
+ng-touched
+ng-untouched
+ng-valid
+ng-invalid
+ng-dirty
+ng-pending
+ng-pristine'''
+
+[[data]]
+"Operand Type" = 'app data'
+Feature = 'validate'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+    <span ng-show="myForm.myAddress.$error.email">Not a valid e-mail address</span>
+'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'app data'
+Feature = 'get state'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+<form ng-app="" name="myForm" ng-init="myText = 'post@myweb.com'">
+    Email:
+    <input type="email" name="myAddress" ng-model="myText" required>
+{{myForm.myAddress.$valid}}    {{myForm.myAddress.$dirty}}
+    {{myForm.myAddress.$touched}} </form>'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'custon directive'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+<div w3-test-directive></div>
+<w3-test-directive></w3-test-directive>
+<div class="w3-test-directive"></div>
+<!-- directive: w3-test-directive -->
+'''
+Description = 'w3-test-directive directive defined in js.'
+
+[[data]]
+"Operand Type" = 'app controller'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'concept'
+Syntax = ''
+Description = 'JS object sets and acts on app data - defines functions over it.'
+
+[[data]]
+"Operand Type" = 'app controller'
+Feature = 'setup'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+ <div ng-controller="InvoiceCntl">
+.. <td><input type="integer" min="0" ng-model="qty" required ></td>..
+</div>'''
+Description = 'handled by js function InvoiceCntl()'
+
+[[data]]
+"Operand Type" = 'app controller'
+Feature = 'button'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '<button ng-click="action()"> xyz </button>'
+Description = ''
+
+[[data]]
+"Operand Type" = 'js'
+Feature = 'app'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'var app = angular.module("myApp", []);'
+Description = ''
+
+[[data]]
+"Operand Type" = 'js'
+Feature = 'app controller'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+app.controller('personCtrl', function($scope) {
+    $scope.firstName = "John";
+    $scope.lastName = "Doe";
+    $scope.fullName = function() {
+        return $scope.firstName + " " + $scope.lastName;
+    };
+});'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'js'
+Feature = 'app'
+Subfeature = 'add directive'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+app.directive("newTagType", function() {
+    return {
+        restrict : "A", // only attribute style invocation
+        template : "<h1>Made by a directive!</h1>"
+    };
+});'''
+Description = '''
+restrict values:
+E for Element name
+A for Attribute
+C for Class
+M for Comment'''
+
+[[data]]
+"Operand Type" = 'js'
+Feature = 'element'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''var el = angular.element(document.getElementById('content'))'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'js'
+Feature = 'scope'
+Subfeature = 'concept'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'binding part between the HTML (view) and the JavaScript (controller)'
+
+[[data]]
+"Operand Type" = 'js'
+Feature = 'scope'
+Subfeature = 'data model'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+scope = angElement.scope();
+scope.$apply(function(scope) {
+      scope.video_data = video_data;
+    });'''
+Description = ''

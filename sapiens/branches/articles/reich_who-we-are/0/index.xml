@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;0 on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/sapiens/branches/articles/reich_who-we-are/0/</link>
+    <description>Recent content in &#43;0 on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/sapiens/branches/articles/reich_who-we-are/0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About the Author</title>
+      <link>https://vishvAsa.github.io/notes/sapiens/branches/articles/reich_who-we-are/0/About_the_Author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/sapiens/branches/articles/reich_who-we-are/0/About_the_Author/</guid>
+      <description>&lt;p&gt;Professor David Reich, of the Department of Genetics at Harvard Medical School and the Howard Hughes Medical Institute, is a pioneer in analyzing ancient human DNA to learn about the past. In 2015, &lt;em&gt;Nature&lt;/em&gt; magazine named him one of “10 people who matter” in all of the sciences for his contribution to transforming ancient DNA data “from niche pursuit to industrial process.” He has received numerous awards, including the 2017 Dan David Prize in the Archaeological and Natural Sciences for the computational discovery of intermixing between Neanderthals and modern humans.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Acknowledgments</title>
+      <link>https://vishvAsa.github.io/notes/sapiens/branches/articles/reich_who-we-are/0/Acknowledgments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/sapiens/branches/articles/reich_who-we-are/0/Acknowledgments/</guid>
+      <description>&lt;p&gt;First thing first. This book emerged out of a year of intense collaboration with my wife, Eugenie Reich. We researched the book together, prepared the first drafts of the chapters together, and talked about the book incessantly as it matured. This book would not have come into being without her.&lt;/p&gt;&#xA;&lt;p&gt;I am grateful to Bridget Alex, Peter Bellwood, Samuel Fenton-Whittet, Henry Louis Gates Jr., Yonatan Grad, Iosif Lazaridis, Daniel Lieberman, Shop Mallick, Erroll McDonald, Latha Menon, Nick Patterson, Molly Przeworski, Juliet Samuel, Clifford Tabin, Daniel Reich, Tova Reich, Walter Reich, Robert Weinberg, and Matthew Spriggs for close critical readings of the entire book.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contents</title>
+      <link>https://vishvAsa.github.io/notes/sapiens/branches/articles/reich_who-we-are/0/Contents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/sapiens/branches/articles/reich_who-we-are/0/Contents/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Cover&lt;/p&gt;&#xA;&lt;p&gt;Title Page&lt;/p&gt;&#xA;&lt;p&gt;Copyright&lt;/p&gt;&#xA;&lt;p&gt;Dedication&lt;/p&gt;&#xA;&lt;p&gt;Map&lt;/p&gt;&#xA;&lt;p&gt;Acknowledgments&lt;/p&gt;&#xA;&lt;p&gt;Introduction&#xA;*&lt;/p&gt;&#xA;&lt;p&gt;Part I The Deep History of Our Species&lt;/p&gt;&#xA;&lt;p&gt;1 How the Genome Explains Who We Are&lt;/p&gt;&#xA;&lt;p&gt;2 Encounters with Neanderthals&lt;/p&gt;&#xA;&lt;p&gt;3 Ancient DNA Opens the Floodgates&lt;/p&gt;&#xA;&lt;p&gt;Part II How We Got to Where We Are Today&lt;/p&gt;&#xA;&lt;p&gt;4 Humanity’s Ghosts&lt;/p&gt;&#xA;&lt;p&gt;5 The Making of Modern Europe&lt;/p&gt;&#xA;&lt;p&gt;6 The Collision That Formed India&lt;/p&gt;&#xA;&lt;p&gt;7 In Search of Native American Ancestors&lt;/p&gt;&#xA;&lt;p&gt;8 The Genomic Origins of East Asians&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Notes on the Illustrations</title>
+      <link>https://vishvAsa.github.io/notes/sapiens/branches/articles/reich_who-we-are/0/Notes_on_the_Illustrations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/sapiens/branches/articles/reich_who-we-are/0/Notes_on_the_Illustrations/</guid>
+      <description>&lt;p&gt;Map sources. All maps were made with data from Natural Earth (&lt;a href=&#34;http://www.naturalearthdata.com/&#34;&gt;http://www.naturalearthdata.com/&lt;/a&gt;).&lt;/p&gt;&#xA;&lt;p&gt;Figure 1. Contours in panel (a) are based on Fig. 2A of L. L. Cavalli-Sforza, P. Menozzi, and A. Piazza, “Demic Expansions and Human Evolution,” &lt;em&gt;Science&lt;/em&gt; 259 (1993): 639–46. Contours in panel (b) are based on interpolation of the numbers shown in Fig. 3 of W. Haak et al., “Massive Migration from the Steppe Was a Source for Indo-European Languages in Europe,” &lt;em&gt;Nature&lt;/em&gt; 522 (2015): 207–11. The interpolation was performed using the POPSutilities.R software of F. Jay et al., “Forecasting Changes in Population Genetic Structure of Alpine Plants in Response to Global Warming, &lt;em&gt;Molecular Ecology&lt;/em&gt; (2012): 2354–68 and the parameter settings recommended in O. François, “Running Structure-like Population Genetic Analyses with R,” June 2016, &lt;a href=&#34;http://membres-timc.imag.fr/Olivier.Francois/tutoRstructure.pdf&#34;&gt;http://membres-timc.imag.fr/Olivier.Francois/tutoRstructure.pdf&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
