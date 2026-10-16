@@ -34,13 +34,13 @@ Install keyman on your computer. Then make it use the the below kmp file. (In Ma
 
 ## Building
 - Run  `npm install -g @keymanapp/kmc` to install kmc
-- Get the source code from [here](https://github.com/sanskrit-coders/keyman-keyboards/tree/master/release/o/optitrans_devanagari_sanskrit_pre_vedic).
+- Get the source code from [here](https://github.com/sanskrit-coders/keyman-keyboards/tree/master/release/optitrans/optitrans_devanagari_sanskrit_pre_vedic).
 
 ```bash
 git clone https://github.com/sanskrit-coders/keyman-keyboards.git --depth 1
 ```
 
-- Switch to the  and run `kmc build .`
+- Switch to the package directory and run `kmc build .`
 
 - Installation on linux `km-package-install -f build/`.
 - Or copy/ symlink the files over to the keyman web directory.
