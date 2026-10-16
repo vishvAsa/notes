@@ -1,7 +1,13 @@
 +++
-title = "+Keyman Pre-vedic"
+title = "+Keyman Indic"
 +++
-## Description
+
+## Intro
+Several Indic sanskrit keyboards [here](https://keyman.com/en/keyboards/?q=optitrans).  
+Source: [TW](https://github.com/sanskrit-coders/keyman-keyboards/tree/master/release/optitrans)
+
+## Pre-vedic
+### Description
 
 Pre-Vedic Sanskrit Devanagari Phonetic (OPTITRANS) keyboard is Sanskrit devanAgarI input method by a modified version of OPTITRANS and Harvard-Kyoto transliteration systems with the following special features:
 
@@ -21,18 +27,18 @@ c->च्, C->छ्, z->श्, S->ष्, jn->ज्ञ्, R->ऋ
 
 Examples: Type `saMskRta` for संस्कृत.
 
-## Details
+### Details
 
 - The closely related m17n keyboard [here](https://github.com/indic-transliteration/m17n-db-indic/blob/master/sa-vedic-itrans.mim)
 - The motivation behind some basic additions made to the basic ITRANS scheme is described [here](https://sanskrit-coders.github.io/input/optitrans/), along with a tabulated comparison with several other transliteration schemes.
 
-## Installation and use
+### Installation and use
 Install keyman on your computer. Then make it use the the below kmp file. (In Mac, you double click that file, or you can drag and drop the file onto the keyman settings window.)
 
 - [kmp](optitrans_devanagari_sanskrit_pre_vedic.kmp)
 - [js](optitrans_devanagari_sanskrit_pre_vedic.js)
 
-## Building
+### Building
 - Run  `npm install -g @keymanapp/kmc` to install kmc
 - Get the source code from [here](https://github.com/sanskrit-coders/keyman-keyboards/tree/master/release/optitrans/optitrans_devanagari_sanskrit_pre_vedic).
 
