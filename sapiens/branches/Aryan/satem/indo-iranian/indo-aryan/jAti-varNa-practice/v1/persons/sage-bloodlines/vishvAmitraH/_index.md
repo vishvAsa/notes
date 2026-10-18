@@ -41,5 +41,8 @@ Ganeśa himself authored several important treatises and manuals on astronomy an
 ### गङ्गाधरः
 Gangadhara was a Vajasaneyi Brahmin belonging to Kaushika gotra. Fine astronomer. Gangadhara’s commentary on “Laghu Lāghava” is called “manorama.” His father himself has composed “Muhurta Mārtanda.” 
 
-## भास्कररायो मखीन्द्रः
+### भास्कररायो मखीन्द्रः
 of stunning scholastic achievements, restorer of temples, reviver of traditions, who took as wife the daughter of the mAdhva he routed in debate, who taught chandrasEna jAdava saMskRtam \[[M](http://manasataramgini.wordpress.com/2004/05/17/the-great-bhaskararaya-makhindra/)\].  
+
+### अनन्त-रङ्गाचार्यः
+२०-तमे शताब्दे कल्याणपुर्यां प्रसिद्धः श्रीवैष्णव-विद्वान्। 

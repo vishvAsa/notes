@@ -222,6 +222,11 @@ It is very clear that the mUlavAtUla-s are suppressing reports of their losses. 
 
 
 ## Hidden movers
+### anUpa?
+Source: [TW](https://x.com/blog_supplement/status/2111698389763305739)
+
+One wonders if little boss little duShTa anUpa+++(=vance)+++ thinks if his backer muShkavAn was an indentured servant. That is probably only reserved for people like his wife.
+
 ### EIC
 The mahAmlechCha are acting like the true successor of the British EIC; now all filters and masks have been dropped.
 
