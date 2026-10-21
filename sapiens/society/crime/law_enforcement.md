@@ -45,3 +45,10 @@ After the minimum sentence has been served by the convict, he may be eligible to
 In USA, federal crimes are not eligible for parole.
 
 
+## Corruption
+### India
+Money exchanged in settlement between the disputants (eg. in an accident) is partly siphoned off.
+
+The wealthy who need prompt "protection" pay annual gifts to various police stations (eg. vijayadashamI).  
+
+Fake challans, "fines" without challans.

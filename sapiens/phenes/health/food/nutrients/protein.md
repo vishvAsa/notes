@@ -71,8 +71,16 @@ Urban protein sources -
 
 
 ### Egg
-- Egg whole - 6.5% - 1.25 INR/g (2023)
+- Egg whole - 6.5% 
+  - 1.4 INR/g (antibiotic residue below max allowed value, fresho 2026)
+  - Free range - 2 INR/g (No antibiotics in feed - 2026)
+  - Other options elsewhere Source: [TW](/notes/sapiens/phenes/health/food/items/egg) .
 - egg white raw - 11% by weight
+
+### Meat
+- Goat meat raw - 5 INR/g (2026 Licious)
+- Goat meat boneless edible - 7 INR/g (2026 Licious)
+- chicken breast - 1.7 INR/g (2026 Licious)
 
 ### Milk products
 Before processing, about 20% of the protein in milk is whey (fast-digesting, आमीक्षा।) and the other 80% is made up of the slower-digesting casein proteins. Both high quality proteins.

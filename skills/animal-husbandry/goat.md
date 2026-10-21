@@ -30,12 +30,21 @@ Sheep eat grass by bending down. Goats prefer upright or high food.
 - Breeders usually find 5% males sufficient.
 - Females go on heat once each month. Indicated by vaginal discharge. Should be tracked for optimality.
 
+### Rate
+2x growth in a year, under perfect conditions.
+
+
+
 ## Health
-- Can get lonely and die off. Temperamental (unlike sheep).
+Can get lonely and die off. Temperamental (unlike sheep).
+
+Vaccination at birth suffices. Antibiotics only needed in case of sickness.
+
 
 
 ## Shed
-- Elevated (5ft) grilled metal floor design - [TN](https://www.youtube.com/watch?v=Lax-XIQIelY). No walls.
+Elevated (5ft) grilled floor design - [TN](https://www.youtube.com/watch?v=Lax-XIQIelY). No walls. Highly corrosive urine should fall through. 
+
 
 ## Wild rearing
 ### Fixed plot
@@ -45,3 +54,10 @@ Sheep eat grass by bending down. Goats prefer upright or high food.
 Tougher during summers - grass is harder to find.  
 
 2024: Goatherds camp out with goats for month at a stretch; women stay back at base-camp and supply ration weekly by motorbike etc..
+
+## Butchering
+Age - 1-2 years.  
+40 days after antibiotic administration to let it flush off. 
+
+## Meat quality
+Considered very good meat. (No antibiotic residue generally.)
