@@ -49,13 +49,16 @@ Joint accounts only possible with majors, not minors.
 
 
 #### dhan
-Fairly good support as of 2025. 0 AMC promised.
+Fairly good support as of 2025. 0 AMC promised. 
 
 No joint account as of 2025.
+
+- "direct" mutual funds available here.
 
 #### FundsIndia
 - Easy account opening, support. Excellent UI.
 - Tax reporting - Investments over 10L shows up in both joint holders' IT form as of 2022!
+- No "direct" mutual funds - only "regular" ones - so higher expense ratio.
 
 #### Other providers
 - fisdom (202207)
@@ -107,7 +110,6 @@ Reactivation
 - A DP (Depository Participant) charge of ₹18+ GST is applicable on the redemption of Mutual Fund units. This will be deducted from your Upstox wallet and not from your bank account.
 
 </details>
- 
 
 
 ## Discipline

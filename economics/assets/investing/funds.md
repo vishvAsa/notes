@@ -60,6 +60,8 @@ As the 2011 real-estate booms in USA, Ireland and the role of investment banks i
 ### Dividend handling
 - Equity held by the fund pays out dividends. How is this handled?
 - In "Growth funds", dividends are reinvested by the manager to by more stocks and increase net asset value (NAV) of the fund. The investor does not receive more shares, but their shares of the fund increase in value.
+  - In "Regular" funds, the platform takes a cut - higher expense ratio. eg. On fundsIndia
+  - In "Direct" funds, the platform does not take a cut - lower expense ratio. eg. On dhan
 - In "Dividend Reinvestment" funds/ options, dividend is automatically used to increase the investor's share of the fund.
 - In "Dividend payout" option, dividend is passed on to the investors.
 
@@ -68,9 +70,17 @@ As the 2011 real-estate booms in USA, Ireland and the role of investment banks i
 
 Ownership of some funds is shared, and these shares can often be traded in the stock exchange. The value of the ETF shares should reflect the value of the underlying securities in which it has invested, and the belief in the skill of the fund manager, in case of actively managed funds. (ETFs may be index funds or actively managed funds.) 
 
+- ETF Price = value of underlying investments + trading costs to create/redeem shares.
+
 Because index-tracking funds’ investment positions are more readily available, their prices on the stock market more closely reflects the evaluation of the underlying securities - ie. they have less tracking error.
 
-- ETF Price = value of underlying investments + trading costs to create/redeem shares.
+### Expense ratio
+ETF-s tend to have lower expense ratios than the corresponding index mutual funds. (No Direct Record-Keeping or Investor Servicing Costs. In-Kind Creations and Redemptions)  
+
+But that minor savings may be wiped out due to the bid / ask spread and other trading expenses.
+
+### Liquidity
+Among ETF-s tracking the same index, more established ones have greater liquidity. So, lower buy-sell gap. Impacts actual sale price. 
 
 ### Inverse funds
 
@@ -119,7 +129,7 @@ Big ETN files for bankruptcy and an investor owns their Big Equity ETN. In the c
 
 ## Debt funds
 - Mutual Fund scheme that invests in fixed income instruments, such as Corporate and Government Bonds, corporate debt securities, and money market instruments etc. that offer capital appreciation. Debt funds are also referred to as Fixed Income Funds or Bond Funds.
-- 
+
 ### Money market funds
 
 Money market funds are very safe funds which, among other things, focus on making low-risk short-term loans to businesses on the commercial paper market.
