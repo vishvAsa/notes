@@ -4,49 +4,258 @@ title = "India"
 +++
 
 ## Land purchase problems
-### Ownership
-#### Flaky sellers
-After sale, a inheritor (eg. married daughter) may file a suit that the sale is illegal given that she ought to have inherited part of the land.
+Here is the expanded list - I kept your original and added the missing ones:
 
-The sale may be illegal due to the land being granted to some SC/ST person.
+### 1. Ownership - Flaky sellers
 
-The seller may have granted a power of attorney to someone else, who may have sold it to someone third party!
+* **Ancestral / HUF property:** Property not partitioned. Karta sells without consent of all coparceners. One brother sells entire joint property. Sale is voidable. Married daughter's share after 2005 amendment is most common.
+* **Minor's share:** Sold without District Court permission under Guardians & Wards Act. Minor can challenge after becoming major.
+* **PTCL / Granted land:** Karnataka PTCL Act 1978, Saguvali chit, Darkhast, Bhoodan, Freedom Fighter grant, Ex-serviceman grant - all non-transferable for 15-25 years or forever without govt permission. Sale is void ab initio, govt can take it back even from you.
+* **Inam / Religious endowment:** Land belongs to Muzrai Temple, Wakf Board, Matha, Devaswom. RTC shows Inam, Jamma, Bane, Kumki. Cannot be sold at all.
+* **Gomala / Gomal / Gowchar / Kharab / Amrit Mahal Kaval:** Classified as sarkari in Akarband. Seller has only possession, not title.
+* **Tenancy:** RTC / Pahani Column 12 shows tenant cultivator. Under Karnataka Land Reforms Act, tenant has protected occupancy rights. Can claim occupancy.
+* **Land Ceiling Surplus:** Land declared surplus under Land Ceiling Act but not surrendered.
+* **GPA chain fraud:** After Supreme Court *Suraj Lamps vs State of Haryana 2011*, GPA is NOT a sale. Entire chain of GPA > Agreement > Will is invalid for title. GPA holder dies, GPA becomes void, but his family still sells.
+* **Multiple GPA / JDA:** Farmer gave GPA to 3 different people. Or gave Joint Development Agreement to a builder, builder has irrevocable rights, farmer still sells plots.
+* **Impersonation:** Someone impersonates real owner with fake Aadhaar. Original owner appears later.
+* **Will / Gift / Partition fraud:** Unregistered will, will executed after agreement to sell, coerced gift deed, unregistered family partition deed.
+* **Benami:** Seller is benami for local politician / rowdy. Real owner comes later.
+* **Attachment:** Land attached by Income Tax, ED, court decree, family court, insolvency. Won't show in EC if recent.
+* **Leasehold not Freehold:** KIADB, KSSIDC, BDA leased land sold as freehold.
 
-The seller may have "sold" or made an agreement to sell the property to someone else.
+### 2. Squatters / Possession
 
-Land may actually be government owned - eg. cattle grazing land.
+* **Adverse possession claim:** Person in possession for 12+ years claims ownership. Needs civil suit to evict - takes 10-15 years.
+* **Slum declaration:** Once huts come up, declared as slum, political protection, impossible to evict without rehab.
+* **Relative in possession:** Seller's brother / tenant refuses to vacate after sale. You bought litigation.
+* **Boundary not fixed:** No Haddu Bast, no Tippan / 11E sketch / Phodi / Hissa done. Neighbour encroached 5 ft. Village map vs ground mismatch.
+* **Litigation possession:** Court Receiver or Court Commissioner appointed, you can't take possession even after registration.
+* **Police won't help:** Encroachment is civil matter. Police will say go to court.
 
-Some lender or bank may have a claim on the land.
+### 3. Evaluation - Physical & Commercial
 
-Seller may have received notice or news from the government about 
+* The land may be in a depressed area (eg. a dried lake bed), which will fill up for years upon good rains! Usually marked in village map. Near Devanahalli, this happened.
+* The land may be present near a fork in the road, resulting in sparse business traffic coming in.
+* Land may be undulating. 
+* Land may lack road access, resulting having to rely on the mercy of other owners. Or others may demand road access on your land.
+* **Raja Kaluve / Nala encroachment:** Your survey number overlaps storm water drain. BBMP/BDA will demolish per NGT order. Check village map for kaluve.
+* **Lake buffer zone:** NGT says 75m buffer for lakes >5ha, 50m for smaller, 30m for raja kaluve. No construction. Bangalore demolition drives are for this.
+* **HT Line corridor:** 15m to 35m either side of HT line - no construction. BESCOM won't give connection.
+* **Low-lying / Kere bed:** Marked as `kere kunte, halla` in Akarband. You noted this - also check for black cotton soil which swells, needs expensive piling.
+* **No road / Landlocked:** Only `kacha` footpath, not in RTC as road. Need easement right. Your land may have to GIVE easement to interior landowner - easement burden.
+* **Highway / CDP Road cutting:** Master Plan CDP road proposed through your land. BDA/BMRDA will take 50% without market compensation. Or NHAI setback 75m from centerline.
+* **Airport / Defence height restriction:** Near BIAL / HAL / Yelahanka, you can't build above 10-15m.
+* **Soil / Water:** Hard rock - excavation cost 3x. High water table - basement floods. Fluoride / nitrate water. Borewell fails. No Cauvery / BWSSB connection.
+* **Surroundings devalue:** Adjacent poultry farm, quarry blasting, sewage treatment plant, garbage dump, burial ground, factory pollution smell. Permanent price discount.
+* **Contamination:** Previous chemical / dyeing unit, soil contaminated.
+* **Vastu / Shape:** Triangle, Gaumukhi vs Shermukhi, road hitting at corner - affects resale in Indian market.
 
-- intending to lay power lines or water pipes (which would decrease the land value)
-- construction of a dam which would submerge the land.
-- expropriation for some new project or township
+### 4. NEW - Documentation & Title Chain
 
-#### Squatters
-Someone may squat and even build houses on lad he doesn't own!  
-Hard to evict.
+* RTC / Pahani mismatch: Computerized Bhoomi RTC vs manual RTC different. Fake RTC created.
+* Mutation not done: Seller's name not in RTC even after years.
+* Extent mismatch: RTC says 1 acre, Akarband / Tippan / Atlas says 0.85 acre. Hissa not done after partition.
+* 11E sketch / Phodi pending: Subdivision not recognized by survey department.
+* EC only 15 years: Need min 30 years EC from SRO + Bhoomi + Kaveri. EC shows different owner.
+* Sale deed chain broken: 1970-1990 docs missing, link document not found.
+* Notary Agreement vs Registered Sale Deed: Only registered deed is valid for immovable property >100 Rs.
+* Legal heir certificate / Probate / Succession certificate missing.
 
-### Evaluation
-The land may be in a depressed area (eg. a dried lake bed), which will fill up for years upon good rains!  
-This is usually marked in the village map.  
-Near devanahaLLi, this happened in a government granted land!
+### 5. Conversion, Zoning & Approvals
 
-The land may be present near a fork in the road, resulting in sparse business traffic coming in.  
+* **Agricultural to Non-agricultural:** No DC Conversion under Karnataka Land Revenue Act Sec 95 for some types of land. Penalty for building without conversion - 1L fine, demolition.
+* **Green Zone:** In BMRDA/BIAPPA, land is in green zone / agriculture zone, cannot convert.
+* **Layout approvals:** Revenue layout, Panchayat approved but not BDA / BMRDA / DTCP approved. No release deed. B Khata / E-Khata / Form 11B only, not A Khata. Never gets A Khata.
+* **Akrama-Sakrama:** Plot under regularization scheme but not regularized, penalty not paid.
+* **RERA:** Plotted layout not registered under RERA - no protection.
+* **Betterment / Development charges not paid:** BDA betterment, BBMP improvement charges, conversion fine 3-5% pending.
+* **Khata fraud:** Double Khata issued for same survey number by Panchayat.
 
-Land may be undulating. Or have high tension power lines over it. 
+### 6. Financial / Dues / Tax
 
-Land may lack road access, resulting having to rely on the mercy of other owners. Or others may demand road access on your land.
+* EC shows mortgage but seller says loan closed - no NOC / discharge deed from bank. SARFAESI auction still possible.
+* Private moneylender lien - won't show in EC.
+* Property tax arrears + 10 years interest.
+* Seller took advance from 5 people, gave General Agreement to Sell. All have cheques. You are 6th.
+* TDS issue: If seller is NRI, buyer must deduct 20%+ TDS or buyer gets notice.
+* Capital gains tax notice to seller may result in attachment later.
+* Stamp undervaluation: Sub-registrar guideline value higher than sale value, you get notice.
+
+### 7. Regulatory & Future Value Risk
+
+* **Land Acquisition Notification:** KIADB, BDA, NHAI, BMRDA issued Sec 28(1) or preliminary notification. Seller hides paper. Devanahalli / Airport / STRR / PRR areas are full of this.
+* **Lis Pendens:** Suit pending under Sec 52 Transfer of Property Act. Any sale during suit is subject to court result. Check court records, not just EC.
+* **Master Plan reservation:** Land reserved for park, open space, civic amenity in CDP - can't build.
+* **CRZ / Forest / ESA:** Near coast or Western Ghats / Elephant corridor.
+* **Layout developer mortgaged entire layout:** Builder took loan on parent survey number. Bank can auction your plot.
+* **Social risk:** Local leader demands 5% for construction, panchayat demands bribe for Khata transfer / E-swathu, caste politics - outsiders not allowed to build.
+
 
 ## Safer purchase
 - Pick good sellers
   - Best is to purchase from a trustworthy, known person.
   - A land aggregator or farm house seller would often have sorted out legal issues before resale.
 - Do thorough due diligence with AI and 2 lawyers (one local to the land, who would know local zoning and other issues.)
+- Advertise intention to purchase in a local newspaper and invite objections.
 - Gather and check all documents
   - family tree of the seller and past sellers.
   - 30 years encumberance certificate.
+
+### KARNATAKA LAND PURCHASE CHECKLIST - 2026
+
+#### PHASE 1: Seller is real and can sell
+- [ ] **Identity:** Aadhaar biometric verification of seller, match photo with original sale deed. No photocopies.
+- [ ] **All owners present:** If RTC shows 3 names, all 3 must sign. Married daughter after 2005 has equal share in ancestral property - get her NOC / signature.
+- [ ] **HUF / Ancestral check:** Is it HUF property? Need consent of all coparceners + Karta declaration. Was it partitioned? Ask for registered Partition Deed.
+- [ ] **Minor / Insolvent:** Any minor share? Needs District Court permission. Any Insolvency / ED / IT attachment?
+- [ ] **GPA / JDA fraud:** Seller showing only GPA, Agreement to Sell + Will? After *Suraj Lamps 2011* this is NOT title. Original owner must execute sale deed. Any JDA with builder? Get builder NOC.
+
+#### PHASE 2: Title Chain - The paper trail
+Pull from: **Bhoomi - landrecords.karnataka.gov.in + Kaveri Online - kaverionline.karnataka.gov.in**
+
+- [ ] **RTC / Pahani - current year:** Owner name, extent, classification, irrigation source. Check Column 9, 12 - any tenant entry?
+- [ ] **Mutation Register:** Full 30-year succession chain. Any gap = title break.
+- [ ] **Akarband, Tippan, Atlas, Village Map:** Match survey number shape and extent. Check for `kere, kunte, halla, gomala, gowchar, kharab, amrit mahal kaval` - all sarkari.
+- [ ] **Hissa / Phodi / 11E Sketch:** If survey no is 25/P3, phodi must be done. No 11E = sub-division not recognized.
+- [ ] **EC - 30 years from SRO:** Not 15 years. Check for mortgages, sale, gift, court attachment, lease.
+- [ ] **Mother Deed chain:** Every sale deed from 1990 to now. Notary agreement = reject.
+
+**Instant Reject:** Manual RTC vs Bhoomi RTC mismatch, extent mismatch >2%, "PTCL" endorsement, Inam / Jamma / Bane / Kumki.
+
+#### PHASE 3: Sec 79A/B/80/80A + PTCL - The Karnataka special
+
+- [ ] **If purchase was between 1974-2020:** If any seller in chain was non-agriculturist, was Tahsildar endorsement + DC permission under old Sec 80 taken? If not, bank will flag even though 13,814 cases were abated in 2020.
+- [ ] **Post-2020:** You can buy even as IT professional. No farmer certificate needed. This part is OK.
+- [ ] **Sec 80 Current Restriction 1 - Class-A irrigated:** Check irrigation source in Akarband. If dam canal irrigation, you CANNOT get DC conversion. You can farm only.
+- [ ] **Sec 80-A + PTCL Act 1978 - SC/ST Grant:** Check Grant Order / Saguvali Chit. Is land granted to SC/ST?
+  - If YES and grant period is still under prohibition (usually 15-25 yrs) - sale needs Govt permission. Without it, sale is void and govt takes land back from YOU.
+  - Self-acquired SC/ST land can be sold, but still safer to get declaration.
+- [ ] **Ceiling - Sec 63:** Are you + family holding >20 units? 1 unit = 1 acre best land or ~5.4 acres dry land. Most buyers won't cross, but if your family already has 100 acres, you will.
+- [ ] **Sec 95 KLR Act:** Buying != Building. Still need DC Conversion for any non-agri use.
+
+#### PHASE 4: Conversion, Zoning, Approval
+
+- [ ] **DC Conversion Order:** Under Sec 95 KLR Act. Original order + conversion fee receipt + betterment charges.
+- [ ] **Master Plan / CDP:** Check BDA / BMRDA / BIAPPA CDP map. Is a CDP road cutting your plot? Is land reserved for park / CA / open space?
+- [ ] **Layout Approval:** BDA / BMRDA / DTCP approved? Release deed done? Panchayat approved only = revenue layout.
+- [ ] **Khata:** BBMP: A Khata / E-Khata. Panchayat: Form 9 & 11A is good, Form 11B = B Khata - not legal building plan. E-Swathu / e-Aasthi verification.
+- [ ] **RERA:** If plotted layout >500 sqm or >8 plots, must be RERA registered.
+- [ ] **Lake / Raja Kaluve buffer:** NGT Rule: 75m for lake >5ha, 50m for smaller, 30m for Rajakaluve. Get CDP map + Nala / lake map from Survey dept. Devanahalli lake beds fill up after 3 years of good rain.
+- [ ] **HT Line / NHAI / Airport:** HT corridor 15-35m no build, NHAI 75m setback, BIAL height restriction.
+
+#### PHASE 5: Physical - Go to site at 11am, not 6am
+
+- [ ] **Flood:** Low-lying? Dried lake bed? Ask 2 old farmers, check village map for kunte. Check for black cotton soil - needs piling.
+- [ ] **Access:** Road in RTC? Is it Kharab road or govt road? Landlocked = you depend on neighbor mercy. Measure road width - need min 3.5m for car, 7m for BBMP plan approval. Will YOU have to give access to interior land?
+- [ ] **Fork / Commercial:** Fork in road = less traffic. Check future road widening notice.
+- [ ] **Undulation / Rocks:** Cutting / filling cost. Hard rock = 3x foundation cost.
+- [ ] **Utilities:** BESCOM line nearby? Borewell water level? Fluoride? BWSSB / Cauvery connection?
+- [ ] **Surroundings:** Poultry, quarry blasting, STP, dump yard within 500m = permanent 20% discount.
+
+#### PHASE 6: Financial, Dues, Litigation
+
+- [ ] **Bank NOC:** If EC shows mortgage, get original discharge deed + bank NOC.
+- [ ] **Private lien:** Ask village accountant if any private mortgage.
+- [ ] **Tax dues:** Property tax + Gram Panchayat tax receipts last 5 years.
+- [ ] **Acquisition notice:** Check BDA / KIADB / NHAI Gazette - Sec 28(1), 28(4) notification? Sellers in Devanahalli often hide KIADB notice. Ask Tahsildar.
+- [ ] **Litigation:** Check City Civil Court + High Court eCourts for survey number. Any Lis Pendens under Sec 52 TP Act? Any injunction / stay? Any partition suit by married daughter?
+- [ ] **Double sale:** Has seller taken advance from others? Search EC by seller name, not just survey no.
+
+#### PHASE 7: Possession & Local
+
+- [ ] **Who is cultivating now?** If tenant cultivating, he can claim occupancy under Land Reforms Act.
+- [ ] **Squatters:** Any huts? Slum declared? Eviction takes 10+ years civil suit.
+- [ ] **Boundary fixed:** Haddu Bast done? Fence matches Tippan?
+- [ ] **Local goonda / Panchayat mamool:** Ask 2 neighbors - does local leader demand money for construction?
+
+#### PHASE 8: Before you pay
+
+1.  Get two independent legal opinions - one local lawyer who knows that hobli.
+2.  Pay only via cheque/RTGS to seller name matching RTC, not to GPA holder.
+3.   TDS: If land is rural agricultural [check 8km/6km/2km rule] - no 194-IA TDS. If urban agricultural or DC converted site and consideration >=50L - deduct 1% via Form 26QB. If seller is NRI - get Form 13 LDC, deduct under Sec 195 via Form 27Q. Carry Bhoomi RTC + municipality distance certificate to SRO if claiming rural exemption, because SROs often ask for 26QB anyway.
+4.  Register at SRO with originals, get E-Khata transfer immediately.
+
+If you want, send me your survey number + hobli, I can give you the exact portal links and what to type in Bhoomi for that number.
+
+
+Here is AP version - very different from Karnataka. In AP the killer is **22A + Assigned Land**, not 79A/B.
+
+### AP LAND PURCHASE CHECKLIST - 2026
+*For CRDA / VMRDA / Tirupati / Vizag / Rural AP*
+
+#### PHASE 1: Seller can actually sell
+- [ ] **Identity:** Aadhaar biometric + original Pattadar Passbook + original Link Deeds. Match photo.
+- [ ] **All family members:** Hindu ancestral property - married daughter has equal right after 2005. All legal heirs must sign.
+- [ ] **GPA / Agreement sale:** GPA is NOT ownership in AP. Only registered Sale Deed is title. Sada Bainama / unregistered agreement on white paper = zero title.
+
+#### PHASE 2: Title Docs - Pull from Meebhoomi
+Portals: **meebhoomi.ap.gov.in + registration.ap.gov.in**
+
+- [ ] **1B / ROR:** Who is recorded owner as per Revenue.
+- [ ] **Adangal / Pahani:** Who is in possession, crop, extent, classification - Wet / Dry / Manavari / Dotted?
+- [ ] **E-Pattadar Passbook with QR:** Scan QR on Meebhoomi. Is it original or duplicate? Does extent match 1B?
+- [ ] **FMB / Tippon / Village Map:** Get from Survey Dept. Does ground match FMB? Any overlap?
+- [ ] **Link Documents - 30 years:** Mother deed -> mother deed chain. No break.
+- [ ] **EC - 30 years:** From SRO. From 1983 digital, before 1983 manual at SRO. Check for mortgage, gift, settlement, court attachment.
+
+**Instant Reject in AP:** Adangal shows `DKT, Assigned, Dotted, Poramboke, Anadheenam, Endowment, Wakf, Inam`
+
+#### PHASE 3: AP Special - Assigned Land + 22A List - This is your Sec 80
+
+This is the biggest fraud in AP.
+
+- [ ] **Assigned Land [DKT Patta]:** Under AP Assigned Lands [Prohibition of Transfer] Act 1977. Land assigned to SC/ST/BC/Ex-servicemen/poor with DKT patta is **non-transferable**. Sale is void. Government will take it back even from you. Check Adangal - if `DKT Patta` or `Assigned` or `PT Act` - walk away unless Collector issued NOC for transfer [very rare, only after 20 years and only to another SC/ST in some cases].
+- [ ] **22A Prohibited List:** Under Sec 22A of Registration Act, Collector sends list of properties that Sub-Registrar CANNOT register to SRO. Includes: Assigned lands, Ceiling surplus, Endowment lands, Wakf lands, Bhoodan, Govt lands, dotted lands.
+  **Action:** Go to SRO and ask to check 22A list for your survey no BEFORE paying advance. If survey no is in 22A, registration will be refused.
+- [ ] **Dotted Lands:** AP special problem. In Adangal, survey no with dot `.` before it means dispute between govt and private. Needs Collector clearance + Joint Collector NOC. Without it, no registration. Common in Guntur, Krishna, Godavari.
+- [ ] **Inam / Endowment / Wakf:** Inam Abolition Act lands, Temple Endowment Dept lands, Wakf Board lands - all in 22A. RTC may show private name but endowment dept has claim.
+- [ ] **Land Ceiling Surplus:** Check if land declared surplus under AP Land Reforms Act.[Ceiling]
+
+#### PHASE 4: Conversion & Layout Approval - NALA + DTCP/CRDA
+
+Karnataka has DC Conversion, AP has NALA.
+
+- [ ] **NALA Conversion:** Under AP Agricultural Land [Conversion for Non-Agricultural Purposes] Act 2006, you MUST convert agri land to non-agri. NALA order + NALA tax paid receipt [3% to 9% of market value depending on use]. Without NALA, you cannot get building plan approval. RTC agri land + house = illegal.
+- [ ] **Master Plan:** Check CRDA / VMRDA / DTCP / UDA Master Plan. Is a 100ft/80ft master plan road cutting your plot? Is land in Green / Buffer / Water body zone?
+- [ ] **Layout Approval:** DTCP / CRDA / VMRDA / ULB approved layout with **LP No** via APDPMS portal. Check proceedings. Panchayat layout without DTCP = revenue layout = no building plan.
+- [ ] **RERA AP:** Check ap-rera.in - Layout >500 sqm or >8 plots must be RERA registered.
+- [ ] **LRS:** Was plot under AP LRS 2020? LRS receipt + regularized proceedings?
+- [ ] **Irrigation / Canal buffer:** In delta areas, no construction within 30m of irrigation canal / drain without Irrigation Dept NOC.
+
+#### PHASE 5: Physical Site - Same as Karnataka but AP specific
+
+- [ ] **Flood:** Krishna / Godavari delta low-lying fields fill for years. Check FMB for `kaluvu, vagu, cheruvu poramboke`.
+- [ ] **Black Cotton Soil:** Guntur / Prakasam belt - expansive soil, needs deep foundation / piling.
+- [ ] **CRZ:** Within 500m of coast - CRZ restrictions. Needs Coastal Zone NOC.
+- [ ] **HT Line / Gas Pipeline:** GAIL gas pipeline corridor in East Godavari - no build zone.
+- [ ] **Access:** Road shown in FMB? Gramakantham road or private? Landlocked = depend on neighbor.
+- [ ] **Surroundings:** Aqua culture ponds, poultry smell, quarry.
+
+#### PHASE 6: Financial & Litigation
+
+- [ ] **Bank mortgage:** Original EC shows mortgage? Get bank NOC + discharge.
+- [ ] **Court cases:** Search EC for `Lis Pendens`, check AP High Court eCourts for survey no. Partition suit?
+- [ ] **Land Grabbing:** Check if any case under AP Land Grabbing Prohibition Act.
+- [ ] **Govt Acquisition:** Check APIIC / CRDA / NH acquisition notifications. Amaravati region is full of land pooling issues.
+
+#### PHASE 7: Possession & Survey
+
+- [ ] **FMB survey:** Hire licensed surveyor, do FMB survey with chain and pegs. Does extent match passbook?
+- [ ] **Cultivator:** Who is cultivating in Adangal Column 12? If tenant / enjoyer different from owner, he may claim rights.
+- [ ] **Squatters:** Any huts / sheds? Hard to evict.
+
+#### PHASE 8: Before Payment
+
+1. **Check 3 portals:** Meebhoomi [1B+Adangal], Registration EC, DTCP LP Search / CRDA DPMS.
+2. **SRO 22A check:** Mandatory in AP. Get written endorsement that survey no is NOT in 22A.
+3. **TDS - same as Karnataka:** Rural agri land [outside municipality as per 2(14)] = No 1% TDS. Urban agri land or NALA converted site >=50L = 1% via Form 26QB. NRI seller = Sec 195 via Form 27Q.
+4. Pay only to owner name in 1B via RTGS. No cash >20k.
+
+**Key difference Karnataka vs AP:**
+Karnataka problem = PTCL + 79A/B old chain + DC Conversion.
+AP problem = Assigned DKT Land + 22A List + Dotted Land + NALA.
+
+If you give me district + survey no, I can tell you exactly which portal to check and whether it's CRDA / VMRDA / DTCP area.
 
 ## Special Transfer restrictions
 ### Purchase
