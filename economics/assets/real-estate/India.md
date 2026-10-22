@@ -50,7 +50,7 @@ Here is the expanded list - I kept your original and added the missing ones:
 * **Contamination:** Previous chemical / dyeing unit, soil contaminated.
 * **Vastu / Shape:** Triangle, Gaumukhi vs Shermukhi, road hitting at corner - affects resale in Indian market.
 
-### 4. NEW - Documentation & Title Chain
+### 4. Documentation & Title Chain
 
 * RTC / Pahani mismatch: Computerized Bhoomi RTC vs manual RTC different. Fake RTC created.
 * Mutation not done: Seller's name not in RTC even after years.
@@ -84,9 +84,10 @@ Here is the expanded list - I kept your original and added the missing ones:
 ### 7. Regulatory & Future Value Risk
 
 * **Land Acquisition Notification:** KIADB, BDA, NHAI, BMRDA issued Sec 28(1) or preliminary notification. Seller hides paper. Devanahalli / Airport / STRR / PRR areas are full of this.
+* Land may be about to be submerged under a new dam.
 * **Lis Pendens:** Suit pending under Sec 52 Transfer of Property Act. Any sale during suit is subject to court result. Check court records, not just EC.
 * **Master Plan reservation:** Land reserved for park, open space, civic amenity in CDP - can't build.
-* **CRZ / Forest / ESA:** Near coast or Western Ghats / Elephant corridor.
+* **CRZ / Forest / ESA:** Near coast or Western Ghats / Elephant corridor. Old agricultural land within it - cant construct within it or expand agriculture.
 * **Layout developer mortgaged entire layout:** Builder took loan on parent survey number. Bank can auction your plot.
 * **Social risk:** Local leader demands 5% for construction, panchayat demands bribe for Khata transfer / E-swathu, caste politics - outsiders not allowed to build.
 
@@ -256,6 +257,110 @@ Karnataka problem = PTCL + 79A/B old chain + DC Conversion.
 AP problem = Assigned DKT Land + 22A List + Dotted Land + NALA.
 
 If you give me district + survey no, I can tell you exactly which portal to check and whether it's CRDA / VMRDA / DTCP area.
+
+## State ranking
+Least due diligence = fewest hidden traps, fully online records, no Assigned/PTCL/Dotted/Inam/Endowment/Wakf/22A list.
+
+### RANKED BY LEAST DUE DILIGENCE BURDEN
+**1 = you can verify on laptop in 1 day, 29 = you need 3 months + tribal council + Collector NOC**
+
+#### TIER 1: LEAST BURDEN - 3 docs online, no hidden Govt list
+
+**1. Goa** - Smallest, Portuguese family records, Form I & XIV + EC online. No Assigned land, no PTCL, no 22A.
+**2. Tamil Nadu** - Patta / Chitta / A-Register / EC all online on TNREGINET. No 22A list like AP. Only check: Panchami [Depressed Class] land - similar to PTCL but much rarer.
+**3. Gujarat** - AnyROR - 7/12 + 8A + 6 online. No assigned land concept. Only check: New Tenure vs Old Tenure.
+**4. Karnataka [if you filter PTCL]** - Bhoomi is best in India: RTC, Mutation, Akarband, Tippan, Atlas, EC 30 years on Kaveri all online. Burden is ONLY PTCL/Saguvali/Gomala check. If RTC shows "Moolageni / Self-acquired" and not DKT/Grant, due diligence is 1 day.
+**5. Maharashtra [non-tribal belt]** - MahaBhulekh - 7/12, 8A, 6 online. No 22A. Only check: Tribal land, Inam Class 2, and Agriculturist proof.
+**6. Punjab / 7. Haryana** - Jamabandi / Fard + Mutation + EC online. No assigned, no PTCL. Very clean. Only check: Shamlat / Jumla land.[Ferfar][Adivasi]
+
+#### TIER 2: MODERATE BURDEN - 1 extra hidden list to check
+
+**8. Kerala** - ReLIS / E-Rekha, but building rules + Wetland Act adds check.
+**9. Madhya Pradesh / 10. Chhattisgarh / 11. Rajasthan** - Bhu-Naksha + Khasra online, but records are still manually mutated in many tehsils. No 22A, so medium.
+**12. Telangana** - Dharani portal is clean, BUT same as AP: Assigned DKT, Laoni, Bhoodan, Wakf, Endowment, Ceiling all under Sec 22A. You MUST check 22A list at SRO. Dotted land concept exists. So burden jumps.
+**13. Andhra Pradesh** - Meebhoomi is good, but HIGHEST burden in South: 22A list + Dotted Lands [dot before survey no = dispute] + DKT Assigned + Inam + Endowment + Wakf + Bhoodan + Anadheenam. You can legally buy, but you need 5 departments clearance.
+
+#### TIER 3: HIGH BURDEN - Manual records + tenancy + permission
+
+**14. Odisha / 15. Chhattisgarh interior / 16. UP / 17. Bihar / 18. West Bengal / 19. Jharkhand**
+No proper digitization before 2015, Khatian / Khatiyan mismatch, Bargadar / Adhivasi tenancy, CNT/SPT tribal check in Jharkhand, Chakaubandi not done. EC is manual. Need physical survey + village accountant.
+
+**20. Uttarakhand** - 250 sqm outsider limit means you need Collector permission file check + 148 + Khatauni + Khesra.
+**21. Himachal Pradesh** - Sec 118 permission file + Tatima + Jamabandi. Govt discretion = you need to verify permission authenticity, which is not online.
+**22. Assam** - Tribal Belt / Block check, plus non-digitized Chitha.
+
+#### TIER 4: VERY HIGH BURDEN - Community ownership, no individual title
+
+**23. J&K / Ladakh / 24. Sikkim / 25. Tripura / 26. Manipur / 27. Meghalaya / 28. Mizoram / 29. Nagaland / 30. Arunachal**
+No individual RTC in hill areas. Land belongs to clan / village council. Sixth Schedule / Art 371A/371G/371H. No EC, no FMB. Need NOC from Village Headman, District Council, ILP, and even then sale to non-tribal is void. Due diligence is impossible on portal.
+
+### Key takeaway:
+
+> **Legally Easiest!= Due Diligence Easiest.**
+
+* **TN, Goa, Karnataka [non-grant] are legally easy AND due diligence easy.** You check 3 portals and you are 90% safe.
+* **AP / Telangana are legally easy but due diligence HARDEST in South** because of 22A + Dotted + DKT. You can buy, but you must check SRO 22A list, Collector dotted clearance, Inam abolition, Endowment NOC, Wakf NOC. That's 5 extra visits.
+* **Karnataka's burden is 1 extra check:** Is RTC showing `Grant / Saguvali / DKT / PTCL / Amrit Mahal Kaval / Gomal`? If NO, it's clean. If YES, reject.
+* **Bihar/UP burden is not legal but practical:** Records not online, double registration common, need to sit in Tehsil for 2 days.
+
+If you want least headache for rural agri investment:
+
+**Buy:** TN > Goa > MH/GJ [non-tribal, Old Tenure] > KA [self-acquired, non-PTCL] > PB/HR
+
+**Avoid if you hate paperwork:** AP/Telangana [dotted/assigned], HP/UK [118/129 permission], Entire Northeast hill.
+
+### Purchase legality
+For a first-time non-agriculturist Indian buyer, this is the real hierarchy - not what is written in law, but how it works on ground in 2026:
+
+#### TIER 1: EASIEST - Anyone can buy, no agriculturist tag needed
+**No permission, no income limit, no domicile**
+
+**1. Tamil Nadu** - The gold standard. No agriculturist definition at all. Buy and get Patta transfer in TNPATTA portal.
+**2. Telangana** - Same as AP, no bar. Dharani / Meebhoomi is clean. Only check 22A / Assigned land.
+**3. Andhra Pradesh** - No bar, but 22A + Dotted Land + DKT Assigned land adds 1 extra check at SRO.
+**4. Karnataka - POST 2020** - Before 2020 it was Tier 4. After repeal of 79A/B/C, anyone can buy. Still has Sec 63 ceiling [20 units] and Sec 80 Class-A dam-irrigated land + Sec 80A PTCL block.
+**5. Madhya Pradesh, 6. Chhattisgarh, 7. Uttar Pradesh, 8. Bihar, 9. Rajasthan, 10. Odisha, 11. West Bengal** - No agriculturist requirement anywhere. Only ceiling act and tenancy [Bargadar in WB] check. Records are messier than South, but legally easiest.
+
+#### TIER 2: EASY WITH PAPERWORK
+
+**12. Punjab, 13. Haryana, 14. Kerala, 15. Goa**
+No agriculturist bar for Indian citizen, but conversion / building rules are stricter and ceiling is enforced more.
+
+#### TIER 3: MODERATE - You need to BECOME an agriculturist first
+
+**16. Maharashtra** - Bombay Tenancy Act Sec 63: Buyer must be agriculturist. But anyone who owns agri land in ANY state becomes agriculturist in Maharashtra. Trick everyone uses: Buy 5 guntas in Karnataka/TN first, get 7/12, then buy in Maharashtra. Company buying was barred earlier, now allowed.
+
+**17. Gujarat** - Same as Maharashtra - Sec 2(6) Gujarat Tenancy Act. Need agriculturist certificate. Obtainable if your family was agriculturist or you own agri land elsewhere. Takes 15-30 days.
+
+**18. Jharkhand** - No agriculturist bar, but CNT Act Sec 46 + SPT Act - Tribal land cannot be sold to non-tribal. 40% of state is CNT/SPT.[Mundari][Santhal]
+
+**19. Assam** - No agriculturist bar, but tribal belts / blocks - non-tribal cannot buy.
+
+#### TIER 4: DIFFICULT - Permission / Area limit for outsiders
+
+**20. Uttarakhand** - Sec 129: Outsider [non-Uttarakhand resident] can buy only 250 sqm of land outside municipal limits without permission. For 1 acre farm you need Collector permission.
+
+**21. Jammu & Kashmir + Ladakh [UT]** - After Art 370 abrogation in 2019, outsider CAN buy, but agri land to non-agriculturist needs DM permission + conversion under Agrarian Reforms Act. Still very discretionary.
+
+**22. Himachal Pradesh** - Sec 118 of HP Tenancy Act: If you are non-agriculturist Himachali or non-Himachali, you need State Govt permission under Sec 118 to buy ANY agri land. Permission is rarely given for >4-5 bigha and takes 6-12 months. Hardest among big states.
+
+#### TIER 5: VERY DIFFICULT - Tribal / Domicile protected - Art 371
+
+For you as a Bangalorean, you are treated as foreigner.
+
+**23. Tripura** - Tribal areas protected.
+**24. Sikkim** - Only Sikkim Subject / COI holder can buy. Old laws, no new COI issued after 1975. Non-Sikkimese cannot buy rural agri land at all.
+**25. Manipur** - Valley you can buy, Hill areas [90% of state] - only tribal can buy.
+**26. Meghalaya, 27. Mizoram, 28. Nagaland, 29. Arunachal Pradesh** - Sixth Schedule + Art 371A, 371G, 371H. Non-tribal / non-APST cannot buy, need Inner Line Permit to even enter. Land belongs to community, not individual.[Nagaland][Mizoram][Arunachal]
+
+##### So practical ranking if you are a non-agriculturist from Bangalore wanting 1 acre:
+
+> **Buy first in:** TN > Telangana/AP > Karnataka > MP/UP/Rajasthan > Punjab/Haryana > Maharashtra/Gujarat [buy elsewhere first to become agriculturist] > Uttarakhand/Himachal [need permission] > Never in Northeast hill states without tribal partner.
+
+**Two footnotes:**
+
+1. **Ceiling is everywhere** - All states have ceiling 54-216 acres depending on land class, but it's only enforced if you aggregate huge land. For 1-5 acres, no issue.
+2. **Purchase!= Construction** - Easiest to *buy* does not mean easiest to *build*. Karnataka purchase is easy now, but DC Conversion [Sec 95] costs 30-80L/acre near Bangalore. TN DTCP conversion is cheaper. HP permission to build is even harder than permission to buy.
 
 ## Special Transfer restrictions
 ### Purchase

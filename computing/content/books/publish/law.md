@@ -15,6 +15,8 @@ title: Law- copyright etc..
 - The owner of copyright holds rights to _all_ derived works, including translations and expressions in other media. Simply typing some text in, irrespective of the thought that went into devising the tranliteration, would not qualify as adequate for copyrighting.
 - Once a text passes into public domain, simply expressing it a new medium cannot make it copyrightable, except for new _creative_ work that goes into it: You can copyright a new tune to a song in public domain, but you cannot copyright the songs in an electronic version of `Mother Goose Rhymes', simply because you took the trouble to type them in. [You can copyright the compilation qua compilation, but not the individual songs.]
 
+If someone has only scanned and reprinted an out of copyright text, they have no authority to prevent copies of that text.  
+(More broadly, even if one types rAmAyaNa afresh [without editing], one cannot claim any copyright on the text itself - just maybe the layout.)
 
 ### Publishing rights
 If reproduction is explicitly barred, there will be a note stating something like "All rights reserved". If it is explicitly allowed, there will be some reference to a license like cc-by-nc .
@@ -29,6 +31,10 @@ If reproduction is explicitly barred, there will be a note stating something lik
 
 ### Validity
 - In most countries, copyright expires no later than 70 years after the death of the author (p.m.a.). There may be special terms for recently published old material.
+
+## Author's intent
+Beyond legalities, the (well-off) sanskrit / hindu author's intent was to transmit his knowledge, and books (often with the publisher insisting on copyright) were only a means to that end (oft the only ones available at that time). So, as long as the author's intent is being met, and as long as it is legal, one need not heed the conflicting interests of the (re)publishers.
+
 
 ## India
 - Wiki reference [here](https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory#India).
