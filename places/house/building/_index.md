@@ -1,5 +1,5 @@
 +++
-title = "Building"
+title = "+Building"
 +++
 
 ## Longevity of elements
