@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Agents on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/programming/dev_tools/AI/agents/</link>
+    <description>Recent content in &#43;Agents on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/programming/dev_tools/AI/agents/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reviewer</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/dev_tools/AI/agents/opencode/reviewer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/dev_tools/AI/agents/opencode/reviewer/</guid>
+      <description>&lt;p&gt;Review the current changes. List findings in severity order with file and line references.&lt;/p&gt;&#xA;&lt;p&gt;Rules -&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Functions should not be too big - Severity increases every 100 lines. Split into smaller functions.&lt;/li&gt;&#xA;&lt;li&gt;Modules should not be too big - Severity increases every 10 functions. Convert into package with multiple modules.&lt;/li&gt;&#xA;&lt;li&gt;Any significantly large data should be externalized into TOML files and such.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

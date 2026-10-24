@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Applications on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/applications/</link>
+    <description>Recent content in &#43;Applications on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/applications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Document classification and clustering</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/applications/document_clustering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/applications/document_clustering/</guid>
+      <description>&lt;p&gt;Aka text mining. Corpus of documents. Usually position of document in corpus ignored in modeling, just like bag of words assumption.&lt;/p&gt;&#xA;&lt;h2 id=&#34;feature-extraction&#34;&gt;Feature extraction&lt;/h2&gt;&#xA;&lt;p&gt;Document is a string of words; but want a simpler representation.&lt;/p&gt;&#xA;&lt;p&gt;Maybe just the set of words which appear is most important: use word-counts. Maybe number of occurances is also important.&lt;/p&gt;&#xA;&lt;h4 id=&#34;burstiness&#34;&gt;Burstiness&lt;/h4&gt;&#xA;&lt;p&gt;First time a word appears, it is very informative; but its second occurance is much less surprising/ informative. Rarer the word, the more this is true.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/applications/search_results/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/applications/search_results/</guid>
+      <description>&lt;h2 id=&#34;ranking-search-query-results&#34;&gt;Ranking search query results&lt;/h2&gt;&#xA;&lt;p&gt;Queries \(q \in Q\): bag of words, Set of documents D: a seq of words. For query \(q_{i}\), retrieved relevant documents \(D_{i} \subseteq D\); Got full or partial orderings \(L_{i}\). Let \(Q = \set{q_{i}}\). Maybe want to complete Q vs D relevence level matrix. Or, given docs D&amp;rsquo; relevant for unseen query q, want to rank D&#39;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;feature-extraction&#34;&gt;Feature extraction&lt;/h3&gt;&#xA;&lt;p&gt;\(\ftr: Q \times D \to X \in R^{D}\); D is usually \(\approx 10\). \(\ftr_{i}(q,d)\) could be TF/IDF, common word count etc.. Let \(f:X \to R\) be scoring function; it induces a relevance order \(\set{z_{i}}\) on D for every query \(q_{i}\); let \(F = \set{f}\).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Spoken dialog systems</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/applications/spoken_dialog_systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/applications/spoken_dialog_systems/</guid>
+      <description>&lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;&#xA;&lt;p&gt;The problem is for the user to communicate a task to a machine through a verbal dialog. A dialog consists of several &amp;rsquo;turns&amp;rsquo;, with the user and the machine speaking alternately within each turn.&lt;/p&gt;&#xA;&lt;p&gt;Since the machine&amp;rsquo;s &amp;lsquo;belief&amp;rsquo; (aka dialog state) about the user&amp;rsquo;s task changes as the dialog proceeds, this problem is also called belief-tracking.&lt;/p&gt;&#xA;&lt;h3 id=&#34;examples&#34;&gt;Examples&lt;/h3&gt;&#xA;&lt;p&gt;Voice mail system. Bus route information system. Route system.&lt;/p&gt;&#xA;&lt;h3 id=&#34;domain-ontology&#34;&gt;Domain ontology&lt;/h3&gt;&#xA;&lt;p&gt;The set of concepts the interaction involves is often limited. For example, in the voice-mail system, the concepts may be limited to Name, Message, Action (having values &amp;lsquo;record message&amp;rsquo;, &amp;lsquo;save message&amp;rsquo;, &amp;lsquo;delete message&amp;rsquo;). This naturally limits the language internally used by the machine, though to interact with the user a richer language may be used.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Web portal related</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/applications/web_portal_related/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/applications/web_portal_related/</guid>
+      <description>&lt;h2 id=&#34;pick-content&#34;&gt;Pick content&lt;/h2&gt;&#xA;&lt;p&gt;Match content with user intent.&lt;/p&gt;&#xA;&lt;p&gt;Long term objective: Maximize user experience. Short term, meterable, objective: Maximize click-through rates (CTR) subject to constraints (Eg: don&amp;rsquo;t show porn).&lt;/p&gt;&#xA;&lt;h2 id=&#34;pick-content-layout&#34;&gt;Pick content-layout&lt;/h2&gt;&#xA;&lt;h2 id=&#34;maximize-ad-revenue&#34;&gt;Maximize ad revenue&lt;/h2&gt;&#xA;&lt;h3 id=&#34;match-advertisements-with-content&#34;&gt;Match advertisements with content&lt;/h3&gt;&#xA;&lt;p&gt;\tbc&lt;/p&gt;&#xA;&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;&#xA;&lt;p&gt;Inventory often expires: Eg: news articles; cause: user fatigue.&lt;/p&gt;&#xA;&lt;p&gt;Data is huge.&lt;/p&gt;&#xA;&lt;h3 id=&#34;user-responses&#34;&gt;User responses&lt;/h3&gt;&#xA;&lt;p&gt;Responses are multivariate: click rates, ratings etc.. Negative responses very noisy.&lt;/p&gt;&#xA;&lt;h2 id=&#34;online-experimentation&#34;&gt;Online experimentation&lt;/h2&gt;&#xA;&lt;p&gt;Comparing models tough without experiments.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

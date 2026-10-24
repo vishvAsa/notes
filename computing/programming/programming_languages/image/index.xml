@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Image on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/image/</link>
+    <description>Recent content in &#43;Image on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/image/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gimp</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/image/gimp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/image/gimp/</guid>
+      <description>&lt;h2 id=&#34;ref&#34;&gt;Ref&lt;/h2&gt;&#xA;&lt;div class=&#34;spreadsheet&#34; src=&#34;../gimp.toml&#34; fullHeightWithRowsPerScreen=8&gt; &lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

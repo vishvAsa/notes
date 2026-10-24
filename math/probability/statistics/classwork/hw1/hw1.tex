@@ -1,0 +1,159 @@
+\documentclass{article}
+\input{../../packagesMemoir}
+\input{../../macros}
+
+
+%opening
+\title{Data mining: Homework 1}
+\author{vishvAs vAsuki}
+
+\begin{document}
+
+\maketitle
+
+\section{1}
+\subsection{Notation}
+Given a training set $\set{(x_{i}, y_{i})_{i=1}^{N}}$. Let x be the vector of $(x_{i})$; and let y be the corresponding $(y_{i})$ vetor. Construct the $N \times 2$ matrix X = [1 x]. Take $w = (w_{0}, w_{1})$.
+
+Below, we use the symbols $\bar{x}, \bar{y}, \stddev_{xy}, \stddev_{xx}$ as defined in the question.
+
+\subsection{a}
+Now, we want to solve the least squares problem: $Xw \approx y$.
+
+Forming the normal equations, we get:
+\begin{eqnarray*}
+X^{T}Xw &=& X^{T}y\\
+\mat{N & \sum x_{i}\\ \sum x_{i} & x^{T}x}w &=& \mat{\sum y_{i}\\ x^{T}y}\\
+\mat{1 & \bar{x}\\ \bar{x} & \sum x_{i}^{2}/N}w &=& \mat{\bar{y}\\ \sum x_{i}y_{i}/N}\\
+\mat{1 & \bar{x}\\ 0 & \sum x_{i}^{2}/N - \bar{x}^{2}}w &=& \mat{\bar{y}\\ \sum x_{i}y_{i}/N - \bar{x}\bar{y}}\\
+\end{eqnarray*}
+
+We have carried out Gaussian elimination above. Solving these equations for w, after some algebra, we find:
+\begin{eqnarray*}
+w_{1} &=& \frac{\sum x_{i}y_{i}/N - \bar{x}\bar{y}}{\sum x_{i}^{2}/N - \bar{x}^{2}}\\
+&=& \frac{N^{-1}\sum(x_{i}-\bar{x})(y_{i}-\bar{y})}{N^{-1}\sum(x_{i}-\bar{x})^{2}}\\
+&=& \frac{\stddev_{xy}}{\stddev_{xx}}\\
+w_{0} &=& \bar{y} - w_{1}\bar{x}\\
+\end{eqnarray*}
+
+\subsection{b}
+In general, if $x_{i}\in R^{d}$: If $x_{i,j}$ is the jth component of the vector $x_{i}$, and if $\bar{x_{j}} = \frac{\sum_{i=1}^{N}x_{i,j}}{N}$: $w_{0} = \bar{y} - \sum_{i=1}^{d} w_{i}\bar{x_{j}}$.
+
+\subsubsection{Proof}
+Consider the $N*(d+1)$ matrix $X = [1\ x_{i}^{T}]$, so that $X_{i,1} = 1, X_{i,j} = x_{i,j-1} \forall j>1$. Then, forming the normal equations: $N^{-1}X^{T}Xw = N^{-1}X^{T}y$.
+
+Examine the first row of $N_{-1}X^{T}X$: you have $[1\ \bar{x_{1}} .. \bar{x_{d}}]$, and the first element in $N^{-1}X^{T}y$ is $\bar{y}$.
+
+\section{2}
+The proof is invalid as $\sum_{i=0}^{\infty} \gb^{i}A^{i}$ does not converge $\forall \gb \geq 0$ and multiplyication by $\infty$ is not well defined. But this will not happen if $\gb < \frac{1}{nt}$ where $\max_{i,j}|A_{i,j}| = t$.
+
+\subsection{Proof}
+Note that A, being an adjascency matrix, satisfies: $A_{i,j} \geq 0$.
+
+Then take $a = \gb nt$. The series $\sum_{i=0}^{\infty}a^{i}$ is a geometric series which converges to $\frac{1}{1-a}$.
+
+Now consider a matrix $T \in R^{n \times n}: T_{i,j} = t$. Now, $\sum_{i=0}^{\infty} T^{i}$ converges as $T^{i}_{j,k} = a^{i-1} \forall i>2$.
+
+Now, $A_{i,j} \leq T_{i,j} = t$. So, the series corresponding to the (i,j)th element of the matrix sum:  $\sum_{k} \gb^{k} A^{k}_{i,j}$ is bounded, and this series is non-decreasing. Hence, the series, being non-decreasing and bounded, is convergent.
+
+\section{3}
+The code used:
+\begin{verbatim} 
+load dataset1 
+Xtrain = [ones(30,1) Xtrain]
+Xtest = [ones(120,1) Xtest]
+
+A = Xtrain'*Xtrain
+b = Xtrain'*Ytrain
+
+w = A\b
+sqError = (Ytrain - Xtrain*w)'*(Ytrain - Xtrain*w)
+sqrt(sqError/30)
+sqError = (Ytest - Xtest*w)'*(Ytest - Xtest*w)
+sqrt(sqError/120)
+
+[U S V] = svd(Xtrain)
+
+
+w = V*inv(S'*S)*V'*Xtrain'*Ytrain
+sqError = (Ytrain - Xtrain*w)'*(Ytrain - Xtrain*w)
+sqrt(sqError/30)
+sqError = (Ytest - Xtest*w)'*(Ytest - Xtest*w)
+sqrt(sqError/120)
+
+load dataset2
+Xtrain = [ones(30,1) Xtrain]
+Xtest = [ones(120,1) Xtest]
+
+A = Xtrain'*Xtrain
+b = Xtrain'*Ytrain
+
+w = A\b
+sqError = (Ytrain - Xtrain*w)'*(Ytrain - Xtrain*w)
+sqrt(sqError/30)
+sqError = (Ytest - Xtest*w)'*(Ytest - Xtest*w)
+sqrt(sqError/120)
+
+[U S V] = svd(Xtrain)
+T=(S(1:4, 1:4)*S(1:4, 1:4))
+b = inv(T)*V(:,1:4)'*Xtrain'*Ytrain
+
+w = V(:,1:4)'\b
+sqError = (Ytrain - Xtrain*w)'*(Ytrain - Xtrain*w)
+sqrt(sqError/30)
+sqError = (Ytest - Xtest*w)'*(Ytest - Xtest*w)
+sqrt(sqError/120)
+\end{verbatim}
+
+\subsection{a}
+RMS Error by solving Normal equations: Training error: 0.1566. Test error: 0.1726.
+
+RMS Error using SVD: Training error: 0.1566. Test error: 0.1726.
+
+\subsection{b}
+RMS Error by solving Normal equations: Training error: 0.1576. Test error: 0.1822.
+
+RMS Error using SVD: Training error: 0.1566. Test error: 0.1726.
+
+Please see the attached code to see how I use the SVD: I drop the columns of V corresponding to $\sw_{i} \approx 0$.
+
+Using SVD, as expected, yields more accurate results than using LU.
+
+The second data-set contains no extra information compared to the first data-set. So, SVD's performance on the two datasets is identical.
+
+\section{4}
+\subsection{Notation}
+$x = (x_{1}, x_{2}, x_{3})$ represents height, weight and age of data-point x.
+
+Bob uses the units: inches, pounds, months. Alice uses the units centimeters, kilograms, days.
+
+\subsubsection{Assumption about w and the linear model}
+We assume that $w \in R^{3+1}$. w is indexed from 0 to 3. The linear model is $y \approx w_{0} + \sum_{i=1}^{3} w_{i}x_{i}$.
+
+\subsubsection{The diagonal matrix D}
+ Let $x_{A}, x_{B}$ be the observations of the same data point, as measured by Alice and Bob. Then, $x_{A}^{T} = x_{B}^{T}D' $ where D' is a diagonal matrix expressing the factors which relate the units used by Alice to the units used by Bob, like cm/in etc..
+
+Arrange the observations of various data points $\set{x}$ by Alice and Bob as rows in the matreces A and B, but ensure that the first column of both these matrices is 1. Note that $A=BD$, where $D = \mat{1 & 0\\ 0 & D'}$.
+
+\subsection{a}
+The normal equations are $A^{T}Aw = A^{T}y$ and $B^{T}Bz = B^{T}y$ for Alice and Bob. The former can be rewritten as $D^{T}B^{T}BDw = D^{T}B^{T}y$ or $B^{T}BDw = B^{T}y$. Thus, we see that $Dw = z$ or $w = D^{-1}z$.
+
+This tells us the relationship between z and w, the solutions of Bob and Alice to the least squares problem.
+
+\subsection{b}
+The regularization part of the objective in the ridge regression problem should ideally not include $w_{0}$. We assume that this is the case with the question, and that $\gl \norm{w}_{2}$ term considers only the $w_{1} .. w_{3}$  terms. For this reason, we rewrite the objective as: $\min_{w} \norm{Xw} + w^{T}I'w$, where $I' = \mat{0 & 0\\ 0 & I_{3}}$.
+
+$(A^{T}A + \gl I')w = A^{T}y$ and $(B^{T}B + \gl I')z = B^{T}y$ express the solution to the ridge regression problem. The former can be rewritten as : $(D^{T}B^{T}BD + \gl I')w = D^{T}B^{T}y$.
+
+So, $(D^{T}B^{T}BD + \gl I')w = D^{T}(B^{T}B + \gl I')z$. This tells us the relationship between z and w, the solutions of Bob and Alice to the ridge regression problem.
+
+\subsection{c}
+Suppose the label vector in the training set is changed to $\bar{y} = y + 1$. Let the modified least squares solution be w'. As we noted in the first problem's solution, $w'_{0} = \frac{\sum \bar{y_{i}}}{N} - \sum_{i=1}^{d} w_{i}\bar{x_{j}}$. $w'_{0} = 1 + \frac{\sum y_{i}}{N} - \sum_{i=1}^{d} w_{i}\bar{x_{j}} = 1 + w_{0}$.
+
+However, $\forall i>0, w_{i}' = w_{i}$. This equality does not change when ridge regression is applied, as in the regularizer, $w_{0}$ is omitted.
+
+% \bibliographystyle{plain}
+% \bibliography{../linAlg}
+
+
+\end{document}

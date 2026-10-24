@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+    <style>
+        .axis { stroke: black; stroke-width: 2; fill: none; }
+        .tick { stroke: black; stroke-width: 1.5; }
+        .label { font-family: Arial, sans-serif; font-size: 10px; font-weight: bold; fill: black; text-anchor: middle; }
+        .ylabel { font-family: Arial, sans-serif; font-size: 10px; font-weight: bold; fill: black; text-anchor: middle; writing-mode: vertical-rl; }
+        .title { font-family: Arial, sans-serif; font-size: 11px; font-weight: bold; fill: black; }
+        .legend-text { font-family: Arial, sans-serif; font-size: 9px; font-weight: bold; fill: black; }
+        .line-nation { stroke: black; stroke-width: 1.5; stroke-dasharray: 4,4; fill: none; }
+        .line-six { stroke: black; stroke-width: 1.5; fill: none; }
+    </style>
+
+    <!-- Background -->
+    <rect width="100%" height="100%" fill="white" />
+
+    <!-- Legend -->
+    <g transform="translate(260, 180)">
+        <!-- Nation-wide survey line & text -->
+        <line x1="0" y1="0" x2="35" y2="0" class="line-nation" />
+        <text x="42" y="3" class="legend-text">NATION-WIDE SURVEY</text>
+
+        <!-- Six areas line & text -->
+        <line x1="0" y1="16" x2="35" y2="16" class="line-six" />
+        <text x="42" y="19" class="legend-text">SIX AREAS</text>
+    </g>
+
+    <!-- Main Graph Group -->
+    <g transform="translate(80, 60)">
+        <!-- Y-Axis Ticks & Labels -->
+        <!-- 15% -->
+        <line x1="-5" y1="20" x2="0" y2="20" class="tick" />
+        <text x="-12" y="23" class="label" style="text-anchor: end;">15</text>
+
+        <!-- 10% -->
+        <line x1="-5" y1="120" x2="0" y2="120" class="tick" />
+        <text x="-12" y="123" class="label" style="text-anchor: end;">10</text>
+
+        <!-- 5% -->
+        <line x1="-5" y1="220" x2="0" y2="220" class="tick" />
+        <text x="-12" y="223" class="label" style="text-anchor: end;">5</text>
+
+        <!-- 0% -->
+        <line x1="-5" y1="320" x2="0" y2="320" class="tick" />
+        <text x="-12" y="323" class="label" style="text-anchor: end;">0</text>
+
+        <!-- Y-Axis Title -->
+        <text x="-45" y="170" class="ylabel">FREQUENCY OF TOTAL CONSANGUINEOUS MARRIAGES (%)</text>
+
+        <!-- Axes Lines -->
+        <line x1="0" y1="0" x2="0" y2="320" class="axis" />
+        <line x1="0" y1="320" x2="400" y2="320" class="axis" />
+
+        <!-- X-Axis Ticks & Labels -->
+        <!-- -1947 -->
+        <line x1="20" y1="320" x2="20" y2="325" class="tick" />
+        <text x="20" y="340" class="label">-1947</text>
+
+        <!-- 1947-52 -->
+        <line x1="80" y1="320" x2="80" y2="325" class="tick" />
+        <text x="80" y="340" class="label">1947-52</text>
+
+        <!-- 1952-57 -->
+        <line x1="145" y1="320" x2="145" y2="325" class="tick" />
+        <text x="145" y="340" class="label">1952-57</text>
+
+        <!-- 1957-62 -->
+        <line x1="210" y1="320" x2="210" y2="325" class="tick" />
+        <text x="210" y="340" class="label">1957-62</text>
+
+        <!-- 1962-67 -->
+        <line x1="275" y1="320" x2="275" y2="325" class="tick" />
+        <text x="275" y="340" class="label">1962-67</text>
+
+        <!-- 1967-72 -->
+        <line x1="335" y1="320" x2="335" y2="325" class="tick" />
+        <text x="335" y="340" class="label">1967-72</text>
+
+        <!-- 1972 -->
+        <line x1="390" y1="320" x2="390" y2="325" class="tick" />
+        <text x="390" y="340" class="label">1972</text>
+
+        <!-- X-Axis Title -->
+        <text x="200" y="370" class="label" style="font-size: 11px;">MARRIED YEAR</text>
+
+        <!-- Data Plots -->
+        <!-- Six Areas Line (Solid) -->
+        <polyline points="20,13 80,173 145,233 210,260 275,290 390,300" class="line-six" />
+
+        <!-- Nation-wide Survey Line (Dashed) -->
+        <polyline points="80,173 275,290 335,283" class="line-nation" />
+    </g>
+
+    <!-- Caption / Figure Title -->
+    <text x="90" y="440" class="title">Figure 4.1. Frequency of consanguineous marriages according to</text>
+    <text x="90" y="455" class="title">marriage year (Imaizumi et al., 1975; Imaizumi, 1986a).</text>
+</svg>

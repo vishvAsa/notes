@@ -1,0 +1,70 @@
+<svg width="750" height="450" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+    <title>Accuracy of Bhaskara's Approximation</title>
+    <desc>A plot comparing Bhaskara's sine approximation with the true sine function from 0 to 180 degrees. The two curves are so close they appear as one.</desc>
+
+    <!-- Background color similar to the original image -->
+    <rect width="100%" height="100%" fill="#FFF8E7" />
+
+    <!-- Main chart group with margin -->
+    <g transform="translate(60, 40)">
+
+        <!-- Axes -->
+        <g class="axes" stroke="black" stroke-width="1.5">
+            <!-- Y-Axis -->
+            <line x1="0" y1="0" x2="0" y2="320" />
+            <path d="M 0,0 L -6,-10 L 6,-10 Z" fill="black" />
+
+            <!-- X-Axis -->
+            <line x1="-10" y1="320" x2="600" y2="320" />
+            <path d="M 600,320 L 610,314 L 610,326 Z" fill="black" />
+        </g>
+
+        <!-- Labels and Ticks -->
+        <g class="labels" font-size="16px" text-anchor="middle">
+            <!-- Y-Axis Labels -->
+            <text x="-20" y="-8">y</text>
+            <text x="-25" y="75" text-anchor="end">1</text>
+            <text x="-25" y="198" text-anchor="end">1/2</text>
+            <text x="-15" y="325" text-anchor="end">0</text>
+
+            <!-- X-Axis Labels -->
+            <text x="615" y="345">θ</text>
+            <text x="0" y="340">0</text>
+            <text x="100" y="340">30</text>
+            <text x="200" y="340">60</text>
+            <text x="300" y="340">90</text>
+            <text x="400" y="340">120</text>
+            <text x="500" y="340">150</text>
+            <text x="590" y="340">180</text>
+        </g>
+
+        <!-- Tick Marks -->
+        <g class="ticks" stroke="black" stroke-width="1" font-size="16px">
+            <!-- Y-Axis Ticks -->
+            <line x1="-5" y1="70" x2="5" y2="70" />
+            <line x1="-5" y1="195" x2="5" y2="195" />
+
+            <!-- X-Axis Ticks -->
+            <path d="M 100,315 v 10 M 200,315 v 10 M 300,315 v 10 M 400,315 v 10 M 500,315 v 10 M 590,315 v 10" stroke="black"/>
+        </g>
+
+        <!-- Sine Curve Path -->
+        <!-- The path is a cubic Bézier curve that closely models the sine wave from 0 to 180 degrees. -->
+        <!-- M 0,320 (start) C (control1), (control2), 300,70 (midpoint) C (control3), (control4), 590,320 (end) -->
+        <path d="M 0,320 C 150,120 150,70 295,70 C 440,70 440,120 590,320" fill="none" stroke="darkmagenta" stroke-width="2.5"/>
+
+        <!-- Formulas Text -->
+        <g class="formulas" font-family="serif" font-size="20px">
+            <!-- y = sin(θ) -->
+            <text x="450" y="60" fill="#0000CD">y = sin(θ°)</text>
+
+            <!-- Bhaskara's Approximation Formula -->
+            <g fill="darkmagenta" transform="translate(420, 100)">
+                <text x="0" y="33">y =</text>
+                <text x="40" y="15">4θ(180 − θ)</text>
+                <line x1="35" y1="23" x2="225" y2="23" stroke="darkmagenta" stroke-width="1"/>
+                <text x="40" y="48">40500 − θ(180 − θ)</text>
+            </g>
+        </g>
+    </g>
+</svg>

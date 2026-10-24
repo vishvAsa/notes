@@ -1,0 +1,711 @@
+[[data]]
+"Operand Type" = 'concept'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''
+Easier, cleaner way for JS to interact with html - Better syntax to make JSON calls, access and modify html elements.
+(frameworks like angular even cleaner as they separate out presentation elements further - by extending html to support iteration etc..).'''
+
+[[data]]
+"Operand Type" = 'setup'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+ <script src="jquery/jquery.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'Returns a jQuery object - containing wrapped results of a query.'
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'selector function'
+Subfeature = 'concept'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'factory function $() is a synonym of jQuery() function'
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'selector function'
+Subfeature = 'by id'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+$('#some-id')
+$("#SomeElement").someFunction[.fn2().fn3()...]
+$("#SomeElement.subElement")
+$(this)'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'selector function'
+Subfeature = 'by type'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+$('p')
+$('div, p') '''
+Description = 'select element(s)'
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'selector function'
+Subfeature = 'by type + attribute'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '$("button[attrXYZ=valUVW]")'
+Description = ''
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'selector function'
+Subfeature = 'by css class'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''' $('.some-class')'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'selector function'
+Subfeature = 'multiple'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+$('p strong, .myclass')
+$('*')'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'filter'
+Subfeature = 'by position'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+$('li').first()
+$('li').last()
+$('li').eq(10)  // Get 11th element
+$('ul:first')
+'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'filter'
+Subfeature = 'use selector syntax'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+elementList.filter(agrumentStr);
+agrument is in the selector syntax:
+':first' , ".someClass"
+'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'filter'
+Subfeature = 'by function'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+$("li").filter(function (index) {
+return index == 1 || $(this).attr("class") == "middle";
+}).addClass("selected");
+'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'iterate'
+Subfeature = 'map'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+var mappedItems = $("li").map(function (index) {
+var replacement = $("<li>").text($(this).text()).get(0);
+return replacement;
+});
+$("#results").append(mappedItems);'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'iterate'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+$("#upload-form :input").each(function(index, someNonJQueryElement) { 
+... })
+$("div[data-test]").each(function() {
+  var jqueryElement = $(this);...
+});
+'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'get elements connected by DOM'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+$('li').parent()
+$(...).prev().next()
+$("#upload-form :input") // get input elements
+$(this).children()
+$('li').siblings()
+'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'get elements connected by DOM'
+Subfeature = 'find'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '$("p").find("span").addClass("selected");'
+Description = 'Can use selector syntax'
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'create'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '$("<li>")'
+Description = ''
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'create'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'var x = 1; $("button" + x).show()'
+Description = ''
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'create'
+Subfeature = 'from context'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '        var $this = $(this);'
+Description = ''
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'attribute'
+Subfeature = 'get, set'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+ var title = $("em").attr("title");
+$("#myimg").attr("src", "/jquery/images/jquery.jpg");'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'attribute'
+Subfeature = 'CSS change'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+$("#SomeElement").css({color: 'red', 'font-weight':'bold'})
+ $("em").addClass("selected");
+            $("#myid").addClass("highlight");'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'get content'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+.html()
+.text()'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'update content'
+Subfeature = 'from arg'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+$(...).html(..) // change inner html
+$("#divid").text(title);'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'update content'
+Subfeature = 'from html file'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+$('#stage').load('/jquery/result.html');
+$("#div1").load("demo_test.txt #p1"); // By element id'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'update content'
+Subfeature = 'ajax'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+$(selector).load( URL, [data], [callback] );
+$("#div1").load("demo_test.txt", function(responseTxt, statusTxt, xhr){
+        if(statusTxt == "success")
+            alert("External content loaded successfully!");
+        if(statusTxt == "error")
+            alert("Error: " + xhr.status + ": " + xhr.statusText);
+    });'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'append children'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+ $("#results").append(mappedItems);
+'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'show/ hide'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+.hide() hide(300)
+.show()'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'trigger callback'
+Subfeature = 'click'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+$( "#buttonId" ).on( "click", function( event ) { ..});
+$("#driver").click(function(event){...});'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'trigger callback'
+Subfeature = 'submit'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+$("#myform").submit(function() {
+   return false;
+});'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'other functions'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+slideUp() slideDown()
+fadeIn fadeOut fadeToggle()'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'jquery object'
+Feature = 'check / test'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''if($(this).is('.specialClass')) {...}'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'plugin'
+Feature = 'concept'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = ''
+
+[[data]]
+"Operand Type" = 'plugin'
+Feature = 'define'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+$.fn.greenify = function() {
+    this.css( "color", "green" );
+};'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'url query'
+Feature = 'setup'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+    <script src="https://raw.githubusercontent.com/alrusdi/jquery-plugin-query-object/master/jquery.query-object.js" type="text/javascript"/>
+'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'url query'
+Feature = 'get value'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+var url = location.search;
+> "?action=view&section=info&id=123&debug&testy[]=true&testy[]=false&testy[]"
+
+var section = $.query.get('section');
+> "info"
+'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'url query'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = ''
+
+[[data]]
+"Operand Type" = 'url query'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = ''
+
+[[data]]
+"Operand Type" = 'url query'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = ''
+
+[[data]]
+"Operand Type" = 'function argument'
+Feature = 'context pointer'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+$(document).ready(function() {
+   // this refers to window.document
+});
+$("div").click(function() {
+   // this refers to a div DOM element
+});
+    $("#upload-form :input").each(function() {
+        var $this = $(this);
+});
+'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'input'
+Feature = 'get or set val'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+$(someInputElement).val
+$("input").val( content );'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'document'
+Feature = 'run after document loads'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+$(document).ready(function() { ... });
+$(function() {}); // same as above'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'ajax'
+Feature = 'concept'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'Easily create a XMLHttpRequest and do an ajax call'
+
+[[data]]
+"Operand Type" = 'ajax'
+Feature = ' jQuery XMLHttpRequest (jqXHR)'
+Subfeature = 'concept'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''
+ superset of the browser's native XMLHttpRequest object
+When the transport mechanism is something other than XMLHttpRequest (for example, a script tag for a JSONP request) the jqXHR object simulates native XHR functionality where possible.'''
+
+[[data]]
+"Operand Type" = 'ajax'
+Feature = 'format'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'var jqxhr = $.ajax( url [, settings ] )'
+Description = '''
+$.ajax is shorthand for jquery.ajax
+Involves creation of a XMLHttpRequest object'''
+
+[[data]]
+"Operand Type" = 'ajax'
+Feature = 'call'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+var jqxhr = $.ajax({
+  url: "/api/getWeather",
+  data: {zipcode: 97201  }, # sent to server. optional
+  method: "POST", "GET", "PUT" (default GET)]
+});'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'ajax'
+Feature = 'call'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'var jqxhr = $.ajax( "example.php" )'
+Description = ''
+
+[[data]]
+"Operand Type" = 'ajax'
+Feature = 'xhr prototype'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+xhr: function() {
+            var xhrobj = $.ajaxSettings.xhr();
+return some xhr obj
+}'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'ajax'
+Feature = 'xhr prototype'
+Subfeature = 'just set some fields'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+$.ajax({
+   url: a_cross_domain_url,
+   xhrFields: {
+      withCredentials: true
+   }
+});'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'ajax'
+Feature = 'xhr prototype'
+Subfeature = 'set cross-domain'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+$.ajax({
+   url: a_cross_domain_url,
+   crossDomain: true,
+   xhrFields: {
+      withCredentials: true
+   }
+});'''
+Description = 'Sends session cookies even if ajax call goes to a different server wrt the server which served this script.'
+
+[[data]]
+"Operand Type" = 'ajax'
+Feature = 'response data conversion'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+$.ajax({
+    url: "http://myurl/myservice",
+    dataType: "jsonp myConversion",
+    converters: {
+        "text myConversion": function(value) {
+            console.log("pre-processing...");
+            /* do stuff */
+            return value;
+        }
+    }
+});'''
+Description = 'default datatype: Intelligent Guess (xml, json, script, or html)'
+
+[[data]]
+"Operand Type" = 'ajax'
+Feature = 'status listener'
+Subfeature = 'add in returned jqxhr obj'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+var jqxhr = $.getJSON( "example.json", function() {
+  console.log( "success" );
+})
+  .done(function() {
+    console.log( "second success" );
+  })
+  .fail(function() {
+    console.log( "error" );
+  })
+  .always(function() {
+    console.log( "complete" );
+  });'''
+Description = 'jqXHR.done(function( data, textStatus, jqXHR ) {}) etc.. same as status listeners when '
+
+[[data]]
+"Operand Type" = 'ajax'
+Feature = 'status listener'
+Subfeature = 'specify in call settings'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+  success: Function( Anything data, String textStatus, jqXHR jqXHR ) { ..  } 
+  error: Function( jqXHR jqXHR, String textStatus, String errorThrown )
+'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'ajax'
+Feature = 'status listener'
+Subfeature = 'specify in call settings'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+$.ajax({
+  statusCode: {
+    404: function() {
+      alert( "page not found" );
+    }
+  }
+});'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'ajax'
+Feature = 'set default call args'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+$.ajaxSetup({
+  url: "ping.php"
+});'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'ajax'
+Feature = 'request data'
+Subfeature = 'set json type'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+$.ajax({
+    type: 'POST',
+    data: JSON.stringify(arr),
+    contentType: 'application/json; charset=utf-8',
+});'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'ajax get'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+$.get("demo_test.asp", function(data, status){
+        alert("Data: " + data + "\nStatus: " + status);
+    });'''
+Description = ''
+
+[[data]]
+"Operand Type" = 'ajax get json'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+$.getJSON( "ajax/test.json", function( data ) {
+  var items = [];
+  $.each( data, function( key, val ) {
+    items.push( "<li id='" + key + "'>" + val + "</li>" );
+  });
+ }
+jQuery.getJSON( url [, data ] [, success ] )'''
+Description = '''
+Returns key-value pairs. Does not do JSON.parse.
+Shorthand for:
+$.ajax({
+  dataType: "json",
+  url: url,
+  data: data,
+  success: success
+});
+Note: getJSON({url: xyz}) fails.'''
+
+[[data]]
+"Operand Type" = 'ajas post'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+        $.post('/textract/v1/pages/' + pageId + '/image_annotations', {
+                data: JSON.stringify(updatedAnnotationNodes, null, 2)
+                contentType: 'application/json; charset=utf-8',
+            },
+            function (nodes) { ...
+        }, "json");
+'''
+Description = 'just a shortcut'
