@@ -1,0 +1,5 @@
++++
+title = "Chitradurga 1779"
++++
+
+Accounts of the final fall note political and military factors: prolonged siege, exhaustion of resources, failure of expected Maratha relief, and internal betrayal. Wikipedia and related histories state that Madakari was “betrayed by the Marathas and some local Muhammadan officers in his service.” More detailed secondary accounts (drawing on sources such as Lewin Bowring and later retellings) describe roughly 3,000 Muslim soldiers in Chitradurga’s army. Hyder reportedly contacted them secretly (sometimes via a Muslim fakir as intermediary). In one version, during Muharram a Muslim jemadar and followers were allowed outside the fort for ceremonies, were bribed/seduced, and joined Hyder, facilitating the capture. Madakari became aware too late; he and his family were taken prisoner to Srirangapatna (where he died), the fort fell, and large numbers of local Bedar inhabitants were deported and some forcibly incorporated into Hyder’s forces.
