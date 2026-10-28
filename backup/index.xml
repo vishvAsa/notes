@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Backup on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/backup/</link>
+    <description>Recent content in &#43;Backup on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/backup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Knowledge preservation</title>
+      <link>https://vishvAsa.github.io/notes/backup/knowledge-preservation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/backup/knowledge-preservation/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;How to best preserve our knowledge (physical and spiritual) and texts?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;See - &lt;a href=&#34;https://rebrand.ly/dg-archive&#34;&gt;https://rebrand.ly/dg-archive&lt;/a&gt; for context.&lt;/p&gt;&#xA;&lt;p&gt;Here is a survey of various inputs for archival preservation.&lt;/p&gt;&#xA;&lt;h2 id=&#34;media-and-pigments&#34;&gt;Media and pigments&lt;/h2&gt;&#xA;&lt;p&gt;Lists of oldest surviving documents - &lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_oldest_documents&#34;&gt;wiki&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Generally, the amount of energy expended in bonding the pigment to the medium is equal to the energy required in dissociating them. Eg. 1300 degrees Celsius for ceramic microfilms, UV light for UV bonded pigments etc..&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

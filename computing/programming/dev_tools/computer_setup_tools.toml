@@ -1,0 +1,153 @@
+[[data]]
+Software = 'docker'
+"Operand Type" = 'local machine'
+Feature = 'create'
+Syntax = 'docker-machine create --driver virtualbox dev'
+
+[[data]]
+Software = 'docker'
+"Operand Type" = 'local machine'
+Feature = 'delete'
+Syntax = 'docker-machine rm dev'
+
+[[data]]
+Software = 'docker'
+"Operand Type" = 'local machine'
+Feature = 'get details'
+Syntax = 'docker-machine env dev'
+
+[[data]]
+Software = 'docker'
+"Operand Type" = 'local machine'
+Feature = 'run'
+Syntax = 'sudo dockerd'
+
+[[data]]
+Software = 'docker'
+"Operand Type" = 'local machine'
+Feature = 'run'
+"Implementation Type" = 'caveat'
+Description = 'arch linux kernel mismatch after update (misleading error messages about some filesystem not being supported). just restart.'
+
+[[data]]
+Software = 'chef'
+"Implementation Type" = 'concept'
+Description = 'Automate machine/ software setup and configuration accross multiple machines, using recipes from "cookbooks".'
+
+[[data]]
+Software = 'chef'
+"Operand Type" = 'recipe'
+"Implementation Type" = 'concept'
+Description = 'Ruby program to install and setup software and files.'
+
+[[data]]
+Software = 'chef'
+"Operand Type" = 'cookbook'
+"Implementation Type" = 'concept'
+Description = 'groups recipes'
+
+[[data]]
+Software = 'chef'
+"Operand Type" = 'berks-file'
+"Implementation Type" = 'concept'
+Description = 'A way to specify cookbook dependencies to be downloaded.'
+
+[[data]]
+Software = 'chef'
+"Operand Type" = 'cookbook repository'
+"Implementation Type" = 'concept'
+Description = 'A shared repository of cookbooks used to install software on various nodes.'
+
+[[data]]
+Software = 'chef'
+"Operand Type" = 'cookbook repository'
+Feature = 'supermarket'
+Syntax = 'https://supermarket.chef.io'
+Description = 'A global repository of cookbooks.'
+
+[[data]]
+Software = 'chef'
+"Operand Type" = 'cookbook repository'
+Feature = 'setup'
+Syntax = '''
+cookbooks/
+runlists/'''
+Description = 'A git repository with certain structure'
+
+[[data]]
+Software = 'chef'
+"Operand Type" = 'cookbook'
+Feature = 'setup'
+Syntax = '''
+myCookBook
+myCookBook/recipes/xyz.rb
+myCookBook/metadata.rb
+myCookBook/Berksfile'''
+
+[[data]]
+Software = 'chef'
+"Operand Type" = 'cookbook'
+Feature = 'setup'
+Subfeature = 'metadata.rb'
+Syntax = """
+name 'vedavaapi'
+maintainer 'sanskrit-programmers'
+maintainer_email 'sanskrit-programmers@googlegroups.com'
+license ''
+description 'Installs/Configures couchdb with indexing support'
+long_description 'Installs/Configures vedavaapi'
+version '0.1.0'
+chef_version '>= 12.1' if respond_to?(:chef_version)
+depends 'couchdb'"""
+
+[[data]]
+Software = 'chef'
+"Operand Type" = 'cookbook'
+Feature = 'setup'
+Subfeature = 'Berksfile'
+Syntax = '''
+# frozen_string_literal: true
+source 'https://supermarket.chef.io'
+
+metadata'''
+
+[[data]]
+Software = 'chef'
+"Operand Type" = 'recipe'
+Feature = 'directory'
+Subfeature = 'delete'
+Syntax = '''
+directory '/var/lib/couchdb' do
+  action :delete
+  recursive true
+end'''
+
+[[data]]
+Software = 'chef'
+"Operand Type" = 'runlist'
+"Implementation Type" = 'concept'
+Description = 'A sequence of recipes to be run.'
+
+[[data]]
+Software = 'chef'
+"Operand Type" = 'runlist'
+Syntax = '''
+{
+  "run_list": [
+    "recipe[vedavaapi::couchdb]"
+  ]
+}'''
+
+[[data]]
+Software = 'chef'
+"Operand Type" = 'run'
+Feature = 'get dependencies'
+Syntax = 'cd cookbooks/vedavaapi; berks install; berks vendor berks-cookbooks; mv berks-cookbooks/* ..'
+
+[[data]]
+Software = 'chef'
+"Operand Type" = 'run'
+Feature = 'local repository'
+Subfeature = 'recipe runlist'
+Syntax = 'sudo chef-client --local-mode -j ~/vedavaapi-chef/runlists/default.json'
+

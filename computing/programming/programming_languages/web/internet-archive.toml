@@ -1,0 +1,32 @@
+[[data]]
+Language = 'internet archive'
+"Operand Type" = 'configure'
+Syntax = 'ia configure'
+
+[[data]]
+Language = 'internet archive'
+"Operand Type" = 'concept'
+Description = '''
+Based on python code.
+Slightly buggy. (IA database is separately buggy - eg: marking wrong files as "original".)'''
+
+[[data]]
+Language = 'internet archive'
+"Operand Type" = 'list + filter + delete'
+Syntax = 'ia list ITEMNAME |grep ogg|xargs -i ia delete mahAbhArata-mUla-paThanam-GP-1 {} --cascade'
+
+[[data]]
+Language = 'internet archive'
+"Operand Type" = 'delete'
+Syntax = 'ia delete ITEMNAME 001-008.mp3 001-009.mp3  --cascade -H x-archive-keep-old-version:0'
+
+[[data]]
+Language = 'internet archive'
+"Operand Type" = 'upload'
+Syntax = 'ia upload mahAbhArata-mUla-paThanam-GP-drafts *.mp3 --checksum'
+
+[[data]]
+Language = 'internet archive'
+"Operand Type" = 'download'
+Syntax = 'ia download mahA-darshana-devuDu-narasimha-shAstrI --glob="*.mp3"'
+

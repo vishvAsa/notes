@@ -1,0 +1,274 @@
+[[data]]
+Language = 'jekyll'
+"Implementation Type" = 'concept'
+Description = '''
+Static site generator
+Supported by github pages.'''
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'setup'
+Syntax = 'gem install jekyll bundle'
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'setup'
+Feature = 'create site'
+Syntax = 'jekyll new siteName'
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'setup'
+Feature = 'update dependencies'
+Syntax = '''
+# after updating gem file
+bundle install'''
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'serve'
+Feature = 'first time'
+Syntax = 'bundle exec jekyll serve'
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'serve'
+Syntax = 'jekyll serve [--draft]'
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'serve'
+Feature = 'on github'
+Description = '''
+Set site path in config.
+push to gh-pages branch.
+Note: does not use bundler, only sees config.yml.'''
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'setup'
+Feature = 'folders/ files'
+Subfeature = 'drafts'
+Syntax = '_drafts'
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'setup'
+Feature = 'folders/ files'
+Subfeature = 'blog posts'
+Syntax = '_posts/ (+ subfolders)'
+Description = '(blog-posts with files like 2017-02-12-some-title.md)'
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'setup'
+Feature = 'folders/ files'
+Subfeature = 'built static files'
+Syntax = '_site/'
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'setup'
+Feature = 'folders/ files'
+Subfeature = 'page files'
+Syntax = 'index.md, about.md ...'
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'setup'
+Feature = 'folders/ files'
+Subfeature = 'configuration'
+Syntax = '''
+_config.yml
+Gemfile - ruby dependencies'''
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'setup'
+Feature = 'folders/ files'
+Subfeature = 'layout'
+Syntax = '_layout/'
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'setup'
+Feature = 'folders/ files'
+Subfeature = 'includes'
+Syntax = '_includes/'
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'setup'
+Feature = 'folders/ files'
+Subfeature = 'data'
+Syntax = '_data/'
+Description = 'yml, json or csv'
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'configuration'
+Feature = 'basic info'
+Syntax = '''
+title: xyz
+baseurl: "" # subpath of site
+url: "" ...'''
+Description = '_config.yml'
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'configuration'
+Feature = 'ruby dependencies'
+Syntax = 'gem "jekyll", "~> 3.6.0"'
+Description = 'in Gemfile'
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'configuration'
+Feature = 'plugins'
+Syntax = '''
+plugins:
+  - jekyll-feed'''
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'configuration'
+Feature = 'default page metadata'
+Syntax = '''
+defaults:
+  -
+    scope:
+      path: "*pages/hindutvam/*"
+      type: "posts"
+    values:
+      "layout": "post"'''
+Description = '''
+Order matters: place more specific scope higher.
+
+Note: In a certain context, "*pages/hindutvam/*" works unlike "*/pages/hindutvam/*"'''
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'page'
+Feature = 'metadata'
+Subfeature = 'location'
+Syntax = '''
+---
+layout: post|whateverTheLayoutgives....
+title: "..."
+date: 2017-12-12
+categories: topCat subCat
+permalink: "/xyz/"
+---
+Post content'''
+Description = 'Top of the page'
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'page'
+Feature = 'metadata'
+Subfeature = 'format'
+Syntax = 'YAML or JSON'
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'page'
+Feature = 'metadata'
+Subfeature = 'permalink'
+Syntax = '''
+permalink: "/xyz/"
+permalink: /:categories/:year/:month/:day/:title[.random_ext]'''
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'page'
+Feature = 'final url'
+Description = 'Determined from date, title, categories, permalink.'
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'layout'
+Syntax = '''
+---
+layout: "base"
+---
+… HTML code ...
+{% incldue header.html someVar="someVal" %}
+{{site.title}}
+{{page.someKey}}
+{{layout.someKey}}
+{{page.title}}
+{{content}}'''
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'global variables'
+Syntax = '''
+site page layout 
+content (in layout files)
+paginator'''
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'site variables'
+Syntax = '''
+site.posts pages static_files related_posts 
+html_pages html_files
+site.data.fileName
+collections
+documents
+categories tags
+url'''
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'site variables'
+Feature = 'file'
+Syntax = 'file.path name basename extname'
+Description = 'Can define additional metadata using defaults.'
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'page variables'
+Syntax = 'page.content title excerpt url date id categoriestags path next previous'
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'paginator variables'
+Syntax = 'per_page posts total_posts total_pages page ...'
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'theme gem'
+"Implementation Type" = 'concept'
+Description = 'some of the site’s directories (such as the assets, _layouts, _includes, and _sass directories) are stored in the theme’s gem, hidden but used.'
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'theme gem'
+Feature = 'show files'
+Description = 'See Ruby rows in basic sheet'
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'theme gem'
+Feature = 'override'
+Description = 'make a copy in your _layouts or _includes directory of the specific file you wish to modify and modify'
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'theme gem'
+Feature = 'create'
+Syntax = 'jekyll new-theme some-theme-name'
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'theme gem'
+Feature = 'package'
+Syntax = 'gem build jekyll-theme-awesome.gemspec'
+
+[[data]]
+Language = 'jekyll'
+"Operand Type" = 'theme gem'
+Feature = 'push'
+Syntax = 'gem push jekyll-theme-awesome-*.gem'
+

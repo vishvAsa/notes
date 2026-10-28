@@ -1,0 +1,1320 @@
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'concept'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'Python HTTP server + html templating language. See protocol page for more info.'
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'settings'
+Feature = 'define'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Create settings.py'
+Description = 'Python module with module level variables.'
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'settings'
+Feature = 'middleware layers'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+# Order matters.
+MIDDLEWARE_CLASSES = (
+    'django.contrib.sessions.middleware.SessionMiddleware',
+    'django.contrib.auth.middleware.AuthenticationMiddleware',
+    'django.middleware.common.CommonMiddleware',
+    'django.middleware.doc.XViewMiddleware',
+)
+'''
+Description = 'Like an onion, alter request and response to and from the view'
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'settings'
+Feature = 'secret key'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = """
+# Genereated by http://www.miniwebtool.com/django-secret-key-generator/
+SECRET_KEY = 'sdf'"""
+Description = 'Used in assymetric key cryptography used for exchanging session key'
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'settings'
+Feature = 'debug'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+DEBUG = True
+TEMPLATE_DEBUG = DEBUG'''
+Description = ''
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'settings'
+Feature = 'url dispatcher'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = "ROOT_URLCONF = 'python.module'"
+Description = ''
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'settings'
+Feature = 'template directory'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'TEMPLATE_DIRS = (strList)'
+Description = ''
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'url dispatcher'
+Feature = 'setup'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+from django.conf.urls import defaults
+urlpatterns = defaults.patterns(prefixStr,
+  (regEx, module.viewClass.asView(clsArg1=val)), 
+  (regEx, 'module.viewFn', {argName: val}), 
+..) # function call returns python list'''
+Description = '''
+Calls fn(request, unnamedPattern1.., 
+patternName1=matchedStr ..)'''
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'template'
+Feature = 'concept'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''
+not simply Python embedded into HTML. 
+provides tags which function similarly to some programming constructs – an if tag for boolean tests, a for tag for looping, etc. – but these are not simply executed as the corresponding Python code, and the template system will not execute arbitrary Python expressions. '''
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'template'
+Feature = 'setup'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'A text file.'
+Description = 'can generate any text-based format - html, xml, csv ..'
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'template'
+Feature = 'variable'
+Subfeature = 'insert value'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '{{var.name}}'
+Description = '''
+. Resolution in order: hashmap lookup, attribute lookup, method call, list index lookup
+value is escaped.'''
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'template'
+Feature = 'variable'
+Subfeature = 'insert value'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '{{ data|safe }}'
+Description = 'value is not escaped.'
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'template'
+Feature = 'variable'
+Subfeature = 'filter'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+{{var|filter}}
+{{var|filter:args}}'''
+Description = ''
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'template'
+Feature = 'filter'
+Subfeature = 'text'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+striptags addslashes (\') escape (&lt) linebreak (<p>) urlencode urlize  urlizetrunc
+capfirst upper lower title 
+pluralize linenumber
+center rjust wordwrap 
+cut'''
+Description = ''
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'template'
+Feature = 'filter'
+Subfeature = 'numeric'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'add:val divisibleby floatformat'
+Description = ''
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'template'
+Feature = 'filter'
+Subfeature = 'date'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'date:"D d M Y"'
+Description = ''
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'template'
+Feature = 'filter'
+Subfeature = 'default'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'default:val default_if_none yesno:T,F,?'
+Description = ''
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'template'
+Feature = 'filter'
+Subfeature = 'collections'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+length wordcount
+dictsort dictsortreversed join:sep  
+first last'''
+Description = ''
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'template'
+Feature = 'for'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+{% for athlete in athlete_list %} ..
+{% endfor %}'''
+Description = ''
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'template'
+Feature = 'if'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '{% if cond %} .. else endif'
+Description = ''
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'template'
+Feature = 'comment'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '{# greeting #}'
+Description = ''
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'template'
+Feature = 'inherit'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '{% extends "base.html" %}'
+Description = ''
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'template'
+Feature = 'block'
+Subfeature = 'define/ override'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '{% block title %}..{% endblock %}'
+Description = ''
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'template'
+Feature = 'autoescape'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+{% autoescape off %}
+{% endautoescape %}'''
+Description = ''
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'template'
+Feature = 'tag/ filter library'
+Subfeature = 'load'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '{% load comments %}'
+Description = 'Loading not inherited.'
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'view function'
+Feature = 'define'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+from django import shortcuts
+def Fn(request):
+  .. return shortcuts.render_to_response("tmpl.html", argsMap)'''
+Description = ''
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'view function'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'django.http.HttpResponse(str)'
+Description = ''
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'view class'
+Feature = 'View'
+Subfeature = 'respond'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+class X(View):
+dispatch(self, req, *args, **dict):
+# return response.'''
+Description = 'Delegate to get() and post().'
+
+[[data]]
+Language = 'Django python'
+"Operand Type" = 'view class'
+Feature = 'TemplateView'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+from django.views.generic.base import TemplateView
+class X(TemplateView):
+template_name = ".."
+def get_context_data(self, **kwargs):
+paramsMap = super(X,self).get_context_data(**kwargs)
+return paramsMap
+'''
+Description = 'paramsMap["key"] will be available in the template as {{key}}'
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'concept'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'Python HTTP server + Jinja2 html templating language.'
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'app'
+Feature = 'setup'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+from flask import Flask
+# Module file locus determines flask root path.
+app = Flask(__name__)
+
+@app.route('/')
+def hello_world():
+   return 'Hello World’
+
+if __name__ == '__main__':
+   app.run()'''
+Description = 'app.run(host, port, debug, options) - all params optional'
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'app'
+Feature = 'setup'
+Subfeature = 'enable CORS'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+from flask_cors import CORS
+app = flask.Flask("run")
+CORS(app=app,
+     # injects the `Access-Control-Allow-Credentials` header in responses. This allows cookies and credentials to be submitted across domains.
+     supports_credentials=True)'''
+Description = '''
+# Let Javascsipt hosted elsewhere access our API.
+'''
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'app'
+Feature = 'setup'
+Subfeature = 'register blueprint'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+api_blueprint = Blueprint(name='api', import_name=__name__, url_prefix=URL_PREFIX)
+app.register_blueprint(apiv1)
+app.register_blueprint(simple_page, url_prefix='/pages').'''
+Description = 'Not necessary if the app itself was supplied when constructing the Api object'
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'url rule'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+@app.route(‘/hello’)
+@some_blueprint.route(...)'''
+Description = ''
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'url rule'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+def hello_world():
+   return ‘hello world’
+app.add_url_rule(‘/’, ‘hello’, hello_world)'''
+Description = ''
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'url rule'
+Feature = 'dynamic'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+
+@app.route('/hello/<name>')
+def hello_name(name):
+   return 'Hello %s!' % name
+
+@app.route('/blog/<int:postID>')
+def show_blog(postID):
+   return 'Blog Number %d' % postID
+
+@app.route('/rev/<float:revNo>')
+def revision(revNo):
+   return 'Revision Number %f' % revNo'''
+Description = ''
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'url rule'
+Feature = 'canonical url'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = """
+@app.route('/python/')
+def hello_python():
+   return 'Hello Python'"""
+Description = 'using /python or /python/ returns the same output. '
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'url rule'
+Feature = 'specify methods'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''@app.route('/login',methods = ['POST', 'GET'])'''
+Description = 'GET only is default'
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'url rule'
+Feature = 'redirect'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+@app.route('/guest/<guest>')
+def hello_guest(guest):
+   return 'Hello %s as Guest' % guest
+
+@app.route('/user/<name>')
+def hello_user(name):
+   if name =='admin':
+      return redirect(url_for('hello_admin'))
+   else:
+      return redirect(url_for('hello_guest',guest = name))
+
+Flask.redirect(location, statuscode, response)'''
+Description = ''
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'url rule'
+Feature = 'subdomain'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+
+@app.route("/dynamic", subdomain="<username>")
+def username_index(username):
+    """Dynamic subdomains are also supported
+    Try going to user1.your-domain.tld/dynamic"""
+    return username + ".your-domain.tld"'''
+Description = ''
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'get url for handler'
+Feature = 'Flask restplus handlers'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+# current_user_handler corresponds to CurrentUserHandler class.
+url_for('.current_user_handler')
+'''
+Description = ''
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'request'
+Feature = '''
+get method
+get form data
+'''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+@app.route('/login',methods = ['POST', 'GET'])
+def login():
+   if request.method == 'POST':
+      user = request.form['nm']
+      return redirect(url_for('success',name = user))
+   else:
+      user = request.args.get('nm')
+      return redirect(url_for('success',name = user))'''
+Description = '''request.form yields an ugly immutablemultidict with values like: ImmutableMultiDict([('data[0][children][0][py/object]', u'common.data_containers.JsonObjectNode')])'''
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'request'
+Feature = 'get json dict'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'xyz = request.json'
+Description = '''
+Available if stringified json was sent in the AJAX call, with appropriate header:
+Content-Type:application/json; charset=UTF-8 . '''
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'response'
+Feature = 'general'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+ response = app.response_class(
+        response=json.dumps(data),
+        status=200,
+        mimetype='application/json'
+    )
+    return response'''
+Description = ''
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'response'
+Feature = 'render template'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+@app.route('/')
+def index():
+   return render_template(‘hello.html’)
+   return render_template('error.html'), 404'''
+Description = ''
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'response'
+Feature = 'render template'
+Subfeature = 'set variables'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+      return render_template("viewbook.html",
+                             bookpath=request.args.get('path'), title="Explore a Book")
+'''
+Description = ''
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'response'
+Feature = 'return json'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+
+@app.route('/summary')
+def summary():
+    d = make_summary()
+    return jsonify(d)
+
+@app.route('/_get_current_user')
+def get_current_user():
+    return jsonify(
+        username=g.user.username,
+        email=g.user.email,
+        id=g.user.id
+    )'''
+Description = ''
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'response'
+Feature = 'static file'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+@app.route('/static/<path:filepath>')
+def root(filepath):
+  return app.send_static_file('/static/' + filepath)
+  return send_from_directory(repodir(), pagepath)
+'''
+Description = ''
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'response'
+Feature = 'handle errors'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+@app.errorhandler(404)
+def not_found(error):
+    return render_template('error.html'), 404'''
+Description = ''
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'cookie'
+Feature = 'set'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+   resp = make_response(render_template('readcookie.html'))
+   resp.set_cookie('userID', user)
+'''
+Description = ''
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'cookie'
+Feature = 'get'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''name = request.cookies.get('userID')'''
+Description = ''
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'session dict'
+Feature = 'get, set , delete'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+@app.route('/')
+def index():
+   if 'username' in session:
+      username = session['username']
+  session['some_name'] = some_val
+  session.pop('username', None)
+'''
+Description = ''
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'file upload'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = """
+@app.route('/uploader', methods = ['GET', 'POST'])
+def upload_file():
+   if request.method == 'POST':
+      f = request.files['file']
+      f.save(secure_filename(f.filename))
+      return 'file uploaded successfully'"""
+Description = ''
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'test'
+Feature = 'setup client'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+@pytest.fixture(scope='module')
+def app_fixture(request):
+  app = run.app.test_client()
+  return app
+
+'''
+Description = ''
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'test'
+Feature = 'get'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+def test_book_list(app_fixture):
+  url = "ullekhanam/v1/dbs/ullekhanam_test/books"
+  response = app_fixture.get(url)
+  book_nodes = json.loads(response.data)
+  assert book_nodes.__len__() > 0'''
+Description = ''
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'test'
+Feature = 'post'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+response= client.post('/test_function', 
+                       data=json.dumps(dict(foo='bar')),
+                       content_type='application/json')'''
+Description = ''
+
+[[data]]
+Language = 'flask python'
+"Operand Type" = 'test'
+Feature = 'access session'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+  with test_client.session_transaction() as session:
+    session["user"] = vedavaapi_bot_user.to_json_map()
+'''
+Description = ''
+
+[[data]]
+Language = 'flask restful py'
+"Operand Type" = 'concept'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'flask library with REST API architecture style'
+
+[[data]]
+Language = 'flask restful py'
+"Operand Type" = 'app'
+Feature = 'setup'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''
+same as flask.
+Not necessary if the app itself was supplied when constructing the Api object'''
+
+[[data]]
+Language = 'flask restful py'
+"Operand Type" = 'api'
+Feature = 'setup'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'api = Api(app)'
+Description = ''
+
+[[data]]
+Language = 'flask restful py'
+"Operand Type" = 'api'
+Feature = 'setup'
+Subfeature = 'from blueprint'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+api_blueprint = Blueprint(name='api', import_name=__name__, url_prefix=URL_PREFIX)
+api = flask_restplus.Api(app=api_blueprint)'''
+Description = ''
+
+[[data]]
+Language = 'flask restful py'
+"Operand Type" = 'api'
+Feature = 'setup'
+Subfeature = 'namespace'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+stats_ns = api.namespace('stats', 'Stats methods')
+prats_ns = api.namespace('prats', 'Prats methods')'''
+Description = ''
+
+[[data]]
+Language = 'flask restful py'
+"Operand Type" = 'json resource Handler'
+Feature = 'define'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+
+class TodoSimple(Resource):
+    def get(self, todo_id):
+        return {todo_id: todos[todo_id]}
+
+    def put(self, todo_id):
+        todos[todo_id] = request.form['data']
+        return {todo_id: todos[todo_id]}
+
+api.add_resource(TodoSimple, '/<string:todo_id>')
+'''
+Description = ''
+
+[[data]]
+Language = 'flask restful py'
+"Operand Type" = 'match URL to resource'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+api.add_resource(TodoList, '/todos')
+api.add_resource(Todo,
+    '/todo/<int:todo_id>', endpoint='todo_ep')'''
+Description = '''
+Resource segment parsing: 
+<int:x>/<string:y>/...'''
+
+[[data]]
+Language = 'flask restful py'
+"Operand Type" = 'match URL to resource'
+Feature = 'with decorator'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+@api.route('/my-resource/<id>', endpoint='my-resource')
+class TodoSimple(Resource):
+    def get(self, todo_id):...'''
+Description = ''
+
+[[data]]
+Language = 'flask restful py'
+"Operand Type" = 'match URL to resource'
+Feature = 'document fields'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+@api.route('/my-resource/<id>', endpoint='my-resource')
+@api.doc(params={'id': 'An ID'})
+class MyResource(Resource): ...'''
+Description = ''
+
+[[data]]
+Language = 'flask restful py'
+"Operand Type" = 'request'
+Feature = 'parse'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+from flask_restful import reqparse
+
+parser = reqparse.RequestParser()
+parser.add_argument('rate', type=int, help='Rate to charge for this resource')
+args = parser.parse_args()
+args = parser.parse_args(strict=True)
+'''
+Description = ''
+
+[[data]]
+Language = 'flask restful py'
+"Operand Type" = 'response'
+Feature = 'error'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''abort(404, message="Todo {} doesn't exist".format(todo_id))'''
+Description = ''
+
+[[data]]
+Language = 'flask restful py'
+"Operand Type" = 'response'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+from the right method
+return xyz 
+return task, 201'''
+Description = ''
+
+[[data]]
+Language = 'flask restful py'
+"Operand Type" = 'response'
+Feature = 'marshall output'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+from flask_restful import Resource, fields, marshal_with
+
+resource_fields = {
+    'name': fields.String,
+    'address': fields.String,
+    'date_updated': fields.DateTime(dt_format='rfc822'),
+}
+
+class Todo(Resource):
+    @marshal_with(resource_fields, envelope='resource')
+    def get(self, **kwargs):
+        return db_get_todo()  # Some function that queries the db'''
+Description = ''
+
+[[data]]
+Language = 'flask restplus py'
+"Operand Type" = 'concept'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''
+flask library with REST API architecture style. provides a coherent collection of decorators and tools to describe your API and expose its documentation properly (using Swagger).
+Mostly backward compatible with flask_restful and flask. - so use same style'''
+
+[[data]]
+Language = 'flask restplus py'
+"Operand Type" = 'setup'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+api = flask_restplus.Api(app=api_blueprint, version='1.0', title='POC API',
+          description='Proof of Concept API')'''
+Description = """
+Same as flask restful, but set:
+ doc='/doc/' while creating the API to set swagger documentation path.
+ description='xyz <a href=\"asdf\">asdfa</a>'"""
+
+[[data]]
+Language = 'flask restplus py'
+"Operand Type" = 'doc inheritence'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'Method documentation takes precedence over class documentation, and inherited documentation takes precedence over parent documentation.'
+
+[[data]]
+Language = 'flask restplus py'
+"Operand Type" = 'general document'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+
+@api.doc(responses={404: 'todo_id not found'}, params={'todo_id': 'The todo_id of the todo'})
+@api.route('/<string:todo_id>')
+class TodoSimple(Resource):
+    def get(self, todo_id):
+        """ This is included too!"""
+        return {todo_id: todos[todo_id]}
+
+    @api.doc(responses={204: 'Stat deleted'})
+    def delete(self, todo_id):
+        abort_if_stat_doesnt_exist(todo_id)
+        del todos[todo_id]
+        return '', 204'''
+Description = ''
+
+[[data]]
+Language = 'flask restplus py'
+"Operand Type" = 'json model'
+Feature = 'define'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+parent = api.model('Parent', {
+    'name': fields.String,
+    'class': fields.String(discriminator=True)
+})
+
+child = api.inherit('Child', parent, {
+    'extra': fields.String
+})'''
+Description = '''
+Equivalent to passing schema:
+{
+    "properties": {
+        "name": {"type": "string"},
+        "class": {"type": "string"}
+    },
+    "discriminator": "class",
+    "required": ["class"]
+}'''
+
+[[data]]
+Language = 'flask restplus py'
+"Operand Type" = 'response'
+Feature = 'marshall and document'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+resource_fields = api.model('Resource', {
+    'name': fields.String,
+})
+
+@api.route('/my-resource/<id>', endpoint='my-resource')
+class MyResource(Resource):
+    @api.marshal_with(resource_fields, as_list=True)
+    def get(self):
+        return get_objects()
+
+    @api.marshal_with(resource_fields, code=201)
+    def post(self):
+        return create_object(), 201'''
+Description = '''
+works like the raw marshal_with() decorator with the difference that it documents the methods.
+Api.marshal_list_with() decorator is strictly equivalent to Api.marshal_with(fields, as_list=True)().'''
+
+[[data]]
+Language = 'flask restplus py'
+"Operand Type" = 'response'
+Feature = 'document'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+    @api.response(400, 'Validation error')
+    @api.response(200, 'Success', model)'''
+Description = '''shortcut for @api.doc(responses='...').'''
+
+[[data]]
+Language = 'flask restplus py'
+"Operand Type" = 'request'
+Feature = 'document'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+@api.route('/my-resource/<id>', endpoint='my-resource')
+@api.param('id', 'An ID')
+class MyResource(Resource):
+    pass
+'''
+Description = ''
+
+[[data]]
+Language = 'flask restplus py'
+"Operand Type" = 'request'
+Feature = 'arguments  parser'
+Subfeature = 'get parser'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+parser = api.parser()
+
+from flask_restplus import reqparse
+parser = reqparse.RequestParser()
+'''
+Description = ''
+
+[[data]]
+Language = 'flask restplus py'
+"Operand Type" = 'request'
+Feature = 'arguments  parser'
+Subfeature = 'type, location'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+parser.add_argument('param', type=int, help='Some param', location='form', required=True)
+parser.add_argument('in_files', type=FileStorage, location='files')
+parser.add_argument('PageSize', type=int, default=-2, location='args')
+parser.add_argument('User-Agent', location='headers')
+parser.add_argument('session_id', location='cookies')
+parser.add_argument('xyz', location='json')'''
+Description = '''Only use type=list when location='json'.'''
+
+[[data]]
+Language = 'flask restplus py'
+"Operand Type" = 'request'
+Feature = 'arguments  parser'
+Subfeature = 'choice, default, requirement'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+parser.add_argument('page', type=int, required=False)
+parser.add_argument('per_page', type=int, required=False,
+                                  choices=[5, 10, 20, 30, 40, 50], default=10)'''
+Description = ''
+
+[[data]]
+Language = 'flask restplus py'
+"Operand Type" = 'request'
+Feature = 'arguments  parser'
+Subfeature = 'use'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+args = parser.parse_args()
+args['public_name']'''
+Description = ''
+
+[[data]]
+Language = 'flask restplus py'
+"Operand Type" = 'request'
+Feature = 'verify and document'
+Subfeature = 'with json'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+resource_fields = api.model('Resource', {
+    'name': fields.String,
+})
+
+@api.route('/my-resource/<id>')
+class MyResource(Resource):
+    @api.expect(resource_fields, [validate=True])
+    def get(self):
+        pass'''
+Description = '''
+Document and optionally verify.
+
+'''
+
+[[data]]
+Language = 'flask restplus py'
+"Operand Type" = 'request'
+Feature = 'verify and document'
+Subfeature = 'with parser'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+    @api.expect(some_parser, [validate=True])
+    def get(self):
+        pass'''
+Description = ''
+
+[[data]]
+Language = 'flask restplus py'
+"Operand Type" = 'request'
+Feature = 'verify and document'
+Subfeature = 'list'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+@api.route('/my-resource/<id>')
+class MyResource(Resource):
+    @api.expect([resource_fields])
+    def get(self):
+        pass'''
+Description = ''
+
+[[data]]
+Language = 'jinja2 template'
+"Operand Type" = 'statements'
+Feature = 'general structure'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '{% ... %} for Statements'
+Description = ''
+
+[[data]]
+Language = 'jinja2 template'
+"Operand Type" = 'statements'
+Feature = 'conditional'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+{% if marks>50 %}
+      <h1> Your result is pass!</h1>
+      {% else %}
+      <h1>Your result is fail</h1>
+      {% endif %}'''
+Description = ''
+
+[[data]]
+Language = 'jinja2 template'
+"Operand Type" = 'statements'
+Feature = 'for'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+{% for key, value in result.iteritems() %}
+         
+            <tr>
+               <th> {{ key }} </th>
+               <td> {{ value }} </td>
+            </tr>
+            
+         {% endfor %}'''
+Description = ''
+
+[[data]]
+Language = 'jinja2 template'
+"Operand Type" = 'statements'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '# ... ## for Line Statements'
+Description = ''
+
+[[data]]
+Language = 'jinja2 template'
+"Operand Type" = 'template'
+Feature = 'define'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+<title>{% block title %}{% endblock %}</title>
+<h1>{{ self.title() }}</h1>
+{% block body %}{% endblock %}'''
+Description = ''
+
+[[data]]
+Language = 'jinja2 template'
+"Operand Type" = 'template'
+Feature = 'define'
+Subfeature = 'refer to block'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+    {% if title %}
+    <title>IndicLibrary: {{ title }}</title>
+    {% else %}
+    <title>IndicLibrary: Visual Manuscript Decoder</title>
+    {% endif %}
+'''
+Description = ''
+
+[[data]]
+Language = 'jinja2 template'
+"Operand Type" = 'template'
+Feature = 'extend'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+{% extends "base.html" %}
+{% if self.foo() %} - {% endif %}
+{% block title %}Index{% endblock %}
+{% block head %}
+    {{ super() }}
+    <style type="text/css">
+        .important { color: #336699; }
+    </style>
+{% endblock %}'''
+Description = ''
+
+[[data]]
+Language = 'jinja2 template'
+"Operand Type" = 'expression'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+{{ ... }} for Expressions to print to the template output
+'''
+Description = ''
+
+[[data]]
+Language = 'jinja2 template'
+"Operand Type" = 'functions'
+Feature = 'get static url'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''url_for('static', filename = 'hello.js')'''
+Description = ''
+
+[[data]]
+Language = 'jinja2 template'
+"Operand Type" = 'comments'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+{# ... #} for Comments not included in the template output
+'''
+Description = ''
