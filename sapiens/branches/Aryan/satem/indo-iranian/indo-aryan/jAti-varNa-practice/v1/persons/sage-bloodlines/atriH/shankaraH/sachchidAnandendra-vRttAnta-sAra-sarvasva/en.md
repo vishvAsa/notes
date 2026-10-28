@@ -5473,9 +5473,7 @@ the method of explanation of these are entirely diffferent from those
 of Sūtrabhāṣya and those of the ten major Upaniṣads. The introduc- tion to the Śvetāśvatara Upanisad is unnecessarily long. In this, long passages from Vişņu purana, Linga purāṇa, Yoga väsiṣṭha, Śiva dhar- mottara, Viṣṇu dharmottara and Vayupurāṇa etc. have been cited. In 
 one place, Gauḍapādācārya has been referred to by name: 
 :'(while commenting on 1.8). This way of representation is not found in any of the other Bhāṣyas. By such reasons, we have to say that this is not a Bhāṣya written by the Acarya. 
-There are reasons why Nrsimhatapaniya Bhāṣya also could not have been written by the Acarya. There one finds plenty of Tantrik 
-material. ślokas from Prapañcasara have been cited here. These are 
-not found in the other Bhāṣyas, and hence several scholars opine that this cannot be a work of the Acārya! . 
+There are reasons why Nrsimhatapaniya Bhāṣya also could not have been written by the Acarya. There one finds plenty of Tantrik material. ślokas from Prapañcasara have been cited here. These are not found in the other Bhāṣyas, and hence several scholars opine that this cannot be a work of the Acārya! . 
 On the whole, regarding the subject matter under consideration, we can say that there is not much of a difference between the Sūtrab- 
 hāṣya and the Upanisadbhāṣyas. 
 Gītābhāṣya 
