@@ -1,17 +1,8 @@
 +++
 title = "Forced vaiShNavification tale"
 +++
+<details><summary>False tale (द्रष्टुं नोद्यम्)</summary>
 
-Source: [TW](https://x.com/shardula23/status/1946892896675696861)
-
-Their king had imposed Ramanandism on some of the officials due to his own political reasons and buried some deities of rival clans in one grove and established a Hanuman there, all the while promoting his own clan local deities. The Meiteis don't even follow Ramanandism now. They follow Caitanya Vaishnavism promoted by the earlier king's descendent(Bhagyachandra) and largely peacefully accepted by the local people.
-
-Rather it was a Meitei v/s Meitei clan issue that is now blamed on Hindu Brahmins and tales of the Ramanandi mahant Shantidas etc. which have no evidence other than internally contradictory folklore.
-
-Infact, the native priests(Maibas and Maibis) used to recite chants in the local language calling upon god's like Shiva, Durgā etc. along with the local gods, used to wear white Chandan etc. These things systematically removed by revivalists. Chandan replaced by a black mark etc.
-
-
-## False tale
 A dramatic religious change took place during the reign of Charairongba's son, Pamheiba or Garibnawaj ( 1709-48). After following the Nimbarka sect of Radha-Krishna cult for about two decades30, he got baptized to the Ramandi sect of Ram-Sita cult by a Brahman priest from Narasimhatilla of Sylhet, Bengal named Shantidas Gossain in 1737.
 
 Vaisnavism was declared as the official state religion and it  grew up as an aggressive religious force during the reign of Garibnawaj."
@@ -25,3 +16,31 @@ The archaic Meitei scripts were replaced by the Bengali scripts. Bengali and San
 The traditional deities were interpreted with reference to the Vedic gods. Idols of the venerated traditional deities were buried at Mahabali jungle. Pre-vaisnavite Meitei festivals were either assigned Hindu names or adjusted with the Hindu festivals.
 
 Ritual performances of the traditional Meitei deities were taken away from the traditional priests by the Brahmans priests. Hindu calendar with ritual dates was introduced. Kirtans were sung in Bengali. The antiquity of history of Manipur was linked up with the Adi and Aswamedha Parvas of the Mahabharata.
+
+</details>
+
+
+## Burning tale
+Source: [TW](https://x.com/Siradhvaja/status/2115559119164002794)
+
+The burning of the Puya-s is a bit doubtable, but the destruction of shrines to the Lais isn't. 
+
+## Rāmānandī-s
+Pāmheiba seems to have taken to the Rāmānandī-s as a military cult to bolster the national order in the face of Burmese hostility and was ambivalent to the Lais. As such repression seems to have flared up periodically and primarily driven by Śāntidāsa Gosāī's own zealotry that likely led him to pressure the monarch. In-fact the Rāmānandī-s themselves seemed to have faced persecution for quite a bit in between. 
+
+The religious fissure created under Pāmheiba's reign was to be assuaged by Bhāgyacandra's replacement of the Rāmānandī faith with that of the Gauḍīya-s after his conversion to it during his exile in Cachar (c. 1760s), and a more inclusivist attitude towards Sanamahism.
+
+## Political Ramanandism
+Source: [TW](https://x.com/shardula23/status/1946892896675696861)
+
+Their king had imposed Ramanandism on some of the officials due to his own political reasons and buried some deities of rival clans in one grove and established a Hanuman there, all the while promoting his own clan local deities. 
+
+The Meiteis don't even follow Ramanandism now. They follow Caitanya Vaishnavism promoted by the earlier king's descendent(Bhagyachandra) and largely peacefully accepted by the local people.
+
+Rather it was a Meitei v/s Meitei clan issue that is now blamed on Hindu Brahmins and tales of the Ramanandi mahant Shantidas etc. which have no evidence other than internally contradictory folklore.
+
+## Shiva, Durgā etc.
+Infact, the native priests (Maibas and Maibis) used to recite chants in the local language calling upon god's like Shiva, Durgā etc. along with the local gods, used to wear white Chandan etc. These things systematically removed by revivalists. Chandan replaced by a black mark etc.
+
+
+
