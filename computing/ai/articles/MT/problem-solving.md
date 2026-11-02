@@ -45,3 +45,6 @@ Source: [TW](https://x.com/blog_supplement/status/2111677498169700440)
 
 
 In the past 3-4 months, people on the high end of the IQ distribution are the ones facing an existential crisis from AI. In the end, a major aspect of IQ comes down to having a vast memory and pulling bits and pieces from it without much effort and putting them together in new combinations. Here, the machine has pulled ahead. Those in the middle to lower end of the IQ range have been surpassed so completely that many of them are unable to discern what has happened. Finally, if you have reached dotage, then you probably feel a bit of Schadenfreude that this is trouble for the generations below you who were edging you out.
+
+## Coding and dengeration
+With coding supremacy of the LLM, I'm always left surprised by the kinds of solutions it offers, even in a language in which I considered myself reasonably adept.  Sadly, it comes with the degeneration of your own skill.
