@@ -66,12 +66,24 @@ opencode-go/longcat-2.5-preview-free      1376     1050    -326   -23.7
 But that compression wouldn't be useful if the model is bad at reasoning with sanskrit.
 
 ## Models 
+### Review
+- DeepSeek 4.1 Flash was good with sanskrit commentary interleaving.
+- Muse Spark 1.3 was good with sanskrit.
+- Gemini 2.5 was good with sanskrit hyphenation. 
+- Gemini 3.5 Flash was worse with sanskrit hyphenation.
+- Beam Free 202611 was worse with sanskrit commentary interleaving; made overcomplications in programming. Stupider, but not too bad.
+- longcat 2.5 preview, ling 3.1 flash free - were quite bad at sanskrit.
+
 ### Thinking 
 Thinking too is pattern completion only. LLMs are a one trick pony. They can predict the next token.
 
 > <|user|>What is the capital of France?<|thinking|>The user is asking for the capital of France.\nFrance.\nParis.\nProvide a clear and direct answer.<|response|>The capital of France is **Paris**.
 
 Those <|...|> tags are critical. They are what allow for Q&A. You can convert a non-thinking model to a thinkign model this way. By training it on loads of thinking prompts
+
+#### Variants
+the same model (Beam Free) with different variants (low, medium, high, xhigh, max). The variants typically control reasoning effort/thinking depth rather than being separate models.
+
 
 ### Training
 #### Distilling from other models
@@ -93,11 +105,20 @@ DeepSeek increased prices nearly 5x last month for this very reason. People have
 
 ### OpenCode
 
-#### Go plan limits (202610)
-10 USD per month gets 60USD muse spark or x USD of some other models. Can mix and match models till the money is exhausted. Eg from 202610. The base is $10. Then multiplier applies. GLM53: 1.5x MS13: 6.0x. So can do MS13 $30/6 (= $5) + GLM53 $7.5/1.5 (= $5) = $10
+#### Go plan limits
+10 USD per month gets 100USD DeepSeek or x USD of some other models (202611). Some models are even free. 
+
+Can mix and match models till the money is exhausted. Eg from 202610. The base is $10. Then multiplier applies. GLM53: 1.5x MS13: 6.0x. So can do MS13 $30/6 (= $5) + GLM53 $7.5/1.5 (= $5) = $10
 
 - 5h - can use upto 25pc of your monthly quota  
 - 1w - 50pc
 - 1m - 100 pc.
 
 Basically, you can use up your weekly quota in two 5h sessions. And your monthly quota in two weeks.
+
+Once the monthly quota is exhausted, you can't use even free models anymore.
+
+### OpenDesign
+Source: [TW](https://open-design.ai/pricing/)
+
+Slightly cheaper than OpenCode as of 202611, but no free models.

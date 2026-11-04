@@ -5,7 +5,7 @@ title = "2025+ trump actions"
 ## Coming loss
 Source: [TW](https://x.com/blog_supplement/status/2117814741112414674)
 
-The hastin-s are likely to be wiped out among the mahAmlechCha. The nAri~Nga might vent his frustration by setting West Asia on fire with his guru-s.
+The hastin-s are likely to be wiped out amonkg the mahAmlechCha. The nAri~Nga might vent his frustration by setting West Asia on fire with his guru-s.
 
 Source: [TW](https://x.com/blog_supplement/status/2104768759458353439)
 
