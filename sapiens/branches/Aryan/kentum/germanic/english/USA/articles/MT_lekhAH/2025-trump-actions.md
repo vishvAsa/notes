@@ -9,6 +9,19 @@ Even as the era of the nAri~NgapuruSha winds down, it is darkly comical to see t
 For all his faults the nAri~ngapuruSha at least had some redeeming qualities. However, anugAmin+++(=De santis)+++ is a pure duShTa. 
 
 ### Prior indications
+
+The nAri~Nga's base's anti-H rhetoric, which began early in his second term, was probably one of the first signs that he was going to crack his coalition, leading to the eventual end of his power and the collapse of support. It would be good to list some of the chief perpetrators in this regard and their trajectories:
+
+1. It began with stray snipers like Big Balls being propped up by muShkavAn kastUrI and little boss anUpa.
+2. anUpa made no attempt to show allegiance to his own family and instead cheaply surrendered to his perceived base.
+3. duShTa jarila (who had attained chitragupta's blessed feet since) started dumping on H and whipped up his boys into xenophobic fury, claiming that they were taking away the jobs of the heritage mahAmlechCha.
+4. Large distributed network of duShTa jarila's Europoid "heritage" followers then became dominant on this medium, non-stop dumping on H to this date. While they did not have his following, they were medium-range accounts (5K-500K followers) constantly keeping up the anti-H rhetoric supported by muShkavAn's schemes even after jarila got chitragupta's audience.
+5. The nAri~Nga-whisperer duShTa jarilaputra, the pretasAdhaka, kept the snide remarks on H coming. He, however, peeled away from the nAri~Nga even as he turned his attention on the AdivAtUla-s. However, we believe he seriously influenced the nAri~Nga when he still had his ear with his anti-H rhetoric.
+6. nAri~Nga himself turning towards the TSPians and his trade wars.
+7. nari~Nga's duShTa ministers khalvATa gharaTTaka+++(=Stephen Miller)+++, puTa-leDhI+++(=Lutnick)+++ and vasantaka-s+++(=bessent)+++ launching attacks on India.
+
+All this institutional support emboldened the large and small constitutional xenophobes such as duShkR^it utsa+++(=Nick Fuentes)+++ to emerge from the woodworks and have fun exploiting the H weakness of responding to baits on this medium.
+
 Source: [TW](https://x.com/blog_supplement/status/2117814741112414674)
 
 The hastin-s are likely to be wiped out amonkg the mahAmlechCha. The nAri~Nga might vent his frustration by setting West Asia on fire with his guru-s.
