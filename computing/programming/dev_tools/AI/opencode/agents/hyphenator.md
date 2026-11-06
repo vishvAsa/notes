@@ -24,7 +24,8 @@ from doc_curation.sanskrit.hyphenator import hyphene
 Importing it loads a 57 MB wordlist and took over two minutes in a cold process here, so hyphenate a whole batch in one run rather than one file at a time.
 
 ## LLM review
-The local hyphene call ouputs tentative hyphenation, which you'll check and improve.
+The local hyphene call ouputs tentative hyphenation, which you'll check and improve.  
+Add bad hyphenations to ~/gitland/sanskrit-coders/doc_curation/doc_curation/data/vocabulary/sanskrit/bad-splits.md so as to improve the hyphenator in the future.
 
 ## External LLM (when doubtful readings also need fixing)
 

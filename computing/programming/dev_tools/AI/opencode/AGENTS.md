@@ -32,6 +32,7 @@ Before writing text-processing code, check these in `~/gitland/sanskrit-coders/d
   - Hand heavy Tesseract/ custom ocr work to the `tesseract_ocr` subagent.
 - `pdf/splitter` for splitting two-up scanned PDFs into single pages.
 - `md/` has much code for processing Markdown files: `md/content_processor/details` for details blocks, `md/content_processor/footnote` for footnotes, `md/content_processor/commentary` for commentary.
+- Splitting md files - `/home/vvasuki/gitland/sanskrit-coders/doc_curation/doc_curation_projects/general_tasks/splitter.py`
 - `ebook/` for producing epubs and pdf-s from markdown.
 - Bulk LLM proofreading/editing with rotating free keys — `llm/gemini`: gemini.process_text_chunks_with_keys or gemini.process_details_with_keys with `prompt=llm.get_prompt("~/gitland/sanskrit/sanskrit.github.io/content/groups/dyuganga/projects/text/proofreading/editing/AI-prompt/<style prompt>.md")`. 
 
