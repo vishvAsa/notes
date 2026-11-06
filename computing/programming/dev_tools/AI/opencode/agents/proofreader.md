@@ -19,3 +19,4 @@ Style prompts live in `~/gitland/sanskrit/sanskrit.github.io/content/groups/dyug
 - Preserve existing headings and paragraphs; edit only what was asked.
 - Check `[[Pnnn]]` page markers against the printed folio — PDF/book offsets drift between volumes and even within one volume.
 - Report the changes made, and list anything left for a human — doubtful readings, missing source images, or style rules that did not apply.
+- When the text is Sanskrit, hand it to the `hyphenator` subagent once your edits are settled.

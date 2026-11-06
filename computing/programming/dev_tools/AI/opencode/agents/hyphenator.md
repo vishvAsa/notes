@@ -1,0 +1,29 @@
+---
+title: Hyphenator
+description: Hyphenates Sanskrit Markdown at separable word and stem boundaries without reverting sandhi, locally or with an LLM
+mode: subagent
+---
+
+Hyphenate Sanskrit Markdown: insert a space at word boundaries and a hyphen inside compounds, but only at boundaries that are *separable*.
+
+**Never revert sandhi** — split the *result* of the sandhi, do not undo it. Non-separable mergers (dIrgha, guNa, vRddhi — `dharmArtha`, `mahotsava`, `sadaiva`) must stay joined, even inside a samAsa.
+
+## Local (preferred)
+
+```python
+from doc_curation.sanskrit.hyphenator import hyphene
+```
+
+`hyphene(text)` implements exactly those rules without an LLM: a space for word joints, a hyphen for samAsa joints. Apply it to prose blocks only — not headings, frontmatter, or `<details><summary>मूलम्</summary>` content — via `MdFile.transform` with a `content_transformer`, or `library.apply_function` over a directory.
+
+Importing it loads a 57 MB wordlist and took over two minutes in a cold process here, so hyphenate a whole batch in one run rather than one file at a time.
+
+## LLM (when doubtful readings also need fixing)
+
+Use the `llm/gemini` path with the `AI-prompt/Sanskrit_devanAgarI_markdown.md` prompt — it carries the same split rules, preserves `<details><summary>मूलम्</summary>` blocks untouched, and lets the model also suggest corrections to doubtful text:
+
+```python
+library.apply_function(fn=gemini.process_text_chunks_with_keys, dir_path=..., prompt=llm.get_prompt("~/gitland/sanskrit/sanskrit.github.io/content/groups/dyuganga/projects/text/proofreading/editing/AI-prompt/Sanskrit_devanAgarI_markdown.md"), dry_run=False)
+```
+
+Report what was hyphenated, and flag anything left ambiguous for a human by inserting [[??]].

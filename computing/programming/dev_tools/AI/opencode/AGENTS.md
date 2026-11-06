@@ -34,9 +34,6 @@ Before writing text-processing code, check these in `~/gitland/sanskrit-coders/d
 - `md/` has much code for processing Markdown files: `md/content_processor/details` for details blocks, `md/content_processor/footnote` for footnotes, `md/content_processor/commentary` for commentary.
 - `ebook/` for producing epubs and pdf-s from markdown.
 - Bulk LLM proofreading/editing with rotating free keys — `llm/gemini`: gemini.process_text_chunks_with_keys or gemini.process_details_with_keys with `prompt=llm.get_prompt("~/gitland/sanskrit/sanskrit.github.io/content/groups/dyuganga/projects/text/proofreading/editing/AI-prompt/<style prompt>.md")`. 
-- Sanskrit specific -
-  - Hyphenation - `from doc_curation.sanskrit.hyphenator import hyphene` usually suffices.
-  - Hyphenation with LLM (to simulataneously suggest changes to doubtful text) - Use llm library with ~/gitland/sanskrit/sanskrit.github.io/content/groups/dyuganga/projects/text/proofreading/editing/AI-prompt/Sanskrit_devanAgarI_markdown.md as prompt.
 
 ### Other libraries 
 For interacting with archive.org, there is the `ia` command line (configured). Also, there is `curation_utils.archive_utility`.
