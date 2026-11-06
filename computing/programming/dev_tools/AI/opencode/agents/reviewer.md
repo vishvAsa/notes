@@ -4,12 +4,6 @@ description: Reviews changes for correctness and regressions
 mode: subagent
 model: opencode-go/deepseek-v4.1-flash
 permissions:
-  - action: edit
-    resource: "*"
-    effect: deny
-  - action: shell
-    resource: "*"
-    effect: deny
   - action: subagent
     resource: "*"
     effect: deny

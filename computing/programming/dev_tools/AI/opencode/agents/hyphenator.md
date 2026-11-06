@@ -30,4 +30,10 @@ Use the `llm/gemini` path with the `AI-prompt/Sanskrit_devanAgarI_markdown.md` p
 library.apply_function(fn=gemini.process_text_chunks_with_keys, dir_path=..., prompt=llm.get_prompt("~/gitland/sanskrit/sanskrit.github.io/content/groups/dyuganga/projects/text/proofreading/editing/AI-prompt/Sanskrit_devanAgarI_markdown.md"), dry_run=False)
 ```
 
+followed by 
+
+```
+library.apply_function(fn=MdFile.transform, dir_path="...", content_transformer=lambda x, *args, **kwargs: ocr_helper.fix_gemini_errors(x), dry_run=False)
+```
+
 Report what was hyphenated, and flag anything left ambiguous for a human by inserting [[??]].
