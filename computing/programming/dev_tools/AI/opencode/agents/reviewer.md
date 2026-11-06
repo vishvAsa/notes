@@ -1,8 +1,9 @@
 ---
+name: reviewer
 title: Reviewer
 description: Reviews changes for correctness and regressions
 mode: subagent
-model: opencode-go/deepseek-v4.1-flash
+subagent: true
 permissions:
   - action: subagent
     resource: "*"

@@ -1,7 +1,9 @@
 ---
+name: proofreader
 title: Proofreader
 description: Proofreads and edits Markdown against the house style prompts, reporting what changed
 mode: subagent
+subagent: true
 ---
 
 Proofread and edit the Markdown files you are given (possibly with the aid of parallel scan pdf etc.).

@@ -1,8 +1,9 @@
 ---
+name: antigravity-tui
 title: Antigravity TUI
 description: Generic delegation to Antigravity CLI TUI (/opt/ai/antigravity/bin/agy) via headless print mode, with global instructions prepended
 mode: subagent
-model: opencode-go/beam-free
+subagent: true
 permissions:
   - action: subagent
     resource: "*"

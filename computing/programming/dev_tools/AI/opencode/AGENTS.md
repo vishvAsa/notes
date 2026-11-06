@@ -10,10 +10,10 @@ title = "OpenCode global instructions"
 
 ## Model selection
 
-- Be careful to use a free model on OpenCode Go whenever possible.
-- For bulk, mechanical, or low-risk work (formatting, repetitive edits, simple searches, large-file scanning), prefer a zero-cost OpenCode Go model such as `opencode-go/beam-free` or `opencode-go/iceman-contributor-free`.
-- Reserve stronger/paid models for judgment calls, verification of free-model output, and tasks where the free model is unsuitable.
-- When delegating to a subagent, pass the free model explicitly via the `model` parameter, for example `opencode-go/beam-free#xhigh`.
+- Be careful to use a free/lightweight model whenever possible.
+- **OpenCode**: For bulk, mechanical, or low-risk work (formatting, repetitive edits, simple searches, large-file scanning, TUI delegation), prefer a zero-cost OpenCode Go model such as `opencode-go/beam-free` or `opencode-go/iceman-contributor-free` (and `opencode-go/deepseek-v4.1-flash` for `reviewer`). When delegating to a subagent, pass the model explicitly via the `model` parameter, e.g. `opencode-go/beam-free#xhigh`.
+- **Antigravity**: When delegating via `invoke_subagent`, prefer lighter model tiers (`Model: "flash_lite"` or `Model: "flash"`) for bulk, mechanical, or low-risk work, and reserve `"pro"` or `"inherit"` for judgment calls and verification.
+- Reserve stronger/paid models for judgment calls, verification of free/lighter-model output, and tasks where the lighter model is unsuitable.
 
 
 ## Compute

@@ -1,7 +1,9 @@
 ---
+name: interleaver
 title: Interleaver
 description: Interleaves translations or commentaries into Markdown files containing mUlam blocks, generating mUlam blocks first when missing
 mode: subagent
+subagent: true
 permissions:
   - action: subagent
     resource: "*"

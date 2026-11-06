@@ -1,7 +1,9 @@
 ---
+name: tesseract_ocr
 title: Tesseract OCR
 description: Runs Tesseract OCR and other bulk batch jobs on Kaggle or Colab, never on the local machine
 mode: subagent
+subagent: true
 permissions:
   - action: subagent
     resource: "*"

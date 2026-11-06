@@ -1,7 +1,9 @@
 ---
+name: pdf_to_md
 title: PDF to Markdown
 description: Converts PDFs to Markdown — extracts the text layer, OCRs when extraction yields garbage, proofreads, then hyphenates Sanskrit
 mode: subagent
+subagent: true
 ---
 
 Convert the PDF you are given to Markdown. Work in this order and skip a step when it is unnecessary.

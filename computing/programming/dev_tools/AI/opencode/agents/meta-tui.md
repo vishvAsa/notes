@@ -1,8 +1,9 @@
 ---
+name: meta-tui
 title: Meta TUI
 description: Generic delegation to Muse Code TUI (/opt/ai/muse/muse) via headless exec, with global instructions prepended
 mode: subagent
-model: opencode-go/beam-free
+subagent: true
 permissions:
   - action: subagent
     resource: "*"
