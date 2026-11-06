@@ -2,6 +2,10 @@
 title: Hyphenator
 description: Hyphenates Sanskrit Markdown at separable word and stem boundaries without reverting sandhi, locally or with an LLM
 mode: subagent
+permissions:
+  - action: subagent
+    resource: "*"
+    effect: deny
 ---
 
 Hyphenate Sanskrit Markdown: insert a space at word boundaries and a hyphen inside compounds, but only at boundaries that are *separable*.

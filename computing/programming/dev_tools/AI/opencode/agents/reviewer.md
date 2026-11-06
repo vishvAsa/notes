@@ -3,9 +3,16 @@ title: Reviewer
 description: Reviews changes for correctness and regressions
 mode: subagent
 model: opencode-go/deepseek-v4.1-flash
-permission:
-  edit: deny
-  bash: deny
+permissions:
+  - action: edit
+    resource: "*"
+    effect: deny
+  - action: shell
+    resource: "*"
+    effect: deny
+  - action: subagent
+    resource: "*"
+    effect: deny
 ---
 
 Review the current changes. List findings in severity order with file and line references.

@@ -2,6 +2,10 @@
 title: Tesseract OCR
 description: Runs Tesseract OCR and other bulk batch jobs on Kaggle or Colab, never on the local machine
 mode: subagent
+permissions:
+  - action: subagent
+    resource: "*"
+    effect: deny
 ---
 
 Run Tesseract OCR and other bulk batch jobs on Kaggle or Colab, never on the local machine. Keep run scripts, dataset staging and a short README in the project.
