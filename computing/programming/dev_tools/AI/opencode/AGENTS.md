@@ -27,15 +27,16 @@ Use and maintain existing code where possible — it is installed in the venv at
 ### doc_curation
 Before writing text-processing code, check these in `~/gitland/sanskrit-coders/doc_curation`:
 
+- `doc_curation.md.library` has `apply_function` which is especially useful for bulk processing Markdown files within a path. Use it in combination with other functions as needed.
 - OCR (preferred): `pdf/drive_ocr` — especially use calls like drive_ocr.split_and_ocr_all( dir_path=..., small_pdf_pages=10, detext=False, file_pattern=r"(?!.*-double\.pdf$)[^_].*\.pdf") to rapidly get Google Drive OCR when needed.
   - Hand heavy Tesseract/ custom ocr work to the `tesseract_ocr` subagent.
 - `pdf/splitter` for splitting two-up scanned PDFs into single pages.
 - `md/` has much code for processing Markdown files: `md/content_processor/details` for details blocks, `md/content_processor/footnote` for footnotes, `md/content_processor/commentary` for commentary.
 - `ebook/` for producing epubs and pdf-s from markdown.
-- Bulk LLM proofreading/editing with rotating free keys — `llm/gemini`: `library.apply_function(fn=gemini.process_text_chunks_with_keys, dir_path=..., prompt=llm.get_prompt("~/gitland/sanskrit/sanskrit.github.io/content/groups/dyuganga/projects/text/proofreading/editing/AI-prompt/<style prompt>.md"), dry_run=False, start_file=None, end_file=None)`. `library` is `doc_curation.md.library`; `gemini` is `doc_curation.llm.gemini`.
-- Sanskrit speicific -
+- Bulk LLM proofreading/editing with rotating free keys — `llm/gemini`: gemini.process_text_chunks_with_keys or gemini.process_details_with_keys with `prompt=llm.get_prompt("~/gitland/sanskrit/sanskrit.github.io/content/groups/dyuganga/projects/text/proofreading/editing/AI-prompt/<style prompt>.md")`. 
+- Sanskrit specific -
   - Hyphenation - `from doc_curation.sanskrit.hyphenator import hyphene` usually suffices.
-  - Hyphenation with LLM (to simulataneously suggest changes to doubtful text) - Use llm library with ~/gitland/sanskrit/sanskrit.github.io/content/groups/dyuganga/projects/text/proofreading/editing/AI-prompt/sanskrit-markdown.md as prompt.
+  - Hyphenation with LLM (to simulataneously suggest changes to doubtful text) - Use llm library with ~/gitland/sanskrit/sanskrit.github.io/content/groups/dyuganga/projects/text/proofreading/editing/AI-prompt/Sanskrit_devanAgarI_markdown.md as prompt.
 
 ### Other libraries 
 For interacting with archive.org, there is the `ia` command line (configured). Also, there is `curation_utils.archive_utility`.
