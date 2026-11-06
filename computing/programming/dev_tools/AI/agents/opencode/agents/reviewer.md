@@ -2,7 +2,7 @@
 title: Reviewer
 description: Reviews changes for correctness and regressions
 mode: subagent
-model: opencode-go/muse-spark-1.3-contributor
+model: opencode-go/deepseek-v4.1-flash
 permission:
   edit: deny
   bash: deny

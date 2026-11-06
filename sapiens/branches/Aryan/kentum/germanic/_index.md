@@ -2,6 +2,10 @@
 title = "+Germanic"
 +++
 
+## Origin
+> The Germanics seem to have exploded out of southern Scandinavia, which, in turn, they reached from the Baltic region.
+
+
 ## Ethnonyms
 - Ger-man= spear-man
 - Franks: Frankea= spear, symbol of Wodan
