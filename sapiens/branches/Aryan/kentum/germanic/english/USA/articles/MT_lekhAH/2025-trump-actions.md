@@ -2,7 +2,13 @@
 title = "2025+ trump actions"
 +++
 
-## Coming loss
+## 2026 loss
+### Post loss
+Even as the era of the nAri~NgapuruSha winds down, it is darkly comical to see the duShTa anugAmin reemerge from the woodwork like a termite posing as the new MAGA. 
+
+For all his faults the nAri~ngapuruSha at least had some redeeming qualities. However, anugAmin+++(=De santis)+++ is a pure duShTa. 
+
+### Prior indications
 Source: [TW](https://x.com/blog_supplement/status/2117814741112414674)
 
 The hastin-s are likely to be wiped out amonkg the mahAmlechCha. The nAri~Nga might vent his frustration by setting West Asia on fire with his guru-s.

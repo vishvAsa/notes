@@ -1,3 +1,7 @@
++++
+title = "OpenCode global instructions"
++++
+
 # Global instructions
 
 ## Subagents
@@ -12,21 +16,6 @@
 - When delegating to a subagent, pass the free model explicitly via the `model` parameter, for example `opencode-go/beam-free#xhigh`.
 
 
-## Proofreading
-Proofreading and editing style prompts live in `~/gitland/sanskrit/sanskrit.github.io/content/groups/dyuganga/projects/text/proofreading/editing/AI-prompt/`; pick by filename (Skip `_index.md` — it is a human user guide, not a prompt.)
-
-- `Sanskrit_devanAgarI_markdown.md` for Devanagari prose, 
-- `Other_Indic_language_markdown.md`, `generic-markdownification.md` for English, 
-- `sanskrit-rejoiner.md` / `bare-hyphenator.md` for sandhi. 
-
-### Proofreading scanned texts
-
-- Never guess at illegible text: mark the smallest span (e.g. `…[[??]]`) and move on.
-- Preserve existing headings and paragraphs; edit only what was asked.
-- Check `[[Pnnn]]` page markers against the printed folio — PDF/book offsets drift between volumes and even within one volume.
-- If you don't need to run special OCR tools (there's a subagent specified for that), use drive_ocr (described in "existing code" section).
-
-
 ## Compute
 
 - Do NOT run CPU-heavy tasks on the local machine; offload them to Kaggle or Google Colab instead. Avoid grinding the local CPU.
@@ -39,10 +28,14 @@ Use and maintain existing code where possible — it is installed in the venv at
 Before writing text-processing code, check these in `~/gitland/sanskrit-coders/doc_curation`:
 
 - OCR (preferred): `pdf/drive_ocr` — especially use calls like drive_ocr.split_and_ocr_all( dir_path=..., small_pdf_pages=10, detext=False, file_pattern=r"(?!.*-double\.pdf$)[^_].*\.pdf") to rapidly get Google Drive OCR when needed.
+  - Hand heavy Tesseract/ custom ocr work to the `tesseract_ocr` subagent.
 - `pdf/splitter` for splitting two-up scanned PDFs into single pages.
 - `md/` has much code for processing Markdown files: `md/content_processor/details` for details blocks, `md/content_processor/footnote` for footnotes, `md/content_processor/commentary` for commentary.
 - `ebook/` for producing epubs and pdf-s from markdown.
-- Bulk LLM proofreading/editing with rotating free keys — `llm/gemini`: `library.apply_function(fn=gemini.process_text_chunks_with_keys, dir_path=..., prompt=llm.get_prompt(<path to a style prompt from AI-prompt/>), dry_run=False, start_file=None, end_file=None)`. `library` is `doc_curation.md.library`; `gemini` is `doc_curation.llm.gemini`; `get_prompt(...)` loads one of the style prompts listed under Proofreading.
+- Bulk LLM proofreading/editing with rotating free keys — `llm/gemini`: `library.apply_function(fn=gemini.process_text_chunks_with_keys, dir_path=..., prompt=llm.get_prompt("~/gitland/sanskrit/sanskrit.github.io/content/groups/dyuganga/projects/text/proofreading/editing/AI-prompt/<style prompt>.md"), dry_run=False, start_file=None, end_file=None)`. `library` is `doc_curation.md.library`; `gemini` is `doc_curation.llm.gemini`.
+- Sanskrit speicific -
+  - Hyphenation - `from doc_curation.sanskrit.hyphenator import hyphene` usually suffices.
+  - Hyphenation with LLM (to simulataneously suggest changes to doubtful text) - Use llm library with ~/gitland/sanskrit/sanskrit.github.io/content/groups/dyuganga/projects/text/proofreading/editing/AI-prompt/sanskrit-markdown.md as prompt.
 
 ### Other libraries 
 For interacting with archive.org, there is the `ia` command line (configured). Also, there is `curation_utils.archive_utility`.

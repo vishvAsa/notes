@@ -20,13 +20,14 @@ So orchestrator converts back to: <|user|>What is the capital of France?<|thinki
 </details>
 
 
+### Instruction assembly
+instruction assembly order on opencode harness: agent prompt → Code Mode guidance → MCP/skill/reference → global and project AGENTS.md → date/env → session entries
 
 ### On-computer remote calls
 We use harnesses, so we rarely notice how the info travels on the wire.
 
 This is what happens: <|sys|>system prompt<|user|>...<|thinking|>...<|tool-call|>...<|thinking|>...<|tool-call|>...<|response|>...<|user|>................
 
-Free models on opencode tend to be good. 
 
 ## Metering
 Input and output tokens are measured and metered.  
