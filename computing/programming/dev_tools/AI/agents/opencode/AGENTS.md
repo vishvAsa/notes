@@ -12,7 +12,14 @@
 - When delegating to a subagent, pass the free model explicitly via the `model` parameter, for example `opencode-go/beam-free#xhigh`.
 
 
-## Proofreading scanned texts
+## Proofreading
+Proofreading and editing style prompts live in `~/gitland/sanskrit/sanskrit.github.io/content/groups/dyuganga/projects/text/proofreading/editing/AI-prompt/`; pick by filename (Skip `_index.md` — it is a human user guide, not a prompt.)
+
+- `Sanskrit_devanAgarI_markdown.md` for Devanagari prose, 
+- `Other_Indic_language_markdown.md`, `generic-markdownification.md` for English, 
+- `sanskrit-rejoiner.md` / `bare-hyphenator.md` for sandhi. 
+
+### Proofreading scanned texts
 
 - Never guess at illegible text: mark the smallest span (e.g. `…[[??]]`) and move on.
 - Preserve existing headings and paragraphs; edit only what was asked.
@@ -26,9 +33,19 @@
 
 ## Existing code
 
-Use and maintain existing code where possible — it is installed in `~/gitland/python_venv` (**not** the default `python3`), so invoke `~/gitland/python_venv/bin/python`. Before writing text-processing code, check these in `~/gitland/sanskrit-coders/doc_curation`:
+Use and maintain existing code where possible — it is installed in the venv at `~/gitland/python_venv`, so invoke `~/gitland/python_venv/bin/python` (**not** the default `python3`). 
 
-- OCR: `pdf/drive_ocr` — especially use calls like drive_ocr.split_and_ocr_all( dir_path=..., small_pdf_pages=10, detext=False, file_pattern=r"(?!.*-double\.pdf$)[^_].*\.pdf") to rapidly get Google Drive OCR when needed.
+### doc_curation
+Before writing text-processing code, check these in `~/gitland/sanskrit-coders/doc_curation`:
+
+- OCR (preferred): `pdf/drive_ocr` — especially use calls like drive_ocr.split_and_ocr_all( dir_path=..., small_pdf_pages=10, detext=False, file_pattern=r"(?!.*-double\.pdf$)[^_].*\.pdf") to rapidly get Google Drive OCR when needed.
 - `pdf/splitter` for splitting two-up scanned PDFs into single pages.
 - `md/` has much code for processing Markdown files: `md/content_processor/details` for details blocks, `md/content_processor/footnote` for footnotes, `md/content_processor/commentary` for commentary.
 - `ebook/` for producing epubs and pdf-s from markdown.
+- Bulk LLM proofreading/editing with rotating free keys — `llm/gemini`: `library.apply_function(fn=gemini.process_text_chunks_with_keys, dir_path=..., prompt=llm.get_prompt(<path to a style prompt from AI-prompt/>), dry_run=False, start_file=None, end_file=None)`. `library` is `doc_curation.md.library`; `gemini` is `doc_curation.llm.gemini`; `get_prompt(...)` loads one of the style prompts listed under Proofreading.
+
+### Other libraries 
+For interacting with archive.org, there is the `ia` command line (configured). Also, there is `curation_utils.archive_utility`.
+
+For transliteration, there is `indic_transliteration`; for meters, there is `chandas`. Both import from the same `~/gitland/python_venv` venv, as does `curation_utils`.
+
