@@ -1,0 +1,117 @@
+\documentclass{article}
+\input{../../packagesMemoir}
+\input{../../macros}
+\lstset{language=matlab}
+
+
+%opening
+\title{Data mining: Homework 4}
+\author{vishvAs vAsuki}
+
+\begin{document}
+
+\maketitle
+
+\section{1}
+\lstinputlisting{../cluster/kmeans.m}
+
+
+\subsection{Related Functions}
+\lstinputlisting{../../randomizedAlgorithms/+randomizationUtils/Sample.m}
+
+\section{2}
+\lstinputlisting{../cluster/Agglomerative.m}
+
+\subsection{Related Functions}
+\lstinputlisting{../cluster/ClusterUtils.m}
+
+
+\section{3}
+\subsection{Notation}
+Let number of classes = c. Let number of data points = N. Let dimension of the data = D. Let number of iterations = k.
+
+\subsection{Some observations}
+Time taken to calculate distance between 2 D dimensional vectors is O(D).
+
+Time taken to find minimum of n numbers: O(n).
+
+\subsection{Experiment code}
+\lstinputlisting{code/kmeansVsAgglomerative.m}
+
+\subsection{k-means clustering}
+k-means is highly sensitive to the initial conditions. So, different initial partitionings lead to clusterings of different qualities.
+
+\subsubsection{Confusion matrix}
+\begin{verbatim}
+confusionMatrixKMeans =
+
+    50.0000e+000     0.0000e-003     0.0000e-003
+     0.0000e-003    13.0000e+000     0.0000e-003
+     0.0000e-003    37.0000e+000    50.0000e+000
+\end{verbatim}
+
+\subsubsection{Observed Running time}
+0.171957 seconds.
+
+\subsubsection{Theoretical running time}
+A worst case analysis follows. Time taken to find mean of a cluster: O(ND). Time taken to find means of c clusters: O(NDc). Time taken to find distances of each point to c means: O(NDc).
+
+The above is repeated during all of the k iterations. So, the total running time is O(kNDc).
+
+\subsection{Agglomerative clustering}
+\subsubsection{Confusion matrix}
+\begin{verbatim}
+confusionMatrixAgg =
+
+    49.0000e+000     0.0000e-003     0.0000e-003
+     1.0000e+000     0.0000e-003     0.0000e-003
+     0.0000e-003    50.0000e+000    50.0000e+000
+\end{verbatim}
+
+\subsubsection{Observed Running time}
+421.530759 seconds.
+
+\subsubsection{Theoretical running time}
+A worst case analysis follows.
+
+Time taken to compute the inter-point distance matrix = $O(N^{2}D)$. 
+
+Calculating distance between all possible pairs of clusters, in any iteration, involves finding the minimum amongst $\leq N^{2}$ numbers, so, this operation costs $O(N^{2})$ time. Number of iterations is k = $N-c$.
+
+So, total operation count is $O(N^{2}D + N^{2}(N-c)) = O(N^{2}(N+D-c))$.
+
+
+\section{4}
+$S_T = \sum_x d_f(x,y), S_B = \sum_{c=1}^{K} N_c d_f(m_c,m), S_W = \sum_{c=1}^{K} \sum_{x \in \pi_c} d_f(x,m_c)$\\
+ where $m = N^{-1}\sum_x x,\ m_c = N_c^{-1}\sum_{x \in \pi_c} x$.
+
+\begin{eqnarray*}
+m &=& N^{-1}\sum_x x\\
+&=& N^{-1}\sum_{c=1}^{K} \sum_{x \in \pi_c}  x\\
+&=& N^{-1}\sum_{c=1}^{K} N_c m_c\\
+&=& N^{-1}\sum_{c=1}^{K} \sum_{x \in \pi_c} m_c\\
+\therefore \sum_{x \in \pi_c} \sum_{c=1}^{K} (m_c - m) & = & 0\\
+\sum_{x \in \pi_c} (x - m_c)^{T} &=& N_c(m_c - m_c) = 0\\
+\sum_{x } (x - m)^{T} &=& N(m - m) = 0\\
+\end{eqnarray*}
+
+We use this below.
+\begin{eqnarray*}
+S_B + S_W &=& \sum_{c=1}^{K} N_c d_f(m_c,m) + \sum_{c=1}^{K} \sum_{x \in \pi_c} d_f(x,m_c)\\ 
+&=& \sum_{c=1}^{K} \sum_{x \in \pi_c} d_f(m_c,m) + \sum_{c=1}^{K} \sum_{x \in \pi_c} d_f(x,m_c)\\
+&=& \sum_{x \in \pi_c} \sum_{c=1}^{K} (d_f(m_c,m) + d_f(x,m_c))\\
+&=& \sum_{x \in \pi_c} \sum_{c=1}^{K} f(m_c) - f(m) + f(x) - f(m_c) \\
+&& - (m_c - m)^{T}\gradient f(m) - (x - m_c)^{T}\gradient f(m_c)\\
+&=& \sum_{x \in \pi_c} \sum_{c=1}^{K} f(x) - f(m)\\
+&=& \sum_{x} f(x) - f(m)\\
+&=& \sum_{x} f(x) - f(m) - (x - m)^{T} \gradient f(m)\\
+&=& \sum_{x} d_f(x, m)\\
+&=& S_T\\
+\end{eqnarray*}
+
+
+% \bibliographystyle{plain}
+% \bibliography{../linAlg}
+
+
+\end{document}

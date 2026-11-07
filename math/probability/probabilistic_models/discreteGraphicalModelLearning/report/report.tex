@@ -1,0 +1,201 @@
+\documentclass{article}
+% \usepackage[left=3cm,top=1.5cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{caption, subfigure}
+\input{../../../packages}
+\input{../../../macros}
+
+%opening
+\title{Learning Discrete Graphical Models using L1/L2 Regularized Logistic Regression}
+\author{vishvAs vAsuki}
+\date{}
+\begin{document}
+\maketitle
+\abstract
+This report examines the discrete graphical model structure learning algorithm proposed in a paper by \citet{ravikumarIsing09}. The purpose of this project is to check if the algorithm works, and gain intuition into the conditions under which it works. This report details early experiments in this direction which show promising results - the algorithm succeeds in correctly determining the structure of some star structured graphical models. Besides this, the report also discusses an efficient way to select a suitable regularization parameter for use by the structure learning algorithm during future experiments. Future work will involve theoretical analysis and more detailed experiments to determine conditions under which the algorithm is guaranteed to recover the graph structure.
+
+\tableofcontents
+
+
+\section{Introduction}
+In what follows, we will first describe the concept of undirected graphical models, and the problem of learning the structure of a graphical model. We will then describe Ising models and general discrete graphical models. We will then describe the neighborhood learning algorithm. In doing this, we will establish the notation we will use throughout this report.
+
+\subsection{Undirected graphical models and structure learning}
+Consider the probability distribution $D$ associated with the p-dimensional random vector $X$, and let $V = \set{1 .. p}$. Suppose that $D$ could be factorized as $D(X = x) = \prod_{c\subseteq V} \gf_c(x_c)$. This factorization can be represented using a graph $G = (V, E)$ with $p$ nodes $V$ and some edges $E$, such that any set of variables, $c$, occuring in the factorization of $D$ corresponds to cliques in $G$. $G$, together with $D$, is called an Undirected Graphical Model, or a Markov Random Field.
+
+\subsubsection{Pairwise graphical models.}
+Suppose further that every set of variables, $c$, occuring in the factorization $D(x) = \prod_{c\subseteq V} \gf_c(x_c)$ contains at most two variables. The corresponding graphical model is then called a pairwise graphical model. This allows us the following interpretation of $G$: The variables $X_i$ and $X_j$ are independent according to $D$ exactly when $G$ contains an edge between nodes $i$ and $j$.
+
+\subsubsection{The structure learning problem.}
+The task we consider in this project is one of learning $G$, given $n$ samples drawn from an unknown pairwise graphical model. This is a very general and important task in science and engineering, where one is often interested in learning the dependencies between various random variables observed. For example, given gene co-expression data, one may be interested in learning the functional dependencies between genes.
+
+\subsubsection{Discrete graphical models.}
+\label{sec:Discrete graphical models.}
+In particular, we are concerned with discrete graphical models, where the range of every random variable $X_i$ is a finite set. Pairwise discrete graphical models are very general: One can always find a pairwise discrete graphical model equivalent to any given Discrete graphical model: one just needs to introduce new variables $X_c$ corresponding to sets $c$ of than more than two variables variables. So, in this project we restrict ourselves to considering only pairwise discrete graphical models.
+
+The probability distribution $D$ associated with a pairwise discrete graphical model can be completely specified by 
+\begin{equation}
+Pr(x|\gth) = \prod_{(i, j) \in E}\gf_{i, j}(x_i, x_j) \propto \exp(\sum_{(i, j)\in E} \gth_{i, j, x_i, x_j}),
+\label{eqn:distributionDiscreteGM}
+\end{equation}
+where $\gf_{i, j}(x_i, x_j)$ is being specified as being proportional to $\exp(\gth_{i, j, x_i, x_j})$. If one were to further define $\forall (i, j) \notin E: \gth_{i, j, x_i, x_j} = 0$, we could write: $Pr(x|\gth) \propto \exp(\sum_{(i, j)} \gth_{i, j, x_i, x_j})$.
+
+So, $D$ can be completely described by the parameter array $\gth$. Note that, for each vertex pair $(i, j)$, there are $|range(X_i)| \times |range(X_j)|$ parameters. Also, if the graph $G$ is sparse, $\gth$ is group sparse.
+
+For desigining a structure learning algorithm, we will need an expression for the conditional probability:\\
+\begin{equation}
+Pr(X_i = x_i|X_{/i} = x_{/i}, \gth) \propto \exp(\sum_{j \in \nbd(i)} \gth_{i, j, x_i, x_j}),
+\label{eqn:condProbabilityDiscrete}
+\end{equation}
+where $\nbd(i)$ denotes the neihborhood of $i$ in $G$ and $x_{/i}$ is shorthand for $x_{V-\set{i}}$.
+
+\subsection{Ising models}
+\label{sec:Ising models}
+Ising models are pairwise undirected graphical models associated with the random vector $X \in \set{-1, 1}^{p}$, whose probability distribution $D$ can be specified by $Pr(x|\gth) \propto \exp(\sum_{(i, j) \in E} \gth_{i, j}x_i x_j)$. For this special case of pairwise undirected graphical models, there is just one parameter $\gth_{i, j}$ associated with any edge $(i, j) \in E$.
+
+We are interested in this class of graphical models, because algorithms to solve the structure learning problem for such models are the main object of study in \citet{ravikumarIsing09}. The conditional probability $Pr(X_i = x_i|X_{/i} = x_{/i}, \gth) \propto \exp(\sum_{j \in \nbd(i)} \gth_{i, j}x_i x_j)$ will be used for this purpose.
+
+\section{Structure learning algorithm}
+In this section, we will first consider the structure learning algorithms presented in \citet{ravikumarIsing09}, which are based on learning the neighborhood of each node in G. We will then contrast this algorithm with some other structure learning algorithms.
+
+\subsection{Neighborhood learning algorithm}
+\label{sec:Neighborhood learning algorithm}
+One can learn the structure $G$ of a pairwise graphical model with the distribution $D$ by determining the neighborhood $\nbd(i)$ of each $i \in V$. One way of determining $\nbd(i)$ is to estimate the parameters\footnote{MATLAB notation is being used here.} $\gth_{i, :, :, :}$, and deduce that $j \in \nbd(i)$ if and only if $\exists x_i, x_j: \gth_{i, j, x_i, x_j} \neq 0$.
+
+So, the only thing which remains to be specified is the algorithm used to learn these parameters $\gth_{i, :, :, :}$, given $i$ and a set of $n$ samples drawn from $D$. It turns out that logistic regression, with suitable regularization, can be used for this purpose.
+
+\subsubsection{For general discrete graphical models.}
+A good parameter estimate $\gth_{i, :, :, :}^*$ would maximize the likelihood (or equivalently, minimize the negative log likelihood) of $\gth_{i, :, :, :}$ given that a set of $n$ observations $S = \set{x^{(i)}}$ is drawn from the probability distribution $D$. However, as noted in Section $\ref{sec:Discrete graphical models.}$,
+a good estimate $\gth_{i, :, :, :}^*$ would also be group sparse. One poplular way of imposing group sparsity is to use $\ell_1/\ell_2$ regularization while solving the optimization problem. So, the algorithm to find $\gth_{i, :, :, :}^*$ is one which solves the convex optimization problem $$\argmin_{\gth_{i, :, :, :}} \set{nll_i(\gth_{i, :, :, :} | S) + \gl' \sum_{j} \norm{\gth_{i, j, :, :}}_2}$$
+Here, $nll_i(\gth|S)$ denotes the negative log likelihood of $\gth_{i, :, :, :}$, given the observations $S$. Equivalently, in our experiments, we solve the following optimization problem:
+\begin{equation}
+\argmin_{\gth_{i, :, :, :}} \set{n^{-1} \sum_{k=1}^{n}nll_i(\gth_{i, :, :, :} |x^{(k)}) + \gl \sum_{j} \norm{\gth_{i, j, :, :}}_2},
+\label{eqn:optProblemLagrangianDiscrete}
+\end{equation}
+where $nll_i(\gth_{i, :, :, :}|x^{(k)})$ denotes the negative log likelihood of $\gth$ given a sample $x^{(k)}$; and, from Equation \ref{eqn:condProbabilityDiscrete}, it can be seen to be:
+$$nll_i(\gth_{i, :, :, :}|x^{(k)}) = - \sum_{j\in V} \gth_{i, j, x_i^{(k)}, x_j^{(k)}} + \log[\sum_l \exp(\sum_{j \in V}\gth_{i, j, l, x_j^{(k)}})]$$
+
+In some of our experiments, we solve the above optimization problem by rewriting it as a constrained optimization problem:
+\begin{equation}
+\argmin_{\gth_{i, :, :, :}:  \sum_{j} \norm{\gth_{i, j, :, :}}_2 \leq c} \set{n^{-1} \sum_{k=1}^{n}nll_i(\gth_{i, :, :, :} |x^{(k)})}.
+\label{eqn:optProblemConstrainedDiscrete}
+\end{equation}
+
+Whether we solve the problem using formulation \ref{eqn:optProblemLagrangianDiscrete} or using formulation \ref{eqn:optProblemConstrainedDiscrete}, the solution will depend on the choice of $\gl$ or $c$ respectively. We refer to these problem parameters as \textit{regularization parameters}, to distinguish them from the \textit{model parameters} $\gth$.
+
+\subsubsection{For Ising models}
+As noted in Section \ref{sec:Ising models}, in this case, we just have one parameter $\gth_{i, j}$ corresponding to each pair of random variables, $(i, j)$. As earlier, we want to find parameters $\gth_{i, :}$ which are most likely given the set of $n$ observations $S = \set{x^{(i)}}$, but subject to prior belief that $\gth_{i, :}$ is sparse. Here, the following optimization problem is solved:
+\begin{equation}
+\argmin_{\gth_{i, :}} \set{n^{-1} \sum_{k=1}^{n}nll_i(\gth_{i, :} |x^{(k)}) + \gl \sum_{j} \norm{\gth_{i, j}}_2},
+\label{eqn:optProblemLagrangianIsing}
+\end{equation}
+where $nll_i(\gth_{i, :}|x^{(k)})$ denotes the negative log likelihood of $\gth_{i, :}$ given a sample $x^{(k)}$. This is described and analyzed in detail in \citet{ravikumarIsing09}.
+
+
+\subsubsection{Resolving inconsistencies}
+From the sparsity pattern of the parameters $\gth_{i, :, :, :}$ learned using logistic regression, the algorithm deduces the neighbors of each node in $G$. The algorithm can encounter the following inconsistency when deducing graph structure: The neighborhood set $\nbd(u)$ learned for node $u$, may include $v$, but the neighborhood set $\nbd(v)$ learned for $v$ may not include $u$.
+
+For the Ising model case, this is usually not a problem, as the analysis by \citet{ravikumarIsing09} guarantees consistent signed edge recovery when certain conditions are met. In the case of general discrete graphical models, during our early experimetns, we resolve inconsistencies using the following rule: $[v \in \nbd(u)] \lor [u \in \nbd(v)] \implies (u, v) \in G$.
+
+\subsection{Related work}
+We now briefly mention of a couple of other approaches to graphical model structure learning. As the project is at an early stage, this survey of related work is not meant to be complete, but is meant to give a flavor of the kind of structure learning algorithms used in the past. There are two major ways of tractably learning structures of graphical models: either the topology is assumed, or one learns the neighborhood of each node, one node at a time. As an example of the first category of algorithms, early work by \citet{Chow68approximatingdiscrete} tried to learn tree structured graphical models. The neighborhood learning algorithms are better in the sense that it works for cases where $G$ has cycles. In \citet{dahindenContingency09}, a decompositional approach has been proposed for learning graphical models, in which after initially estimating the graphical model using node-wise regression, then the algorithm decomposes the graph into subgraphs and end up estimating and combining structures of small sub-graphs. This raises the question of whether a similar decompositional approach can be used with the structure learning algorithm studied in this project, but that is deferred for future research.
+
+
+\section{Experiment setup}
+\label{sec:Experiment setup}
+
+\subsection{Test distributions.}
+\label{Test distributions.}
+In order to test structure learning algorithms, we design distributions modelled by pairwise graphical models. In order to specify such a distribution completely, we need to specify the graph $G$ (that is, the topology), the size of the range of each random variable $X_i$ and the parameters associated with each edge, as described in Equation \ref{eqn:distributionDiscreteGM}. We take the size of the range of each random variable $X_i$ to be three. Also, for our early experiments, we tried the following topologies:
+\begin{itemize}
+ \item Star graph: All nodes are connected to one node.
+ \item Chain: The nodes form a chain.
+\end{itemize}
+
+Then, for each edge $(i, j)$, we select the edge-potentials $e_{\gth_{i, j, :, :}}$ uniformly from the range $[0, k]$. Note that the distribution specified by these parameters is invariant to translation. For some of our experiments, we pick $k=3$, and for other experiments, we set $k=1$. The choice of $k$ is important because, as in the case of the Ising model structure learning algorithm, we expect that the structure learning algorithm for general discrete graphical models will only work when the array $\gth$ satisfies certain conditions. One suggestion \citet{pradeepPrivate} has been to select $k \propto \frac{1}{\sqrt{p}}$ or $k \propto \frac{1}{\sqrt{d}}$, where $p$ denotes the number of variables, and $d$ denotes the maximum degree of any node in $G$.
+
+\subsection{Drawing samples.}
+Having specified the distribution $D$ corresponding to the graphical model, we will need to efficiently draw samples from it for the purpose of testing the structure learning algorithm. For our early exeriments, we are using tree structured graphical models; so we are able to efficiently and accurately sample from $D$. To do this, we use software provided by \citet{schmidtSoftware}. In future experiments, where we may deal with cases where $G$ has loops, we can use MCMC for efficient approximate sampling.
+
+\subsection{Goals and Evaluation}
+One of the goals of our experiments is to understand how many examples are needed for the algorithm to learn the structure of a pairwise discrete graphical model with $p$ nodes with high probability. Another of the goals of our experiments is to understand the dependency between the number of samples $n$, the number $p$ of nodes in $G$, and the parameter $\gl$ used by the neighborhood learning algorithm.
+
+In order to address the first goal, we draw multiple sample sets of increasing size ($n \in [2^{5}, 2^{14}]$) from the distribution $D$ and do the following for each choice of $n$: We fix a suitable $\gl_n$ for use in solving the problem specified in Equation \ref{eqn:optProblemLagrangianDiscrete} either manually or using validation, and finally we empirically determine the probability of success of the structure learning algorithm. In order to address the second goal, we plot the $\gl_n$ used during the previous process either against $n$ or against $\sqrt{\frac{\log p}{n}}$.
+
+We follow the same procedure for the case where we tackle the logistic regression problem in its constrained optimization form (Equation \ref{eqn:optProblemConstrainedDiscrete}), except that we now need to pick the parameter $c$, rather than $\gl$.
+
+\subsection{Choosing the regularization parameter}
+As described in Section \ref{sec:Neighborhood learning algorithm}, in solving the logistic regression problem, the choice of the regularization parameter, which is $c$ or $\gl$ depending on the formulation used, affects the quality of the solution we get. In the following discussion, even though we consider the problem of picking $\gl$ used in Formulation \ref{eqn:optProblemLagrangianDiscrete}, similar observations apply to picking $c$ used in Formulation \ref{eqn:optProblemConstrainedDiscrete}.
+
+If we pick a $\gl$ which is too small, we end up allowing $\gth$ to be dense, and the graph we learn as a consequence will have too many edges; and we may get a complete graph! If we pick a $\gl$ which is too big, we end up getting parameters $\gth$ which are too sparse - even all zeros, and the graph we learn as a consequence will have too few - perhaps zero - edges. So, we must pick a $\gl$ which lies in between these two extremes. The choice of $\gl$ has been a vexing problem in this project, one for which we do not yet have a completely satisfying solution.
+
+\citet{ObozinskiWJ08arxiv} analyze a problem which is identical to Equation \ref{eqn:optProblemLagrangianDiscrete} except that the negative log likelihood part of the objective is replaced with $\norm{Y-X\gth}_F $. They use $\gl = \sqrt{\frac{f(p) \log p}{n}}$, for any $f(p) \to \infty$ as $p \to \infty$. It is likely that a similar choice for $\gl$ may work in our case too.
+
+\subsubsection{The validation procedure}
+\label{sec:The validation procedure.}
+One can manually pick $\gl$ - by picking the one which yields a model of expected sparsity, and we do this in some of our experiments in order to prove the point that the structure learning algorithm actually works, given suitable $\gl$. Otherwise, one can use validation to programmatically pick $\gl$. The validation process involves assigning scores to $\gl$ based on how good it is. The goodness of a given regularization parameter $\gl$ depends on the goodness of the model parameters $\gth$ learned using that regularization parameter.
+
+This raises the question: How good is a given model parameter array $\gth$? The goodness of the model parameters $\gth$ can either be judged based on its sparsity, or based on its likelihood given some observations $S$.
+
+We will consider the latter first. As determining the likelihood of $\gth$, which is $\prod_{x \in S}\frac{exp(\sum_{i, j} \gth_{i, j, x_i, x_j})}{Z(\gth)}$, requires the computation of the partition function $Z(\gth) = \sum_x exp(\sum_{i, j} \gth_{i, j, x_i, x_j})$, we find it better to instead compute the pseudolikelihood of the parameter $\prod_{x \in S} \prod_i Pr(x_i|x_{/i}, \gth)$, where $Pr(x_i|x_{/i}, \gth)$ is the conditional probability specified in Equation \ref{eqn:condProbabilityDiscrete}.
+
+We can also rate model parameters $\gth$ based on its ability to yield the desired sparsity. For some of our experiments, we use this method - not only does it seem to be more reliable, it is also faster because there is no need to evaluate the pseudo-likelihood of $\gth$ given some observations $S$: only its sparsity properties need to be abalysed. We use binary search to find the ideal $\gl$ using this goodness measure: thus, we take advantage of the fact that the sparsity of the resultant $\gth$ varies monotonically with $\gl$. However, using this method during structure learning tasks in practice will require prior information about the sparsity of the graphical model being learned. Hopefully, analysis will help us identify the parameters even without knowing beforehand the sparsity structure of the graphical model generating the observations.
+
+Irrespective of the mechanism of choosing the best $\gl$, in our experiments, for the purpose of robustness to the randomness involved in empirically evaluating a certain value of $\gl$, we do \textit{k-fold validation}. So, we evaluate the goodness of any given $\gl$ based on the goodness of parameter arrays $\gth$ learned from $k$ different sample sets.
+
+\subsection{Solving the optimization problem efficiently}
+Now, we consider the problem of solving the $\ell_1/\ell_2$ regularized logistic regression problem efficiently. This is especially important when dealing with problems which occur in practice, where $p$ and $n$ tend to be huge. When we choose to specify the problem using Formulation \ref{eqn:optProblemConstrainedDiscrete}, we use a Projected Quasi-Newton algorithm proposed by \citet{schmidtPQN}. In our experiments, we use software provided by the authors\cite{schmidtSoftware}.
+
+When we choose to include the $\ell_1/\ell_2$ constraint in the objective, as specified in Formulation \ref{eqn:optProblemLagrangianDiscrete}, we solve the problem using a simple adaptation of the block coordinate gradient descent algorithm proposed by \citet{meierRS2008}. In \citet{meierRS2008}, the authors aim to solve $\ell_1/\ell_2$ regularized logistic regression for the case where the response variable is binary; whereas in our case the response variable is not necessarily binary. Solving the logistic regression problem in this form is important because it will allow us to examine the relationship between $\gl,\ p$ and $n$; and prior analysis for related optimization problems has been done using such a formulation. In our experiments, we use our own MATLAB implementation of this algorithm.\footnote{Note that we cannot use the R code provided by the authors of \citet{meierRS2008}, as they assume that the response variable is binary.}
+
+
+\section{Results and discussion}
+\label{sec:Results and discussion}
+\begin{figure}[h]
+  \begin{center}
+    \subfigure[5 node star.]{\includegraphics[scale=0.1]{../log/star5n-3uniformL1L22010-07-08-13:38:21:376.jpg}}
+    \subfigure[5 node star.]{\includegraphics[scale=0.1]{../log/star5n-3uniformL1L2-l-2010-07-08-13:38:23:228.jpg}}
+    
+    \subfigure[8 node star.]{\includegraphics[scale=0.1]{../log/star8n-3uniformL1L22010-07-08-13:42:57:429.jpg}}
+    \subfigure[8 node star.]{\includegraphics[scale=0.1]{../log/star8n-3uniformL1L2-l-2010-07-08-13:42:58:944.jpg}}
+    
+    \subfigure[10 node star.]{\includegraphics[scale=0.1]{../log/star10n-3uniformL1L22010-07-08-13:51:20:126.jpg}}
+    \subfigure[10 node star.]{\includegraphics[scale=0.1]{../log/star10n-3uniformL1L2-l-2010-07-08-13:51:20:700.jpg}}
+    
+    \subfigure[15 node star.]{\includegraphics[scale=0.1]{../log/star15n-3uniformL1L22010-07-08-14:03:24:216.jpg}}
+    \subfigure[15 node star.]{\includegraphics[scale=0.1]{../log/star15n-3uniformL1L2-l-2010-07-08-14:03:25:972.jpg}}
+  \end{center}
+  \caption{Experiments on star structured graphical models, using Formulation \ref{eqn:optProblemConstrainedDiscrete} for neighborhood identification. Besides the probability of success, the regularization parameter, $c$, which was used in these experiments is also presented. Experiment setup is described in \ref{sec:Experiment setup}. In all cases, the parameters constituting $\gth$ were selected uniformly at random from [0, 3]. These early experiments provided us the evidence that the structure learning algorithm actually works in certain cases, and paved the way for more detailed experimetns using Formulation \ref{eqn:optProblemLagrangianDiscrete}.}
+  \label{fig:optProblemConstrained}
+\end{figure}
+
+In Figure \ref{fig:optProblemConstrained}, we present results of early experiments where Formulation \ref{eqn:optProblemConstrainedDiscrete} was used for nieghborhood identification. Besides the probability of success, the regularization parameter, $c$, which was used in these experiments is also presented; however, this parameter was not chosen in any systematic manner for these expermients. These form a sort of \textit{proof of concept} for the structure learning algorithm.
+
+\begin{figure}[h]
+  \begin{center}
+    \subfigure[3 node star, $k=3$: Structure learned using manually selected $\gl$.]{\includegraphics[scale=0.12]{../log/star3n-3uniformL1L2_Lagrangian2010-07-19-20:12:08:093.jpg}}
+    \subfigure[3 node star, $k=3$: $\gl$ selected manually.]{\includegraphics[scale=0.12]{../log/star3n-3uniformL1L2_Lagrangian-l-2010-07-19-20:12:09:377.jpg}}
+    
+    \subfigure[3 node star: Structure learned using programatically selected  $\gl$.]{\includegraphics[scale=0.12]{../log/star3n-1uniformL1L2Lagrangian2010-08-04-18:08:34:903.jpg}}
+    \subfigure[3 node star. $\gl$ learned using binary search based on sparsity.]{\includegraphics[scale=0.12]{../log/star3n-1uniformL1L2Lagrangian-l-2010-08-04-18:08:36:319.jpg}}
+  \end{center}
+  \caption{Experiments on star structured graphical models, using Formulation \ref{eqn:optProblemLagrangianDiscrete} for nieghborhood identification. In one set of experiments, Parameters were chosen Besides the probability of success, the regularization parameter, $c$, which was used in these experiments is also presented. Experiment setup is described in \ref{sec:Experiment setup}. Samples were drawn from a 3 node star whose parameters $\gth$ were selected uniformly at random from $[0, k]$. For one experiment, $k=3$ was used, for all other experiments, $k=1$ was used. One of these experiments demonstrate a solution to problem of selecting an appropriate $\gl$ using validation. For details, please see Section \ref{sec:Results and discussion}.}
+  \label{fig:optProblemLagrangian}
+\end{figure}
+
+In Figure \ref{fig:optProblemLagrangian}, we show the results of some experiments using star structured graphs. In one of these experiments, the sparsity-based fast validation method (which utilized binary search) described in Section \ref{sec:The validation procedure.} was used to learn the $\gl$ to be used in learning the neighborhood structure of nodes given $n$ examples. This experiment demonstrates the efficacy of this validation procedure in selecting a suitable $\gl$ in case we have prior knowledge of the sparsity of the target graphical model. (However, other experiments seem to indicate that the $k$ we use in k-fold validation must be larger than 5.) From the $\gl$ values learned by this validation procedure, we observe the dependence of the suitable range of $\gl$ values on $p$ and $n$. In particular, rough calculations using linear interpolation indicate that $\gl = 0.075 (\frac{\log p}{n})^{1/2} + 0.1495$ will be a good choice for future experiments.
+
+We also conducted a few experiments on chain structured graphical models, whose parameters were drawn uniformly at random from $[0, 1]$. Unfortunately, the structure learning algorithm did not succeed in this case. Future analysis will probably reveal the reason behind this failure.
+
+\section{Conclusion}
+In this project, we examined the discrete graphical model structure learning algorithm proposed in a paper by \citet{ravikumarIsing09}. The purpose of this project was to check if the algorithm works, and gain intuition into the conditions under which it works. This report described early experiments in this direction, and the results were promising - the algorithm succeeds in correctly determining the structure of some star structured graphical models from random samples. Besides this, we also proposed and demonstrated an efficient way to select a suitable regularization parameter for use by the structure learning algorithm during future experiments.
+
+\subsection{Future work}
+Future work will involve theoretical analysis and more detailed experiments to determine conditions under which the algorithm is guaranteed to recover the graph structure; and this will involve further experimentation on higher dimensional graphical models. This will require more efficient implimentation of the structure learning algorithm than what was used for this project. Another direction for future work is to examine the efficacy of the structure learning algorithm by applying it to a fairly large problem of practical interest.
+
+\section{Acknowledgements}
+The author thanks Prof. Pradeep Kumar Ravikumar for giving him an opprotunity to work on this problem. He also thanks Shruthi Viswanath for proof-reading this report, and Ali Jalali for his close scrutiny of his implementation of the block coordinate descent algorithm from \citet{meierRS2008}: this led to the resolution of some bugs in the code.
+
+\bibliographystyle{plainnat}
+\bibliography{../../probabilisticModels}
+
+\end{document}

@@ -1,0 +1,233 @@
+% Use something like:
+% \input{../../macros}
+
+% groupings of objects.
+\newcommand{\set}[1]{\ensuremath{\left\{ #1 \right\}}}
+\newcommand{\seq}[1]{\ensuremath{\left(#1\right)}}
+\newcommand{\ang}[1]{\ensuremath{\langle#1\rangle}}
+\newcommand{\tuple}[1]{\ensuremath{\left(#1\right)}}
+\newcommand{\size}[1]{\ensuremath{\left| #1\right|}}
+
+\newcommand{\comp}{\circ}
+
+
+% numerical shortcuts.
+\newcommand{\abs}[1]{\ensuremath{\left| #1\right|}}
+\newcommand{\floor}[1]{\ensuremath{\left\lfloor #1 \right\rfloor}}
+\newcommand{\ceil}[1]{\ensuremath{\left\lceil #1 \right\rceil}}
+
+% linear algebra shortcuts.
+\newcommand{\change}{\ensuremath{\Delta}}
+\newcommand{\norm}[1]{\ensuremath{\left\| #1\right\|}}
+\newcommand{\dprod}[1]{\ensuremath{\langle#1\rangle}}
+\newcommand{\linspan}[1]{\ensuremath{\langle#1\rangle}}
+\newcommand{\conj}[1]{\ensuremath{\overline{#1}}}
+\newcommand{\der}{\ensuremath{\frac{d}{dx}}}
+\newcommand{\lap}{\ensuremath{\Delta}}
+\newcommand{\kron}{\ensuremath{\otimes}}
+\newcommand{\nperp}{\ensuremath{\nvdash}}
+
+\newcommand{\mat}[1]{\left[ \begin{smallmatrix}#1 \end{smallmatrix} \right]}
+
+% derivatives and limits
+\newcommand{\partder}[2]{\ensuremath{\frac{\partial #1}{\partial #2}}}
+\newcommand{\partdern}[3]{\ensuremath{\frac{\partial^{#3} #1}{\partial #2^{#3}}}}
+\newcommand{\gradient}{\ensuremath{\nabla}}
+\newcommand{\subdifferential}{\ensuremath{\partial}}
+
+% Arrows
+\newcommand{\diverge}{\ensuremath{\nearrow}}
+\newcommand{\notto}{\ensuremath{\nrightarrow}}
+\newcommand{\up}{\ensuremath{\uparrow}}
+\newcommand{\down}{\ensuremath{\downarrow}}
+% gets and gives are defined!
+
+% ordering operators
+\newcommand{\oleq}{\preceq}
+\newcommand{\ogeq}{\succeq}
+
+% programming and logic operators
+\newcommand{\dfn}{:=}
+\newcommand{\assign}{:=}
+\newcommand{\co}{\ co\ }
+\newcommand{\en}{\ en\ }
+
+
+% logic operators
+\newcommand{\xor}{\ensuremath{\oplus}}
+\newcommand{\Land}{\ensuremath{\bigwedge}}
+\newcommand{\Lor}{\ensuremath{\bigvee}}
+\newcommand{\finish}{\ensuremath{\Box}}
+\newcommand{\contra}{\ensuremath{\Rightarrow \Leftarrow}}
+\newcommand{\iseq}{\ensuremath{\stackrel{_?}{=}}}
+
+
+% Set theory
+\newcommand{\symdiff}{\ensuremath{\Delta}}
+\newcommand{\setdiff}{\ensuremath{\backslash}}
+\newcommand{\union}{\ensuremath{\cup}}
+\newcommand{\inters}{\ensuremath{\cap}}
+\newcommand{\Union}{\ensuremath{\bigcup}}
+\newcommand{\Inters}{\ensuremath{\bigcap}}
+\newcommand{\nullSet}{\ensuremath{\phi}}
+
+
+% graph theory
+\newcommand{\nbd}{\Gamma}
+
+% Script alphabets
+% For reals, use \Re
+
+% greek letters
+\newcommand{\eps}{\ensuremath{\epsilon}}
+\newcommand{\del}{\ensuremath{\delta}}
+\newcommand{\ga}{\ensuremath{\alpha}}
+\newcommand{\gb}{\ensuremath{\beta}}
+\newcommand{\gd}{\ensuremath{\del}}
+\newcommand{\gp}{\ensuremath{\pi}}
+\newcommand{\gf}{\ensuremath{\phi}}
+\newcommand{\gh}{\ensuremath{\eta}}
+\newcommand{\gF}{\ensuremath{\Phi}}
+\newcommand{\gl}{\ensuremath{\lambda}}
+\newcommand{\gm}{\ensuremath{\mu}}
+\newcommand{\gn}{\ensuremath{\nu}}
+\newcommand{\gr}{\ensuremath{\rho}}
+\newcommand{\gs}{\ensuremath{\sigma}}
+\newcommand{\gth}{\ensuremath{\theta}}
+\newcommand{\gx}{\ensuremath{\xi}}
+
+\newcommand{\sw}{\ensuremath{\sigma}}
+\newcommand{\SW}{\ensuremath{\Sigma}}
+\newcommand{\ew}{\ensuremath{\lambda}}
+\newcommand{\EW}{\ensuremath{\Lambda}}
+
+\newcommand{\Del}{\ensuremath{\Delta}}
+\newcommand{\gD}{\ensuremath{\Delta}}
+\newcommand{\gG}{\ensuremath{\Gamma}}
+\newcommand{\gO}{\ensuremath{\Omega}}
+\newcommand{\gS}{\ensuremath{\Sigma}}
+\newcommand{\gTh}{\ensuremath{\Theta}}
+
+% Bold english letters.
+\newcommand{\bA}{\ensuremath{\mathbf{A}}}
+\newcommand{\bB}{\ensuremath{\mathbf{B}}}
+\newcommand{\bC}{\ensuremath{\mathbf{C}}}
+\newcommand{\bD}{\ensuremath{\mathbf{D}}}
+\newcommand{\bE}{\ensuremath{\mathbf{E}}}
+\newcommand{\bF}{\ensuremath{\mathbf{F}}}
+\newcommand{\bG}{\ensuremath{\mathbf{G}}}
+\newcommand{\bH}{\ensuremath{\mathbf{H}}}
+\newcommand{\bI}{\ensuremath{\mathbf{I}}}
+\newcommand{\bJ}{\ensuremath{\mathbf{J}}}
+\newcommand{\bK}{\ensuremath{\mathbf{K}}}
+\newcommand{\bL}{\ensuremath{\mathbf{L}}}
+\newcommand{\bM}{\ensuremath{\mathbf{M}}}
+\newcommand{\bN}{\ensuremath{\mathbf{N}}}
+\newcommand{\bO}{\ensuremath{\mathbf{O}}}
+\newcommand{\bP}{\ensuremath{\mathbf{P}}}
+\newcommand{\bQ}{\ensuremath{\mathbf{Q}}}
+\newcommand{\bR}{\ensuremath{\mathbf{R}}}
+\newcommand{\bS}{\ensuremath{\mathbf{S}}}
+\newcommand{\bT}{\ensuremath{\mathbf{T}}}
+\newcommand{\bU}{\ensuremath{\mathbf{U}}}
+\newcommand{\bV}{\ensuremath{\mathbf{V}}}
+\newcommand{\bW}{\ensuremath{\mathbf{W}}}
+\newcommand{\bX}{\ensuremath{\mathbf{X}}}
+\newcommand{\bY}{\ensuremath{\mathbf{Y}}}
+\newcommand{\bZ}{\ensuremath{\mathbf{Z}}}
+
+\newcommand{\bba}{\ensuremath{\mathbf{a}}}
+\newcommand{\bbb}{\ensuremath{\mathbf{b}}}
+\newcommand{\bbc}{\ensuremath{\mathbf{c}}}
+\newcommand{\bbd}{\ensuremath{\mathbf{d}}}
+\newcommand{\bbe}{\ensuremath{\mathbf{e}}}
+\newcommand{\bbf}{\ensuremath{\mathbf{f}}}
+\newcommand{\bbg}{\ensuremath{\mathbf{g}}}
+\newcommand{\bbh}{\ensuremath{\mathbf{h}}}
+\newcommand{\bbk}{\ensuremath{\mathbf{k}}}
+\newcommand{\bbl}{\ensuremath{\mathbf{l}}}
+\newcommand{\bbm}{\ensuremath{\mathbf{m}}}
+\newcommand{\bbn}{\ensuremath{\mathbf{n}}}
+\newcommand{\bbp}{\ensuremath{\mathbf{p}}}
+\newcommand{\bbq}{\ensuremath{\mathbf{q}}}
+\newcommand{\bbr}{\ensuremath{\mathbf{r}}}
+\newcommand{\bbs}{\ensuremath{\mathbf{s}}}
+\newcommand{\bbt}{\ensuremath{\mathbf{t}}}
+\newcommand{\bbu}{\ensuremath{\mathbf{u}}}
+\newcommand{\bbv}{\ensuremath{\mathbf{v}}}
+\newcommand{\bbw}{\ensuremath{\mathbf{w}}}
+\newcommand{\bbx}{\ensuremath{\mathbf{x}}}
+\newcommand{\bby}{\ensuremath{\mathbf{y}}}
+\newcommand{\bbz}{\ensuremath{\mathbf{z}}}
+\newcommand{\0}{\ensuremath{\mathbf{0}}}
+\newcommand{\1}{\ensuremath{\mathbf{1}}}
+
+% Caligraphic english alphabet
+\newcommand{\cA}{\ensuremath{\mathcal{A}}}
+\newcommand{\cB}{\ensuremath{\mathcal{B}}}
+\newcommand{\cC}{\ensuremath{\mathcal{C}}}
+\newcommand{\cD}{\ensuremath{\mathcal{D}}}
+\newcommand{\cE}{\ensuremath{\mathcal{E}}}
+\newcommand{\cF}{\ensuremath{\mathcal{F}}}
+\newcommand{\cG}{\ensuremath{\mathcal{G}}}
+\newcommand{\cH}{\ensuremath{\mathcal{H}}}
+\newcommand{\cI}{\ensuremath{\mathcal{I}}}
+\newcommand{\cJ}{\ensuremath{\mathcal{J}}}
+\newcommand{\cK}{\ensuremath{\mathcal{K}}}
+\newcommand{\cL}{\ensuremath{\mathcal{L}}}
+\newcommand{\cM}{\ensuremath{\mathcal{M}}}
+\newcommand{\cN}{\ensuremath{\mathcal{N}}}
+\newcommand{\cO}{\ensuremath{\mathcal{O}}}
+\newcommand{\cP}{\ensuremath{\mathcal{P}}}
+\newcommand{\cQ}{\ensuremath{\mathcal{Q}}}
+\newcommand{\cR}{\ensuremath{\mathcal{R}}}
+\newcommand{\cS}{\ensuremath{\mathcal{S}}}
+\newcommand{\cT}{\ensuremath{\mathcal{T}}}
+\newcommand{\cU}{\ensuremath{\mathcal{U}}}
+\newcommand{\cV}{\ensuremath{\mathcal{V}}}
+\newcommand{\cW}{\ensuremath{\mathcal{W}}}
+\newcommand{\cX}{\ensuremath{\mathcal{X}}}
+\newcommand{\cY}{\ensuremath{\mathcal{Y}}}
+\newcommand{\cZ}{\ensuremath{\mathcal{Z}}}
+
+
+% Formatting shortcuts
+\newcommand{\red}[1]{\textcolor{red}{#1}}
+\newcommand{\blue}[1]{\textcolor{blue}{#1}}
+\newcommand{\htext}[2]{\texorpdfstring{#1}{#2}}
+
+% Statistics
+\newcommand{\distr}{\ensuremath{\sim}}
+\newcommand{\stddev}{\ensuremath{\sigma}}
+\newcommand{\covmatrix}{\ensuremath{\Sigma}}
+\newcommand{\mean}{\ensuremath{\mu}}
+\newcommand{\param}{\ensuremath{\theta}}
+\newcommand{\gthEst}{\ensuremath{\hat{\theta}}}
+\newcommand{\ftr}{\ensuremath{\phi}}
+\newcommand{\est}[1]{\ensuremath{\hat{#1}}}
+
+% General utility
+\newcommand{\todo}[1]{\textbf{[TODO]}] \footnote{TODO: #1}}
+\newcommand{\exclaim}[1]{{\textbf{\textit{#1}}}}
+\newcommand{\tbc}{[\textbf{Incomplete}]}
+\newcommand{\chk}{[\textbf{Check}]}
+\newcommand{\why}{[\textbf{Find proof}]}
+\newcommand{\opt}[1]{\textit{#1}}
+
+\newcommand{\experience}[1]{[\textbf{Personal Experience}]: #1 \ensuremath{\blacktriangle}}
+\newcommand{\pf}[1]{[\textbf{Proof}]: #1 \ensuremath{\Box}}
+\newcommand{\core}[1]{\textbf{Core Idea}: #1 \ensuremath{\Arrowvert}}
+\newcommand{\example}[1]{\textbf{Example}: #1 \ensuremath{\blacktriangle}}
+\newcommand{\error}[1]{\textbf{Error alert}: #1 \ensuremath{\triangle}}
+\newcommand{\oprob}{[\textbf{OP}]: }
+
+
+\renewcommand{\~}{\htext{$\sim$}{~}}
+
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+
+% Items pertaining to the headed list.
+\newcommand{\headeditem}[1]{\item\textbf{#1}}
+\newcommand{\headedsubitem}[1]{\subitem\textbf{#1}}
+

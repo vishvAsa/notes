@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Inference and comparison on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/probability/inference/</link>
+    <description>Recent content in &#43;Inference and comparison on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/math/probability/inference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01 Distances between distributions</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/inference/01_Distances_between_distributions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/inference/01_Distances_between_distributions/</guid>
+      <description>&lt;h2 id=&#34;total-variation-distance-between-distributions&#34;&gt;Total variation distance between distributions&lt;/h2&gt;&#xA;&lt;p&gt;Aka Statistical distance. Sample space X. \(\Del(D, D&amp;rsquo;) = 2^{-1} \sum_{x \in X} |D(x) - D&amp;rsquo;(x)|\): \(\in [0,1]\). But, \(\sum_{x \in X} (D(x) - D&amp;rsquo;(x)) = 0\).&lt;/p&gt;&#xA;&lt;p&gt;Visualize as space between probability curves. Total prob under either curve is 1.&lt;/p&gt;&#xA;&lt;h3 id=&#34;largest-deviation-in-event-probability&#34;&gt;Largest deviation in event probability&lt;/h3&gt;&#xA;&lt;p&gt;For event \(E \subseteq X: \max_{E \subseteq X} |Pr_{D}(x \in E) - Pr_{D&amp;rsquo;}(x \in E)| = \Del(D, D&amp;rsquo;)\). Or, max (signed) area between curves covered by E is at most half the total area. Useful in bounding probability of events.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>02 Inferences about distributions of function(RV)</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/inference/02_Inferences_about_distributions_of_functionRV/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/inference/02_Inferences_about_distributions_of_functionRV/</guid>
+      <description>&lt;p&gt;Y = g(X).&lt;/p&gt;&#xA;&lt;p&gt;Use \(Pr(g(X) \in A) = Pr(X \in g^{-1}(A))\). So, given CDF, PDF of X, can deduce CDF of g(X) and thence derive PDF of g(X).&lt;/p&gt;&#xA;&lt;h2 id=&#34;using-fracdg-1y&#34;&gt;Using \(\frac{dg^{-1}(Y)\)&lt;/h2&gt;&#xA;&lt;p&gt;If g is monotone in \((x, x+\gd x)\): \(p_{X}(x)\gd x \approx p_{Y}(y)\gd y\), taking \((x, x+\gd x)\) to \((y, y+\gd y)\) using g: So \(p_Y(y) = p_{X}(x)|\frac{dx}{dy}| = p_{X}(g^{-1}(y))|\frac{d g^{-1}(y)}{dy}| \): so maximum probability density changes with variable change.&lt;/p&gt;&#xA;&lt;p&gt;If g is not continuous, but \(\exists\) partition \(A_{0}, .. A_{k}\) with \(Pr(X \in A_{0}) = 0\), with \(\set{g_{i}} = g \) over \(\set{A_{i}}\) monotone; then \(p_Y(y) = \sum_{i} p_{X}(g^{-1}(y))|\frac{d g_{i}^{-1}(y)}{dy}|\); where \(\sum\) appears to account for the probability that Y=y over various domains of X.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>03 Bounds on deviation probability</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/inference/03_Bounds_on_deviation_probability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/inference/03_Bounds_on_deviation_probability/</guid>
+      <description>&lt;p&gt;Aka concentration of measure inequalities.&lt;/p&gt;&#xA;&lt;h2 id=&#34;expectation-based-deviation-bound&#34;&gt;Expectation based deviation bound&lt;/h2&gt;&#xA;&lt;p&gt;(Aka Markov&amp;rsquo;s inequality). If \(X\geq 0\): \(Pr(X \geq a) \leq \frac{E[X]}{a}\): \(Pr(X \geq a)\) is max when \(X\) is 0 or a.&lt;/p&gt;&#xA;&lt;p&gt;Averaging argument. If \(X\leq k\), \(c\mean Pr(X\leq c\mean) + k(1-Pr(X\leq c\mean)) \geq \mean\); so \(Pr(X\leq c\mean) \leq \frac{k-\mean}{k-c\mean}\).&lt;/p&gt;&#xA;&lt;p&gt;This technique is used repeatedly in other deviation bounds based on variance and moment generating functions.&lt;/p&gt;&#xA;&lt;h2 id=&#34;variance-based-deviation-bound&#34;&gt;Variance based deviation bound&lt;/h2&gt;&#xA;&lt;p&gt;(Aka Chebyshev&amp;rsquo;s inequality). By Markov&amp;rsquo;s inequality: \(Pr((X-E[X])^{2} \geq a^{2})\leq  \frac{Var[X]}{a^{2}}\).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>04 Existence proofs</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/inference/04_Existence_proofs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/inference/04_Existence_proofs/</guid>
+      <description>&lt;p&gt;\(Pr(X\geq E[X])&amp;gt;0\), \(Pr(X\leq E[X])&amp;gt;0\).&lt;/p&gt;&#xA;&lt;h2 id=&#34;for-sparse-dependency-graphs&#34;&gt;For sparse dependency graphs&lt;/h2&gt;&#xA;&lt;p&gt;Aka Lovasz local lemma.&lt;/p&gt;&#xA;&lt;p&gt;For Dependency graph with \(Pr(E_{i})&amp;lt;p, 4dp&amp;lt;1\): \(Pr(\cap \bar{E_{i}}) &amp;gt; 0\).&lt;/p&gt;&#xA;&lt;p&gt;Lovasz local lemma: general case: Dependency. graph G=(V,E), \&#xA;\(x_{i} \in [0,1]\): \(Pr(E_{i}) \leq x_{i} \prod_{(i,j) \in E}(1-x_{j})\): \(Pr(\cap \bar{E_{i}})\geq \prod_{i}(1-x_{i}) &amp;gt; 0\)&lt;/p&gt;&#xA;&lt;h2 id=&#34;threshold-behavior&#34;&gt;Threshold behavior&lt;/h2&gt;&#xA;&lt;p&gt;\(X&amp;gt;0\): Second moment method: \(Pr(X=0)\leq Pr((X-E[X])^{2} \geq (E[X])^{2})\). Conditional expectation inequality for \(\sum\) indicators: \&#xA;\(Pr(X&amp;gt;0) \geq \sum_{i=1}^{n}\frac{Pr(X_{i}=1)}{E[X|X_{i}=1]}\).&lt;/p&gt;&#xA;&lt;h2 id=&#34;explicit-constructions&#34;&gt;Explicit constructions&lt;/h2&gt;&#xA;&lt;p&gt;\tbc&lt;/p&gt;&#xA;&lt;h2 id=&#34;make-existence-proofs&#34;&gt;Make Existence proofs&lt;/h2&gt;&#xA;&lt;p&gt;Design sample space, show \(Pr(E)&amp;gt;0\), maybe modify to get final object. Use Expectation argument. Make non-negative RV X, use Chebyshev to bound Pr(X=0). Make dependency graph, use Lovasz local lemma.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>05 Extremal combinatorics</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/inference/05_Extremal_combinatorics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/inference/05_Extremal_combinatorics/</guid>
+      <description>&lt;p&gt;Prove extremal statistic about some extremal set. \tbc&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>06 Analysis strategies</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/inference/06_Analysis_strategies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/inference/06_Analysis_strategies/</guid>
+      <description>&lt;h2 id=&#34;general-strategies&#34;&gt;General strategies&lt;/h2&gt;&#xA;&lt;p&gt;Pick things randomly. Be able to specify the random process.&lt;/p&gt;&#xA;&lt;p&gt;Analyzing \(X\) and Y; If there is uniform symmetry in X, set \(X\) to be any value without loss of generality.&lt;/p&gt;&#xA;&lt;p&gt;Cast the problem into a stochastic process : Eg: Markov chain/ Random walk problem, Martingale.&lt;/p&gt;&#xA;&lt;h2 id=&#34;bound-probabilities-and-expectations&#34;&gt;Bound probabilities and expectations&lt;/h2&gt;&#xA;&lt;h3 id=&#34;break-up-big-events-into-smaller-cases&#34;&gt;Break up big events into smaller cases&lt;/h3&gt;&#xA;&lt;p&gt;One can analyze \(Pr(A)\) using \(Pr(A) = \sum_b Pr(A|G)Pr(G)\).&lt;/p&gt;&#xA;&lt;h4 id=&#34;one-of-many-events&#34;&gt;One of many events&lt;/h4&gt;&#xA;&lt;p&gt;Use the Union bound.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

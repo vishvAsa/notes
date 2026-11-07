@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Complexity on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/colt/complexity/</link>
+    <description>Recent content in &#43;Complexity on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/colt/complexity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Active learning</title>
+      <link>https://vishvAsa.github.io/notes/computing/colt/complexity/Active_learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/colt/complexity/Active_learning/</guid>
+      <description>&lt;h2 id=&#34;mq-only-model&#34;&gt;mq only model&lt;/h2&gt;&#xA;&lt;p&gt;Finite attributes around. Exact learning using only membership queries (mq). Scenario: Robot explores labyrinth.&lt;/p&gt;&#xA;&lt;p&gt;Constrained instance oracle for f: Takes partial assignment P and prediction b, if possible, extends P to a complete assignment A such that f(A) = 1-b.&lt;/p&gt;&#xA;&lt;p&gt;Lower bound: By information theory, atleast \(\log |C|\) mq needed.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ae-learning&#34;&gt;ae learning&lt;/h3&gt;&#xA;&lt;h4 id=&#34;monotone-functions&#34;&gt;Monotone functions&lt;/h4&gt;&#xA;&lt;p&gt;Learnability in mq only model does not always imply ae learnability for deterministic algorithms.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Learnability despite noise</title>
+      <link>https://vishvAsa.github.io/notes/computing/colt/complexity/Learnability_despite_noise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/colt/complexity/Learnability_despite_noise/</guid>
+      <description>&lt;h2 id=&#34;classification-noise&#34;&gt;Classification noise&lt;/h2&gt;&#xA;&lt;p&gt;Random noise vs Adversarial noise. Getting (x, l) instead of (x, c(x)).&lt;/p&gt;&#xA;&lt;p&gt;Malicious noise: both x and c(x) corrupted.&lt;/p&gt;&#xA;&lt;h3 id=&#34;random-classification-noise-model&#34;&gt;Random Classification noise model&lt;/h3&gt;&#xA;&lt;p&gt;Uniform noise \(\eta \leq \eta_{0} \in [0,.5)\); \(L\) given \(\eta_{0}\), also polynomial in \(\frac{1}{.5-\eta_{0}}\).&lt;/p&gt;&#xA;&lt;h3 id=&#34;statistical-query-sq-learning-model&#34;&gt;Statistical Query (SQ) learning model&lt;/h3&gt;&#xA;&lt;p&gt;(Kearns). A \textbf{statistical query} (criterion, tolerance) = \((\chi, \tau)\) yields probability \(Pr_{x}(\chi)\) or \(E_{x}(\chi)\) of \(\chi\) over examples. \(\chi\) efficiently evaluatable, \(\tau\) not very tiny. \(L\) forms h using only statistical queries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Learning the best hypothesis</title>
+      <link>https://vishvAsa.github.io/notes/computing/colt/complexity/Learning_the_best_hypothesis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/colt/complexity/Learning_the_best_hypothesis/</guid>
+      <description>&lt;p&gt;Aka Agnostic learning model.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-goal&#34;&gt;The goal&lt;/h2&gt;&#xA;&lt;p&gt;Let error in best fit, \(\eta = min_{c \in C} Pr(c(x) \neq l)\). Given \(\del, \eps\); get h where \(Pr(h(x) \neq l) \leq \eta + \eps\).&lt;/p&gt;&#xA;&lt;h3 id=&#34;underlying-distribution&#34;&gt;Underlying distribution&lt;/h3&gt;&#xA;&lt;p&gt;Naught known to the algorithm about process generating data; just asking for approximately best fit or \(\eps\) approx of the \(c\) with error \(\eta\). Even same example \(s\) can have different label \(l\) at different times: this could either be because of noise/ corruption of the label or because of the underlying distribution.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mistake bounded models</title>
+      <link>https://vishvAsa.github.io/notes/computing/colt/complexity/Mistake_bounded_models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/colt/complexity/Mistake_bounded_models/</guid>
+      <description>&lt;h2 id=&#34;mistake-bound-mb-learning-model&#34;&gt;Mistake bound (MB) learning model&lt;/h2&gt;&#xA;&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;&#xA;&lt;p&gt;\(L\) learns \(C\): \(L\) given sample point \(x\), returns h(x), told if it is correct; this is repeated; has mistake bound \(m\) (over any sequence of examples).&lt;/p&gt;&#xA;&lt;h4 id=&#34;adversarial-nature-and-randomization&#34;&gt;Adversarial nature and randomization&lt;/h4&gt;&#xA;&lt;p&gt;The mistake bounded model is adversarial in nature - we are concerned with the number of mistakes made in the worst case. So, randomization helps : the adversary decides on the input before the coin is tossed, so not knowing the algorithm&amp;rsquo;s output, its attempts to cause mistakes are less successful.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PAC learning</title>
+      <link>https://vishvAsa.github.io/notes/computing/colt/complexity/PAC_learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/colt/complexity/PAC_learning/</guid>
+      <description>&lt;h2 id=&#34;the-goal&#34;&gt;The goal&lt;/h2&gt;&#xA;&lt;h3 id=&#34;distribution-and-the-oracle&#34;&gt;Distribution and the oracle&lt;/h3&gt;&#xA;&lt;p&gt;Distribution agnostic. Assumption: training distribution = testing distribution. 2 Oracle PAC model variant: Algorithm can use both \(D^{+}&lt;em&gt;{c}\) and \(D^{-}&lt;/em&gt;{c}\), \(error \leq \eps\) wrt both.&lt;/p&gt;&#xA;&lt;p&gt;EQ oracle can be simulated by the EX oracle.&lt;/p&gt;&#xA;&lt;h3 id=&#34;strong-pac-learning&#34;&gt;Strong PAC learning&lt;/h3&gt;&#xA;&lt;p&gt;Given \(\eps, \del, C\), we want to find \(h \in C\) such that, with probability \(1 - \gd\), \(Pr(c(x) \neq h(x)) \leq \eps\).&lt;/p&gt;&#xA;&lt;h3 id=&#34;weak-pac-learning-algorithm&#34;&gt;Weak PAC learning algorithm&lt;/h3&gt;&#xA;&lt;p&gt;p, q polynomials; \(\eps \leq 2^{-1}-g = 2^{-1}-\frac{1}{p(n, size(c))}\), \(\del \leq \frac{1}{q(n, size(c))}\). g: the advantage of \(L\) over random guessing. Minimally better than random guessing: any g subexponential, can be achieved by memorizing previously seen examples.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

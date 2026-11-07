@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Team work on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/skills/team_work/</link>
+    <description>Recent content in &#43;Team work on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/skills/team_work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Incident management</title>
+      <link>https://vishvAsa.github.io/notes/skills/team_work/incident-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/skills/team_work/incident-management/</guid>
+      <description>&lt;h2 id=&#34;dada-spy-loop&#34;&gt;DADA spy loop&lt;/h2&gt;&#xA;&lt;p&gt;Data &amp;gt; Analysis &amp;gt; Decision &amp;gt; Action&lt;/p&gt;&#xA;&lt;h2 id=&#34;separate-from-regular-operation&#34;&gt;Separate from regular operation&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No negotiation of interests&lt;/li&gt;&#xA;&lt;li&gt;Multiple teams involved&lt;/li&gt;&#xA;&lt;li&gt;Work with people you haven&amp;rsquo;t worked with before&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;organization-of-roles&#34;&gt;Organization of roles&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ad hoc&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Updates should be conscious, scheduled.&lt;/li&gt;&#xA;&lt;li&gt;No default / implicit handover to more senior person.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;roles&#34;&gt;Roles&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Hierarchical structure, no multiple supervisors.&lt;/li&gt;&#xA;&lt;li&gt;Command at the top.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;role-vs-people&#34;&gt;Role vs people&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Role is static, people may rotate.&lt;/li&gt;&#xA;&lt;li&gt;Handover&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Reason&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tiredness&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Even incident manager himself!! (oft missed)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Other commitments&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Maintain status page&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Handover page&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;command-reportees&#34;&gt;Command Reportees&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Operations&lt;/li&gt;&#xA;&lt;li&gt;Communications&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Reportees&#xA;&lt;ul&gt;&#xA;&lt;li&gt;External&lt;/li&gt;&#xA;&lt;li&gt;Internal&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Use written communication when ever possible.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;IRC/ chat rather than voice when possible.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Planning and status (Longer incidents)&lt;/li&gt;&#xA;&lt;li&gt;Logistics [Skip if irrelevant]&lt;/li&gt;&#xA;&lt;li&gt;Finance, accounting [Skip if irrelevant]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;task&#34;&gt;Task&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Activation&#xA;&lt;ul&gt;&#xA;&lt;li&gt;When?&lt;/li&gt;&#xA;&lt;li&gt;External communication&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Post mortem&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Peer Collaboration</title>
+      <link>https://vishvAsa.github.io/notes/skills/team_work/collaboration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/skills/team_work/collaboration/</guid>
+      <description>&lt;h2 id=&#34;benefits&#34;&gt;Benefits&lt;/h2&gt;&#xA;&lt;h3 id=&#34;gives-encouragement&#34;&gt;Gives Encouragement&lt;/h3&gt;&#xA;&lt;p&gt;Doing projects (research or otherwise) alone is possible; but it requires huge amount of focus and determination; especially when it comes to doing less pleasant tasks like experimentations and simulations.&lt;/p&gt;&#xA;&lt;p&gt;From collaborations, even boring aspects of research become more pleasant. Enthusiasm for research increases. It is also more pleasurable. See benefits of pair programming in ’programming strategy’.&lt;/p&gt;&#xA;&lt;h3 id=&#34;toughness-of-problems-solved&#34;&gt;Toughness of problems solved&lt;/h3&gt;&#xA;&lt;p&gt;With different viewpoints, the probability of the problem being solved is higher. Also more interesting problems often discovered.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

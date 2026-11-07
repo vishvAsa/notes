@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;04 Deposit account services on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/economics/financial_services/banking/04_Deposit_account_services/</link>
+    <description>Recent content in &#43;04 Deposit account services on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/economics/financial_services/banking/04_Deposit_account_services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automatic/ remote tellers</title>
+      <link>https://vishvAsa.github.io/notes/economics/financial_services/banking/04_Deposit_account_services/auto_remote_tellers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/economics/financial_services/banking/04_Deposit_account_services/auto_remote_tellers/</guid>
+      <description>&lt;h2 id=&#34;atm-s&#34;&gt;ATM-s&lt;/h2&gt;&#xA;&lt;p&gt;Banks usually have a network of ATM machines whence cash may be drawn and deposits made. A debit card is issued for their use. They may be associated with an incentive to encourage its use: why?&lt;/p&gt;&#xA;&lt;p&gt;Use of ATMs maintained by other banks results in fees, eg: 2$ for BoA; which may be refunded by the bank with the account.&lt;/p&gt;&#xA;&lt;h2 id=&#34;remote-deposits&#34;&gt;Remote deposits&lt;/h2&gt;&#xA;&lt;p&gt;Banks often offer smart-phone applications or websites from which deposits can be made. For example, deposits can be made by using the phone’s camera on a check.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bill payment</title>
+      <link>https://vishvAsa.github.io/notes/economics/financial_services/banking/04_Deposit_account_services/Bill_payment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/economics/financial_services/banking/04_Deposit_account_services/Bill_payment/</guid>
+      <description>&lt;p&gt;Banks offering this service send cashier’s checks or electronic transfers on behalf of the customer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Checking account</title>
+      <link>https://vishvAsa.github.io/notes/economics/financial_services/banking/04_Deposit_account_services/Checking_account/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/economics/financial_services/banking/04_Deposit_account_services/Checking_account/</guid>
+      <description>&lt;p&gt;Aka transactional/ current account. A checking account allows bank customers to write checks - so it can be used as money. It does yields much less interest than savings account - often nothing.&lt;/p&gt;&#xA;&lt;h2 id=&#34;check-redemption&#34;&gt;Check redemption&lt;/h2&gt;&#xA;&lt;p&gt;The person to whom the check is presented can redeem it for cash at his bank, which communicates with the issuers bank to get money from the issuer’s account. If the issuer’s account lacks sufficient funds, a penalty is imposed to discourage such irresponsibility.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Electronic Fund transfer</title>
+      <link>https://vishvAsa.github.io/notes/economics/financial_services/banking/04_Deposit_account_services/Electronic_Fund_transfer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/economics/financial_services/banking/04_Deposit_account_services/Electronic_Fund_transfer/</guid>
+      <description>&lt;h2 id=&#34;ach&#34;&gt;ACH&lt;/h2&gt;&#xA;&lt;p&gt;With ACH (Automatic clearing house), money transfer between banks is done electronically within a given country. They are commonly used to process direct deposits etc.. To use ACH, one needs to know the routing numbers/ ABA codes and the account numbers for the source and destination accounts.&lt;/p&gt;&#xA;&lt;h3 id=&#34;reversal-availability&#34;&gt;Reversal/ availability&lt;/h3&gt;&#xA;&lt;p&gt;The payer’s bank also has the right to reverse the transfer within a few days (5 in USA) - so funds may not be immediately available for withdrawal.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fees</title>
+      <link>https://vishvAsa.github.io/notes/economics/financial_services/banking/04_Deposit_account_services/Fees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/economics/financial_services/banking/04_Deposit_account_services/Fees/</guid>
+      <description>&lt;p&gt;Some banks may charge fees for their services, which are often waived if the customer has certain minimum deposits. Others may provide these services for free in order to beat competition, and to reduce workload of having to provide manual service at branches.&lt;/p&gt;&#xA;&lt;h2 id=&#34;service-quality-trade-off&#34;&gt;Service quality trade-off&lt;/h2&gt;&#xA;&lt;p&gt;Compared with Small/ local/ cooperative/ internet only banks/ credit unions, Large banks usually have the advantage of having a large ATM network and slicker online banking/ remote deposit systems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Limited withdrawal accounts</title>
+      <link>https://vishvAsa.github.io/notes/economics/financial_services/banking/04_Deposit_account_services/Limited_withdrawal_accounts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/economics/financial_services/banking/04_Deposit_account_services/Limited_withdrawal_accounts/</guid>
+      <description>&lt;p&gt;These include savings accounts and money market accounts - the latter, investing in bonds (the money market) usually yields a higher rate of interest. The number of withdrawals is limited to increase the probability of deposited funds being available to banks: It is 6 in USA. A certain minimum balance is usually required.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Misc services</title>
+      <link>https://vishvAsa.github.io/notes/economics/financial_services/banking/04_Deposit_account_services/misc_services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/economics/financial_services/banking/04_Deposit_account_services/misc_services/</guid>
+      <description>&lt;h2 id=&#34;demand-draft&#34;&gt;Demand Draft&lt;/h2&gt;&#xA;&lt;p&gt;Aka Cashier&amp;rsquo;s check.&lt;/p&gt;&#xA;&lt;p&gt;Compare with huNDi system of medieval and early modern India.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Term deposits</title>
+      <link>https://vishvAsa.github.io/notes/economics/financial_services/banking/04_Deposit_account_services/Term_deposits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/economics/financial_services/banking/04_Deposit_account_services/Term_deposits/</guid>
+      <description>&lt;p&gt;Funds from these accounts cannot be withdrawn for a certain period of time. Banks may allow withdrawal under certain penalties. In return for this guaranteed deposit, these yield a relatively high rate of interest.&lt;/p&gt;&#xA;&lt;h2 id=&#34;recurring-periodic-deposit&#34;&gt;Recurring/ periodic deposit&lt;/h2&gt;&#xA;&lt;p&gt;These deposit accounts require small periodic deposits. This is often done at banks and even at the post office in India.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
