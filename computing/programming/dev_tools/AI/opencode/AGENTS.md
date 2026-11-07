@@ -7,8 +7,9 @@ title = "OpenCode global instructions"
 ## Subagents
 
 - Delegate to subagents whenever possible — exploration, research, multi-step work, or anything matching a listed agent's description — to keep the main context small.
+- When running in JetBrains Air (which does not render background wakeups after a turn ends), poll active subagents periodically within the turn (using synchronous waits and `manage_subagents` checks) rather than ending the turn, and resume polling after handling any new user messages while subagents remain active.
 
-## Model selection
+### Model selection
 
 - Be careful to use a free/lightweight model whenever possible.
 - **OpenCode**: For bulk, mechanical, or low-risk work (formatting, repetitive edits, simple searches, large-file scanning, TUI delegation), prefer a zero-cost OpenCode Go model such as `opencode-go/beam-free` or `opencode-go/iceman-contributor-free` (and `opencode-go/deepseek-v4.1-flash` for `reviewer`). When delegating to a subagent, pass the model explicitly via the `model` parameter, e.g. `opencode-go/beam-free#xhigh`.
