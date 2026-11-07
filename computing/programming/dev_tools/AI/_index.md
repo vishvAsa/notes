@@ -68,10 +68,12 @@ But that compression wouldn't be useful if the model is bad at reasoning with sa
 
 ## Models 
 ### Review
+- Gemini 4 Argon - much better than DeepSeek 4.1 Flash on sanskrit OCR. Good with hyphenation.
 - DeepSeek 4.1 Flash was good with sanskrit commentary interleaving.
 - Muse Spark 1.3 was good with sanskrit.
 - Gemini 2.5 was good with sanskrit hyphenation. 
-- Gemini 3.5 Flash was worse with sanskrit hyphenation.
+- Gemini 3.0, 3.5, 3.8 Flash were worse with sanskrit hyphenation.
+- Crouton Alpha better than Beam.
 - Beam Free 202611 was worse with sanskrit commentary interleaving; made overcomplications in programming. Stupider, but not too bad.
 - longcat 2.5 preview, ling 3.1 flash free - were quite bad at sanskrit.
 
