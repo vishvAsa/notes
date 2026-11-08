@@ -30,3 +30,18 @@ Model power increases with number of parameters.
 - GPT-OSS 120B (`gpt-oss-120b-medium`: 116.8B total / 5.1B active MoE).
 - Junie Lite (Qwen 3.6: 27B dense).
 
+
+## Frontier Model Size Estimates (from Anpaure)
+
+| Model | Estimated total parameters |
+|-------|-----------------------------|
+| Claude Fable 5 | 4.5 T |
+| GPT‑5.6 Sol | 3.1 T |
+| Claude Opus 5 | 3.0 T |
+| Kimi K3 | 2.8 T |
+| Claude Opus 4.8 | 2.7 T |
+| GPT‑5.5 | 2.3 T |
+| GPT‑5.6 Terra | 2.1 T |
+| Claude Sonnet 5 | 1.6 T |
+| Grok 4.5 | 1.5 T |
+| GPT‑5.6 Luna | 1.5 T |
