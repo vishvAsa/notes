@@ -12,8 +12,8 @@ title = "OpenCode global instructions"
 ### Model selection
 
 - Be careful to use a free/lightweight model whenever possible.
-- **OpenCode**: For bulk, mechanical, or low-risk work (formatting, repetitive edits, simple searches, large-file scanning, TUI delegation), prefer a zero-cost OpenCode Go model such as `opencode-go/beam-free` or `opencode-go/iceman-contributor-free` (and `opencode-go/deepseek-v4.1-flash` for `reviewer`). When delegating to a subagent, pass the model explicitly via the `model` parameter, e.g. `opencode-go/beam-free#xhigh`.
-- **Antigravity**: When delegating via `invoke_subagent`, prefer lighter model tiers (`Model: "flash_lite"` or `Model: "flash"`) for bulk, mechanical, or low-risk work, and reserve `"pro"` or `"inherit"` for judgment calls and verification.
+- For bulk, mechanical, or low-risk work (formatting, repetitive edits, simple searches, large-file scanning, TUI delegation), prefer a zero-cost model such or low-cost model (eg. `opencode/beam-free`, "flash_lite").
+- When delegating to a subagent, pass the model explicitly via the `model` parameter, e.g. `opencode-go/beam-free#xhigh`.
 - Reserve stronger/paid models for judgment calls, verification of free/lighter-model output, and tasks where the lighter model is unsuitable.
 
 
@@ -42,3 +42,4 @@ For interacting with archive.org, there is the `ia` command line (configured). A
 
 For transliteration, there is `indic_transliteration`; for meters, there is `chandas`. Both import from the same `~/gitland/python_venv` venv, as does `curation_utils`.
 
+For the granthasangrahaH PDF-library map and its Google Sheet mirror, see `~/gitland/sanskrit-coders/doc_curation/vishvaasa_sites/` (`update_map.py` regenerates `map.csv` with `--llm-label LLM-crouton` (or `LLM-claude` etc.); `push_map_to_sheet.py` / `appscript_client.py` / `check_sheet.py` sync it to the Sheet; convention: new `source_path` rows get `Pending=add`, edits to existing ones `replace`).
