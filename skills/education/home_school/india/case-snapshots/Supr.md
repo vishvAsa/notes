@@ -3,23 +3,24 @@ title = "Supr"
 +++
 
 ## Current classes
-- Math (self)
+- Geometry (self)
+- Elementary Algebra (self)
 - Carl Sagan's Cosmos (self + gemini + occassional YT episodes)
 - history, misc topics (विश्वसः)
 - Science (श्रुतिः)
-- Telugu rAmAyaNa (श्रीदेवी)
 - कर्णाटक-कण्ठ-सङ्गीतम् (**स्नेहश्री**, **राजलक्ष्मी**)
 - कर्णाटक-सङ्गीतम् - Violin (**राजलक्ष्मी**)
 - भरत-नृत्यम् (अनूषा)
 - Spanish - daily 5 min (duolingo)
 - Portuguese - daily 5 min (duolingo)
 - रहस्य-त्रय-सारादि - पऴवेरि-लक्ष्मीनरसिंहः (अर्धावधानेन)
-- वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**प्रदीप-सिंहः**)
+- वेदाध्ययनम् - (**प्रदीप-सिंहः**)
 - परवस्तु-सामानि (**विश्वसः**)
 - पञ्चतन्त्रम् (**विश्वसः**)
 
 ## Past
 - swimming (rAhul)
+- Telugu rAmAyaNa (श्रीदेवी)
 - tamiL - shrIvaiShNava texts and mags (बालकृष्णः)
 - नृत्यम् - अनूराधा-गणः (कलाक्षेत्र-शैली), अनूषा, सरोजिनी (ताञ्जावूरु-शैली), राधिका (पन्द-नल्लूरु-शैली), कविता (पन्दनल्लूर्-शैली), अनूषा
 - kannaDa, english reading (श्रुतिः)
@@ -31,13 +32,24 @@ Class and ritual timings give structure.
 
 Rituals - tarpaNa, brahmayajna, sandhyAvandana, ijyA, japa, sandhyAvandana, samidAdhAna
 
+## 2026-11
+- started "Plane Geometry 1938 - Stone and Mallory".
+- dIpAvalI Fire crackers 
+
+## 2026-10
+- Started teaching telugu to Vajr
+
+## 2026-09
+- Travel to mohita's gurukula, vRndAvanam, AgrA. Much sickness.
+
 ## 2026-08
 - Restarted nRtyam with anUShA
 - Stopped tamiL (bAlakRShNa moved away)
+- Stopped telugu (self study/ teaching vajr sufficient)
 
 ## 2026-07
 - Stopped swimming - much sickness.
-- Finished 24 Asterix comics. 
+- Finished 38 Asterix comics. 
 
 ## 2026-06
 - Finished all original Harry Potter books.
@@ -48,6 +60,7 @@ Rituals - tarpaNa, brahmayajna, sandhyAvandana, ijyA, japa, sandhyAvandana, sami
 
 - Finished Indica geology book. (self) Started Cosmos.
 - Finished Amar chitra kathA kindle comics. (self)
+- Finished वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**प्रदीप-सिंहः**)
 
 ## 2026-02
 - Restarted swimming classes

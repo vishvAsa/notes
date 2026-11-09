@@ -42,4 +42,4 @@ For interacting with archive.org, there is the `ia` command line (configured). A
 
 For transliteration, there is `indic_transliteration`; for meters, there is `chandas`. Both import from the same `~/gitland/python_venv` venv, as does `curation_utils`.
 
-For the granthasangrahaH PDF-library map and its Google Sheet mirror, see `~/gitland/sanskrit-coders/doc_curation/vishvaasa_sites/` (`update_map.py` regenerates `map.csv` with `--llm-label LLM-crouton` (or `LLM-claude` etc.); `push_map_to_sheet.py` / `appscript_client.py` / `check_sheet.py` sync it to the Sheet; convention: new `source_path` rows get `Pending=add`, edits to existing ones `replace`).
+For "source to site-page" map updates, use doc_curation.hugo_site - figure out destination page with `md_to_site_path()` and then `appscript_client.post_append_rows()`.

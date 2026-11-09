@@ -12,7 +12,7 @@ Convert the PDF you are given to Markdown. Work in this order and skip a step wh
 
 2. **OCR only when extraction is garbage, or is helpful to decypher it** — no text layer, mojibake, one word per line, wrong script, or page after page of `...[[??]]`. (See the global instructions for preferences/ subagents).
 
-4. **Update the spreadsheet upon conversion.** When the Markdown output lands under `~/gitland/vishvAsa` (it backs a Hugo site), register the new PDF→site link so the pdf-lib map stays in sync: (a) derive `source_path` as the PDF path relative to `/media/vvasuki/vData/text/granthasangrahaH` and `site_path` from the Markdown path via `md_to_site_path()` semantics (b) upsert that row into `~/gitland/vishvAsa/vishvAsa.github.io/content/interests/private/pdf-lib/map.csv` with `map_source` set to your backend label (`LLM-crouton` for Crouton, `LLM-claude` for Claude, etc. — do not use a generic (c) push the new row to the Google Sheet (new rows must land as `Pending=add`, not `replace`; verify with `check_sheet.py --q <source_path>`).
+4. **Update the spreadsheet upon conversion.** When the Markdown output lands under `~/gitland/vishvAsa` (it backs a Hugo site), if the pdf is within the granthsangrahaH directory, get pdf path relative to granthasangrahaH and update "source to site-page" catalog.
 
 3. **Proofread, then hyphenate.** Hand the Markdown to the `proofreader` subagent; it selects the house style prompt for the script, and hands Sanskrit text on to `hyphenator` once its own edits are settled.
 

@@ -4,35 +4,46 @@ title = "vajr"
 
 ## Current classes
 - maths, comics in english (**nAgaratnA**)
-- tamiL (बालकृष्णः)
+- telugu (**सुप्रत्ययः**)
 - कर्णाटक-कण्ठ-सङ्गीतम् (**स्नेहश्री**, **राजलक्ष्मी**)
 - भरत-नृत्तम् - **अनूषा** 
-- tablA (self)
-- Telugu kids textbooks, chandamama (**श्रीदेवी**)
 - परवस्तु-सामानि (**विश्वसः**)
-- वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**प्रदीप-सिंहः**)
+- वेदाध्ययनम् - (**प्रदीप-सिंहः**)
 
 ## Past
 - नृत्यम् - अनूषा, सरोजिनी (ताञ्जावूरु-शैली), राधिका (पन्द-नल्लूरु-शैली), कविता (पन्दनल्लूर्-शैली), अनूषा
+- tamiL (बालकृष्णः)
+- Telugu kids textbooks, chandamama (**श्रीदेवी**)
 - Taekwondo (**Iban-Jhop**) - Yellow belt with green stripe.
 - swimming - rAhul
 - maths, english reading (श्रुतिः)
-- tabla - कुलकरणि-हेमन्तः, **विश्वनाथः**
+- tabla - self (with app), कुलकरणि-हेमन्तः, **विश्वनाथः**
 
 ## Routine
 Class and ritual timings give structure.
 
 Rituals - tarpaNa, brahmayajna, sandhyAvandana, ijyA, japa, sandhyAvandana, samidAdhAna
 
+## 2026-10
+- Started telugu from supr
+- Finished 38 Asterix comics.
+- Finished all lehra app tabla beats.
+
+## 2026-09
+- Travel to mohita's gurukula, vRndAvanam, AgrA. Much sickness.
+
 ## 2026-08
 - Restarted nRtyam (anUShA)
 - Stopped tamiL (bAlakRShNa moved away)
+- Stopped telugu (seeming disinterest, teacher impatience)
 
 ## 2026-07
 - telugu - stopped book reading after complaints. switched to pure speaking.
 - Stopped swimming - rains.
 - tablA switched to self-learning and practice with app. (vishvanAth required 500 Rs / class.)
 
+## 2026-04
+- Finished वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**प्रदीप-सिंहः**)
 
 ## 2026-02
 - Ended Taekwondo. Further improvement requires testosterone release, and fighting spirit.
