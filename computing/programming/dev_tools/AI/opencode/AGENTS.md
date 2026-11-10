@@ -33,6 +33,7 @@ Before writing text-processing code, check these in `~/gitland/sanskrit-coders/d
   - Hand heavy Tesseract/ custom ocr work to the `tesseract_ocr` subagent.
 - `pdf/splitter` for splitting two-up scanned PDFs into single pages.
 - `md/` has much code for processing Markdown files: 
+  - transform contents with `library.apply_function(fn=MdFile.transform, dir_path=dir_path, content_transformer=content_transformer, dry_run=False, silent_iteration=False)`
   - `md/content_processor/details` for details blocks, 
   - `md/content_processor/footnote` for footnotes,
   - `md/content_processor/commentary` for commentary
@@ -41,12 +42,17 @@ Before writing text-processing code, check these in `~/gitland/sanskrit-coders/d
 - `ebook/` for producing epubs and pdf-s from markdown.
 - Bulk LLM proofreading/editing with rotating free keys — `llm/gemini`: gemini.process_text_chunks_with_keys or gemini.process_details_with_keys with `prompt=llm.get_prompt("~/gitland/sanskrit/sanskrit.github.io/content/groups/dyuganga/projects/text/proofreading/editing/AI-prompt/<style prompt>.md")`. 
 
+### Transliteration
+
+For transliteration, there is `indic_transliteration`, with the following -
+- `aksharamukha_helper.transliterate_tamil` for tamil, sanscript.transliterate for others.
+- `indic_transliteration/sanscript/schemes/brahmic/accent.py` has to_US_accents() to convert to udAtta(᳓)-svarita(᳙) accent scheme .
+
+Particularly, for files with sanskrit names you outupt, use something like curation_utils.file_helper.get_storage_name(SANSKRIT_TEXT, source_script=sanscript.IAST)
+
+
 ### Other libraries 
 For interacting with archive.org, there is the `ia` command line (configured). Also, there is `curation_utils.archive_utility`.
-
-For transliteration, there is `indic_transliteration`, with the following -  
-- `aksharamukha_helper.transliterate_tamil` for tamil, sanscript.transliterate for others.
-- `indic_transliteration/sanscript/schemes/brahmic/accent.py` has to_US_accents() to convert to udAtta(᳓)-svarita(᳙) accent scheme . 
 
 For meters, there is `chandas`. 
 

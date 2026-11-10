@@ -24,7 +24,7 @@ Model power increases with number of parameters.
 - Gemini 3.0, 3.5, 3.8 Flash (est. ~250–300B total, low active MoE) were worse with sanskrit hyphenation.
 - Step 5 Preview Free (604B total / 27B active MoE).
 - Beam Free 202611 (Reflection Beam 1.0: 501B total / 23.4B active MoE) was worse with sanskrit commentary interleaving; made overcomplications in programming. Stupider, but not too bad.
-- GitHub Copilot coding agent in intellij runs `auto` mode usually selecting `mai-code-1.1-flash` [Microsoft MAI-1 coder MoE variant: est. ~500B total, ~15–20B active MoE / 128K context]. Quite stupid at even hindI proofreading. Refuses pdf to md jobs for copyright reasons. Smarter options - `gpt-6-luna` ~1.5T; or user-selectable `claude-sonnet-5`, `claude-opus-5`, `gpt-5.6-sol`, etc.)
+- GitHub Copilot coding agent in intellij runs `auto` mode usually selecting `mai-code-1.1-flash` [Microsoft MAI-1 coder MoE variant: est. ~500B total, ~15–20B active MoE / 128K context]. Quite stupid at even hindI proofreading. Refuses pdf to md jobs for copyright reasons. Smarter options - `gpt-6-luna` ~1.5T; or user-selectable `claude-sonnet-5`, `claude-opus-5`, `gpt-5.6-sol`, etc.) are selected sometimes (eg. for hyphenation.)
 - Iceman Contributor Free (stealth OpenCode Go model, undisclosed parameters, 262K context).
 - longcat 2.5 preview (1.6T total / 48B active MoE) - were quite bad at sanskrit.
 - ling 3.1 flash free (560B total / 25B active MoE) - were quite bad at sanskrit.
