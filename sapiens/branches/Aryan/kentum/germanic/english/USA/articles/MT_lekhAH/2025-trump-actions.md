@@ -3,6 +3,9 @@ title = "2025+ trump actions"
 +++
 
 ## 2026 loss
+### Oligarchy
+The recent revelations establish that the mahAmlechCha have effectively become an oligarchy where the industry pushes its interests to the detriment of those of the civil population.
+
 ### Post loss
 Even as the era of the nAri~NgapuruSha winds down, it is darkly comical to see the duShTa anugAmin reemerge from the woodwork like a termite posing as the new MAGA. 
 
