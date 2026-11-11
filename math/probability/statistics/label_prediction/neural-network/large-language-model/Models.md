@@ -37,7 +37,8 @@ Ranked roughly in decreasing order of intelligence
 ### 1T+
 - **Claude Opus 4.6 Thinking / Opus 5.5 / Fable 5.1** (est. ≥1.5T–2T+ total MoE, undisclosed active).
 - **Gemini 4 Argon** (est. ≥1.2T+ total MoE, undisclosed active) - much better than DeepSeek 4.1 Flash on sanskrit OCR. Good with hyphenation.
-- **Gemini 2.5** (Pro est. ~1.0–1.2T+ total MoE; Flash est. ~200–250B total) was good with sanskrit hyphenation. Gemini 2.5 scored 72.4 on Sanskrit and 80.3 on Sanskrit-English code-mixed text.
+- **Gemini Carbon** (est. total/active MoE undisclosed).
+- **Gemini 2.5** (Pro est. ~1.0–1.2T+ total MoE) was good with sanskrit hyphenation. Gemini 2.5 scored 72.4 on Sanskrit and 80.3 on Sanskrit-English code-mixed text.
 - **Mistral Large 3.5** (est. ~1.0–1.2T+ total MoE, undisclosed active).
   
 ### 500B+
