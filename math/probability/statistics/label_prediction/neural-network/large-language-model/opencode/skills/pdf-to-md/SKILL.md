@@ -9,7 +9,7 @@ Convert the PDF you are given to Markdown. Work in this order and skip a step wh
 
 2. **OCR only when extraction is garbage, or is helpful to decipher it** — no text layer, mojibake, one word per line, wrong script, or page after page of `...[[??]]`. Hand the OCR to the `ocr` skill (drive OCR by default) rather than doing it here.
 
-3. **Proofread, then hyphenate.** Hand the Markdown to the `proofreader` skill; it selects the house style prompt for the script, and hands Sanskrit text on to `hyphenator` once its own edits are settled.
+3. **Proofread, then hyphenate.** Hand the Markdown to the `proofreader-hyphenator` skill — it cleans up and corrects the text, then hyphenates the Sanskrit (including Sanskrit embedded in other-language text) once its fixes are settled.
 
 4. **Update the spreadsheet catalog upon conversion.** When the output Markdown lands under `~/gitland/vishvAsa` (it backs a Hugo site) and the PDF is within granthasangrahaH, compute the PDF's path relative to granthasangrahaH and update the "source to site-page" catalog:
 
