@@ -1,6 +1,7 @@
 +++
 title = "Thinking"
 +++
+## As pattern completion
 Thinking too is pattern completion only. LLMs are a one trick pony. They can predict the next token.
 
 > <|user|>What is the capital of France?<|thinking|>The user is asking for the capital of France.\nFrance.\nParis.\nProvide a clear and direct answer.<|response|>The capital of France is **Paris**.
@@ -37,3 +38,14 @@ if reached_budget:
     inject_token(END_OF_THINKING)
     inject_prompt("Now produce final answer based on your thinking...")
 ```
+
+## Skills
+Skills are permanent workflow documentation that any agent can refer to:
+
+- how to operate git/jj repos
+- how to create python venvs
+- how to manage multiagent workflows
+- how to format MD documents
+- how to write and test 3D games
+
+Skills allow even weak models to punch above their weight because you are not asking it to rely on world knowledge.
