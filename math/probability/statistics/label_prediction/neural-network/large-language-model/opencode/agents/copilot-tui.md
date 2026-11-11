@@ -34,7 +34,7 @@ Generic delegator to the GitHub Copilot CLI. Do not solve the task yourself — 
    - `--silent` prints only the final response. For structure use `--output-format json` (JSONL events): the answer is the last `assistant.message` event, and `session.auto_mode_resolved` records which model Auto picked.
    - `--share <path>` writes the whole session to Markdown afterwards — useful evidence to attach to the report.
    - Pin `--model <name>` / `--reasoning-effort <level>` only when the task names them; otherwise Auto selects (e.g. `gpt-6-luna`).
-   - `--agent <name>` selects one of the custom agents in `~/.copilot/agents` (currently `antigravity-tui`, `meta-tui`, `vibe-tui`). Do not chain another TUI delegator unless the task explicitly asks for it.
+   - `--agent <name>` selects one of the custom agents in `~/.copilot/agents` (currently `antigravity-tui`, `muse-tui`, `vibe-tui`). Do not chain another TUI delegator unless the task explicitly asks for it.
    - Resume with `-r`/`--resume <session-id>`, `--continue`, or name a session with `-n`; `--fleet` runs the prompt in parallel subagent mode.
    - Increase the shell timeout for long tasks; keep the full answer when reporting, do not truncate silently.
 

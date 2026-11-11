@@ -44,8 +44,6 @@ Ranked roughly in decreasing order of intelligence
 - **NVIDIA Nemotron 3.5 Super VL** (`nvidia/nemotron-3.5-super-vl:free`): 12B active / 120B total multimodal MoE; 1M context. Trial use only — no personal/confidential data.
 - **Cohere North Mini Code** (`cohere/north-mini-code:free`): 3B active / 30B total sparse MoE; agentic coding; 256K context.
 - **NVIDIA Nemotron 3.5 Lightning** (`nvidia/nemotron-3.5-lightning:free`): 3B active / 30B total MoE; high-throughput agentic; 1M context.
-- **Auto Free** (`kilo-auto/free`): rotates through available free models (incl. Nemotron 3.5 Super VL, Nemotron 3 Ultra, Glyph Cluster, Dots3-Note, ERNIE-5.5-Flash, Inkling 2 Small); 256K context; limited capability; prompts may be logged by upstream providers — not for sensitive data.
-- **OpenRouter Free Models Router** (`openrouter/free`): random free models from OpenRouter's catalog (Qwen3 Coder, GLM 4.5 Air, DeepSeek R1 0528); requires OpenRouter account keyed into Kilo.
 - **LiquidAI LFM3-1.7B** (`liquid/lfm-3-1.7b:free`): 1.7B dense; 256K context; agents/tool calling/structured outputs.
 - Auto Small free fallback (no balance): `google/gemma-4-26b-a4b-it:free`.
 
@@ -65,6 +63,10 @@ Ranked roughly in decreasing order of intelligence
 | GPT‑5.6 Luna | 1.5 T |
 
 ## Auto routing
+### Openrouter
+- **OpenRouter Free Models Router** (`openrouter/free`): random free models from OpenRouter's catalog (Qwen3 Coder, GLM 4.5 Air, DeepSeek R1 0528); requires OpenRouter account keyed into Kilo.
+
+
 ### GitHub Copilot auto
 GitHub Copilot coding agent in intellij runs `auto` mode usually selecting `mai-code-1.1-flash` [Microsoft MAI-1 coder MoE variant: est. ~500B total, ~15–20B active MoE / 128K context]. Quite stupid at even hindI proofreading. Refuses pdf to md jobs for copyright reasons. Smarter options - `gpt-6-luna` ~1.5T; or user-selectable `claude-sonnet-5`, `claude-opus-5`, `gpt-5.6-sol`, etc.) are selected sometimes (eg. for hyphenation.)
 
