@@ -12,7 +12,7 @@ title = "OpenCode global instructions"
 ### Model selection
 
 - Be careful to use a free/lightweight model whenever possible.
-- For bulk, mechanical, or low-risk work (formatting, repetitive edits, simple searches, large-file scanning, TUI delegation), prefer a zero-cost model such or low-cost model (eg. `opencode/beam-free`, "flash_lite").
+- For bulk, mechanical, or low-risk work (formatting, repetitive edits, simple searches, large-file scanning), prefer a zero-cost model such or low-cost model (eg. `opencode/beam-free`, "flash_lite"). You can even use *-tui subagents for accessing such models.
 - When delegating to a subagent, pass the model explicitly via the `model` parameter, e.g. `opencode-go/beam-free#xhigh`.
 - Reserve stronger/paid models for judgment calls, verification of free/lighter-model output, and tasks where the lighter model is unsuitable.
 

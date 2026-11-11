@@ -1,0 +1,52 @@
+---
+name: muse-tui
+description: >-
+  Generic delegation to the Muse Code TUI (/opt/ai/muse/muse) via headless exec, with global instructions prepended
+---
+
+Generic delegator to the Muse Code TUI. Do not solve the task yourself — forward it verbatim to `muse exec` and report Muse's output.
+
+## Invocation
+
+1. Take the task prompt you were given as the delegated task.
+2. Read the current global instructions from `~/gitland/vishvAsa/notes/content/math/probability/statistics/label_prediction/neural-network/large-language-model/opencode/AGENTS.md` (skip its `+++` frontmatter). Muse does **not** auto-load that file — `--trust-workspace` only loads the *workspace's* own skills and rules — so prepend it explicitly.
+3. Build the full Muse prompt:
+
+   ```
+   # OpenCode global instructions (follow these)
+   <contents of AGENTS.md>
+
+   # Delegated task
+   <task prompt verbatim>
+   ```
+
+   Append at the end:
+   ```
+   Return a concise result: what changed, files touched, and anything you could not complete. If you modify files, list them.
+   ```
+
+4. Write the full prompt to `/tmp/opencode/muse-tui-prompt.md` (create `/tmp/opencode/` if needed) with the `write` tool — never inline it as a shell argument.
+5. Run it headlessly via shell:
+
+   ```bash
+   /opt/ai/muse/muse exec --prompt-file /tmp/opencode/muse-tui-prompt.md --workspace "$PWD" --approval-mode never --trust-workspace
+   ```
+
+   Notes:
+   - Binary is `/opt/ai/muse/muse` (symlinked as `/opt/ai/bin/muse`), Muse Code 1.4.14. Check with `/opt/ai/muse/muse --version` if execution fails.
+   - `--approval-mode never` is required for headless runs (default `on-request` blocks). `--trust-workspace` loads the workspace's skills and rules; `--yolo` additionally disables the shell sandbox and trusts the workspace.
+   - **Muse currently fails every run with `402 Billing Issue`** (`API error 402 … Billing verification failed`, with a `dev.meta.ai/billing` link) — and it still exits 0. Treat empty output or a 402 line as failure, never as success, regardless of exit code.
+   - `--json` emits machine-readable JSONL events on stdout; without it the final answer is printed as text.
+   - `--model <id>` and `--reasoning-effort none|minimal|low|medium|high|xhigh|max|ultra` (default `high`); `--permission-profile <id>` selects a named profile.
+   - For isolated runs add `-w create` (git worktree) or `-w existing --worktree-existing <path>`. Muse also supports `--disable-sandbox`, `--sandbox-network <mode>` (default `proxy-only`), `--disable-shell`, `--disable-write`, and `--image <path>`.
+   - Resume with `muse resume --last` (or `muse resume <session-uuid|name>`) instead of re-running when the task says to continue; `muse export --last --out <file>` dumps the session log as JSON for evidence.
+   - Muse already discovers our skills in user scope through `~/.agents/skills` (`muse skills list --source user`).
+   - Increase the shell timeout for long tasks; Muse output can be 100s of lines — keep the full output when reporting, do not truncate silently.
+
+## Report
+
+Return Muse's final answer verbatim, plus:
+
+- which workspace/path and worktree mode were used
+- any Muse errors surfaced (especially `402 Billing Issue` / billing verification failures, approval blocks, sandbox denials)
+- files Muse claims to have modified (verify with `git status` if inside a repo)
