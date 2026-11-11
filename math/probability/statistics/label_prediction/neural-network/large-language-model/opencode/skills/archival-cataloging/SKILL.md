@@ -19,3 +19,8 @@ post_append_rows(sheet_url, [{"source_path": ..., "site_path": site_path, ...}])
 ## archive.org
 
 Interact with archive.org through the `ia` command line (already configured) or `curation_utils.archive_utility` programmatically.
+
+## Message archive updates
+Archiving blogs (wordpress, medium, substack, mags etc.) - see `doc_curation/doc_curation_projects/blog/from_html.py` 
+
+Archiving mail streams (googlegroups, mailman) - see `doc_curation_projects/mail_stream_dumper.py`
