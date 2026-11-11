@@ -32,15 +32,7 @@ Before writing text-processing code, check these in `~/gitland/sanskrit-coders/d
 - OCR (preferred): `pdf/drive_ocr` — especially use calls like drive_ocr.split_and_ocr_all( dir_path=..., small_pdf_pages=10, detext=False, file_pattern=r"(?!.*-double\.pdf$)[^_].*\.pdf") to rapidly get Google Drive OCR when needed.
   - Hand heavy Tesseract/ custom ocr work to the `tesseract-ocr` skill.
 - `pdf/splitter` for splitting two-up scanned PDFs into single pages.
-- `md/` has much code for processing Markdown files: 
-  - transform contents with `library.apply_function(fn=MdFile.transform, dir_path=dir_path, content_transformer=content_transformer, dry_run=False, silent_iteration=False)`
-  - `md/content_processor/details` for details blocks, 
-  - `md/content_processor/footnote` for footnotes,
-  - `md/content_processor/commentary` for commentary
-  - `md/content_processor/indlude` for processing include directives (where one md's content is included in another).
-- Splitting md files - `/home/vvasuki/gitland/sanskrit-coders/doc_curation/doc_curation_projects/general_tasks/splitter.py`
 - `ebook/` for producing epubs and pdf-s from markdown.
-- Bulk LLM proofreading/editing with rotating free keys — `llm/gemini`: gemini.process_text_chunks_with_keys or gemini.process_details_with_keys with `prompt=llm.get_prompt("~/gitland/sanskrit/sanskrit.github.io/content/groups/dyuganga/projects/text/proofreading/editing/AI-prompt/<style prompt>.md")`. 
 
 ### Transliteration
 

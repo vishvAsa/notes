@@ -1,5 +1,5 @@
 ---
-name: reviewer
+name: code-reviewer
 description: Reviews changes for correctness and regressions, listing findings in severity order. Use when a diff or set of edits needs review before merging or handing off.
 ---
 
