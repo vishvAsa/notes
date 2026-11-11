@@ -11,17 +11,7 @@ Convert the PDF you are given to Markdown. Work in this order and skip a step wh
 
 3. **Proofread, then hyphenate.** Hand the Markdown to the `proofreader-hyphenator` skill — it cleans up and corrects the text, then hyphenates the Sanskrit (including Sanskrit embedded in other-language text) once its fixes are settled.
 
-4. **Update the spreadsheet catalog upon conversion.** When the output Markdown lands under `~/gitland/vishvAsa` (it backs a Hugo site) and the PDF is within granthasangrahaH, compute the PDF's path relative to granthasangrahaH and update the "source to site-page" catalog:
-
-```python
-from doc_curation.hugo_site import md_to_site_path
-from doc_curation.hugo_site.appscript_client import post_append_rows
-
-site_path = md_to_site_path(md_path_relative_to_vishvAsa)
-post_append_rows(sheet_url, [{"source_path": ..., "site_path": site_path, ...}])
-```
-
-Column and sheet details are in the global AGENTS.md ("source to site-page" instructions).
+4. **Update the spreadsheet catalog upon conversion.** When the output Markdown lands under `~/gitland/vishvAsa` (it backs a Hugo site) and the PDF is within granthasangrahaH, hand the catalog update to the `archival-cataloging` skill (md_to_site_path/post_append_rows recipe there).
 
 
 Report which steps ran, what was OCR'd, where the output landed, and the `source_path` → `site_path` row added/pushed (with sheet row number / `Pending=add` confirmation).
