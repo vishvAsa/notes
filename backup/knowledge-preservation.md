@@ -315,6 +315,10 @@ All resin-coated papers fall short of archival-grade for two reasons. First, the
 #### Acid free paper
 Turns yellow in 20 yrs, Brittle in 40 yrs. Total readability 70–80 Years. 
 
+- https://www.jkpaper.com/jk-copier (jk copier Premium) - Very little amount of lignin is present (may be 5-10%) per 2026 test
+- west coast paper mill Copy gold: almost no lignin (2-3%) per 2026 test.
+
+
 #### Powder ink
 20 to 50 years on acid free paper.
 
