@@ -1,6 +1,6 @@
 ---
 name: gemini-free-hyphenator
-description: Hyphenates Sanskrit Markdown and fixes doubtful readings in bulk using doc_curation's rotating free Gemini keys, using a dumb Flash model which does a non-thorough job. Use for cursory sanskrit-only processing or when explicitly requested.
+description: Hyphenates Sanskrit Markdown and fixes doubtful readings in bulk using doc_curation's rotating free Gemini keys, using a dumb Flash model which does a non-thorough job. Use only for cursory sanskrit-only processing or when explicitly requested.
 ---
 
 Hyphenate Sanskrit Markdown outside of मूलम्.* details blocks (when doubtful readings also need fixing) using the `llm/gemini` path with the `AI-prompt/Sanskrit_devanAgarI_markdown.md` prompt — it carries the same split rules (insert a space at separable word boundaries and a hyphen inside compounds without reverting sandhi), preserves `<details><summary>मूलम्</summary>` blocks untouched, and lets the model also suggest corrections to doubtful text:
