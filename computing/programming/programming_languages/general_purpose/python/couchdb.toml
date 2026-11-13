@@ -1,0 +1,324 @@
+[[data]]
+Language = 'Python'
+"Operand Type" = 'couchdb cloudant'
+Feature = 'client'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'client = CouchDB(user=parse_result.username, auth_token=parse_result.password, url=url_without_credentials, connect=True, auto_renew=True)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'couchdb cloudant'
+Feature = 'database'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+my_database = client['my_database']
+client.delete_database('my_database')'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'couchdb cloudant'
+Feature = 'document'
+Subfeature = 'create'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'my_document = my_database.create_document(data)'
+Description = 'optionally set _id - better to set it, as explained in couchdb api below'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'couchdb cloudant'
+Feature = 'document'
+Subfeature = 'check'
+Importance = ''
+"Implementation Type" = ''
+Syntax = """
+if my_document.exists():
+    print 'SUCCESS!!'"""
+Description = '''DOn't rely on "id in self.db"'''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'couchdb cloudant'
+Feature = 'document'
+Subfeature = 'get'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''my_document = my_database['julia30']'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'couchdb cloudant'
+Feature = 'document'
+Subfeature = 'update'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+my_document = my_database['julia30']
+...
+my_document.save()
+'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'couchdb cloudant'
+Feature = 'document'
+Subfeature = 'update'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+with Document(database, 'julia006') as document:
+    # The document is fetched from the remote database
+    # Changes are made locally
+    document['name'] = 'Julia'
+    document['age'] = 6
+    # The document is saved to the remote database'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'couchdb cloudant'
+Feature = 'document'
+Subfeature = 'delete'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+my_document = my_database['julia30']
+my_document.delete()'''
+Description = '''Don't delete a document within a context manager! A new document is saved while exiting.'''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'couchdb'
+Feature = 'install'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'sudo pip install git+https://github.com/djc/couchdb-python@master'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'couchdb'
+Feature = 'server'
+Subfeature = 'connect'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import couchdb
+couch = couchdb.Server()
+couch = couchdb.Server('https://username:password@host:port/')
+'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'couchdb'
+Feature = 'database'
+Subfeature = 'create'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''db = couch.create('test')'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'couchdb'
+Feature = 'database'
+Subfeature = 'get'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''db = couch['mydb'] # existing'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'couchdb'
+Feature = 'database'
+Subfeature = 'delete'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+couch.delete('test')
+del server['python-tests']
+'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'couchdb'
+Feature = 'database'
+Subfeature = 'all doc ids'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+for id in db:
+...     print id
+ for row in db.view('_all_docs'):
+...     print(row.id)'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'couchdb'
+Feature = 'database'
+Subfeature = 'query'
+Importance = ''
+"Implementation Type" = ''
+Syntax = """
+map_fun = '''function(doc) {
+ if (doc.type == 'Person') emit(doc.name, null);}'''
+for row in db.query(map_fun):
+...     print(row.key)"""
+Description = '''
+Signature: query(map_fun, reduce_fun=None, language='javascript', wrapper=None, **options)
+Query options are as usual like:  include_docs=True
+limit=10&reduce=false&keys=%5B"hari"%5D
+Note: Temporary views are not supported in CouchDB2.0'''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'couchdb'
+Feature = 'database'
+Subfeature = 'find'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+mango = {'selector': {'type': 'Person'}, fields': ['name'], 'sort':[{'name': 'asc'}]}
+for row in db.find(mango):  print(row['name'])'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'couchdb'
+Feature = 'view'
+Subfeature = 'create'
+Importance = ''
+"Implementation Type" = ''
+Syntax = """
+view = ViewDefinition('tests', 'all', '''function(doc) {
+  emit(doc._id, null);
+}''')
+view.get_doc(db)
+view.sync(db)"""
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'couchdb'
+Feature = 'view'
+Subfeature = 'iterate'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+ for row in db.view('_all_docs'):
+ for row in db.iterview('_all_docs', batch=34):
+...     print(row.id)'''
+Description = '''
+Signature: view(name, wrapper=None, **options)
+Query options : see database-> query'''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'couchdb'
+Feature = 'document'
+Subfeature = 'create'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+
+from uuid import uuid4
+doc_id = uuid4().hex
+db[doc_id] = {'type': 'person', 'name': 'John Doe'}'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'couchdb'
+Feature = 'document'
+Subfeature = 'upsert'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+from uuid import uuid4
+doc_id = uuid4().hex
+db[doc_id] = {'type': 'person', 'name': 'John Doe'}
+db.save(doc)
+
+doc = db.create({...}) # use random id
+'''
+Description = '''
+provided doc is required to have a _rev field
+If doc has no _id then the server will allocate a random ID.
+ generally better to avoid the create() method and instead generate document IDs on the client side. This is due to the fact that the underlying HTTP POST method is not idempotent, and an automatic retry due to a problem somewhere on the networking stack may cause multiple documents being created in the database.'''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'couchdb'
+Feature = 'document'
+Subfeature = 'get'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''db['e0658cab843b59e63c8779a9a5000b01']'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'couchdb'
+Feature = 'document'
+Subfeature = 'update'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+for doc in db.update([
+...     Document(type='Person', name='John Doe'),
+...     Document(type='Person', name='Mary Jane'),
+... ]):
+...     print(repr(doc)) 
+db[doc.id] = doc'''
+Description = '''
+If an object in the documents list is not a dictionary, this method looks for an items() method that can be used to convert the object to a dictionary. Effectively this means you can also use this method with mapping.Document objects.
+'''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'couchdb'
+Feature = 'document'
+Subfeature = 'delete'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+db.delete(doc)
+del db[doc.id]'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'couchdb'
+Feature = 'document'
+Subfeature = 'check'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'doc.id in db'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'couchdb'
+Feature = 'document'
+Subfeature = 'revisions'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+try:
+  revision_docs = self.db.revisions(someId).next()
+except StopIteration: 
+  pass'''
+Description = ''

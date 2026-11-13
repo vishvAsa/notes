@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Dev tools on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/programming/dev_tools/</link>
+    <description>Recent content in &#43;Dev tools on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/programming/dev_tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#43;Version Control</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/dev_tools/version-control/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/dev_tools/version-control/</guid>
+      <description>&lt;h2 id=&#34;jj&#34;&gt;jj&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;jj is the best DVCS I have used in the last 20 years. This includes subversion, mercurial, fossil and git  &amp;ndash; kArtik&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;code&gt;jj git init --colocate&lt;/code&gt; in your git repo.&lt;/p&gt;&#xA;&lt;h2 id=&#34;git&#34;&gt;git&lt;/h2&gt;&#xA;&lt;div class=&#34;spreadsheet&#34; src=&#34;../git.toml&#34; fullHeightWithRowsPerScreen=8&gt; &lt;/div&gt;  &#xA;&lt;details&gt;&lt;summary&gt;Common tasks&lt;/summary&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git submodule add --depth 1 https://github.com/sanskrit-coders/sanskrit-documentation-theme-hugo themes/sanskrit-documentation-theme-hugo&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;/details&gt;&#xA;&lt;h3 id=&#34;remember-credentials&#34;&gt;Remember credentials&lt;/h3&gt;&#xA;&lt;p&gt;&lt;code&gt;git config --global credential.helper store&lt;/code&gt; avoids needing to retype credentials each time.&lt;/p&gt;&#xA;&lt;h4 id=&#34;default-user&#34;&gt;Default user&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;In linux, ensure that &lt;code&gt;~/.git-credentials&lt;/code&gt; have the keys in the right order - the earlier key will be tried first.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;splitting-subdir-to-differnt-branch-and-including-it&#34;&gt;Splitting subdir to differnt branch and including it&lt;/h3&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git subtree split --prefix=content -b some_branch&#xA;git push origin some_branch&#xA;git rm -rf subdir_path&#xA;git submodule add -b some_branch -f https://github.com/XYZ/UVW subdir_path&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;details&gt;&lt;summary&gt;विस्तारः (द्रष्टुं नोद्यम्)&lt;/summary&gt;&#xA;&lt;p&gt;git subtree split &amp;ndash;prefix=content -b content&#xA;git push origin content&#xA;git rm -rf content&#xA;git submodule add -b content -f &lt;a href=&#34;https://github.com/vishvAsa/gItam_vaiShNavam&#34;&gt;https://github.com/vishvAsa/gItam_vaiShNavam&lt;/a&gt; content&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Compilation</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/dev_tools/compilation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/dev_tools/compilation/</guid>
+      <description>&lt;h2 id=&#34;machine-instructions-and-their-files&#34;&gt;Machine instructions and their files&lt;/h2&gt;&#xA;&lt;p&gt;Machine instructions are understood by the processor. Assembly level code provides a way to write machine instructions using words instead of hexadecimal instructions.&lt;/p&gt;&#xA;&lt;h3 id=&#34;executable-files&#34;&gt;Executable files&lt;/h3&gt;&#xA;&lt;p&gt;When an operating system is being used, machine instructions, which are stored in a file or on fixed locations in the hard-disk, should be associated with suitable meta-data/ headers. Such files are called executable files.&lt;/p&gt;&#xA;&lt;h3 id=&#34;object-files&#34;&gt;Object files&lt;/h3&gt;&#xA;&lt;p&gt;Object files contain named segments of machine instructions - library functions. These files may be linked to executable files, from which, using a mechanism like the &amp;lsquo;call stack&amp;rsquo;, data is processed using the library functions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Computer setup tools</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/dev_tools/computer_setup_tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/dev_tools/computer_setup_tools/</guid>
+      <description>&lt;div class=&#34;spreadsheet&#34; src=&#34;../computer_setup_tools.toml&#34; fullHeightWithRowsPerScreen=8&gt; &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Debug</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/dev_tools/debug/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/dev_tools/debug/</guid>
+      <description>&lt;h2 id=&#34;method&#34;&gt;Method&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Detective Analogy&lt;/li&gt;&#xA;&lt;li&gt;Isolate the bug.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Extract information from error report.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Understand cryptic error codes.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Unit testing.&lt;/li&gt;&#xA;&lt;li&gt;Leaks&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Profiling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Fix it.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;logging&#34;&gt;Logging&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Log important events&lt;/li&gt;&#xA;&lt;li&gt;Use good Logging framework&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Prints source (line number etc..)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Destinations: Corresponding to each experiment, create a log file with a time stamp automatically, perhaps of the same name.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Testing</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/dev_tools/testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/programming/dev_tools/testing/</guid>
+      <description>&lt;h2 id=&#34;use&#34;&gt;Use&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Forces implementer to think like user. (Ease of use emphasized.)&lt;/li&gt;&#xA;&lt;li&gt;Useful for debugging.&lt;/li&gt;&#xA;&lt;li&gt;Testable code tends to be more readable.&lt;/li&gt;&#xA;&lt;li&gt;Safeguard against monkey-errors in future.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;test-desiderata&#34;&gt;Test desiderata&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Speed&lt;/li&gt;&#xA;&lt;li&gt;Isolation&lt;/li&gt;&#xA;&lt;li&gt;In production code&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Check inputs - use assertions&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;what-to-test&#34;&gt;What to test?&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Prove assertions&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Check safety: Recognize invariants&lt;/li&gt;&#xA;&lt;li&gt;Check progress&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Induction&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;isolation-testing&#34;&gt;Isolation testing&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Unit test function&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mocking function calls&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Eg: to databases&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Use fake objects&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Eg: fake databases&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;mocking-frameworks&#34;&gt;Mocking frameworks&lt;/h3&gt;&#xA;&lt;p&gt;The tester stubs out various functions that the method being tested is supposed to call. Then in the test, you make calls to those stubbed out functions with the arguments that you expect to be passed to them if the function being tested is working properly, and mox records it. Then, when the function is actually called, mox asserts that the order and arguments to the stubbed out functions are what was expected.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

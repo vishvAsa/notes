@@ -1,0 +1,808 @@
+[[data]]
+Language = 'Go'
+"Operand Type" = 'package'
+Feature = 'import'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import "pkgName"
+import ("pkg1"
+  "pkg2")
+import "math/cmplx"
+'''
+Description = 'Can specify function to import'
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'package'
+Feature = 'import'
+Subfeature = 'alternate import names'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import M "lib/math"  ref:  M.Sin
+import . "lib/math"    ref:   Sin'''
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'package'
+Feature = 'import'
+Subfeature = 'only run constructor'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'import(_ "asdf")'
+Description = '''Can't use functions/ variables provided in package.'''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'package'
+Feature = 'constructor'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'func init() {}'
+Description = 'Called after imported packages initialized, values assigned'
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'generic'
+Feature = 'declaration'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'var/ const x, y, z=40 int '
+Description = 'The datatype can be omitted if it is clear from an assignment.'
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'generic'
+Feature = 'declaration'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+const/ var(
+  stmt1
+  stmt2
+)'''
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'generic'
+Feature = 'declaration'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'var := val'
+Description = 'Compiler figures out type from value.'
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'generic'
+Feature = 'assignment'
+Subfeature = 'multiple'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'a, b:= tuple'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'generic'
+Feature = 'type casting'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'typeName(obj)'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'boolean'
+Feature = 'literal'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'true false'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'pointer'
+Feature = 'instantiation'
+Subfeature = 'reference'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'q := &p'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'pointer'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+var t *T = new(T)
+t := new(T)'''
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'pointer'
+Feature = 'member or method'
+Subfeature = 'access'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'q.xyz'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'IO'
+Feature = 'stdout'
+Subfeature = 'formatted'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'fmt.Printf("%g >= %g\n", v, lim)'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'IO'
+Feature = 'stdout'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'fmt.Pritnln(str)'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'IO'
+Feature = 'stdout'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'fmt.Pritnln(itemList)'
+Description = 'prints space separated representation of item-list.'
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'IO'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'fmt.Fprint(os.Stdout, "Hello ", 23, "\n")'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'statement'
+Feature = 'block'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '{..} or Stmt\n or Stmt;'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'statement'
+Feature = 'decision'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'if [initStmt;] condition statementBlock [else stmtBlock].'
+Description = 'Variables declared in the initStmt are available in the else block.'
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'statement'
+Feature = 'decision'
+Subfeature = 'switch'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+switch [initStmt;] val0 { case val1: stBlock1
+default: stSet2}'''
+Description = 'Case body breaks automatically unless it ends with fallthrough.'
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'statement'
+Feature = 'decision'
+Subfeature = 'switch'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'switch {..}'
+Description = 'Same as switch true { .. }'
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'statement'
+Feature = 'comment'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '// and /**/'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'function'
+Feature = 'defiition'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'func fnName(argList) (retList) stmtBlock'
+Description = 'can omit () around retList - when?'
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'function'
+Feature = 'literal'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'func(argList) (retList) stBlock'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'function'
+Feature = 'defiition'
+Subfeature = 'arguments'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'x int, y int or x, y int, or empty string.'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'function'
+Feature = 'defiition'
+Subfeature = 'return'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'return resultList'
+Description = 'The result list is optional if return variables are declared beforehand.'
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'function'
+Feature = 'destructor'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'defer f.Close() '
+Description = 'Deferred function call'
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'run'
+Feature = 'point of entry'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'func main(){}'
+Description = 'main() is in package main.'
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'type'
+Feature = 'define'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'type XYZ float64'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'types'
+Feature = 'bool (literals: true false) '
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'types'
+Feature = 'bool (literals: true false) '
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'types'
+Feature = 'int  int8  int16  int32/ rune  int64 uint uint8/ byte uint16 uint32 uint64 uintptr'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'types'
+Feature = 'float32 float64'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'types'
+Feature = 'complex64 complex128'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'types'
+Feature = 'string '
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'types'
+Feature = 'struct'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'types'
+Feature = 'map[T1]T2'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'types'
+Feature = 'Pointer: *T'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'types'
+Feature = 'error'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''
+type error interface {
+        Error() string
+}'''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'types'
+Feature = 'array'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'passed as value'
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'types'
+Feature = 'slice/ list'
+Subfeature = 'wrap array'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'types'
+Feature = 'chan T  '
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'send and receive values of type T'
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'types'
+Feature = 'chan<- float64'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'can only be used to send float64s'
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'types'
+Feature = '<-chan int  '
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'can only be used to receive ints'
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'interface'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+type Abser interface {
+        Abs(inputList) retList
+}'''
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'struct'
+Feature = 'define'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+type Vertex struct {
+        X int
+}'''
+Description = '''
+A type implements an interface by implementing the methods.
+Can't initialize variables arbitrarily - they're set to nil.'''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'struct'
+Feature = 'instantiation'
+Subfeature = 'literal'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+structName{valueList}
+r = Vertex{X: 1}  // Y:0 is implicit
+s = Vertex{}      // X:0 and Y:0'''
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'struct'
+Feature = 'member'
+Subfeature = 'access'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'var.fieldName'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'struct'
+Feature = 'method'
+Subfeature = 'define'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'func (x [*]T1) fnName(argList) (retList) stmtBlock'
+Description = '[*]T1 is a non-basic type defined in the same package.'
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'struct'
+Feature = 'embed'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+type A struct { } 
+func (x *A) fn(y) (z) stBlk.
+type B struct { A }
+// Can do: b = B{}, b.fn(d)'''
+Description = 'Like inheritence'
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'numeric'
+Feature = 'arithmetic'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'math.sqrt, pow'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'import'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import ("generatedPbPath")
+'''
+Description = '''
+Messages are structs.
+Non repeated values are pointer types.
+Repeated fields are slices.
+field_names are changed to CamelCase (with first letter in CAPS).'''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'protocol buffer 2'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'create struct named pkg.PBName1[_PBName2]'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'field'
+Subfeature = 'get'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'GetFld1()'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'field'
+Subfeature = 'reset'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Reset()'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'field'
+Subfeature = 'set'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'pb.fld =  proto.Int32(2)'
+Description = 'Same as: x := new(Int32); *x = 2; pb.fld = x'
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'serialize'
+Subfeature = 'string'
+Importance = ''
+"Implementation Type" = 'method'
+Syntax = 'pb.String()'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'serialize'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'data, err := proto.Marshal(pbPtr)'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'protocol buffer 2'
+Feature = 'deserialize'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'err := proto.Unmarshal(data, pbPtr)'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'statement'
+Feature = 'iteration'
+Subfeature = 'for'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'for [initStmt];cond;[postStmt] statementBlock'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'statement'
+Feature = 'iteration'
+Subfeature = 'for'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'for idx, val := range lstX stBlock'
+Description = 'To omit using idx or val, use: _, val.'
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'map'
+Feature = 'instantiation'
+Subfeature = 'make'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'make(map[string]Vertex)'
+Description = 'not new'
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'map'
+Feature = 'instantiation'
+Subfeature = 'literal'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'map[T1]T2{ key1: val1, key2: val2}'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'map'
+Feature = 'instantiation'
+Subfeature = 'literal'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'map[T1]T2{ key1: {valList1}}'
+Description = '''Don't have to say: T2{valList1}'''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'map'
+Feature = 'indexing'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'm[key]'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'map'
+Feature = 'modify'
+Subfeature = 'update'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'm[key] = elem'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'map'
+Feature = 'modify'
+Subfeature = 'delete'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'delete(m, key)'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'map'
+Feature = 'membership'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'elem, ok = m[key]'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'array'
+Feature = 'instantiation'
+Subfeature = 'literal'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '[]int{2, 3, 5, 7, 11, 13}'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'array'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'make(:int[], len)'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'array'
+Feature = 'modify'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'same as map'
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'slice'
+Feature = 'indexing'
+Subfeature = 'slice'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 's[lo:hi]'
+Description = 's[lo:lo]'
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'slice'
+Feature = 'indexing'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 's[key]'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'slice'
+Feature = 'length'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'len(lst)'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'slice'
+Feature = 'capacity'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'cap(lst)'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'slice'
+Feature = 'modify'
+Subfeature = 'append'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'x = append(x, 4, 5, 6)'
+Description = ''
+
+[[data]]
+Language = 'Go'
+"Operand Type" = 'channel'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'make(chan T [, capacity])'
+Description = ''

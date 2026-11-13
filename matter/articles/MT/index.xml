@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;MT on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/matter/articles/MT/</link>
+    <description>Recent content in &#43;MT on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/matter/articles/MT/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fine structure constant</title>
+      <link>https://vishvAsa.github.io/notes/matter/articles/MT/fine-structure-constant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/matter/articles/MT/fine-structure-constant/</guid>
+      <description>&lt;p&gt;Feynman:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“It [the Fine Structure Constant alpha] has been a mystery ever since it was discovered more than fifty years ago, and all good theoretical physicists put this number up on their wall and worry about it.”&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;In classical physics, you can calculate the radius of an electron as a spherical object. In quantum mechanics, you can calculate the average radius of the smallest atom. If an electron is entirely converted to electromagnetic radiation, you can calculate the wavelength of that photon. All these numbers are related to each other by that dimensionless number, the Fine Structure Constant. Thus, the classical, quantum and relativistic realms are connected by it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ultimate fate</title>
+      <link>https://vishvAsa.github.io/notes/matter/articles/MT/ultimate-fate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/matter/articles/MT/ultimate-fate/</guid>
+      <description>&lt;p&gt;Unlike the neutron, which has a half-life of 879 or 888 seconds, the proton will live for at least 10^34 years. If current physics is true and the proton doesn&amp;rsquo;t decay, the universe is believed to ultimately end up a collection of cold iron spheres. It will be so far removed in time that it really means nothing to anything on earth but a strange endpoint for those who seek meaning in conscious existence.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

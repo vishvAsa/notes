@@ -1,0 +1,1317 @@
+[[data]]
+Language = 'Javascript'
+"Operand Type" = '''
+module
+commonJS/ es5'''
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+require(dependency: String);
+require.resolve(dependency: String);
+'''
+Description = 'perhaps made obsolete by es6 standard'
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'module'
+Feature = 'import'
+Subfeature = 'path specs'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Relative paths ('../model/user')
+Absolute paths ('/lib/js/helpers')
+Names ('util')'''
+Description = ' The file extension .js can usually be omitted.'
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'module'
+Feature = 'import'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import MyModule from './my-module.js';
+import { NamedExport } from './other-module.js';
+import { square, diag } from 'lib';
+import * as lib from 'lib';
+'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'module'
+Feature = 'import'
+Subfeature = 'default export'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import myFunc from 'myFunc';
+import MyClass from 'MyClass';
+'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'module'
+Feature = 'import  to promise'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import('lodash').then(_ => {
+    // Do something with lodash (a.k.a '_')...
+  });'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'module'
+Feature = 'export'
+Subfeature = 'named'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+// Named exports
+export var Count = 5;
+export function Multiply(a, b) {
+  return a * b;
+}'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'module'
+Feature = 'export'
+Subfeature = 'default'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+// Default export
+export default {
+  // Some data...
+};
+export default function () { ··· } // no semicolon!
+'''
+Description = 'Name of exported entity or object or class is same as containing js file name'
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'development'
+Feature = 'lint'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'http://www.jslint.com/lint.html'
+Description = 'devel: true, browser: true, undef: false, vars: true, white: true, maxerr: 50, indent: 4'
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'generic'
+Feature = 'declare function local'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'var varName [= value];'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'generic'
+Feature = 'declare block local'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'let var1 [= value1] [, var2 [= value2]] [, ..., varN [= valueN]];'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'generic'
+Feature = 'assign'
+Subfeature = 'with null check'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'var value = p \&\& p.name;'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'generic'
+Feature = 'assign'
+Subfeature = 'default value'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'value = v || 10;'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'generic'
+Feature = 'null'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'null and undefined'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'generic'
+Feature = 'type'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'typeof(val)'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'data types'
+Feature = 'primitive'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Boolean Null Undefined Number String Symbol '
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'data types'
+Feature = 'non-primitive'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Object'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'boolean'
+Feature = 'arithmetic'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ' && || !'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'number'
+Feature = 'arithmetic'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ' + = / *'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'number'
+Feature = 'arithmetic'
+Subfeature = 'bitwise'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '<< >> | &'
+Description = 'implicitly convert a floating point number to a 32 bit integer'
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'number'
+Feature = 'comparison'
+Subfeature = 'without type coersion'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ' < > === <= >= !=='
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'number'
+Feature = 'comparison'
+Subfeature = 'with type coersion'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ' == and !='
+Description = 'safer, preferable'
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'string'
+Feature = 'convert'
+Subfeature = 'number'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ' =Str'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'string'
+Feature = 'convert'
+Subfeature = 'boolean'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ' !!Str'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'string'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+"sdf" 'asdf'
+'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'string'
+Feature = 'instantiation'
+Subfeature = 'multiline'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+var html = `
+  <div>
+    <span>Some HTML here</span>
+  </div>
+`;'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'string'
+Feature = 'instantiation'
+Subfeature = 'multiline'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+"foo \
+bar"'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'string'
+Feature = 'instantiation'
+Subfeature = 'construct'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+let soMany = 10;
+console.log(`This is ${soMany} times easier!`);'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'string'
+Feature = 'length'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'str.length'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'string'
+Feature = 'search, test'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'str.replace(), split, search, test'
+Description = 'can pass regular expression'
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'string'
+Feature = 'replace'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+var re = /(\w+)\s(\w+)/;
+var str = 'John Smith';
+var newstr = str.replace(re, '$2, $1');
+
+'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'string'
+Feature = 'concatenate'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+a + b
+a + 10'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'string'
+Feature = 'substring'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'str.startsWith("xyz")'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'regular expression'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '/exp/'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'regular expression'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'new RegExp(expString, patternFlag )'
+Description = 'i (ignore case), m (multiline: alter meaning of \verb ^,\$ ), g (global), gi'
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'statement'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'statement;'
+Description = 'All statements end with ; - which when missing is automatically implicitly inserted before execution.'
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'statement'
+Feature = 'block'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '{..}'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'statement'
+Feature = 'block'
+Subfeature = 'caveat'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'Does not affect variable scoping.'
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'statement'
+Feature = 'loop'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+for (var index in list) statementBlock
+for, while, do-while loops as in C'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'statement'
+Feature = 'loop'
+Subfeature = 'array'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+for (let el of arr1) {
+  console.log(el);
+
+}'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'statement'
+Feature = 'decision'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+if(cond) {..}
+if-else, switch-case as in C'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'function'
+Feature = 'define'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+function fnName(name, age) statementBlock
+var fnName = function(arglist) block'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'function'
+Feature = 'define'
+Subfeature = 'arrow syntax'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+var foo = (param1, param2, …, paramN) => block
+var foo = (() => this); // returns literal
+singleParam => { statements }'''
+Description = 'a shorter syntax than a function expression and does not bind its own this, arguments, super, or new.target. '
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'function'
+Feature = 'define'
+Subfeature = 'indefinite params'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '(param1, param2, ...rest) => { statements }'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'function'
+Feature = 'define'
+Subfeature = 'default values'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '(param1 = defaultValue1, param2, …, paramN = defaultValueN) => { statements }'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'function'
+Feature = 'define'
+Subfeature = 'destructuring params list'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'let f = ([a, b] = [1, 2], {x: c} = {x: a + b}) => a + b + c;'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'function'
+Feature = 'define'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Function()'
+Description = 'avoid!'
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'function'
+Feature = 'define'
+Subfeature = 'async'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+async function f() {
+  return 1; // wrapped in Promise object
+}
+'''
+Description = 'always returns a promise. If the code has return <non-promise> in it, then JavaScript automatically wraps it into a resolved promise with that value'
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'function'
+Feature = 'return'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'return x;'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'function'
+Feature = 'call'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+f3()
+entries.select({ from: 3, to: 5 });
+see below - can omit context'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'function'
+Feature = 'call'
+Subfeature = 'pass context'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+f3.call(this);
+var o = {a: 1, b: 3};
+add.call(o, 5, 7);
+add.apply(o, [10, 20]); // 1 + 3 + 10 + 20 = 34'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'function'
+Feature = 'call'
+Subfeature = 'construct object'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+xyz = new SomeConstructorFunction(arg1, arg2);
+'''
+Description = '''creates a new object of type object. sets 'this' to point to it. returns this new object unless the function returns some other object reference.'''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'timed execution'
+Feature = 'timer'
+Subfeature = 'set'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'timerId = setTimeout(functionHandle, milliseconds)'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'timed execution'
+Feature = 'timer'
+Subfeature = 'clear'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'clearTimeout(timerId)'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'timed execution'
+Feature = 'periodic execution'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+setInterval()
+clearInterval()'''
+Description = 'syntax is similar to setTimeout'
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'Map'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '{key1: val1, key2: val2 ...}'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'object'
+Feature = 'concept'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'Map-like, but with prototype etc..'
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'object'
+Feature = 'prototype (=class)'
+Subfeature = 'with function'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+function Person(name, age) {
+  this.name = name;
+  this.age = age;
+}'''
+Description = 'A simple constructor'
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'object'
+Feature = 'prototype (=class)'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'CanvasStateList.prototype = someMap'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'object'
+Feature = 'prototype (=class)'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+class Rectangle [extends XYZ] {
+  constructor(height, width) {
+    this.height = height;
+    this.width = width;
+  }
+ somemethod(..) {..}
+}
+var Rectangle = class OptionalName {
+  constructor(height, width) {
+    this.height = height;
+    this.width = width;
+  }
+};'''
+Description = 'A special function, actually. But, must declare before using.'
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'object'
+Feature = 'prototype (=class)'
+Subfeature = 'superclass constructor'
+Importance = ''
+"Implementation Type" = 'caveat'
+Syntax = ''
+Description = 'super(); must be explicitly called.'
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'object'
+Feature = 'prototype (=class)'
+Subfeature = 'attribute getter'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+  get area() { // defines attribute
+    return this.calcArea();
+  }
+'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'object'
+Feature = 'prototype (=class)'
+Subfeature = 'static method'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'static distance(a, b) { ... }'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'object'
+Feature = 'prototype (=class)'
+Subfeature = 'abstract subclass'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+var calculatorMixin = Base => class extends Base {
+  calc() { }
+};
+var randomizerMixin = Base => class extends Base {
+  randomize() { }
+};
+class Foo { }
+class Bar extends calculatorMixin(randomizerMixin(Foo)) { }'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'object'
+Feature = 'non constructible object'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+var o = {f: function() { return this.a + this.b; }};
+var Animal = {
+  speak() {
+    console.log(this.name + ' makes a noise.');
+  }
+};'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'object'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+{key1:val1, key2:val3, f: function() {
+    return this.prop;
+  }
+}'''
+Description = 'When reserved words are used for keys, they must be enclosed in quotes'
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'object'
+Feature = 'instantiation'
+Subfeature = 'use class'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'var p = new Rectangle();'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'object'
+Feature = 'instantiation'
+Subfeature = 'use function'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'let p = new ConstructorFn();'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'object'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Object()'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'object'
+Feature = 'instantiation'
+Subfeature = 'clone'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'var p = Object.create(o);'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'object / Map'
+Feature = 'member'
+Subfeature = 'access'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'obj["key"], obj.key'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'object'
+Feature = 'member'
+Subfeature = 'enumerate'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'for (var n in obj) if (obj.hasOwnProperty(n)) ..'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'object'
+Feature = 'method'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'obj.xyz = Function(args) {..}'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'object'
+Feature = 'method'
+Subfeature = 'call'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'o.f()'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'object'
+Feature = 'method'
+Subfeature = 'call superclass'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+class Lion extends Cat {
+  speak() {
+    super.speak();
+    console.log(this.name + ' roars.');
+  }
+}'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'object'
+Feature = 'self'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'this.xyz'
+Description = 'Can be used within method definitions.'
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'object'
+Feature = 'shallow copy'
+Subfeature = ' + change'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+var player = {score: 1, name: 'Jeff'};
+var newPlayer = Object.assign({}, player, {score: 2});'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'Array'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '[valueList]'
+Description = 'Values can be anything - even functions or other arrays'
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'Array'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+new Array()
+Array(9)
+Array(9).fill(null)
+var myArr = Array.from(mySet);'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'Array'
+Feature = 'indexing'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'arr[2]'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'Array'
+Feature = 'add element'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'arr[4] = val // arr.length was 4 '
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'Array'
+Feature = 'length'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'arr.length'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'Array'
+Feature = 'pop from front/ back'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+var x = arr.shift() // from front
+var x = arr.pop();'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'Array'
+Feature = 'fill'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Array(9).fill(null)'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'Array'
+Feature = 'iterate'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'arr.forEach(function(value, index) { ... });'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'Array'
+Feature = 'join'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+var fruits = ["Banana", "Orange", "Apple", "Mango"];
+var energy = fruits.join();
+a.join('-')'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'Array'
+Feature = 'sort'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+arr.sort()
+arr.sort(compareFunction)'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'Array'
+Feature = 'filter'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+function isBigEnough(value) {
+  return value >= 10;
+}
+var filtered = [12, 5, 8, 130, 44].filter(isBigEnough);'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'Array'
+Feature = 'map'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'uvw = xyz.map(function (row) {return row.key;})'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'Array'
+Feature = 'shallow slice copy'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+arr.slice()
+arr.slice(begin)
+arr.slice(begin, end)'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'Array'
+Feature = 'containment check'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'arr.includes(x)'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'set'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'new Set(someArray)'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'worker computing'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'concept'
+Syntax = ''
+Description = '''a thread which doesn't block the caller (usually the UI thread).'''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'worker computing'
+Feature = 'caller'
+Subfeature = 'spawn worker'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+var myWorker = new Worker('worker.js');
+'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'worker computing'
+Feature = 'worker'
+Subfeature = 'kill'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+close(); // worker thread
+myWorker.terminate(); // main thread
+'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'worker computing'
+Feature = 'caller'
+Subfeature = 'send message'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+  myWorker.postMessage([first.value,second.value]);
+'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'worker computing'
+Feature = 'worker'
+Subfeature = 'respond'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+onmessage = function(e) {
+  console.log('Message received from main script');
+  var workerResult = 'Result: ' + (e.data[0] * e.data[1]);
+  console.log('Posting message back to main script');
+  postMessage(workerResult);
+}'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'worker computing'
+Feature = 'caller'
+Subfeature = 'get response'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+myWorker.onmessage = function(e) {
+  result.textContent = e.data;
+  console.log('Message received from worker');
+}'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'Thenable'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'concept'
+Syntax = '''
+class Thenable {
+  constructor(num) {
+    this.num = num;
+  }
+  then(resolve, reject) {
+    alert(resolve); // function() { native code }
+    // resolve with this.num*2 after 1000ms
+    setTimeout(() => resolve(this.num * 2), 1000); // (*)
+  }
+};'''
+Description = 'An object with a callable then() method - Ancestor of Promise'
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'promise'
+Feature = 'create'
+Subfeature = 'from async function'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'See async function doc'
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'promise'
+Feature = 'create'
+Subfeature = 'from function'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+var isMomHappy = false;
+
+// Promise
+var willIGetNewPhone = new Promise(
+    function (resolve, reject) {
+        if (isMomHappy) {
+            var phone = {
+                brand: 'Samsung',
+                color: 'black'
+            };
+            resolve(phone); // fulfilled
+        } else {
+            var reason = new Error('mom is not happy');
+            reject(reason); // reject
+        }
+
+    }
+);'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'promise'
+Feature = 'create'
+Subfeature = 'from obj'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Promise.resolve(someObj);'
+Description = 'If the value is a promise, that promise is returned. This function flattens nested layers of promise-like objects'
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'promise'
+Feature = 'create'
+Subfeature = 'all'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Promise.all(promiseArray)'
+Description = 'rejects with the reason of the first promise that rejects.'
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'promise'
+Feature = 'create'
+Subfeature = 'all settled'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Promise.allSettled(promiseArray)'
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'promise'
+Feature = 'create'
+Subfeature = 'rejection'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''Promise.reject(new Error('fail'))'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'promise'
+Feature = 'consume'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+ willIGetNewPhone
+.then(function (fulfilled) {..})
+.catch(function (error) {..})'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'promise'
+Feature = 'consume'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+// works only inside async functions
+let value = await promise;'''
+Description = 'makes JavaScript wait until that promise settles and returns its result'
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'promise'
+Feature = 'chain'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+promise1
+    .then(promise2).then(...)'''
+Description = ''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'couchdb'
+Feature = 'map'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+function(doc) {
+    var shop, price, value;
+    if (doc.item && doc.prices) {
+        for (shop in doc.prices) {
+            price = doc.prices[shop];
+            value = [doc.item, shop];
+            emit(price, value);
+        }
+    }
+}'''
+Description = '''
+can emit (key, value) pairs.
+Results in docs like:
+{
+ "id": "same_as_original_doc_id",
+ "key": 0.79,
+ "value": [
+  "apple",
+  "Apples Express"
+ ],
+ "doc": { original_doc
+  },
+ "_id": "same_as_original_doc_id"
+}'''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'couchdb'
+Feature = ' CouchApp'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'concept'
+Syntax = ''
+Description = '''
+share code accross design docs.
+easy install and validation'''
+
+[[data]]
+Language = 'Javascript'
+"Operand Type" = 'couchdb'
+Feature = 'log'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'log(xyz);'
+Description = 'goes to couchdb.log'

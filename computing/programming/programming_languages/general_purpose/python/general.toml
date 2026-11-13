@@ -1,0 +1,1948 @@
+[[data]]
+Language = 'Python'
+"Operand Type" = 'library'
+Feature = 'define'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+make a folder with many modules.
+Include __init__.py .'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'library'
+Feature = 'setup script'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Create the setup.py file'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'library'
+Feature = 'installation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+sudo easy_install pkgName
+sudo pip install git+https://github.com/noirbizarre/flask-restplus@master
+sudo pip install --upgrade https://github.com/googleapis/google-api-python-client/zipball/master
+sudo pip install pkgname
+sudo pip install indic_transliteration -U # upgrades
+pip install --target=d:\somewhere\other\than\the\default package_name
+
+'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'library'
+Feature = 'installation'
+Subfeature = 'local code'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'uv pip install -e .'
+Description = '-e = editable mode - uncompiled, raw python code is used straight from the working directory.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'library'
+Feature = 'installation'
+Subfeature = 'local code'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'python setup.py install'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'library'
+Feature = 'pip publication'
+Subfeature = 'files'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Copy and modify template in indic_transliteration or sanskrit_data'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'library'
+Feature = 'pip publication'
+Subfeature = 'run'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+python setup.py bdist_wheel
+twine upload dist/* --skip-existing'''
+Description = 'skip-existing will lead to failure if there is nothing to skip.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'documentation'
+Feature = 'in-code'
+Subfeature = 'module, class, function, method'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+"""one-line description.
+
+Details - use rst
+"""'''
+Description = 'Include a docstring in every module file (including __init__.py), class and function'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'documentation'
+Feature = 'in-code'
+Subfeature = 'module variable'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+#: xyz
+somevar'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'documentation'
+Feature = 'generate sphinx'
+Subfeature = 'files'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+conf.py, .nojeckyll in case of github, Makefile and rst files.
+Use template from sanskrit_data'''
+Description = 'Sphinx directives described in fileFmt page'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'module'
+Feature = 'import'
+Subfeature = 'use absolute path'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'from __future__ import absolute_import'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'module'
+Feature = 'import'
+Subfeature = 'set path'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import sys, os
+sys.path.append(os.path.abspath('..'))'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'module'
+Feature = 'import'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import [lib1.lib2.]moduleName
+from lib import * # imports everything in lib.__all__
+from lib import mod1, mod2'''
+Description = '''
+also runs free code.
+Can be inserted anywhere: even in functions.'''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'module'
+Feature = 'import'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'from mod import fn1, fn2'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'module'
+Feature = 'import'
+Subfeature = 'relative'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+from .api import Api # probably same as from api import Api
+'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'module'
+Feature = 'run'
+Subfeature = 'as main'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+python mod.py args
+python3 -m jyotisha.panchangam.scripts.write_monthly_panchangam_tex Singapore 18.57 12.1 +6'''
+Description = 'Sets __name__ = "__main__"'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'module'
+Feature = 'run'
+Subfeature = 'Specify entry point'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+if __name__ == "__main__":
+  main()'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'module'
+Feature = 'list functions'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'dir(moduleName)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'module'
+Feature = 'print documentation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'help(moduleName)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'module'
+Feature = 'variable'
+Subfeature = 'refer'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'mod.var'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'module'
+Feature = 'variable'
+Subfeature = 'protected and private'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'same as class members.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'module'
+Feature = 'define'
+Subfeature = 'file'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'just create something.py'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'module'
+Feature = 'define'
+Subfeature = 'folder'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+create a folder.
+create __init__.py
+optionally list submodules: __all__ = [...]'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'built in data types'
+Feature = 'mutable heterogenous'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+byte array
+list
+set
+dict'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'built in data types'
+Feature = 'immutable heterogenous'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Generator'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'built in data types'
+Feature = 'immutable'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+int, float, long, complex
+str
+bytes
+tuple
+frozen set'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'command line options'
+Feature = 'parse'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+# Parse -a -b -c xxx -d xyz --cat=23
+try:
+  opts = getopt.getopt(args, 'a:bc:', ["action=", "cat="])
+  for opt, arg in opts:
+    if opt == '-h':
+      usage()
+    elif opt in ("-a", "--action"):
+      params.action = arg
+
+except getopt.GetoptError:
+  usage()
+'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'Threading'
+Feature = 'Lock'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import threading
+lck = threading.Lock()'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'Threading'
+Feature = 'Lock'
+Subfeature = 'Acquire/ release'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+lck.acquire()
+lck.release()
+with lck:  doxyz()'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'Threading'
+Feature = 'Event'
+Subfeature = 'definition'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Communication: One thread signals an event, others wait for it.'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'Threading'
+Feature = 'Event'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'e = threading.Event()'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'Threading'
+Feature = 'Event'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'ev.set() clear() wait(timeout)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'html'
+Feature = 'parse'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import lxml.html
+import lxml.html.soupparser
+doc = lxml.html.soupparser.fromstring(str)'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'html'
+Feature = 'HTMLParser'
+Subfeature = 'define'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+class MyHTMLParser(HTMLParser):
+    def handle_starttag(self, tag, attrs):
+        if tag.upper() == "LI":
+            self.in_tag = True
+    def handle_endtag(self, tag):
+        if tag.upper() == "LI":
+            self.in_tag = False
+    def handle_data(self, data):
+        if self.in_tag:
+            print data
+
+'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'html'
+Feature = 'HTMLParser'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+parser = MyHTMLParser()
+parser.feed(str)'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'html: BeautifulSoup'
+Feature = 'setup'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+from bs4 import BeautifulSoup
+
+hexentityMassage = [(re.compile('&#x([^;]+);'),
+lambda m: '&#%d;' % int(m.group(1), 16))]
+    soup = BeautifulSoup(content, convertEntities=BeautifulSoup.HTML_ENTITIES,
+    markupMassage=hexentityMassage)'''
+Description = 'Also convert hex entities.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'html: BeautifulSoup'
+Feature = 'find items'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''h2_items = soup.findAll('h2')'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'html: BeautifulSoup'
+Feature = 'init'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import requests
+url = "https://api.vedavaapi.org/scala/grammar/v1/generators/alternateFormsWx/yAwi/karwari/lot/pra/1/parasmEpaxI"
+r = requests.get(url)
+soup = BeautifulSoup(r.content, features="lxml")
+'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'html: BeautifulSoup'
+Feature = 'get tag'
+Subfeature = 'css'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'rows = soup.select("div.right_middle table table tr")'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'html: BeautifulSoup'
+Feature = 'tag'
+Subfeature = 'set text'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+result = requests.get(detail_url)
+detail_link.string = result.text'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'html: BeautifulSoup'
+Feature = 'tag'
+Subfeature = 'get texts'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'xTag.string'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'html: BeautifulSoup'
+Feature = 'tag'
+Subfeature = 'get text'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'xTag.stripped_strings'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'html: BeautifulSoup'
+Feature = 'tag'
+Subfeature = 'get attribute'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'anchor["href"]'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'process'
+Feature = 'code location'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '__file__'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'process'
+Feature = 'flags'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import argparse
+parser = argparse.ArgumentParser(description="")
+parser.add_argument("--flgName", dest="flg", default="..", help="..")
+args = parser.parse_args()
+args.flg'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'process'
+Feature = 'external arguments'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'sys.argv'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'process'
+Feature = 'run'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'os.system()'
+Description = 'depricated by subprocess.call'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'process'
+Feature = 'run'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+subprocess.call("exit 1", shell=True)
+subprocess.call([cmd arg1 arg2])'''
+Description = 'call("cmd arg1") fails. use shell=True, or pass list.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'process'
+Feature = 'run'
+Subfeature = 'check'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+returnVal = subprocess.check_call(cmd, shell=True [, stdout=.., stderr=..])
+check_call([cmd arg1 arg2])'''
+Description = 'Non-0 return value results in failure.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'process'
+Feature = 'run'
+Subfeature = 'output + check'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+someStr = subprocess.check_output(["echo", "Hello World!"])
+someStr = subprocess.check_output("echo Hello World!", shell=True)
+subprocess.check_output(
+...     "ls non_existent_file; exit 0",
+...     stderr=subprocess.STDOUT,
+...     shell=True)'''
+Description = 'Non-0 return value results in failure.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'process'
+Feature = 'run piping stdin'
+Subfeature = 'prepare args'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'shlex.split(command_line)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'process'
+Feature = 'run piping stdin'
+Subfeature = 'prepare process'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'proc = subprocess.Popen(args ,stdin=subprocess.PIPE)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'process'
+Feature = 'run piping stdin'
+Subfeature = 'write to stdin'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+proc.stdin.write()
+proc.stdin.close()'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'process'
+Feature = 'run piping stdin'
+Subfeature = 'wait for cmd'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'p.wait()'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'boolean'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'True False'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'boolean'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '(), None'
+Description = 'In conditions.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'boolean'
+Feature = 'connectives'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'operator'
+Syntax = '''
+and or not
+is is not'''
+Description = '''
+Comparisons to singletons like None should always be done with is or is not, never the equality operators.
+'''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'numeric'
+Feature = 'literal'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '12.2 0b10'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'numeric'
+Feature = 'comparison'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'operator'
+Syntax = '> < >= <= << >>'
+Description = 'Note: a<<c = a*(2<<c)'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'numeric'
+Feature = 'calculation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'operator'
+Syntax = '''
+"= + - * / 
+**  
+// round off div"
+(quo, rem) = divmod(a, b)'''
+Description = 'No ++'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'numeric'
+Feature = 'calculation'
+Subfeature = 'bitwise'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'operator.xor, operator.and_'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'complex number'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'complex(0,1)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class'
+Feature = 'definition'
+Subfeature = 'inheritence'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+class C(superclass):
+class OldStyle:
+    pass
+
+class NewStyle(object):
+    pass
+
+print type(OldStyle)  # prints: <type 'classobj'>
+
+print type(NewStyle) # prints <type 'type'>'''
+Description = 'New style class preferable. Specifies resolution order in case of multiple inheritence, etc...'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class'
+Feature = 'definition'
+Subfeature = 'multiple inheritence'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+class Mixin1(object):
+    def test(self):        print "Mixin 1"
+class Mixin2(object):
+    def test2(self):        self.test()
+class MyClass(BaseClass, Mixin1, Mixin2):
+'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class'
+Feature = 'superclass'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'super(currentclass, actual_cls)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class'
+Feature = 'superclass object'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'super(currentclass, self)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class'
+Feature = 'reflection: get from name'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+module = __import__(module_name)
+class_ = getattr(module, class_name)
+instance = class_()'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class special methods'
+Feature = 'creator'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+__new__(cls):
+  return super(A, cls).__new__'''
+Description = '''
+Must return an instance. 
+Not guaranteed to work with old style classes.
+super.. returns new style class.'''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class special methods'
+Feature = 'constructor'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'method'
+Syntax = '__init__(self, otherArgs)'
+Description = 'you cannot define multiple constructors. However, you can define a default value if one is not passed. And use static methods.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class special methods'
+Feature = 'constructor'
+Subfeature = 'caveat'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'Superclass constructor not called automatically.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class special methods'
+Feature = 'constructor'
+Subfeature = 'superclass'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+super(currentclass, self).__init__()
+super(self.__class__, self).__init__()'''
+Description = 'Superclass constructor not called automatically.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class special methods'
+Feature = 'destructor'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'method'
+Syntax = '__del__'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class special methods'
+Feature = 'destructor'
+Subfeature = 'caveat'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'Alert! not guaranteed to be called.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class special methods'
+Feature = 'comparison'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+__cmp__(self, other)
+__eq__, __ne__, __lt__(), ...'''
+Description = 'Needed for sorting: __lt__'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class special methods'
+Feature = 'arithmetic operators'
+Subfeature = 'binary'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+__add__(self, other) __mul__ .. // obj + 21
+__radd__(self, othr): # can do 34 + obj'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class special methods'
+Feature = 'arithmetic operators'
+Subfeature = 'unary'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '__pos__(self) __neg__ ...'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class special methods'
+Feature = 'augmented assignment'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '__iadd__(self, other) ..'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class special methods'
+Feature = 'type cast'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Defined using methods named:
+__str__() etc..'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class special methods'
+Feature = 'offcial string representation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+def __repr__():
+  return "official string representation"'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class special methods'
+Feature = 'arbitrary attributes'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+__getattr__(self, ..) // return AttributeError if needed
+'''
+Description = 'Avoid infinite regression!'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class special methods'
+Feature = 'get'
+Subfeature = 'field'
+Importance = ''
+"Implementation Type" = 'operator'
+Syntax = 'cls.fld'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class special methods'
+Feature = 'sequence operators'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '__len__(), __iter__(), __contains__(self, item)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class special methods'
+Feature = 'copy'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '__copy__ __deepcopy__()'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class'
+Feature = 'object method'
+Subfeature = 'definition'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'def fn(self, otherArgs)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class'
+Feature = 'object method'
+Subfeature = 'abstract'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''raise NotImplementedError('Abstract method')'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class'
+Feature = 'object method'
+Subfeature = 'call superclass implementation'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'Follow superclass constructor invocation pattern.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class'
+Feature = 'class method'
+Subfeature = 'definition'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '@classmethod def fn(cls, otherArgs)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class'
+Feature = 'static method'
+Subfeature = 'definition'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+@staticmethod def fn(args):
+// no access to cls argument.'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class'
+Feature = 'class member'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+class XYZ:
+  member1 # Can refer with XYZ.member1 or self.member1 in methods.'''
+Description = 'Caveat: this syntax does not define object member.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class'
+Feature = 'member'
+Subfeature = 'protected'
+Importance = ''
+"Implementation Type" = 'convention'
+Syntax = '_fnName'
+Description = '''
+Can still be accessed outside class.
+But import * from wont get it.'''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class'
+Feature = 'member'
+Subfeature = 'private'
+Importance = ''
+"Implementation Type" = 'convention'
+Syntax = '__fnName'
+Description = '''Can't access easily outside class. __ messes stuff.'''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'class'
+Feature = 'member'
+Subfeature = 'static'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'Variables declared inside the class definition, but not inside a method are class or static variables:'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'descriptor class'
+Feature = 'define'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+class Meter(object):
+def __init__(self, value=0.0): ...
+def __get__(self, instance, owner) ...
+def __set__(self, instance, value): ..
+class Distance:
+meter = Meter()
+foot = Foot()'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'generic'
+Feature = 'comparison'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ' == !='
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'object'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'collections.namedtuple(f1,f2)(f1=12, f2=13)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'object'
+Feature = 'instantiation'
+Subfeature = 'use reflection'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+module = __import__(module_name)
+class_ = getattr(module, class_name)
+instance = class_()'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'object'
+Feature = 'type cast'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+float(), str() etc..
+'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'object'
+Feature = 'assignment'
+Subfeature = 'concept'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''
+assignment is by reference.
+the values can be mutable or immutable.'''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'object'
+Feature = 'assignment'
+Subfeature = 'conditional'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'var = x if a > b else y '
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'object'
+Feature = 'assignment'
+Subfeature = 'multiple'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+(v1, v2)= tuple
+v1, v2 = tuple'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'object'
+Feature = 'assignment'
+Subfeature = 'higher scope'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+global var
+var = val'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'object'
+Feature = 'reference'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'var'
+Description = 'Even works with varibales defined in higher scope'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'object'
+Feature = 'undefine'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'del varName'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'object'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'method'
+Syntax = 'clsName(args)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'object'
+Feature = 'instantiation'
+Subfeature = 'from class name'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''get_class = lambda name: reduce(getattr, name.split('.')[1:], __import__(name.partition('.')[0]))'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'object'
+Feature = 'copy'
+Subfeature = 'deep'
+Importance = ''
+"Implementation Type" = 'function'
+Syntax = '''
+os.copy(x) : shallow
+copy.deepcopy(x)'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'object'
+Feature = 'introspection'
+Subfeature = 'list'
+Importance = ''
+"Implementation Type" = 'function'
+Syntax = 'dir(cls)'
+Description = 'List attributes and methods'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'object'
+Feature = 'introspection'
+Subfeature = 'list'
+Importance = ''
+"Implementation Type" = 'function'
+Syntax = 'vars(cls)'
+Description = 'List only attributes'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'object'
+Feature = 'introspection'
+Subfeature = 'class'
+Importance = ''
+"Implementation Type" = 'function'
+Syntax = '''
+type(obj) // return type
+x.__class__.__name__'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'object'
+Feature = 'introspection'
+Subfeature = 'type check'
+Importance = ''
+"Implementation Type" = 'function'
+Syntax = 'isinstance(obj, (list, tuple)) or isinstance(lst, cls)'
+Description = 'Works with inheritence too.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'object'
+Feature = 'attribute set'
+Subfeature = 'runtime'
+Importance = ''
+"Implementation Type" = 'function'
+Syntax = 'setattr(obj, arg, val)'
+Description = 'Safer than manipulating __dict__ directly'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'object'
+Feature = 'attribute check'
+Subfeature = 'runtime'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'hasattr(obj, attrName)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'object'
+Feature = 'attribute get'
+Subfeature = 'runtime'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'getattr(objk, attr)'
+Description = 'One can do getattr(obj, "fnName")(args)'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'object'
+Feature = 'Null'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'None'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'object'
+Feature = 'comparison'
+Subfeature = 'deep'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'o == o1'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'object'
+Feature = 'comparison'
+Subfeature = 'reference'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'o is o1'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'object'
+Feature = 'to json'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import json
+class Object:
+    def toJSON(self):
+        return json.dumps(self, default=lambda o: o.__dict__, 
+            sort_keys=True, indent=4)me = Object()
+
+me.name = "Onur"
+me.age = 35
+me.dog = Object()
+me.dog.name = "Apollo"
+
+print(me.toJSON())'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'object'
+Feature = 'to json'
+Subfeature = 'jsonpickle'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+class Thing(object):
+    def __init__(self, name):
+        self.name = name
+
+obj = Thing('Awesome')
+import jsonpickle
+jsonpickle.set_encoder_options('simplejson', indent=2) 
+frozen = jsonpickle.encode(obj)
+'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'object'
+Feature = 'from json'
+Subfeature = 'jsonpickle'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'thawed = jsonpickle.decode(frozen)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'object'
+Feature = 'from json file'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+with open('filename.txt', 'r') as handle:
+    parsed = json.load(handle)'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'time'
+Feature = 'to string'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import time
+t1=time.localtime([secs])
+t = time.strftime('%Y%m%d-%H%M%S' [, t1])'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'time'
+Feature = 'time'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'function'
+Syntax = 'time.time()'
+Description = 'returns seconds since epoch.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'mapreduce'
+Feature = 'Mapper'
+Subfeature = 'setup'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+class ScoreRecorder(mrpython.Mapper):
+def Start(self): ..
+def Map(self, map_input): ..
+def Flush(self): ..'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'mapreduce'
+Feature = 'Mapper'
+Subfeature = 'Output'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+yield (key, val)
+yield None'''
+Description = 'in Map()'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'servlet'
+Feature = 'response'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'method'
+Syntax = 'response'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'servlet'
+Feature = 'response'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'parameters'
+Syntax = 'form, vform'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'random'
+Feature = 'seed'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'function'
+Syntax = 'random.seed()'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'random'
+Feature = 'random float'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'function'
+Syntax = 'random.random()'
+Description = 'returns within range [0,1]'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'random'
+Feature = 'random int'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'random.randint(a, b)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'statement'
+Feature = 'empty'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'pass'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'statement'
+Feature = 'block'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'indented lines or ; separated'
+Description = 'By default you cannot mix tabs and spaces.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'statement'
+Feature = 'comment'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '# comment'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'statement'
+Feature = 'comment'
+Subfeature = 'multiline'
+Importance = ''
+"Implementation Type" = ''
+Syntax = "string literals stuck in a file. '''asd'''"
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'statement'
+Feature = 'help'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'function'
+Syntax = 'help(cmd)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'statement'
+Feature = 'decision'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+if cond:  stBlock 
+[elif cond: stBlock] [else:stBlock]'''
+Description = 'Implicit checks are preferred (in G).'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'statement'
+Feature = 'decision'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'statement if cond'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'exception'
+Feature = 'base exception for module.'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+class Error(Exception):
+  pass'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'exception'
+Feature = 'exception handling'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+try: stBlock
+except ValueError:
+  stBlock [if(cond) raise]
+except SomeError as e:
+except (RuntimeError, TypeError, NameError): ...
+except:
+ print "Unexpected error:", sys.exc_info()[0]
+ logging.error(traceback.format_exc())
+ raise
+finally: codeBlock'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'exception'
+Feature = 'raise'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''raise MyException('error message')'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'exception'
+Feature = 'exception handling'
+Subfeature = 'with Context manager'
+Importance = ''
+"Implementation Type" = ''
+Syntax = """
+# Sometimes doesnt work.
+with CtxMgr(args) [as someValue]:
+  tryBlock [maybe with someValue]
+
+from __future__ import with_statement
+
+try:
+    with open( \"a.txt\" ) as f :
+        print f.readlines()
+except EnvironmentError: # parent of IOError, OSError *and* WindowsError where available
+    print 'oops'"""
+Description = '''
+with open('output.txt', 'w') as f:
+    f.write('Hi there!')
+Calls __init__, __enter__ of ctxMgr.
+Irrespective of whether there is an exception,
+__exit__ is called.
+Similar to the Finally statement in a Try/Catch/Finally block, but without the error handling.'''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'exception'
+Feature = 'print'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'traceback.print_exc()'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'statement'
+Feature = 'assert'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = """
+assert cond
+assert x >= 0, 'x is less than zero'"""
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'Context manager class'
+Feature = 'define'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+class Saved():
+    def __init__(self, cr): self.cr = cr
+    def __enter__(self):..[return someValue]
+    def __exit__(self, ex_type, ex_value, ex_traceback): finallyBlock'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'Context manager class'
+Feature = 'define'
+Subfeature = 'contextmanager metafn'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+from contextlib import contextmanager
+@contextmanager
+def saved(cr):
+    initBlock
+    yield someValue # EnterBlock
+    finallyBlock'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'function'
+Feature = 'doc string'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+""" One line summary.
+
+Details.
+Args:
+  arg1:
+Returns:
+  ...
+Raises:
+  Exception1: ...
+"""
+""" Summary. """'''
+Description = 'For module, class and methods.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'function'
+Feature = 'definition'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = "def fn(args): ['''doc'''] codeBlock"
+Description = 'All arguments are named. Arguments may be positional.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'function'
+Feature = 'definition'
+Subfeature = 'object'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+class Fn(obj):
+def __init__(self, ..):..
+def __call__(self, *args, **kwargs):..'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'function'
+Feature = 'return value'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'return val'
+Description = 'Returns None by default'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'function'
+Feature = 'object'
+Subfeature = 'introspection'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'f.__doc__'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'function'
+Feature = 'object'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'caveat'
+Syntax = ''
+Description = 'Functions can have an internal state which can change with each call.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'function'
+Feature = 'argument'
+Subfeature = 'arbitrary'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'def f(*tuple, **dict)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'function'
+Feature = 'argument'
+Subfeature = 'default'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'def f(arg1=val1 ..)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'function'
+Feature = 'argument'
+Subfeature = 'default'
+Importance = ''
+"Implementation Type" = 'caveat'
+Syntax = ''
+Description = '''
+Avoid mutable default arguments! 
+Mutations will be carried over to each function call.'''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'function'
+Feature = 'argument'
+Subfeature = 'concept'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'arguments are passed by reference (as in any assignment). Values may be mutable or immutable.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'function'
+Feature = 'argument'
+Subfeature = 'use kwargs'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''self.val2 = kwargs.get('val2',"default value")'''
+Description = 'kwargs is a dictionary.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'function'
+Feature = 'definition'
+Subfeature = 'anonymous'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'g = lambda x: x**2'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'function'
+Feature = 'definition'
+Subfeature = 'decorator'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+def decorator(fnObj, otherArgs)
+  // Do something
+  return fnObj2
+@decorator(otherArgs)
+def f():
+  statementBlock'''
+Description = '''
+def f():
+  statementBlock
+f = decorator(f) # same as this.
+One can use decorators returned by another function too! Eg: @decoratorMaker(arg) '''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'function'
+Feature = 'invocation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'fn(arg1, arg2)'
+Description = '''
+Arguments passed by reference.
+No non-keyword argument may be passed after a keyword argument. In case of functions whose argument list is named. Named arguments are passed in appropriate position.'''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'function'
+Feature = 'invocation'
+Subfeature = 'unpack tuple'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'fn(*tuple)'
+Description = '''
+takes a tuple, unpacks it for calling a function.
+eg: zip(*["str1", "str2"]) = zip("str1", "str2")'''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'function'
+Feature = 'invocation'
+Subfeature = 'unpack dictionary'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'fn(**dict)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'function'
+Feature = 'partial application'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'f = partial(dump_letter_definitions, arg_1=val_1, ...)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'jinja template language'
+Feature = 'conditional'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '{% if %}...{% elif %}...{% else %}...{% endif %}'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'jinja template language'
+Feature = 'iteration'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ' {% for i in l if i.foo %}...{% endfor %}'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'jinja template language'
+Feature = 'assignment'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''' {% set x = 'foo' if foo else 'bar' %}'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'jinja template language'
+Feature = 'substitute value'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '{{dataset.dataset_name}}'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'jinja template language'
+Feature = 'render'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+from jinja2 import Template
+HTML_TEMPLATE = ("""....""")
+template.render(var1=val1, var2=val2...)'''
+Description = ''

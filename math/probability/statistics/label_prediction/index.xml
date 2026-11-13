@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Label prediction on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/</link>
+    <description>Recent content in &#43;Label prediction on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0 Problems</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/0_problems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/0_problems/</guid>
+      <description>&lt;p&gt;Aka supervised learning. There are a variety of prediction problems depending on the combination of problem components described below.&lt;/p&gt;&#xA;&lt;h2 id=&#34;core-problem&#34;&gt;Core problem&lt;/h2&gt;&#xA;&lt;h3 id=&#34;input-and-response-variables&#34;&gt;Input and response variables&lt;/h3&gt;&#xA;&lt;p&gt;A label/ target/ response/ dependent \(L\) depends on some predictor/ input/ independent variable \(X\) (a set of features/ covariates).&lt;/p&gt;&#xA;&lt;h3 id=&#34;range-of-x-and-l&#34;&gt;Range of X and L&lt;/h3&gt;&#xA;&lt;p&gt;Input space is \(D\) dimensional.&lt;/p&gt;&#xA;&lt;p&gt;\(range(L)\) may be a subset of a vector space. It may be continuous or discrete.&lt;/p&gt;&#xA;&lt;h3 id=&#34;labeling-rule-sought&#34;&gt;Labeling rule sought&lt;/h3&gt;&#xA;&lt;p&gt;The agent/ decision rule produced by the learning algorithm must label \(L\) some unlabeled test point(s) \(X\), after some observations/ examples/ training points \(S\). As for decision theory in general, such a labeling rule may be randomized or deterministic.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Regression</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/regression/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/regression/</guid>
+      <description>&lt;h2 id=&#34;general-problem&#34;&gt;General problem&lt;/h2&gt;&#xA;&lt;p&gt;Many (x, y) pairs (observations), h(x, w) form (eg: degree of polynomial) known, parameters \(w\) in h(x, w) is unknown. Want to find \(w\). range(h) is not finite, it is usually continuous.&lt;/p&gt;&#xA;&lt;p&gt;y is the response variable, \(w\) is called the regression vector. The matrix formed by \(x\) is often called the design matrix.&lt;/p&gt;&#xA;&lt;p&gt;Many such continuous valued models are described in probabilistic models reference.&lt;/p&gt;&#xA;&lt;h2 id=&#34;linear-regression&#34;&gt;Linear regression&lt;/h2&gt;&#xA;&lt;h3 id=&#34;the-problem&#34;&gt;The problem&lt;/h3&gt;&#xA;&lt;p&gt;h(x, w) is linear in \(w\) (Eg: \(w_1 x^{3}+ w_2 \)x\( + w_3=0\): \(\ftr_{i}(x) = x^{i}\)).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Solution properties</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/solution_properties/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/solution_properties/</guid>
+      <description>&lt;h2 id=&#34;empirical-risk-minimization-vs-expert-systems&#34;&gt;Empirical risk minimization vs expert systems&lt;/h2&gt;&#xA;&lt;p&gt;One way to predict \(L\) given \(X\) is to learn the process by which \(L\) is generated: one can manually create a labeling algorithm by listing out rules which influence labeling: for example by studying expert human animals.&lt;/p&gt;&#xA;&lt;p&gt;Often, you cannot know enough about how stuff works in order to have explicit rules. Eg: Expert system for handwriting detection can be tougher to make than a training a statistical model. And, repeatedly, in various fields, statistics based automatic learning of rules has outperformed manually developed expert systems. Eg: Natural language processing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sparse signal detection</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/sparse_signal_detection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/sparse_signal_detection/</guid>
+      <description>&lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;&#xA;&lt;h3 id=&#34;generating-process&#34;&gt;Generating process&lt;/h3&gt;&#xA;&lt;p&gt;Suppose that the \(p\) dimensional &amp;lsquo;observation vector&amp;rsquo; \(Y\) is generated from \(Y_i \distr N(\gth_i, \stddev^2) = \gth_i + N(0, \stddev^2)\). \(\stddev\) is known.&lt;/p&gt;&#xA;&lt;p&gt;In addition suppose that \(\gth\) is sparse. The set \(K = \set{i: \gth_i \neq 0}\) is called the signal set.&lt;/p&gt;&#xA;&lt;p&gt;\(n\) observations \(\set{Y_i = y_i}\) are made. Usually \(n &amp;laquo; p\).&lt;/p&gt;&#xA;&lt;h3 id=&#34;decision-rule-sought&#34;&gt;Decision rule sought&lt;/h3&gt;&#xA;&lt;p&gt;The problem for the decision rule, given \(Y_i\) (the observation), is to estimate \(\gth_i\). More simply, one might seek decision rules to estimate the indicator variable \(I[\gth_i \neq 0]\) given \(\gth_i\).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>With fully labelled data</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/with_fully_labelled_data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/with_fully_labelled_data/</guid>
+      <description>&lt;p&gt;Goals and formulations are presented elsewhere.&lt;/p&gt;&#xA;&lt;h2 id=&#34;binary-classification&#34;&gt;Binary classification&lt;/h2&gt;&#xA;&lt;p&gt;See the many hypothesis classes/ parametrized model families in the colt ref, boolean functions ref.&lt;/p&gt;&#xA;&lt;h2 id=&#34;non-parametric-methods&#34;&gt;Non parametric methods&lt;/h2&gt;&#xA;&lt;h3 id=&#34;k-nearest-neighbors&#34;&gt;k nearest neighbors&lt;/h3&gt;&#xA;&lt;p&gt;A discriminative, non parametric approach. Number of examples: N. Samples: \(S = (x_{1}, .. x_{N})\). There are \(k\) classes. To classify \(x\),  find \(k\) nearest neighbors in S; take their majority vote.&lt;/p&gt;&#xA;&lt;p&gt;So, can&amp;rsquo;t ever throw away data points.&lt;/p&gt;&#xA;&lt;h2 id=&#34;linear-models-for-discrete-classification&#34;&gt;Linear models for discrete classification&lt;/h2&gt;&#xA;&lt;p&gt;Linear separability of data sets or feature space: Decision surfaces are (p-1) dim hyperplanes in feature space.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>With sequential data</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/with_sequential_data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/with_sequential_data/</guid>
+      <description>&lt;h2 id=&#34;trajectory-prediction&#34;&gt;Trajectory prediction&lt;/h2&gt;&#xA;&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;&#xA;&lt;p&gt;Consider sequential data: observations \(S\) consisting of labels \(L_1 .. L_n\) observed at different positions \(X_1.. X_n\) (perhaps times). We want to predict \(L_{n+1}\) corresponding to \(X_{n+1}\).&lt;/p&gt;&#xA;&lt;p&gt;The underlying process is such that the distribution of \(L_{n+1}\) depends on both \(S\) and \(X_{n+1}\).&lt;/p&gt;&#xA;&lt;h3 id=&#34;simplifications&#34;&gt;Simplifications&lt;/h3&gt;&#xA;&lt;p&gt;Even predicting a lower bound or upper bound (whp) of \(L_{n+1}\) may be useful.&lt;/p&gt;&#xA;&lt;h3 id=&#34;applications&#34;&gt;Applications&lt;/h3&gt;&#xA;&lt;p&gt;Predicting trajectory of a missile, market price of a security tomorrow.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

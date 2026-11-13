@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Simple RV densities on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/probability/probabilistic_models/simple_RV_densities/</link>
+    <description>Recent content in &#43;Simple RV densities on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/math/probability/probabilistic_models/simple_RV_densities/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01 Distribution of values</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/probabilistic_models/simple_RV_densities/01_Distribution_of_values/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/probabilistic_models/simple_RV_densities/01_Distribution_of_values/</guid>
+      <description>&lt;h2 id=&#34;specification-and-classes&#34;&gt;Specification and classes&lt;/h2&gt;&#xA;&lt;p&gt;A distribution is often specified by a pdf or a cdf involving certain parameters. Or it may be specified by a stochastic process generating some values: ie in terms of other other distributions.&lt;/p&gt;&#xA;&lt;p&gt;Sometimes, the density specified need not even be proper (sum/ integrate to 1) to be useful: Eg: In applying the conditional probability inversion trick.&lt;/p&gt;&#xA;&lt;h3 id=&#34;notation&#34;&gt;Notation&lt;/h3&gt;&#xA;&lt;p&gt;If the pdf of \(X\) is a member (identified by the parameter \(p_1\)) of the function family \(\set{f(p)}\), we write \(X \distr f(p_1)\).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>02 Discrete probability distributions</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/probabilistic_models/simple_RV_densities/02_Discrete_probability_distributions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/probabilistic_models/simple_RV_densities/02_Discrete_probability_distributions/</guid>
+      <description>&lt;h2 id=&#34;coin-toss-distribution&#34;&gt;Coin toss distribution&lt;/h2&gt;&#xA;&lt;p&gt;\(X \distr\) Bernoulli(p) when \(range(X) = \set{0, 1}\) and \(Pr(X = 1) = p\).&lt;/p&gt;&#xA;&lt;p&gt;When \(p=1/2\), \(X\) is called a Rademacher RV.&lt;/p&gt;&#xA;&lt;h3 id=&#34;properties&#34;&gt;Properties&lt;/h3&gt;&#xA;&lt;p&gt;\(E[X] = p\). \(Var[X] = p-p^{2}\). Same as Bin(1, p).&lt;/p&gt;&#xA;&lt;h3 id=&#34;odds-of-success&#34;&gt;Odds of success&lt;/h3&gt;&#xA;&lt;p&gt;\(\frac{p}{1-p}\). This function is used in gambling (see economics survey).&lt;/p&gt;&#xA;&lt;h2 id=&#34;multiple-coin-toss&#34;&gt;Multiple coin-toss&lt;/h2&gt;&#xA;&lt;p&gt;Aka Binomial distribution.&lt;/p&gt;&#xA;&lt;p&gt;This is the probability of \(x\) successes in \(n\) trials. \&#xA;\(X \distr Bin(n, p)\) when \(Pr(X = x) = \binom{n}{x} p^{x}(1-p)^{n-x}\), \(range[X] = [0, .. n]\).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>03 Mode-deviation penalizers</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/probabilistic_models/simple_RV_densities/03_Mode-deviation_penalizers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/probabilistic_models/simple_RV_densities/03_Mode-deviation_penalizers/</guid>
+      <description>&lt;p&gt;For the important exponential decay for squared deviation from mean, see exponential distribution family chapter.&lt;/p&gt;&#xA;&lt;p&gt;Exponential decay and bilateral-exponential decay distributions are described elsewhere.&lt;/p&gt;&#xA;&lt;h2 id=&#34;inverse-squared-decay&#34;&gt;Inverse squared decay&lt;/h2&gt;&#xA;&lt;p&gt;Aka Cauchy distribution. Parameters: mean/ mode \(\mean\), height-at-mean parameter \(h\). The pdf is \(C(x; \mean, h) = \pi^{-1} (\frac{h}{(x - \mean)^{2} + h^{2}})\).&lt;/p&gt;&#xA;&lt;h3 id=&#34;limited-to-positive-deviation&#34;&gt;Limited to positive deviation&lt;/h3&gt;&#xA;&lt;p&gt;Aka half-Cauchy distribution. Parameters: mean/ mode \(m\), height-at-mean parameter \(h\). Range of the random variable is \([m, \infty]\). The pdf is \(C(x; \mean, h) = 2\pi^{-1} (\frac{h}{(x - m)^{2} + h^{2}})\).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>04 Exponential families</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/probabilistic_models/simple_RV_densities/04_Exponential_families/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/probabilistic_models/simple_RV_densities/04_Exponential_families/</guid>
+      <description>&lt;h2 id=&#34;exponential-family-of-distributions&#34;&gt;Exponential family of distributions&lt;/h2&gt;&#xA;&lt;h3 id=&#34;generated-by-h-and-feature-function-parametrized-by-t&#34;&gt;Generated by h and feature function, parametrized by t&lt;/h3&gt;&#xA;&lt;p&gt;\(x \in X \subseteq R^{d}\); Base measure \(h: R^{d} \to R\), feature extraction fn \(\ftr: R^{d} \to R^{k}\). \(p(x; t) \propto h(x)e^{\dprod{t,\ftr(x)}} \). Exponential family: \(\set{p(x; t) \forall t}\). \(\ftr_i()\) aka potential functions.&lt;/p&gt;&#xA;&lt;p&gt;Can be written as \(p(x; t) = h(x)e^{\dprod{t,\ftr(x)} - G(t)} = Z^{-1}h(x)e^{\dprod{t,\ftr(x)}}\), where \(G(t) = \log \sum_{X}h(x)e^{\dprod{t,\ftr(x)}}\) is the log partition fn.&lt;/p&gt;&#xA;&lt;p&gt;\(G(t)\) mayn&amp;rsquo;t always exist for any t \why, so define natural parameter space: \(N = \set{t \in R^{k}: -1 &amp;lt; G(t) &amp;lt; 1}\).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>05 Other density families</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/probabilistic_models/simple_RV_densities/05_Other_density_families/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/probabilistic_models/simple_RV_densities/05_Other_density_families/</guid>
+      <description>&lt;h2 id=&#34;sampling-distributions&#34;&gt;Sampling distributions&lt;/h2&gt;&#xA;&lt;p&gt;Sampling distributions are distributions of the functions of samples drawn from other distributions.&lt;/p&gt;&#xA;&lt;h3 id=&#34;standard-normal-square-sum&#34;&gt;Standard normal square sum&lt;/h3&gt;&#xA;&lt;p&gt;Aka Chi square distribution with k degrees of freedom.&lt;/p&gt;&#xA;&lt;p&gt;If \(X_{i} \distr N(0, 1)\), \(\sum_{i=1}^{k} X_{i}^{2} \distr \chi_{k}^{2}\). This is same as the distribution of \(\sum (\frac{Y_{i} - \mean}{\mean})^{2}\).&lt;/p&gt;&#xA;&lt;p&gt;Used in goodness of fit tests. \chk&lt;/p&gt;&#xA;&lt;h3 id=&#34;students-t-distribution-with-k-degrees-of-freedom&#34;&gt;Student&amp;rsquo;s t distribution with k degrees of freedom&lt;/h3&gt;&#xA;&lt;p&gt;\(\frac{Z}{\sqrt{W/n}}\), with \(Z \distr N(0, 1), W \distr \chi^{2}_{n}, Z \perp W\).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

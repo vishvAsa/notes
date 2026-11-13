@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Tax on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/economics/tax/</link>
+    <description>Recent content in &#43;Tax on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/economics/tax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Capital gains</title>
+      <link>https://vishvAsa.github.io/notes/economics/tax/capital-gains/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/economics/tax/capital-gains/</guid>
+      <description>&lt;p&gt;Tax is levied on one’s gains realized using the sale of security holdings or from interest/ dividend income on such securities, with some quirky rules.&lt;/p&gt;&#xA;&lt;h2 id=&#34;term&#34;&gt;Term&lt;/h2&gt;&#xA;&lt;p&gt;Long-term capital gains (Eg: selling stock after holding it for a year) are usually taxed at a lower rate.&lt;/p&gt;&#xA;&lt;p&gt;Subscribing to a dividend reinvestment plan complicates calculation of capital gains.&lt;/p&gt;&#xA;&lt;h2 id=&#34;wash-sale&#34;&gt;Wash sale&lt;/h2&gt;&#xA;&lt;p&gt;One can offset gains obtained by selling some securities by selling securities on which one has made a loss - but it is forbidden to buy the same security again immediately after doing so (wash sale).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>India</title>
+      <link>https://vishvAsa.github.io/notes/economics/tax/india/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/economics/tax/india/</guid>
+      <description>&lt;h2 id=&#34;tax-residency&#34;&gt;Tax residency&lt;/h2&gt;&#xA;&lt;p&gt;Resident if one of the following is true&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;present in India for: 182 days or more in a fiscal year&lt;/li&gt;&#xA;&lt;li&gt;60 days or more in a fiscal year and 365 days or more during the preceding 4 fiscal years; the 60 days may be extended to 182 days in certain cases.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;income-tax&#34;&gt;Income tax&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Non-Residents are taxed on India income only.&lt;/li&gt;&#xA;&lt;li&gt;Residents are taxed on worldwide income (subject to DTAA(Double Taxation Avoidance Agreement) with the foreign countries.).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;advance-payments&#34;&gt;Advance payments&lt;/h3&gt;&#xA;&lt;p&gt;As the year progresses, one is expected to pay tax. Paying at the end of the year will attract interest.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Saving incentives</title>
+      <link>https://vishvAsa.github.io/notes/economics/tax/savings-schemes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/economics/tax/savings-schemes/</guid>
+      <description>&lt;p&gt;To facilitate and encourage saving for large expenses in the future, governments often provide tax breaks for special investment accounts for retirement, medical expenses and children’s education (college funds).&lt;/p&gt;&#xA;&lt;p&gt;See &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1JHM7R5afB9CtE3_Vdun7kjUmbh6dQJEdDmkX9apOS4E/edit#gid=417813240&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;taxation-deferred-funds&#34;&gt;Taxation-deferred funds&lt;/h2&gt;&#xA;&lt;p&gt;Incomes earned using these special accounts are exempt from taxes while they stay within the fund. However, withdrawals, which are only under very restricted circumstances, are taxed.&lt;/p&gt;&#xA;&lt;p&gt;Eg: Individual Retirement Account [IRA] in USA.&lt;/p&gt;&#xA;&lt;h2 id=&#34;profit-tax-free-funds&#34;&gt;Profit-tax free funds&lt;/h2&gt;&#xA;&lt;p&gt;Money may be taxed at the time it is deposited in the fund, while withdrawals are tax-free. This may be relatively advantageous because higher incomes usually attract a higher tax rate.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>USA</title>
+      <link>https://vishvAsa.github.io/notes/economics/tax/usa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/economics/tax/usa/</guid>
+      <description>&lt;h2 id=&#34;residency-for-tax-purposes&#34;&gt;Residency for tax purposes&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;US residence for aliens&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Passing Green card test or substantial presence (roughly- in use for over 183 days recently) test means you are a resident.&lt;/li&gt;&#xA;&lt;li&gt;Foreign nationals who are green card holders are generally considered domiciled in the United States even for U.S. estate and gift tax purposes.&lt;/li&gt;&#xA;&lt;li&gt;Nonresident aliens may be in the U.S. legally but do not have green cards. They might be tourists or other visitors.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Foreign residence for citizens&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

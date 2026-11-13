@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;AI on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/ai/</link>
+    <description>Recent content in &#43;AI on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adverserial search / games</title>
+      <link>https://vishvAsa.github.io/notes/computing/ai/adversarial_search_games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/ai/adversarial_search_games/</guid>
+      <description>&lt;p&gt;The game tree: max and min levels. Utility functions and evaluation functions to approximate utility. Labelling the nodes with utilities.&lt;/p&gt;&#xA;&lt;h2 id=&#34;minmax-algorithm&#34;&gt;Minmax algorithm&lt;/h2&gt;&#xA;&lt;p&gt;\(\alpha \beta\) pruning : visit nodes only to decide the best move. Games against nature: Expectiminimax algorithm.&lt;/p&gt;&#xA;&lt;p&gt;The horizon effect: exploring some branches more deeply.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Computer vision</title>
+      <link>https://vishvAsa.github.io/notes/computing/ai/Computer_vision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/ai/Computer_vision/</guid>
+      <description>&lt;h2 id=&#34;slam-simultaneous-localization-and-mapping-problem&#34;&gt;SLAM (Simultaneous localization and mapping) problem&lt;/h2&gt;&#xA;&lt;p&gt;The objective is to localize one&amp;rsquo;s position relative to those objects. There are two important subproblems: a] object or feature detection, b] measurement of position (distance and orientation) relative to a given feature.&#xA;Solution approaches depend on the available tools - which may vary with situation.&lt;/p&gt;&#xA;&lt;h3 id=&#34;tools-and-approaches&#34;&gt;Tools and approaches&lt;/h3&gt;&#xA;&lt;p&gt;Localization using bounced light from lasers is essentially a solved problem; but lasers are expensive. Localization using light detected by passive sensors (eg: visible spectrum cameras) is harder.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Constraint satisfaction problems</title>
+      <link>https://vishvAsa.github.io/notes/computing/ai/Constraint_satisfaction_problems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/ai/Constraint_satisfaction_problems/</guid>
+      <description>&lt;p&gt;Discrete vs continuous valued variables. Number of variables involved in constraints; preferences. Problem structure: the constraint graph.&lt;/p&gt;&#xA;&lt;h2 id=&#34;as-an-uninformed-search-problem&#34;&gt;As an uninformed search problem&lt;/h2&gt;&#xA;&lt;p&gt;The naive backtracking search. Variable ordering: Most constrained variable / minimum remaining values.&lt;/p&gt;&#xA;&lt;p&gt;Value ordering: least constraining value. Solve independent subproblems separately; collapse nodes in constraint graph. Propogating information through constraints: forward checking: delete unsuitable values in current node; constraint propogation: delete unsuitable values in lower nodes: arc consistency.  Intelligent backtracking.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Planning</title>
+      <link>https://vishvAsa.github.io/notes/computing/ai/Planning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/ai/Planning/</guid>
+      <description>&lt;h2 id=&#34;specifying-decision-algorithm&#34;&gt;Specifying decision algorithm&lt;/h2&gt;&#xA;&lt;p&gt;An agent may have several (sub)objectives it can act towards.&lt;/p&gt;&#xA;&lt;p&gt;Eg: An navigation agent that wants to know the user&amp;rsquo;s destination may have to decide between asking for a nearby landmark, or for the street name or for a clarification of prior utterence.&lt;/p&gt;&#xA;&lt;h3 id=&#34;rule-based-vs-utility-computation&#34;&gt;Rule based vs utility computation&lt;/h3&gt;&#xA;&lt;p&gt;So, the agent needs some way of prioritizing various sub-objectives/ actions. It may do this using some rigid rules.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Safety</title>
+      <link>https://vishvAsa.github.io/notes/computing/ai/safety/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/ai/safety/</guid>
+      <description>&lt;p&gt;Don&amp;rsquo;t let AI recursively improve itself. Ability to write code is dangerous.&lt;/p&gt;&#xA;&lt;p&gt;Presentations - &lt;a href=&#34;https://youtu.be/U1eyUjVRir4&#34;&gt;YT&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stochastic control processes</title>
+      <link>https://vishvAsa.github.io/notes/computing/ai/Stochastic_control_processes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/ai/Stochastic_control_processes/</guid>
+      <description>&lt;h2 id=&#34;reinforcement-learning-setting&#34;&gt;Reinforcement learning setting&lt;/h2&gt;&#xA;&lt;h3 id=&#34;interaction-with-the-environment&#34;&gt;Interaction with the environment&lt;/h3&gt;&#xA;&lt;p&gt;The agent can be in a set of states \(S\), and can perform a set of actions \(A\).&lt;/p&gt;&#xA;&lt;p&gt;The effect of an action is given by transition probability distributions associated with each (sate, action) pair \(P_{s, a}:S \to [0, 1]\), and by rewards which may sometimes be provided by the environment.&lt;/p&gt;&#xA;&lt;h3 id=&#34;policy-learning&#34;&gt;Policy learning&lt;/h3&gt;&#xA;&lt;p&gt;Agent wants to find the optimum policy \(\pi&amp;rsquo;:S \to A\) by trial and error&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

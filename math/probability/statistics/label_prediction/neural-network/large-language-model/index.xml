@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;LLM on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/neural-network/large-language-model/</link>
+    <description>Recent content in &#43;LLM on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/neural-network/large-language-model/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agents</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/neural-network/large-language-model/agents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/neural-network/large-language-model/agents/</guid>
+      <description>&lt;p&gt;(sub)agent/process/worker/thread/task/(and workflow in the case of MuseCode) etc normally refer to the harness running models in a separate process/thread in a manager-subordiate relationship.&lt;/p&gt;&#xA;&lt;p&gt;Only certain harnesses like pi-dev/opencode / antigravity / copilot allow you to write skill-cum-extensions. Some don&amp;rsquo;t, like MuseCode.&lt;/p&gt;&#xA;&lt;h2 id=&#34;harness-configuration&#34;&gt;Harness configuration&lt;/h2&gt;&#xA;&lt;p&gt;Global rules, agent (subagent) definitions and skills for all the harnesses live in one place: &lt;code&gt;~/gitland/sanskrit-coders/doc_curation/doc_curation/llm/configurer/data&lt;/code&gt; (the &lt;code&gt;doc_curation.llm.configurer&lt;/code&gt; package). &lt;code&gt;data/opencode/&lt;/code&gt; is canonical; the other harness copies are generated. From that package run:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>End to end use</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/neural-network/large-language-model/End_to_end_use/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/neural-network/large-language-model/End_to_end_use/</guid>
+      <description>&lt;h2 id=&#34;workflow&#34;&gt;Workflow&lt;/h2&gt;&#xA;&lt;p&gt;USER -&amp;gt; prompt -&amp;gt; HARNESS -&amp;gt; |payload| -&amp;gt; ORCHESTRATOR -&amp;gt; MODEL -&amp;gt; CoT+response -&amp;gt; ORCHESTRATOR -&amp;gt; |encrypt(CoT)+summarize(CoT)+plain(response)| -&amp;gt; HARNESS&lt;/p&gt;&#xA;&lt;details&gt;&lt;summary&gt;Example&lt;/summary&gt;&#xA;&lt;p&gt;User: What is the capital of France?&#xA;Harness: &amp;lt;|user|&amp;gt;What is the capital of France?&#xA;Orchestrator: tokenize(&amp;quot;&amp;lt;|user|&amp;gt;What is the capital of France?&amp;quot;) =&amp;gt; 72459 38972 109782 385 4920 &amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Model is fed those tokens and returns other tokens.&lt;/p&gt;&#xA;&lt;p&gt;So orchestrator converts back to: &amp;lt;|user|&amp;gt;What is the capital of France?&amp;lt;|thinking|&amp;gt;The user is asking for the capital of France.\nFrance.\nParis.\nProvide a clear and direct answer.&amp;lt;|response|&amp;gt;The capital of France is &lt;strong&gt;Paris&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Metering</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/neural-network/large-language-model/Metering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/neural-network/large-language-model/Metering/</guid>
+      <description>&lt;p&gt;Input and output tokens are measured and metered.&lt;br&gt;&#xA;Chain of thought/ reasoning is part of the output.&lt;br&gt;&#xA;On every prompt, the entire conversation is sent to the server.&lt;/p&gt;&#xA;&lt;h2 id=&#34;prefix-caching&#34;&gt;Prefix caching&lt;/h2&gt;&#xA;&lt;p&gt;Each input prefix corresponds to some chain of thought output. (prefix, ouput) pair is cached. That reduces the model workload. So, metered less.&lt;/p&gt;&#xA;&lt;p&gt;Most servers evict cache in 1-5m. So cache is only useful for chain of thought continuation, quick conversation, fast tool calls, practically.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Models</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/neural-network/large-language-model/Models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/neural-network/large-language-model/Models/</guid>
+      <description>&lt;p&gt;Model power increases with number of parameters.&lt;/p&gt;&#xA;&lt;h2 id=&#34;glossary&#34;&gt;Glossary&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Dense model&lt;/strong&gt;: Every parameter in the network is activated for every token processed (e.g., a 27B dense model computes all 27B weights per token).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;MoE (Mixture of Experts)&lt;/strong&gt;: Instead of one monolithic feed-forward network per layer, the layer is divided into many specialized sub-networks (&amp;ldquo;experts&amp;rdquo;, e.g., 64 to 512), and a lightweight &lt;strong&gt;router&lt;/strong&gt; activates only a few experts (e.g., top-8) for each token.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Total parameters&lt;/strong&gt;: All weights across all experts stored in VRAM/memory. Determines total knowledge capacity and memory footprint.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Active parameters&lt;/strong&gt;: The subset of weights actually computed per token forward pass. Determines inference speed, cost, and per-token compute.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Engram conditional memory&lt;/strong&gt;: Separate lookup-style memory parameters (used in DeepSeek 4.1) that store factual associations without adding to the core transformer compute per token.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Prefill vs. Decode&lt;/strong&gt;: &lt;strong&gt;Prefill&lt;/strong&gt; ingests and processes the input prompt in parallel; &lt;strong&gt;Decode&lt;/strong&gt; generates output (thinking + response) autoregressively one token at a time.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;kilo--opencode-config-wiring&#34;&gt;Kilo → OpenCode Config Wiring&lt;/h2&gt;&#xA;&lt;p&gt;Kilo sessions reuse the OpenCode configuration from &lt;code&gt;opencode/&lt;/code&gt;:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Providers</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/neural-network/large-language-model/Providers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/neural-network/large-language-model/Providers/</guid>
+      <description>&lt;h2 id=&#34;overload-problems&#34;&gt;Overload problems&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The providers are under a lot of load. It causes timeouts and other similar issues. So what you see in the client depends very much on what the orchestrator/server that mediates between you and the model decides to present.&lt;br&gt;&#xA;DeepSeek increased prices nearly 5x last month for this very reason. People have been complaining about OpenCode on their reddit for the last couple of days ever since they introduced their Plus plans. - kArtik 202610&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thinking</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/neural-network/large-language-model/Thinking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/neural-network/large-language-model/Thinking/</guid>
+      <description>&lt;h2 id=&#34;as-pattern-completion&#34;&gt;As pattern completion&lt;/h2&gt;&#xA;&lt;p&gt;Thinking too is pattern completion only. LLMs are a one trick pony. They can predict the next token.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;lt;|user|&amp;gt;What is the capital of France?&amp;lt;|thinking|&amp;gt;The user is asking for the capital of France.\nFrance.\nParis.\nProvide a clear and direct answer.&amp;lt;|response|&amp;gt;The capital of France is &lt;strong&gt;Paris&lt;/strong&gt;.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Those &amp;lt;|&amp;hellip;|&amp;gt; tags are critical. They are what allow for Q&amp;amp;A. You can convert a non-thinking model to a thinkign model this way. By training it on loads of thinking prompts&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Training</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/neural-network/large-language-model/Training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/neural-network/large-language-model/Training/</guid>
+      <description>&lt;h2 id=&#34;distilling-from-other-models&#34;&gt;Distilling from other models&lt;/h2&gt;&#xA;&lt;p&gt;You can actually build small but fantastic local models by using frontier models as teachers - Train local model in this output. Including reasoning. You get a strong mini model that mimics the frontier model.&lt;/p&gt;&#xA;&lt;p&gt;If you save all your pi sessions with DeepSeek and other open models, you will have tens of thousands of prompts for a model to train on.&lt;/p&gt;&#xA;&lt;p&gt;if you start a conversation with a very strong model and continue with a dumb one, the dumb one will suddenly appear very intelligent.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
