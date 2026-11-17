@@ -2,13 +2,37 @@
 title = "Jayanta kumAra dIrghAngI"
 +++
 
+## 2026 book
+Source: [TW](https://archive.is/UtdEZ#selection-1721.1-1844.0)
+
+Source: [TW](https://www.thehindu.com/books/dr-jk-dirghangis-vedic-quest-results-in-the-book-my-journey-with-vedic-rituals/article71188984.ece)
+
+A U.S.-based doctor’s quest to preserve vedic rituals
+
+In My Journey with Vedic Rituals, Dr. J.K. Dirghangi reflects on his parallel journeys as a physician and a practitioner of vedic rituals.  
+Published - July 08, 2026 05:10 pm IST  
+Radha Raghunathan
+
+The book serves as a practical manual for the practice of Agnihotra and the performance of complex vedic rituals in the Apastamba tradition.
+
+The book serves as a practical manual for the practice of Agnihotra and the performance of complex vedic rituals in the Apastamba tradition | Photo Credit: Special Arrangement
+
+While many view vedic rituals as tedious; Dr. Jayanta Kumar Dirghangi spent a lifetime exploring their deeper significance.
+
+Dirghangi, a U.S.-based obstetrician and gynaecologist, has been passionate about Agnihotra, a sacrificial ritual, and has been practising it for several years. In his recently released book, My Journey with Vedic Rituals (Ādhāna, Agnihotra and Somayāga), published by Purushottam Publishers, Kolkata, in 2026, he recounts his journey to becoming a Nitya-agnihotrin and a Vedic ritualist.
+
+Hailing from a Bengali family of priests, Dirghangi nurtured his interest in vedic rituals despite the demands of his medical profession. He travelled extensively to study under various Shrauta masters and was initiated into the Apastamba Agnihotra tradition in Tamil Nadu in 2000 by scholar Agnihotram Ramanuja Tathachariar. The latter not only mentored Dirghangi but also officiated him as the head at his first Somayaga in Gujarat. Later, the teacher, a centenarian by then, encouraged Dirghangi to write a practical guide to Agnihotra. The doctor says the book is a tribute to his guru.
+
+The chapters in the book also serve as a practical manual for the practice of Agnihotra and the performance of complex vedic rituals in the Apastamba tradition. Yet, Dirghangi is quick to remind readers that Agnihotra and other Vedic rites are not acquired merely through books; they are a Gurumukhi Vidya, passed down directly from teacher to student.
+
+
+## On a Vedic quest
 Source: [TW](https://ramanuja.org/sri/BhaktiListArchives/Article?p=rituals%2Fsep2002%2F0024.html)
 
 Source: [TW](https://www.advaita-vedanta.org/archives/advaita-l/2005-October/015174.html) from Hindu.
 
 Source: [TW](http://www.hindu.com/thehindu/fr/2002/09/13/stories/2002091301040600.htm)
 
-On a Vedic quest
 
 "I AM doing Agnihotram not for name or fame but because I love it. It is considered the mother of all Yagas. I believe in Srouta Yaga. I want to know how Agnihotram is performed in different parts of the country." Indeed it is the quest of a sincere Nityagnihotri. But he is neither a traditional scholar nor an academic researcher in Vedic rituals. This Agnihotri, Dr. Jayanta Kumar Dirghangi, is a certified medical practitioner of the American Board of Obstetrics and Gynaecology with many professional affiliations to his credit, practising at Memphis, Tennessee.
 

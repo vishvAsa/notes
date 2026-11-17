@@ -11,10 +11,18 @@ title: Procedure
 
 ## How to OCR?
 
+### Techniques
+Traditional OCR uses a software to detect regions in an image and then the lines, characters. There are newer methods used in OCR based on NN (CRNN, CTC, BLSTM etc), but that is not vision in the sense used for LLMs
+
+LLMs can "read" images via the exact same tokens that they use for texts. This is called "vision", and is more accurate.
+
+
 ### Software
 Desktop/ web based,  in roughly decreasing order of popularity
 
+- [sansar-ocr](https://huggingface.co/MuseMesh/sansar-ocr-2b) Small enough that it can run locally, qwen 3.5.
 - [sanskrit ocr](https://ocr.sanskritdictionary.com/) which uses gdrive api
+- [tadeva-maNipravALa-ocr](https://github.com/sanskrit-coders/)
 - [ambuda](https://ambuda.org/proofing) uses Google Vision API.
 - Adding pdf layer - [OCRmypdf](https://ocrmypdf.readthedocs.io/en/latest/) - using tesseract-data-san.
 - Telegram - [@bruhulbot](https://web.telegram.org/k/#@BruhulBot) - uses drive api?
