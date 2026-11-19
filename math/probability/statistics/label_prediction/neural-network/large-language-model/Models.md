@@ -6,8 +6,8 @@ Model power increases with number of parameters.
 ## Glossary
 - **Dense model**: Every parameter in the network is activated for every token processed (e.g., a 27B dense model computes all 27B weights per token).
 - **MoE (Mixture of Experts)**: Instead of one monolithic feed-forward network per layer, the layer is divided into many specialized sub-networks ("experts", e.g., 64 to 512), and a lightweight **router** activates only a few experts (e.g., top-8) for each token.
-  - **Total parameters**: All weights across all experts stored in VRAM/memory. Determines total knowledge capacity and memory footprint.
-  - **Active parameters**: The subset of weights actually computed per token forward pass. Determines inference speed, cost, and per-token compute.
+  - **Total parameters**: All weights across all experts stored in VRAM/memory. Determines total knowledge capacity and memory footprint. A large total can store more diverse expertise, but you only benefit from parts that get activated effectively.
+  - **Active parameters**: The subset of weights actually computed per token forward pass. They’re often a better proxy for “how strong is each step of thinking/generation?”
 - **Engram conditional memory**: Separate lookup-style memory parameters (used in DeepSeek 4.1) that store factual associations without adding to the core transformer compute per token.
 - **Prefill vs. Decode**: **Prefill** ingests and processes the input prompt in parallel; **Decode** generates output (thinking + response) autoregressively one token at a time.
 
@@ -43,15 +43,16 @@ Ranked roughly in decreasing order of intelligence
 - **longcat 2.5 preview** (1.6T total / 48B active MoE) - were quite bad at sanskrit.
 
 ### 500B+
-- **NVIDIA Nemotron 3 Ultra** (`nvidia/nemotron-3-ultra-550b-a55b:free`): 55B active / 550B total hybrid Transformer–Mamba MoE; frontier reasoning/orchestration; 1M context. Trial use only — no personal/confidential data. Free in Kilo.
-- **Crouton Alpha** (est. ~800B+ total / ~40B+ active MoE) much better than Beam. (supposed to be next muse)
 - **Muse Spark 1.3** (est. ~816B total / ~42B active MoE, based on Muse Spark Open baseline) was good with sanskrit.
-- **GLM 5.3** (744B–753B total / 40B active MoE; Flash: 320B total / 18B active MoE) - good with structured tasks and coding.
 - **DeepSeek 4.1 Flash** (763B total: 552B core + 196B Engram memory; 8B prefill / 16B decode active) was good with sanskrit commentary interleaving.
 - **Particle AI Particle-1 Free** (`openrouter/particle-ai/particle-1:free`): rank-64 LoRA post-train of DeepSeek V4.1 Flash (~1.25% params trained), inheriting base backbone 552B core + 196B Engram memory / 8B prefill, 16B decode active; 1M context.
+- **Iceman Contributor Free** (stealth OpenCode Go model; parameters undisclosed, no credible public estimate; 262K context). Contributor variant: `opencode-go/iceman-contributor-free`. Seems smarter than Nemotron 3 Ultra
+- **Crouton Alpha** (est. ~800B+ total / ~40B+ active MoE) much better than Beam. (supposed to be next muse)
+- **GLM 5.3** (744B–753B total / 40B active MoE; Flash: 320B total / 18B active MoE) - good with structured tasks and coding.
 - **Step 5 Preview Free** (604B total / 27B active MoE).
 - **Claude Sonnet 4.6** (est. ~400B–600B total MoE, undisclosed active).
 - **Thinking Machines Inkling 2 Small** (`thinkingmachines/inkling-2-small:free`): 17B active / 594B total multimodal MoE reasoning; ~1M context.
+- **NVIDIA Nemotron 3 Ultra** (`nvidia/nemotron-3-ultra-550b-a55b:free`): 55B active / 550B total hybrid Transformer–Mamba MoE; frontier reasoning/orchestration; 1M context. Trial use only — no personal/confidential data. Free in Kilo.
 - **InclusionAI Ling 3.2 Flash Free** (`openrouter/inclusionai/ling-3.2-flash:free`): Ling 3.2 Flash; 560B total / 25B active MoE; 1M context (native multimodal).
 - **ling 3.1 flash free** (560B total / 25B active MoE) - were quite bad at sanskrit.
 - **Beam Free 202611** (Reflection Beam 1.0: 501B total / 23.4B active MoE) was worse with sanskrit commentary interleaving; made overcomplications in programming. Stupider, but not too bad.
@@ -65,8 +66,6 @@ Ranked roughly in decreasing order of intelligence
 - **Gemini 3.0, 3.5, 3.8 Flash** (est. ~250–300B total, low active MoE) were worse with sanskrit hyphenation.
 - **Mistral Medium 3.5** (est. ~200–250B total MoE, undisclosed active).
 - **HY4 Flash Free** (`opencode/hy4-flash-free`, `opencode-go/hy4-flash-free`): Tencent Hy4-flash; ~220B total (incl. ~64B Engram) / ~12B active per token; 1M context.
-- **Iceman Contributor Free** (stealth OpenCode Go model; parameters undisclosed, no credible public estimate; 262K context).
-- **Iceman Free** (`opencode/iceman-free`): stealth OpenCode model; parameters undisclosed, no credible public estimate; 262K context. Contributor variant: `opencode-go/iceman-contributor-free`.
 - **Stealth Glyph Cluster** (`stealth/glyph-cluster`): reasoning model for coding and long-context analysis via Vercel AI Gateway; parameters undisclosed, no credible public estimate; 256K context; prompts may be retained for training.
 
 ### Rest
