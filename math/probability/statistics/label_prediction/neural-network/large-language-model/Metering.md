@@ -5,6 +5,8 @@ Input and output tokens are measured and metered.
 Chain of thought/ reasoning is part of the output.  
 On every prompt, the entire conversation is sent to the server. 
 
+Token counter - [TW](https://tiktokenizer.vercel.app/)
+
 ## Prefix caching
 Each input prefix corresponds to some chain of thought output. (prefix, ouput) pair is cached. That reduces the model workload. So, metered less.  
 
