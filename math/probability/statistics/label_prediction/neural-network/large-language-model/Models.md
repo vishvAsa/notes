@@ -37,7 +37,7 @@ Ranked roughly in decreasing order of intelligence
 ### 1T+
 - **Claude Opus 4.6 Thinking / Opus 5.5 / Fable 5.1** (est. ≥1.5T–2T+ total MoE, undisclosed active).
 - **Gemini 4 Argon** (est. ≥1.2T+ total MoE, undisclosed active) - much better than DeepSeek 4.1 Flash on sanskrit OCR. Good with hyphenation.
-- **Gemini Carbon** (est. total/active MoE undisclosed).
+- **Gemini Carbon** (est. ~1.0–1.2T+ total MoE, undisclosed active; speculative, unconfirmed).
 - **Gemini 2.5** (Pro est. ~1.0–1.2T+ total MoE) was good with sanskrit hyphenation. Gemini 2.5 scored 72.4 on Sanskrit and 80.3 on Sanskrit-English code-mixed text.
 - **Mistral Large 3.5** (est. ~1.0–1.2T+ total MoE, undisclosed active).
   
@@ -49,21 +49,26 @@ Ranked roughly in decreasing order of intelligence
 - **Muse Spark 1.3** (est. ~816B total / ~42B active MoE, based on Muse Spark Open baseline) was good with sanskrit.
 - **GLM 5.3** (744B–753B total / 40B active MoE; Flash: 320B total / 18B active MoE) - good with structured tasks and coding.
 - **DeepSeek 4.1 Flash** (763B total: 552B core + 196B Engram memory; 8B prefill / 16B decode active) was good with sanskrit commentary interleaving.
+- **Particle AI Particle-1 Free** (`openrouter/particle-ai/particle-1:free`): rank-64 LoRA post-train of DeepSeek V4.1 Flash (~1.25% params trained), inheriting base backbone 552B core + 196B Engram memory / 8B prefill, 16B decode active; 1M context.
 - **Thinking Machines Inkling 2 Small** (`thinkingmachines/inkling-2-small:free`): 17B active / 594B total multimodal MoE reasoning; ~1M context.
+- **InclusionAI Ling 3.2 Flash Free** (`openrouter/inclusionai/ling-3.2-flash:free`): Ling 3.2 Flash; 560B total / 25B active MoE; 1M context (native multimodal).
 
 ### 200B+
 - **GLM 5.3 Flash** (320B total / 18B active MoE).
+- **Xiaomi Mimo v2.6 Flash Free** (`opencode/mimo-v2.6-flash-free`): MiMo-V2.6-Flash; 309B total / 15B active MoE; 1M context.
 - **Baidu ERNIE-5.5-Flash-Preview** (`baidu/ernie-5.5-flash-preview:free`): ~280B total; coding, agentic, deep research; ~1M context.
 - **Dots Studio Dots3-Note Preview** (`dots-studio/dots-3-note-preview:free`): 16B active / 280B total MoE; 512K context.
 - **Gemini 3.0, 3.5, 3.8 Flash** (est. ~250–300B total, low active MoE) were worse with sanskrit hyphenation.
 - **Step 5 Preview Free** (604B total / 27B active MoE).
 - **Beam Free 202611** (Reflection Beam 1.0: 501B total / 23.4B active MoE) was worse with sanskrit commentary interleaving; made overcomplications in programming. Stupider, but not too bad.
 - **NVIDIA Nemotron 3 Nano Omni** (`nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free`): 30B-A3B multimodal perception/context sub-agent; 256K context.
-- **Iceman Contributor Free** (stealth OpenCode Go model, undisclosed parameters, 262K context).
+- **Iceman Contributor Free** (stealth OpenCode Go model; parameters undisclosed, no credible public estimate; 262K context).
+- **Iceman Free** (`opencode/iceman-free`): stealth OpenCode model; parameters undisclosed, no credible public estimate; 262K context. Contributor variant: `opencode-go/iceman-contributor-free`.
 - **Mistral Medium 3.5** (est. ~200–250B total MoE, undisclosed active).
+- **HY4 Flash Free** (`opencode/hy4-flash-free`, `opencode-go/hy4-flash-free`): Tencent Hy4-flash; ~220B total (incl. ~64B Engram) / ~12B active per token; 1M context.
 - **longcat 2.5 preview** (1.6T total / 48B active MoE) - were quite bad at sanskrit.
 - **ling 3.1 flash free** (560B total / 25B active MoE) - were quite bad at sanskrit.
-- **Stealth Glyph Cluster** (`stealth/glyph-cluster`): reasoning model for coding and long-context analysis via Vercel AI Gateway; 256K context; prompts may be retained for training.
+- **Stealth Glyph Cluster** (`stealth/glyph-cluster`): reasoning model for coding and long-context analysis via Vercel AI Gateway; parameters undisclosed, no credible public estimate; 256K context; prompts may be retained for training.
 
 ### Rest
 - **GPT-OSS 120B** (`gpt-oss-120b-medium`: 116.8B total / 5.1B active MoE).
@@ -73,19 +78,22 @@ Ranked roughly in decreasing order of intelligence
 - **NVIDIA Nemotron 3.5 Lightning** (`nvidia/nemotron-3.5-lightning:free`): 3B active / 30B total MoE; high-throughput agentic; 1M context.
 - **LiquidAI LFM3-1.7B** (`liquid/lfm-3-1.7b:free`): 1.7B dense; 256K context; agents/tool calling/structured outputs.
 - **Auto Small free fallback** (no balance): `google/gemma-4-26b-a4b-it:free`.
+- **Google Gemma 4 31B IT** (`google/gemma-4-31b-it:free`): 31B dense; instruction-tuned.
+- **Flint 40B Free** (`opencode/flint-40b-free`): 40B dense; recursive variant (`openrouter/recursive/flint-v1.0:free`) also available.
+- **Tidepool Alpha Free** (`opencode/tidepool-alpha-free`): experimental alpha model; parameters undisclosed, no credible public estimate.
 
 ## Frontier Model Size Estimates (from Anpaure)
 
 | Model | Estimated total parameters |
 |-------|-----------------------------|
-| Claude Fable 5 | 4.5 T |
-| GPT‑5.6 Sol | 3.1 T |
-| Claude Opus 5 | 3.0 T |
-| Kimi K3 | 2.8 T |
-| Claude Opus 4.8 | 2.7 T |
-| GPT‑5.5 | 2.3 T |
-| GPT‑5.6 Terra | 2.1 T |
-| Claude Sonnet 5 | 1.6 T |
-| Grok 4.5 | 1.5 T |
-| GPT‑5.6 Luna | 1.5 T |
+| Claude Fable 5 | 4.5T |
+| GPT‑5.6 Sol | 3.1T |
+| Claude Opus 5 | 3.0T |
+| Kimi K3 | 2.8T |
+| Claude Opus 4.8 | 2.7T |
+| GPT‑5.5 | 2.3T |
+| GPT‑5.6 Terra | 2.1T |
+| Claude Sonnet 5 | 1.6T |
+| Grok 4.5 | 1.5T |
+| GPT‑5.6 Luna | 1.5T |
 
