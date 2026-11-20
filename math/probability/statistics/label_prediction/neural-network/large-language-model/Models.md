@@ -38,6 +38,7 @@ Ranked roughly in decreasing order of intelligence
 - **Claude Opus 4.6 Thinking / Opus 5.5 / Fable 5.1** (est. ≥1.5T–2T+ total MoE, undisclosed active).
 - **Gemini 4 Argon** (est. ≥1.2T+ total MoE, undisclosed active) - much better than DeepSeek 4.1 Flash on sanskrit OCR. Good with hyphenation.
 - **Gemini Carbon** (est. ~1.0–1.2T+ total MoE, undisclosed active; speculative, unconfirmed).
+- **Gemini 4 Neon** (Google, Nov 2026; parameters undisclosed; optimized Gemini 4 reasoning model; 1M context). Reported benchmarks: Vals Index 70.87% (#2/42), SWE-sweep 12.8% (mini-SWE) / 39.0% (Antigravity), Terminal-Bench 4.1 60.5%, FrontierCode 2.0 46.2%.
 - **Gemini 2.5** (Pro est. ~1.0–1.2T+ total MoE) was good with sanskrit hyphenation. Gemini 2.5 scored 72.4 on Sanskrit and 80.3 on Sanskrit-English code-mixed text.
 - **Mistral Large 3.5** (est. ~1.0–1.2T+ total MoE, undisclosed active).
 - **longcat 2.5 preview** (1.6T total / 48B active MoE) - were quite bad at sanskrit.
