@@ -11,25 +11,6 @@ Model power increases with number of parameters.
 - **Engram conditional memory**: Separate lookup-style memory parameters (used in DeepSeek 4.1) that store factual associations without adding to the core transformer compute per token.
 - **Prefill vs. Decode**: **Prefill** ingests and processes the input prompt in parallel; **Decode** generates output (thinking + response) autoregressively one token at a time.
 
-## Kilo → OpenCode Config Wiring
-
-Kilo sessions reuse the OpenCode configuration from `opencode/`:
-
-- **Global instructions**: `~/.config/kilo/AGENTS.md` → `opencode/AGENTS.md` (symlink)
-- **Skills**: `~/.kilo/skills` → `opencode/skills` (symlink), plus `skills.paths` in `kilo.jsonc`
-- **Agents/subagents**: `~/.config/kilo/agents` → `opencode/agents` (symlink), with `markdown_source` permission in `kilo.jsonc`
-
-See `~/.config/kilo/kilo.jsonc` for the active config.
-
-## Mistral Vibe → OpenCode Config Wiring
-
-Mistral Vibe (`vibe` CLI, v3.1.2) sessions reuse the OpenCode configuration from `opencode/`:
-
-- **Global instructions**: `~/.vibe/AGENTS.md` → `opencode/AGENTS.md` (symlink, pre-existing)
-- **Skills**: `~/.vibe/skills` → `opencode/skills` (symlink), plus `skill_paths` in `~/.vibe/config.toml`
-- **Agents/subagents**: `~/.vibe/agents` → `opencode/agents` (symlink)
-
-See `~/.vibe/config.toml` for the active config.
 
 ## Review
 Ranked roughly in decreasing order of intelligence
