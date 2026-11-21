@@ -2,6 +2,11 @@
 title = "Jan Gonda"
 +++
 
+## Remote knowledge
+Source: [TW](https://x.com/blog_supplement/status/2123598626152735128)
+
+Certain people obtain wisdom and knowledge of a field without ever having had direct experience with it. For example, one could cite the Dutch linguist-philologist Jan Gonda. It speaks well for H tradition that it was clear enough for a Gonda to acquire his depth of knowledge without a direct experience of India or any H sampradAya.
+
 ## TirucheNDUr paNDita
 Source: [TW](https://x.com/blog_supplement/status/2052965615153905840)
 
