@@ -1,0 +1,111 @@
+\documentclass[10pt]{amsart}
+\usepackage{amsmath,amssymb}
+
+
+\input{../../macros}
+
+
+%opening
+\title{Learning decision lists in the infinite attribute mistake bounded learning model}
+
+\begin{document}
+\maketitle
+
+\part{Notation}
+See colt ref for information about notation.
+
+Representation dimension (f(input size)) or number of vars in x: n. r: number of relevant vars.
+
+Let the oracle calls used by $p(r, |c|)h(n)$.
+
+\part{Problem statements}
+\section{IMB learning of DL}
+
+\subsection{Importance}
+Learning DL attribute efficiently (ae) could be of practical importance.
+
+Ae learning DL's will give us more understanding about ae-learning in general.
+
+\section{Subexponential IMB learning of DL}
+
+\subsection{Importance}
+Could be a step towards poly time IMB learning.
+
+\section{ae learn DL's in MB}
+
+\subsection{Importance}
+This will imply solution to the IMB learning problem due to the sequential / mapping learning algs construction.
+
+\section{ae learn DL's in UPAC}
+Believed to be hard for DNF's.
+
+\subsection{Importance}
+These could indicate whether learning DL's is truly easier than learning DNF's.
+
+How would you learn DL's using MQ's?
+
+\subsection{Problem with the goal}
+ae learning in U may not make much sense: length of dl and term length of DNF restricted to $\log (1/\eps)$; whereas from VCD lower bound you expect to learn in $\Omega(1/\eps)$. But, the VCD lower bound may not hold for U.
+
+\subsection{Learn dl's using EQ}
+
+\subsubsection{Importance}
+One could then try to fiddle with the eq alg to make it ae.
+
+\subsubsection{Non ae alg}
+Can make eq alg to learn DL from the mb alg to learn dl.
+
+\section{Learn dl's using MQ}
+
+\subsection{Importance}
+One could then try to get rid of the mq's. Not very promising.
+
+\section{Learn DNF's in U using ae DL alg}
+
+\subsection{Importance}
+Could indicate that learning DL's efficiently is hard
+
+\subsection{Failed attempts}
+Can't use Bshouty's DNF to augmented dec tree to t-dl alg to show that ae learning dl's implies DNF learnability: Feature expansion based t-dl alg is always non ae.
+
+\subsection{ae learn PARITY using ae DL alg}
+
+\subsubsection{Importance}
+Implies learning PARITY with noise which implies learning DNF in U.
+
+\part{Known facts}
+\section{Monotone DL can be learnt in IMB}
+They are merely conjunctions and disjunctions.
+
+\section{Known MB algs to learn DL's}
+Best known $p(r, |c|)h(n) = O(nk)$ by the literals in bag algorithm. $r(\log (n/r))\leq VCD \leq r \log n$. So, big gap between upper and lower bound.
+
+\subsection{Non poly time ae algs}
+Sequential halving alg. Klivans and Servedio winnow alg (take a look.).
+
+k-CNF and k-DNF learnable using winnow with time per trial $O(n^{k})$. Can use this to learn DL's in time per trial $O(n^{r})$.
+
+\part{Strategies for faster algorithms}
+
+\section{Winnowing}
+Use some form of winnowing.
+
+\subsection{Conversion to halfspace}
+Decn list with k vars $\set{x_{i}}$, outputs $r(x_{i})$ can be writ as halfspace: $sign(\sum 2^{k-i}x_{i}o(x_{i}))$. Can we use winnow to set these weights?
+
+\section{Occam with Approximate set cover}
+Try to find an algorithm which will grow the hypothesis decision list efficiently, as if solving a set cover problem. \textbf{Initial attempt's result}: Discovered that the set-cover logic cannot be used directly in the way it is used in the case of disjunctions.
+
+\section{Vague thoughts}
+DL's are special types of r-term r-DNF's. We must exploit this structure some how.
+
+How to efficiently identify the first var in a DL?
+
+\part{Attempts at showing hardness}
+If you could learn DL's ae, could you learn DNF's in poly time? Seems to be no obvious way.
+
+
+% \bibliographystyle{plain}
+% \bibliography{../colt}
+
+\end{document}

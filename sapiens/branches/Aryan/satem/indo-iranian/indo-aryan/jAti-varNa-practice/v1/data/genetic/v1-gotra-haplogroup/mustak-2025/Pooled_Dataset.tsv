@@ -1,0 +1,1767 @@
+ind	pop	Gotra	Group	Region	Hg	MacroHg	DYS19	DYS_389_1	DYS_389_2	DYS390	DYS391	DYS392	DYS393	DYS437	DYS438	DYS439	DYS448	DYS456	DYS458	DYS635	GATA_H4
+HS1	Himachal	Bharadvaja	Sarasvata	North	R1a	R1a	14.3	12	29	24	10	10	13	15	11	10	20	15	17	23	13
+HS2	Himachal	Bharadvaja	Sarasvata	North	R2	R2	14.3	12	30	20	10	9	14	17	12	12	19	15	16	26	13
+HS3	Himachal	Vashishta	Sarasvata	North	O3	O3	14	12	29	21	11	13	10	17	10	12	20	15	18	22	12
+HS4	Himachal	Kasyapa	Sarasvata	North	R1a	R1a	17	13	30	24	12	11	12	15	12	10	19	16	14	24	12
+HS5	Himachal	Kasyapa	Sarasvata	North	O3	O3	16	12	29	24	11	10	11	15	12	14	20	14	14	22	11
+HS6	Himachal	Kasyapa	Sarasvata	North	R1a	R1a	17	13	30	24	11	11	12	15	12	10	24	16	14	24	12
+HS7	Himachal	Vashishta	Sarasvata	North	L	L	16	13	30	23	10	10	11	16	10	12	21	16	14	22	12
+HS8	Himachal	Bharadvaja	Sarasvata	North	R2	R2	16	13	30	24	11	10	12	18	12	12	19	17	17	26	12
+HS9	Himachal	Bharadvaja	Sarasvata	North	12a(x12al)	I2a	15	15	32	24	11	11	12	17	10	11	20	16	17	24	12
+HS10	Himachal	Bharadvaja	Sarasvata	North	R1a	R1a	17	13	24	24	12	11	12	15	12	10	20	16	15	24	13
+HS11	Himachal		Sarasvata	North	12a(x12al)	I2a	16	14	32	24	11	11	11	15	10	11	18	18	15	21	12
+HS12	Himachal	Bharadvaja	Sarasvata	North	L	L	17	13	30	22	11	11	12	16	12	11	19	16	15	24	11
+HS13	Himachal	Bharadvaja	Sarasvata	North	L	L	17	13	30	22	11	11	11	15	10	11	19	16	15	22	12
+HS14	Himachal	Vashishta	Sarasvata	North	R2	R2	17	13	30	24	11	10	13	17	12	11	19	16	15	25	12
+HS15	Himachal	Vashishta	Sarasvata	North	R1a	R1a	18	13	31	25	11	11	12	15	12	10	20	16	14	24	12
+HS16	Himachal	Bharadvaja	Sarasvata	North	R1a	R1a	16	13	31	26	12	11	12	15	12	11	20	17	15	24	12
+HS17	Himachal	Gotama	Sarasvata	North	J2b	J2	16	13	30	24	13	11	12	16	10	12	19	14	16	22	11
+HS18	Himachal	Bharadvaja	Sarasvata	North	L	L	16	14	31	21	11	11	11	15	10	12	19	17	16	21	12
+HS19	Himachal	Bharadvaja	Sarasvata	North	R1a	R1a	17	13	31	25	12	11	12	15	12	10	20	16	14	24	12
+HS20	Himachal	Bharadvaja	Sarasvata	North	R1a	R1a	15	13	31	24	9	10	11	14	12	10	19	15	16	20	13
+HS21	Himachal	Vashishta	Sarasvata	North	R1a	R1a	14.3	13	31	25	9	11	11	14	11	10	19	13	15	23	12
+HS22	Himachal	Bharadvaja	Sarasvata	North	E1b1a	E1b1	14	13	30	23	10	11	16	14	9	12	21	14	17	23	11
+HS23	Himachal	Bharadvaja	Sarasvata	North	R1a	R1a	17	12	30	25	10	10	14	15	11	10	20	15	16	23	13
+HS24	Himachal		Sarasvata	North	R1a	R1a	16	13	29	25	10	11	13	14	12	10	20	16	15	23	13
+HS25	Himachal		Sarasvata	North	R1a	R1a	16	13	29	25	10	11	13	14	12	10	20	16	15	23	13
+HS26	Himachal	Kasyapa	Sarasvata	North	R2	R2	14	14	30	23	10	11	12	14	9	12	21	14	17	25	11
+HS27	Himachal	Gotama	Sarasvata	North	Q	Q	14	11	30	23	11	13	12	14	12	10	19	15	14	23	11
+HS28	Himachal	Kasyapa	Sarasvata	North	L	L	14.3	12	29	21	11	13	10	16	11	13	20	15	15	22	12
+HS29	Himachal	Bharadvaja	Sarasvata	North	R2	R2	14	12	30	21	10	10	9	14	11	9	19	15	16	25	12
+HS30	Himachal		Sarasvata	North	R2	R2	16	14	32	24	11	10	11	14	12	9	20	15	15	24	12
+HS31	Himachal	Jamadagni	Sarasvata	North	R2	R2	14	13	31	22	9	11	11	15	12	10	19	15	14	25	11
+HS32	Himachal	Kasyapa	Sarasvata	North	O3	O3	14.3	12	29	21	11	13	10	16	11	11	20	15	15	23	12
+HS33	Himachal	Kasyapa	Sarasvata	North	O3	O3	14.3	12	31	21	10	10	10	14	9	12	19	17	18	21	12
+HS34	Himachal	Jamadagni	Sarasvata	North	C3	C3	16	13	30	24	11	11	11	14	12	10	20	15	16	23	12
+HS35	Himachal		Sarasvata	North	C3	C3	15	12	30	27	10	10	11	14	12	10	22	15	16	23	12
+HS36	Himachal	Bharadvaja	Sarasvata	North	R2	R2	14	14	31	22	10	11	12	15	12	11	18	16	17	26	11
+HS37	Himachal		Sarasvata	North	R1a	R1a	16	13	29	24	11	10	11	14	12	10	20	16	15	23	13
+HS38	Himachal	Jamadagni	Sarasvata	North	O3	O3	14	11	30	23	10	13	14	14	11	11	20	14	16	22	11
+HS39	Himachal	Kasyapa	Sarasvata	North	R1a	R1a	17	12	31	24	11	10	11	15	11	10	20	15	14	23	12
+HS40	Himachal		Sarasvata	North	L	L	15	12	29	21	11	13	10	16	11	12	20	15	15	22	12
+HS41	Himachal	Visvamitra	Sarasvata	North	O3	O3	15	12	30	24	10	10	11	14	12	12	20	15	14	24	12
+HS42	Himachal	Kasyapa	Sarasvata	North	R2	R2	14.3	12	30	24	10	10	11	14	12	11	20	15	15	24	11
+HS43	Himachal	Bharadvaja	Sarasvata	North	O3	O3	14	11	29	21	9	10	11	15	10	13	20	15	18	24	11
+HS44	Himachal	Vashishta	Sarasvata	North	R2	R2	14.3	13	31	23	9	10	11	14	11	10	20	15	15	24	12
+HS45	Himachal	Bharadvaja	Sarasvata	North	E1b1a	E1b1	15	11	31	21	9	10	11	14	10	10	20	13	16	19	9
+HS46	Himachal		Sarasvata	North	O3	O3	14	11	30	23	10	13	12	15	11	11	19	15	16	22	11
+HS47	Himachal	Gotama	Sarasvata	North	12a(x12al)	I2a	17	12	31	24	13	10	11	15	12	10	20	15	14	23	12
+HS48	Himachal		Sarasvata	North	O3	O3	15	12	29	21	11	13	10	17	10	13	20	15	17	23	12
+HS49	Himachal	Kasyapa	Sarasvata	North	R1a	R1a	16	12	32	24	10	10	14	15	11	10	20	15	17	23	13
+HS50	Himachal	Vashishta	Sarasvata	North	R2	R2	14	12	28	23	9	9	13	16	11	10	20	15	16	25	12
+HS51	Himachal	Kasyapa	Sarasvata	North	L	L	14.3	13	30	21	11	13	10	16	10	12	20	15	17	22	12
+HS52	Himachal	Gotama	Sarasvata	North	R2	R2	16	12	30	23	10	10	12	15	11	9	20	15	16	24	13
+HS53	Himachal	Jamadagni	Sarasvata	North	Q	Q	13	12	29	21	10	14	13	16	11	11	19	16	18	23	10
+HS54	Himachal	Vashishta	Sarasvata	North	L	L	14	12	28	23	11	12	11	16	12	12	19	14	15	22	12
+HS55	Himachal	Bharadvaja	Sarasvata	North	O3	O3	16	12	31	24	11	10	11	15	11	10	20	16	16	23	12
+HS56	Himachal		Sarasvata	North	O3	O3	16	12	29	21	11	13	10	17	10	12	20	15	17	22	12
+HS57	Himachal	Bharadvaja	Sarasvata	North	O3	O3	14.3	12	30	24	10	10	11	15	11	10	20	15	17	23	13
+HS58	Himachal	Visvamitra	Sarasvata	North	L	L	13	13	30	21	11	14	11	16	11	12	19	17	19	23	10
+HS59	Himachal		Sarasvata	North	R1a	R1a	14.3	11	30	24	10	10	13	15	9	10	20	15	16	24	12
+HS60	Himachal	Kasyapa	Sarasvata	North	R2	R2	16	11	31	24	10	10	11	15	9	10	20	15	16	24	13
+HS61	Himachal		Sarasvata	North	O3	O3	16	12	30	24	11	10	11	15	11	10	20	15	17	23	13
+PS2	Punjab	Kasyapa	Sarasvata	North	R1a	R1a	15	14	32	25	11	11	13	15	12	10	20	15	17	23	13
+PS4	Punjab		Sarasvata	North	O3	O3	17	14	30	22	10	11	12	15	11	10	19	15	16	22	12
+PS5	Punjab		Sarasvata	North	R1a	R1a	16	14	32	24	11	11	13	15	12	10	20	16	16	23	11
+PS6	Punjab	Vashishta	Sarasvata	North	R2	R2	15	13	31	24	10	10	11	14	11	10	21	15	16	24	12
+PS7	Punjab	Kasyapa	Sarasvata	North	J2b	J2	15	12	29	25	10	11	12	16	10	12	18	13	16	21	11
+PS8	Punjab	Vashishta	Sarasvata	North	12a(12xal)	I2a	15	13	31	24	10	11	13	15	10	12	20	13	18	21	11
+PS9	Punjab	Kasyapa	Sarasvata	North	O3	O3	16	12	30	24	11	10	11	14	12	9	21	15	16	24	13
+PS10	Punjab	Vashishta	Sarasvata	North	O3	O3	15	12	29	24	11	11	14	15	12	12	19	15	17	23	12
+PS11	Punjab	Bharadvaja	Sarasvata	North	E1b1b	E1b1	15	13	31	24	11	11	13	15	11	12	20	15	16	20	12
+PS12	Punjab	Bharadvaja	Sarasvata	North	J2a4(xbh)	J2	15	14	31	23	11	11	12	16	10	11	20	15	15	22	12
+PS13	Punjab	Jamadagni	Sarasvata	North	R1a	R1a	15	14	31	23	10	11	13	15	12	10	21	15	16	23	12
+PS14	Punjab		Sarasvata	North	R1a	R1a	17	14	32	24	12	11	13	15	12	11	20	16	16	23	11
+PS15	Punjab		Sarasvata	North	R1a	R1a	15	13	30	25	12	11	13	15	12	12	20	16	18	23	13
+PS16	Punjab		Sarasvata	North	L	L	16	12	28	23	11	14	12	17	11	9	19	15	19	21	11
+PS17	Punjab	Bharadvaja	Sarasvata	North	L	L	16	13	29	24	11	14	12	17	11	12	20	15	17	24	11
+PS18	Punjab	Jamadagni	Sarasvata	North	H	H	15	14	30	22	11	11	12	15	10	12	19	15	16	20	11
+PS19	Punjab		Sarasvata	North	R2	R2	14.3	14	30	24	12	10	13	17	12	11	20	15	17	26	12
+PS22	Punjab	Jamadagni	Sarasvata	North	R2	R2	14.3	13	29	24	11	10	14	17	12	11	19	15	17	25	13
+PS23	Punjab		Sarasvata	North	R2	R2	15	13	30	22	11	9	12	16	12	10	19	15	16	25	12
+PS24	Punjab		Sarasvata	North	C3	C3	15	13	30	22	10	11	11	14	12	10	20	15	18	20	12
+PS25	Punjab	Jamadagni	Sarasvata	North	R1a	R1a	17	14	30	25	11	11	13	14	11	10	20	15	16	24	12
+PS26	Punjab		Sarasvata	North	R2	R2	14	13	30	23	10	10	14	16	11	11	19	15	17	24	12
+PS27	Punjab	Bharadvaja	Sarasvata	North	H	H	15	14	30	22	10	11	12	14	9	13	19	15	15	21	11
+PS29	Punjab	Vashishta	Sarasvata	North	R1a	R1a	16	13	31	25	11	10	12	14	12	10	21	15	16	23	13
+PS30	Punjab		Sarasvata	North	L	L	14	14	29	22	10	10	11	14	10	12	20	14	18	22	11
+PS31	Punjab	Jamadagni	Sarasvata	North	R1a	R1a	18	14	30	25	11	10	10	14	11	10	20	14	16	24	12
+PS32	Punjab	Vashishta	Sarasvata	North	R2	R2	14.3	14	31	23	10	11	11	15	11	11	19	16	16	24	11
+PS33	Punjab	Agastya	Sarasvata	North	R1a	R1a	14.3	14	31	24	10	10	11	14	11	12	20	16	15	23	13
+PS34	Punjab	Bharadvaja	Sarasvata	North	R1a	R1a	17	13	31	25	10	11	11	15	11	10	20	16	16	23	13
+PS35	Punjab	Vashishta	Sarasvata	North	R2	R2	14	14	30	23	10	10	12	16	11	10	19	15	17	25	12
+PS36	Punjab	Vashishta	Sarasvata	North	L	L	14.3	14	30	22	10	13	11	15	11	12	21	14	18	22	12
+PS37	Punjab		Sarasvata	North	R1a	R1a	14.3	14	31	25	10	11	11	14	11	10	20	15	17	23	13
+PS38	Punjab	Bharadvaja	Sarasvata	North	Q	Q	13	13	30	22	10	13	11	14	11	11	19	16	17	23	10
+PS39	Punjab		Sarasvata	North	H	H	14	14	31	22	10	11	10	14	9	11	18	15	18	20	13
+PS40	Punjab	Bharadvaja	Sarasvata	North	L	L	13	14	30	22	10	14	11	15	11	11	19	15	18	23	10
+PS43	Punjab		Sarasvata	North	C3	C3	14.3	13	32	24	9	10	11	14	11	10	20	15	16	22	12
+PS44	Punjab	Bharadvaja	Sarasvata	North	L	L	13	13	30	21	9	14	10	15	11	11	19	14	18	23	10
+PS45	Punjab	Bharadvaja	Sarasvata	North	H	H	13	12	28	21	9	14	11	14	9	11	21	15	18	20	11
+PS46	Punjab		Sarasvata	North	H	H	13	12	28	21	9	10	10	14	9	12	21	15	16	20	11
+PS47	Punjab	Vashishta	Sarasvata	North	H	H	14.3	12	29	21	9	10	10	14	9	11	19	15	16	21	13
+PS48	Punjab	Vashishta	Sarasvata	North	R2	R2	14	12	29	22	9	9	11	16	11	10	19	15	18	24	12
+PS49	Punjab	Kasyapa	Sarasvata	North	R2	R2	13	12	30	21	10	10	11	14	11	10	19	16	16	23	12
+PS50	Punjab		Sarasvata	North	O3	O3	14.3	12	28	21	9	9	10	14	11	11	20	13	15	20	11
+PS51	Punjab		Sarasvata	North	H	H	14.3	13	30	21	9	10	9	14	10	12	19	14	17	20	12
+PS52	Punjab		Sarasvata	North	O3	O3	14	12	30	22	9	9	12	16	11	11	19	15	17	24	12
+PS53	Punjab	Vashishta	Sarasvata	North	O3	O3	17	12	29	22	9	9	12	16	11	11	20	16	17	24	12
+PS54	Punjab		Sarasvata	North	E1b1b	E1b1	13	12	30	21	9	11	11	14	11	10	20	15	17	20	12
+PS56	Punjab		Sarasvata	North	Q	Q	13	13	30	21	9	13	12	14	11	11	19	15	17	23	10
+PS57	Punjab	Jamadagni	Sarasvata	North	R1a	R1a	14.3	12	31	25	9	10	11	13	11	10	20	14	16	23	12
+PS58	Punjab	Kasyapa	Sarasvata	North	R1a	R1a	16	12	29	24	9	10	11	14	11	10	22	15	16	23	13
+PS60	Punjab		Sarasvata	North	R1a	R1a	14.3	13	31	24	9	10	11	14	11	11	20	15	16	23	13
+KS1	Jammu	Gotama	Sarasvata	North	L	L	15	13	29	22	10	14	12	16	10	12	20	15	19	23	12
+KS2	Kashmir	Vashishta	Sarasvata	North	R2	R2	14	14	30	23	10	12	13	15	11	12	19	15	16	24	11
+KS3	Kashmir		Sarasvata	North	O3	O3	14	11	27	25	10	12	13	14	10	8	17	17	18	21	12
+KS4	Kashmir		Sarasvata	North	L	L	14	13	30	21	10	10	10	14	9	12	19	15	15	21	12
+KS5	Kashmir	Gotama	Sarasvata	North	O3	O3	14.3	12	29	21	10	10	10	14	9	11	20	15	15	22	11
+KS7	Kashmir		Sarasvata	North	Q	Q	14	13	30	22	10	15	10	14	11	11	22	15	16	22	11
+KS9	Kashmir		Sarasvata	North	L	L	14	13	31	22	10	11	10	14	10	11	19	16	14	22	11
+KS15	Kashmir	Gotama	Sarasvata	North	E1b1b	E1b1	18	14	31	22	10	8	8	14	11	11	20	15	17	22	11
+KS17	Kashmir	Visvamitra	Sarasvata	North	J2a(xbh)	J2	14	13	32	21	10	10	12	15	9	10	20	15	14	23	11
+KS19	Kashmir		Sarasvata	North	R2	R2	15	14	30	25	10	8	13	14	11	10	19	15	17	23	13
+KS20	Kashmir	Kasyapa	Sarasvata	North	R1a	R1a	15	14	30	25	10	12	13	14	11	10	20	15	17	23	13
+KS21	Kashmir		Sarasvata	North	O3	O3	14	13	31	23	10	13	12	15	13	10	21	14	16	25	12
+KS22	Kashmir	Bharadvaja	Sarasvata	North	C3	C3	17	13	29	25	10	11	13	14	10	10	22	15	18	21	11
+KS24	Kashmir		Sarasvata	North	J2a4bh	J2	15	13	31	23	10	12	11	14	9	9	20	16	16	24	10
+KS25	Kashmir		Sarasvata	North	R2	R2	14	13	28	23	10	10	12	15	11	10	19	14	17	26	12
+KS26	Kashmir	Bharadvaja	Sarasvata	North	R1a	R1a	16	13	31	24	10	11	13	14	11	11	20	15	16	23	13
+KS27	Kashmir	Vashishta	Sarasvata	North	R1a	R1a	15	14	30	24	10	11	13	14	12	10	20	15	15	23	13
+KS28	Kashmir	Bharadvaja	Sarasvata	North	H	H	14	13	33	22	10	11	11	14	11	10	19	15	17	19	13
+KS29	Kashmir		Sarasvata	North	Q	Q	14.3	13	30	25	11	16	13	14	11	10	19	17	15	23	12
+KS30	Kashmir		Sarasvata	North	R2	R2	14	12	28	24	9	8	12	15	11	10	19	13	16	25	11
+KS31	Kashmir		Sarasvata	North	R2	R2	14	12	29	23	10	10	9	16	10	10	21	15	16	24	12
+KS32	Kashmir		Sarasvata	North	H	H	14	12	32	21	9	10	10	14	12	9	19	16	15	20	13
+KS34	Kashmir		Sarasvata	North	O3	O3	14	11	32	21	9	10	10	14	12	10	19	14	16	19	12
+KS35	Kashmir	Vashishta	Sarasvata	North	O3	O3	14	14	30	21	10	10	11	14	11	11	20	14	15	21	12
+KS36	Kashmir	Bharadvaja	Sarasvata	North	H	H	15	15	31	21	10	10	12	14	10	12	19	17	15	21	12
+KS39	Kashmir		Sarasvata	North	L	L	14	12	30	21	10	10	10	15	8	11	20	13	15	21	11
+KS40	Kashmir	Visvamitra	Sarasvata	North	Q	Q	12	14	30	22	10	11	10	15	12	12	19	15	16	25	11
+KS41	Kashmir		Sarasvata	North	R2	R2	14	13	30	21	10	9	12	16	12	10	19	15	17	23	12
+KS42	Kashmir		Sarasvata	North	G2a	G	15	12	29	23	10	12	14	16	11	12	22	17	16	24	12
+KS43	Kashmir		Sarasvata	North	R2	R2	14	11	31	24	10	9	11	14	11	11	20	13	15	24	11
+KS44	Kashmir		Sarasvata	North	H	H	14.3	13	29	21	10	10	12	14	10	11	18	16	16	19	10
+KS45	Kashmir		Sarasvata	North	G2a	G	15	11	28	23	10	11	13	16	11	12	22	16	16	25	12
+KS46	Kashmir		Sarasvata	North	J2a4(xbh)	J2	14.3	13	30	24	11	11	11	14	9	10	20	15	14	24	12
+KS47	Kashmir		Sarasvata	North	R1a	R1a	16	13	31	24	11	10	13	14	12	10	20	16	15	25	13
+KS48	Kashmir	Gotama	Sarasvata	North	O3	O3	15	13	29	21	7	10	10	14	11	12	18	15	16	25	11
+KS49	Kashmir		Sarasvata	North	Q	Q	14	13	29	22	10	16	12	14	12	11	22	15	16	23	11
+KS50	Kashmir	Kasyapa	Sarasvata	North	H	H	15	13	28	22	10	7	13	14	9	11	19	15	16	20	12
+KS51	Kashmir		Sarasvata	North	G2a	G	16	12	29	21	11	9	12	17	10	11	21	15	16	21	11
+KS52	Kashmir	Visvamitra	Sarasvata	North	R2	R2	14	12	28	22	10	10	11	17	11	10	19	15	17	25	12
+KS53	Kashmir		Sarasvata	North	R2	R2	16	12	30	24	12	10	11	14	11	10	18	17	15	24	12
+KS54	Kashmir		Sarasvata	North	L	L	14.3	13	31	21	10	13	11	17	10	12	19	14	19	21	11
+KS55	Kashmir	Bharadvaja	Sarasvata	North	O3	O3	14	12	33	21	10	10	10	15	11	10	19	16	17	19	13
+KS56	Kashmir	Gotama	Sarasvata	North	J2b	J2	14.3	11	29	23	10	11	10	15	9	11	19	13	16	20	11
+KS57	Kashmir	Bharadvaja	Sarasvata	North	O3	O3	15	13	30	22	10	11	10	14	11	8	19	16	17	21	12
+KS58	Kashmir		Sarasvata	North	R2	R2	15	13	34	23	10	8	11	14	11	11	19	15	15	23	11
+JS1	Jammu	Kasyapa	Sarasvata	North	R2	R2	15	12	30	24	11	10	11	14	9	9	20	15	14	24	13
+JS2	Jammu	Kasyapa	Sarasvata	North	R1a	R1a	17	13	33	25	12	11	12	13	12	11	20	16	14	24	12
+JS3	Jammu	Kasyapa	Sarasvata	North	R1a	R1a	17	13	33	25	12	11	12	15	12	10	19	16	14	24	12
+JS4	Jammu	Bharadvaja	Sarasvata	North	R1a	R1a	17	13	31	25	12	11	12	15	12	10	20	16	15	24	13
+JS5	Jammu	Kasyapa	Sarasvata	North	L	L	16	15	33	22	10	10	11	15	10	12	19	17	14	21	12
+JS6	Jammu	Bharadvaja	Sarasvata	North	L	L	13	14	31	21	10	15	11	15	11	10	18	16	16	23	10
+JS7	Jammu	Bharadvaja	Sarasvata	North	L	L	14	14	31	22	11	15	11	15	12	11	18	16	17	24	10
+JS8	Jammu	Bharadvaja	Sarasvata	North	L	L	15	13	31	23	11	10	10	15	11	11	19	16	18	24	12
+JS9	Jammu	Vashishta	Sarasvata	North	R1a	R1a	17	14	34	24	10	11	12	14	11	9	19	16	14	23	13
+JS10	Jammu	Gotama	Sarasvata	North	H	H	15	13	29	21	11	11	12	14	10	12	19	17	16	21	12
+JS11	Jammu	Bharadvaja	Sarasvata	North	L	L	17	12	28	23	11	14	12	18	11	13	20	15	18	23	11
+JS12	Jammu	Kasyapa	Sarasvata	North	Q	Q	13	14	30	22	11	15	13	16	12	11	19	15	18	23	10
+JS13	Jammu	Agastya	Sarasvata	North	J1	J1	14	14	30	23	11	11	12	15	10	12	20	14	17	22	11
+JS14	Jammu	Vashishta	Sarasvata	North	R1a	R1a	16	13	30	26	12	11	13	15	12	12	20	15	16	23	11
+JS15	Jammu	Bharadvaja	Sarasvata	North	J2a4(xbh)	J2	14	14	30	23	11	11	12	16	11	12	20	16	17	23	11
+JS16	Jammu	Vashishta	Sarasvata	North	R1a	R1a	15	14	31	25	10	11	13	15	12	11	20	15	16	23	13
+JS17	Jammu	Vashishta	Sarasvata	North	R1a	R1a	15	13	29	25	12	11	14	16	12	12	19	15	18	21	12
+JS18	Jammu	Jamadagni	Sarasvata	North	Q	Q	13	14	30	22	10	15	13	16	12	11	19	15	18	23	10
+JS19	Jammu		Sarasvata	North	O3	O3	12	13	31	22	9	10	10	14	10	11	22	14	17	23	11
+JS20	Jammu	Vashishta	Sarasvata	North	O3	O3	16	12	30	24	11	10	11	14	11	11	20	15	15	23	11
+JS21	Jammu	Vashishta	Sarasvata	North	R1a	R1a	16	13	33	24	9	10	11	14	11	8	20	15	15	24	12
+JS22	Jammu	Vashishta	Sarasvata	North	J2a4bh	J2	14	14	31	22	10	10	10	14	10	11	23	14	16	24	11
+JS23	Jammu	Agastya	Sarasvata	North	L	L	14	13	30	22	11	9	11	16	11	13	19	16	17	25	9
+JS24	Jammu	Agastya	Sarasvata	North	L	L	14	13	30	22	11	9	11	16	11	13	19	16	17	25	10
+JS25	Jammu	Vashishta	Sarasvata	North	R2	R2	17	12	28	23	11	10	11	14	11	9	20	15	15	24	12
+JS26	Jammu	Agastya	Sarasvata	North	R1a	R1a	16	12	30	24	11	10	11	14	11	10	20	15	15	25	13
+JS27	Jammu	Agastya	Sarasvata	North	R2	R2	14	14	30	22	11	9	11	16	11	11	19	16	17	25	10
+JS28	Jammu	Agastya	Sarasvata	North	L	L	15	13	29	21	12	13	11	16	10	11	19	15	18	23	11
+JS29	Jammu	Agastya	Sarasvata	North	R1a	R1a	16	12	31	24	11	10	11	14	11	9	20	16	15	23	13
+JS30	Jammu	Agastya	Sarasvata	North	L	L	15	12	29	21	12	13	11	16	10	11	19	15	19	23	11
+JS31	Jammu	Agastya	Sarasvata	North	R2	R2	14	13	30	22	10	9	11	16	11	11	19	16	18	25	10
+JS32	Jammu	Agastya	Sarasvata	North	L	L	15	12	29	21	11	13	11	16	10	11	19	15	18	23	11
+JS33	Jammu	Agastya	Sarasvata	North	L	L	15	12	29	21	11	13	11	16	10	11	19	15	18	23	11
+JS34	Jammu	Bharadvaja	Sarasvata	North	O3	O3	16	12	30	24	9	10	11	14	11	11	20	15	16	23	13
+JS35	Jammu	Bharadvaja	Sarasvata	North	O3	O3	12	12	30	24	10	10	11	14	11	10	20	15	15	23	13
+JS36	Jammu	Agastya	Sarasvata	North	R1a	R1a	15	13	32	24	9	10	11	14	11	12	20	15	14	23	12
+JS37	Jammu	Agastya	Sarasvata	North	L	L	15	12	29	21	10	13	11	16	10	11	19	15	18	23	11
+JS38	Jammu	Bharadvaja	Sarasvata	North	R1a	R1a	16	12	30	24	10	10	11	14	11	10	20	15	15	23	13
+JS39	Jammu	Kasyapa	Sarasvata	North	O3	O3	14	13	31	22	10	10	10	14	9	13	21	14	16	24	11
+JS40	Jammu	Bharadvaja	Sarasvata	North	O3	O3	16	12	30	24	9	10	11	14	11	11	20	15	16	23	13
+JS41	Jammu	Bharadvaja	Sarasvata	North	O3	O3	16	12	30	24	9	10	11	14	11	11	20	15	16	23	13
+JS42	Jammu		Sarasvata	North	R1a	R1a	16	12	31	25	10	10	11	14	11	10	20	16	15	23	13
+JS43	Jammu	Kasyapa	Sarasvata	North	R2	R2	16	13	31	23	9	10	11	14	11	10	19	17	16	23	13
+JS44	Jammu	Agastya	Sarasvata	North	R2	R2	14	13	31	22	10	9	11	16	11	11	19	16	17	25	10
+JS46	Jammu	Agastya	Sarasvata	North	L	L	15	12	29	21	12	14	11	16	10	11	19	15	18	24	11
+JS47	Jammu	Agastya	Sarasvata	North	L	L	15	12	29	21	11	13	11	16	10	11	19	15	18	23	11
+JS48	Jammu	Bharadvaja	Sarasvata	North	O3	O3	16	12	30	24	10	10	11	14	11	10	20	15	16	23	13
+JS49	Jammu	Kasyapa	Sarasvata	North	R2	R2	16	13	31	23	9	10	11	14	11	10	19	17	16	23	13
+JS50	Jammu	Agastya	Sarasvata	North	O3	O3	17	12	30	24	10	10	11	14	11	10	20	15	15	23	13
+JS51	Jammu	Kasyapa	Sarasvata	North	R2	R2	16	12	30	23	9	10	11	14	11	10	19	16	16	23	13
+JS52	Jammu	Vashishta	Sarasvata	North	O3	O3	17	11	29	22	10	10	10	15	10	9	21	15	14	22	11
+JS53	Jammu	Vashishta	Sarasvata	North	R2	R2	13	11	27	24	10	10	11	14	11	13	20	15	15	24	11
+JS54	Jammu		Sarasvata	North	O3	O3	15	12	29	24	11	10	11	14	9	9	20	14	16	23	12
+JS55	Jammu	Bharadvaja	Sarasvata	North	R2	R2	16	13	32	23	10	10	11	14	12	9	20	15	15	24	13
+JS56	Jammu	Vashishta	Sarasvata	North	L	L	14.3	12	29	21	10	10	10	14	10	10	19	15	15	22	13
+JS57	Jammu	Kasyapa	Sarasvata	North	R1a	R1a	16	12	31	25	10	10	11	14	12	10	20	15	15	24	12
+JS59	Jammu	Vashishta	Sarasvata	North	R1a	R1a	16	12	30	23	10	10	11	14	12	10	20	13	15	24	13
+JS60	Jammu	Kasyapa	Sarasvata	North	R1a	R1a	16	13	31	24	10	10	11	14	11	9	20	15	14	23	12
+JS61	Jammu	Bharadvaja	Sarasvata	North	C3	C3	15	13	29	24	10	10	11	14	10	9	20	17	15	23	12
+JS62	Jammu	Kasyapa	Sarasvata	North	R1a	R1a	16	13	30	22	10	11	11	14	12	9	19	17	15	23	13
+RS1	Rajasthan	Bharadvaja	Sarasvata	North	O3	O3	16	13	32	23	13	10	12	16	10	8	19	14	16	22	11
+RS2	Rajasthan	Bharadvaja	Sarasvata	North	L	L	18	14	32	23	11	11	11	16	10	11	18	18	15	24	11
+RS3	Rajasthan	Visvamitra	Sarasvata	North	R1a	R1a	16	13	30	25	13	11	12	16	12	13	19	16	16	22	13
+RS4	Rajasthan	Bharadvaja	Sarasvata	North	L	L	16	14	30	23	11	10	11	16	10	11	19	18	14	23	11
+RS5	Rajasthan	Bharadvaja	Sarasvata	North	L	L	18	14	32	23	11	11	11	17	10	11	19	18	18	24	12
+RS6	Rajasthan	Bharadvaja	Sarasvata	North	J2b	J2	16	13	32	24	13	10	12	16	10	11	19	14	15	22	11
+RS8	Rajasthan	Visvamitra	Sarasvata	North	R1a	R1a	16	13	30	24	12	11	11	15	11	10	19	16	14	24	12
+RS9	Rajasthan	Visvamitra	Sarasvata	North	J2b	J2	16	13	30	24	13	10	11	16	10	12	19	14	17	22	11
+RS10	Rajasthan	Bharadvaja	Sarasvata	North	R1a	R1a	16	14	33	25	11	11	13	15	12	11	19	16	16	24	13
+RS11	Rajasthan	Bharadvaja	Sarasvata	North	J2b	J2	16	13	32	24	13	11	12	16	10	13	19	14	16	22	11
+RS13	Rajasthan	Visvamitra	Sarasvata	North	L	L	16	13	30	22	12	11	11	17	11	13	19	17	18	24	12
+RS16	Rajasthan	Bharadvaja	Sarasvata	North	O3	O3	18	11	29	24	10	12	11	15	11	11	20	16	16	23	11
+RS18	Rajasthan		Sarasvata	North	J2a4(xbh)	J2	14	13	30	24	10	11	12	14	9	12	19	15	19	21	11
+RS19	Rajasthan	Bharadvaja	Sarasvata	North	R2	R2	15	13	32	24	10	11	12	16	10	10	19	16	17	24	12
+RS20	Rajasthan	Visvamitra	Sarasvata	North	L	L	16	13	32	23	11	11	12	16	10	13	19	14	16	24	12
+RS21	Rajasthan		Sarasvata	North	L	L	16	10	31	23	11	11	10	13	10	12	19	14	14	24	9
+RS22	Rajasthan	Bharadvaja	Sarasvata	North	L	L	16	14	31	22	11	11	11	15	10	12	19	17	16	22	11
+RS23	Rajasthan	Bharadvaja	Sarasvata	North	R1a	R1a	16	14	32	25	11	11	12	15	11	10	19	16	16	24	11
+RS24	Rajasthan	Visvamitra	Sarasvata	North	12a(x12al)	I2a	15	14	32	24	13	11	11	15	11	12	20	16	18	22	12
+RS25	Rajasthan	Bharadvaja	Sarasvata	North	O3	O3	16	11	31	24	12	11	12	17	11	12	19	17	14	23	11
+RS26	Rajasthan		Sarasvata	North	L	L	15	13	29	22	10	14	11	16	10	12	20	13	17	23	11
+RS27	Rajasthan	Bharadvaja	Sarasvata	North	R1a	R1a	15	14	32	25	10	11	14	14	11	10	19	15	17	23	13
+RS28	Rajasthan	Visvamitra	Sarasvata	North	12a(x12al)	I2a	18	13	32	24	13	11	12	16	10	11	19	14	16	22	12
+RS29	Rajasthan	Bharadvaja	Sarasvata	North	12a(x12al)	I2a	16	13	31	24	13	11	12	16	10	11	20	14	16	24	11
+RS30	Rajasthan	Bharadvaja	Sarasvata	North	J2b	J2	16	13	32	23	13	10	12	16	10	12	19	14	16	22	11
+RS31	Rajasthan	Visvamitra	Sarasvata	North	J2b	J2	15	13	32	24	12	11	12	16	11	12	19	14	16	22	11
+RS45	Rajasthan	Visvamitra	Sarasvata	North	R1a	R1a	16	13	32	24	12	11	12	16	12	10	19	16	14	24	12
+RS46	Rajasthan	Visvamitra	Sarasvata	North	L	L	18	14	32	23	11	11	11	16	10	12	18	18	14	24	11
+RS47	Rajasthan	Bharadvaja	Sarasvata	North	L	L	16	15	32	22	11	11	11	15	10	12	19	16	18	22	12
+RS48	Rajasthan	Visvamitra	Sarasvata	North	R1a	R1a	16	13	31	25	13	11	11	15	12	11	20	16	14	24	12
+RS49	Rajasthan	Visvamitra	Sarasvata	North	L	L	16	15	32	22	10	10	11	15	10	11	19	16	18	22	12
+RS50	Rajasthan		Sarasvata	North	L	L	18	14	32	23	11	10	10	16	10	11	18	18	14	24	11
+RS52	Rajasthan	Kasyapa	Sarasvata	North	L	L	15	16	24	24	10	11	11	15	10	12	19	16	18	22	11
+RS53	Rajasthan	Bharadvaja	Sarasvata	North	R2	R2	15	14	32	24	10	10	14	14	12	10	19	15	16	24	13
+RS54	Rajasthan	Bharadvaja	Sarasvata	North	R1a	R1a	15	14	31	24	11	10	12	14	11	11	20	15	16	23	12
+RS55	Rajasthan	Bharadvaja	Sarasvata	North	J2a4b	J2	14	14	32	23	9	10	10	14	9	12	19	16	18	22	11
+RS56	Rajasthan	Bharadvaja	Sarasvata	North	H	H	14.3	13	29	21	10	10	10	14	9	11	19	14	16	21	12
+RS57	Rajasthan	Bharadvaja	Sarasvata	North	L	L	14	12	29	21	10	14	10	15	10	12	19	15	15	24	12
+RS59	Rajasthan	Bharadvaja	Sarasvata	North	J2a4b	J2	17	14	31	23	10	11	12	15	9	11	18	17	16	23	11
+RS60	Rajasthan	Bharadvaja	Sarasvata	North	G1	G	16	12	29	24	10	12	13	16	10	11	21	16	16	22	11
+HAR1	Haryana	Jamadagni	Non_Sarasvata	North	J1	J1	15	12	30	24	10	12	12	16	9	12	21	16	18	21	11
+HAR2	Haryana	Bharadvaja	Non_Sarasvata	North	E1b1a	E1b1	15	15	32	23	10	11	12	14	9	11	21	14	17	23	11
+HAR3	Haryana	Bharadvaja	Non_Sarasvata	North	H	H	16	13	29	22	10	11	12	14	10	12	19	16	16	21	12
+HAR4	Haryana	Jamadagni	Non_Sarasvata	North	L	L	15	13	29	22	10	14	12	16	10	12	20	15	18	21	11
+HAR5	Haryana	Gotama	Non_Sarasvata	North	Q	Q	14	14	29	23	10	12	13	15	11	11	19	16	14	24	11
+HAR6	Haryana	Bharadvaja	Non_Sarasvata	North	R1a	R1a	15	14	32	25	10	11	13	14	12	10	20	15	16	23	13
+HAR7	Haryana	Jamadagni	Non_Sarasvata	North	H	H	15	14	30	22	10	11	12	14	9	11	19	17	17	21	12
+HAR8	Haryana		Non_Sarasvata	North	L	L	14	14	31	23	10	10	15	16	11	12	18	15	18	24	12
+HAR9	Haryana	Bharadvaja	Non_Sarasvata	North	R1b	R1b	14	13	28	25	10	14	12	15	12	12	19	18	17	23	12
+HAR10	Haryana	Bharadvaja	Non_Sarasvata	North	R1a	R1a	15	13	30	25	10	11	13	14	11	10	20	15	16	23	13
+HAR11	Haryana	Bharadvaja	Non_Sarasvata	North	H	H	15	14	30	21	10	11	13	14	9	11	19	17	16	20	11
+HAR12	Haryana	Jamadagni	Non_Sarasvata	North	R1b	R1b	15	14	30	23	10	10	13	16	11	12	19	16	17	25	12
+HAR13	Haryana	Kasyapa	Non_Sarasvata	North	L	L	15	13	29	22	10	14	12	16	10	12	20	15	17	23	11
+HAR14	Haryana	Jamadagni	Non_Sarasvata	North	H	H	15	14	30	22	10	11	12	14	9	12	19	16	18	21	12
+HAR15	Haryana		Non_Sarasvata	North	R1a	R1a	15	13	31	25	11	11	13	14	11	10	20	15	16	23	13
+HAR16	Haryana	Bharadvaja	Non_Sarasvata	North	R1a	R1a	15	13	32	25	11	11	13	14	11	10	20	15	17	23	13
+HAR17	Haryana		Non_Sarasvata	North	12a(x12al)	I2a	15	13	28	24	10	13	13	14	9	11	18	16	17	22	11
+HAR18	Haryana	Gotama	Non_Sarasvata	North	R1a	R1a	17	13	31	25	11	11	13	14	11	10	20	15	16	24	13
+HAR19	Haryana	Kasyapa	Non_Sarasvata	North	L	L	15	14	30	22	10	14	13	16	10	12	19	15	17	22	11
+HAR20	Haryana		Non_Sarasvata	North	E1b1a	E1b1	14	14	30	24	10	11	12	14	9	12	21	14	18	23	11
+HAR21	Haryana		Non_Sarasvata	North	R1a	R1a	16	13	31	24	11	11	13	14	11	10	19	15	17	23	12
+HAR22	Haryana		Non_Sarasvata	North	L	L	15	13	29	22	10	14	12	16	10	12	20	14	18	23	11
+HAR23	Haryana	Visvamitra	Non_Sarasvata	North	Q	Q	15	12	30	24	10	14	14	14	11	11	19	15	16	22	12
+HAR24	Haryana	Gotama	Non_Sarasvata	North	H	H	16	14	30	22	11	11	12	14	10	12	19	16	16	21	12
+HAR25	Haryana	Vashishta	Non_Sarasvata	North	L	L	16	13	29	22	10	14	12	16	10	12	20	15	20	23	11
+HAR26	Haryana	Bharadvaja	Non_Sarasvata	North	R1a	R1a	16	13	31	25	10	11	13	14	11	10	20	15	16	23	13
+HAR27	Haryana	Visvamitra	Non_Sarasvata	North	G2a	G	14	12	29	22	11	12	12	16	10	13	21	15	18	21	10
+HAR28	Haryana		Non_Sarasvata	North	L	L	14	12	29	22	10	14	11	15	11	13	19	16	16	23	12
+HAR29	Haryana		Non_Sarasvata	North	Q	Q	13	13	29	22	10	15	14	15	11	11	19	15	17	24	9
+HAR30	Haryana		Non_Sarasvata	North	J2b	J2	15	12	29	24	10	11	12	15	9	12	19	13	16	21	11
+HAR31	Haryana		Non_Sarasvata	North	R1a	R1a	16	14	32	24	10	11	13	14	11	11	20	15	16	23	13
+HAR32	Haryana		Non_Sarasvata	North	R1a	R1a	15	13	30	24	11	11	13	14	11	10	22	15	16	23	13
+HAR33	Haryana	Vashishta	Non_Sarasvata	North	H	H	15	13	29	22	10	11	12	14	9	11	19	17	17	20	12
+HAR34	Haryana	Bharadvaja	Non_Sarasvata	North	R1a	R1a	15	13	31	25	10	11	13	14	11	11	20	16	19	23	12
+HAR35	Haryana		Non_Sarasvata	North	H	H	16	13	30	23	11	11	12	14	9	12	18	15	15	20	13
+HAR36	Haryana	Visvamitra	Non_Sarasvata	North	H	H	15	14	30	22	10	11	12	14	9	11	19	15	18	20	12
+HAR37	Haryana	Bharadvaja	Non_Sarasvata	North	J2b	J2	15	12	29	24	10	11	13	15	9	13	19	13	17	21	11
+HAR38	Haryana	Kasyapa	Non_Sarasvata	North	L	L	14	12	28	22	10	14	11	15	10	13	17	15	14	21	12
+HAR39	Haryana	Visvamitra	Non_Sarasvata	North	R1a	R1a	17	13	31	24	10	11	13	14	11	11	20	16	15	23	13
+HAR40	Haryana	Bharadvaja	Non_Sarasvata	North	R1a	R1a	15	13	31	25	11	11	13	14	11	10	20	15	17	23	13
+HAR41	Haryana	Vashishta	Non_Sarasvata	North	H	H	16	13	30	22	10	11	12	14	9	12	19	15	16	20	14
+HAR42	Haryana	Visvamitra	Non_Sarasvata	North	G2a	G	14	15	32	23	10	10	15	16	11	12	18	15	17	24	12
+HAR43	Haryana	Bharadvaja	Non_Sarasvata	North	Q	Q	14	13	30	27	10	13	13	15	11	11	18	16	16	23	11
+HAR44	Haryana		Non_Sarasvata	North	L	L	15	13	29	22	10	14	12	16	10	12	18	15	18	22	11
+HAR45	Haryana	Kasyapa	Non_Sarasvata	North	G2a	G	15	14	30	23	10	10	14	16	11	11	19	16	21	25	11
+HAR46	Haryana	Kasyapa	Non_Sarasvata	North	Q	Q	13	13	29	22	10	15	14	16	11	11	19	15	17	24	9
+HAR47	Haryana		Non_Sarasvata	North	R1a	R1a	15	13	31	25	10	11	13	14	11	11	20	15	16	23	12
+HAR48	Haryana	Visvamitra	Non_Sarasvata	North	R1a	R1a	15	14	32	25	10	11	13	14	11	10	20	15	17	23	12
+HAR49	Haryana	Bharadvaja	Non_Sarasvata	North	E1b1a	E1b1	15	13	30	22	10	11	12	14	10	10	19	16	18	17	12
+HAR50	Haryana	Bharadvaja	Non_Sarasvata	North	L	L	14	14	32	23	10	10	15	16	11	13	19	16	17	26	12
+HAR51	Haryana	Visvamitra	Non_Sarasvata	North	R1a	R1a	16	13	31	25	10	12	13	14	11	11	20	16	15	23	13
+HAR52	Haryana	Gotama	Non_Sarasvata	North	R1a	R1a	17	13	31	25	11	11	13	14	11	10	20	15	16	24	13
+HAR53	Haryana		Non_Sarasvata	North	R1a	R1a	16	13	31	24	10	11	13	14	11	11	20	15	17	23	12
+HAR54	Haryana	Vashishta	Non_Sarasvata	North	J2b	J2	15	12	28	24	10	11	12	15	9	12	18	13	16	22	11
+HAR55	Haryana	Kasyapa	Non_Sarasvata	North	R1a	R1a	16	13	30	25	11	11	13	14	11	11	20	15	17	23	12
+HAR56	Haryana	Visvamitra	Non_Sarasvata	North	R1a	R1a	16	13	30	25	10	11	13	14	11	10	20	15	16	23	13
+HAR57	Haryana	Bharadvaja	Non_Sarasvata	North	R1a	R1a	15	14	31	25	10	11	13	14	11	10	20	15	16	23	13
+HAR58	Haryana	Gotama	Non_Sarasvata	North	R1a	R1a	15	12	31	25	11	11	13	14	11	10	19	15	17	23	11
+HAR59	Haryana	Visvamitra	Non_Sarasvata	North	R1a	R1a	15	13	31	25	11	11	13	14	11	11	20	15	16	23	12
+HAR60	Haryana	Visvamitra	Non_Sarasvata	North	R1a	R1a	15	13	30	25	10	11	13	14	11	10	20	15	16	23	13
+HAR61	Haryana		Non_Sarasvata	North	R1a	R1a	15	13	28	25	10	11	13	14	11	11	20	15	16	23	12
+HAR62	Haryana	Kasyapa	Non_Sarasvata	North	J1	J1	14	13	28	23	10	11	13	14	9	11	20	15	16	22	12
+HAR63	Haryana	Visvamitra	Non_Sarasvata	North	R1a	R1a	16	13	30	24	10	11	13	14	11	10	20	15	15	23	13
+HAR64	Haryana	Kasyapa	Non_Sarasvata	North	Q	Q	13	13	29	22	10	15	14	15	11	11	19	15	17	24	9
+HAR65	Haryana	Bharadvaja	Non_Sarasvata	North	R1a	R1a	14	12	30	25	11	11	13	14	11	11	20	15	16	23	13
+HAR66	Haryana	Bharadvaja	Non_Sarasvata	North	R1a	R1a	15	13	30	25	10	11	13	14	11	10	20	15	16	23	12
+HAR67	Haryana	Kasyapa	Non_Sarasvata	North	R1a	R1a	16	13	31	25	11	11	13	14	11	11	21	16	16	23	13
+HAR68	Haryana	Bharadvaja	Non_Sarasvata	North	L	L	15	14	30	23	10	10	14	16	11	11	19	16	19	25	11
+HAR69	Haryana	Bharadvaja	Non_Sarasvata	North	R1a	R1a	16	14	32	25	11	11	13	14	11	11	20	15	17	23	12
+HAR70	Haryana	Vashishta	Non_Sarasvata	North	R1a	R1a	16	12	30	25	11	11	13	14	11	10	21	17	16	23	13
+HAR71	Haryana	Jamadagni	Non_Sarasvata	North	R1a	R1a	16	13	30	25	10	11	13	15	11	10	21	15	17	23	12
+HAR72	Haryana		Non_Sarasvata	North	H	H	15	14	30	22	10	11	12	14	9	11	19	15	17	21	12
+HAR73	Haryana	Vashishta	Non_Sarasvata	North	R1a	R1a	16	12	30	25	11	11	13	14	11	10	21	17	16	23	13
+HAR74	Haryana	Bharadvaja	Non_Sarasvata	North	H	H	16	14	30	22	10	11	12	14	10	12	20	16	17	21	12
+HAR75	Haryana	Jamadagni	Non_Sarasvata	North	R1a	R1a	15	13	31	24	10	11	14	14	11	11	20	17	17	21	12
+HAR76	Haryana	Visvamitra	Non_Sarasvata	North	Q	Q	15	12	31	24	10	14	14	14	11	12	19	15	16	22	12
+HAR77	Haryana	Bharadvaja	Non_Sarasvata	North	L	L	14	13	29	23	10	10	14	16	11	10	19	16	16	24	12
+HAR78	Haryana	Bharadvaja	Non_Sarasvata	North	R1a	R1a	15	14	31	25	11	11	13	14	11	10	20	15	16	23	13
+HAR79	Haryana		Non_Sarasvata	North	E1b1a	E1b1	14	13	30	23	10	12	13	14	9	11	20	15	15	22	12
+HAR80	Haryana		Non_Sarasvata	North	R1a	R1a	15	13	29	24	11	11	14	14	11	10	20	15	15	23	13
+HAR81	Haryana	Bharadvaja	Non_Sarasvata	North	Q	Q	13	14	30	22	10	15	13	15	11	11	19	15	17	23	10
+HAR82	Haryana		Non_Sarasvata	North	R1a	R1a	15	13	29	24	11	11	14	14	11	10	20	15	15	23	13
+HAR83	Haryana		Non_Sarasvata	North	L	L	14	12	29	22	10	14	11	15	10	12	19	17	16	23	12
+HAR84	Haryana	Bharadvaja	Non_Sarasvata	North	R1a	R1a	16	13	30	25	10	11	13	14	11	11	21	14	17	23	12
+HAR85	Haryana	Bharadvaja	Non_Sarasvata	North	R1a	R1a	16	13	31	24	12	11	14	14	11	11	20	15	16	23	13
+HAR86	Haryana		Non_Sarasvata	North	12a(x12al)	I2a	15	12	29	23	11	12	14	15	10	11	21	15	16	23	11
+HAR87	Haryana	Vashishta	Non_Sarasvata	North	R1a	R1a	16	13	31	25	10	11	14	14	11	10	20	15	15	23	12
+HAR88	Haryana	Bharadvaja	Non_Sarasvata	North	12a(x12al)	I2a	15	12	29	23	11	12	14	15	10	11	21	15	16	23	11
+HAR89	Haryana		Non_Sarasvata	North	L	L	15	14	29	22	10	14	12	16	11	13	19	15	16	22	11
+HAR90	Haryana	Gotama	Non_Sarasvata	North	R1a	R1a	16	13	30	25	10	11	13	14	11	10	20	15	17	23	18
+HAR91	Haryana	Visvamitra	Non_Sarasvata	North	R1a	R1a	15	15	32	26	11	11	13	14	11	10	20	15	17	24	12
+HAR92	Haryana	Bharadvaja	Non_Sarasvata	North	E1b1a	E1b1	14	13	26	24	10	11	12	14	9	12	20	14	19	22	11
+HAR93	Haryana		Non_Sarasvata	North	R1a	R1a	15	14	31	26	10	11	13	14	11	10	20	15	16	23	13
+HAR94	Haryana	Bharadvaja	Non_Sarasvata	North	R1a	R1a	15	14	31	25	11	11	13	14	11	10	20	15	16	23	12
+HAR95	Haryana	Bharadvaja	Non_Sarasvata	North	J2b	J2	15	14	30	24	10	11	12	15	8	11	19	16	19	22	11
+HAR96	Haryana	Visvamitra	Non_Sarasvata	North	J2b	J2	15	12	29	24	10	11	12	15	9	13	19	13	18	20	11
+HAR97	Haryana	Vashishta	Non_Sarasvata	North	R1a	R1a	16	14	33	25	11	11	13	14	12	10	20	15	16	23	13
+HAR98	Haryana		Non_Sarasvata	North	R1a	R1a	16	13	30	24	11	11	13	14	11	11	22	15	16	23	11
+HAR99	Haryana	Visvamitra	Non_Sarasvata	North	Q	Q	15	12	30	24	10	14	14	14	11	11	19	15	17	22	12
+KN07	Konkani		Sarasvata	West	I2a	I2a	15	14	30	21	9	11	13	16	10	12	19	16	17	25	12
+KN078	Konkani		Sarasvata	West	L	L	15	14	30	21	9	11	13	16	10	12	19	16	17	23	12
+KN011	Konkani	Bharadvaja	Sarasvata	West	I2a	I2a	15	13	29	21	9	11	13	16	10	12	9	15	17	23	12
+KN069	Konkani	Bharadvaja	Sarasvata	West	R1a	R1a	17	13	31	26	11	11	13	14	11	10	20	16	15	23	13
+SAR23	Konkani	Bharadvaja	Sarasvata	West	J2a	J2	15	13	30	23	10	11	13	14	9	11	20	15	16	21	13
+SAR24	Konkani	Bharadvaja	Sarasvata	West	J2a	J2	17	14	31	23	10	11	12	15	9	11	18	17	16	23	11
+SAR70	Konkani	Bharadvaja	Sarasvata	West	J2a	J2	15	13	29	23	10	11	12	14	9	11	18	15	16	23	11
+SAR73	Konkani	Bharadvaja	Sarasvata	West	J2a	J2	16	12	28	23	10	11	12	15	9	11	19	14	20	21	11
+SAR78	Konkani	Bharadvaja	Sarasvata	West	R1a	R1a	15	13	30	25	11	11	13	14	11	11	20	15	16	23	14
+SAR80	Konkani	Bharadvaja	Sarasvata	West	R1a	R1a	16	13	30	26	11	11	13	14	11	11	19	15	16	23	12
+SAR84	Konkani	Bharadvaja	Sarasvata	West	J2a	J2	15	13	30	23	10	11	12	14	9	11	19	15	15	23	12
+SAR108	Konkani	Bharadvaja	Sarasvata	West	J2a	J2	15	13	30	24	10	11	13	14	9	11	20	15	16	21	12
+SAR109	Konkani	Bharadvaja	Sarasvata	West	R1a	R1a	16	13	31	23	10	11	13	14	11	10	20	15	16	23	13
+KN02	Konkani	Jamadagni	Sarasvata	West	E1b1a	E1b1	15	14	30	21	9	11	13	16	10	12	19	16	18	23	12
+KN013	Konkani	Jamadagni	Sarasvata	West	J2b	J2	15	13	29	22	10	11	12	14	9	11	19	15	16	20	12
+KN017	Konkani	Jamadagni	Sarasvata	West	R1a	R1a	16	13	31	24	11	11	13	14	11	11	20	16	16	23	13
+KN025	Konkani	Jamadagni	Sarasvata	West	R1a	R1a	16	12	30	25	11	11	13	14	11	11	20	16	16	23	11
+KN031	Konkani	Jamadagni	Sarasvata	West	R1a	R1a	16	12	30	25	11	11	13	14	11	11	20	15	16	23	11
+KN058	Konkani	Jamadagni	Sarasvata	West	R1a	R1a	16	13	31	25	11	11	13	14	11	11	21	15	16	23	11
+KN080	Konkani	Jamadagni	Sarasvata	West	R1a	R1a	16	13	30	25	11	11	13	14	11	10	20	15	15	23	11
+SAR46	Konkani	Jamadagni	Sarasvata	West	L	L	15	12	28	22	10	14	11	15	10	14	19	15	15	24	12
+SAR50	Konkani	Jamadagni	Sarasvata	West	R1a	R1a	16	13	31	25	11	11	13	14	11	11	21	15	16	23	11
+SAR53	Konkani	Jamadagni	Sarasvata	West	Q	Q	15	13	30	24	10	14	13	14	11	12	19	14	18	22	12
+SAR90	Konkani	Jamadagni	Sarasvata	West	L	L	15	12	28	22	10	14	11	15	10	13	19	15	14	25	13
+SAR104	Konkani	Jamadagni	Sarasvata	West	R1a	R1a	15	14	31	26	10	11	13	14	11	10	20	16	15	24	13
+SAR105	Konkani	Jamadagni	Sarasvata	West	Q	Q	13	13	30	25	10	13	13	15	12	12	19	16	16	23	12
+SAR114	Konkani	Jamadagni	Sarasvata	West	Q	Q	14	13	30	24	10	14	13	14	11	12	19	14	18	22	12
+KN05	Konkani	Kasyapa	Sarasvata	West	L	L	15	12	28	22	10	14	11	14	10	14	19	15	14	24	12
+KN06	Konkani	Kasyapa	Sarasvata	West	J2b	J2	15	12	28	24	12	11	12	15	9	11	19	13	18	20	11
+KN012	Konkani	Kasyapa	Sarasvata	West	L	L	14	12	28	22	10	14	11	14	10	11	19	16	16	25	13
+KN064	Konkani	Kasyapa	Sarasvata	West	E1b1a	E1b1	16	12	29	21	10	11	14	16	10	12	20	16	18	21	11
+KN090	Konkani	Kasyapa	Sarasvata	West	R1a	R1a	16	14	31	25	11	11	13	14	11	11	20	15	16	23	12
+SAR52	Konkani	Kasyapa	Sarasvata	West	R1a	R1a	17	14	33	25	11	12	13	14	11	10	20	16	15	24	12
+SAR107	Konkani	Kasyapa	Sarasvata	West	R1a	R1a	17	13	31	26	11	11	13	14	11	10	19	15	16	23	12
+KN01	Konkani	Vashishta	Sarasvata	West	R1a	R1a	16	12	29	25	11	11	13	14	11	11	20	15	16	23	11
+KN04	Konkani	Vashishta	Sarasvata	West	R1a	R1a	15	14	31	24	10	11	13	14	11	10	20	15	16	23	12
+KN09	Konkani	Vashishta	Sarasvata	West	R1a	R1a	14	14	30	24	10	11	13	14	11	11	19	15	16	23	13
+KN010	Konkani	Vashishta	Sarasvata	West	L	L	15	14	30	21	9	11	12	16	10	12	19	15	17	23	12
+KN018	Konkani	Vashishta	Sarasvata	West	R1a	R1a	16	13	29	25	11	11	13	14	11	10	20	15	16	24	13
+KN019	Konkani	Vashishta	Sarasvata	West	R1a	R1a	16	13	30	24	11	11	13	14	11	10	19	16	16	23	13
+KN033	Konkani	Vashishta	Sarasvata	West	R1a	R1a	15	14	31	24	10	11	13	14	11	10	20	15	17	23	12
+KN035	Konkani	Vashishta	Sarasvata	West	J2a	J2	15	14	30	22	10	11	12	14	9	11	19	15	16	20	12
+KN050	Konkani	Vashishta	Sarasvata	West	R1a	R1a	16	14	32	25	11	11	13	14	11	10	20	17	15	24	12
+KN057	Konkani	Vashishta	Sarasvata	West	R1a	R1a	15	14	31	24	10	11	13	14	11	10	20	15	16	23	12
+KN060	Konkani	Vashishta	Sarasvata	West	R1a	R1a	16	13	29	25	11	11	13	14	11	10	20	15	15	23	12
+KN066	Konkani	Vashishta	Sarasvata	West	R1a	R1a	15	14	31	24	10	11	13	14	11	10	20	15	16	23	12
+KN067	Konkani	Vashishta	Sarasvata	West	R1a	R1a	16	14	32	25	11	11	13	14	11	10	20	17	15	24	12
+KN071	Konkani	Vashishta	Sarasvata	West	R1a	R1a	16	13	29	25	11	11	13	14	11	10	20	15	16	23	13
+KN076	Konkani	Vashishta	Sarasvata	West	J2b	J2	15	13	29	22	10	11	12	14	9	11	19	15	16	20	12
+SAR17	Konkani	Vashishta	Sarasvata	West	Q	Q	15	12	29	24	9	14	14	14	11	14	19	15	16	22	12
+SAR42	Konkani	Vashishta	Sarasvata	West	Q	Q	14	13	30	23	10	14	13	14	11	12	19	14	17	22	11
+SAR58	Konkani	Vashishta	Sarasvata	West	R1a	R1a	16	13	31	25	11	11	13	14	11	11	21	15	16	23	11
+SAR59	Konkani	Vashishta	Sarasvata	West	R2	R2	15	13	31	23	10	10	14	16	11	11	19	16	17	26	11
+SAR66	Konkani	Vashishta	Sarasvata	West	R1a	R1a	15	13	30	25	11	11	13	14	11	10	20	15	17	23	12
+SAR76	Konkani	Vashishta	Sarasvata	West	Q	Q	13	13	30	25	10	13	13	15	12	12	19	16	16	23	12
+SAR86	Konkani	Vashishta	Sarasvata	West	Q	Q	14	13	32	24	10	14	13	14	11	13	19	15	17	22	12
+SAR88	Konkani	Vashishta	Sarasvata	West	L	L	15	12	28	22	10	14	11	15	10	13	19	15	14	24	12
+SAR89	Konkani	Vashishta	Sarasvata	West	R1a	R1a	16	13	29	25	11	11	13	14	11	10	20	15	16	23	14
+SAR98	Konkani	Vashishta	Sarasvata	West	Q	Q	14	13	30	24	10	14	13	14	11	12	19	14	18	22	12
+SAR99	Konkani	Vashishta	Sarasvata	West	L	L	14	12	29	22	10	14	11	15	10	12	19	16	14	25	12
+SAR103	Konkani	Vashishta	Sarasvata	West	R1a	R1a	16	12	31	25	11	12	13	14	11	10	20	16	15	22	13
+KN036	Konkani	Visvamitra	Sarasvata	West	R1a	R1a	15	14	32	25	10	11	13	14	11	11	20	15	16	24	13
+SAR16	Konkani	Visvamitra	Sarasvata	West	R1a	R1a	16	14	33	25	11	11	13	14	11	10	20	16	15	23	13
+SAR26	Konkani	Visvamitra	Sarasvata	West	R1a	R1a	15	14	32	25	10	11	14	14	11	10	19	15	17	23	13
+SAR30	Konkani	Visvamitra	Sarasvata	West	Q	Q	13	13	30	25	10	13	13	15	12	12	19	16	17	23	12
+SAR72	Konkani	Visvamitra	Sarasvata	West	Q	Q	14	13	30	25	10	13	13	14	11	12	18	16	15	23	11
+SAR85	Konkani	Visvamitra	Sarasvata	West	R1a	R1a	16	13	31	25	11	11	13	14	11	10	20	16	15	23	12
+SAR95	Konkani	Visvamitra	Sarasvata	West	R1a	R1a	16	13	30	25	10	11	13	14	11	10	20	16	15	23	13
+SAR97	Konkani	Visvamitra	Sarasvata	West	Q	Q	13	13	30	25	10	13	13	15	12	12	19	16	16	23	12
+SAR101	Konkani	Visvamitra	Sarasvata	West	R1a	R1a	16	14	33	25	11	11	13	14	11	10	20	16	15	23	13
+ArKu1	Sourashtra	Dravidian	Non_Sarasvata	South		C5	13	13	28	25	10	11	13	14	10	12	20	15	17	21	11
+ArKu2	Sourashtra	Dravidian	Non_Sarasvata	South		C5	14	13	28	25	10	11	13	14	10	12	20	15	17	21	11
+ArKu3	Sourashtra	Dravidian	Non_Sarasvata	South		C5	14	13	28	25	10	11	13	14	10	12	20	15	17	21	11
+ArKu4	Sourashtra	Dravidian	Non_Sarasvata	South		H1	16	14	30	22	10	9	12	14	9	11	19	15	16	20	12
+ArKu5	Sourashtra	Dravidian	Non_Sarasvata	South		H1	16	14	30	22	10	9	12	14	9	11	19	15	16	20	12
+ArKu6	Sourashtra	Dravidian	Non_Sarasvata	South		H1	17	15	32	22	10	9	12	14	9	11	19	15	16	20	12
+ArKu7	Sourashtra	Dravidian	Non_Sarasvata	South		H1	17	15	32	22	10	9	12	14	9	11	19	15	16	20	12
+ArKu8	Sourashtra	Dravidian	Non_Sarasvata	South		H1	15	13	30	22	10	11	12	14	9	11	19	15	17	20	11
+ArKu9	Sourashtra	Dravidian	Non_Sarasvata	South		H1	16	13	29	22	10	11	12	14	9	11	18	16	16	20	12
+ArKu10	Sourashtra	Dravidian	Non_Sarasvata	South		H1	16	13	29	22	10	11	12	14	9	12	19	15	15	21	11
+ArKu11	Sourashtra	Dravidian	Non_Sarasvata	South		H1	16	13	29	22	10	11	12	14	9	11	19	15	17	22	12
+ArKu12	Sourashtra	Dravidian	Non_Sarasvata	South		H1	15	13	30	22	10	11	12	14	9	11	19	15	19	22	12
+ArKu13	Sourashtra	Dravidian	Non_Sarasvata	South		H1	15	13	29	22	10	11	12	14		11	19	15	16	22	12
+ArKu14	Sourashtra	Dravidian	Non_Sarasvata	South		J2	14	12	29	23	10	12	14	15	9	11	20	15	16	21	12
+ArKu15	Sourashtra	Dravidian	Non_Sarasvata	South		L1	14	12	28	22	10	14	11	15	10	12	19	17	15	21	12
+ArKu16	Sourashtra	Dravidian	Non_Sarasvata	South		L1	14	12	28	22	10	14	11	15	10	12	19	17	15	22	12
+ArKu17	Sourashtra	Dravidian	Non_Sarasvata	South		L1	14	12	28	22	10	14	11	15	10	12	19	17	15	22	12
+ArKu18	Sourashtra	Dravidian	Non_Sarasvata	South		L1	14	12	28	22	10	14	11	15	10	12	19	17	15	22	12
+ArKu19	Sourashtra	Dravidian	Non_Sarasvata	South		L1	14	11	27	22	10	14	11	15	10	12	19	17	15	23	12
+ArKu20	Sourashtra	Dravidian	Non_Sarasvata	South		L1	14	11	27	22	10	14	11	15	10	12	19	17	16	23	12
+ArKu21	Sourashtra	Dravidian	Non_Sarasvata	South		L1	14	11	27	22	10	14	11	15	10	12	19	17	16	24	12
+ArKu22	Sourashtra	Dravidian	Non_Sarasvata	South		L1	14			22	10	14	11	15	10	12	19	17	16	23	12
+ArKu23	Sourashtra	Dravidian	Non_Sarasvata	South		R1a1	16	13	31	26	11	11	13	14	11	10	20	15	17	22	11
+ArKu24	Sourashtra	Dravidian	Non_Sarasvata	South		R1a1	15	14	31	25	10	11	13	14	11	10	20	15	16	23	12
+ArKu25	Sourashtra	Dravidian	Non_Sarasvata	South		R1a1	16	13	31	26	11	11	13	14	11	10	20	15	17	23	11
+ArKu26	Sourashtra	Dravidian	Non_Sarasvata	South		R1a1	16	13	31	25	11	11	13	14	11	10	20	15	18	23	11
+ArKu27	Sourashtra	Dravidian	Non_Sarasvata	South		R1a1	17	13	30	24	11	11	13	14	11	10	20	15	16	23	12
+ArKu28	Sourashtra	Dravidian	Non_Sarasvata	South		R1a1	15	14	31	25	10	12	13	14	11	10	20	15	16	23	12
+ArKu29	Sourashtra	Dravidian	Non_Sarasvata	South		R1a1	15	14	31	25	10	12	13	14	11	10	19	15	16	23	13
+ArKu30	Sourashtra	Dravidian	Non_Sarasvata	South		R1a1	15	14	31	25	10	12	14	14	11	10	20	15	16	23	13
+ArKu31	Sourashtra	Dravidian	Non_Sarasvata	South		R1a1	15	14	31	25	10	12	14	14	11	10	20	15	16	23	13
+ArKu32	Sourashtra	Dravidian	Non_Sarasvata	South		R1a1	15	14	30	25	11	12	14	14	11	10	20	15	16	23	13
+ArKu33	Sourashtra	Dravidian	Non_Sarasvata	South		R1a1	15	14	30	25	11	12	14	14	11	10	20	15	17	23	13
+ArKu34	Sourashtra	Dravidian	Non_Sarasvata	South		R1a1	15	14	30	25	11	12	14	14	11	10	20	15	17	23	13
+ArKu35	Sourashtra	Dravidian	Non_Sarasvata	South		R1a1	16	13	31	26	11	11	13	14	11	11	20	15	17	23	11
+ArKu36	Sourashtra	Dravidian	Non_Sarasvata	South		R1a1	15	13	32	25	11	11	13	14	11	11	20	17	15	23	14
+ArKu37	Sourashtra	Dravidian	Non_Sarasvata	South		R1a1	16	13	31	26	11	11	13	14	11	12	20	15	18	23	11
+ArKu38	Sourashtra	Dravidian	Non_Sarasvata	South		R1a1	15	14	31	25	10	11	13	14	11	10	20	15	16	24	13
+ArKu39	Sourashtra	Dravidian	Non_Sarasvata	South		R2	14	13	31	23	11	10	14	16	11	12	19	15	16	25	12
+ArKu40	Sourashtra	Dravidian	Non_Sarasvata	South		R2	14	14	30	23	10	10	14	16	11	11	20	15	17	24	11
+ArKu41	Brahacharanam Brahmin	Dravidian	Non_Sarasvata	South		H1	15	14	30	22	10	11	12	14	9	11	20	16	18	21	12
+ArKu42	Brahacharanam Brahmin	Dravidian	Non_Sarasvata	South		H1	15	13	30	22	10	11	12	14	9	12	18	15	15	21	10
+ArKu43	Brahacharanam Brahmin	Dravidian	Non_Sarasvata	South		H2	15	14	29	22	10	11	13	15	10	15	19	15	17	22	11
+ArKu44	Brahacharanam Brahmin	Dravidian	Non_Sarasvata	South		H2	16	13	29	21	10	11	14	15	10	11	19	15	17	21	11
+ArKu45	Brahacharanam Brahmin	Dravidian	Non_Sarasvata	South		J2	15	12	28	25	10	11	13	15	9	11	19	13	17	22	11
+ArKu46	Brahacharanam Brahmin	Dravidian	Non_Sarasvata	South		J2	14	14	30	23	10	11	12	16	9		21	15	16	22	12
+ArKu47	Brahacharanam Brahmin	Dravidian	Non_Sarasvata	South		J2	15	13	28	25	10		13	15	9	11	19	13	17	22	11
+ArKu48	Brahacharanam Brahmin	Dravidian	Non_Sarasvata	South		L1	14	12	28	22	10	14	11	15	10	13	19	15	14	23	12
+ArKu49	Brahacharanam Brahmin	Dravidian	Non_Sarasvata	South		P*	15	13	31	25	11	11	13	14	11	10	20	16	14	23	12
+ArKu50	Brahacharanam Brahmin	Dravidian	Non_Sarasvata	South		R*	18	13	30	22	10	11	13	15	10	13	19	17	16	21	12
+ArKu51	Brahacharanam Brahmin	Dravidian	Non_Sarasvata	South		R*	15	14	30	23	11	13	12	15	12	13	19	16	16	23	13
+ArKu52	Brahacharanam Brahmin	Dravidian	Non_Sarasvata	South		R*	16	13	31	24	10		13	14	11	10	20	16	15	23	13
+ArKu53	Brahacharanam Brahmin	Dravidian	Non_Sarasvata	South		R*	15	14	30	23	11		12	15	12	13	19	17	16	23	13
+ArKu54	Brahacharanam Brahmin	Dravidian	Non_Sarasvata	South		R1a1	15	13	30	26	11	11	13	14	12	10	19	15	16	23	13
+ArKu55	Brahacharanam Brahmin	Dravidian	Non_Sarasvata	South		R1a1	15	14	31	24	10	11	15	14	11	11	20	16	16	23	13
+ArKu56	Brahacharanam Brahmin	Dravidian	Non_Sarasvata	South		R1a1	16	13	31	25	10	11	13	14	11	10	20	17	14	23	13
+ArKu57	Brahacharanam Brahmin	Dravidian	Non_Sarasvata	South		R1a1	15	14	31	25	10	11	13	14	11	10	20	14	17	23	13
+ArKu58	Brahacharanam Brahmin	Dravidian	Non_Sarasvata	South		R1a1	16	13	31	25	11	11	13	14	11	10	21	17	14	23	13
+ArKu59	Brahacharanam Brahmin	Dravidian	Non_Sarasvata	South		R1a1	16	13	30	25	11	11	13	14	11	10	20	15	15	23	12
+ArKu60	Brahacharanam Brahmin	Dravidian	Non_Sarasvata	South		R1a1	16	13	31	24	11	11	13	14	11	10	20	15	15	23	13
+ArKu61	Brahacharanam Brahmin	Dravidian	Non_Sarasvata	South		R2	15	13	28	24	10		13	16	11	10	19	15	19	24	12
+ArKu62	Iyengar Brahmin	Dravidian	Non_Sarasvata	South		G	15	12	28	22	10	11	16	16	10	13	21	16	17	21	12
+ArKu63	Iyengar Brahmin	Dravidian	Non_Sarasvata	South		G	15	12	28	22	10	11	15	16	10	13	21	15	17	21	12
+ArKu64	Iyengar Brahmin	Dravidian	Non_Sarasvata	South		G	16	12		22	10	11	16	16	10	12	21		16	20
+ArKu65	Iyengar Brahmin	Dravidian	Non_Sarasvata	South		H1	15	14	30	22	10	11	12	14	9	11	19	16	16	20	12
+ArKu66	Iyengar Brahmin	Dravidian	Non_Sarasvata	South		J2	15	13	29	22	10	11	13	15	9	11	20	16	16	21	13
+ArKu67	Iyengar Brahmin	Dravidian	Non_Sarasvata	South		J2	14	13	29	23	10	11	12	14	9	11	21	14	19	23	11
+ArKu68	Iyengar Brahmin	Dravidian	Non_Sarasvata	South		K*	15	12	30	23	10	14	14	14	11	11	19	15	16	22	11
+ArKu69	Iyengar Brahmin	Dravidian	Non_Sarasvata	South		R1a1	15	14	30	25	10	11	13	14	11	10	21	15	18	23	12
+ArKu70	Iyengar Brahmin	Dravidian	Non_Sarasvata	South		R1a1	16	13	31	25	10	11	14	14	11	10	20	15	16	23	14
+ArKu71	Iyengar Brahmin	Dravidian	Non_Sarasvata	South		R1a1	15	13	30	26	11	11	13	14	12	11	19	15	17	23	14
+ArKu72	Iyengar Brahmin	Dravidian	Non_Sarasvata	South		R1a1	16	13	30	25	11	11	13	14	11	10	20	16	15	24	13
+ArKu73	VadamaBrahmin	Dravidian	Non_Sarasvata	South		K*	16	13	31	25	10	12	13	14	11	10	20	16	15	23	12
+ArKu74	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R*	15	13	28	24	10	10	13	16	11	10	19	15	19	24	12
+ArKu75	VadamaBrahmin	Dravidian	Non_Sarasvata	South		C5	15	12	29	23	11	11	14	14	11	11	18	14	18	21	12
+ArKu76	VadamaBrahmin	Dravidian	Non_Sarasvata	South		C5	15	12	28	23	11	11	14	14	11	11	19	15	18	22	12
+ArKu77	VadamaBrahmin	Dravidian	Non_Sarasvata	South		F*	14	12	28	22	10	14	11	15	11	12	19	16	15	24	12
+ArKu78	VadamaBrahmin	Dravidian	Non_Sarasvata	South		G	14	12	28	22	10	14	11	14	10	12	19	15	16	24	12
+ArKu79	VadamaBrahmin	Dravidian	Non_Sarasvata	South		G	15	13	29	22	10	12	12	14	9	12	19	17	18	20	11
+ArKu80	VadamaBrahmin	Dravidian	Non_Sarasvata	South		G	15	12	28	22	10	11	14	16	10	14	21	15	16	21	12
+ArKu81	VadamaBrahmin	Dravidian	Non_Sarasvata	South		H1	14	13	28	24	10	10	14	14	11	10	20	15	17	24	12
+ArKu82	VadamaBrahmin	Dravidian	Non_Sarasvata	South		H1	15	14	31	25	11	13	13	14	11	10	20	15	16	24	12
+ArKu83	VadamaBrahmin	Dravidian	Non_Sarasvata	South		H1	15	14	30	20	9	11	13	16	10	13	19	16	17	24	12
+ArKu84	VadamaBrahmin	Dravidian	Non_Sarasvata	South		H1	15	14	30	22	10	11	12	14	9	11	19	15	18	21	13
+ArKu85	VadamaBrahmin	Dravidian	Non_Sarasvata	South		H1	15	13	29	22	10		12	14	9	11	19	17	17	21	12
+ArKu86	VadamaBrahmin	Dravidian	Non_Sarasvata	South		H2	15	13	30	20	9	11	13	16	10	13	19	17	17	24	12
+ArKu87	VadamaBrahmin	Dravidian	Non_Sarasvata	South		H2	15	14	29	22	10	11	13	15	10	14	19	15	17	22	11
+ArKu88	VadamaBrahmin	Dravidian	Non_Sarasvata	South		J2	14	13	30	24	10	13	13	14	9	11	20	16	15	20	12
+ArKu89	VadamaBrahmin	Dravidian	Non_Sarasvata	South		J2	15	12	28	23	10	11	12	15	10	12	19	14	17	21	12
+ArKu90	VadamaBrahmin	Dravidian	Non_Sarasvata	South		J2	16	12	28	23	9		12	15	10	12	19	14	19	21
+ArKu91	VadamaBrahmin	Dravidian	Non_Sarasvata	South		L1	13	12	28	22	10	14	11	15	11	12	19	16	16	24	12
+ArKu92	VadamaBrahmin	Dravidian	Non_Sarasvata	South		L1	14	12	28	22	10	14	11	15	10	12	19	15	15	25	12
+ArKu93	VadamaBrahmin	Dravidian	Non_Sarasvata	South		L1	14	12	28	22	10	14	11	15	11	12	19	16	15	25	12
+ArKu94	VadamaBrahmin	Dravidian	Non_Sarasvata	South		L1	14	12	28	22	10	14	11	15	11	13	19	16	16	25	12
+ArKu95	VadamaBrahmin	Dravidian	Non_Sarasvata	South		L1	14	12	28	22	10	14	12	15	10	12	19	15	15	25	12
+ArKu96	VadamaBrahmin	Dravidian	Non_Sarasvata	South		L1	14	12	28	22	10	14	11	14	11	13	18	16	15	22	11
+ArKu97	VadamaBrahmin	Dravidian	Non_Sarasvata	South		L1	14	14	30	23	10	10	13	16	12	11	19	15	18	25	11
+ArKu98	VadamaBrahmin	Dravidian	Non_Sarasvata	South		L1	14	15	28	22	10	13	11	15	10		19	15	15	26	12
+ArKu99	VadamaBrahmin	Dravidian	Non_Sarasvata	South		L1	14	12	28	22	10		11	15	10	12	19	15	15	25	12
+ArKu100	VadamaBrahmin	Dravidian	Non_Sarasvata	South		L3	15	13	29	22	10	14	12	16	10	12	19	15	18	23	11
+ArKu101	VadamaBrahmin	Dravidian	Non_Sarasvata	South		O	14	12	28	22	10	14	11	15	11	12	19	16	13	24	12
+ArKu102	VadamaBrahmin	Dravidian	Non_Sarasvata	South		O	15	15	29	24	12	10	17	17	11	8	19	15	19.2	25	14
+ArKu103	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R*	14	14	30	24	10	10	13	16	12	11	19	15	18	25	11
+ArKu104	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R*	16	13	31	24	10	10	14	16	11	10	19	15	14	26	11
+ArKu105	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R*	14	13	31	23	10	10	14	15	11	10	19	15	17		12
+ArKu106	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	14	14	31	23	10	14	14	14	11	11	19	16	16	23	12
+ArKu107	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	16	14	32	24	10	11	13	14	11	10	20	16	15	23	12
+ArKu108	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	17	13	31	25	10	11	13	14	11	10	20	15	17	23	12
+ArKu109	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	16	14	31	25	10	11	13	14	11	10	19	15	16	23	13
+ArKu110	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	15	13	30	24	10	11	13	14	12	10	19	15	17	23	13
+ArKu111	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	16	13	31	25	10	11	13	14	11	10	20	15	15	23	13
+ArKu112	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	16	13	31	23	10	11	13	14	11	10	20	16	15	23	13
+ArKu113	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	16	13	30	25	11	11	13	14	11	10	20	15	15	23	12
+ArKu114	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	16	13	30	25	11	11	13	14	11	10	20	15	15	23	12
+ArKu115	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	14.3	14	32	25	11	11	13	14	11	10	20	15	16	23	12
+ArKu116	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	15	14	32	26	11	11	13	14	11	10	20	15	16	23	12
+ArKu117	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	16	13	30	24	11	11	13	14	12	10	20	15	16	23	12
+ArKu118	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	15	13	29	25	11	11	13	14	11	10	20	15	16	23	13
+ArKu119	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	16	13	31	25	11	11	13	14	11	10	21	17	14	23	13
+ArKu120	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	16	13	31	25	10	12	13	14	11	10	20	16	16	23	12
+ArKu121	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	15	14	31	25	10	12	13	14	11	10	20	14	15	23	14
+ArKu122	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	15	14	32	25	10	11	13	14	11	11	21	15	15	23	12
+ArKu123	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	15	13	30	26	10	11	13	14	12	11	19	15	17	23	13
+ArKu124	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	15	13	30	25	10	11	13	14	12	11	19	15	16	23	14
+ArKu125	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	16	13	30	24	11	11	13	14	11	11	20	15	15	23	12
+ArKu126	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	14	13	30	26	11	11	13	14	12	11	19	15	16	23	14
+ArKu127	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	15	13	28	24	10	10	13	16	11	10	19	15	19	24	12
+ArKu128	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	15	14	31	24	10	11	13	14	11	11	20	15	16	24	13
+ArKu129	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	16	13	31	25	11	11	13	14	11	10	20	15	16	23	12
+ArKu130	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	15	14	32	25	10	11	13	14	11	10	20	16	16	23	13
+ArKu131	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	15	14	32	25	10	11	13	14	11	10	20	16	16	23	13
+ArKu132	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	14	14	31	23	10	10	15	16	10	11	19	17	17		12
+ArKu133	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	14	14	32	23	10	10	13	16	12		19	16	18	25	11
+ArKu134	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	15	13	31	25	11		13	14	11	11	20	15	15	23	12
+ArKu135	VadamaBrahmin	Dravidian	Non_Sarasvata	South		R1a1	16	14	32	25	11	11	13	14	11	10	20		15	23	13
+U72	Ukraine72		Europe			R1a1a	16	13	29	26	10	11	13	14	11	9	20	15	15	24	13
+U73	Ukraine73		Europe			R1a1a	15	13	29	24	11	11	13	14	11	10	19	15	16	23	12
+U74	Ukraine74		Europe			R1a1a	16	14	32	25	11	11	13	14	11	10	20	17	15	23	12
+U75	Ukraine75		Europe			R1a1a	15	13	29	25	9	11	13	14	11	10	20	17	15	24	13
+U76	Ukraine76		Europe			R1a1a	16	13	30	25	9	11	13	14	11	11	20	16	15	23	13
+U77	Ukraine77		Europe			R1a1a	16	14	31	25	10	11	13	14	11	10	20	15	15	24	13
+U78	Ukraine78		Europe			R1a1a	16	14	31	25	10	11	13	14	11	10	20	15	15	24	13
+U79	Ukraine79		Europe			R1a1a	16	13	30	25	11	11	13	14	11	10	20	15	16	24	13
+U80	Ukraine80		Europe			R1a1a	15	14	31	25	11	11	13	14	11	10	20	15	15	24	13
+U81	Ukraine81		Europe			R1a1a	16	13	30	24	11	11	13	14	11	11	20	16	15	23	13
+U82	Ukraine82		Europe			R1a1a	15	13	30	25	11	11	13	14	11	10	21	16	15	23	13
+U83	Ukraine83		Europe			R1a1a	16	14	31	25	11	11	13	14	11	8	20	17	15	23	12
+U84	Ukraine84		Europe			R1a1a	17	13	29	24	10	11	13	14	11	11	20	17	17	23	12
+U85	Ukraine85		Europe			R1a1a	15	13	30	24	11	11	13	14	12	11	20	15	17	24	12
+U86	Ukraine86		Europe			R1a1a	16	13	31	25	10	11	13	14	11	11	20	16	15	23	13
+U87	Ukraine87		Europe			R1a1a	15	13	29	25	11	11	13	14	11	11	20	18	15	23	13
+U88	Ukraine88		Europe			R1a1a	15	12	30	24	11	11	15	14	11	10	20	16	15	23	12
+U89	Ukraine89		Europe			R1a1a	16	13	30	25	11	11	13	14	11	11	20	16	16	23	14
+U90	Ukraine90		Europe			R1a1a	16	12	29	25	11	11	13	14	11	11	20	16	17	24	11
+U91	Ukraine91		Europe			R1a1a	15	13	28	24	11	11	13	14	11	10	21	16	15	23	13
+U92	Ukraine92		Europe			R1a1a	15	13	31	25	11	11	13	14	11	10	19	16	17	23	13
+U93	Ukraine93		Europe			R1a1a	15	12	29	25	11	11	13	14	12	11	20	15	15	23	13
+U94	Ukraine94		Europe			R1a1a	17	13	30	25	10	11	13	14	11	11	20	15	15	23	13
+U95	Ukraine95		Europe			R1a1a	13	13	31	24	10	11	13	14	10	12	19	15	18	23	11
+U96	Ukraine96		Europe			R1a1a	15	13	30	26	11	11	13	14	11	10	20	16	15	24	13
+U97	Ukraine97		Europe			R1a1a	16	14	31	25	11	11	13	14	11	12	20	17	15	23	12
+U98	Ukraine98		Europe			R1a1a	15	13	29	25	10	11	13	14	11	10	22	16	15	23	13
+U99	Ukraine99		Europe			R1a1a	15	12	29	25	12	11	13	14	11	10	20	15	17	24	12
+U100	Ukraine100		Europe			R1a1a	15	14	29	25	10	11	13	14	11	10	20	16	15	23	13
+U101	Ukraine101		Europe			R1a1a	15	14	29	25	10	11	13	14	11	10	20	16	15	23	13
+U102	Ukraine102		Europe			R1a1a	15	13	29	25	11	11	13	14	11	10	20	16	15	23	12
+U103	Ukraine103		Europe			R1a1a	16	13	30	25	10	11	13	14	11	11	21	16	16	23	12
+U104	Ukraine104		Europe			R1a1a	15	14	31	24	11	11	13	14	11	9	20	16	14	23	12
+U105	Ukraine105		Europe			R1a1a	16	13	29	25	12	11	13	14	11	11	20	16	15	23	13
+U106	Ukraine106		Europe			R1a1a	16	13	29	25	12	11	13	14	11	11	20	15	15	23	13
+U107	Ukraine107		Europe			R1a1a	17	13	30	25	10	11	13	14	11	10	20	15	16	23	12
+U108	Ukraine108		Europe			R1a1a	16	13	31	24	11	11	13	15	10	12	20	15	16	23	11
+U109	Ukraine109		Europe			R1a1a	16	13	30	25	10	11	13	14	11	11	20	16	15	23	13
+U110	Ukraine110		Europe			R1a1a	16	13	30	25	11	11	13	14	11	11	20	17	17	23	12
+U111	Ukraine111		Europe			R1a1a	15	13	29	25	10	11	13	14	11	11	20	17	16	23	12
+U112	Ukraine112		Europe			R1a1a	16	13	30	25	11	11	13	14	11	10	20	15	16	21	12
+U113	Ukraine113		Europe			R1a1a	16	13	29	26	10	11	13	14	11	13	20	17	16	23	12
+U114	Ukraine114		Europe			R1a1a	16	13	30	25	10	11	13	14	11	12	20	17	16	23	11
+U115	Ukraine115		Europe			R1a1a	17	13	30	25	10	11	13	14	11	11	20	16	17	23	12
+U116	Ukraine116		Europe			R1a1a	15	13	30	25	11	11	13	14	11	12	20	16	16	24	12
+U117	Ukraine117		Europe			R1a1a	16	13	30	25	10	11	13	14	12	10	20	16	16	23	12
+U118	Ukraine118		Europe			R1a1a	16	13	31	25	11	11	13	14	11	11	20	16	16	23	12
+U119	Ukraine119		Europe			R1a1a	15	14	30	25	10	11	13	14	11	11	20	17	16	23	12
+U120	Ukraine120		Europe			R1a1a7	15	13	29	25	9	11	13	14	11	10	20	17	16	23	12
+U121	Ukraine121		Europe			R1a1a7	17	13	30	25	10	11	13	14	11	12	20	16	16	23	12
+U122	Ukraine122		Europe			R1a1a7	17	14	30	26	10	11	13	14	11	9	20	16	17	23	12
+U123	Ukraine123		Europe			R1a1a7	16	13	29	25	11	11	13	14	11	11	20	17	16	23	12
+U124	Ukraine124		Europe			R1a1a7	15	13	29	25	10	11	13	14	11	11	20	17	16	23	12
+U125	Ukraine125		Europe			R1a1a7	15	13	29	25	10	11	13	14	11	11	20	17	16	23	12
+U126	Ukraine126		Europe			R1a1a7	17	13	30	25	9	11	13	14	11	10	20	16	17	23	12
+U127	Ukraine127		Europe			R1a1a7	16	13	29	25	9	11	13	14	12	12	20	17	16	23	12
+U128	Ukraine128		Europe			R1a1a7	16	13	29	25	10	11	13	14	11	11	20	16	16	23	12
+U129	Ukraine129		Europe			R1a1a7	17	13	30	25	10	11	13	14	11	11	20	15	17	23	12
+U130	Ukraine130		Europe			R1a1a7	17	13	30	25	10	11	13	14	10	10	20	16	16	24	12
+U131	Ukraine131		Europe			R1a1a7	15	13	29	25	10	11	13	14	11	11	20	17	16	23	12
+U132	Ukraine132		Europe			R1a1a7	15	13	29	25	10	11	13	14	11	11	20	16	17	23	12
+U133	Ukraine133		Europe			R1a1a7	16	13	30	25	10	11	13	14	11	10	20	16	16	23	12
+U134	Ukraine134		Europe			R1a1a7	17	13	30	25	10	11	14	14	11	11	20	15	16	23	12
+U135	Ukraine135		Europe			R1a1a7	16	13	29	25	10	11	13	14	11	11	20	17	16	23	12
+U136	Ukraine136		Europe			R1a1a7	16	13	29	25	10	11	13	14	11	11	20	17	16	23	12
+U137	Ukraine137		Europe			R1a1a7	16	13	29	25	10	11	13	14	11	12	20	15	16	23	12
+U138	Ukraine138		Europe			R1a1a7	17	13	30	24	10	11	13	14	11	10	20	16	17	24	12
+U139	Ukraine139		Europe			R1a1a7	17	13	30	25	10	11	13	14	11	10	20	16	17	24	12
+U140	Ukraine140		Europe			R1a1a7	16	13	29	26	10	11	13	14	11	13	20	17	16	23	12
+IR157	Iran5	Kermanshah	Iran	West		R1a	15	14	32	25	11	11	13	14	11	11	20	15	15	23	12
+IR160	Iran8	Kermanshah	Iran	West		R1a	15	13	26	25	11	11	13	14	10	11	20	16	16	23	12
+IR166	Iran14	Kermanshah	Iran	West		R1a	16	13	31	25	11	11	13	14	11	10	20	15	15	23	12
+IR169	Iran17	Kermanshah	Iran	West		R1a	16	13	31	25	10	11	13	15	11	10	21	16	15	23	13
+IR170	Iran18	Kermanshah	Iran	West		R1a	16	13	30	26	11	11	13	14	11	10	20	15	16	23	12
+IR177	Iran25	Kermanshah	Iran	West		R1a	16	13	30	26	11	11	13	14	11	10	20	15	15	23	12
+IR182	Iran30	Kermanshah	Iran	West		R1a	15	13	31	25	10	11	14	14	11	10	20	16	16	23	13
+IR187	Iran35	Kermanshah	Iran	West		R1a	17	13	31	26	11	11	13	14	11	10	20	16	16	23	13
+IR191	Iran39	Kermanshah	Iran	West		R1a	15	12	29	26	10	11	14	14	11	10	20	15	16	23	12
+IR210	Iran58	Kermanshah	Iran	West		R1a	16	13	29	24	11	11	13	14	11	10	20	16	15	23	12
+IR232	Iran80	Kurdestan	Iran	West		R1a	17	13	30	24	10	11	13	14	11	10	20	16	16	23	12
+IR243	Iran91	Kurdestan	Iran	West		R1a	17	13	30	24	11	11	13	14	11	10	20	16	16	23	12
+IR257	Iran105	Kurdestan	Iran	West		R1a	16	13	30	24	11	11	13	14	11	10	20	16	16	23	12
+IR258	Iran106	Kurdestan	Iran	West		R1a	15	13	31	24	11	11	13	14	11	10	20	16	15	23	13
+IR259	Iran107	Kurdestan	Iran	West		R1a	15	13	30	24	11	11	13	14	11	10	20	15	16	23	13
+IR273	Iran121	Kurdestan	Iran	West		R1a	15	14	32	25	11	11	13	14	11	10	20	16	15	23	12
+IR321	Iran169	Ilam	Iran	West		R1a	15	13	30	25	11	11	13	14	11	10	20	15	15	23	12
+IR322	Iran170	Ilam	Iran	West		R1a	16	13	30	27	11	11	13	14	11	10	21	15	15	23	12
+IR338	Iran186	Hamedan	Iran	West		R1a	16	12	29	25	10	11	13	14	11	10	20	15	16	23	12
+IR347	Iran195	Hamedan	Iran	West		R1a	16	13	30	25	10	11	13	14	11	10	20	15	16	23	12
+IR348	Iran196	Hamedan	Iran	West		R1a	16	13	30	25	11	11	13	14	11	10	20	15	15	23	12
+IR358	Iran206	Hamedan	Iran	West		R1a	15	13	30	25	11	11	13	14	11	10	20	15	16	23	12
+IR367	Iran215	URM	Iran	West		R1a	15	12	29	26	10	11	14	14	11	10	20	15	16	23	11
+IR372	Iran220	URM	Iran	West		R1a	14	14	29	23	10	11	13	14	11	11	19	16	15	21	12
+IR375	Iran223	URM	Iran	West		R1a	15	13	32	25	11	11	13	14	10	10	20	15	16	23	13
+IR387	Iran235	URM	Iran	West		R1a	16	12	28	25	10	11	13	14	11	10	20	13	15	23	13
+IR423	Iran271	TBZ	Iran	West		R1a	16	14	30	24	10	15	12	15	11	12	20	16	14	23	12
+IR424	Iran272	TBZ	Iran	West		R1a	17	13	31	21	10	11	15	16	11	11	20	17	16	23	12
+IR444	Iran292	TBZ	Iran	West		R1a	14	13	32	25	11	11	13	14	10	10	20	14	16	23	13
+IR448	Iran296	TBZ	Iran	West		R1a	15	14	30	23	10	11	13	14	9	12	21	15	14	24	12
+IR451	Iran299	TBZ	Iran	West		R1a	16	13	30	24	9	13	13	14	11	10	20	16	14	23	12
+IR455	Iran303	TBZ	Iran	West		R1a	14	13	30	22	11	11	12	16	11	11	19	17	16	23	12
+IR457	Iran305	TBZ	Iran	West		R1a	13	13	29	25	10	13	13	14	11	12	20	17	16	23	12
+IR707	Iran555	KHUZ	Iran	West		R1a	15	13	31	25	11	11	13	14	11	10	20	15	16	23	12
+IR724	Iran572	KHUZ	Iran	West		R1a	15	13	30	25	10	11	13	14	11	8	20	14	15	23	12
+IR734	Iran582	gol-s	Iran	West		R1a	16	13	30	25	11	11	13	14	11	10	20	15	15	23	12
+IR738	Iran586	gol-s	Iran	West		R1a	16	13	31	24	11	11	13	14	11	10	20	15	15	23	12
+IR744	Iran592	gol-s	Iran	West		R1a	16	13	29	25	10	11	13	15	11	10	20	15	15	23	12
+IR748	Iran596	gol-s	Iran	West		R1a	15	13	31	25	11	11	14	14	11	10	20	16	15	23	11
+IR759	Iran607	gol-s	Iran	West		R1a	15	14	32	24	10	12	13	14	11	10	20	15	16	23	12
+IR760	Iran608	gol-s	Iran	West		R1a	15	13	30	24	11	11	13	14	11	10	18	15	16	23	14
+IR762	Iran610	gol-s	Iran	West		R1a	16	13	30	23	10	13	13	15	11	12	20	14	15	24	12
+IR769	Iran617	gol-s	Iran	West		R1a	16	12	28	25	10	11	13	15	11	10	20	15	15	23	12
+IR777	Iran625	gol-s	Iran	West		R1a	15	13	29	25	10	11	14	14	11	12	19	16	16	21	12
+IR787	Iran635	gol-s	Iran	West		R1a	16	12	29	25	11	11	14	14	9	12	20	15	16	23	13
+IR792	Iran640	gol-s	Iran	West		R1a	15	13	31	25	10	11	13	14	10	10	20	17	15	22	13
+IR793	Iran641	gol-s	Iran	West		R1a	16	12	30	25	10	11	13	14	11	10	20	16	17	24	12
+IR799	Iran647	gol-s	Iran	West		R1a	16	13	31	25	10	11	13	14	11	10	20	16	17	24	12
+IR801	Iran649	gol-s	Iran	West		R1a	15	13	30	25	10	11	14	14	11	10	20	14	16	23	12
+IR804	Iran652	gol-s	Iran	West		R1a	15	13	30	25	11	11	13	14	11	10	20	17	15	23	15
+IR807	Iran655	gol-s	Iran	West		R1a	16	13	31	24	11	11	13	14	11	10	20	15	16	24	14
+IR1098	Iran946	Isfahan, Isfahan Province, Iran	Iran	West		R1a	17	13	29	25	10	11	13	14	11	10	20	15	16	23	12
+IR1099	Iran947	Isfahan, Isfahan Province, Iran	Iran	West		R1a	17	13	30	25	11	11	13	14	11	11	19	17	15	25	12
+IR1100	Iran948	Isfahan, Isfahan Province, Iran	Iran	West		R1a	17	13	31	25	11	11	13	14	11	10	19	15	16	23	12
+IR1102	Iran950	Isfahan, Isfahan Province, Iran	Iran	West		R1a	16	12	31	26	11	11	13	14	11	10	20	16	15	24	13
+IR1107	Iran955	Isfahan, Isfahan Province, Iran	Iran	West		R1a	16	13	30	25	10	11	13	14	11	10	20	15	16	23	13
+IR1108	Iran956	Isfahan, Isfahan Province, Iran	Iran	West		R1a	16	13	30	25	11	11	13	14	11	10	20	17	15	24	13
+IR1109	Iran957	Isfahan, Isfahan Province, Iran	Iran	West		R1a	16	13	30	25	11	11	13	14	11	10	19	15	16	23	13
+IR1110	Iran958	Isfahan, Isfahan Province, Iran	Iran	West		R1a	16	13	32	25	11	11	13	14	11	10	20	15	16	23	12
+IR1132	Iran980	Isfahan, Isfahan Province, Iran	Iran	West		R1a	15	13	30	25	10	11	13	14	11	10	20	16	15	23	13
+IR1133	Iran981	Isfahan, Isfahan Province, Iran	Iran	West		R1a	15	13	31	25	10	11	13	14	11	10	21	15	15	23	13
+IR1136	Iran984	Isfahan, Isfahan Province, Iran	Iran	West		R1a	15	14	30	24	10	13	13	14	11	11	19	15	15	24	11
+IR1140	Iran988	Isfahan, Isfahan Province, Iran	Iran	West		R1a	15	14	31	24	11	11	13	14	11	10	20	17	15	23	12
+IR1188	Iran1036	Isfahan, Isfahan Province, Iran	Iran	West		R1a	14	14	31	24	10	13	13	14	11	11	19	15	16	23	12
+IR1203	Iran1051	Isfahan, Isfahan Province, Iran	Iran	West		R1a	16	13	31	25	11	11	13	14	11	10	20	16	17	23	12
+IR1221	Iran1069	Isfahan, Isfahan Province, Iran	Iran	West		R1a	17	13	29	24	11	11	13	14	11	10	20	15	14	23	13
+IR1225	Iran1073	Isfahan, Isfahan Province, Iran	Iran	West		R1a	16	13	29	25	10	11	13	14	11	11	20	17	16	23	12
+IR1227	Iran1075	Isfahan, Isfahan Province, Iran	Iran	West		R1a	15	12	29	24	10	13	13	14	11	10	20	15	15	23	11
+IR1233	Iran1081	Isfahan, Isfahan Province, Iran	Iran	West		R1a	15	12	29	24	10	11	13	14	11	10	20	15	15	23	12
+IR1234	Iran1082	Isfahan, Isfahan Province, Iran	Iran	West		R1a	15	14	31	24	10	11	13	14	9	11	20	15	16	32	13
+IR1235	Iran1083	Isfahan, Isfahan Province, Iran	Iran	West		R1a	15	13	30	25	11	11	13	14	11	10	20	17	16	23	12
+IR1240	Iran1088	Isfahan, Isfahan Province, Iran	Iran	West		R1a	16	13	31	25	11	11	13	15	11	10	20	16	15	23	13
+IR1251	Iran1099	Birjand,South khorasan,Iran	Iran	East		R1a	17	13	25	30	16	15	12	23	11	10	11	12	14	11	20
+IR1305	Iran1153	Birjand,South khorasan,Iran	Iran	East		R1a	17	13	25	30	17	15	12	23	11	10	11	12	14	11	20
+IR1311	Iran1159	Zahedan,Sistan and Baluchestan,Iran	Iran	East		R1a	15	13	25	31	15	17	10	23	12	10	11	13	14	11	19
+IR1334	Iran1182	Birjand,South khorasan,Iran	Iran	East		R1a	17	13	25	30	16	15	12	23	11	10	11	12	14	11	20
+IR1369	Iran1217	Zahedan,Sistan and Baluchestan,Iran	Iran	East		R1a	15	13	25	30	16	17	9	23	13	10	11	12	14	11	20
+IR1374	Iran1222	Zahedan,Sistan and Baluchestan,Iran	Iran	East		R1a	15	13	22	30	16	14	13	25	15	10	10	12	16	11	19
+IR1387	Iran1235	Zahedan,Sistan and Baluchestan,Iran	Iran	East		R1a	15	13	25	31	16	16	10	23	13	10	10	12	15	11	20
+IR1423	Iran1271	Birjand,South khorasan,Iran	Iran	East		R1a	17	13	25	30	15	15	12	23	11	10	11	12	14	11	20
+IR1445	Iran1293	Zahedan,Sistan and Baluchestan,Iran	Iran	East		R1a	15	12	22	27	16	14	13	22	11	11	14	12	15	10	19
+IR1480	Iran1328	Mashhad,Razavi khorasan,Iran	Iran	East		R1a	16	13	24	29	17	14	13	23	11	11	13	12	15	12	19
+IR1482	Iran1330	Mashhad,Razavi khorasan,Iran	Iran	East		R1a	15	14	25	33	16	15	12	23	11	10	11	12	14	9	20
+CA1676	JK4265	Kazak village on the Kazak River, Russia [Komi Zyriane]	Central_Asia			R1a	16	13	31	26	11	11	14	14	11	10	20	15	15	23	13
+CA1684	JK4257	Kazak village on the Kazak River, Russia [Komi Zyriane]	Central_Asia			R1a	15	13	31	24	11	11	13	14	11	10	20	15	14	23	13
+ARC1687	JK4609	Archangelsk,Russia [Russians]	Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	17	16	23	12
+ARC1690	JK4614	Archangelsk,Russia [Russians]	Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	17	17	23	12
+ARC1692	JK4620	Archangelsk,Russia [Russians]	Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	16	17	23	12
+ARC1695	JK4623	Archangelsk,Russia [Russians]	Europe			R1a	15	13	31	25	10	11	13	14	11	11	20	15	15	23	13
+ARC1696	JK4624	Archangelsk,Russia [Russians]	Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	17	17	23	12
+ARC1697	JK4625	Archangelsk,Russia [Russians]	Europe			R1a	15	13	29	25	10	11	13	14	11	11	20	16	16	23	12
+ARC1698	JK4626	Archangelsk,Russia [Russians]	Europe			R1a	15	14	31	25	11	11	13	14	11	10	20	15	15	23	12
+ARC1700	JK4632	Archangelsk,Russia [Russians]	Europe			R1a	15	13	29	26	11	11	13	14	11	10	20	16	15	23	12
+VLO1709	JK3498	Vologda, Russia [Russians]	Europe			R1a	17	13	30	24	10	11	13	14	11	11	20	16	18	23	12
+VLO1712	JK3502	Vologda, Russia [Russians]	Europe			R1a	16	13	28	25	10	11	13	14	11	11	20	17	16	23	12
+VLO1717	JK3510	Vologda, Russia [Russians]	Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	16	16	25	12
+VLO1718	JK3516	Vologda, Russia [Russians]	Europe			R1a	15	10	27	25	10	12	14	14	11	10	20	17	15	23	11
+VLO1720	JK3527	Vologda, Russia [Russians]	Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	15	17	24	12
+VLO1722	JK3534	Vologda, Russia [Russians]	Europe			R1a	15	13	30	25	11	11	13	14	11	10	20	16	15	25	12
+CAUCA1899	UndHill_1	Armenian	Caucasus			R1a	15	13	29	26	10	11	13	14	11	12	20	18	14	23	13
+CAUCA1900	UndHill_2	Cherkessian	Caucasus			R1a	16	14	31	25	11	11	13	15	11	11	20	17	16	23	13
+CAUCA1901	UndHill_3	Armenian	Caucasus			R1a	16	13	32	25	12	11	14	14	11	10	20	15	16	23	13
+CAUCA1902	UndHill_4	Kabardin	Caucasus			R1a	15	17	30	24	11	13	13	16	11	12	21	15	15	23	11
+CAUCA1903	UndHill_5	Armenian	Caucasus			R1a	16	13	32	26	11	11	13	14	12	10	20	15	17	23	13
+CAUCA1904	UndHill_6	Armenian	Caucasus			R1a	15	13	31	24	11	11	13	14	11	10	20	17	17	23	13
+CAUCA1905	UndHill_7	Armenian	Caucasus			R1a	14	13	31	24	11	11	13	14	11	11	20	15	15	23	13
+CAUCA1906	UndHill_8	Armenian	Caucasus			R1a	14	13	31	24	11	11	13	14	11	11	20	15	15	23	13
+CAUCA1907	UndHill_9	Armenian	Caucasus			R1a	16	13	30	25	11	11	13	15	11	10	20	14	15	23	13
+CAUCA1908	UndHill_10	Armenian	Caucasus			R1a	16	13	31	25	11	11	13	14	11	10	20	15	14	24	13
+CAUCA1909	UndHill_11	Armenian	Caucasus			R1a	16	13	31	24	11	11	13	14	11	10	20	15	14	24	13
+CAUCA1910	UndHill_12	Balkar	Caucasus 			R1a	15	13	30	24	11	11	13	14	11	10	21	16	15	23	12
+CAUCA1911	UndHill_13	Balkar	Caucasus 			R1a	15	12	29	25	11	11	13	14	11	10	20	16	15	24	12
+CAUCA1912	UndHill_14	Balkar	Caucasus 			R1a	16	13	31	25	11	11	13	14	11	10	20	16	16	23	12
+CAUCA1913	UndHill_15	Balkar	Caucasus 			R1a	16	12	29	24	11	11	13	14	11	11	19	16	15	23	13
+CAUCA1914	UndHill_16	Balkar	Caucasus 			R1a	15	12	29	25	11	11	13	14	11	10	19	16	15	23	13
+CAUCA1915	UndHill_17	Balkar	Caucasus 			R1a	15	13	32	25	10	11	14	14	11	10	20	15	16	23	12
+CAUCA1916	UndHill_18	Georgian	Caucasus 			R1a	15	13	30	25	10	11	13	14	11	10	20	15	15	23	12
+CAUCA1917	UndHill_19	Georgian	Caucasus 			R1a	16	13	31	25	12	11	13	14	11	10	20	15	15	23	13
+AFG1918	UndHill_20	Afghanistan, Hazara	Central Asia/Southern Siberia			R1a	16	14	30	24	11	11	13	14	11	10	20	16	16	23	13
+AFG1919	UndHill_21	Afghanistan, Hazara	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	13	14	12	11	20	15	15	23	13
+AFG1920	UndHill_22	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	15	14	31	24	10	11	13	14	11	10	20	15	17	24	11
+AFG1921	UndHill_23	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	15	14	33	25	11	11	13	14	9	10	19	15	15	23	12
+AFG1922	UndHill_24	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	15	13	30	25	11	11	13	14	11	10	21	15	17	23	13
+AFG1923	UndHill_25	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	15	14	32	25	11	11	13	14	11	10	20	15	17	23	13
+AFG1924	UndHill_26	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	15	13	30	25	11	11	13	14	9	10	20	15	16	23	13
+AFG1925	UndHill_27	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	15	13	30	25	11	11	13	14	9	10	20	15	16	23	13
+AFG1926	UndHill_28	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	20	15	17	23	13
+AFG1927	UndHill_29	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	16	13	29	25	11	11	13	14	11	11	19	15	15	23	12
+AFG1928	UndHill_30	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	16	13	31	24	10	9	13	14	11	10	20	15	16	23	12
+AFG1929	UndHill_31	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	15	14	30	24	11	11	13	14	9	10	20	15	16	23	13
+AFG1930	UndHill_32	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	14	13	30	25	10	11	12	14	11	10	21	15	15	23	13
+AFG1931	UndHill_33	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	15	12	29	25	11	11	13	14	11	10	20	15	18	23	12
+AFG1932	UndHill_34	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	16	13	30	25	11	11	13	14	11	10	20	16	16	23	12
+AFG1933	UndHill_35	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	15	13	32	25	11	11	13	14	11	10	20	15	16	23	12
+AFG1934	UndHill_36	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	17	12	29	25	10	11	13	14	11	10	20	15	16	23	13
+AFG1935	UndHill_37	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	16	13	30	25	10	11	13	14	11	10	20	15	16	23	13
+AFG1936	UndHill_38	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	16	14	31	24	10	11	13	14	11	10	20	15	17	24	13
+AFG1937	UndHill_39	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	15	13	31	25	10	11	13	14	11	10	20	15	16	23	12
+AFG1938	UndHill_40	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	15	13	30	25	10	11	13	14	11	10	20	15	16	23	12
+AFG1939	UndHill_41	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	15	13	31	24	11	11	13	14	11	11	20	15	16	23	12
+AFG1940	UndHill_42	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	16	13	31	25	9	11	14	14	11	11	19	15	16	23	13
+AFG1941	UndHill_43	Afghanistan, Turkmen	Central Asia/Southern Siberia			R1a	15	14	31	24	10	11	13	14	11	10	20	15	16	23	14
+AFG1942	UndHill_44	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	15	13	31	25	11	11	13	14	11	10	20	15	16	23	12
+AFG1943	UndHill_45	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	16	13	31	25	11	11	13	14	11	10	20	15	14	23	12
+AFG1944	UndHill_46	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	15	14	32	26	10	11	13	14	11	10	20	15	14	23	11
+AFG1945	UndHill_47	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	15	14	32	26	11	11	13	14	9	10	20	15	16	23	13
+AFG1946	UndHill_48	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	15	12	29	25	11	11	13	14	11	10	20	15	16	23	12
+AFG1947	UndHill_49	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	16	13	31	24	11	11	13	14	11	10	20	15	16	23	13
+AFG1948	UndHill_50	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	16	13	29	25	11	11	13	14	11	10	20	15	17	23	13
+AFG1949	UndHill_51	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	15	14	31	26	10	11	13	14	11	10	20	15	16	24	13
+AFG1950	UndHill_52	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	15	14	32	26	11	11	13	14	9	10	20	15	16	23	13
+AFG1951	UndHill_53	Kyrgyz Southern	Central Asia/Southern Siberia			R1a	16	13	31	25	11	11	13	14	11	10	20	15	16	23	13
+AFG1952	UndHill_54	Afghanistan, Hazara	Central Asia/Southern Siberia			R1a	16	13	31	25	10	11	13	14	11	9	20	15	12	23	13
+AFG1953	UndHill_55	Afghanistan, Hazara	Central Asia/Southern Siberia			R1a	15	13	30	26	10	11	13	14	11	10	20	15	15	24	13
+AFG1954	UndHill_56	Afghanistan, Hazara	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	13	14	11	10	20	15	15	24	13
+AFG1955	UndHill_57	Afghanistan, Hazara	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	13	14	11	10	20	15	14	24	12
+AFG1956	UndHill_58	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	13	14	11	10	20	15	15	24	12
+AFG1957	UndHill_59	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	16	13	30	25	11	11	14	14	11	10	20	15	15	24	13
+AFG1958	UndHill_60	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	15	13	30	24	11	11	13	14	11	10	20	15	15	24	13
+AFG1959	UndHill_61	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	13	14	11	10	20	15	15	24	13
+AFG1960	UndHill_62	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	13	14	11	10	20	15	15	24	13
+AFG1961	UndHill_63	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	13	14	11	10	20	15	15	24	13
+AFG1962	UndHill_64	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	15	13	30	25	11	11	14	14	11	10	20	16	15	23	12
+AFG1963	UndHill_65	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	14	14	11	10	20	15	15	24	13
+AFG1964	UndHill_66	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	15	13	30	24	11	11	13	14	11	10	20	17	15	24	13
+AFG1965	UndHill_67	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	13	14	11	10	20	15	14	25	13
+AFG1966	UndHill_68	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	13	14	11	10	20	15	15	24	13
+AFG1967	UndHill_69	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	16	15	32	25	10	11	14	14	11	10	20	16	15	23	12
+AFG1968	UndHill_70	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	13	14	11	10	20	15	15	24	12
+AFG1969	UndHill_71	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	13	14	11	10	20	15	15	24	13
+AFG1970	UndHill_72	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	16	13	30	24	10	11	13	14	11	10	20	15	15	24	13
+AFG1971	UndHill_73	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	13	14	11	10	20	15	15	24	13
+AFG1972	UndHill_74	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	15	13	30	25	11	11	14	14	11	10	20	16	15	23	12
+AFG1973	UndHill_75	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	15	13	30	24	11	11	13	14	11	10	20	15	15	23	12
+AFG1974	UndHill_76	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	16	13	30	25	11	11	13	14	11	10	20	15	15	24	13
+AFG1975	UndHill_77	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	15	13	30	24	11	11	13	14	11	10	20	15	15	23	12
+AFG1976	UndHill_78	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	15	13	30	25	11	11	14	14	11	10	20	16	15	23	12
+AFG1977	UndHill_79	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	15	13	31	24	10	11	13	14	10	11	20	16	16	22	12
+AFG1978	UndHill_80	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	13	14	11	10	20	15	15	24	13
+AFG1979	UndHill_81	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	13	14	11	10	20	15	15	24	12
+AFG1980	UndHill_82	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	13	14	11	10	20	15	15	24	13
+AFG1981	UndHill_83	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	15	13	29	26	11	11	14	14	11	10	20	15	16	23	13
+AFG1982	UndHill_84	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	15	13	30	25	11	11	14	14	11	10	20	15	15	23	12
+AFG1983	UndHill_85	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	16	13	30	24	10	11	14	14	11	10	20	15	15	24	13
+AFG1984	UndHill_86	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	13	14	11	10	20	15	15	24	13
+AFG1985	UndHill_87	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	15	14	31	25	11	11	14	14	11	10	20	16	15	23	12
+AFG1986	UndHill_88	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	15	13	30	24	11	11	14	14	11	10	19	16	15	23	12
+AFG1987	UndHill_89	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	13	14	11	10	20	15	15	23	12
+AFG1988	UndHill_90	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	15	13	30	24	11	11	13	14	11	10	20	15	15	23	12
+AFG1989	UndHill_91	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	16	13	30	25	10	11	13	14	11	10	20	16	16	23	12
+AFG1990	UndHill_92	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	15	13	30	24	11	11	13	14	11	10	20	15	15	23	12
+AFG1991	UndHill_93	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	15	13	30	24	11	11	13	14	11	10	20	15	15	23	12
+AFG1992	UndHill_94	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	16	13	31	24	11	11	13	14	11	11	20	16	15	23	12
+AFG1993	UndHill_95	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	15	13	31	25	10	11	13	14	10	10	20	16	15	22	12
+AFG1994	UndHill_96	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	16	13	32	25	10	11	13	14	11	10	20	15	15	23	13
+AFG1995	UndHill_97	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	15	13	30	25	11	11	14	14	11	10	20	15	15	23	12
+AFG1996	UndHill_98	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	16	13	30	26	11	11	13	14	11	11	20	15	16	23	12
+AFG1997	UndHill_99	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	15	13	30	24	11	11	13	14	11	10	20	15	17	24	13
+AFG1998	UndHill_100	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	16	12	30	23	10	11	13	14	10	10	19	15	15	23	13
+AFG1999	UndHill_101	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	16	13	32	25	10	11	13	14	10	10	20	16	15	23	13
+AFG2000	UndHill_102	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	15	13	30	26	11	11	14	14	11	10	21	16	15	23	12
+AFG2001	UndHill_103	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	15	13	30	25	12	11	14	14	11	10	20	15	15	23	12
+AFG2002	UndHill_104	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	16	14	31	24	11	11	13	14	11	10	19	16	16	23	13
+AFG2003	UndHill_105	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	17	13	31	25	10	11	13	14	11	10	19	16	19	23	13
+AFG2004	UndHill_106	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	17	13	30	25	11	11	14	14	12	10	20	16	15	23	12
+AFG2005	UndHill_107	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	15	13	30	24	11	11	13	14	10	10	20	15	15	23	12
+AFG2006	UndHill_108	Afghanistan, Turkmen	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	13	14	11	10	20	15	15	24	13
+AFG2007	UndHill_109	Afghanistan, Turkmen	Central Asia/Southern Siberia			R1a	16	13	30	25	10	11	13	14	11	11	20	16	15	23	13
+AFG2008	UndHill_110	Afghanistan, Turkmen	Central Asia/Southern Siberia			R1a	15	13	30	24	11	11	13	14	11	10	20	16	15	24	12
+AFG2009	UndHill_111	Afghanistan, Turkmen	Central Asia/Southern Siberia			R1a	15	13	30	23	11	11	14	14	11	10	20	16	15	23	12
+AFG2010	UndHill_112	Afghanistan, Turkmen	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	19	16	15	24	14
+AFG2011	UndHill_113	Afghanistan, Turkmen	Central Asia/Southern Siberia			R1a	16	13	31	25	11	11	13	14	10	10	19	16	15	22	12
+AFG2012	UndHill_114	Afghanistan, Turkmen	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	13	14	11	10	20	15	15	24	12
+AFG2013	UndHill_115	Afghanistan, Turkmen	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	13	14	11	10	20	15	15	24	13
+AFG2014	UndHill_116	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	16	13	31	25	11	11	13	14	11	10	19	16	18	23	12
+AFG2015	UndHill_117	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	15	13	30	25	10	11	13	14	11	10	20	15	16	23	13
+AFG2016	UndHill_118	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	17	14	32	25	10	11	13	14	11	11	20	15	17	23	12
+AFG2017	UndHill_119	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	13	14	11	10	20	15	15	24	12
+AFG2018	UndHill_120	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	16	14	31	25	11	11	13	14	11	10	19	16	15	23	13
+AFG2019	UndHill_121	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	13	14	11	10	21	15	15	24	13
+AFG2020	UndHill_122	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	16	13	31	25	10	11	13	14	11	11	20	16	16	23	13
+AFG2021	UndHill_123	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	15	13	29	23	11	11	13	14	11	11	20	16	15	23	13
+AFG2022	UndHill_124	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	16	13	30	25	10	11	13	14	11	11	20	16	15	23	13
+AFG2023	UndHill_125	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	16	13	30	25	11	11	13	14	11	10	20	16	16	23	13
+AFG2024	UndHill_126	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	16	13	31	25	11	11	13	15	11	10	20	14	14	23	13
+AFG2025	UndHill_127	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	17	13	30	25	11	11	13	14	11	10	19	15	15	23	12
+AFG2026	UndHill_128	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	16	13	31	25	11	11	13	14	12	11	20	16	16	23	13
+AFG2027	UndHill_129	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	15	13	31	25	10	11	13	14	10	10	20	16	15	22	12
+AFG2028	UndHill_130	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	15	13	30	26	10	11	13	14	11	10	20	16	15	23	12
+AFG2029	UndHill_131	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	16	13	29	25	11	11	13	14	11	10	20	15	15	24	13
+DU2030	UndHill_132	Dungan	Central Asia/Southern Siberia			R1a	16	13	30	25	10	11	13	14	11	11	20	15	16	23	13
+DU2031	UndHill_133	Dungan	Central Asia/Southern Siberia			R1a	15	13	31	25	11	11	13	13	12	10	20	15	15	23	12
+KYR2032	UndHill_134	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	31	25	11	11	14	14	11	10	20	16	16	23	11
+KYR2033	UndHill_135	Kyrgyz	Central Asia/Southern Siberia			R1a	17	13	31	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2034	UndHill_136	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	33	24	11	11	13	14	11	10	19	16	15	23	12
+KYR2035	UndHill_137	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2036	UndHill_138	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	21	16	15	23	11
+KYR2037	UndHill_139	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	32	24	11	11	13	14	11	10	21	16	15	23	12
+KYR2038	UndHill_140	Kyrgyz	Central Asia/Southern Siberia			R1a	15	14	31	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2039	UndHill_141	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	32	25	10	11	13	14	11	10	21	16	15	23	12
+KYR2040	UndHill_142	Kyrgyz	Central Asia/Southern Siberia			R1a	16	13	31	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2041	UndHill_143	Kyrgyz	Central Asia/Southern Siberia			R1a	16	13	31	26	11	11	13	14	11	10	22	15	15	23	12
+KYR2042	UndHill_144	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	31	25	10	11	13	14	11	10	21	16	15	23	12
+KYR2043	UndHill_145	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	21	16	15	23	13
+KYR2044	UndHill_146	Kyrgyz	Central Asia/Southern Siberia			R1a	16	15	32	25	10	11	13	14	11	10	20	16	15	23	12
+KYR2045	UndHill_147	Kyrgyz	Central Asia/Southern Siberia			R1a	16	13	31	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2046	UndHill_148	Kyrgyz	Central Asia/Southern Siberia			R1a	16	13	31	25	11	11	13	14	11	10	21	16	16	23	12
+KYR2047	UndHill_149	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	31	24	11	11	13	14	11	10	21	16	15	23	12
+KYR2048	UndHill_150	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	32	24	11	11	13	14	11	10	19	16	15	23	11
+KYR2049	UndHill_151	Kyrgyz	Central Asia/Southern Siberia			R1a	16	13	31	24	11	11	13	14	11	10	20	16	15	23	12
+KYR2050	UndHill_152	Kyrgyz	Central Asia/Southern Siberia			R1a	16	13	29	25	11	11	13	14	11	10	20	17	16	23	13
+KYR2051	UndHill_153	Kyrgyz	Central Asia/Southern Siberia			R1a	16	13	30	25	10	11	13	14	12	10	20	16	16	23	10
+KYR2052	UndHill_154	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	31	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2053	UndHill_155	Kyrgyz	Central Asia/Southern Siberia			R1a	16	13	31	25	11	11	13	14	11	10	20	16	15	24	12
+KYR2054	UndHill_156	Kyrgyz	Central Asia/Southern Siberia			R1a	15	13	31	24	11	11	13	14	11	10	21	16	15	23	12
+KYR2055	UndHill_157	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	32	25	10	11	13	14	11	10	20	16	15	23	12
+KYR2056	UndHill_158	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	21	16	15	23	11
+KYR2057	UndHill_159	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2058	UndHill_160	Kyrgyz	Central Asia/Southern Siberia			R1a	16	13	31	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2059	UndHill_161	Kyrgyz	Central Asia/Southern Siberia			R1a	16	13	31	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2060	UndHill_162	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	21	15	15	23	12
+KYR2061	UndHill_163	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	31	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2062	UndHill_164	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	31	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2063	UndHill_165	Kyrgyz	Central Asia/Southern Siberia			R1a	15	14	32	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2064	UndHill_166	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	32	25	10	11	13	14	11	10	21	16	15	23	12
+KYR2065	UndHill_167	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2066	UndHill_168	Kyrgyz	Central Asia/Southern Siberia			R1a	16	13	31	25	11	11	13	14	11	10	22	17	15	23	12
+KYR2067	UndHill_169	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	12	14	11	10	21	15	15	23	12
+KYR2068	UndHill_170	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	32	25	10	11	13	14	11	10	21	16	15	23	12
+KYR2069	UndHill_171	Kyrgyz	Central Asia/Southern Siberia			R1a	16	13	31	25	11	11	13	14	11	10	21	16	15	23	11
+KYR2070	UndHill_172	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	22	16	15	23	12
+KYR2071	UndHill_173	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	21	17	15	23	12
+KYR2072	UndHill_174	Kyrgyz	Central Asia/Southern Siberia			R1a	17	14	32	25	11	11	13	14	11	10	22	15	15	23	12
+KYR2073	UndHill_175	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2074	UndHill_176	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	32	24	11	11	13	14	11	10	19	16	15	23	12
+KYR2075	UndHill_177	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2076	UndHill_178	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	11	21	15	15	23	12
+KYR2077	UndHill_179	Kyrgyz	Central Asia/Southern Siberia			R1a	16	13	31	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2078	UndHill_180	Kyrgyz	Central Asia/Southern Siberia			R1a	17	13	31	23	11	11	13	14	11	10	20	16	16	23	12
+KYR2079	UndHill_181	Kyrgyz	Central Asia/Southern Siberia			R1a	16	13	31	24	11	11	13	14	11	10	20	16	15	23	12
+KYR2080	UndHill_182	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	21	16	16	23	12
+KYR2081	UndHill_183	Kyrgyz	Central Asia/Southern Siberia			R1a	16	13	31	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2082	UndHill_184	Kyrgyz	Central Asia/Southern Siberia			R1a	16	13	31	24	11	11	13	14	11	10	20	16	15	23	13
+KYR2083	UndHill_185	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2084	UndHill_186	Kyrgyz	Central Asia/Southern Siberia			R1a	16	13	31	25	11	11	13	14	11	10	21	15	15	23	12
+KYR2085	UndHill_187	Kyrgyz	Central Asia/Southern Siberia			R1a	16	13	31	26	11	11	13	14	11	10	21	16	15	23	12
+KYR2086	UndHill_188	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	31	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2087	UndHill_189	Kyrgyz	Central Asia/Southern Siberia			R1a	15	14	32	25	11	11	13	14	11	10	22	16	15	23	12
+KYR2088	UndHill_190	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	32	24	11	11	13	14	11	10	22	17	15	23	12
+KYR2089	UndHill_191	Kyrgyz Northern	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	22	16	15	23	12
+KYR2090	UndHill_192	Kyrgyz Northern	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2091	UndHill_193	Kyrgyz Northern	Central Asia/Southern Siberia			R1a	17	14	32	25	10	11	13	15	11	10	21	16	15	23	12
+KYR2092	UndHill_194	Kyrgyz Northern	Central Asia/Southern Siberia			R1a	16	14	32	25	10	11	13	14	11	10	21	16	15	23	12
+KYR2093	UndHill_195	Kyrgyz Northern	Central Asia/Southern Siberia			R1a	16	13	30	25	10	11	13	14	11	10	20	17	15	23	13
+KYR2094	UndHill_196	Kyrgyz Northern	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	20	16	15	23	12
+KYR2095	UndHill_197	Kyrgyz Northern	Central Asia/Southern Siberia			R1a	16	14	32	25	10	11	13	14	11	10	21	16	15	23	12
+KYR2096	UndHill_198	Kyrgyz Northern	Central Asia/Southern Siberia			R1a	16	13	30	25	10	11	13	14	11	10	20	17	15	23	13
+KYR2097	UndHill_199	Kyrgyz Northern	Central Asia/Southern Siberia			R1a	16	14	32	25	10	11	13	14	11	10	21	16	15	23	12
+KYR2098	UndHill_200	Kyrgyz Northern	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2099	UndHill_201	Kyrgyz Northern	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	20	16	15	23	12
+KYR2100	UndHill_202	Kyrgyz Northern	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2101	UndHill_203	Kyrgyz Northern	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2102	UndHill_204	Kyrgyz Northern	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	22	16	15	23	12
+KYR2103	UndHill_205	Kyrgyz Northern	Central Asia/Southern Siberia			R1a	16	13	30	25	11	11	13	14	11	10	20	16	15	23	12
+KYR2104	UndHill_206	Kyrgyz Northern	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2105	UndHill_207	Kyrgyz Northern	Central Asia/Southern Siberia			R1a	17	14	32	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2106	UndHill_208	Kyrgyz Southern	Central Asia/Southern Siberia			R1a	16	14	32	25	10	11	13	14	11	10	21	16	15	23	12
+KYR2107	UndHill_209	Kyrgyz Southern	Central Asia/Southern Siberia			R1a	16	14	31	25	10	11	13	14	11	10	21	16	15	23	12
+KYR2108	UndHill_210	Kyrgyz Southern	Central Asia/Southern Siberia			R1a	15	14	32	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2109	UndHill_211	Kyrgyz Southern	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2110	UndHill_212	Kyrgyz Southern	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	22	16	15	23	12
+KYR2111	UndHill_213	Kyrgyz Southern	Central Asia/Southern Siberia			R1a	16	14	31	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2112	UndHill_214	Kyrgyz Southern	Central Asia/Southern Siberia			R1a	16	14	32	25	10	11	13	14	11	10	21	16	15	23	12
+KYR2113	UndHill_215	Kyrgyz Southern	Central Asia/Southern Siberia			R1a	16	15	33	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2114	UndHill_216	Kyrgyz Southern	Central Asia/Southern Siberia			R1a	16	14	32	25	10	11	13	14	11	10	21	16	15	23	12
+KYR2115	UndHill_217	Kyrgyz Southern	Central Asia/Southern Siberia			R1a	17	14	32	25	11	11	13	14	11	10	21	16	15	23	12
+KYR2116	UndHill_218	Kyrgyz Southern	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	21	16	15	23	12
+AFG2117	UndHill_219	Tajik	Central Asia/Southern Siberia			R1a	16	14	32	25	10	11	13	14	11	12	20	15	16	23	12
+AFG2118	UndHill_220	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	15	13	31	25	11	11	13	14	11	10	20	15	15	23	13
+AFG2119	UndHill_221	Altaian	Central Asia/Southern Siberia			R1a	17	13	31	24	11	11	14	14	11	10	20	15	15	24	13
+AFG2120	UndHill_222	Afghanistan, Pachtoun	Central Asia/Southern Siberia			R1a	15	13	30	25	11	11	13	14	11	10	20	16	15	23	12
+AFG2121	UndHill_223	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	17	11	29	24	11	11	13	14	11	10	20	15	15	23	13
+AFG2122	UndHill_224	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	16	13	31	25	11	12	13	15	11	10	20	17	16	24	13
+AFG2123	UndHill_225	Afghanistan, Tajik	Central Asia/Southern Siberia			R1a	16	13	31	25	11	11	14	14	11	10	20	14	14	23	12
+AFG2124	UndHill_226	Afghanistan, Turkmen	Central Asia/Southern Siberia			R1a	15	12	31	25	11	11	13	14	11	10	20	16	15	23	13
+ALT2125	UndHill_227	Altaian	Central Asia/Southern Siberia			R1a	16	14	31	26	11	11	13	14	11	11	19	15	15	23	11
+ALT2126	UndHill_228	Altaian	Central Asia/Southern Siberia			R1a	16	14	31	26	11	11	13	14	11	11	19	15	15	23	11
+ALT2127	UndHill_229	Altaian	Central Asia/Southern Siberia			R1a	16	14	31	26	11	11	13	14	11	11	19	15	15	23	11
+ALT2128	UndHill_230	Altaian	Central Asia/Southern Siberia			R1a	16	14	31	25	11	11	13	14	11	11	19	15	15	23	11
+ALT2129	UndHill_231	Altaian	Central Asia/Southern Siberia			R1a	16	14	31	26	11	11	13	14	11	11	19	15	15	23	11
+ALT2130	UndHill_232	Altaian	Central Asia/Southern Siberia			R1a	16	14	31	26	11	11	13	14	11	11	19	15	15	23	11
+ALT2131	UndHill_233	Altaian	Central Asia/Southern Siberia			R1a	16	14	32	26	11	11	13	14	11	11	19	15	15	23	11
+ALT2132	UndHill_234	Altaian	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	11	19	15	15	23	11
+ALT2133	UndHill_235	Altaian	Central Asia/Southern Siberia			R1a	16	14	32	26	11	11	13	14	11	11	19	15	15	23	11
+ALT2134	UndHill_236	Altaian	Central Asia/Southern Siberia			R1a	16	14	32	26	11	11	13	14	11	11	19	15	15	23	11
+ALT2135	UndHill_237	Altaian	Central Asia/Southern Siberia			R1a	16	14	31	26	11	11	13	14	11	11	19	15	15	23	11
+ALT2136	UndHill_238	Altaian	Central Asia/Southern Siberia			R1a	16	14	32	26	11	11	13	14	11	11	19	15	15	23	11
+ALT2137	UndHill_239	Altaian	Central Asia/Southern Siberia			R1a	16	13	31	26	11	13	13	15	11	11	20	15	15	24	11
+ALT2138	UndHill_240	Altaian	Central Asia/Southern Siberia			R1a	16	14	31	26	11	11	13	14	11	11	19	15	15	23	11
+ALT2139	UndHill_241	Altaian	Central Asia/Southern Siberia			R1a	16	14	31	26	11	11	13	14	11	11	19	15	15	23	11
+ALT2140	UndHill_242	Altaian	Central Asia/Southern Siberia			R1a	16	14	32	25	11	11	13	14	11	10	21	17	15	23	12
+KHAK2141	UndHill_243	Khakassian	Central Asia/Southern Siberia			R1a	16	13	29	24	11	11	13	14	12	10	20	16	15	23	13
+KHAK2142	UndHill_244	Khakassian	Central Asia/Southern Siberia			R1a	16	13	29	24	11	11	13	14	11	10	20	16	15	23	13
+KHAK2143	UndHill_245	Khakassian	Central Asia/Southern Siberia			R1a	16	15	33	25	10	11	13	14	11	10	21	16	15	23	12
+KHAK2144	UndHill_246	Khakassian	Central Asia/Southern Siberia			R1a	16	13	29	24	11	11	13	14	11	10	20	16	15	23	13
+KHAK2145	UndHill_247	Khakassian	Central Asia/Southern Siberia			R1a	17	13	31	24	10	11	13	14	11	10	20	16	15	23	12
+KHAK2146	UndHill_248	Khakassian	Central Asia/Southern Siberia			R1a	16	13	29	24	11	11	13	14	11	10	20	16	15	23	13
+KHAK2147	UndHill_249	Khakassian	Central Asia/Southern Siberia			R1a	16	13	29	24	11	11	13	14	12	10	20	16	15	23	13
+KHAK2148	UndHill_250	Khakassian	Central Asia/Southern Siberia			R1a	16	13	29	24	11	11	13	14	11	10	20	16	15	23	13
+KHAK2149	UndHill_251	Khakassian	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	13	14	11	10	20	15	16	24	13
+KHAK2150	UndHill_252	Khakassian	Central Asia/Southern Siberia			R1a	17	13	31	24	10	11	13	14	11	10	20	16	15	23	12
+KHAK2151	UndHill_253	Khakassian	Central Asia/Southern Siberia			R1a	16	13	29	24	11	11	13	14	12	10	20	16	15	23	13
+KHAK2152	UndHill_254	Khakassian	Central Asia/Southern Siberia			R1a	17	13	31	24	10	11	13	14	11	10	20	16	15	23	12
+KHAK2153	UndHill_255	Khakassian	Central Asia/Southern Siberia			R1a	15	13	30	24	11	11	13	14	11	10	20	16	15	23	13
+KHAK2154	UndHill_256	Khakassian	Central Asia/Southern Siberia			R1a	17	13	31	24	11	11	13	14	11	10	20	16	15	23	12
+KHAK2155	UndHill_257	Khakassian	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	13	14	11	10	20	15	16	24	13
+KHAK2156	UndHill_258	Khakassian	Central Asia/Southern Siberia			R1a	17	13	31	24	10	11	13	14	11	10	20	16	15	23	12
+KHAK2157	UndHill_259	Khakassian	Central Asia/Southern Siberia			R1a	16	13	29	24	11	11	13	14	11	10	20	16	15	23	13
+KHAK2158	UndHill_260	Khakassian	Central Asia/Southern Siberia			R1a	17	13	31	24	10	11	13	14	11	10	20	16	15	23	12
+KHAK2159	UndHill_261	Khakassian	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	13	14	11	10	20	15	16	24	13
+KHAK2160	UndHill_262	Khakassian	Central Asia/Southern Siberia			R1a	16	13	29	24	11	11	13	14	11	10	20	16	15	23	13
+KHAK2161	UndHill_263	Khakassian	Central Asia/Southern Siberia			R1a	17	13	30	25	11	11	13	14	11	11	20	16	15	23	12
+KHAK2162	UndHill_264	Khakassian	Central Asia/Southern Siberia			R1a	17	13	30	25	11	11	13	14	11	11	20	16	15	23	12
+KHAK2163	UndHill_265	Khakassian	Central Asia/Southern Siberia			R1a	16	13	29	24	11	11	13	14	12	10	20	16	15	23	13
+KHAK2164	UndHill_266	Khakassian	Central Asia/Southern Siberia			R1a	17	13	31	24	11	11	13	14	11	10	20	16	15	23	12
+KYR2165	UndHill_267	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	31	25	11	11	13	14	11	11	20	16	15	23	14
+KYR2166	UndHill_268	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	31	25	11	11	13	14	11	11	20	15	15	23	14
+KYR2167	UndHill_269	Kyrgyz	Central Asia/Southern Siberia			R1a	16	13	31	24	11	11	13	14	11	10	20	16	15	23	12
+KYR2168	UndHill_270	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	31	25	10	11	13	14	11	11	20	16	15	23	14
+KYR2169	UndHill_271	Kyrgyz	Central Asia/Southern Siberia			R1a	16	13	31	24	10	11	13	13	11	10	20	16	15	24	13
+KYR2170	UndHill_272	Kyrgyz	Central Asia/Southern Siberia			R1a	16	14	31	25	11	11	13	14	11	10	20	16	15	23	14
+KYR2171	UndHill_273	Kyrgyz	Central Asia/Southern Siberia			R1a	16	13	30	24	11	11	13	14	11	10	20	16	15	23	13
+KYR2172	UndHill_274	Kyrgyz	Central Asia/Southern Siberia			R1a	16	13	30	25	10	12	13	15	11	10	20	17	15	23	12
+KYR2173	UndHill_275	Kyrgyz	Central Asia/Southern Siberia			R1a	16	13	31	24	11	11	13	14	11	10	20	16	15	23	13
+KYR2174	UndHill_276	Kyrgyz Southern	Central Asia/Southern Siberia			R1a	16	14	31	25	11	11	13	14	11	11	20	16	15	23	13
+KYR2175	UndHill_277	Kyrgyz Southern	Central Asia/Southern Siberia			R1a	17	13	31	24	11	11	13	14	11	10	20	16	15	23	13
+TUR2176	UndHill_278	Turkmen	Central Asia/Southern Siberia			R1a	17	13	30	24	11	12	13	14	11	10	20	17	15	23	13
+TUV2177	UndHill_279	Tuva	Central Asia/Southern Siberia			R1a	16	14	31	25	11	11	13	14	11	11	19	15	15	23	11
+AFG2178	UndHill_280	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	15	13	31	25	11	11	13	14	11	10	20	16	17	23	13
+AFG2179	UndHill_281	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	15	13	32	25	10	11	13	14	11	10	20	16	17	24	12
+AFH2180	UndHill_282	Afghanistan, Uzbek	Central Asia/Southern Siberia			R1a	14	14	31	22	11	11	13	14	11	10	20	16	15	23	12
+TUR2181	UndHill_283	Turkmen	Central Asia/Southern Siberia			R1a	15	13	31	24	10	11	13	14	11	10	20	15	16	23	12
+TUV2182	UndHill_284	Tuva	Central Asia/Southern Siberia			R1a	15	13	30	26	9	11	13	14	11	10	19	16	18	23	12
+TUV2183	UndHill_285	Tuva	Central Asia/Southern Siberia			R1a	15	13	30	26	9	11	13	14	11	10	19	16	18	23	12
+TUV2184	UndHill_286	Tuva	Central Asia/Southern Siberia			R1a	15	13	30	26	9	11	13	14	11	10	19	16	18	23	12
+CE2185	UndHill_287	Estonian	East/Central Europe			R1a	16	13	31	25	10	11	13	14	11	11	19	16	15	23	12
+CE2186	UndHill_288	Austrian	East/Central Europe			R1a	17	14	31	25	10	11	13	14	11	10	20	16	16	24	11
+CE2187	UndHill_289	Czech	East/Central Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	17	15	24	12
+CE2188	UndHill_290	Czech	East/Central Europe			R1a	16	13	29	24	10	11	13	14	11	11	20	17	16	24	13
+CE2189	UndHill_291	Czech	East/Central Europe			R1a	16	13	30	25	10	11	13	14	11	11	20	16	14	24	12
+CE2190	UndHill_292	Czech	East/Central Europe			R1a	17	13	30	26	10	11	13	14	11	11	20	16	16	24	12
+CE2191	UndHill_293	Czech	East/Central Europe			R1a	17	13	30	25	10	11	13	14	11	10	20	15	17	24	12
+CE2192	UndHill_294	Czech	East/Central Europe			R1a	17	13	30	25	10	11	14	14	11	10	20	16	16	24	12
+CE2193	UndHill_295	Estonian	East/Central Europe			R1a	15	13	29	25	10	11	13	14	11	11	20	16	15	23	13
+CE2194	UndHill_296	Estonian	East/Central Europe			R1a	17	13	30	25	10	11	13	14	11	10	20	16	16	23	12
+CE2195	UndHill_297	Polish	East/Central Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	17	17	24	12
+CE2196	UndHill_298	Polish	East/Central Europe			R1a	16	13	30	25	10	11	13	14	11	11	20	16	17	24	12
+CE2197	UndHill_299	Polish	East/Central Europe			R1a	17	13	30	25	10	11	13	14	11	10	20	16	15	24	12
+CE2198	UndHill_300	Polish	East/Central Europe			R1a	16	13	29	26	10	11	13	14	11	11	20	17	16	24	12
+CE2199	UndHill_301	Polish	East/Central Europe			R1a	17	13	30	25	12	11	13	14	11	10	20	16	17	24	12
+CE2200	UndHill_302	Polish	East/Central Europe			R1a	15	13	29	26	10	11	13	14	11	12	20	17	16	24	12
+CE2201	UndHill_303	Polish	East/Central Europe			R1a	17	13	30	25	10	10	13	14	11	10	20	16	16	24	12
+CE2202	UndHill_304	Polish	East/Central Europe			R1a	17	12	29	24	10	11	13	14	11	10	20	16	16	24	12
+CE2203	UndHill_305	Polish	East/Central Europe			R1a	15	13	29	24	10	11	13	14	11	11	20	17	17	24	12
+CE2204	UndHill_306	Polish	East/Central Europe			R1a	17	13	30	25	10	11	13	14	11	11	20	16	16	24	13
+CE2205	UndHill_307	Polish	East/Central Europe			R1a	17	13	29	24	10	11	13	14	11	10	20	16	15	24	13
+CE2206	UndHill_308	Polish	East/Central Europe			R1a	16	13	29	25	10	11	13	14	11	11	19	16	16	24	11
+CE2207	UndHill_309	Polish	East/Central Europe			R1a	15	14	31	25	10	11	13	14	11	11	20	16	18	24	12
+CE2208	UndHill_310	Polish_East	East/Central Europe			R1a	18	13	30	26	10	11	13	14	11	10	20	18	17	24	12
+CE2209	UndHill_311	Polish_North	East/Central Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	16	16	24	12
+CE2210	UndHill_312	Polish_South	East/Central Europe			R1a	15	13	29	26	10	11	13	14	11	11	20	17	16	24	12
+CE2211	UndHill_313	Polish_South	East/Central Europe			R1a	17	13	30	25	10	11	13	14	11	12	20	15	16	24	12
+CE2212	UndHill_314	Polish_South	East/Central Europe			R1a	17	13	30	25	10	11	13	14	11	10	20	16	16	24	11
+CE2213	UndHill_315	Polish_South	East/Central Europe			R1a	17	13	30	25	10	11	13	14	11	10	20	16	17	24	12
+CE2214	UndHill_316	Polish_South	East/Central Europe			R1a	17	13	30	25	10	11	13	14	11	10	20	15	17	24	12
+CE2215	UndHill_317	Polish_South	East/Central Europe			R1a	17	14	31	25	10	11	13	14	11	10	20	16	18	24	12
+CE2216	UndHill_318	Polish_South	East/Central Europe			R1a	17	13	31	25	10	11	13	14	11	10	20	15	16	24	12
+CE2217	UndHill_319	Polish_South	East/Central Europe			R1a	17	13	32	25	10	11	13	14	11	10	20	16	18	24	13
+CE2218	UndHill_320	Russian_Northwest	East/Central Europe			R1a	15	13	29	25	10	11	13	14	11	11	20	17	16	24	12
+CE2219	UndHill_321	Russian_Northwest	East/Central Europe			R1a	16	14	30	25	10	11	13	14	11	11	20	17	15	24	12
+CE2220	UndHill_322	Russian_Southwest	East/Central Europe			R1a	16	13	29	24	10	11	13	14	11	11	20	17	16	24	12
+CE2221	UndHill_323	Russian_Southwest	East/Central Europe			R1a	17	13	29	25	10	11	14	13	11	11	19	17	16	24	11
+CE2222	UndHill_324	Russian_Southwest	East/Central Europe			R1a	17	13	29	25	10	11	13	14	11	10	20	16	16	24	12
+CE2223	UndHill_325	Slovak	East/Central Europe			R1a	15	13	30	25	10	11	13	14	9	12	20	17	16	23	12
+CE2224	UndHill_326	Slovak	East/Central Europe			R1a	15	13	29	24	10	11	13	14	11	11	20	15	16	23	11
+CE2225	UndHill_327	Slovak	East/Central Europe			R1a	16	13	30	24	10	11	13	14	11	9	20	16	17	23	12
+CE2226	UndHill_328	Slovak	East/Central Europe			R1a	16	13	30	25	10	11	13	14	11	10	19	16	16	22	12
+CE2227	UndHill_329	Slovak	East/Central Europe			R1a	16	13	30	25	10	11	13	14	11	10	19	16	16	22	12
+CE2228	UndHill_330	Slovak	East/Central Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	15	16	23	12
+CE2229	UndHill_331	Slovak	East/Central Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	15	16	23	12
+CE2230	UndHill_332	Slovak	East/Central Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	15	16	23	12
+CE2231	UndHill_333	Slovak	East/Central Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	15	16	23	12
+CE2232	UndHill_334	Slovak	East/Central Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	16	17	23	12
+CE2233	UndHill_335	Slovak	East/Central Europe			R1a	16	13	30	25	10	11	13	14	11	11	20	16	16	23	12
+CE2234	UndHill_336	Slovak	East/Central Europe			R1a	16	13	30	25	10	11	13	14	11	11	20	16	18	23	12
+CE2235	UndHill_337	Slovak	East/Central Europe			R1a	16	13	31	25	10	11	13	14	11	10	19	16	16	22	12
+CE2236	UndHill_338	Slovak	East/Central Europe			R1a	16	14	32	25	10	11	12	14	11	10	20	14	16	23	11
+CE2237	UndHill_339	Slovak	East/Central Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	17	16	23	12
+CE2238	UndHill_340	Slovak	East/Central Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	17	16	23	12
+CE2239	UndHill_341	Slovak	East/Central Europe			R1a	16	13	29	24	10	11	13	14	11	11	20	17	16	23	12
+CE2240	UndHill_342	Slovak	East/Central Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	16	14	23	12
+CE2241	UndHill_343	Slovak	East/Central Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	16	16	24	12
+CE2242	UndHill_344	Slovak	East/Central Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	17	16	23	12
+CE2243	UndHill_345	Slovak	East/Central Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	17	16	23	12
+CE2244	UndHill_346	Slovak	East/Central Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	17	17	22	12
+CE2245	UndHill_347	Slovak	East/Central Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	17	16	23	12
+CE2246	UndHill_348	Slovak	East/Central Europe			R1a	16	13	29	25	10	11	13	14	11	12	21	16	17	23	12
+CE2247	UndHill_349	Slovak	East/Central Europe			R1a	16	13	29	26	10	11	13	14	11	11	20	18	17	23	12
+CE2248	UndHill_350	Slovak	East/Central Europe			R1a	16	13	29	26	10	11	13	14	11	11	20	17	16	23	12
+CE2249	UndHill_351	Slovak	East/Central Europe			R1a	16	13	30	24	10	11	13	14	11	12	20	16	16	24	11
+CE2250	UndHill_352	Slovak	East/Central Europe			R1a	16	13	30	25	10	11	13	14	11	11	20	16	16	23	12
+CE2251	UndHill_353	Slovak	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	11	20	16	16	23	12
+CE2252	UndHill_354	Slovak	East/Central Europe			R1a	16	14	31	25	10	11	13	14	11	11	20	17	16	23	12
+CE2253	UndHill_355	Slovak	East/Central Europe			R1a	16	13	29	25	10	11	12	14	11	11	20	17	17	23	12
+CE2254	UndHill_356	Slovak	East/Central Europe			R1a	17	12	29	25	10	11	13	14	11	12	20	18	17	24	12
+CE2255	UndHill_357	Slovak	East/Central Europe			R1a	17	13	30	25	10	11	13	14	11	10	20	15	17	23	12
+CE2256	UndHill_358	Slovak	East/Central Europe			R1a	17	13	30	24	11	11	13	14	11	10	20	15	17	23	11
+CE2257	UndHill_359	Slovak	East/Central Europe			R1a	17	13	30	25	10	11	13	14	11	11	20	16	18	23	12
+CE2258	UndHill_360	Slovak	East/Central Europe			R1a	17	13	32	25	10	11	13	14	11	11	20	16	16	24	12
+CE2259	UndHill_361	Slovak	East/Central Europe			R1a	17	13	29	25	10	11	12	14	11	10	20	16	17	23	12
+CE2260	UndHill_362	Slovak	East/Central Europe			R1a	17	13	30	25	10	11	13	14	12	10	19	15	14	23	12
+CE2261	UndHill_363	Slovak	East/Central Europe			R1a	17	14	31	25	10	11	13	14	11	11	19	16	16	23	12
+CE2262	UndHill_364	Slovak	East/Central Europe			R1a	17	14	31	25	10	11	13	14	11	10	20	15	16	23	12
+CE2263	UndHill_365	Slovak	East/Central Europe			R1a	17	13	30	25	10	11	13	14	11	10	20	15	16	23	12
+CE2264	UndHill_366	Slovak	East/Central Europe			R1a	17	13	30	25	10	11	13	14	11	10	20	16	17	23	12
+CE2265	UndHill_367	Slovak	East/Central Europe			R1a	17	13	30	24	10	11	13	14	11	11	20	15	16	23	12
+CE2266	UndHill_368	Slovak	East/Central Europe			R1a	17	14	30	24	10	11	13	14	11	10	20	16	16	23	12
+CE2267	UndHill_369	Slovak	East/Central Europe			R1a	17	13	30	24	10	11	13	14	11	10	20	15	17	23	12
+CE2268	UndHill_370	Slovak	East/Central Europe			R1a	17	14	31	24	10	11	13	14	11	10	20	15	18	23	12
+CE2269	UndHill_371	Slovak	East/Central Europe			R1a	17	14	31	24	10	11	13	14	11	10	20	16	17	23	12
+CE2270	UndHill_372	Slovak	East/Central Europe			R1a	17	13	30	23	10	11	13	14	11	10	20	16	17	24	12
+CE2271	UndHill_373	Slovak	East/Central Europe			R1a	17	13	30	25	10	11	12	14	11	10	20	17	16	23	12
+CE2272	UndHill_374	Slovak	East/Central Europe			R1a	17	13	30	26	10	11	14	14	11	11	20	15	16	23	12
+CE2273	UndHill_375	Slovak	East/Central Europe			R1a	17	13	30	24	10	11	13	14	11	10	20	17	17	23	12
+CE2274	UndHill_376	Slovak	East/Central Europe			R1a	17	13	31	24	10	11	13	14	11	10	20	15	16	23	12
+CE2275	UndHill_377	Slovak	East/Central Europe			R1a	18	13	30	24	10	11	13	14	11	10	20	16	16	23	12
+CE2276	UndHill_378	Slovak	East/Central Europe			R1a	16	13	30	24	10	11	13	14	11	10	20	16	15	24	12
+CE2277	UndHill_379	Slovak	East/Central Europe			R1a	15	13	29	25	10	11	13	14	11	11	20	16	16	24	12
+CE2278	UndHill_380	Slovak	East/Central Europe			R1a	16	13	30	24	10	11	13	14	11	11	20	17	16	24	11
+CE2279	UndHill_381	Slovak	East/Central Europe			R1a	17	13	30	26	10	11	14	14	11	10	20	15	17	24	12
+CE2280	UndHill_382	Ukrainian	East/Central Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	17	16	24	12
+CE2281	UndHill_383	Ukrainian	East/Central Europe			R1a	16	13	29	25	10	11	13	14	11	11	21	18	16	24	12
+CE2282	UndHill_384	Ukrainian Lvov	East/Central Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	16	16	23	11
+CE2283	UndHill_385	Ukrainian Lvov	East/Central Europe			R1a	17	13	30	25	10	11	13	14	11	10	20	15	16	23	12
+CE2284	UndHill_386	Ukrainian Lvov	East/Central Europe			R1a	15	13	29	25	10	11	13	14	11	11	20	17	16	23	12
+CE2285	UndHill_387	Ukrainian Lvov	East/Central Europe			R1a	17	14	31	25	10	11	13	14	11	10	20	17	17	23	12
+CE2286	UndHill_388	Ukrainian Lvov	East/Central Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	17	16	23	12
+CE2287	UndHill_389	Austrian	East/Central Europe			R1a	16	14	31	25	11	11	13	14	11	10	19	16	15	25	13
+CE2288	UndHill_390	Austrian	East/Central Europe			R1a	16	14	31	25	10	11	13	14	11	10	20	17	15	24	12
+CE2289	UndHill_391	Czech 	East/Central Europe			R1a	15	14	31	25	11	11	13	14	11	10	20	16	15	24	12
+CE2290	UndHill_392	Estonian	East/Central Europe			R1a	15	13	30	25	10	11	13	14	11	10	20	17	15	23	12
+CE2291	UndHill_393	Estonian	East/Central Europe			R1a	16	13	30	24	10	11	13	14	11	10	20	16	15	23	12
+CE2292	UndHill_394	Estonian	East/Central Europe			R1a	16	13	30	25	10	11	12	14	9	11	20	17	16	23	12
+CE2293	UndHill_395	Estonian	East/Central Europe			R1a	16	13	30	25	11	11	13	14	10	11	20	16	15	22	13
+CE2294	UndHill_396	Estonian	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	9	23	16	15	23	12
+CE2295	UndHill_397	Estonian	East/Central Europe			R1a	15	13	29	25	11	11	13	14	11	10	20	16	15	23	13
+CE2296	UndHill_398	Estonian	East/Central Europe			R1a	16	13	30	25	12	11	13	14	11	9	22	16	15	23	13
+CE2297	UndHill_399	Estonian	East/Central Europe			R1a	16	14	31	25	11	11	14	14	11	10	20	16	15	23	12
+CE2298	UndHill_400	Estonian	East/Central Europe			R1a	16	13	31	26	11	11	13	15	11	10	20	17	17	23	13
+CE2299	UndHill_401	Estonian	East/Central Europe			R1a	16	13	30	24	11	11	14	14	11	9	22	16	15	22	13
+CE2300	UndHill_402	Estonian	East/Central Europe			R1a	17	13	30	25	11	9	13	14	11	11	20	17	16	23	12
+CE2301	UndHill_403	Estonian	East/Central Europe			R1a	16	13	31	25	11	11	13	14	11	10	20	15	15	23	13
+CE2302	UndHill_404	Estonian	East/Central Europe			R1a	16	13	31	25	11	11	13	14	11	10	20	15	15	23	13
+CE2303	UndHill_405	Polish	East/Central Europe			R1a	15	13	30	24	11	11	13	14	11	10	20	16	16	24	13
+CE2304	UndHill_406	Polish	East/Central Europe			R1a	17	13	30	25	11	11	11	14	11	10	20	16	14	24	13
+CE2305	UndHill_407	Polish	East/Central Europe			R1a	16	13	31	25	11	11	13	14	11	10	20	17	14	24	12
+CE2306	UndHill_408	Polish	East/Central Europe			R1a	15	13	29	25	10	11	13	14	11	11	20	18	15	24	13
+CE2307	UndHill_409	Polish	East/Central Europe			R1a	15	13	30	25	11	11	13	14	11	10	20	16	19	24	12
+CE2308	UndHill_410	Polish	East/Central Europe			R1a	17	13	29	26	11	11	13	14	11	11	20	16	15	25	13
+CE2309	UndHill_411	Polish_East	East/Central Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	15	15	24	13
+CE2310	UndHill_412	Polish_East	East/Central Europe			R1a	17	13	29	25	10	11	13	14	11	10	20	17	15	24	12
+CE2311	UndHill_413	Polish_East	East/Central Europe			R1a	15	13	30	25	11	11	13	14	11	10	20	16	16	25	12
+CE2312	UndHill_414	Polish_North	East/Central Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	17	16	24	12
+CE2313	UndHill_415	Polish_North	East/Central Europe			R1a	17	13	30	27	11	11	13	14	11	11	20	16	15	23	12
+CE2314	UndHill_416	Polish_North	East/Central Europe			R1a	15	13	31	25	11	11	13	14	12	10	20	16	17	24	12
+CE2315	UndHill_417	Polish_North	East/Central Europe			R1a	17	13	31	25	10	11	13	14	11	10	20	15	14	23	13
+CE2316	UndHill_418	Polish_North	East/Central Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	17	15	24	14
+CE2317	UndHill_419	Polish_South	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	11	20	16	17	24	12
+CE2318	UndHill_420	Polish_West	East/Central Europe			R1a	17	13	31	25	11	11	13	14	11	11	20	16	14	24	13
+CE2319	UndHill_421	Polish_West	East/Central Europe			R1a	15	13	30	24	10	11	13	14	11	10	20	15	18	24	12
+CE2320	UndHill_422	Russian Orjol	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	11	20	16	15	23	12
+CE2321	UndHill_423	Russian Orjol	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	11	20	16	16	23	12
+CE2322	UndHill_424	Russian Orjol	East/Central Europe			R1a	16	13	29	26	11	11	13	14	11	10	20	15	15	23	12
+CE2323	UndHill_425	Russian Orjol	East/Central Europe			R1a	17	14	31	24	11	11	13	14	12	10	20	16	16	23	13
+CE2324	UndHill_426	Russian Orjol	East/Central Europe			R1a	14	13	30	25	11	11	13	14	10	10	20	17	17	25	12
+CE2325	UndHill_427	Russian Orjol	East/Central Europe			R1a	16	13	30	26	10	11	13	14	11	10	20	17	16	24	13
+CE2326	UndHill_428	Russian Orjol	East/Central Europe			R1a	17	14	31	24	11	11	13	14	12	10	20	16	16	23	13
+CE2327	UndHill_429	Russian Orjol	East/Central Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	17	15	23	13
+CE2328	UndHill_430	Russian Orjol	East/Central Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	17	15	23	13
+CE2329	UndHill_431	Russian Orjol	East/Central Europe			R1a	17	13	30	26	11	11	13	14	11	11	20	16	14	23	14
+CE2330	UndHill_432	Russian Orjol	East/Central Europe			R1a	16	14	31	25	11	11	13	14	11	10	20	15	16	23	11
+CE2331	UndHill_433	Russian Orjol	East/Central Europe			R1a	17	14	31	25	11	11	13	14	11	12	20	15	14	23	13
+CE2332	UndHill_434	Russian Orjol	East/Central Europe			R1a	16	13	31	25	11	11	13	14	11	10	19	16	15	23	12
+CE2333	UndHill_435	Russian Orjol	East/Central Europe			R1a	16	14	31	25	11	11	13	14	11	10	20	16	15	23	13
+CE2334	UndHill_436	Russian Orjol	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	11	20	16	15	23	12
+CE2335	UndHill_437	Russian Orjol	East/Central Europe			R1a	15	13	30	25	11	11	13	14	11	10	20	16	15	23	12
+CE2336	UndHill_438	Russian Orjol	East/Central Europe			R1a	15	13	30	25	10	11	13	14	11	10	20	17	15	24	12
+CE2337	UndHill_439	Russian Orjol	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	10	20	16	15	23	12
+CE2338	UndHill_440	Russian Orjol	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	11	20	16	16	23	13
+CE2339	UndHill_441	Russian Orjol	East/Central Europe			R1a	16	13	29	25	10	11	13	14	11	10	20	16	15	23	12
+CE2340	UndHill_442	Russian Orjol	East/Central Europe			R1a	15	13	30	25	11	11	13	14	11	10	20	15	15	23	12
+CE2341	UndHill_443	Russian Orjol	East/Central Europe			R1a	16	13	30	24	10	11	13	14	11	10	20	16	15	23	13
+CE2342	UndHill_444	Russian_Northwest	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	10	20	16	15	25	12
+CE2343	UndHill_445	Russian_Northwest	East/Central Europe			R1a	16	13	30	26	11	11	13	14	11	10	20	16	16	24	13
+CE2344	UndHill_446	Russian_Northwest	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	10	20	16	15	25	12
+CE2345	UndHill_447	Russian_Southwest	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	10	20	16	17	24	12
+CE2346	UndHill_448	Russian_Southwest	East/Central Europe			R1a	14	13	29	25	11	11	13	14	10	10	20	17	17	24	12
+CE2347	UndHill_449	Slovak	East/Central Europe			R1a	15	13	30	25	10	11	13	14	11	10	19	20	16	23	13
+CE2348	UndHill_450	Slovak	East/Central Europe			R1a	15	13	30	25	10	11	13	14	11	10	20	16	15	23	11
+CE2349	UndHill_451	Slovak	East/Central Europe			R1a	15	14	31	25	11	11	13	14	11	10	20	16	16	23	12
+CE2350	UndHill_452	Slovak	East/Central Europe			R1a	15	13	29	24	11	11	13	14	11	11	20	18	15	23	13
+CE2351	UndHill_453	Slovak	East/Central Europe			R1a	15	13	29	24	11	11	13	14	11	11	20	18	15	23	13
+CE2352	UndHill_454	Slovak	East/Central Europe			R1a	15	13	29	25	10	11	13	14	11	11	20	18	15	23	13
+CE2353	UndHill_455	Slovak	East/Central Europe			R1a	15	13	29	25	11	11	13	14	11	11	20	18	15	23	12
+CE2354	UndHill_456	Slovak	East/Central Europe			R1a	15	13	29	25	11	11	13	14	11	11	21	16	15	23	13
+CE2355	UndHill_457	Slovak	East/Central Europe			R1a	15	13	29	26	10	11	13	14	11	12	20	19	14	23	12
+CE2356	UndHill_458	Slovak	East/Central Europe			R1a	15	13	31	25	10	11	13	14	11	10	20	18	15	23	12
+CE2357	UndHill_459	Slovak	East/Central Europe			R1a	15	13	30	25	10	11	13	14	11	10	20	17	15	23	11
+CE2358	UndHill_460	Slovak	East/Central Europe			R1a	16	14	31	26	11	11	13	14	11	11	20	16	15	23	13
+CE2359	UndHill_461	Slovak	East/Central Europe			R1a	16	14	31	25	11	11	13	14	11	10	20	17	15	23	12
+CE2360	UndHill_462	Slovak	East/Central Europe			R1a	16	14	31	25	12	11	13	14	11	10	20	16	14	23	12
+CE2361	UndHill_463	Slovak	East/Central Europe			R1a	16	14	31	25	10	11	13	14	11	10	20	16	15	23	12
+CE2362	UndHill_464	Slovak	East/Central Europe			R1a	16	14	31	24	11	11	13	14	11	10	20	16	15	24	12
+CE2363	UndHill_465	Slovak	East/Central Europe			R1a	16	13	30	24	10	11	13	14	11	10	20	17	15	23	12
+CE2364	UndHill_466	Slovak	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	11	20	17	16	23	13
+CE2365	UndHill_467	Slovak	East/Central Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	17	15	23	12
+CE2366	UndHill_468	Slovak	East/Central Europe			R1a	16	13	30	24	10	11	14	14	11	12	20	16	17	23	12
+CE2367	UndHill_469	Slovak	East/Central Europe			R1a	16	14	31	25	10	11	13	15	11	10	20	16	15	23	12
+CE2368	UndHill_470	Slovak	East/Central Europe			R1a	16	14	31	25	12	11	13	14	11	11	20	16	14	23	12
+CE2369	UndHill_471	Slovak	East/Central Europe			R1a	16	15	34	24	11	11	13	14	11	10	20	16	15	23	12
+CE2370	UndHill_472	Slovak	East/Central Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	17	15	23	12
+CE2371	UndHill_473	Slovak	East/Central Europe			R1a	16	13	30	23	10	11	13	14	11	11	20	16	15	23	13
+CE2372	UndHill_474	Slovak	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	11	20	17	17	23	12
+CE2373	UndHill_475	Slovak	East/Central Europe			R1a	16	14	31	24	11	11	13	14	11	10	20	17	15	23	12
+CE2374	UndHill_476	Slovak	East/Central Europe			R1a	16	13	30	24	11	11	13	14	11	10	20	16	15	23	12
+CE2375	UndHill_477	Slovak	East/Central Europe			R1a	16	15	32	25	10	11	13	14	11	10	20	15	15	23	12
+CE2376	UndHill_478	Slovak	East/Central Europe			R1a	16	13	30	25	12	11	13	14	11	11	20	17	15	23	13
+CE2377	UndHill_479	Slovak	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	10	20	15	15	24	13
+CE2378	UndHill_480	Slovak	East/Central Europe			R1a	16	13	30	23	11	11	13	14	11	12	20	16	17	23	12
+CE2379	UndHill_481	Slovak	East/Central Europe			R1a	16	14	31	25	11	11	13	14	11	10	20	16	14	23	12
+CE2380	UndHill_482	Slovak	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	10	20	15	15	23	12
+CE2381	UndHill_483	Slovak	East/Central Europe			R1a	16	14	32	25	12	11	13	14	11	10	20	16	15	23	12
+CE2382	UndHill_484	Slovak	East/Central Europe			R1a	16	14	31	23	11	11	13	14	11	10	20	17	15	23	12
+CE2383	UndHill_485	Slovak	East/Central Europe			R1a	16	15	31	25	11	11	13	14	11	10	21	16	15	23	12
+CE2384	UndHill_486	Slovak	East/Central Europe			R1a	16	13	29	25	11	11	13	14	12	11	20	16	15	23	11
+CE2385	UndHill_487	Slovak	East/Central Europe			R1a	16	13	30	24	11	11	13	14	11	10	20	17	15	23	12
+CE2386	UndHill_488	Slovak	East/Central Europe			R1a	17	13	30	25	11	11	13	14	11	11	20	15	15	23	12
+CE2387	UndHill_489	Slovak	East/Central Europe			R1a	17	14	31	25	11	11	13	14	11	8	20	16	15	23	12
+CE2388	UndHill_490	Slovak	East/Central Europe			R1a	17	14	31	24	11	11	13	14	11	12	20	17	15	23	13
+CE2389	UndHill_491	Slovak	East/Central Europe			R1a	17	14	31	25	11	11	13	14	11	10	20	18	15	23	11
+CE2390	UndHill_492	Slovak	East/Central Europe			R1a	17	13	30	25	10	11	13	14	11	10	19	16	15	23	12
+CE2391	UndHill_493	Slovak	East/Central Europe			R1a	15	13	30	25	9	11	14	14	11	10	20	17	15	23	12
+CE2392	UndHill_494	Slovak	East/Central Europe			R1a	15	13	30	26	11	11	13	14	11	10	20	16	16	23	12
+CE2393	UndHill_495	Slovak	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	11	20	17	12	23	13
+CE2394	UndHill_496	Slovak	East/Central Europe			R1a	16	14	30	24	11	11	13	14	11	10	20	16	15	24	12
+CE2395	UndHill_497	Slovak	East/Central Europe			R1a	16	14	32	25	11	11	13	14	11	10	20	16	15	23	12
+CE2396	UndHill_498	Slovak	East/Central Europe			R1a	16	14	32	25	11	11	14	14	11	10	20	16	14	23	12
+CE2397	UndHill_499	Slovak	East/Central Europe			R1a	17	13	31	25	10	11	13	14	11	11	21	16	15	23	12
+CE2398	UndHill_500	Slovak	East/Central Europe			R1a	17	13	30	25	11	11	14	14	11	11	20	16	15	23	13
+CE2399	UndHill_501	Slovak	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	11	20	17	16	24	12
+CE2400	UndHill_502	Slovak	East/Central Europe			R1a	18	13	29	24	12	11	13	14	11	10	20	16	13	24	12
+CE2401	UndHill_503	Ukrainian	East/Central Europe			R1a	16	14	31	25	10	11	13	14	11	10	20	16	15	23	12
+CE2402	UndHill_504	Ukrainian	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	10	20	15	15	23	12
+CE2403	UndHill_505	Ukrainian	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	10	20	15	15	23	12
+CE2404	UndHill_506	Ukrainian	East/Central Europe			R1a	15	13	30	25	10	11	13	14	11	10	20	17	15	24	12
+CE2405	UndHill_507	Ukrainian	East/Central Europe			R1a	17	13	31	25	11	12	13	14	11	11	20	16	15	23	13
+CE2406	UndHill_508	Ukrainian	East/Central Europe			R1a	15	13	29	25	11	11	13	14	11	11	20	19	15	24	13
+CE2407	UndHill_509	Ukrainian	East/Central Europe			R1a	16	14	31	24	11	11	13	14	11	10	20	15	15	23	12
+CE2408	UndHill_510	Ukrainian	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	10	20	16	15	23	12
+CE2409	UndHill_511	Ukrainian	East/Central Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	17	15	23	12
+CE2410	UndHill_512	Ukrainian	East/Central Europe			R1a	16	13	29	25	11	11	13	14	11	11	20	16	15	23	13
+CE2411	UndHill_513	Ukrainian	East/Central Europe			R1a	17	13	30	25	11	11	13	14	11	10	20	17	15	23	12
+CE2412	UndHill_514	Ukrainian	East/Central Europe			R1a	16	13	29	25	11	11	13	14	11	10	20	17	15	24	12
+CE2413	UndHill_515	Austrian	East/Central Europe			R1a	16	13	29	25	10	11	13	14	11	10	20	14	14	23	12
+CE2414	UndHill_516	Austrian	East/Central Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	14	14	25	12
+CE2415	UndHill_517	Hungarian	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	10	20	14	14	23	12
+CE2416	UndHill_518	Slovak	East/Central Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	14	14	23	12
+CE2417	UndHill_519	Slovak	East/Central Europe			R1a	15	14	32	25	10	11	13	14	11	10	20	15	16	23	12
+CE2418	UndHill_520	Belorussian	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	11	20	16	16	24	13
+CE2419	UndHill_521	Estonian	East/Central Europe			R1a	16	13	30	24	11	10	14	14	11	11	20	15	15	24	12
+CE2420	UndHill_522	Estonian	East/Central Europe			R1a	16	12	29	25	11	11	13	14	11	10	19	15	15	23	12
+CE2421	UndHill_523	Estonian	East/Central Europe			R1a	16	13	29	25	10	11	13	14	11	10	20	17	16	23	12
+CE2422	UndHill_524	Polish_East	East/Central Europe			R1a	17	13	30	25	11	11	13	14	11	11	20	16	15	24	14
+CE2423	UndHill_525	Polish_West	East/Central Europe			R1a	15	13	31	25	11	11	13	14	11	10	19	16	18	24	12
+CE2424	UndHill_526	Russian 	East/Central Europe			R1a	14	14	31	25	11	11	13	14	11	10	20	16	16	24	13
+CE2425	UndHill_527	Russian Orjol	East/Central Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	15	15	23	13
+CE2426	UndHill_528	Russian Orjol	East/Central Europe			R1a	15	13	31	24	11	11	13	14	11	10	20	15	15	23	13
+CE2427	UndHill_529	Russian Orjol	East/Central Europe			R1a	15	13	31	25	11	11	13	14	11	10	20	15	15	23	12
+CE2428	UndHill_530	Russian Orjol	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	10	20	15	15	24	13
+CE2429	UndHill_531	Russian Orjol	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	10	20	15	16	25	12
+CE2430	UndHill_532	Russian Orjol	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	10	20	16	15	23	12
+CE2431	UndHill_533	Russian Orjol	East/Central Europe			R1a	15	13	30	24	11	11	10	14	11	11	19	15	15	24	13
+CE2432	UndHill_534	Russian Orjol	East/Central Europe			R1a	16	14	30	25	11	11	13	14	11	12	20	15	16	24	13
+CE2433	UndHill_535	Russian Orjol	East/Central Europe			R1a	15	13	32	25	11	11	13	14	11	10	20	15	15	23	12
+CE2434	UndHill_536	Russian_Southwest	East/Central Europe			R1a	15	13	31	24	11	11	14	14	11	10	20	15	16	25	13
+CE2435	UndHill_537	Slovak	East/Central Europe			R1a	15	13	30	25	10	11	13	14	11	12	20	16	15	24	13
+CE2436	UndHill_538	Slovak	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	10	20	16	15	23	13
+CE2437	UndHill_539	Slovak	East/Central Europe			R1a	16	14	31	25	11	11	13	14	11	11	20	16	16	23	13
+CE2438	UndHill_540	Slovak	East/Central Europe			R1a	15	13	31	25	10	11	13	14	11	11	20	15	17	23	13
+CE2439	UndHill_541	Slovak	East/Central Europe			R1a	15	13	30	25	11	11	13	14	11	10	20	15	15	24	12
+CE2440	UndHill_542	Slovak	East/Central Europe			R1a	16	13	30	25	12	11	13	14	11	10	20	15	16	24	13
+CE2441	UndHill_543	Ukrainian	East/Central Europe			R1a	16	12	30	25	11	11	13	14	11	10	20	15	16	24	12
+CE2442	UndHill_544	Ukrainian	East/Central Europe			R1a	16	13	31	25	11	11	13	14	11	10	20	15	15	24	12
+CE2443	UndHill_545	Ukrainian	East/Central Europe			R1a	15	14	31	25	10	11	13	14	11	12	20	18	16	23	12
+CE2444	UndHill_546	Ukrainian	East/Central Europe			R1a	16	13	30	25	11	11	13	14	11	10	20	15	15	24	13
+CE2445	UndHill_547	Swiss_Northeast	East/Central Europe			R1a	15	13	30	25	10	11	13	14	11	10	20	15	17	23	12
+CE2446	UndHill_548	Estonian	East/Central Europe			R1a	16	13	30	24	11	11	13	14	11	10	20	18	16	23	12
+CE2447	UndHill_549	Estonian	East/Central Europe			R1a	17	13	30	24	11	11	13	14	11	11	20	17	16	23	12
+CE2448	UndHill_550	Swiss_Northeast	East/Central Europe			R1a	16	13	31	24	11	11	14	14	11	10	20	15	16	24	12
+CE2449	UndHill_551	Swiss_Northwest	East/Central Europe			R1a	16	13	31	25	11	11	14	14	11	10	20	15	15	24	12
+JEWS2450	UndHill_552	Ashkenazi, Levite	Jews			R1a	16	13	30	25	10	11	13	14	11	10	20	14	14	23	11
+JEWS2451	UndHill_553	Ashkenazi, Levite	Jews			R1a	16	13	30	25	10	11	13	14	11	10	20	14	14	23	12
+JEWS2452	UndHill_554	Ashkenazi, Levite	Jews			R1a	16	13	29	25	10	11	13	14	11	10	20	14	15	23	11
+JEWS2453	UndHill_555	Ashkenazi, Levite	Jews			R1a	15	13	29	25	10	11	13	14	11	10	20	14	14	23	12
+JEWS2454	UndHill_556	Ashkenazi, Levite	Jews			R1a	16	13	31	24	10	11	13	14	11	10	20	14	15	23	12
+JEWS2455	UndHill_557	Ashkenazi, Levite	Jews			R1a	16	13	29	25	10	11	13	14	11	10	20	14	14	23	12
+JEWS2456	UndHill_558	Ashkenazi, Levite	Jews			R1a	17	13	30	25	10	11	13	14	11	10	20	14	14	23	12
+JEWS2457	UndHill_559	Ashkenazi, Levite	Jews			R1a	16	13	30	25	10	11	13	14	11	10	20	14	14	23	12
+JEWS2458	UndHill_560	Ashkenazi, Levite	Jews			R1a	16	13	30	25	10	11	13	14	11	10	20	14	14	23	12
+JEWS2459	UndHill_561	Ashkenazi, Levite	Jews			R1a	16	13	30	25	10	11	13	14	11	10	20	14	14	23	12
+JEWS2460	UndHill_562	Ashkenazi, Levite	Jews			R1a	16	13	30	25	10	11	13	14	12	10	20	14	15	23	12
+JEWS2461	UndHill_563	Ashkenazi, Levite	Jews			R1a	16	13	30	25	10	11	13	14	11	10	20	14	14	23	12
+JEWS2462	UndHill_564	Ashkenazi, Levite	Jews			R1a	16	13	30	25	10	11	13	14	11	10	20	14	14	23	12
+JEWS2463	UndHill_565	Ashkenazi, Levite	Jews			R1a	16	13	30	25	10	11	13	14	11	10	20	14	14	23	12
+JEWS2464	UndHill_566	Ashkenazi, Levite	Jews			R1a	16	13	30	25	10	11	13	14	11	10	20	14	14	23	12
+JEWS2465	UndHill_567	Ashkenazi, Levite	Jews			R1a	16	13	29	25	10	11	13	14	11	10	20	14	14	23	12
+JEWS2466	UndHill_568	Ashkenazi, Levite	Jews			R1a	17	13	30	25	10	11	13	14	11	10	20	14	14	23	12
+JEWS2467	UndHill_569	Ashkenazi, Levite	Jews			R1a	16	13	30	25	10	11	13	14	11	10	20	14	15	23	12
+JEWS2468	UndHill_570	Ashkenazi, Levite	Jews			R1a	16	13	30	25	10	11	13	14	11	10	20	14	14	23	12
+JEWS2469	UndHill_571	Ashkenazi, Levite	Jews			R1a	16	13	30	25	10	11	13	14	11	10	20	14	15	23	13
+JEWS2470	UndHill_572	Ashkenazi, Levite	Jews			R1a	16	13	30	25	10	11	13	14	11	10	20	14	14	23	12
+JEWS2471	UndHill_573	Ashkenazi, Levite	Jews			R1a	16	13	29	26	10	11	13	14	11	10	20	14	14	23	12
+ME2472	UndHill_574	Iranian Azeri	Near/Middle East			R1a	17	13	30	23	10	13	13	15	11	12	19	15	16	23	12
+ME2473	UndHill_575	Iranian Azeri	Near/Middle East			R1a	15	13	30	23	10	13	13	15	11	12	19	15	16	23	12
+ME2474	UndHill_576	Iranian Azeri	Near/Middle East			R1a	15	13	31	23	11	13	13	15	11	12	19	15	17	23	12
+ME2475	UndHill_577	Iranian Azeri	Near/Middle East			R1a	15	14	32	23	9	13	13	15	11	12	19	15	16	23	12
+ME2476	UndHill_578	Kordestan, Iran	Near/Middle East			R1a	15	13	29	25	10	11	13	14	11	10	20	16	15	23	12
+ME2477	UndHill_579	Iranian Azeri	Near/Middle East			R1a	15	13	30	23	11	13	13	15	11	13	19	15	16	23	12
+ME2478	UndHill_580	Turk	Near/Middle East			R1a	15	13	31	23	11	13	14	15	11	12	19	15	16	23	12
+ME2479	UndHill_581	Iranian Azeri	Near/Middle East			R1a	16	13	28	25	10	11	13	14	10	10	20	16	15	23	13
+ME2480	UndHill_582	Esfahan, Iran	Near/Middle East			R1a	16	14	32	25	11	11	13	14	11	10	20	17	17	23	13
+ME2481	UndHill_583	Iranian	Near/Middle East			R1a	15	13	31	24	11	11	13	14	11	10	20	15	17	23	12
+ME2482	UndHill_584	Iranian Azeri	Near/Middle East			R1a	16	13	30	25	11	11	13	14	11	10	19	16	16	23	13
+ME2483	UndHill_585	Iranian Azeri	Near/Middle East			R1a	16	13	30	25	11	11	13	14	11	10	20	15	18	23	13
+ME2484	UndHill_586	Iranian Azeri	Near/Middle East			R1a	16	13	30	25	11	11	13	14	11	10	20	15	18	23	14
+ME2485	UndHill_587	Iranian Azeri	Near/Middle East			R1a	15	14	30	25	10	11	13	14	11	10	20	16	16	23	13
+ME2486	UndHill_588	Iranian Azeri	Near/Middle East			R1a	16	13	30	24	10	11	13	14	12	11	20	15	16	23	12
+ME2487	UndHill_589	Iranian Azeri	Near/Middle East			R1a	15	13	31	25	10	11	14	14	11	10	20	17	16	23	13
+ME2488	UndHill_590	Khorasan, Iran	Near/Middle East			R1a	16	13	32	25	11	11	13	14	11	11	20	16	15	23	13
+ME2489	UndHill_591	unknown, Iran	Near/Middle East			R1a	15	14	30	25	10	11	13	14	11	10	20	15	16	25	12
+ME2490	UndHill_592	Gilan, Iran	Near/Middle East			R1a	15	13	31	25	11	11	13	14	11	10	20	15	18	23	13
+ME2491	UndHill_593	Iranian Azeri	Near/Middle East			R1a	16	14	31	25	10	11	12	14	11	12	20	16	14	23	13
+ME2492	UndHill_594	Iranian Azeri	Near/Middle East			R1a	15	13	29	25	11	11	14	14	11	10	20	15	15	23	12
+ME2493	UndHill_595	Iranian Azeri	Near/Middle East			R1a	15	13	29	25	11	11	14	14	11	10	20	15	15	23	12
+ME2494	UndHill_596	Iranian Azeri	Near/Middle East			R1a	16	14	31	25	10	11	13	14	11	12	20	16	14	23	13
+ME2495	UndHill_597	Iranian Azeri	Near/Middle East			R1a	15	13	29	25	11	11	13	14	11	10	20	15	15	23	11
+ME2496	UndHill_598	Iranian Azeri	Near/Middle East			R1a	16	14	32	26	10	11	13	14	11	13	20	16	14	23	13
+ME2497	UndHill_599	Iranian Kerman	Near/Middle East			R1a	16	14	31	25	10	11	13	14	11	12	20	16	14	23	13
+ME2498	UndHill_600	Iranian Kerman	Near/Middle East			R1a	16	13	30	25	11	11	13	14	11	10	20	16	14	23	12
+ME2499	UndHill_601	Iranian Kerman	Near/Middle East			R1a	16	13	30	25	11	11	13	14	11	10	20	16	14	23	12
+ME2500	UndHill_602	Kurd	Near/Middle East			R1a	16	14	31	25	10	11	13	14	11	12	20	16	14	23	13
+ME2501	UndHill_603	Kurd, Cilicia	Near/Middle East			R1a	16	13	30	25	10	11	13	14	11	12	20	16	15	23	13
+ME2502	UndHill_604	Kurd, Cilicia	Near/Middle East			R1a	16	14	31	25	10	11	13	14	11	12	20	16	15	23	13
+ME2503	UndHill_605	Esfahan, Iran	Near/Middle East			R1a	15	13	30	25	11	11	14	14	11	10	20	16	15	23	12
+ME2504	UndHill_606	Gilan, Iran	Near/Middle East			R1a	16	13	30	24	11	11	13	14	11	10	20	15	16	23	13
+ME2505	UndHill_607	Gilan, Iran	Near/Middle East			R1a	15	13	31	26	11	11	13	14	10	10	20	16	15	23	12
+ME2506	UndHill_608	Iranian	Near/Middle East			R1a	16	13	29	25	10	11	13	14	11	10	19	15	15	23	13
+ME2507	UndHill_609	Iranian	Near/Middle East			R1a	15	14	31	26	11	11	13	14	11	10	20	16	15	23	12
+ME2508	UndHill_610	Iranian	Near/Middle East			R1a	16	13	31	24	11	11	13	14	11	11	20	16	15	23	13
+ME2509	UndHill_611	Iranian	Near/Middle East			R1a	15	14	31	26	11	11	13	14	11	10	20	16	15	23	12
+ME2510	UndHill_612	Iranian Azeri	Near/Middle East			R1a	15	13	31	25	11	11	13	14	11	10	19	15	15	23	13
+ME2511	UndHill_613	Iranian Azeri	Near/Middle East			R1a	16	13	29	26	10	11	13	14	11	10	19	17	17	23	12
+ME2512	UndHill_614	Iranian Azeri	Near/Middle East			R1a	17	14	33	25	11	11	13	14	11	10	20	15	15	23	13
+ME2513	UndHill_615	Iranian Azeri	Near/Middle East			R1a	15	13	31	25	11	11	13	14	11	10	19	15	15	23	13
+ME2514	UndHill_616	Iranian Azeri	Near/Middle East			R1a	15	13	31	25	11	11	13	14	11	10	19	15	15	23	13
+ME2515	UndHill_617	Iranian Azeri	Near/Middle East			R1a	16	13	31	25	11	11	13	14	11	10	20	16	16	23	13
+ME2516	UndHill_618	Iranian Azeri	Near/Middle East			R1a	15	13	30	24	10	11	13	14	10	10	19	15	15	23	12
+ME2517	UndHill_619	Khorasan, Iran	Near/Middle East			R1a	16	14	30	25	11	11	13	14	11	10	20	16	16	23	13
+ME2518	UndHill_620	Khorasan, Iran	Near/Middle East			R1a	16	13	31	25	11	11	13	14	11	10	20	15	15	24	12
+ME2519	UndHill_621	Mazandaran, Iran	Near/Middle East			R1a	17	13	31	25	10	11	13	14	11	10	20	15	16	23	13
+ME2520	UndHill_622	Turk	Near/Middle East			R1a	15	13	30	24	11	11	13	14	11	10	21	16	15	23	12
+ME2521	UndHill_623	unknown, Iran	Near/Middle East			R1a	15	14	32	25	11	11	14	14	11	10	20	16	15	23	12
+ME2522	UndHill_624	Iranian Azeri	Near/Middle East			R1a	15	14	31	24	10	11	13	14	11	11	20	16	16	23	12
+ME2523	UndHill_625	Iranian Azeri	Near/Middle East			R1a	15	13	30	25	11	11	13	14	11	10	20	16	15	23	12
+ME2524	UndHill_626	Iranian Azeri	Near/Middle East			R1a	15	14	30	24	11	11	14	15	11	10	20	16	15	23	12
+ME2525	UndHill_627	Iranian Azeri	Near/Middle East			R1a	15	12	29	24	10	11	13	14	11	10	21	15	15	23	12
+ME2526	UndHill_628	Iranian Azeri	Near/Middle East			R1a	15	14	30	25	10	11	14	15	11	10	20	16	15	23	12
+ME2527	UndHill_629	Iranian Azeri	Near/Middle East			R1a	16	13	30	25	10	11	13	14	10	10	20	15	16	24	12
+ME2528	UndHill_630	Iranian Azeri	Near/Middle East			R1a	16	13	31	23	11	11	15	15	11	10	20	15	15	23	12
+ME2529	UndHill_631	Iranian Azeri	Near/Middle East			R1a	16	13	31	24	11	11	15	15	11	10	20	15	15	23	12
+ME2530	UndHill_632	Iranian Azeri	Near/Middle East			R1a	16	13	31	23	11	11	15	15	11	10	20	15	15	23	12
+ME2531	UndHill_633	Iranian Azeri	Near/Middle East			R1a	16	14	32	24	10	11	13	14	11	10	20	15	16	23	12
+ME2532	UndHill_634	Khorasan, Iran	Near/Middle East			R1a	15	12	31	25	11	11	13	14	11	10	20	14	16	23	14
+ME2533	UndHill_635	Khorasan, Iran	Near/Middle East			R1a	17	13	30	26	11	11	13	14	11	10	20	15	15	23	13
+ME2534	UndHill_636	Iranian Azeri	Near/Middle East			R1a	15	13	30	25	11	10	13	14	11	10	20	15	15	24	13
+ME2535	UndHill_637	Iranian Azeri	Near/Middle East			R1a	15	13	30	25	11	11	13	14	11	10	20	15	15	23	12
+SE2618	UndHill_720	Bosnian	South Europe			R1a	16	13	28	25	10	11	13	14	11	10	20	17	16	23	12
+SE2619	UndHill_721	Bosnian	South Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	16	16	23	12
+SE2620	UndHill_722	Bosnian	South Europe			R1a	16	13	30	25	10	11	13	14	11	12	20	16	16	23	12
+SE2621	UndHill_723	Croatian	South Europe			R1a	15	13	29	25	10	11	13	14	11	11	20	17	16	23	12
+SE2622	UndHill_724	Croatian	South Europe			R1a	17	13	30	25	10	11	14	14	11	10	20	15	16	23	12
+SE2623	UndHill_725	Croatian	South Europe			R1a	16	13	29	25	11	11	13	14	11	10	20	17	15	23	12
+SE2624	UndHill_726	Croatian	South Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	17	15	23	12
+SE2625	UndHill_727	Croatian	South Europe			R1a	15	13	29	25	11	11	13	14	11	11	20	18	16	23	12
+SE2626	UndHill_728	Croatian	South Europe			R1a	16	13	29	24	10	11	13	14	11	11	20	17	16	23	12
+SE2627	UndHill_729	Croatian	South Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	17	16	23	12
+SE2628	UndHill_730	Croatian	South Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	17	16	23	12
+SE2629	UndHill_731	Croatian	South Europe			R1a	16	13	30	24	10	11	13	14	11	11	20	16	18	23	12
+SE2630	UndHill_732	Croatian	South Europe			R1a	16	13	30	25	10	11	13	14	11	11	20	16	18	23	12
+SE2631	UndHill_733	Croatian	South Europe			R1a	17	13	30	26	10	11	13	14	11	11	20	16	18	23	12
+SE2632	UndHill_734	Croatian	South Europe			R1a	17	13	30	26	10	11	13	14	11	11	20	16	17	23	12
+SE2633	UndHill_735	Croatian	South Europe			R1a	17	13	30	26	10	11	13	14	11	11	20	16	17	23	12
+SE2634	UndHill_736	Croatian	South Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	17	16	23	12
+SE2635	UndHill_737	Macedonia	South Europe			R1a	16	13	30	25	12	11	13	14	11	11	20	16	15	23	13
+SE2636	UndHill_738	Slovenian_West	South Europe			R1a	17	13	30	24	10	11	13	14	11	12	20	16	17	24	12
+SE2637	UndHill_739	Bosnian	South Europe			R1a	17	13	30	25	11	11	13	14	11	11	21	16	15	23	12
+SE2638	UndHill_740	Bosnian	South Europe			R1a	16	13	30	25	11	11	13	14	11	11	21	16	15	23	12
+SE2639	UndHill_741	Croatian islands	South Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	17	15	23	11
+SE2640	UndHill_742	Croatian islands	South Europe			R1a	16	13	30	25	10	11	14	14	11	10	20	17	15	23	12
+SE2641	UndHill_743	Croatian islands	South Europe			R1a	16	14	31	25	11	11	13	14	11	10	19	16	15	23	12
+SE2642	UndHill_744	Croatian islands	South Europe			R1a	15	14	31	25	11	11	13	14	11	11	20	16	15	23	11
+SE2643	UndHill_745	Croatian islands	South Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	16	15	23	12
+SE2644	UndHill_746	Croatian islands	South Europe			R1a	15	14	31	25	11	11	13	14	11	10	20	16	15	23	12
+SE2645	UndHill_747	Croatian islands	South Europe			R1a	16	13	30	24	10	11	13	14	11	10	17	17	15	23	12
+SE2646	UndHill_748	Croatian islands	South Europe			R1a	15	14	31	25	10	11	13	14	11	11	20	16	15	23	11
+SE2647	UndHill_749	Croatian islands	South Europe			R1a	16	13	30	24	10	11	13	14	11	10	20	17	15	23	11
+SE2648	UndHill_750	Croatian islands	South Europe			R1a	16	13	30	24	10	11	13	14	11	10	21	16	15	23	12
+SE2649	UndHill_751	Croatian islands	South Europe			R1a	16	13	30	25	10	9	13	14	11	11	20	17	15	23	12
+SE2650	UndHill_752	Croatian islands	South Europe			R1a	16	13	30	25	10	11	13	14	11	11	20	17	15	23	12
+SE2651	UndHill_753	Croatian islands	South Europe			R1a	15	13	29	24	10	11	13	14	11	10	20	17	15	23	11
+SE2652	UndHill_754	Croatian islands	South Europe			R1a	16	13	30	25	11	11	13	14	11	10	20	17	16	23	12
+SE2653	UndHill_755	Croatian islands	South Europe			R1a	16	13	30	25	11	11	13	14	11	10	20	17	16	23	12
+SE2654	UndHill_756	Croatian islands	South Europe			R1a	16	13	30	25	11	11	13	14	11	10	20	16	16	23	12
+SE2655	UndHill_757	Croatian islands	South Europe			R1a	16	13	30	25	11	11	13	14	11	10	20	17	16	23	12
+SE2656	UndHill_758	Croatian islands	South Europe			R1a	16	13	30	25	11	11	13	14	11	10	20	17	16	23	12
+SE2657	UndHill_759	Croatian islands	South Europe			R1a	16	14	31	24	11	11	13	14	11	10	20	16	15	23	13
+SE2658	UndHill_760	Croatian islands	South Europe			R1a	16	14	31	24	11	11	13	14	11	10	20	16	15	23	13
+SE2659	UndHill_761	Croatian islands	South Europe			R1a	16	13	29	25	11	11	13	14	11	10	20	15	13	23	13
+SE2660	UndHill_762	Croatian islands	South Europe			R1a	17	13	29	25	11	11	13	14	11	10	20	16	13	23	13
+SE2661	UndHill_763	Croatian islands	South Europe			R1a	16	13	29	25	11	10	13	14	11	10	20	15	17	23	13
+SE2662	UndHill_764	Croatian islands	South Europe			R1a	16	14	31	26	11	11	13	14	11	11	20	17	15	23	12
+SE2663	UndHill_765	Croatian islands	South Europe			R1a	16	13	29	25	11	11	13	14	11	12	20	18	17	23	12
+SE2664	UndHill_766	Croatian islands	South Europe			R1a	16	13	29	25	11	11	13	14	11	11	20	18	16	23	13
+SE2665	UndHill_767	Croatian islands	South Europe			R1a	16	14	31	24	11	11	13	14	11	10	20	15	15	23	13
+SE2666	UndHill_768	Croatian islands	South Europe			R1a	16	14	31	25	10	11	13	14	11	10	20	16	15	23	12
+SE2667	UndHill_769	Croatian islands	South Europe			R1a	16	14	31	24	11	11	13	14	11	10	20	15	15	23	13
+SE2668	UndHill_770	Croatian islands	South Europe			R1a	16	13	29	25	11	11	13	14	11	11	20	18	17	23	13
+SE2669	UndHill_771	Croatian islands	South Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	17	15	23	12
+SE2670	UndHill_772	Croatian islands	South Europe			R1a	17	14	31	25	11	11	13	14	11	11	20	17	16	23	12
+SE2671	UndHill_773	Croatian islands	South Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	17	15	23	12
+SE2672	UndHill_774	Croatian islands	South Europe			R1a	16	13	30	25	10	11	13	14	11	10	19	16	15	23	12
+SE2673	UndHill_775	Croatian islands	South Europe			R1a	15	14	31	25	11	11	13	14	11	10	20	16	15	23	12
+SE2674	UndHill_776	Croatian islands	South Europe			R1a	16	13	30	25	10	11	14	14	11	10	20	17	15	23	12
+SE2675	UndHill_777	Croatian islands	South Europe			R1a	16	13	29	24	12	11	13	14	11	10	20	16	13	23	14
+SE2676	UndHill_778	Croatian islands	South Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	16	15	24	11
+SE2677	UndHill_779	Croatian islands	South Europe			R1a	16	13	29	25	11	11	13	14	11	10	20	15	15	24	13
+SE2678	UndHill_780	Croatian islands	South Europe			R1a	16	14	31	25	10	11	13	14	11	10	20	16	17	23	11
+SE2679	UndHill_781	Croatian mainland	South Europe			R1a	16	14	32	25	11	11	13	14	11	10	19	16	15	23	11
+SE2680	UndHill_782	Croatian mainland	South Europe			R1a	15	13	29	25	10	11	13	14	11	12	20	18	15	23	13
+SE2681	UndHill_783	Croatian mainland	South Europe			R1a	16	13	29	25	10	11	13	14	11	10	20	17	15	24	12
+SE2682	UndHill_784	Croatian mainland	South Europe			R1a	16	13	30	25	10	11	13	14	9	10	20	17	15	23	12
+SE2683	UndHill_785	Croatian mainland	South Europe			R1a	16	14	31	24	12	11	13	14	11	10	20	16	15	23	13
+SE2684	UndHill_786	Croatian mainland	South Europe			R1a	15	13	29	26	10	11	13	14	11	11	20	18	15	23	13
+SE2685	UndHill_787	Croatian mainland	South Europe			R1a	16	13	29	25	11	11	13	14	11	10	20	17	13	23	12
+SE2686	UndHill_788	Croatian mainland	South Europe			R1a	15	14	31	24	11	11	13	14	11	10	19	16	16	23	12
+SE2687	UndHill_789	Croatian mainland	South Europe			R1a	16	13	30	25	11	11	13	14	11	11	20	17	15	23	12
+SE2688	UndHill_790	Croatian mainland	South Europe			R1a	16	13	30	25	11	11	13	14	11	11	20	16	16	24	12
+SE2689	UndHill_791	Croatian mainland	South Europe			R1a	16	14	31	25	10	11	13	14	11	10	20	17	15	23	11
+SE2690	UndHill_792	Croatian mainland	South Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	17	15	23	12
+SE2691	UndHill_793	Greek	South Europe			R1a	15	13	31	25	11	11	13	14	11	10	20	17	14	24	13
+SE2692	UndHill_794	Herzegovina	South Europe			R1a	16	14	31	25	10	11	13	14	11	10	19	16	15	23	12
+SE2693	UndHill_795	Herzegovina	South Europe			R1a	17	13	30	25	10	11	13	14	11	10	20	16	15	23	13
+SE2694	UndHill_796	Herzegovina	South Europe			R1a	17	13	30	25	10	11	13	14	11	10	20	16	15	21	13
+SE2695	UndHill_797	Herzegovina	South Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	16	15	23	13
+SE2696	UndHill_798	Herzegovina	South Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	16	15	23	13
+SE2697	UndHill_799	Italian_North	South Europe			R1a	15	13	29	25	10	11	13	14	11	11	19	17	15	24	13
+SE2698	UndHill_800	Italian_North	South Europe			R1a	16	14	31	25	10	11	13	14	11	10	20	16	15	24	12
+SE2699	UndHill_801	Italian_North	South Europe			R1a	17	13	31	25	11	11	14	14	12	10	20	16	16	24	13
+SE2700	UndHill_802	Italian_North	South Europe			R1a	16	13	31	25	10	11	13	14	11	10	20	17	15	24	11
+SE2701	UndHill_803	Italian_South	South Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	17	16	24	14
+SE2702	UndHill_804	Macedonia	South Europe			R1a	17	13	30	24	11	11	13	15	10	13	19	15	18	23	11
+SE2703	UndHill_805	Macedonia	South Europe			R1a	16	13	30	25	11	11	13	14	11	12	20	17	15	23	13
+SE2704	UndHill_806	Macedonia	South Europe			R1a	16	13	30	24	10	11	13	14	11	10	20	15	15	23	12
+SE2705	UndHill_807	Macedonia	South Europe			R1a	16	13	30	25	11	11	13	14	11	11	20	16	15	23	13
+SE2706	UndHill_808	Serbia	South Europe			R1a	17	13	29	25	11	11	13	14	11	10	20	16	13	23	13
+SE2707	UndHill_809	Serbia	South Europe			R1a	16	13	30	25	10	12	15	14	11	10	20	17	15	23	12
+SE2708	UndHill_810	Serbia	South Europe			R1a	17	14	31	25	11	11	13	14	11	11	20	16	15	23	13
+SE2709	UndHill_811	Serbia	South Europe			R1a	17	13	29	25	11	11	13	14	11	10	20	16	13	23	13
+SE2710	UndHill_812	Serbia	South Europe			R1a	17	13	29	25	11	11	13	14	11	10	20	16	13	23	12
+SE2711	UndHill_813	Slovenian	South Europe			R1a	17	13	30	25	10	11	13	14	11	10	20	16	16	25	11
+SE2712	UndHill_814	Slovenian	South Europe			R1a	16	14	31	25	11	11	13	14	11	10	20	16	15	24	11
+SE2713	UndHill_815	Slovenian_Northeast	South Europe			R1a	16	15	33	25	10	11	13	14	11	10	20	17	15	25	12
+SE2714	UndHill_816	Slovenian_Northeast	South Europe			R1a	16	14	31	25	11	11	13	14	11	10	20	17	15	25	12
+SE2715	UndHill_817	Slovenian_Northeast	South Europe			R1a	16	12	29	25	10	11	13	14	11	10	19	17	16	24	12
+SE2716	UndHill_818	Slovenian_Northeast	South Europe			R1a	16	14	31	25	11	11	13	14	11	10	21	17	15	25	12
+SE2717	UndHill_819	Slovenian_Northeast	South Europe			R1a	16	13	29	25	10	11	13	14	11	10	20	17	15	24	12
+SE2718	UndHill_820	Slovenian_Northeast	South Europe			R1a	16	14	31	24	11	11	13	14	11	10	19	16	15	24	11
+SE2719	UndHill_821	Slovenian_Northeast	South Europe			R1a	15	14	31	25	11	11	13	14	11	11	20	15	15	25	13
+SE2720	UndHill_822	Slovenian_South	South Europe			R1a	16	13	29	25	11	11	13	14	11	11	20	17	17	24	11
+SE2721	UndHill_823	Slovenian_South	South Europe			R1a	15	13	29	26	10	11	13	14	11	11	20	17	15	24	13
+SE2722	UndHill_824	Slovenian_South	South Europe			R1a	17	14	31	24	11	11	13	14	11	10	20	16	15	25	12
+SE2723	UndHill_825	Slovenian_West	South Europe			R1a	16	13	31	25	11	11	13	14	11	11	20	17	15	24	13
+SE2724	UndHill_826	Slovenian_West	South Europe			R1a	16	13	30	24	10	11	13	14	11	10	20	16	15	24	12
+SE2725	UndHill_827	Slovenian_West	South Europe			R1a	16	13	30	25	10	11	13	14	11	11	20	16	15	24	13
+SE2726	UndHill_828	Slovenian_West	South Europe			R1a	16	13	30	24	10	11	13	14	11	11	20	17	15	24	12
+SE2727	UndHill_829	Slovenian_West	South Europe			R1a	16	13	30	25	10	11	12	14	11	10	20	17	15	24	12
+SE2728	UndHill_830	Slovenian_West	South Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	16	16	24	13
+SE2729	UndHill_831	Slovenian_West	South Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	17	15	24	12
+SE2730	UndHill_832	Slovenian_West	South Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	17	15	24	12
+SE2731	UndHill_833	Slovenian_West	South Europe			R1a	15	13	30	24	10	11	13	14	11	10	20	17	15	24	11
+SE2732	UndHill_834	Slovenian_West	South Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	17	15	24	11
+SE2733	UndHill_835	Slovenian_West	South Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	18	14	24	12
+SE2734	UndHill_836	Slovenian_West	South Europe			R1a	15	13	30	25	10	11	13	14	11	10	20	17	15	24	12
+SE2735	UndHill_837	Italian_North	South Europe			R1a	16	12	30	25	11	11	13	14	11	10	20	15	15	24	12
+SE2736	UndHill_838	Croatian mainland	South Europe			R1a	15	13	32	24	10	11	13	14	11	10	20	14	15	23	12
+SE2737	UndHill_839	Croatian mainland	South Europe			R1a	15	13	30	25	10	11	13	14	11	11	20	17	16	23	12
+SE2738	UndHill_840	Croatian mainland	South Europe			R1a	15	13	31	25	11	11	13	14	11	10	21	15	15	23	11
+SE2739	UndHill_841	Italian_North	South Europe			R1a	17	13	31	25	11	11	13	14	11	10	20	15	15	24	13
+SE2740	UndHill_842	Italian_South	South Europe			R1a	16	13	30	25	10	11	13	14	11	11	20	16	17	24	13
+SE2741	UndHill_843	Macedonia	South Europe			R1a	15	13	30	25	11	11	13	14	11	10	20	16	15	25	13
+SE2742	UndHill_844	Macedonia	South Europe			R1a	15	13	31	25	9	11	13	14	11	11	20	15	15	23	13
+SE2743	UndHill_845	Serbia	South Europe			R1a	15	13	30	25	10	10	13	14	11	11	20	16	15	23	13
+SE2744	UndHill_846	Serbia	South Europe			R1a	16	13	29	25	10	11	13	14	11	12	20	16	16	23	12
+SE2745	UndHill_847	Serbia	South Europe			R1a	17	13	29	25	11	11	13	14	11	10	20	16	13	23	13
+SE2746	UndHill_848	Italian_South	South Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	14	15	24	13
+SE2747	UndHill_849	Slovenian	South Europe			R1a	16	13	29	26	11	11	13	14	12	10	20	16	16	24	12
+SE2748	UndHill_850	Italian_North	South Europe			R1a	15	13	30	25	11	11	14	14	11	10	20	15	15	24	12
+NE2749	UndHill_851	Dutch_North	West/North Europe			R1a	15	13	30	25	10	11	13	14	11	10	19	15	15	24	13
+NE2750	UndHill_852	Dutch_Southeast	West/North Europe			R1a	16	13	31	25	10	11	13	14	11	10	19	16	15	24	11
+NE2751	UndHill_853	German_North	West/North Europe			R1a	15	13	30	25	10	11	13	14	11	10	19	15	16	24	12
+NE2752	UndHill_854	Irish_North	West/North Europe			R1a	15	14	31	25	10	11	13	14	11	10	19	15	15	24	12
+NE2753	UndHill_855	Norway	West/North Europe			R1a	17	13	30	24	10	11	13	14	11	10	19	15	15	25	12
+NE2754	UndHill_856	Danish_Southeast	West/North Europe			R1a	16	13	30	25	10	11	13	14	11	11	20	17	16	24	12
+NE2755	UndHill_857	Dutch_West	West/North Europe			R1a	15	13	29	25	10	11	13	14	11	11	20	16	16	24	11
+NE2756	UndHill_858	Dutch_West	West/North Europe			R1a	15	13	29	26	10	11	13	14	11	11	20	16	16	24	12
+NE2757	UndHill_859	German	West/North Europe			R1a	16	13	30	25	10	11	13	14	11	11	20	16	16	24	12
+NE2758	UndHill_860	German_East	West/North Europe			R1a	17	13	30	25	10	11	13	14	11	10	20	16	16	24	12
+NE2759	UndHill_861	German_East	West/North Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	16	16	24	12
+NE2760	UndHill_862	German_East	West/North Europe			R1a	17	13	30	25	11	11	13	14	11	10	20	15	17	24	12
+NE2761	UndHill_863	German_East	West/North Europe			R1a	17	13	30	25	10	11	13	14	11	10	20	16	16	24	12
+NE2762	UndHill_864	German_North	West/North Europe			R1a	18	13	29	25	10	11	13	14	11	13	20	17	15	24	12
+NE2763	UndHill_865	German_North	West/North Europe			R1a	16	14	30	24	10	11	14	14	11	11	20	17	16	24	12
+NE2764	UndHill_866	German_South	West/North Europe			R1a	16	13	29	25	10	11	13	14	11	11	20	17	17	23	12
+NE2765	UndHill_867	German_South	West/North Europe			R1a	16	14	30	25	10	11	13	14	11	11	20	18	16	24	12
+NE2766	UndHill_868	German_South	West/North Europe			R1a	16	13	29	25	10	11	13	14	10	11	20	18	16	24	12
+NE2767	UndHill_869	German_South	West/North Europe			R1a	16	13	29	26	10	11	13	14	11	11	20	17	17	24	12
+NE2768	UndHill_870	German_South	West/North Europe			R1a	16	12	29	25	10	11	13	14	11	10	20	16	17	24	13
+NE2769	UndHill_871	German_South	West/North Europe			R1a	16	12	28	26	10	11	12	14	11	11	20	16	18	24	12
+NE2770	UndHill_872	Danish_Island (east)	West/North Europe			R1a	15	13	29	26	11	11	13	14	11	11	20	19	15	24	13
+NE2771	UndHill_873	Danish_North	West/North Europe			R1a	15	13	29	24	10	11	13	14	11	10	20	15	17	24	13
+NE2772	UndHill_874	Danish_Southeast	West/North Europe			R1a	17	13	30	25	11	11	13	14	11	11	20	16	15	25	13
+NE2773	UndHill_875	German_East	West/North Europe			R1a	15	13	30	24	10	11	13	14	11	10	20	17	17	24	12
+NE2774	UndHill_876	German_East	West/North Europe			R1a	17	14	32	25	11	11	13	14	11	11	20	16	14	25	13
+NE2775	UndHill_877	German_East	West/North Europe			R1a	15	13	30	25	10	11	13	14	11	10	20	16	15	24	13
+NE2776	UndHill_878	German_East	West/North Europe			R1a	16	13	30	25	11	11	13	14	11	11	20	16	17	24	13
+NE2777	UndHill_879	German_East	West/North Europe			R1a	16	13	30	25	11	11	13	14	11	11	20	16	15	24	12
+NE2778	UndHill_880	German_East	West/North Europe			R1a	16	12	29	25	11	11	13	14	11	12	20	19	15	24	13
+NE2779	UndHill_881	German_North	West/North Europe			R1a	16	13	30	25	10	11	13	14	11	11	20	17	17	24	11
+NE2780	UndHill_882	German_North	West/North Europe			R1a	18	13	31	25	11	11	13	14	11	10	21	16	14	23	13
+NE2781	UndHill_883	German_North	West/North Europe			R1a	17	13	30	25	11	11	13	14	11	11	20	15	15	25	13
+NE2782	UndHill_884	German_North	West/North Europe			R1a	17	13	31	25	11	11	13	14	11	10	20	16	14	24	13
+NE2783	UndHill_885	German_North	West/North Europe			R1a	16	13	30	25	10	11	13	14	11	10	20	17	15	24	13
+NE2784	UndHill_886	Norway	West/North Europe			R1a	16	13	30	24	10	11	13	14	11	10	20	17	15	24	13
+NE2785	UndHill_887	German_West	West/North Europe			R1a	17	13	30	25	10	11	13	14	11	10	20	14	14	25	12
+NE2786	UndHill_888	Irish_North	West/North Europe			R1a	17	13	31	25	11	11	13	14	11	10	20	15	15	24	12
+NE2787	UndHill_889	German	West/North Europe			R1a	15	14	31	25	11	11	13	14	11	11	20	15	18	24	12
+NE2788	UndHill_890	German_East	West/North Europe			R1a	16	13	30	25	10	11	14	14	11	10	20	16	17	24	13
+NE2789	UndHill_891	German_East	West/North Europe			R1a	17	13	30	25	11	11	13	14	11	11	20	16	16	24	13
+NE2790	UndHill_892	German_East	West/North Europe			R1a	17	13	30	24	10	11	13	14	11	11	21	16	14	24	13
+NE2791	UndHill_893	German_North	West/North Europe			R1a	16	13	30	24	10	11	13	14	11	11	20	16	15	24	13
+NE2792	UndHill_894	German_South	West/North Europe			R1a	15	13	31	25	11	11	14	14	11	10	20	15	15	24	12
+NE2793	UndHill_895	German_South	West/North Europe			R1a	17	14	31	25	11	11	13	14	11	11	20	17	16	24	12
+NE2794	UndHill_896	German_South	West/North Europe			R1a	15	13	31	24	11	11	13	14	11	10	20	15	15	23	13
+NE2795	UndHill_897	German_West	West/North Europe			R1a	15	13	30	25	10	11	13	14	11	10	19	15	15	24	13
+NE2796	UndHill_898	German_West	West/North Europe			R1a	17	13	30	25	11	11	13	14	11	11	20	17	16	24	12
+NE2797	UndHill_899	Danish_East	West/North Europe			R1a	16	13	30	26	10	11	13	14	11	10	20	16	16	24	14
+NE2798	UndHill_900	Danish_North	West/North Europe			R1a	16	13	30	25	11	11	13	14	11	10	20	16	16	23	13
+NE2799	UndHill_901	Danish_North	West/North Europe			R1a	15	13	30	24	11	11	13	14	11	10	20	15	15	24	12
+NE2800	UndHill_902	Danish_North	West/North Europe			R1a	15	14	31	24	11	11	13	14	11	10	20	16	15	24	13
+NE2801	UndHill_903	Danish_North	West/North Europe			R1a	15	13	30	25	10	11	13	14	11	10	20	15	15	24	13
+NE2802	UndHill_904	Danish_Southeast	West/North Europe			R1a	15	14	31	24	11	11	13	14	11	10	20	17	15	24	12
+NE2803	UndHill_905	Danish_West	West/North Europe			R1a	15	13	30	24	10	11	13	14	11	10	20	16	16	24	11
+NE2804	UndHill_906	Danish_West	West/North Europe			R1a	15	14	31	26	10	11	13	14	11	10	20	16	15	24	14
+NE2805	UndHill_907	Danish_West	West/North Europe			R1a	16	13	30	25	11	11	13	14	11	10	20	16	15	23	12
+NE2806	UndHill_908	English_North	West/North Europe			R1a	15	14	31	25	10	11	13	14	11	10	20	16	16	24	13
+NE2807	UndHill_909	German_North	West/North Europe			R1a	16	12	30	25	10	11	13	14	11	10	19	15	16	24	13
+NE2808	UndHill_910	German_South	West/North Europe			R1a	15	13	30	25	11	11	13	14	11	10	20	15	15	24	12
+NE2809	UndHill_911	German_West	West/North Europe			R1a	16	13	28	25	11	11	13	14	11	10	20	16	15	24	13
+NOR2810	UndHill_912	Norway	West/North Europe			R1a	17	14	31	25	11	11	13	14	11	10	20	15	17	23	14
+NOR2811	UndHill_913	Norway	West/North Europe			R1a	16	13	30	25	10	11	13	14	11	12	20	16	15	23	12
+NOR2812	UndHill_914	Norway	West/North Europe			R1a	15	14	31	25	11	11	13	14	11	10	21	16	15	24	12
+NOR2813	UndHill_915	Norway	West/North Europe			R1a	15	13	29	25	11	11	13	14	11	11	20	15	15	24	12
+NOR2814	UndHill_916	Norway	West/North Europe			R1a	15	13	30	25	10	11	13	14	11	10	20	16	15	24	12
+NOR2815	UndHill_917	Norway	West/North Europe			R1a	15	14	31	25	11	11	13	14	11	10	20	16	15	24	12
+NOR2816	UndHill_918	Norway	West/North Europe			R1a	16	14	30	25	11	11	13	14	11	10	20	16	15	24	13
+NOR2817	UndHill_919	Norway	West/North Europe			R1a	15	13	30	25	11	11	13	14	12	10	20	16	15	24	12
+NOR2818	UndHill_920	Norway	West/North Europe			R1a	16	12	28	25	11	11	13	14	11	11	20	16	15	24	13
+NOR2819	UndHill_921	Norway	West/North Europe			R1a	15	14	31	25	11	11	13	14	11	10	20	15	15	24	12
+NOR2820	UndHill_922	Norway	West/North Europe			R1a	15	13	29	25	11	11	13	14	11	11	20	15	15	24	12
+NOR2821	UndHill_923	Norway	West/North Europe			R1a	15	13	29	26	11	11	13	14	11	11	20	15	15	24	13
+NOR2822	UndHill_924	Norway	West/North Europe			R1a	16	13	30	25	11	11	13	14	11	10	19	16	15	24	13
+NOR2823	UndHill_925	Norway	West/North Europe			R1a	16	13	30	24	11	11	14	14	11	10	20	16	15	24	12
+NOR2824	UndHill_926	Norway	West/North Europe			R1a	15	14	31	25	11	11	13	14	11	10	20	15	15	24	13
+NOR2825	UndHill_927	Norway	West/North Europe			R1a	16	14	31	25	10	11	13	14	11	10	20	15	15	24	12
+NOR2826	UndHill_928	Norway	West/North Europe			R1a	15	13	30	24	11	11	13	14	11	10	20	16	16	24	12
+NOR2827	UndHill_929	Norway	West/North Europe			R1a	15	14	31	25	10	11	13	14	11	10	20	16	15	24	13
+NOR2828	UndHill_930	Norway	West/North Europe			R1a	16	14	32	25	10	11	13	14	11	10	20	16	15	24	14
+NOR2829	UndHill_931	Norway	West/North Europe			R1a	16	14	31	25	11	11	13	14	11	10	20	17	14	24	13
+NOR2830	UndHill_932	Norway	West/North Europe			R1a	15	13	30	25	11	11	13	14	11	10	20	16	15	24	13
+NOR2831	UndHill_933	Norway	West/North Europe			R1a	15	13	30	24	11	11	13	14	11	10	20	15	15	24	12
+NOR2832	UndHill_934	Norway	West/North Europe			R1a	15	14	31	26	11	11	13	14	11	10	20	17	15	24	13
+NOR2833	UndHill_935	Norway	West/North Europe			R1a	15	14	31	25	11	11	13	14	11	10	20	16	15	24	13
+NOR2834	UndHill_936	German_West	West/North Europe			R1a	16	13	30	25	11	11	13	15	11	10	20	15	15	23	12
+DM2851	JK3341	Denmark	West/North Europe			R1a	15	13	30	25	11	11	13	14	11	11	20	17	15	23	12
+DM2860	BK157	Denmark	West/North Europe			R1a	15	13	30	25	10	11	13	14	11	10	19	16	15	23	12
+FL2869	LB91-169	Finland	West/North Europe			R1a	16	14	30	25	10	11	12	14	11	11	20	17	16	23	12
+HUN2883	JK4734	Hungary	West/North Europe			R1a	17	13	30	25	10	11	13	14	11	10	20	16	15	23	12
+HUN2886	JK4744	Hungary	West/North Europe			R1a	15	13	30	25	11	11	13	14	11	11	20	16	15	23	12
+HUN2887	JK4747	Hungary	West/North Europe			R1a	16	14	30	25	11	11	13	14	11	10	20	16	15	24	11
+HUN2898	JK4808	Hungary	West/North Europe			R1a	15	12	29	25	11	11	13	14	11	10	20	16	17	25	11
+HUN2899	JK4811	Hungary	West/North Europe			R1a	17	13	30	25	10	11	13	14	11	10	20	16	16	23	12
+HUN2901	JK4821	Hungary	West/North Europe			R1a	16	13	30	25	10	11	13	14	11	11	21	16	15	23	12
+HUN2905	JK4839	Hungary	West/North Europe			R1a	15	13	29	24	11	11	13	14	11	11	20	15	15	23	12
+HUN2907	JK4846	Hungary	West/North Europe			R1a	15	13	29	25	10	11	13	14	11	11	20	18	15	23	12
+HUN2909	JK4851	Hungary	West/North Europe			R1a	16	14	31	25	11	11	13	14	11	10	20	16	15	23	12
+HUN2917	JK4879	Hungary	West/North Europe			R1a	15	13	30	25	10	11	13	14	11	10	20	17	15	23	12
+IL2961	SD1186	Ireland	West/North Europe			R1a	16	13	30	25	10	11	13	14	11	10	19	16	15	23	12
+IR203	Iran51	Kermanshah	Iran	West		L	14	14	31	23	10	15	12	16	10	12	19	15	16	21	11
+IR207	Iran55	Kermanshah	Iran	West		L	14	14	31	23	10	15	12	16	10	12	19	15	16	22	11
+IR245	Iran93	Kurdestan	Iran	West		L	16	13	29	22	9	15	13	16	10	11	19	16	17	21	11
+IR247	Iran95	Kurdestan	Iran	West		L	14	13	29	23	9	14	11	15	10	13	19	16	16	23	12
+IR264	Iran112	Kurdestan	Iran	West		L	14	13	29	23	9	14	11	15	10	12	19	16	16	23	12
+IR279	Iran127	Ilam	Iran	West		L	14	12	28	23	9	14	11	15	10	12	19	16	16	23	12
+IR293	Iran141	Ilam	Iran	West		L	14	11	27	22	10	14	11	15	10	14	19	16	15	23	12
+IR299	Iran147	Ilam	Iran	West		L	15	14	31	23	10	15	12	16	10	12	19	15	16	21	11
+IR300	Iran148	Ilam	Iran	West		L	15	14	31	23	10	15	12	16	10	12	19	15	16	21	11
+IR310	Iran158	Ilam	Iran	West		L	14	12	28	22	10	14	11	15	10	12	19	15	14	25	11
+IR330	Iran178	Ilam	Iran	West		L	14	11	27	22	10	14	11	15	10	14	18	16	15	22	13
+IR341	Iran189	Hamedan	Iran	West		L	14	12	28	23	9	14	11	15	10	13	19	16	16	23	12
+IR376	Iran224	URM	Iran	West		L	15	14	30	23	10	15	11	16	10	13	19	14	16	23	11
+IR443	Iran291	TBZ	Iran	West		L	15	14	30	23	10	15	11	16	10	13	19	16	16	23	11
+IR446	Iran294	TBZ	Iran	West		L	16	14	32	25	9	15	11	15	11	12	19	16	14	23	12
+IR700	Iran548	KHUZ	Iran	West		L	15	13	29	22	9	14	13	16	10	11	19	16	17	21	11
+IR725	Iran573	KHUZ	Iran	West		L	15	13	29	22	10	14	12	16	10	11	18	15	17	21	11
+IR750	Iran598	gol-s	Iran	West		L	14	12	29	23	10	14	11	15	11	13	19	15	15	24	11
+IR763	Iran611	gol-s	Iran	West		L	14	12	28	22	10	14	11	15	10	13	19	16	14	24	12
+IR764	Iran612	gol-s	Iran	West		L	15	13	29	22	10	14	12	16	10	13	19	15	17	21	11
+IR771	Iran619	gol-s	Iran	West		L	14	12	28	22	10	14	11	15	10	24	19	15	15	24	11
+IR782	Iran630	gol-s	Iran	West		L	14	12	28	22	10	14	11	15	10	11	19	16	16	24	12
+IR783	Iran631	gol-s	Iran	West		L	15	13	29	22	10	14	12	16	10	11	19	17	18	23	11
+IR788	Iran636	gol-s	Iran	West		L	14	12	28	22	10	14	11	15	10	13	19	15	15	24	11
+IR1112	Iran960	Isfahan, Isfahan Province, Iran	Iran	West		L	15	12	28	22	10	14	12	16	10	12	19	15	17	21	11
+IR1116	Iran964	Isfahan, Isfahan Province, Iran	Iran	West		L	15	13	29	22	10	14	12	16	10	14	19	15	17	21	11
+IR1117	Iran965	Isfahan, Isfahan Province, Iran	Iran	West		L	15	13	29	22	10	15	12	16	10	13	19	15	16	21	11
+IR1118	Iran966	Isfahan, Isfahan Province, Iran	Iran	West		L	15	13	29	23	9	14	13	16	10	12	19	16	16	21	11
+IR1127	Iran975	Isfahan, Isfahan Province, Iran	Iran	West		L	15	13	30	22	10	14	12	16	10	11	20	15	19	21	11
+IR1141	Iran989	Isfahan, Isfahan Province, Iran	Iran	West		L	15	14	32	22	11	11	11	16	10	13	20	15	19	21	10
+IR1142	Iran990	Isfahan, Isfahan Province, Iran	Iran	West		L	14	12	28	23	9	14	11	15	10	13	19	16	16	23	12
+IR1145	Iran993	Isfahan, Isfahan Province, Iran	Iran	West		L	14	12	29	22	10	14	11	15	10	12	19	15	15	25	12
+IR1159	Iran1007	Isfahan, Isfahan Province, Iran	Iran	West		L	14	13	29	23	10	14	11	15	10	11	20	18	15	24	12
+IR1194	Iran1042	Isfahan, Isfahan Province, Iran	Iran	West		L	13	13	29	22	10	14	12	16	10	11	19	15	17	21	11
+IR1230	Iran1078	Isfahan, Isfahan Province, Iran	Iran	West		L	16	13	30	23	10	11	13	15	10	11	20	17	15	21	12
+IR1252	Iran1100	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	24	30	17	16	11	23	11	10	11	12	14	11	20
+IR1259	Iran1107	Mashhad,Razavi khorasan,Iran	Iran	East		L	14	13	23	29	16	14	13	21	10	11	11	11	15	9	21
+IR1260	Iran1108	Mashhad,Razavi khorasan,Iran	Iran	East		L	18	13	23	29	16	14	13	20	10	15	11	12	15	9	20
+IR1263	Iran1111	Mashhad,Razavi khorasan,Iran	Iran	East		L	16	13	23	29	17	13	13	23	10	13	14	12	15	10	19
+IR1266	Iran1114	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	22	29	18	15	14	22	10	12	11	11	15	10	18
+IR1268	Iran1116	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	12	22	28	15	14	13	24	10	13	14	12	15	10	19
+IR1269	Iran1117	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	25	30	16	16	11	23	11	10	11	13	14	11	21
+IR1270	Iran1118	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	22	29	15	14	14	21	10	11	11	11	14	10	21
+IR1271	Iran1119	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	24	29	17	14	14	26	10	10	10	11	16	11	19
+IR1273	Iran1121	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	24	29	16	14	13	25	10	10	10	11	16	11	20
+IR1274	Iran1122	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	17	14	25	33	15	15	11	23	10	11	11	12	14	11	20
+IR1276	Iran1124	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	23	29	16	14	13	21	10	11	11	11	15	9	20
+IR1277	Iran1125	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	12	23	29	18	16	13	22	10	10	11	12	16	10	21
+IR1279	Iran1127	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	23	29	16	15	14	20	10	12	11	11	16	11	21
+IR1281	Iran1129	Birjand,South khorasan,Iran	Iran	East		L	15	13	23	28	15	15	11	23	10	10	11	11	15	10	20
+IR1282	Iran1130	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	14	13	22	29	19	15	14	20	11	12	11	12	16	10	19
+IR1283	Iran1131	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	23	29	17	14	13	24	10	11	11	12	14	9	21
+IR1284	Iran1132	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	25	32	15	16	11	23	11	11	11	13	15	11	20
+IR1285	Iran1133	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	12	22	27	15	14	13	23	10	11	14	12	15	10	19
+IR1286	Iran1134	Birjand,South khorasan,Iran	Iran	East		L	14	12	22	28	17	15	12	22	10	11	11	13	16	10	21
+IR1287	Iran1135	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	23	29	19	15	13	21	10	13	11	12	14	9	21
+IR1288	Iran1136	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	23	29	16	14	14	25	10	12	10	12	16	11	19
+IR1289	Iran1137	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	25	31	16	15	11	23	11	10	11	12	14	11	20
+IR1290	Iran1138	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	23	29	19	13	12	19	10	12	12	12	15	10	19
+IR1292	Iran1140	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	24	29	17	15	14	25	10	10	10	11	16	11	20
+IR1293	Iran1141	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	14	25	30	15	16	13	22	10	10	11	11	15	9	21
+IR1295	Iran1143	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	24	29	17	15	14	25	10	10	10	11	16	11	19
+IR1296	Iran1144	Mashhad,Razavi khorasan,Iran	Iran	East		L	16	12	23	29	17	16	12	22	10	12	11	11	14	10	22
+IR1298	Iran1146	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	24	30	15	16	11	23	11	10	11	13	14	11	21
+IR1301	Iran1149	Birjand,South khorasan,Iran	Iran	East		L	16	13	22	29	16	14	14	21	10	13	11	11	14	10	21
+IR1303	Iran1151	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	25	31	15	16	11	23	11	10	11	12	14	12	20
+IR1304	Iran1152	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	12	24	29	15	15	11	23	10	10	11	11	14	11	20
+IR1306	Iran1154	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	22	29	17	15	9	21	10	13	14	11	16	10	19
+IR1307	Iran1155	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	12	21	29	15	14	12	23	10	11	11	11	14	9	21
+IR1308	Iran1156	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	23	29	15	14	11	23	11	13	13	12	15	12	19
+IR1309	Iran1157	Birjand,South khorasan,Iran	Iran	East		L	15	14	22	31	18	16	9	21	10	12	14	11	16	10	19
+IR1310	Iran1158	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	25	31	16	16	11	23	11	10	11	12	14	11	20
+IR1312	Iran1160	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	25	31	14	15	11	23	11	10	11	13	14	11	20
+IR1313	Iran1161	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	23	30	16	16	11	23	11	12	11	11	14	11	19
+IR1315	Iran1163	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	14	24	32	16	15	11	23	10	11	11	13	14	11	20
+IR1316	Iran1164	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	12	22	27	16	14	13	22	10	11	14	12	15	10	19
+IR1317	Iran1165	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	24	29	15	15	15	23	10	11	11	12	15	9	21
+IR1318	Iran1166	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	24	32	16	15	10	23	10	11	11	13	14	11	20
+IR1319	Iran1167	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	17	13	23	29	17	14	11	21	10	11	16	11	15	9	20
+IR1321	Iran1169	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	14	25	30	17	14	17	20	10	12	11	13	14	10	20
+IR1322	Iran1170	Mashhad,Razavi khorasan,Iran	Iran	East		L	13	13	23	29	17	14	12	24	10	10	10	13	16	11	19
+IR1323	Iran1171	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	23	30	15	16	12	23	10	12	13	12	15	11	20
+IR1325	Iran1173	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	25	31	15	16	11	23	11	10	11	13	15	11	20
+IR1326	Iran1174	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	14	24	31	16	15	11	23	10	10	11	13	14	11	20
+IR1328	Iran1176	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	23	28	15	14	20	21	10	11	11	12	15	9	18
+IR1329	Iran1177	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	16	13	22	29	15	15	15	20	10	11	11	11	14	9	20
+IR1330	Iran1178	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	16	13	21	30	16	16	16	22	10	11	10	11	14	11	21
+IR1331	Iran1179	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	16	13	23	29	16	14	14	21	10	12	11	13	15	9	19
+IR1332	Iran1180	Mashhad,Razavi khorasan,Iran	Iran	East		L	16	14	25	31	15	16	11	23	11	10	11	12	14	11	19
+IR1333	Iran1181	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	16	12	25	29	19	14	18	22	10	10	10	11	14	10	21
+IR1335	Iran1183	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	25	30	15	16	12	23	11	10	11	13	15	11	20
+IR1337	Iran1185	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	16	12	23	29	17	14	14	22	10	11	12	11	16	10	20
+IR1338	Iran1186	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	23	29	17	14	12	24	14	10	10	12	16	11	19
+IR1344	Iran1192	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	14	12	22	28	17	15	12	22	15	11	11	13	16	10	20
+IR1345	Iran1193	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	16	12	25	29	16	16	11	23	14	11	11	11	14	10	20
+IR1346	Iran1194	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	16	13	22	29	15	14	13	24	11	12	13	11	15	11	19
+IR1349	Iran1197	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	22	29	17	15	9	21	12	13	13	11	16	10	19
+IR1352	Iran1200	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	16	13	22	29	17	15	9	21	12	13	14	11	16	10	19
+IR1360	Iran1208	Mashhad,Razavi khorasan,Iran	Iran	East		L	16	13	25	31	15	16	11	23	13	10	11	12	14	11	19
+IR1365	Iran1213	Mashhad,Razavi khorasan,Iran	Iran	East		L	16	13	26	30	16	16	11	23	13	10	11	12	14	11	20
+IR1367	Iran1215	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	24	29	16	15	15	23	12	13	11	12	15	9	21
+IR1372	Iran1220	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	16	13	25	31	15	16	11	22	13	10	11	12	14	10	20
+IR1381	Iran1229	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	14	25	32	15	15	11	23	13	10	11	13	14	10	20
+IR1383	Iran1231	Birjand,South khorasan,Iran	Iran	East		L	15	13	22	29	17	15	9	21	12	13	15	11	16	10	19
+IR1388	Iran1236	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	23	30	15	16	11	23	14	12	12	13	15	11	20
+IR1394	Iran1242	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	24	31	18	14	13	21	10	12	11	12	14	10	20
+IR1395	Iran1243	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	25	31	15	16	11	23	11	10	12	13	14	11	20
+IR1397	Iran1245	Birjand,South khorasan,Iran	Iran	East		L	16	13	26	30	15	16	11	23	10	10	11	13	14	11	20
+IR1398	Iran1246	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	22	29	17	15	9	21	10	14	14	11	16	10	19
+IR1401	Iran1249	Mashhad,Razavi khorasan,Iran	Iran	East		L	16	12	22	28	16	14	13	24	10	11	14	12	15	10	19
+IR1403	Iran1251	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	24	29	18	14	12	23	11	12	14	13	15	12	18
+IR1404	Iran1252	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	14	13	24	30	18	15	14	21	10	11	11	13	14	9	20
+IR1405	Iran1253	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	16	13	25	31	15	15	11	23	11	10	12	13	14	11	20
+IR1409	Iran1257	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	14	25	32	16	15	11	23	11	10	11	13	14	9	20
+IR1412	Iran1260	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	12	22	29	17	14	14	21	10	11	11	12	16	10	21
+IR1413	Iran1261	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	16	13	21	30	16	16	16	22	10	11	11	11	14	11	21
+IR1414	Iran1262	Mashhad,Razavi khorasan,Iran	Iran	East		L	14	13	23	29	16	14	13	23	10	11	11	11	15	9	21
+IR1417	Iran1265	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	25	29	18	15	11	22	10	12	11	11	14	11	19
+IR1421	Iran1269	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	24	29	16	14	11	23	11	12	13	13	15	12	19
+IR1422	Iran1270	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	12	22	28	15	14	13	24	10	12	14	12	15	10	19
+IR1426	Iran1274	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	14	14	21	31	17	15	12	21	10	12	11	11	15	11	20
+IR1427	Iran1275	Birjand,South khorasan,Iran	Iran	East		L	15	13	23	29	17	14	13	21	10	11	11	11	15	9	21
+IR1428	Iran1276	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	22	29	16	14	15	21	10	12	11	11	14	10	21
+IR1429	Iran1277	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	23	30	16	15	16	23	10	12	11	12	15	9	21
+IR1430	Iran1278	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	16	12	22	28	16	14	13	25	10	12	14	12	15	11	19
+IR1431	Iran1279	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	23	29	17	14	13	21	10	13	14	12	15	10	19
+IR1433	Iran1281	Mashhad,Razavi khorasan,Iran	Iran	East		L	16	14	23	31	17	15	12	21	10	12	11	11	14	10	20
+IR1434	Iran1282	Mashhad,Razavi khorasan,Iran	Iran	East		L	16	14	25	31	15	16	12	23	10	12	11	13	14	11	20
+IR1435	Iran1283	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	25	29	18	16	12	21	10	11	11	12	14	10	22
+IR1436	Iran1284	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	25	31	15	16	11	23	11	11	11	12	15	11	20
+IR1437	Iran1285	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	14	13	24	30	16	14	14	21	10	11	13	11	14	9	19
+IR1439	Iran1287	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	12	23	28	18	14	13	23	10	11	11	11	14	9	20
+IR1440	Iran1288	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	24	29	17	14	13	25	10	10	10	12	16	11	20
+IR1441	Iran1289	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	16	13	23	29	16	14	14	21	10	12	11	13	15	9	19
+IR1442	Iran1290	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	25	32	15	16	11	23	11	10	12	13	14	11	20
+IR1443	Iran1291	Birjand,South khorasan,Iran	Iran	East		L	15	13	22	29	16	15	14	23	10	11	10	11	14	10	18
+IR1444	Iran1292	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	24	29	17	14	14	25	10	10	10	11	16	11	18
+IR1447	Iran1295	Mashhad,Razavi khorasan,Iran	Iran	East		L	14	12	22	28	17	15	12	23	10	11	11	13	16	10	21
+IR1449	Iran1297	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	24	29	16	15	15	23	10	14	11	12	15	9	21
+IR1450	Iran1298	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	14	23	30	16	14	12	21	10	11	11	12	15	10	20
+IR1451	Iran1299	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	25	30	15	16	12	23	11	10	11	13	14	11	20
+IR1453	Iran1301	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	25	29	17	16	12	21	10	10	11	12	14	10	22
+IR1456	Iran1304	Mashhad,Razavi khorasan,Iran	Iran	East		L	17	12	22	29	15	14	13	25	10	13	14	11	15	10	20
+IR1461	Iran1309	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	16	13	21	30	16	16	17	22	10	11	11	11	14	11	21
+IR1462	Iran1310	Mashhad,Razavi khorasan,Iran	Iran	East		L	16	13	25	30	17	16	11	23	11	10	11	12	14	11	19
+IR1466	Iran1314	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	22	29	17	16	9	21	10	13	14	11	16	10	19
+IR1467	Iran1315	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	23	30	17	14	13	20	10	11	11	11	14	10	20
+IR1468	Iran1316	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	14	23	30	17	14	13	23	11	11	11	11	15	9	21
+IR1470	Iran1318	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	23	29	16	14	13	21	10	13	11	11	15	9	20
+IR1475	Iran1323	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	23	30	14	14	17	23	9	12	10	12	15	9	21
+IR1476	Iran1324	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	24	29	18	14	12	23	11	12	13	11	15	12	18
+IR1481	Iran1329	Mashhad,Razavi khorasan,Iran	Iran	East		L	16	13	25	31	15	16	11	22	10	10	11	12	14	10	20
+IR1485	Iran1333	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	22	29	15	14	14	21	10	12	11	11	14	10	21
+IR1486	Iran1334	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	24	29	17	14	16	21	10	10	11	12	14	10	20
+IR1487	Iran1335	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	22	29	15	14	14	21	10	12	11	11	14	10	21
+IR1489	Iran1337	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	25	31	15	15	11	23	11	10	11	12	14	11	20
+IR1490	Iran1338	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	24	31	16	14	18	21	11	12	11	12	14	10	20
+IR1491	Iran1339	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	23	30	16	15	10	23	11	12	13	12	15	11	19
+IR1492	Iran1340	Mashhad,Razavi khorasan,Iran	Iran	East		L	16	14	23	30	15	15	12	24	10	11	11	12	15	9	21
+IR1493	Iran1341	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	22	29	18	15	9	21	10	13	14	11	16	10	19
+IR1495	Iran1343	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	24	32	17	14	11	23	10	10	11	13	14	11	20
+IR1496	Iran1344	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	12	22	28	15	15	12	21	10	12	11	11	15	10	21
+IR1497	Iran1345	Mashhad,Razavi khorasan,Iran	Iran	East		L	16	13	25	30	18	16	11	23	11	11	11	13	14	11	20
+IR1498	Iran1346	Mashhad,Razavi khorasan,Iran	Iran	East		L	15	13	25	31	15	16	11	23	11	10	11	12	15	11	20
+IR1502	Iran1350	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	23	30	15	16	12	23	10	12	13	13	15	11	20
+IR1503	Iran1351	Zahedan,Sistan and Baluchestan,Iran	Iran	East		L	15	13	23	29	17	13	12	25	10	10	10	12	16	11	19
+IR1504	Iran1352	Birjand,South khorasan,Iran	Iran	East		L	15	13	24	29	16	15	15	24	11	12	11	12	15	9	21
+IR1505	Iran1353	Birjand,South khorasan,Iran	Iran	East		L	16	12	22	29	15	14	15	25	10	13	14	11	15	10	19
+ARC1699	JK4627	Archangelsk,Russia [Russians]	Europe			L	15	13	30	22	10	14	12	14	10	11	17	16	19	22	11

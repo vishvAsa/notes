@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Light on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/power/light/</link>
+    <description>Recent content in &#43;Light on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/power/light/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bulbs</title>
+      <link>https://vishvAsa.github.io/notes/power/light/bulbs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/power/light/bulbs/</guid>
+      <description>&lt;h2 id=&#34;metrics&#34;&gt;Metrics&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lumens/Watt - 100 is best. 75 is average.&lt;/li&gt;&#xA;&lt;li&gt;LED life in hours&lt;/li&gt;&#xA;&lt;li&gt;Power factor/ efficiency.&lt;/li&gt;&#xA;&lt;li&gt;Smart bulbs - color range, brightness adjustment&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;socket-types&#34;&gt;Socket types&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;B22 - two contacts on the side. Popular in India.&lt;/li&gt;&#xA;&lt;li&gt;E27 - screwed bulb type. contacts on side and back. Popular in USA.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Projector</title>
+      <link>https://vishvAsa.github.io/notes/power/light/projector/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/power/light/projector/</guid>
+      <description>&lt;h2 id=&#34;screen&#34;&gt;Screen&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;For a 1080p HD projector, a good rule of thumb for viewing distance is 1-1/2 times the screen diagonal. So, for 10ft viewing distance, diagonal should be 6.66 to 10 ft.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;gain&#34;&gt;Gain&lt;/h3&gt;&#xA;&lt;p&gt;The amount of light that a projector reflects back at viewers.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;One down side to higher-gain screens is that they can suffer from &amp;ldquo;hot-spotting,&amp;rdquo; where part of the screen looks noticeably brighter. This is because they reflect the light back in a narrower, more focused band. The picture will look best to viewers who sit directly in front of the screen rather than off to the sides.&lt;/li&gt;&#xA;&lt;li&gt;If you have a wide seating area, you might want to consider a screen with standard gain as it will reflect the light evenly in all directions. This is also called neutral gain, or it may be listed numerically as a gain of 1.0.&lt;/li&gt;&#xA;&lt;li&gt;Negative gain screens help with ambient light issues - and are oft used with high-lumen projectors.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

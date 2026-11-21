@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;MT on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/computer_architecture/articles/MT/</link>
+    <description>Recent content in &#43;MT on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/computer_architecture/articles/MT/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rus analog computers</title>
+      <link>https://vishvAsa.github.io/notes/computing/computer_architecture/articles/MT/rus-analog-computers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/computer_architecture/articles/MT/rus-analog-computers/</guid>
+      <description>&lt;p&gt;In an old rUs book (translated into English) I learnt of two remarkable Russian engineers who invented analog computers that were critical for the success of the Soviet rUs empire.&lt;/p&gt;&#xA;&lt;p&gt;The first of these was Alexei Krylov who built a mechanical computer.&lt;/p&gt;&#xA;&lt;p&gt;His successor was Vladimir Lukyanov who built the first water computer using water flowing through tubes.&lt;/p&gt;&#xA;&lt;p&gt;The final models of this were so accurate that they were not beaten by digital computers until the 90s.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

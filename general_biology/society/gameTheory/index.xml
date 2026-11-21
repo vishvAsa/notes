@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Game theory on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/general_biology/society/gameTheory/</link>
+    <description>Recent content in &#43;Game theory on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/general_biology/society/gameTheory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01 Games: introduction</title>
+      <link>https://vishvAsa.github.io/notes/general_biology/society/gameTheory/01_Games_introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/general_biology/society/gameTheory/01_Games_introduction/</guid>
+      <description>&lt;h2 id=&#34;players-strategies-utilities&#34;&gt;Players, strategies, utilities&lt;/h2&gt;&#xA;&lt;p&gt;Players \(P = \set{p_{i}}\). A strategy is not a move but an algorithmorithm to make moves; compare with decision procedure in decision theory in statistics ref. \(S_{i}\): strategy set of \(p_{i}\). Strategy vector (strategy profile): \(s = (s_{1}, .. s_{n})\). \(s_{-i}\): s sans \(s_{i}\).&lt;/p&gt;&#xA;&lt;h3 id=&#34;mixed-randomized-strategies&#34;&gt;Mixed/ randomized strategies&lt;/h3&gt;&#xA;&lt;p&gt;Independent mixed strategy of i: a Prob Distr over \(S_{i}: D_{i}\).&lt;/p&gt;&#xA;&lt;p&gt;Mixed strategy profile, perhaps \(p_{i}\) coordinated: Probability distribution over \(\times_{i}S_{i}\): D.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>02 Solution concepts: examples</title>
+      <link>https://vishvAsa.github.io/notes/general_biology/society/gameTheory/02_Solution_concepts_examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/general_biology/society/gameTheory/02_Solution_concepts_examples/</guid>
+      <description>&lt;h2 id=&#34;dominant-strategy-solution&#34;&gt;Dominant strategy solution&lt;/h2&gt;&#xA;&lt;p&gt;\(\forall i\), \(best(s_{i})\) unique, independent of \(s_{-i}\): \(u(s_{i}, s&amp;rsquo;&lt;em&gt;{-i}) \geq u(s&amp;rsquo;&lt;/em&gt;{i}, s&amp;rsquo;&lt;em&gt;{-i}) \forall s&amp;rsquo;\). Eg: Prisoner&amp;rsquo;s dilemma; not: Battle of sexes. So, players individually select strategies. May not lead to optimal payoff for any \(p&lt;/em&gt;{i}\).&lt;/p&gt;&#xA;&lt;h3 id=&#34;prisoners-dilemma&#34;&gt;Prisoner&amp;rsquo;s dilemma&lt;/h3&gt;&#xA;&lt;p&gt;Cost matrix \(C = \mat{(4, 4) &amp;amp; (1, 5)\(5, 1) &amp;amp; (2, 2)}\). s = (2, 2) best for both, but unstable: If \(p_{1}\) sets \(s_{1} = 2\), \(p_{2}\) tempted to set \(s_{2} = 1\). \(s = (1, 1)\) stable. Optimal selfish strategy of \(p_{1}\) independent of \(p_{2}\)&amp;rsquo;s actions. Can be extended to multi-player game.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>03 Games: classes</title>
+      <link>https://vishvAsa.github.io/notes/general_biology/society/gameTheory/03_Games_classes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/general_biology/society/gameTheory/03_Games_classes/</guid>
+      <description>&lt;h2 id=&#34;2-player-games&#34;&gt;2 player games&lt;/h2&gt;&#xA;&lt;p&gt;Aka bimatrix game. Row and column players: \(p_{r}, p_{c}\); their Prob distr over \(S_r\) and \(S_{c}\) as vectors :\(D_{r}, D_{c}\). Utility matrix wrt \(p_{r}\) and \(p_{c}\): R, C.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2---player-0-sum-games&#34;&gt;2 - Player 0 sum games&lt;/h3&gt;&#xA;&lt;p&gt;Utility matrix \(A_{i,j} = u_{r}(..)\). (Nash) Eg: Matching pennies.&lt;/p&gt;&#xA;&lt;p&gt;Value paid by \(p_{c}\) to \(p_{r}\): \(v_{r} = D_{r}^{*} AD_{c}\).&lt;/p&gt;&#xA;&lt;p&gt;Knowing \(D_{r}\), \(p_{c}\) always selects \(min(D_{r}^{&lt;em&gt;}A)\) or finds \\(v_{c} = \min_{k_{1}} \max_{D_{r}} E_{k_{r} \distr D_{r}}[u_{1}(k_{1}, k_{2})] = \min_{k_{1}} \max_{D_{r}} u_{1}(k_{1},D_{r})\). So, best strategy for \(p_{r}\) is to maximize (Maxmin) \(min(D_{r}^{&lt;/em&gt;}A)\).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>04 Mechanism design</title>
+      <link>https://vishvAsa.github.io/notes/general_biology/society/gameTheory/04_Mechanism_design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/general_biology/society/gameTheory/04_Mechanism_design/</guid>
+      <description>&lt;h2 id=&#34;mechanism-design&#34;&gt;Mechanism design&lt;/h2&gt;&#xA;&lt;p&gt;Engineer / implement social choice function. Mech design in making protocols for computer network problems: algorithmorithmic mechanism design. Electronic market design: mech design in electronic markets.&lt;/p&gt;&#xA;&lt;p&gt;Set of alternatives A. L: set of all linear orders over A. Preference order of \(p_{i}: &amp;gt;_{i}\).&lt;/p&gt;&#xA;&lt;h3 id=&#34;social-welfare-function&#34;&gt;Social welfare function&lt;/h3&gt;&#xA;&lt;p&gt;\(F:L^{n} \to L\).&lt;/p&gt;&#xA;&lt;h4 id=&#34;properties&#34;&gt;Properties&lt;/h4&gt;&#xA;&lt;p&gt;Unanimity: \(F(&amp;lt;^{n}) = &amp;lt;\). Dictatorship. Independence of irrelevant attributes: \(F((&amp;lt;&lt;em&gt;{i}))\) between alternatives \(a&lt;/em&gt;{1}\) and \(a_{2}\) depends only on \(\set{a_{1}&amp;lt;&lt;em&gt;{i} a&lt;/em&gt;{2}}\).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

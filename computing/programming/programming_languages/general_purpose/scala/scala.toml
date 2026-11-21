@@ -1,0 +1,3042 @@
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'development'
+Feature = 'interpreter'
+Subfeature = 'run'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+scala -cp ...
+sbt (imports necessary libraries)'''
+Description = 'Commands converted to bytecode and run.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'packaging'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'Include scala-lib.jar'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'run'
+Feature = 'expression'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+scala -cp path-to-the-target-directory -e 'examplePackage.TestObject.print'
+scala -cp path-to-the-target-directory -e 'examplePackage.TestObject.print("argIn")'
+scala -cp path-to-the-target-directory -e 'examplePackage.TestObject' # test object extends App'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'run'
+Feature = 'point of entry'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+object HelloWorld {
+  def main(args: Array[String]) {
+    println("Hello, world! " + args.toList)
+  }
+}'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'script'
+Feature = 'run script'
+Subfeature = 'setup classpath'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+#!/bin/sh
+PATH_TO_SANSKRITNLPJAVA=/xyz/
+exec scala -nc -classpath "$PATH_TO_SANSKRITNLPJAVA/lib_with_jars/*:$PATH_TO_SANSKRITNLPJAVA/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes" "$0" "$@"
+!#
+// scala code'''
+Description = ''' -nc asks scala not to use the compilation server (if that's stuck, the script will never run/ return).'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'script'
+Feature = 'run script'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'scala -classpath "$PATH_TO_SANSKRITNLPJAVA/sanskritnlp-1.0-SNAPSHOT/WEB-INF/lib/*:$PATH_TO_SANSKRITNLPJAVA/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes" scripts/Test.scala'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'script'
+Feature = 'run script'
+Subfeature = 'Caveat'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'rm -r /tmp/scala*'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'script'
+Feature = 'arguments'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'args(0) ...'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'library'
+Feature = ''
+Subfeature = 'Caveat'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''
+Ensure that the library version is compatible with scala sdk version being used.
+'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'generic type'
+Feature = ''
+Subfeature = 'object'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'Every value is an object.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'generic type'
+Feature = ''
+Subfeature = 'get type object'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'c.getClass or classOf[C]'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'string'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'Represented as  java.lang.String'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'string'
+Feature = 'implicit conversions'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''
+implicitly converted to  List[Char].
+This enables use of list methods.
+Other implicit conversions allow use of += method.'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'string'
+Feature = 'literal'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+"some string"
+"""literal string"""
+"""        |===== उपविभागः ३.2 ===
+        |आषफ़द
+        |""".stripMargin'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'string'
+Feature = 'interpolation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val name = "James"
+println(s"Hello, $name")'''
+Description = 'interpolation may fail with \" - just use """ enclosed string in such a case.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'string'
+Feature = 'interpolation'
+Subfeature = 'formatting'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val height = 1.9d
+val name = "James"
+println(f"$name%s is $height%2.2f meters tall")
+f"$indexShortName%-50s : $indexCount"
+println(s"1 + 1 = ${1 + 1}")'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'string'
+Feature = ''
+Subfeature = 'parse / convert'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'val i = "foo".toInt'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'string'
+Feature = 'path'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'string'
+Feature = 'check regex match '
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '"5".matches("\\d")'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'string'
+Feature = 'replace regex'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'See java string methods and scala regex object methods.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'regular expression'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+"""\w+\d+""".r
+"""(?s)<p>(.*?)</p>""".r // multiline mode'''
+Description = 'Subpatterns are specified using ()'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'regular expression'
+Feature = 'java.util.regex.Pattern'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'regex1.pattern'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'regular expression'
+Feature = 'find matches'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+regex1.findAllIn(str1) returns Iterator[Match]
+someStr.findFirstIn(someRegexStr) returns Option[String]'''
+Description = 'Each Match object, which contains the group list, whose first element is the entire matched string, and substrings within it corresponding to subpatterns specified in regex1 appear next.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'regular expression'
+Feature = 'find matches'
+Subfeature = 'subgroups'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val pattern = new Regex("""(\w*) (\w*)""", "firstName", "lastName");
+      val result = pattern.findFirstMatchIn("James Bond").get;
+      println(result.group("lastName") + ", " + result.group("firstName"));'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'regular expression'
+Feature = 'find matches'
+Subfeature = 'subgroups'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val string = "one493two483three"
+val pattern = """two(\d+)three""".r
+pattern.findAllIn(string).matchData foreach {
+   m => println(m.group(1))
+}'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'regular expression'
+Feature = 'find matches'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'val regex1(var1, var2) = str1'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'regular expression'
+Feature = 'replace'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+regex1.replaceAllIn(String, Match => String)
+val reformatted = date replaceAllIn (dates, _ match { case date(y,m,d) => f"${months(m.toInt - 1)} $d, $y" })'''
+Description = 'Unlinke findAllIn, this returns only non-overlapping patterns.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'regular expression'
+Feature = 'replace'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'regex1.replaceAllIn(String, "$1 $2 uvw")'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'regular expression'
+Feature = 'check match'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+somestr match {
+ case Pattern(c) => c bound to capture group here
+   case _ => {}
+}
+
+regex1.pattern.matcher(str1).matches????'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'regular expression'
+Feature = 'check match'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+"5".matches("\\d")
+'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'char'
+Feature = 'literal'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = " 'c'"
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'symbol'
+Feature = 'variable'
+Subfeature = 'declare'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+var varName[: Type] = value
+var varName: Type'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'symbol'
+Feature = 'constant'
+Subfeature = 'declare'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val valName = value
+'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'symbol'
+Feature = 'instantiation'
+Subfeature = 'multiple'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val (x,y) = tuple
+val Array(x, y) = array'''
+Description = 'Similarly one can unpack Seq, List etc..'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'symbol'
+Feature = 'implicit arguments to functions'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'implicit val x = value'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'symbol'
+Feature = 'multiple assignment'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'val (var1, var2) = tuple1. val Array(var1, var2) = arr. Similarly one can unpack Seq, List etc..'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'type variable'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'type T = Char'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'type conversion'
+Feature = 'explicit'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'obj.asInstanceOf[Type]'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'type conversion / casting'
+Feature = 'implicit'
+Subfeature = 'concept'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'There is syntactic sugar to allow implicit conversion of a value from type A to B in order to invoke a method x() defined for B but not on A.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'type conversion / casting'
+Feature = 'implicit'
+Subfeature = 'define'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+To do this, one defines the class B with constructor B(val: A) and the new method x(). One then specifies the implicit conversion function: 
+implicit def x(val: A) = new B(val). '''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'type conversion / casting'
+Feature = 'implicit'
+Subfeature = 'from/ to Java'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'import scala.collection.JavaConverters._'
+Description = '''
+will import implicit conversions to and from several more java objects.
+Sometimes doesn't work well.'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'type conversion / casting'
+Feature = 'from/ to Java'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import scala.collection.JavaConverters.mapAsScalaMap
+val smap = mapAsScalaMap(jmap)'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'type conversion / casting'
+Feature = '''
+to anonymous type/ overload operator
+'''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+implicit def x(i: Int) = new {
+  def <(str: String) = str.length < i
+}'''
+Description = 'Doing this, one can easily overload the $<$ function.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'type conversion / casting'
+Feature = 'default types'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '1.5f.toInt'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'functions'
+Feature = 'define'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'def fnName (argList):  = statementBlock'
+Description = '''
+Note: => is not used here.
+'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'functions'
+Feature = 'Argument list'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'arg1: type1 = defaultValue1, arg2: type2 ..'
+Description = 'When the compiler can infer it, the types may be omitted.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'functions'
+Feature = 'Argument list'
+Subfeature = 'variable number of arguments'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Use arg2: type2* for the last argument in the list.'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'functions'
+Feature = 'Argument list'
+Subfeature = 'implicit argument'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+function f(implicit arg) ????
+function f(explicit args)(implicit arg1:typ1, arg2: typ2)'''
+Description = '''
+System will automatically pass a value of the appropriate type has been defined with the implicit scope: implicit val x = value 
+Also, one can explicilty pass arguments - even if the parameters are declared to be implicit.
+This especially is useful in order to define functions which make use of values implicitly defined by the run-time environment/ virtual machine (eg: objects of type Numeric[T]).'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'functions'
+Feature = 'define'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'def fn(argList): retType statementBlock'
+Description = 'One can define functions as objects with the trait FunctionN, but only one apply() function is then allowed.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'functions'
+Feature = 'define'
+Subfeature = 'restricted domain function'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Function1 has a subtrait called PartialFunction which requires the isDefinedAt() method to be specified.'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'functions'
+Feature = 'define'
+Subfeature = 'return value'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+By default the last expression evaluated in a function is returned. 
+Return statements are of the form: return value.
+'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'functions'
+Feature = 'define'
+Subfeature = 'return function'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+def fn(argList): (argList1) => retVal1 statementBlock
+def fn(argList)(argList1):retVal1 statementBlock // shorthand'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'functions'
+Feature = 'template definition'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'def fnName [TypeList](argList):  = statementBlock'
+Description = '''
+The [TypeList], when present, declares a kind of hyper-class of functions whence objects are created as appropriate.
+TypeList is comma separated, each element of which could either be a single literal, or something like A <: AnyRef : which means A which is subtype of AnyRef.'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'functions'
+Feature = 'template definition'
+Subfeature = 'class hierarchy'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''
+TypeList is comma separated, each element of which could either be a single literal, or something like A $<:$ AnyRef : which means A which is subtype of AnyRef.
+
+Among collections: $A[T] >: B[T]$ if $A >: B$.
+
+However, even though it is desirable, $A[T1] >: B[T2]$ does not hold even if $A >: B$ and $T1 >: T2$.'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'functions'
+Feature = 'type specification'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+(argList)=>returnType
+'Unit' is akin to void in C.'''
+Description = '''
+This is syntactic sugar for the Function0 .. Function9 traits. Of these, the Function
+trait is an alias for Function0.'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'functions'
+Feature = 'operators'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'All operators are actual functions/ methods.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'functions'
+Feature = 'operators'
+Subfeature = 'ternary'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'val ordinal = if (useArchiveOrder) Some(index) else None'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'functions'
+Feature = 'application'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+f(val1, val2). fn(arg1 = val1, arg3 = val2)
+fn  will suffice if there is no argument.'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'functions'
+Feature = 'application'
+Subfeature = 'with implicit args'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+implicit argName1 = someValue
+fnWithImplicitArgName1(explicitArgs)'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'function'
+Feature = 'partial application'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'var g = f(5, _:Int, _:Int)'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'function'
+Feature = 'partial application'
+Subfeature = 'currying (get series of scalar functionals)'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Function.curried'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'function'
+Feature = 'compose'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val fnComposed = fn1 compose fn2
+val fComposeG = f _ compose g _
+'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'function'
+Feature = 'compose'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'val fAndThenG = f _ andThen g _'
+Description = 'andThen is like compose, but calls the first function and then the second, g(f(x))'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'function'
+Feature = 'nested definition'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'As in general case.'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'function'
+Feature = 'tail recursion'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import scala.annotation.tailrec
+
+class Factorial2 {
+  def factorial(n: Int): Int = {
+    @tailrec def factorialAcc(acc: Int, n: Int): Int = {
+      if (n <= 1) acc
+      else factorialAcc(n * acc, n - 1)
+    }
+    factorialAcc(1, n)
+  }
+}'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'function'
+Feature = 'yield sequence'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+for(x <- c1; y <- c2; z <- c3) yield {...}
+
+def scalaFiles =
+  for {
+    file <- filesHere
+    if file.getName.endsWith(".scala")
+  } yield file'''
+Description = 'Scala’s “for comprehensions” are syntactic sugar for composition of multiple operations with foreach, map, flatMap, filter or withFilter.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'anonymous functions'
+Feature = 'define'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+(argList)=>statementBlock
+singleArg => statementBlock'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'anonymous functions'
+Feature = 'define'
+Subfeature = 'shorthand for 1 argument function'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'args.foreach(print) is same as args.foreach(x=> print(x))'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'anonymous functions'
+Feature = 'define'
+Subfeature = 'shorthand for 2 argument functions'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+lst.foldLeft(10)(_ + _)
+lst.map(1+)'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'anonymous functions'
+Feature = 'define'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '(1 to 5).map { x => val y=x*2; println(y); y }'
+Description = 'anonymous function: block style returns last expression.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'partial function'
+Feature = 'define'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val isEven: PartialFunction[Int, String] = {
+  case x if x % 2 == 0 => x+" is even"
+}'''
+Description = '''
+a unary function where the domain does not necessarily include all values of type A.
+It is the responsibility of the caller to call isDefinedAt before calling apply - or to handle exception.
+Use with methods like collect'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'anonymous partial function'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+{
+  case x if x % 2 == 0 => x+" is even"
+}: PartialFunction[Int, String]'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'class'
+Feature = 'define'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'class className[Type](argList) \{ .. \}'
+Description = 'Both the Type and argList parameters are optional. When [Type] is provided, one is essentially declaring a hyperclass/ generic template, using which classes of various types can be referenced.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'class'
+Feature = 'main constructor access'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+class className as modifierName(argList)
+// modifierName is public or private.'''
+Description = 'public by default.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'class'
+Feature = 'constructor args as public'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+class Point(val x: Int, val y: Int)
+'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'class'
+Feature = 'auxiliary constructor'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+def this(dirFile: java.io.File ) = {
+    this(dirFile.getName)
+  }'''
+Description = 'Define methods named this(..). This function should call the main constructor with appropriate arguments in the first line, using the statement: this(..).'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'class'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'var varName = new className(argList)'
+Description = 'Avoid "new" with factory methods: Eg: List(), Array[Int]'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'class'
+Feature = 'instantiation'
+Subfeature = 'with mixin'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'new Dog with ExclamatoryGreeterTrait'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'class'
+Feature = 'declare member variables'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'class ClassName(var|val var1:Type ..)'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'class'
+Feature = 'declare member variables'
+Subfeature = 'static'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+object Foo{
+    private var current = 0
+    private def inc = {current += 1; current}
+}
+class Foo{
+    val i = Foo.inc
+    println(i)
+}'''
+Description = 'Just use members in the companion object'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'class'
+Feature = 'nesting'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'It is possible to define one class within another.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'class'
+Feature = 'destructor'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'def finalize : Unit'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'class'
+Feature = 'method'
+Subfeature = 'call'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+someObj.x(u, v, w)
+someObj.x // method has no other arguments
+someObj.fn = arg1 // defined as def fn=(arg1...)
+df format now' is same as df.format(now) // infix syntax
+1 + 2 is same as (1).+(2)
+'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'class'
+Feature = 'dynamic apply method '
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Define applyDynamic("meth", args).'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'class'
+Feature = 'dynamic apply method '
+Subfeature = 'call'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'obj.arbitMethodName(args) or obj.arbitPropertyName'
+Description = 'This feature is very useful in defining domain specific languages.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'class'
+Feature = 'apply method'
+Subfeature = 'call'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'obj() is same as obj.apply()'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'class'
+Feature = 'unapply method'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'define what happens when ClassName(val) is used as a possible value in a match-case statement.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'class'
+Feature = 'attributes'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Define using var and val keywords.'
+Description = 'Arguments passed while constructing the class are always stored as attributes.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'class'
+Feature = 'access modifiers'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+For both attributes and methods: public, private. For methods: virtual.
+
+These can be prepended to a member's definition, or one can assign it to several members by using a line like: 'public:'. 
+'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'class'
+Feature = 'inheritence'
+Subfeature = 'caveat'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''
+Inheritance from Java classes is possible.
+Clever syntax allows multiple inheritance.'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'class'
+Feature = 'inheritence'
+Subfeature = 'override method'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''
+To override a method, use the override keyword in method definition.
+'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'class'
+Feature = 'inheritence'
+Subfeature = 'override member'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'case class TopicAnnotation(override val targets: Seq[String]) extends XYZ(targets=targets)'
+Description = 'Caveat: cannot override vars without special compiler flags.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'class'
+Feature = 'inheritence'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'class/ trait A extends T1 [ with T2 with T3]'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'class'
+Feature = 'multiple inheritence'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'Only Traits (not ordinary classes) can participate in mixins/ multiple inheritance.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'class'
+Feature = 'call superclass method'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+super.f()
+super[AcestorClass].f'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'trait'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'trait traitName statementBlock'
+Description = 'no constructor arguments possible.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'abstract class'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+abstract class xyz {..}
+abstract class BaseController(db: Database) {
+  def delete { db.delete }
+  // abstract
+  def connect
+  // an abstract method that takes a parameter
+  def setServerName(serverName: String)
+}'''
+Description = '''
+Ensures that the class cannot be instantiated.
+There are two main reasons to use an abstract class in Scala:
+You want to create a base class that requires constructor arguments. (traits wont help)
+The code will be called from Java code.'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'singleton object/ class'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'object className { .. }'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'singleton object/ class'
+Feature = 'runnable'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+package example
+object Test extends App {
+  println("Hello World")      
+}'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'case class'
+Feature = 'concept'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''
+Immutable by default
+Decomposable through pattern matching
+Compared by structural equality instead of by reference
+Succinct to instantiate and operate on
+Some API (eg. JSON) specially support case classes.'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'case class'
+Feature = 'define'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+abstract class Notification
+case class Email(sourceEmail: String, title: String, body: String) extends Notification
+case class PersonWithAddresses(name: String, addresses: Map[String, Address])
+ case class CC1(i: Int, j: Float, var k: Double)
+case class CC2(i: Int, j: Float, var k: Double) {
+    var l = math.Pi
+  }'''
+Description = 'by default the fields are val, not var.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'case class'
+Feature = 'instantiate'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val emailFromJohn = Email("john.doe@mail.com", "Greetings From John!", "Hello World!")
+val p = new Person("Lacava", "Alessandro", 1976)
+'''
+Description = 'optionally no "new" keyword - uses apply method.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'case class'
+Feature = ''
+Subfeature = 'modify'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val editedEmail = emailFromJohn.copy(title = "I am learning Scala!", body = "It's so cool!")
+'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'case class'
+Feature = ''
+Subfeature = 'equality'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+if (firstSms == secondSms) {
+  println("They are equal!")
+}'''
+Description = '''Case class equality is based solely on its primary constructor attributes, whether they're var or val'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'case class'
+Feature = 'unapply'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val Person(lastname, _, _) = p
+'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'metaclass / template class'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+sealed trait Maybe[+T]
+case class Value[T](value: T) extends Maybe[T]'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'sealed class'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+sealed trait Maybe[+T]
+case class Value[T](value: T) extends Maybe[T]'''
+Description = '''Using the modifier 'sealed' ensures that the class cannot be inherited from except in the current file.'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'Symbol class'
+Feature = 'invoke'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''The Scala term 'mysym will invoke the constructor of the Symbol class in the following way: Symbol("mysym"). This is useful in defining domain specific languages.'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'package'
+Feature = 'import'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import java.util.{Date, Locale}
+import java.text.DateFormat
+import java.text.DateFormat._'''
+Description = 'These could be java packages.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'xml'
+Feature = 'literal'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val foo = <foo><bar type="greet">hi</bar>
+<bar type="count">1</bar><bar type="color">yellow</bar></foo>
+val xyz = <a href={id}>link</a> <--------- inserts val of id'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'xml'
+Feature = 'text'
+Subfeature = 'get'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'foo.text'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'xml'
+Feature = 'subnodes'
+Subfeature = 'get'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+foo "subnodeid"
+ul \ "li"'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'xml'
+Feature = 'subnodes'
+Subfeature = 'get'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val subn = xml \"rss" \ "channel" 
+val subn = xml \\ "channel" (leaves 2nd level node unspecified)'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'xml'
+Feature = 'subnodes'
+Subfeature = 'add'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+def addChild(n: Node, newChild: Node) = n match {
+  case Elem(prefix, label, attribs, scope, child @ _*) =>
+    Elem(prefix, label, attribs, scope, child ++ newChild : _*)
+  case _ => error("Can only add children to elements!")
+}
+def addToModel(child:Node) = {
+  root = root match {
+    case <model>{children@ _*}</model> => <model>{children ++ child}</model>
+    case other => other
+  }
+}
+def add(n:Node,c:Node):Node = n match { case e:Elem => e.copy(child=e.child++c) }
+'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'xml'
+Feature = 'attribute'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'subn \ @attrname'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'xml'
+Feature = 'attribute'
+Subfeature = 'text'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'attr text'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'html'
+Feature = 'get jsoup doc'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import net.ruippeixotog.scalascraper.browser.JsoupBrowser
+
+val browser = JsoupBrowser()
+val doc = browser.get("http://example.com/")
+    val doc = browser.post(s"http://kjc-sv013.kjc.uni-heidelberg.de/dcs/ajax-php/ajax-text-handler-wrapper.php",
+      form = Map(
+        "mode" -> "printchapters",
+        "textid" -> book.dcsId.toString
+      ))
+val doc2 = browser.parseFile("file.html")
+val doc2 = browser.parseString("...")
+val jsoupDoc = doc.underlying'''
+Description = 'Rest - use Jsoup api, though a DSL is provided by the scalascraper library.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'IO'
+Feature = 'stdout'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'println, print, printf'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'IO'
+Feature = 'file'
+Subfeature = 'read'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import scala.io.Source
+val src = Source.fromFile(f, encodingIn)
+val iter = src.getLines'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'IO'
+Feature = 'file'
+Subfeature = 'read xml'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'val musicElem = scala.xml.XML.loadFile("/tmp/music.xml")'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'IO'
+Feature = 'file'
+Subfeature = 'write'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import java.io._
+val pw = new PrintWriter(new File("hello.txt" ))
+pw.write("Hello, world")
+pw.close'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'IO'
+Feature = 'serialize deserialize'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+scala.util.Marshal.load[Type]
+dump()'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'IO'
+Feature = 'directories'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'To make directories etc.. just use java.io.File mkdirs etc..'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'IO'
+Feature = 'directories'
+Subfeature = 'list'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import java.io.File
+def recursiveListFiles(f: File): Array[File] = {
+  val these = f.listFiles
+  these ++ these.filter(_.isDirectory).flatMap(recursiveListFiles)
+}
+def getCurrentDirectory = new java.io.File( "." ).getCanonicalPath'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'IO'
+Feature = 'user input'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val name = StdIn.readLine("What's your name? ")
+print("How old are you? ")
+val age = StdIn.readInt()'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'Shell command'
+Feature = 'Pipe and combine commands'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '"ls" #| "grep .scala" #&& Seq("sh", "-c", "scalac *.scala") #|| "echo nothing found" lines'
+Description = 'ls */*.xyz does not work right'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'Shell command'
+Feature = 'execute'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import sys.process._
+ "ls -al".!
+val result = "ls -al".!!'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'Shell command'
+Feature = 'execute'
+Subfeature = 'execute from directory'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+sys.process.Process(Seq("sbt","update"), new java.io.File("/path/to/project")).!!
+'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'Shell command'
+Feature = 'execute'
+Subfeature = 'capture stodout, stderr'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val stdout = new StringBuilder
+val stderr = new StringBuilder
+val status = "ls -al FRED" ! ProcessLogger(stdout append _, stderr append _)
+println(status) println("stdout: " + stdout) println("stderr: " + stderr)'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'Random'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'nextInt(n) shuffle()'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'statement'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+stat
+stat;'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'statement'
+Feature = 'block'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '{statements}'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'statement'
+Feature = 'comment'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+//comment
+/* comment multi line */
+/** multiline doc */'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'assert'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+assert(someCond)
+assert(attempted == 1, "Some message")'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'monad'
+Feature = 'option'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val o = Some(3) // Option[Int] type
+val n = None / None.type
+if (o.isDefined) o.get // returns 3'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'quasi monad'
+Feature = 'Either'
+Subfeature = 'concept'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'Holds one of two types of values.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'quasi monad'
+Feature = 'Either'
+Subfeature = 'initialize'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val x: Either[Response,User] = Right(someUser)
+val y: Either[Response,User] = Left(someResponse)'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'quasi monad'
+Feature = 'Either'
+Subfeature = 'match by case'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '// usual case class matching'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'quasi monad'
+Feature = 'Either'
+Subfeature = 'map irrespective of case'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'someEither.fold(x => ...)'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'quasi monad'
+Feature = 'potential value'
+Subfeature = 'concept'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'Can be Success(someValue) or Failure(someException)'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'quasi monad'
+Feature = 'potential value'
+Subfeature = 'map'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ' val result = Try("4".toInt).map(v=>v*v )'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'quasi monad'
+Feature = 'potential value'
+Subfeature = 'recover'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+rateQuote map {
+  quote => connection.buy(amount, quote)
+} recover {
+  case e: XyzException => 0
+}'''
+Description = '''
+Applies the partial function f if this is a Failure, otherwise returns this if this is a Success.
+'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'quasi monad'
+Feature = 'potential value'
+Subfeature = 'compose with for'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val result = for (
+    v <- Try("5".toInt);
+    k <- Try("6".toInt);
+    z <- Try("9".toInt)
+  ) yield( v + k + z)'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'quasi monad'
+Feature = 'potential value'
+Subfeature = 'flatMap'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'tryA.flatMap(x => someFnWithTryResult(x))'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'quasi monad'
+Feature = 'potential value'
+Subfeature = 'fitler'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+usdQuote flatMap {usd =>
+chfQuote.withFilter(chf => isProfitable(usd, chf))
+}'''
+Description = '''
+withFilter is identical to calling filter in this case.
+creates a new Try which contains the value of the original Try only if it satisfies some predicate. 
+Otherwise, the new Failure[NoSuchElementException]. '''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'quasi monad'
+Feature = 'potential value'
+Subfeature = 'fitler'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'tryA.collect(somePartialFn)'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'resource file'
+Feature = 'path'
+Subfeature = 'get'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'getClass.getResource("/scl_bin/sup_gen.bin").getPath'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Creation'
+Subfeature = 'factory functions'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Traversable(1, 2, 3)
+Iterable("x", "y", "z")
+Map("x" -> 24, "y" -> 25, "z" -> 26)
+Array.fill(numItems)(fillerExpression)
+a = Array.fill(size, value)
+Buffer.fill(numItems)(fillerExpression)'''
+Description = 'All collections have factory functions with a uniform syntax for their creation: besides using specific class constructors. '
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Creation'
+Subfeature = 'numeric'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+0 to 2 creates iterator.
+0 until 5 produces (0, 1, 2, 3, 4)
+0 to -5 by -1'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Conversion from java'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import scala.collection.JavaConverters._
+javaCollection.asScala
+scalaCollection.asJava
+'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'TraversableOnce'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'This is the ancestor of both Iterators and Traversable.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'TraversableOnce'
+Subfeature = 'grow'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '  +, padTo, +, -'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Array'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'This corresponds to a Java Array, but is implicitly conversion/ wrapping to a mutable.WrappedArray, which extends Seq.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'For expression/ comprehension'
+Subfeature = 'concept'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'It is not a for loop corresponding to the for looip of traditional languages. The difference is that it yields a value.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'For expression/ comprehension'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+for iteratorBlock statementBlock
+'''
+Description = '''
+The iteratorBlock, which specifies the iterator whence values are drawn, is enclosed by () or \{\}.
+The statementBlock should be executed for values drawn from a certain iterator I, which may be defined in terms of values filtered and drawn from other multiple source iterators.'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'For expression/ comprehension'
+Subfeature = 'yield'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+for (i <- 1 to 5) yield i
+for (e <- a if e > 2) yield e'''
+Description = '''
+For each iteration of your for loop, yield generates a value which will be remembered. It's like the for loop has a buffer you can't see, and for each iteration of your for loop, another item is added to that buffer. When your for loop finishes running, it will return this collection of all the yielded values. The type of the collection that is returned is the same type that you were iterating over, so a Map yields a Map, a List yields a List, and so on.
+
+Scala’s “for comprehensions” are syntactic sugar for composition of multiple operations with foreach, map, flatMap, filter or withFilter.        http://docs.scala-lang.org/tutorials/FAQ/yield.html'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'force lazy evaluation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'someList.view.someOp'
+Description = 'By default, values are drawn fully from the iterator I before the statementBlock is executed - so its alterations of variables affecting the definition of the iteration block has no effect. But, this can be changed by using lazy evaluation function view (aka non-strict view) of iterators instead of the iterators themselves - iter.view.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'force lazy evaluation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'caveat'
+Syntax = ''
+Description = '''Sometimes you need to wrap an iterator to preserve the lazy eval benefits, while doing some complicated operations (eg: grouping continuous identical sequences). Can't do with library functions.'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'map'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+lst.map(fn)
+lst.zipWithIndex.map({ case (a: T, b: Int) => ...}) // unpack tuple
+lst.flatMap(fn) // for collection of collections.'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'foreach'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'lst.foreach(fn )'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'index'
+Subfeature = 'find'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+find(p): An option containing the first element returned by it that satisfies p, or None is no element qualifies.
+indexOf(x): a number'''
+Description = 'Note: The iterator advances past the position of this element.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Traversable.iterable'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+ val it = Iterator("a", "number", "of", "words")
+while (it.hasNext){
+         println(it.next())
+      }'''
+Description = '''
+The iterator is not a collection itself, but a way to access items in a collection one at a time - and has methods like next() and hasNext().
+But, it is traversible once - so using functions like size, find etc.. irreversibly moves the index to the appropriate position.
+TraversableOnce > Traversable.iterable (contains the method iterator)'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Traversable.iterable'
+Subfeature = 'Subiterator'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+take(n), drop(n).
+takeWhile, dropWhile return prefix and suffix iterators respectively.
+slice returns an arbitrary slice. note that they consume the element which fails the test too!
+Filtering methods: filter, filterNot.'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Traversable.iterable'
+Subfeature = 'Subiterator (lazy)'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'In addition, withFilter fitlers elements in the collection does filtering in a lazy/ non-strict way to produce a Seq object.'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Traversable.iterable'
+Subfeature = 'Subiterator with partial fn'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val pf: PartialFunction[A, B] = ...
+someCollection.collect(pf)
+val results3 =
+  elements collect { case se: SpecialElement if accept(se) => transform(se) }'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Traversable.iterable'
+Subfeature = 'grow'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''
+Its methods for retrieving subcollections and for growing its size are same as in case of Iterator. In addition, it contains tail.
+'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Traversable.iterable'
+Subfeature = 'Partitioning'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Note that these return an immutable map.
+abcde splitAt 2
+//  res10: (List[Char], List[Char]) = (List(a, b),List(c, d, e))
+groupBy
+List(1, 2, 3, 4, 5) partition (_ % 2 == 0)'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Traversable.iterable'
+Subfeature = 'Partitioning: sliding'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+(1 to 5).sliding(2,2).toList
+// List(Array(1, 2), Array(3, 4), Array(5))'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Traversable.iterable'
+Subfeature = 'Partitioning'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+scala> Seq(1,2,3,4).span(x => x % 2 == 0)
+res0: (Seq[Int], Seq[Int]) = (List(),List(1, 2, 3, 4))'''
+Description = 'span will put all elements in one list until an element is "false" (in terms of the predicate). From that point forward, it will put the elements in the second list.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Traversable.iterable'
+Subfeature = 'Partitioning'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'More complex partitioning while maintaining lazy evaluation is ideally done by wrapping the iterable in a class that implements required methods, advancing iterator position as necessary.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Traversable.iterable'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'it indexOf x'
+Description = 'The index of the first element returned by it that equals x. '
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Traversable.iterable'
+Subfeature = 'Partitioning: collect'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+var strings = List.empty[String]
+var ints = List.empty[Int]
+mixedList collect {
+  case s: String => strings :+= s
+  case i: Int => ints :+= i
+}'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Iterator'
+Subfeature = 'duplicate'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+// Note: You LOSE the lazy eval benefits of iterators.
+var list = List(1,2,3,4,5)
+var it1 = list.iterator
+it1.next()
+val (it1a, it1b) = it1.duplicate
+it1 = it1a
+var it2 = it1b
+it2.next() // prints 2
+println(it1.next()) // prints 2'''
+Description = '''
+A pair of iterators that each independently return all elements of it.
+'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Seq'
+Subfeature = 'concept'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'These extend Traversable.iterable. Those extending Seq are mutable and immutable.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Seq'
+Subfeature = 'Indexing, index access'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'someCollection(i)'
+Description = '''
+They have the apply(), which enables accessing elements using the function-call syntax.
+
+Other useful members: indices, indexWhere ..
+'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Seq'
+Subfeature = 'add element'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ' += adds an element (if mutable)'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Seq'
+Subfeature = 'replace element'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'seq = seq.updated(2,5000)'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Seq'
+Subfeature = 'head and tail'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val hd = foo.head
+// hd: Int = 1
+val hdOpt = foo.headOption
+// hd: Option[Int] = Some(1)
+val tl = foo.tail
+// tl: List[Int] = List(2, 3, 4)'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Seq'
+Subfeature = 'rearrange'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+sortBy, reverse
+items.sorted(Ordering.by((x: PodcastItem) => x.timeSecs1970).reverse)'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Seq'
+Subfeature = 'boolean-valued ops'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+startsWith, endsWith, contains
+exists(booleanFn)'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Seq'
+Subfeature = 'set ops'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'intersect union diff distinct.'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Seq'
+Subfeature = 'range'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'val r = 1 to 10'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'SeqView'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'seq.view gets a SeqView object'
+Description = 'This extends Seq, but all list/ iterator producing operations on it are done in a lazy/ non-strict way.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection mutable'
+Feature = 'ArrayBuffer'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'This has the same semantics as an Array, but is more flexible and is iterable -as described in the data-structures survey. Also, it features constant-access-time.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection mutable'
+Feature = 'ListBuffer'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ' += adds element'
+Description = 'ListBuffer is modifiable.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection immutable'
+Feature = 'List'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'List extends Seq.immutable, and contain homogeneous elements. Any list method returns a new list, but does not modify the existing list.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection immutable'
+Feature = 'List'
+Subfeature = 'literals'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Nil, val1::val2::Nil'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection immutable'
+Feature = 'List'
+Subfeature = 'add / append/ prepend list'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Concatenation function: :::, insertion at the head: ::.'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection immutable'
+Feature = 'List'
+Subfeature = 'drop'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+drop(2)
+remove(checkerFunction)'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection immutable'
+Feature = 'List'
+Subfeature = 'sublists'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'listVar(k). slice(a, b)'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection immutable'
+Feature = 'List'
+Subfeature = 'Stringify'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'mkString("\n")'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Option'
+Subfeature = 'concept'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = 'A zero or one element List used in returning results from operations on collections. This is either a Some or a None object, the former of which has a value.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'List of options'
+Subfeature = 'flatten / flatMap'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''
+Suppose that f(x) returns Option[T]. It is common to do var1.map(f), which returns List[Option[T]].
+
+Some elements of this list may be None. In order to convert this to a List[T] while skipping over None objects, one can invoke flatten: var1.map(f).flatten. A shortcut is to say: var1.flatMap; described in general for Lists.'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Set'
+Subfeature = 'Type'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''
+The concept of a set is implemented as a pair of traits: mutable and immutable (located in packages scala.collection.(im)mutable). 
+
+These are extended by mutable and immutable HashSet classes. These are hyperclasses: so the type is HashSet[ElementType].
+'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Set'
+Subfeature = 'Add'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Use the += method which accepts multiple parameters to be added.'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Set'
+Subfeature = 'Membership check'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'contains()'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Map'
+Subfeature = 'Type'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''
+As in the case of a set, this is implemented as a pair of traits: mutable and immutable, and placed in different packages.
+They are extended by mutable and immutable HashMaps, ListMaps. A HashMap is a hyperclass, so its type is HashMap[KeyType, ValueType].
+
+Note that immutable maps, when return a copy of value objects to ensure that the value is not modified.
+'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Map'
+Subfeature = 'create'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Map(tupleList) factory method. Iterator.toMap.
+Map("Dave" -> "Bass", "Tony" -> "Guitar")
+toMap if there are 2 traversables. Or do groupBy(Traversable => keyElement).
+'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Map'
+Subfeature = 'add element'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+The += method accept appropriate 2 element tuples as arguments. 
+x += ((key, val))
+x += (key -> val)
+put(key, value)'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Map'
+Subfeature = 'access element'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+map(key) or map.get(key) or getOrElse
+'''
+Description = 'get() does not throw an exception but returns an Option object.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Map'
+Subfeature = 'swap'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'mapFromDevanagari.map(_.swap)'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Map'
+Subfeature = 'concatenate'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'map1 ++ map2'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Map'
+Subfeature = 'to java map'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+JavaConversions.mapAsJavaMap(jsonMap)
+
+      import scala.collection.JavaConverters._
+jsonMap.asJava
+'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Tuple'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''
+These are immutable and its members may be heterogeneous. This is a hyper-class, whose actual type depends on the values it holds. Eg: (1, "df") is Tuple2[Int, String].
+'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Tuple'
+Subfeature = 'literal'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''var pair = (1, "asdf"). \verb'1 -> "asdf"'.'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'collection'
+Feature = 'Tuple'
+Subfeature = 'element access'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'pair._1'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'Decision structures'
+Feature = 'tertiary'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'if (i == 1) x else y'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'Decision structures'
+Feature = 'switch case'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+testVar(s) match {caseStatementList}.
+'''
+Description = '''
+Note that one can match values of pairs of variables: (a, b).
+
+A caseStatement is a partial function, eg: \verb'case matchValue => codeBlock'. The default matching value is denoted by \_.
+
+Once a certain case is executed, other caseStatements are not executed.
+'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'Decision structures'
+Feature = 'switch case'
+Subfeature = 'match case classes'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+def showNotification(notification: Notification): String = {
+  notification match {
+    case Email(email, title, _) =>
+      "You got an email from " + email + " with title: " + title
+    case SMS(number, message) =>
+      "You got an SMS from " + number + "! Message: " + message
+    case VoiceRecording(name, link) =>
+      "you received a Voice Recording from " + name + "! Click the link to hear it: " + link
+  }
+}'''
+Description = '''
+One can also have patterns of the type: val1 | val2 ...
+One can also match state variables within an object of a 'case class': case Number(1) ..'.
+(because it applies the unapply method)'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'Decision structures'
+Feature = 'switch case'
+Subfeature = 'match regex patterns'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val verse_id_pattern = "(\\|c.+)".r
+line match {
+  case verse_id_pattern(verse_match) => {
+    verse = verse_match
+  }
+case somethingElse => println(somethingElse)
+}'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'Decision structures'
+Feature = 'for , while'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''
+while loops are as in java. if-else blocks are as in Java.
+
+One can also use various methods and comprehensions defined for collection data types.
+'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'Decision structures'
+Feature = 'No break and continue'
+Subfeature = 'caveat'
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''
+There are no break and continue statements.
+
+So, one can use: $lst.find(T => Boolean)$ to break a loop.
+'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'Exceptions'
+Feature = 'throw'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = '''
+Exceptions are thrown as in Java.
+Since Scala has no checked exceptions, Scala methods must be annotated with one or more throws annotations such that Java code can catch exceptions thrown by a Scala method eg: \@ throws(classOf[IOException]).'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'Exceptions'
+Feature = 'handling'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+try{statementBlock} catch {caseStatements} 
+finally(..)'''
+Description = '''
+Each caseStatement in the catch block checks the exception type as in the case of the match function. Eg:   case e:IllegalArgumentException => e.printStackTrace()
+'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'Exceptions'
+Feature = 'handling'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '// Use the Try potential value.'
+Description = 'This is the functional way.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'Exceptions'
+Feature = 'handling'
+Subfeature = 'print trace'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+          val sw = new StringWriter
+          ex.printStackTrace(new PrintWriter(sw))
+          log.error(sw.toString)
+          log.error(x)
+'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'current time'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val today = Calendar.getInstance().getTime()
+  val minuteFormat = new SimpleDateFormat("mm")
+  val currentMinuteAsString = minuteFormat.format(today)
+  val currentMinute = Integer.parseInt(currentMinuteAsString)'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'current time'
+Feature = ''
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val timestamp: Long = System.currentTimeMillis / 1000
+'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'ExecutionContext'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'concept'
+Syntax = ''
+Description = 'A context which can execute computations in a new thread, in a pooled thread or in the current thread '
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'ExecutionContext.global'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'concept'
+Syntax = ''
+Description = 'executionContext backed by a ForkJoin pool of n threads, where n = numProcessors by default.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'ExecutionContext.global'
+Subfeature = 'use'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+// the following is equivalent to `implicit val ec = ExecutionContext.global`
+import ExecutionContext.Implicits.global'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'ExecutionContext'
+Subfeature = 'set for function'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val inverseFuture: Future[Matrix] = Future {
+  fatMatrix.inverse() // non-blocking long lasting computation
+}(executionContext)'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'ExecutionContext'
+Subfeature = 'set for function'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+implicit val ec: ExecutionContext = ...
+val inverseFuture : Future[Matrix] = Future {
+  fatMatrix.inverse()
+} // ec is implicitly passed'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'Future'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'concept'
+Syntax = ''
+Description = '''
+object holding a value which may become available at some point.
+States: completed (= yields Try obj: successful with value | failed with exception), not completed.
+Value may only be assigned once.
+This object can be passed about - anyone with it can access the value and transform it when ready.'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'Future'
+Subfeature = 'define'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Future.apply(..someComputation()..)
+Future { ..someComputation().. }
+Future.fromTry(...)'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'Future'
+Subfeature = 'map (multiple) with for'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '// analogous to Correponding Try method'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'Future'
+Subfeature = 'map, recover'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '// analogous to Correponding Try method'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'Future'
+Subfeature = 'map, recover'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Future{1}.andThen{ case Success(x) =>
+...}.andThen{ case Success(x) =>
+...}'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'Future'
+Subfeature = 'flatMap'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '// analogous to Correponding Try method'
+Description = 'Good way to avoid future of futures!'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'Future'
+Subfeature = 'fitler'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '// analogous to Correponding Try method'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'Future'
+Subfeature = 'cast to class'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'fut2 = fut1.mapTo[Fut2Class]'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'Future'
+Subfeature = 'await'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'Await.ready(fut1, Duration(2, MINUTES))'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'Future'
+Subfeature = 'handle success'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+f onSuccess {
+  case posts => for (post <- posts) println(post)
+}
+f.foreach(...)'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'Future'
+Subfeature = 'handle failure'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+f onFailure {
+  case t => println("An error has occured: " + t.getMessage)
+}'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'Future'
+Subfeature = 'handle completion'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+Future {
+  session.getRecentPosts
+} andThen {
+  // Usual Try class matching.
+} andThen {
+  // Usual Try class matching.
+}'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'List[Future]'
+Subfeature = 'get Future[List]'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'val f2 = Future.sequence(someFuture)'
+Description = 'Executes all futures in list asynchronously and non-blockingly.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'List[Future]'
+Subfeature = 'get Future[List]'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+private def lift[T](futures: Seq[Future[T]]) = 
+    futures.map(_.map { Success(_) }.recover { case t => Failure(t) })
+val f2 = Future.sequence(lift(f1))
+val f2Successes = f2.map(_.filter(_.isSuccess))
+'''
+Description = 'Easier to deduce errors'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'Promise'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'concept'
+Syntax = ''
+Description = '''
+An object which corresponds to and completes a future.
+A promised computation. Can complete a promise only once.'''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'Promise'
+Subfeature = 'get future'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val p = Promise[T]()
+val f:Future[T] = p.future // Consumed in some other thread'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'Promise'
+Subfeature = 'status'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'p.isCompleted'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'Promise'
+Subfeature = 'complete future'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val producer = Future {
+  val r = produceSomething()
+  if (r == t) { p success r} 
+  else {
+  p failure someException }
+  continueDoingSomethingUnrelated()
+}
+'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'Promise'
+Subfeature = 'complete future'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val bPromiseCompl = p trySuccess someVal 
+val bPromiseCompl = p tryFailure someExc '''
+Description = 'Returns false if promise has already been completed.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'Promise'
+Subfeature = 'complete with future'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val f = Future { 1 }
+val p = Promise[Int]()
+p completeWith f'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'Promise'
+Subfeature = 'complete with future'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'p tryCompleteWith f'
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'parallelism'
+Feature = 'Promise'
+Subfeature = 'complete with Try'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+val someBool = p.tryComplete(someTryVal)
+p.complete(someTryVal)'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'dependency injection guice'
+Feature = 'setup'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+class MyComponent @Inject()(val service: ServiceInterface) {
+  def callTheService(): String = service.service
+}'''
+Description = 'when this component is requested from Guice, it should have the appropriate implementation of Service injected.'
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'dependency injection'
+Feature = 'inject'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'Flatspec test'
+Feature = 'setup'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+<dependency>
+  <groupId>org.scalatest</groupId>
+  <artifactId>scalatest_2.11</artifactId>
+  <version>3.0.4</version>
+  <scope>test</scope>
+</dependency>'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'Flatspec test'
+Feature = 'write test case'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+class SetSpec extends FlatSpec {
+  "An empty Set" should "have size 0" in {
+    assert(Set.empty.size == 0)
+  }
+  it should "produce NoSuchElementException when head is invoked" in {
+    assertThrows[NoSuchElementException] {
+      Set.empty.head
+    }
+  }
+}'''
+Description = ''
+
+[[data]]
+Language = 'Scala'
+"Operand Type" = 'Flatspec test'
+Feature = 'run'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+test
+testOnly *MySuite -- -z foo (runs test with substring foo)'''
+Description = ''

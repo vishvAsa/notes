@@ -1,0 +1,46 @@
+[[data]]
+beaureaucrats = 'sysops'
+Feature = 'Dropdown lists other special users'
+details =  'https://www.mediawiki.org/wiki/Special:ListUsers/sysop'
+
+[[data]]
+beaureaucrats = 'user contributions'
+Feature = ''
+details =  'https://sa.wiktionary.org/w/index.php?title=special:contributions/NehalDaveND&offset=&limit=500&target=NehalDaveND'
+
+[[data]]
+beaureaucrats = 'notify about message'
+Feature = '''leave this in a user's talk page to notify him about a message to him at another user's talk page.'''
+details =  '{{tb|Username}}'
+
+[[data]]
+beaureaucrats = 'redirect'
+Feature = ''
+details =  '#REDIRECT [[pagename]]'
+
+[[data]]
+beaureaucrats = 'category'
+Feature = ''
+details =  '[[वर्गः:इकारान्त पुल्लिङ्गम्]]'
+
+[[data]]
+beaureaucrats = 'transclude'
+Feature = ''
+details =  '''
+{{template name|parameter|| myparam = this is a test |...}}
+{{:महाभारतम्-03-आरण्यकपर्व-159}} - regular article'''
+
+[[data]]
+beaureaucrats = 'template'
+Feature = ''
+details =  '''
+xyz {{{1}}}, {{{2}}} asdf {{{xxx}}}
+<noinclude>
+{{documentation}}
+</noinclude>
+'''
+
+[[data]]
+beaureaucrats = 'interwiki-language links'
+Feature = ''
+details =  '[[language prefix:pagename]]'

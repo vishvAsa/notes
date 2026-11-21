@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Set on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/algebra/set/</link>
+    <description>Recent content in &#43;Set on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/math/algebra/set/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Orders over set</title>
+      <link>https://vishvAsa.github.io/notes/math/algebra/set/orders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/algebra/set/orders/</guid>
+      <description>&lt;h2 id=&#34;total-order&#34;&gt;Total order&lt;/h2&gt;&#xA;&lt;p&gt;All \((x, y) \in S\) comparable.&lt;/p&gt;&#xA;&lt;h3 id=&#34;minimum-element&#34;&gt;Minimum element&lt;/h3&gt;&#xA;&lt;p&gt;\(\forall y \in S: x\leq y\).&lt;/p&gt;&#xA;&lt;h2 id=&#34;partial-order&#34;&gt;Partial order&lt;/h2&gt;&#xA;&lt;p&gt;Aka Posets: Partially Ordered sets. Maybe some \((x, y) \in S\) not comparable. Eg: vectors, componentwise \(&amp;lt;\). Visualize with Hasse diagrams.&lt;/p&gt;&#xA;&lt;h3 id=&#34;minimal-element&#34;&gt;Minimal element&lt;/h3&gt;&#xA;&lt;p&gt;\(\forall y \in S: x\leq y \implies x = y\). Note difference from minimum. Eg: in triangle joining (1,1), (0, 1), (1, 0): line joining the last 2 pts are minimal elements.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Size</title>
+      <link>https://vishvAsa.github.io/notes/math/algebra/set/size/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/algebra/set/size/</guid>
+      <description>&lt;h2 id=&#34;measurable-space&#34;&gt;Measurable space&lt;/h2&gt;&#xA;&lt;p&gt;Suppose that \(S\) is a \(\sigma\) algebra over \(X\). \((X, S)\) is called a measurable space. Every member of \(S\) is a measurable set.&lt;/p&gt;&#xA;&lt;p&gt;\((S, 2^{S})\) is a common measurable space.&lt;/p&gt;&#xA;&lt;h3 id=&#34;importance&#34;&gt;Importance&lt;/h3&gt;&#xA;&lt;p&gt;This notion is useful because it enumerates the sets whose size we want to measure.&lt;/p&gt;&#xA;&lt;h3 id=&#34;product-space&#34;&gt;Product space&lt;/h3&gt;&#xA;&lt;p&gt;You can take two measurable spaces \((S_1, F_1), (S_2, F_2)\), and, by set product get a bigger measurable space \((S_1 \times S2, F_1 \times F_2)\).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

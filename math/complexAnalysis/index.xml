@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Complex analysis on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/complexAnalysis/</link>
+    <description>Recent content in &#43;Complex analysis on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/math/complexAnalysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bounding techniques</title>
+      <link>https://vishvAsa.github.io/notes/math/complexAnalysis/analysis_bounding_tehchniques/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/complexAnalysis/analysis_bounding_tehchniques/</guid>
+      <description>&lt;p&gt;Also see functional analysis ref.&lt;/p&gt;&#xA;&lt;p&gt;Effectively bound one function with another.&lt;/p&gt;&#xA;&lt;h2 id=&#34;general-ideas&#34;&gt;General ideas&lt;/h2&gt;&#xA;&lt;p&gt;Use convexity of functions! See proof of AM/ GM inequalities, for example.&lt;/p&gt;&#xA;&lt;h3 id=&#34;bound-f-over-a-b-with-a-constant-c&#34;&gt;Bound f over [a, b] with a constant c&lt;/h3&gt;&#xA;&lt;p&gt;Show that \(f\) is monotone over \([a, b]\), perhaps by taking derivative; take \(c\) to be value at \(a\) or \(b\).&lt;/p&gt;&#xA;&lt;h2 id=&#34;asymptotics&#34;&gt;Asymptotics&lt;/h2&gt;&#xA;&lt;p&gt;Asymptotic notation: o, O, \(\Theta, \Omega, \omega\).&lt;/p&gt;&#xA;&lt;h3 id=&#34;hierarchy-of-growth-of-functions&#34;&gt;Hierarchy of growth of functions&lt;/h3&gt;&#xA;&lt;p&gt;$$c, \lg^{*} n, \log n, n^{k}, n^{\log n}, \&#xA;n^{n^{1/3}} = e^{n^{1/3}\ln n}, e^{n}, n! = \theta(\sqrt{n}(\frac{n}{e})^{n}), n^{n}$$.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bounds and limits</title>
+      <link>https://vishvAsa.github.io/notes/math/complexAnalysis/bounds_and_limits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/complexAnalysis/bounds_and_limits/</guid>
+      <description>&lt;p&gt;\(p^{1/n} \to 1\): take seq \(x_{n} = p^{1/n}-1\). Also, \(n^{1/n} \to 1\).&lt;/p&gt;&#xA;&lt;h2 id=&#34;bounds-on-combinatorial-quantities&#34;&gt;Bounds on combinatorial quantities&lt;/h2&gt;&#xA;&lt;h3 id=&#34;bounds-on-n&#34;&gt;Bounds on n!&lt;/h3&gt;&#xA;&lt;p&gt;(Stirling)\(n!\approx \sqrt{2n\pi} (\frac{n}{e})^{n}\). \why&lt;/p&gt;&#xA;&lt;h3 id=&#34;bounds-on-a-choose-b&#34;&gt;Bounds on (a choose b)&lt;/h3&gt;&#xA;&lt;p&gt;\(\binom{a}{b} = \frac{a!}{b!(a-b)!} \approx \frac{a^{a}}{\sqrt{2n\pi} b^{b}(a-b)^{a-b}}\) for large a, b and a-b.&lt;/p&gt;&#xA;&lt;p&gt;So: \(\binom{a}{b} \leq (\frac{ea}{b})^{b}\). \(\lceil \frac{a}{b}\rceil \leq \frac{a-1}{b}+1\). \(\frac{e^{m}}{\sqrt{em}}&amp;lt; \frac{m^{m}}{m!}\leq \sum \frac{m^{i}}{i!} = e^{m}\). \((\frac{a}{b})^{b} &amp;lt; \binom{a}{b} &amp;lt; a^{b}/b!\).&lt;/p&gt;&#xA;&lt;h2 id=&#34;bounds-on-powers-and-exponents&#34;&gt;Bounds on powers and exponents&lt;/h2&gt;&#xA;&lt;h3 id=&#34;bounds-on-htext1bn-and-enexponentials&#34;&gt;Bounds on \htext{\((1+b)^{n\) and \(e^{n}\)}{exponentials}}&lt;/h3&gt;&#xA;&lt;p&gt;Using Taylor series of \(e^{-x}\) wrt 0, stopped at \(x^{2}\): \(e^{-x} \geq 1-x\).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Important fields</title>
+      <link>https://vishvAsa.github.io/notes/math/complexAnalysis/important_fields/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/complexAnalysis/important_fields/</guid>
+      <description>&lt;h2 id=&#34;general-properties&#34;&gt;General properties&lt;/h2&gt;&#xA;&lt;p&gt;For algebraic properties etc.., see algebra ref.&lt;/p&gt;&#xA;&lt;p&gt;For Open balls, interior points, connectedness etc.. See topology ref.&lt;/p&gt;&#xA;&lt;h2 id=&#34;numbers&#34;&gt;Numbers&lt;/h2&gt;&#xA;&lt;p&gt;Natural numbers. Integers.&lt;/p&gt;&#xA;&lt;h3 id=&#34;supremum-gub-vs-infimum-glb&#34;&gt;Supremum (GUB) vs infimum (GLB)&lt;/h3&gt;&#xA;&lt;p&gt;See properties of ordered sets in algebra ref.&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-field-of-rational-numbers&#34;&gt;The field of Rational numbers&lt;/h3&gt;&#xA;&lt;p&gt;Q; irrationality of \(\sqrt{2}\); \(\sqrt{2}\) as limit of rationals.&lt;/p&gt;&#xA;&lt;p&gt;Q is an ordered field. Q is countable, as \(Z^{2}\) is countable.&lt;/p&gt;&#xA;&lt;h4 id=&#34;absence-of-least-upper-bound&#34;&gt;Absence of least upper bound&lt;/h4&gt;&#xA;&lt;p&gt;\(\set{x \in Q, x^{2}&amp;lt; 2}\) does not have supremum in Q.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

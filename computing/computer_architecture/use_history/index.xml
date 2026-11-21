@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Use History on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/computer_architecture/use_history/</link>
+    <description>Recent content in &#43;Use History on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/computing/computer_architecture/use_history/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keyboard</title>
+      <link>https://vishvAsa.github.io/notes/computing/computer_architecture/use_history/keyboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/computer_architecture/use_history/keyboard/</guid>
+      <description>&lt;h2 id=&#34;split-keyboard&#34;&gt;Split keyboard&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kiness Frestyle 2 split keyboard - Used in split mode with mouse in the middle.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Alt key in of them stopped working after 5/6 years.&lt;/li&gt;&#xA;&lt;li&gt;Much dirt accumulation under the keys. Stains on keys.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;regular-keyboard&#34;&gt;Regular keyboard&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Thin white apple keyboard&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;gloves&#34;&gt;Gloves&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;IMAK smart glove (padded)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;disiderata&#34;&gt;Disiderata&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Printer</title>
+      <link>https://vishvAsa.github.io/notes/computing/computer_architecture/use_history/printer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/computing/computer_architecture/use_history/printer/</guid>
+      <description>&lt;h2 id=&#34;epson-l15180-inkjet-ecotank&#34;&gt;Epson L15180 (Inkjet EcoTank):&lt;/h2&gt;&#xA;&lt;h3 id=&#34;power&#34;&gt;Power&lt;/h3&gt;&#xA;&lt;p&gt;• Operating power consumption: Approximately 20-25 watts during printing&lt;br&gt;&#xA;• Peak startup current: Minimal (under 1 amp) due to Heat-Free Technology&#xA;• No high-current fuser unit like laser&lt;/p&gt;&#xA;&lt;h2 id=&#34;hp-colorlaserjet-m255dw&#34;&gt;HP ColorLaserJet M255dw&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Features&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Color printer&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Drivers (Manjaro linux)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;generic pcl laser color printer.&lt;/li&gt;&#xA;&lt;li&gt;Autodetected on Arch Linux HP ColorLaserJet M255-M256 driver - stopped working properly&#xA;&lt;ul&gt;&#xA;&lt;li&gt;repeated &amp;ldquo;Broken pipe&amp;rdquo; error while printing large docs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Description:&#x9;HP ColorLaserJet M255-M256&#xA;Location:&#x9;&#xA;Driver:&#x9;HP ColorLaserJet M255-M256 Postscript (recommended) (color, 2-sided printing)&#xA;Connection:&#x9;socket://192.168.1.27&#xA;Defaults:&#x9;job-sheets=none, none media=iso_a4_210x297mm sides=two-sided-long-edge&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;power-1&#34;&gt;Power&lt;/h3&gt;&#xA;&lt;p&gt;Operating power consumption: Approximately 400-500 watts during active printing&lt;br&gt;&#xA;• Peak startup current: 8-12 amps during fuser warm-up (first 10-30 seconds)&lt;br&gt;&#xA;• Highest power draw occurs when fuser heating element reaches operating temperature&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

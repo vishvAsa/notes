@@ -1,0 +1,44 @@
+[[data]]
+Language = 'youtube-dl'
+"Operand Type" = 'yt playlist'
+Syntax = 'youtube-dl --extract-audio --audio-format mp3 -o "srijan talk %(upload_date)s %(playlist_index)04d: %(title).50s.%(ext)s" https://www.youtube.com/channel/UC3nhAUpe7aBm1rFCBgoWWcA/videos --playlist-reverse'
+
+[[data]]
+Language = 'youtube-dl'
+"Operand Type" = 'yt video'
+Syntax = 'youtube-dl --extract-audio --audio-format mp3 -o "%(title).50s.%(ext)s" https://www.youtube.com/watch?v=57llwwJ_LaY'
+
+[[data]]
+Language = 'vpn'
+"Operand Type" = 'ncbs'
+Syntax = 'cd /home/vvasuki/sysconf/kunchikA/ncbsvpn; sudo openvpn client.conf'
+
+[[data]]
+Language = 'vpn'
+"Operand Type" = 'protonvpn'
+Feature = 'setup'
+Syntax = 'sudo protonvpn init'
+Description = 'use openvpn id and pw from site'
+
+[[data]]
+Language = 'vpn'
+"Operand Type" = 'protonvpn'
+Feature = 'connect'
+Syntax = 'sudo protonvpn connect'
+
+[[data]]
+Language = 'vpn'
+"Operand Type" = 'protonvpn'
+Feature = 'disconnect'
+Syntax = 'sudo protonvpn disconnect'
+
+[[data]]
+Language = 'wget'
+"Operand Type" = 'download files'
+Syntax = 'wget -r -A "*u.htm" http://gretil.sub.uni-goettingen.de/'
+
+[[data]]
+Language = 'wget'
+"Operand Type" = 'download files'
+Feature = 'no clobber, exclude dirs'
+Syntax = 'wget -nc -r -A "*.html,*.htm" -X /learning_tools/ashtadhyayi,/learning_tools/sarvanisutrani  https://sanskritdocuments.org/'

@@ -1,0 +1,58 @@
+\textwidth=6in
+\oddsidemargin=0.25in
+\evensidemargin=0.25in
+\topmargin=-0.1in
+\footskip=0.8in
+\parindent=0.0cm
+\parskip=0.3cm
+\textheight=8.00in
+\setcounter{tocdepth} {3}
+\setcounter{secnumdepth} {2}
+\sloppy
+
+\newenvironment{proof}{\noindent{\bf Proof:}}{\qed\bigskip}
+\newenvironment{proof_sketch}{\noindent{\bf Sketch of Proof}\hspace*{1em}}{\qed\bigskip}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}{Corollary}
+\newtheorem{lemma}{Lemma}
+\newtheorem{claim}{Claim}
+\newtheorem{fact}{Fact}
+\newtheorem{definition}{Definition}
+\newtheorem{assumption}{Assumption}
+\newtheorem{observation}{Observation}
+\newtheorem{example}{Example}
+\newtheorem{problem}{Open Problem}
+\newcommand{\qed}{\rule{7pt}{7pt}}
+
+
+
+\newcounter{lecnum}
+\renewcommand{\thepage}{\thelecnum-\arabic{page}}
+\renewcommand{\thesection}{\thelecnum.\arabic{section}}
+\renewcommand{\theequation}{\thelecnum.\arabic{equation}}
+\renewcommand{\thefigure}{\thelecnum.\arabic{figure}}
+\renewcommand{\thetable}{\thelecnum.\arabic{table}}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Don't change anything before the \begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\lecture}[6]{
+   \pagestyle{myheadings} \thispagestyle{plain} \newpage
+\setcounter{lecnum}{#1} \setcounter{page}{1} \noindent 
+\begin{center}
+\framebox{\vbox{
+
+{\bf CS 395T Computational Learning Theory}\\
+\vspace{2mm}
+{Lecture #1: #2 \hfill   Lecturer: #3} \\
+{Scribe: #4 \hfill}\\
+
+\vspace{4mm}}}
+\end{center}
+
+\markboth{Lecture #1: #2}{Lecture #1: #2}\vspace*{4mm}}
+
+

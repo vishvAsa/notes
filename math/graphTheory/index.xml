@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Graph Theory on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/graphTheory/</link>
+    <description>Recent content in &#43;Graph Theory on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/math/graphTheory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Embed graph in euclidean space</title>
+      <link>https://vishvAsa.github.io/notes/math/graphTheory/embed_graph_in_euclidean_space/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/graphTheory/embed_graph_in_euclidean_space/</guid>
+      <description>&lt;p&gt;Want the minimum dimensional embedding.&lt;/p&gt;&#xA;&lt;h2 id=&#34;formulation-as-matrix-factorization&#34;&gt;Formulation as matrix factorization&lt;/h2&gt;&#xA;&lt;p&gt;(Shconberg). Take weighted adj matrix W. \(W_{i,j} = \norm{x_{i}-x_{j}}^{2} = x_{i}^{T}x_{i} + x_{j}^{T}x_{j} - 2x_{i}^{T}x_{j}\). Take \(X = (x_{i})\); Gram matrix \(G = X^{T}X\) normalized to have \(g_{i,i} = 1\); then \(W = 2.11^{T}-2G\). Then solve for G; then solve \(G = X^{T}X\) for X with min number of columns.&lt;/p&gt;&#xA;&lt;h2 id=&#34;energy-minimization-techniques&#34;&gt;Energy minimization techniques&lt;/h2&gt;&#xA;&lt;p&gt;See section on incomplete graphs with similarity measures for intro to notation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rubik-cube</title>
+      <link>https://vishvAsa.github.io/notes/math/graphTheory/rubik-cube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/graphTheory/rubik-cube/</guid>
+      <description>&lt;h2 id=&#34;easy-solve&#34;&gt;Easy solve&lt;/h2&gt;&#xA;&lt;p&gt;Moves: C clockwise, K counter-clockwise, F for flip.&lt;br&gt;&#xA;Sides: R right, U for up/top, F for front, B for back.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Finish white side.&lt;/li&gt;&#xA;&lt;li&gt;Finish two rows near white as follows. Look at the yellow side plus, find a piece with no yellow, determine its destination, based on the direction to the destination do the following:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A - yellow side AWAY from destination&lt;/li&gt;&#xA;&lt;li&gt;B - BOTTOM towards destination&lt;/li&gt;&#xA;&lt;li&gt;C - Columns on destination side come down.&lt;/li&gt;&#xA;&lt;li&gt;D - &amp;ldquo;Delicious sandwich&amp;rdquo; - middle towards destination&lt;/li&gt;&#xA;&lt;li&gt;E - Everyone on destination side column goes up.&lt;/li&gt;&#xA;&lt;li&gt;F - Fix the whites&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Furry (FUR URF) Yellow Plus - Make plus on the yellow side.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sides: FUR, Moves: C&lt;/li&gt;&#xA;&lt;li&gt;Sides: URF, Moves: K.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Finish the yellow side with its sides scrambled.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Position: Get Yellow fish (possibly via crab or turtle), facing towards you and left (or left in case of turtle).&lt;/li&gt;&#xA;&lt;li&gt;Alternating right and top (RT): CCKCCFK&lt;/li&gt;&#xA;&lt;li&gt;Repeat till you get &amp;ldquo;Yellow Fish with food&amp;rdquo; (yellow square facing you); and then repeat to finish yellow side.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;Thumbs up for final corners&amp;rdquo; . Repeat below till result:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Position: most solved side (based on the corners) to the back.&lt;/li&gt;&#xA;&lt;li&gt;Sides: (RFRB)&lt;/li&gt;&#xA;&lt;li&gt;Moves: KCKFC KKFF&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Finale - Repeat below till result:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Position: most solved side to the back.&lt;/li&gt;&#xA;&lt;li&gt;Sides: RTRT Moves: FC3K5CK&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://easiestsolve.com/step-8-final-move-finish-him/&#34;&gt;ES&lt;/a&gt; used by prajnA&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Vector Spaces on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/vectorSpaces/</link>
+    <description>Recent content in &#43;Vector Spaces on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/math/vectorSpaces/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01 Vectors and combos</title>
+      <link>https://vishvAsa.github.io/notes/math/vectorSpaces/vectors_and_combos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/vectorSpaces/vectors_and_combos/</guid>
+      <description>&lt;h2 id=&#34;definition-basic-operations&#34;&gt;Definition, basic operations&lt;/h2&gt;&#xA;&lt;p&gt;A sequence of n elements of \(f\), v, is a vector.&lt;/p&gt;&#xA;&lt;h3 id=&#34;addition-scalar-multiplication&#34;&gt;Addition, scalar multiplication&lt;/h3&gt;&#xA;&lt;p&gt;Addition of vectors is naturally defined: \((u + v)_i = u_i + v_i\). Scalar multiplication is similarly defined.&lt;/p&gt;&#xA;&lt;h2 id=&#34;geometric-model-coefficient-sequence&#34;&gt;Geometric model: coefficient sequence&lt;/h2&gt;&#xA;&lt;p&gt;Can be interpreted as a point in the cartesian space \(F^{n}\); but which point? That depends on what the basis vectors model, the units, the inner product between them.&lt;/p&gt;&#xA;&lt;h3 id=&#34;as-a-combination-of-standard-basis-vectors&#34;&gt;As a combination of standard basis vectors&lt;/h3&gt;&#xA;&lt;p&gt;Define standard basis vectors: \(e_i\) as a vector with 1 in the ith position, 0 elesewhere.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>02 Vector sets</title>
+      <link>https://vishvAsa.github.io/notes/math/vectorSpaces/vector_sets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/vectorSpaces/vector_sets/</guid>
+      <description>&lt;h2 id=&#34;properties&#34;&gt;Properties&lt;/h2&gt;&#xA;&lt;h3 id=&#34;linear-independence&#34;&gt;Linear independence&lt;/h3&gt;&#xA;&lt;p&gt;A set of vectors \(\set{t_i}\) is linearly independent if, for all i, \(t_i\) can&amp;rsquo;t be written as a linear combination of \(\set{t_{j}: j \neq i}\).&lt;/p&gt;&#xA;&lt;h3 id=&#34;associated-hyperplanes&#34;&gt;Associated hyperplanes&lt;/h3&gt;&#xA;&lt;p&gt;Supporting hyperplane to C at boundary pt p: All C must lie on one side of the hyperplane.&lt;/p&gt;&#xA;&lt;p&gt;Separating hyperplanes between sets.&lt;/p&gt;&#xA;&lt;h2 id=&#34;span-of-vectors-in-s&#34;&gt;Span of vectors in S&lt;/h2&gt;&#xA;&lt;p&gt;Contains all linear combos of vectors in S. Any linear subspace expressible as Ax = 0. Eg: \(a^{T}x = 0\)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Convex set</title>
+      <link>https://vishvAsa.github.io/notes/math/vectorSpaces/convex_set/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/vectorSpaces/convex_set/</guid>
+      <description>&lt;h2 id=&#34;containment-of-convex-combinations&#34;&gt;Containment of convex combinations&lt;/h2&gt;&#xA;&lt;p&gt;X is convex if, for every \(\set{x_{i}} \subseteq X\), its convex combination is in X. For convex combinations \(c\), \([x, y \in C \implies c(x, y) \in C] \equiv [\set{x_i} \subseteq C \implies c((x_i)) \in C]\): from induction. extend this to possibly infinite number of points to get Jensen&amp;rsquo;s inequality!&lt;/p&gt;&#xA;&lt;h3 id=&#34;containment-of-line-segments&#34;&gt;Containment of line-segments&lt;/h3&gt;&#xA;&lt;p&gt;Equivalently, convex combination of any pair of pts in X is in X: Can get the former condition by induction on number of points combined. So, join any 2 pts in X by a line, pick any pt p on that line; \(p \in X\). So, easier to show that a set is non-convex than it is to show that it is convex.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Differential function</title>
+      <link>https://vishvAsa.github.io/notes/math/vectorSpaces/differential_function/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/vectorSpaces/differential_function/</guid>
+      <description>&lt;h2 id=&#34;definition&#34;&gt;Definition&lt;/h2&gt;&#xA;&lt;h3 id=&#34;fixed-direction-differential-fn&#34;&gt;Fixed direction differential fn&lt;/h3&gt;&#xA;&lt;p&gt;Aka directional derivative.&lt;/p&gt;&#xA;&lt;p&gt;Fixing the direction \(v\), \(D_v(f)\) can be taken to map \(x\) to \(D_v(f)(x)\). So, \(D_v(f)(x): V \to F\) is a constricted version of the differential function \(D(f)(x)\).&lt;/p&gt;&#xA;&lt;p&gt;\(df(x; h) = D_h(f)(x)= \lim_{\change t \to 0} \frac{f(x+\change th) - f(x)}{\change t} = \frac{d}{dt}|_{t=0}f(x + th)\). Aka Gateaux differential.&lt;/p&gt;&#xA;&lt;p&gt;Alternate notation: \(\gradient_{h}(f(x)) \) : not the gradient vector, but its applicaiton in a certain direction.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Homogenous forms</title>
+      <link>https://vishvAsa.github.io/notes/math/vectorSpaces/homogenous_forms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/vectorSpaces/homogenous_forms/</guid>
+      <description>&lt;h2 id=&#34;as-polynomials&#34;&gt;As Polynomials&lt;/h2&gt;&#xA;&lt;p&gt;Homogenous Forms refer to homogenous polynomials of degree k. They can be viwed as \(f:V^{k} \to F\).&lt;/p&gt;&#xA;&lt;p&gt;They can be written as Tensor vector products, as in the case of quadratic forms.&lt;/p&gt;&#xA;&lt;h3 id=&#34;importance&#34;&gt;Importance&lt;/h3&gt;&#xA;&lt;p&gt;Differential functions of order \(k\) are actually homogenous forms.&lt;/p&gt;&#xA;&lt;h2 id=&#34;quadratic-form&#34;&gt;Quadratic form&lt;/h2&gt;&#xA;&lt;h3 id=&#34;representation&#34;&gt;Representation&lt;/h3&gt;&#xA;&lt;p&gt;\(x^{*}Bx = \sum_{i,j} B_{i,j}x_{i}x_{j}\).&lt;/p&gt;&#xA;&lt;p&gt;Reformulation: \(tr(x^{&lt;em&gt;}Bx) = tr(Bxx^{&lt;/em&gt;})\).&lt;/p&gt;&#xA;&lt;h3 id=&#34;symmetrification&#34;&gt;Symmetrification&lt;/h3&gt;&#xA;&lt;p&gt;If \(x^{&lt;em&gt;}Bx \in R\): As \(B = H+ H&amp;rsquo; = \frac{B+B^{&lt;/em&gt;}}{2} + \frac{B-B^{&lt;em&gt;}}{2}\), skew hermitian part can be ignored: \(x^{&lt;/em&gt;}Bx = x^{*}Hx\).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Inner products</title>
+      <link>https://vishvAsa.github.io/notes/math/vectorSpaces/inner_products/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/vectorSpaces/inner_products/</guid>
+      <description>&lt;h2 id=&#34;properties&#34;&gt;Properties&lt;/h2&gt;&#xA;&lt;p&gt;Obeys Conjugate symmetry, bilinearity, homogeniety, non negativity, positive definiteness.&lt;/p&gt;&#xA;&lt;p&gt;Bilinearity: linear in a and b separately: \((\ga a)^{&lt;em&gt;}(\beta b) = \conj{\ga}\beta a^{&lt;/em&gt;}b\). +++(Range of \(\dprod{)+++\) need not be \(\Re\).}&lt;/p&gt;&#xA;&lt;p&gt;\(\dprod{Ax + x, y} = \dprod{x, A^{*}y + y}\).&lt;/p&gt;&#xA;&lt;h3 id=&#34;orthogonality&#34;&gt;Orthogonality&lt;/h3&gt;&#xA;&lt;p&gt;If \(\dprod{x, y} = 0\), \(x\) orthogonal to y.&lt;/p&gt;&#xA;&lt;h3 id=&#34;associated-norm&#34;&gt;Associated norm&lt;/h3&gt;&#xA;&lt;p&gt;Defines norm \(\norm{x}^{2} = \dprod{x,x}\).&lt;/p&gt;&#xA;&lt;p&gt;\(\triangle\) ineq holds: Take \(\norm{x- y}^{2} = \dprod{x - \)y\(, x-y}\), expand it, use cauchy schwartz.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Norms</title>
+      <link>https://vishvAsa.github.io/notes/math/vectorSpaces/norms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/vectorSpaces/norms/</guid>
+      <description>&lt;h2 id=&#34;semi-norm-properties&#34;&gt;Semi-norm properties&lt;/h2&gt;&#xA;&lt;p&gt;Aka pre-norm. Obeys triangle inequality, non negativity, homogeniety / scalability (\(\norm{cv} = |c|\norm{v}\)). But, not necessarily +ve definiteness (\(\norm{x} = 0\) iff \(x\) = 0.).&lt;/p&gt;&#xA;&lt;h2 id=&#34;norm-defining-properties&#34;&gt;Norm: Defining properties&lt;/h2&gt;&#xA;&lt;p&gt;A seminorm which obeys &lt;strong&gt;positive definiteness&lt;/strong&gt; (\(\norm{x} = 0\) iff \(x\) = 0.). Often triangle inequality is the only non trivial property to verify. Prenorm omits trinagle inequality.&lt;/p&gt;&#xA;&lt;p&gt;All norms are metrics (see topology ref).&lt;/p&gt;&#xA;&lt;h2 id=&#34;variants&#34;&gt;Variants&lt;/h2&gt;&#xA;&lt;h3 id=&#34;absolute-norms&#34;&gt;Absolute norms&lt;/h3&gt;&#xA;&lt;p&gt;\(\norm{a} = \norm{|a|}\).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Relations</title>
+      <link>https://vishvAsa.github.io/notes/math/vectorSpaces/relations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/vectorSpaces/relations/</guid>
+      <description>&lt;h2 id=&#34;majorization&#34;&gt;Majorization&lt;/h2&gt;&#xA;&lt;p&gt;Take \(a, b \in C^{m}\), rearrange in descending\&#xA;order to get \(\set{a_{[i]}}, \set{b_{[i]}}\); and in ascending order to get \(\set{a_{(i)}}, \set{b_{(i)}}\). \(a \oleq b\) (b majorizes a) if \(\sum_{i=1}^{m} a_{i} = \sum_{i=1}^{m} b_{i}, \sum_{i=1}^{k}a_{[i]} \leq \sum_{i=1}^{k}b_{[i]} \forall k\). \(\equiv\) notion from using ascending order and saying a majorizes b.&lt;/p&gt;&#xA;&lt;h3 id=&#34;interleaving&#34;&gt;Interleaving&lt;/h3&gt;&#xA;&lt;p&gt;If a majorizes \(b \in R^{n}\), \(\exists g \in R^{n-1}\) interleaved among a such that g majorizes \(b&amp;rsquo; = b_{1:n-1}\).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Topological properties</title>
+      <link>https://vishvAsa.github.io/notes/math/vectorSpaces/topological_properties/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/vectorSpaces/topological_properties/</guid>
+      <description>&lt;p&gt;For properties which arise when viewed as metric space, eg: compactness, boundedness, connectedness etc.., see topology ref.&lt;/p&gt;&#xA;&lt;h2 id=&#34;properties-of-rn-cn&#34;&gt;Properties of \(R^{n, C^{n}\)&lt;/h2&gt;&#xA;&lt;p&gt;See properties of k-cells in R in analysis of functions over fields ref.&lt;/p&gt;&#xA;&lt;h3 id=&#34;completeness-of-rn-cn&#34;&gt;Completeness of \(R^{n, C^{n}\)&lt;/h3&gt;&#xA;&lt;p&gt;Take vector seq \((x_{i}) \to x\). If V is over R or C, \((x_{i}) \to x\) iff it is a Cauchy seq wrt norm: from equiv property over R and C.&lt;/p&gt;&#xA;&lt;h2 id=&#34;dimension-of-v&#34;&gt;Dimension of V&lt;/h2&gt;&#xA;&lt;p&gt;This is the maximal size of any linearly independent set of vectors in V.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vector spaces</title>
+      <link>https://vishvAsa.github.io/notes/math/vectorSpaces/vector_spaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/vectorSpaces/vector_spaces/</guid>
+      <description>&lt;h2 id=&#34;vector-space-v-over-field-f&#34;&gt;Vector space V over field F&lt;/h2&gt;&#xA;&lt;p&gt;Vector space is closed under linear combination of a set of &amp;lsquo;basis&amp;rsquo; vectors: A commutative group wrt +. Linear dependence of vectors: Any of the vectors expressible as a linear combo of the others.&lt;/p&gt;&#xA;&lt;p&gt;Basis sets of n-degree polynomials (\(P_n\)) and matrices also define vector spaces.&lt;/p&gt;&#xA;&lt;h2 id=&#34;inner-product-space&#34;&gt;Inner product space&lt;/h2&gt;&#xA;&lt;p&gt;A vector space V with an inner product \(\dprod{.}:V\times V \to F\).&lt;/p&gt;&#xA;&lt;h2 id=&#34;normed-vector-space&#34;&gt;Normed vector space&lt;/h2&gt;&#xA;&lt;p&gt;Space with a norm. Also a metric space. Thence inherit notion of completeness.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
