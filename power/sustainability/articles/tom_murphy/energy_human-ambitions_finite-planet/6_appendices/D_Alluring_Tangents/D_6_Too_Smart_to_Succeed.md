@@ -8,7 +8,7 @@ Can it work? Can humans create the institutions and uncorrupted global authority
 
 It is therefore an open question whether a technological society is even compatible with planetary limits. Are modern humans just a passing phase whose creations will crumble into oblivion in a geological blink, or can we stick it out in something other than a primitive state? We again have no evidence[^59] one way or another. The current state of apparent success cannot be taken as a meaningful proof-of-concept, because it was achieved at the expense of finite resources in a shockingly short time: an extravagant party funded by the great one-time inheritance.+++(4)+++ The aftermath is only beginning to appear.
 
-[^59]: See Sec. 18.4 (p. 312) on the Fermi paradox for a worrisome-albeit inconclusivelack of evidence of success in the universe.
+[^59]: See Sec. 18.4 (p. 312) on the Fermi paradox for a worrisome-albeit inconclusive lack of evidence of success in the universe.
 
 We have a choice: work toward success-hoping and assuming that it is indeed possible; or acquiesce to failure. It seems that if we are not wise enough to know whether long-term success is even possible, the responsible course of action would be to assume that we can succeed, and do what we can to maximize our chances of arriving there. When should we start? Again-without knowing any better-the sooner we start, the more likely we are to succeed. Any delay is another way of driving ourselves toward a more likely failure. 
 

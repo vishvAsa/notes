@@ -2,10 +2,7 @@
 title = "Power"
 +++
 
-## 2026
-Source: [TW](https://x.com/blog_supplement/status/2123943653643022377)
 
-I don't quite care what the mathematicians think, but the storming of the Riemannian citadel should be taken as bad news for humans at large. I don't know the timeline, but we have reason to suspect the end will come from these events rather than from other ways species make their exit.
 
 ## 2025
 Source: [TW](https://x.com/blog_supplement/status/1975719164737151326)
