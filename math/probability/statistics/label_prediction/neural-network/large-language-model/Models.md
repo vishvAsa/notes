@@ -18,14 +18,15 @@ Ranked roughly in decreasing order of intelligence
 ### 1T+
 - **Claude Opus 4.6 Thinking / Opus 5.5 / Fable 5.1** (est. ≥1.5T–2T+ total MoE, undisclosed active).
 - **Gemini 4 Argon** (est. ≥1.2T+ total MoE, undisclosed active) - much better than DeepSeek 4.1 Flash on sanskrit OCR. Good with hyphenation.
-- **Gemini Carbon** (est. ~1.0–1.2T+ total MoE, undisclosed active; speculative, unconfirmed).
+- **Gemini 4 Carbon** (est. ~1.0–1.2T+ total MoE, undisclosed active; speculative, unconfirmed).
 - **Gemini 4 Neon** (Google, Nov 2026; parameters undisclosed; optimized Gemini 4 reasoning model; 1M context). Reported benchmarks: Vals Index 70.87% (#2/42), SWE-sweep 12.8% (mini-SWE) / 39.0% (Antigravity), Terminal-Bench 4.1 60.5%, FrontierCode 2.0 46.2%.
+- **Gemini 4 Hydrogen** (Google, Nov 2026; parameters undisclosed; adapted from Gemini 4 Carbon for fast everyday coding/agentic work; 1M context). Reported benchmarks: Vals Index 68.49% (#6/37), Tax Agent Bench 52.30% (#1/85), Vals Finance Index 66.14% (#2/40), Terminal-Bench 4.0 54.04%.
 - **Gemini 2.5** (Pro est. ~1.0–1.2T+ total MoE) was good with sanskrit hyphenation. Gemini 2.5 scored 72.4 on Sanskrit and 80.3 on Sanskrit-English code-mixed text.
 - **Mistral Large 3.5** (est. ~1.0–1.2T+ total MoE, undisclosed active).
 - **longcat 2.5 preview** (1.6T total / 48B active MoE) - were quite bad at sanskrit.
 
 ### 500B+
-- **Muse Spark 1.3** (est. ~816B total / ~42B active MoE, based on Muse Spark Open baseline) was good with sanskrit.
+- **Muse Spark 1.3** (est. ~816B total / ~42B active MoE, based on Muse Spark Open baseline) was good with general sanskrit; but markedly inferior to Gemini 4 models with intricate vedic text (didn't think of sandhi etc.). Also couldn't figure out how to use the IDE's diff interface unlike Gemini 4.
 - **Crouton Alpha** (est. ~800B+ total / ~40B+ active MoE) much better than Beam. (supposed to be next muse)
 - **DeepSeek 4.1 Flash** (763B total: 552B core + 196B Engram memory; 8B prefill / 16B decode active) was good with sanskrit commentary interleaving. Reported benchmarks (various harnesses): DeepSWE v1.1 up to 72.6%, Terminal-Bench 2.1 up to 90.6%.
 - **Iceman Contributor Free** (stealth OpenCode & Opencode Go model; parameters undisclosed, no credible public estimate; 262K context). Contributor variant: `opencode-go/iceman-contributor-free`. Seems smarter than Nemotron 3 Ultra
