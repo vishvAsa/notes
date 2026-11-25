@@ -26,7 +26,7 @@ Ranked roughly in decreasing order of intelligence
 - **longcat 2.5 preview** (1.6T total / 48B active MoE) - were quite bad at sanskrit.
 
 ### 500B+
-- **Muse Spark 1.3** (est. ~816B total / ~42B active MoE, based on Muse Spark Open baseline) was good with general sanskrit; but markedly inferior to Gemini 4 models with intricate vedic text (didn't think of sandhi etc.). Also couldn't figure out how to use the IDE's diff interface unlike Gemini 4.
+- **Muse Spark 1.3** (est. ~816B total / ~42B active MoE, based on Muse Spark Open baseline) was good with general sanskrit; but markedly inferior to Gemini 4 models with intricate vedic text (didn't think of sandhi, touched lines it want' supposed to etc.). Also couldn't figure out how to use the IDE's diff interface unlike Gemini 4.
 - **Crouton Alpha** (est. ~800B+ total / ~40B+ active MoE) much better than Beam. (supposed to be next muse)
 - **DeepSeek 4.1 Flash** (763B total: 552B core + 196B Engram memory; 8B prefill / 16B decode active) was good with sanskrit commentary interleaving. Reported benchmarks (various harnesses): DeepSWE v1.1 up to 72.6%, Terminal-Bench 2.1 up to 90.6%.
 - **Iceman Contributor Free** (stealth OpenCode & Opencode Go model; parameters undisclosed, no credible public estimate; 262K context). Contributor variant: `opencode-go/iceman-contributor-free`. Seems smarter than Nemotron 3 Ultra
