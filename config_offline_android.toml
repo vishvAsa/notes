@@ -9,3 +9,6 @@ disablePathToLower = true
   contactLink = "https://github.com/vishvAsa/notes/issues/new"
   env = "production"
   # disqusShortcode = "vvasuki-site"
+
+[security]
+  allowContent = ['.*']
