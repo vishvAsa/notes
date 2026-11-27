@@ -5,6 +5,12 @@ on:
     branches: [ 'gh-pages' ]
   workflow_dispatch:
 
+# Same group as build.yml: the pagefind index push must also wait its turn on
+# gh-pages instead of racing concurrent site deploys.
+concurrency:
+  group: gh-pages
+  cancel-in-progress: false
+
 jobs:
   transform:
     runs-on: ubuntu-latest

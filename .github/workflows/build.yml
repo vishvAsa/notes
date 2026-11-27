@@ -10,6 +10,15 @@ on:
       logLevel:
         default: 'warning'
 
+# Serialize all runs that push to gh-pages. Concurrent force-pushes race and
+# fail with "cannot lock ref 'refs/heads/gh-pages'". A shared concurrency
+# group makes them queue instead of racing (same group is used in
+# index_pages.yml where present). cancel-in-progress: false means queued runs
+# wait, not cancel.
+concurrency:
+  group: gh-pages
+  cancel-in-progress: false
+
 jobs:
   transform:
     runs-on: ubuntu-latest
