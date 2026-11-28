@@ -1,0 +1,43 @@
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{hyperref, graphicx, verbatim, listings, multirow}
+\usepackage{algorithm, algorithmic}
+
+\ifx \@makeindex \@empty
+\usepackage{natbib}
+\setcitestyle{super}
+\fi
+
+% To remove excessive vertical spacing while using itemize etc.
+\usepackage{enumitem}
+\setlist{nolistsep}
+
+% Include and configure tikz
+\usepackage{tikz}
+\usetikzlibrary{arrows,decorations,fit,backgrounds}
+
+\tikzstyle{gm-var-const}=[rectangle, draw, fill=black!30, thick, minimum size=1mm]
+\tikzstyle{gm-var-hidden}=[circle, draw, thick, minimum size=1mm]
+\tikzstyle{gm-var-seen}=[gm-var-hidden, fill=black!30, minimum size=1mm]
+\tikzstyle{gm-plate} = [thick,draw=black,rounded corners=2mm]
+
+% For clique trees.
+\tikzstyle{ct-shared-nodes}=[rectangle, draw, fill=black!30, thick, minimum size=1mm]
+\tikzstyle{ct-clique}=[circle, draw, thick, minimum size=1mm]
+
+
+% \usepackage[bottom]{footmisc}
+
+% COnfigure the listings package: break lines.
+\lstset{breaklines=true}
+
+\setcounter{tocdepth}{3}
+
+% Lets verbatim and verb environments automatically break lines.
+\makeatletter
+\def\@xobeysp{ }
+\makeatother
+% \lstset{breaklines=true,basicstyle=\ttfamily}
+
+% Packages not included:
+% For multiline comments, use caption package. But this conflicts with hyperref while making html files.
+% subfigure conflicts with use with memoir style-sheet.

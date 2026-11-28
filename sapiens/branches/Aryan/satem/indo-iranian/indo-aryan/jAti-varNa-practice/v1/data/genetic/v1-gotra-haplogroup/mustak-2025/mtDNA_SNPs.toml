@@ -1,0 +1,562 @@
+# Exported from 438_2025_2280_MOESM2_ESM.ods - sheet: mtDNA_SNPs
+
+[[samples]]
+sample_id = "GSBKN001"
+haplogroup = "M30"
+polymorphisms = ["10398G", "10400T", "12007A", "12705T", "15043A", "15301A", "15326G", "15431A", "16223T"]
+
+[[samples]]
+sample_id = "GSBKN002"
+haplogroup = "M"
+polymorphisms = ["10398G", "10400T", "12235C", "12705T", "15043A", "15301A", "15326G", "16223T"]
+
+[[samples]]
+sample_id = "GSBKN003"
+haplogroup = "M30"
+polymorphisms = ["10398G", "10400T", "12007A", "12705T", "15043A", "15301A", "15326G", "15431A", "15552G", "15630A", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN004"
+haplogroup = "M5a2a2"
+polymorphisms = ["10398G", "10400T", "12477C", "12705T", "15043A", "15262C", "15301A", "15311G", "15326G", "15630A", "16129A", "16144A", "16223T", "16486C", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN005"
+haplogroup = "D4b2d"
+polymorphisms = ["10398G", "10400T", "12705T", "15043A", "15301A", "15326G", "15630A", "15729A", "16223T", "16287T", "16304C", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN007"
+haplogroup = "U7a3"
+polymorphisms = ["10142C", "12308G", "12372A", "12618A", "15326G", "15685G", "15729A", "16291T", "16309G", "16318T", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN008"
+haplogroup = "M57a"
+polymorphisms = ["10398G", "10400T", "12235C", "12705T", "15043A", "15301A", "15326G", "16111T", "16223T", "16311C", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN009"
+haplogroup = "M57a"
+polymorphisms = ["73G", "152C", "204C", "263G", "489C", "10340G", "10398G", "10400T", "12705T", "15043A", "15056G", "15301A", "15326G", "15630A", "16111T", "16129A", "16145A", "16172C", "16189C", "16223T", "16311C"]
+
+[[samples]]
+sample_id = "GSBKN010"
+haplogroup = "M57a"
+polymorphisms = ["10398G", "10400T", "12705T", "15043A", "15301A", "15313C", "15326G", "15560G", "15630A", "15729A", "15809C", "16111T", "16223T", "16311C", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN011"
+haplogroup = "M23'75"
+polymorphisms = ["10398G", "10400T", "12279G", "12705T", "15043A", "15301A", "15326G", "15859G", "16111T", "16180G", "16192T", "16223T", "16311C", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN012"
+haplogroup = "M30"
+polymorphisms = ["10398G", "10400T", "12007A", "12705T", "15043A", "15301A", "15326G", "15431A", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN013"
+haplogroup = "H1+16189"
+polymorphisms = ["15326G", "16092C", "16189C"]
+
+[[samples]]
+sample_id = "GSBKN014"
+haplogroup = "N5a"
+polymorphisms = ["73G", "195C", "228A", "234G", "263G", "12705T", "15056G", "15119A", "15326G", "15630A", "16086C", "16092C", "16111T", "16144C", "16189C", "16261T", "16311C", "16311C"]
+
+[[samples]]
+sample_id = "GSBKN015"
+haplogroup = "M37e"
+polymorphisms = ["35A", "36A", "73G", "263G", "489C", "10398G", "10400T", "10556T", "12007A", "12705T", "15043A", "15301A", "15326G", "15552G", "15630A", "15729A", "16111T", "16184T", "16185T", "16189C", "16223T", "16295T", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN016"
+haplogroup = "U7a"
+polymorphisms = ["73G", "151T", "152C", "263G", "750G", "15326G", "16291T", "16309G", "16318T", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN017"
+haplogroup = "M35a"
+polymorphisms = ["10398G", "10400T", "10670T", "12124T", "12561A", "12705T", "15043A", "15301A", "15326G", "15630A", "15729A", "15924G", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN022"
+haplogroup = "M2a'b"
+polymorphisms = ["12705T", "15043A", "15301A", "15326G", "15553A", "15670C", "16183C", "16189C", "16223T", "16274A", "16319A"]
+
+[[samples]]
+sample_id = "GSBKN023"
+haplogroup = "M57a"
+polymorphisms = ["73G", "152C", "152C", "263G", "489C", "750G", "12705T", "15043A", "15301A", "15313C", "15326G", "15729A", "16111T", "16223T", "16311C", "16311C", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN025"
+haplogroup = "M5a1"
+polymorphisms = ["73G", "251A", "251A", "263G", "489C", "709A", "10398G", "10400T", "12477C", "12705T", "15043A", "15287C", "15301A", "15326G", "16129A", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN026"
+haplogroup = "M5a2a1a2"
+polymorphisms = ["10398G", "10400T", "12346T", "12477C", "12705T", "16129A", "16223T", "16264T", "16265C", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN027"
+haplogroup = "M23'75"
+polymorphisms = ["73G", "150T", "263G", "489C", "750G", "10398G", "10400T", "12279G", "12705T", "15043A", "15301A", "15326G", "15859G", "16111T", "16180G", "16192T", "16223T", "16234T", "16311C", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN029"
+haplogroup = "M3"
+polymorphisms = ["10398G", "10400T", "12705T", "15043A", "15301A", "15326G", "16126C", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN031"
+haplogroup = "M3"
+polymorphisms = ["10398G", "10400T", "12393T", "12705T", "15043A", "15301A", "15326G", "16126C", "16223T", "16278T", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN033"
+haplogroup = "M2a'b"
+polymorphisms = ["73G", "143A", "195C", "263G", "447G", "489C", "750G", "10398G", "10400T", "12705T", "15043A", "15253G", "15301A", "15326G", "15670C", "16075C", "16129A", "16187T", "16189C", "16223T", "16274A", "16319A", "16320T", "16362C", "16518T", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN035"
+haplogroup = "J1b1a1"
+polymorphisms = ["10398G", "12007A", "12612G", "15326G", "15452A", "15959G", "16069T", "16126C", "16145A", "16172C", "16222T", "16261T"]
+
+[[samples]]
+sample_id = "GSBKN037"
+haplogroup = "M5a2a1a2"
+polymorphisms = ["73G", "263G", "489C", "709A", "10398G", "10400T", "15043A", "15262C", "15301A", "15326G", "16129A", "16223T", "16264T", "16265C", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN038"
+haplogroup = "M30g"
+polymorphisms = ["73G", "195A", "204C", "263G", "272G", "489C", "750G", "10398G", "10400T", "12007A", "12705T", "15043A", "15301A", "15326G", "15431A", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN039"
+haplogroup = "M3"
+polymorphisms = ["73G", "263G", "482C", "489C", "750G", "10398G", "10400T", "12705T", "15043A", "15301A", "15313C", "15326G", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN041"
+haplogroup = "U2e1h"
+polymorphisms = ["12308G", "12372A", "15326G", "15907G", "16051G", "16129C", "16183C", "16362C", "16391A", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN042"
+haplogroup = "HV6"
+polymorphisms = ["263G", "750G", "15326G", "16172C", "16311C", "16335G"]
+
+[[samples]]
+sample_id = "GSBKN045"
+haplogroup = "M57a"
+polymorphisms = ["10340G", "10398G", "10400T", "12705T", "15043A", "15301A", "15326G", "16111T", "16129A", "16145A", "16172C", "16189C", "16223T", "16311C"]
+
+[[samples]]
+sample_id = "GSBKN047"
+haplogroup = "M23'75"
+polymorphisms = ["73G", "150T", "263G", "489C", "750G", "10398G", "10400T", "12279G", "12358G", "12705T", "15043A", "15301A", "15326G", "15859G", "16111T", "16180G", "16192T", "16223T", "16311C", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN048"
+haplogroup = "M37"
+polymorphisms = ["10398G", "10400T", "10556T", "12007A", "12705T", "15043A", "15301A", "15326G", "15729A", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN049"
+haplogroup = "M30"
+polymorphisms = ["10398G", "10400T", "12007A", "12705T", "15043A", "15301A", "15326G", "15431A", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN050"
+haplogroup = "HV6"
+polymorphisms = ["263G", "750G", "15326G", "15729A", "16172C", "16311C", "16311C"]
+
+[[samples]]
+sample_id = "GSBKN051"
+haplogroup = "M52a1"
+polymorphisms = ["73G", "263G", "489C", "750G", "10398G", "10400T", "12692C", "12705T", "14945A", "14954G", "15043A", "15301A", "15326G", "15349T", "15729A", "16169T", "16209C", "16223T", "16275G", "16327A", "16390A", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN052"
+haplogroup = "M*3"
+polymorphisms = ["73G", "146C", "152C", "263G", "489C", "10398G", "10400T", "12235C", "12705T", "15043A", "15301A", "15326G", "16223T", "16311C", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN053"
+haplogroup = "M57a"
+polymorphisms = ["73G", "146C", "152C", "263G", "489C", "10398G", "10400T", "12235C", "12705T", "15043A", "15301A", "15326G", "16111T", "16223T", "16311C", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN054"
+haplogroup = "M5a2a2"
+polymorphisms = ["73G", "152C", "263G", "489C", "709A", "750G", "10398G", "10400T", "12477C", "12705T", "15043A", "15262C", "15301A", "15311G", "15326G", "15690G", "15979C", "16129A", "16144A", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN055"
+haplogroup = "M30g"
+polymorphisms = ["73G", "195A", "204C", "263G", "10398G", "10400T", "12007A", "12705T", "15043A", "15301A", "15326G", "15431A", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN056"
+haplogroup = "M35a"
+polymorphisms = ["73G", "146C", "199C", "263G", "482C", "489C", "750G", "10398G", "10400T", "10670T", "12561A", "12705T", "15043A", "15301A", "15326G", "15924G", "16093C", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN057"
+haplogroup = "J1b1a1"
+polymorphisms = ["10398G", "12007A", "12612G", "15326G", "15452A", "16069T", "16126C", "16145A", "16172C", "16222T", "16261T"]
+
+[[samples]]
+sample_id = "GSBKN058"
+haplogroup = "M2"
+polymorphisms = ["73G", "152C", "182T", "195C", "263G", "447G", "489C", "750G", "10398G", "10400T", "12705T", "15043A", "15301A", "15326G", "15553A", "15670C", "16183d", "16189C", "16223T", "16274A", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN060"
+haplogroup = "M23'75"
+polymorphisms = ["12279G", "12705T", "15043A", "15301A", "15326G", "15859G", "16111T", "16180G", "16192T", "16223T", "16311C", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN063"
+haplogroup = "N5"
+polymorphisms = ["73G", "73G", "263G", "263G", "12705T", "16111T", "16223T", "16311C", "16311C"]
+
+[[samples]]
+sample_id = "GSBKN066"
+haplogroup = "M30g"
+polymorphisms = ["73G", "195A", "204C", "263G", "489C", "750G", "10398G", "10400T", "12007A", "12705T", "15043A", "15301A", "15326G", "15431A", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN067"
+haplogroup = "M57a"
+polymorphisms = ["73G", "146C", "152C", "263G", "489C", "750G", "10398G", "10400T", "12235C", "12705T", "15043A", "15301A", "15326G", "16111T", "16223T", "16311C", "16311C", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN068"
+haplogroup = "M30g"
+polymorphisms = ["73G", "195A", "204C", "263G", "489C", "750G", "10398G", "10400T", "12007A", "12705T", "15043A", "15301A", "15326G", "15431A", "15729A", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN069"
+haplogroup = "M30"
+polymorphisms = ["10398G", "10400T", "12007A", "12705T", "15043A", "15301A", "15326G", "15431A", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN070"
+haplogroup = "M35a"
+polymorphisms = ["10398G", "10400T", "10670T", "12561A", "12705T", "15043A", "15301A", "15326G", "15924G", "16093C", "16223T", "16362C", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN071"
+haplogroup = "M57a"
+polymorphisms = ["10398G", "10400T", "12235C", "12705T", "15043A", "15301A", "15326G", "16111T", "16223T", "16311C", "16311C", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN074"
+haplogroup = "M64"
+polymorphisms = ["73G", "152C", "203A", "263G", "316A", "489C", "750G", "10398G", "10400T", "10685A", "12007A", "12705T", "15043A", "15301A", "15326G", "15355A", "15862C", "15968C", "16223T", "16263C", "16519C", "16527T"]
+
+[[samples]]
+sample_id = "GSBKN075"
+haplogroup = "M37+152+151"
+polymorphisms = ["73G", "151T", "152C", "263G", "489C", "10398G", "10400T", "10556T", "12007A", "12705T", "15043A", "15301A", "15326G", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN076"
+haplogroup = "M57a"
+polymorphisms = ["73G", "146C", "152C", "263G", "489C", "750G", "10398G", "10400T", "12235C", "12705T", "15043A", "15301A", "15326G", "16094C", "16111T", "16223T", "16311C", "16311C", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN077"
+haplogroup = "M64"
+polymorphisms = ["73G", "152C", "204C", "263G", "316A", "489C", "750G", "10398G", "10400T", "10685A", "12007A", "12705T", "15043A", "15301A", "15326G", "15355A", "15862C", "15968C", "16223T", "16263C", "16519C", "16527T"]
+
+[[samples]]
+sample_id = "GSBKN078"
+haplogroup = "M23'75"
+polymorphisms = ["73G", "150T", "263G", "489C", "10398G", "10400T", "12127A", "12279G", "12705T", "15043A", "15301A", "15326G", "15729A", "15859G", "16111T", "16180G", "16192T", "16223T", "16311C", "16311C", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN080"
+haplogroup = "M57a"
+polymorphisms = ["10398G", "10400T", "12235C", "12705T", "15043A", "15301A", "15326G", "15729A", "16111T", "16150T", "16223T", "16311C", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN082"
+haplogroup = "M57a"
+polymorphisms = ["73G", "146C", "152C", "263G", "489C", "750G", "10398G", "10400T", "12235C", "12705T", "15043A", "15301A", "15326G", "16094C", "16111T", "16223T", "16311C", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN083"
+haplogroup = "J1b1a1+146"
+polymorphisms = ["63C", "73G", "146C", "242T", "263G", "295T", "462T", "489C", "10398G", "12007A", "12612G", "15326G", "15452A", "16069T", "16126C", "16145A", "16172C", "16222T", "16261T"]
+
+[[samples]]
+sample_id = "GSBKN084"
+haplogroup = "M57a*"
+polymorphisms = ["73G", "152C", "263G", "329A", "489C", "750G", "10398G", "10400T", "12660G", "12705T", "15043A", "15301A", "15313C", "15326G", "16111T", "16223T", "16311C", "16311C", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN085"
+haplogroup = "U4b1a1a1"
+polymorphisms = ["73G", "195C", "263G", "499A", "12297C", "12308G", "12372A", "15326G", "15693C", "15789T", "16356C", "16362C", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN086"
+haplogroup = "J1b1a1+146"
+polymorphisms = ["73G", "146C", "242T", "263G", "295T", "462T", "489C", "10398G", "12007A", "12612G", "15326G", "15452A", "16069T", "16126C", "16145A", "16172C", "16222T", "16261T"]
+
+[[samples]]
+sample_id = "GSBKN087"
+haplogroup = "M35a"
+polymorphisms = ["73G", "152C", "199C", "204C", "263G", "482C", "489C", "709A", "10398G", "10400T", "10670T", "12124T", "12561A", "12705T", "15043A", "15301A", "15326G", "15630A", "15924G", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "GSBKN089"
+haplogroup = "J1b1a1+146"
+polymorphisms = ["73G", "146C", "204C", "242T", "263G", "295T", "295T", "462T", "489C", "10398G", "12007A", "12612G", "15326G", "15452A", "15630A", "15729A", "16069T", "16126C", "16145A", "16172C", "16222T", "16261T"]
+
+[[samples]]
+sample_id = "GSBKN090"
+haplogroup = "M3a1+204"
+polymorphisms = ["73G", "204C", "263G", "481T", "482C", "489C", "750G", "10398G", "10400T", "12007A", "12705T", "15043A", "15301A", "15326G", "15685G", "16126C", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "CSBSAR002"
+haplogroup = "M30c"
+polymorphisms = ["73G", "146C", "195A", "263G", "10398G", "10400T", "12007A", "12234G", "12705T", "15043A", "15301A", "15326G", "15431A", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "CSBSAR006"
+haplogroup = "M37"
+polymorphisms = ["73G", "263G", "489C", "10398G", "10400T", "10556T", "12007A", "12705T", "15043A", "15301A", "15326G", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "CSBSAR008"
+haplogroup = "G3b1"
+polymorphisms = ["73G", "152C", "195C", "263G", "489C", "10398G", "10400T", "12705T", "15043A", "15301A", "15326G", "16274A", "16519C"]
+
+[[samples]]
+sample_id = "CSBSAR009"
+haplogroup = "G2b1a2"
+polymorphisms = ["73G", "489C", "10398G", "10400T", "12705T", "15043A", "15301A", "15326G", "16223T", "16274A", "16519C"]
+
+[[samples]]
+sample_id = "CSBSAR014"
+haplogroup = "M30"
+polymorphisms = ["73G", "195A", "263G", "489C", "12007A", "12705T", "15043A", "15301A", "15326G", "15431A", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "CSBSAR029"
+haplogroup = "U2a1a"
+polymorphisms = ["73G", "263G", "12308G", "12372A", "16051G", "16154C", "16197T", "16206C", "16230G", "16230G", "16262T", "16262T", "16311C"]
+
+[[samples]]
+sample_id = "CSBSAR034"
+haplogroup = "N5"
+polymorphisms = ["73G", "263G", "12705T", "15326G", "16223T", "16311C"]
+
+[[samples]]
+sample_id = "CSBSAR035"
+haplogroup = "N5"
+polymorphisms = ["12705T", "16223T", "16311C"]
+
+[[samples]]
+sample_id = "CSBSAR051"
+haplogroup = "U2c1*"
+polymorphisms = ["12308G", "12372A", "14935C", "15061G", "15326G", "16234T", "16254G"]
+
+[[samples]]
+sample_id = "CSBSAR055"
+haplogroup = "J1b1a1+146"
+polymorphisms = ["73G", "146C", "242T", "263G", "295T", "462T", "489C", "12007A", "12612G", "15326G", "15452A", "16261T"]
+
+[[samples]]
+sample_id = "CSBSAR056"
+haplogroup = "K"
+polymorphisms = ["12308G", "12372A", "16224C", "16311C", "16519C"]
+
+[[samples]]
+sample_id = "CSBSAR060"
+haplogroup = "M30"
+polymorphisms = ["73G", "195A", "263G", "489C", "12007A", "12705T", "15043A", "15301A", "15326G", "15431A", "16154A", "16223T"]
+
+[[samples]]
+sample_id = "CSBSAR065"
+haplogroup = "M"
+polymorphisms = ["73G", "263G", "489C", "10398G", "10400T", "12705T", "15043A", "15301A", "15326G", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "CSBSAR076"
+haplogroup = "M4'67"
+polymorphisms = ["73G", "263G", "489C", "10398G", "10400T", "12007A", "12705T", "15043A", "15301A", "15326G", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "CSBSAR084"
+haplogroup = "M5a"
+polymorphisms = ["73G", "263G", "489C", "10398G", "10400T", "12477C", "12705T", "15043A", "15301A", "15326G", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "CSBSAR086"
+haplogroup = "M30"
+polymorphisms = ["73G", "195A", "263G", "489C", "12007A", "12705T", "15043A", "15301A", "15326G", "15431A", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "CSBSAR088"
+haplogroup = "M30"
+polymorphisms = ["73G", "195A", "263G", "489C", "12007A", "12705T", "15043A", "15301A", "15326G", "15431A", "16154C", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "CSBSAR092"
+haplogroup = "U2a1a"
+polymorphisms = ["73G", "195C", "263G", "12308G", "12372A", "12372A", "15326G", "16051G", "16154C", "16206C", "16230G", "16311C"]
+
+[[samples]]
+sample_id = "CSBSAR098"
+haplogroup = "J1b1a1+146"
+polymorphisms = ["73G", "146C", "242T", "263G", "295T", "462T", "489C", "10398G", "12007A", "12612G", "15326G", "15452A", "16261T"]
+
+[[samples]]
+sample_id = "RSBKN021"
+haplogroup = "M4'67"
+polymorphisms = ["73G", "151T", "152C", "263G", "489C", "10398G", "10400T", "12007A", "12705T", "15043A", "15301A", "15326G", "16223T", "16319A", "16519C"]
+
+[[samples]]
+sample_id = "RSBKN036"
+haplogroup = "M2a1"
+polymorphisms = ["10398G", "10400T", "12705T", "15043A", "15301A", "15326G", "15670C", "16223T", "16270T", "16274A", "16319A", "16352C", "16519C"]
+
+[[samples]]
+sample_id = "RSBKN040"
+haplogroup = "HV2a"
+polymorphisms = ["73G", "152C", "182T", "195C", "263G", "750G", "12061T", "15326G", "16217C", "16325C"]
+
+[[samples]]
+sample_id = "RSBSAR015"
+haplogroup = "R30a1c"
+polymorphisms = ["73G", "195C", "263G", "12714C", "15055C", "15326G", "16278T", "16519C"]
+
+[[samples]]
+sample_id = "RSBSAR043"
+haplogroup = "D4j8*"
+polymorphisms = ["73G", "152C", "263G", "489C", "12705T", "15043A", "15301A", "15326G", "16519C"]
+
+[[samples]]
+sample_id = "RSBSAR052"
+haplogroup = "M21b1a"
+polymorphisms = ["73G", "150T", "189G", "204C", "207A", "263G", "447G", "489C", "12705T", "15043A", "15301A", "15326G", "16319A", "16519C"]
+
+[[samples]]
+sample_id = "RSBSAR058"
+haplogroup = "U6a3f"
+polymorphisms = ["73G", "150T", "152C", "185A", "263G", "12308G", "12372A", "15326G", "16311C", "16519C"]
+
+[[samples]]
+sample_id = "RSBSAR071"
+haplogroup = "D4+195"
+polymorphisms = ["73G", "195C", "263G", "489C", "12705T", "15043A", "15301A", "15326G", "16223T", "16362C", "16400T", "16519C"]
+
+[[samples]]
+sample_id = "RSBSAR072"
+haplogroup = "M3"
+polymorphisms = ["73G", "263G", "482C", "489C", "12705T", "15043A", "15301A", "15313C", "15326G", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "RSBSAR073"
+haplogroup = "M3d"
+polymorphisms = ["73G", "200G", "263G", "482C", "489C", "12705T", "15043A", "15301A", "15326G", "16223T", "16344T", "16519C"]
+
+[[samples]]
+sample_id = "RSBSAR074"
+haplogroup = "M3d"
+polymorphisms = ["73G", "200G", "263G", "482C", "489C", "10398G", "10400T", "12705T", "15043A", "15301A", "15326G", "16223T", "16344T", "16519C"]
+
+[[samples]]
+sample_id = "RSBSAR075"
+haplogroup = "M23'75"
+polymorphisms = ["73G", "150T", "263G", "489C", "10398G", "10400T", "12279G", "12705T", "15043A", "15301A", "15326G", "16223T", "16311C", "16519C"]
+
+[[samples]]
+sample_id = "RSBSAR077"
+haplogroup = "M3"
+polymorphisms = ["73G", "263G", "482C", "489C", "10398G", "10400T", "12705T", "15043A", "15301A", "15313C", "15326G", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "RSBSAR085"
+haplogroup = "M37+152+151"
+polymorphisms = ["73G", "151T", "152C", "263G", "489C", "10398G", "10400T", "10556T", "12007A", "12705T", "15043A", "15301A", "15326G", "16223T", "16319A", "16519C"]
+
+[[samples]]
+sample_id = "RSBSAR115"
+haplogroup = "R30a1c"
+polymorphisms = ["73G", "195C", "263G", "12714C", "15055C", "15326G", "16278T", "16519C"]
+
+[[samples]]
+sample_id = "NKSSAR018"
+haplogroup = "U2b"
+polymorphisms = ["73G", "146C", "234G", "263G", "12106T", "12308G", "12308G", "12372A", "12372A", "15049T", "15326G", "16051G", "16291T", "16353T", "16519C"]
+
+[[samples]]
+sample_id = "NKSSAR019"
+haplogroup = "W6"
+polymorphisms = ["73G", "189G", "194T", "195C", "204C", "207A", "263G", "709A", "12414C", "12705T", "15326G", "16192T", "16223T", "16292T", "16325C"]
+
+[[samples]]
+sample_id = "NKSSAR021"
+haplogroup = "W6"
+polymorphisms = ["73G", "146C", "152C", "195C", "12414C", "12705T", "15326G", "16192T", "16223T", "16292T", "16325C", "16519C"]
+
+[[samples]]
+sample_id = "NKSSAR023"
+haplogroup = "M5a2a"
+polymorphisms = ["73G", "263G", "489C", "709A", "10398G", "10400T", "12477C", "12705T", "15043A", "15262C", "15301A", "15326G", "16223T", "16297C", "16519C"]
+
+[[samples]]
+sample_id = "NKSSAR024"
+haplogroup = "U2a"
+polymorphisms = ["73G", "195C", "263G", "12308G", "12308G", "12372A", "12372A", "15326G", "16051G", "16206C", "16311C", "16519C"]
+
+[[samples]]
+sample_id = "NKSSAR026"
+haplogroup = "R32"
+polymorphisms = ["73G", "152C", "263G", "15326G", "15712G", "16185T", "16239T", "16311C", "16325C", "16519C"]
+
+[[samples]]
+sample_id = "NKSSAR063"
+haplogroup = "H39"
+polymorphisms = ["73G", "143A", "263G", "15326G", "16298C", "16299G", "16355T"]
+
+[[samples]]
+sample_id = "NKSSAR078"
+haplogroup = "M5a"
+polymorphisms = ["73G", "150T", "489C", "709A", "750G", "10398G", "10400T", "12477C", "12705T", "15043A", "15301A", "15326G", "16223T", "16519C"]
+
+[[samples]]
+sample_id = "NKSSAR096"
+haplogroup = "U7a"
+polymorphisms = ["73G", "151T", "152C", "263G", "12308G", "12308G", "12372A", "12372A", "15043A", "15301A", "15326G", "16309G", "16318T", "16343G", "16519C"]
+
+[[samples]]
+sample_id = "NKSSAR107"
+haplogroup = "M3a1+204"
+polymorphisms = ["73G", "152C", "204C", "263G", "482C", "489C", "12705T", "15043A", "15301A", "15326G", "16185T", "16223T", "16355T", "16519C"]
+
+[[samples]]
+sample_id = "NKSSAR108"
+haplogroup = "M30c"
+polymorphisms = ["73G", "146C", "195A", "263G", "489C", "12007A", "12234G", "12705T", "15043A", "15301A", "15326G", "15431A", "16223T", "16519C", "16519C"]
+
+[[samples]]
+sample_id = "NKSSAR109"
+haplogroup = "M3a1+204"
+polymorphisms = ["73G", "152C", "204C", "263G", "482C", "489C", "10398G", "10400T", "12705T", "15043A", "15301A", "15326G", "16126C", "16223T", "16292T"]
+
+[[samples]]
+sample_id = "NKSSAR110"
+haplogroup = "M3a1+204"
+polymorphisms = ["73G", "195C", "204C", "263G", "482C", "489C", "709A", "10398G", "10400T", "12705T", "15043A", "15301A", "15326G", "16223T", "16519C"]
+

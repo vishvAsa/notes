@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="420" font-family="sans-serif" font-size="12">
+<rect width="100%" height="100%" fill="white"/>
+<text x="430.0" y="24" text-anchor="middle" font-size="14" font-weight="bold">Table 3: Y Chromosome macrohaplogroup frequency distribution (%) within Gotras</text>
+<line x1="70" y1="330.0" x2="830" y2="330.0" stroke="#ddd"/>
+<text x="62" y="334.0" text-anchor="end">0</text>
+<line x1="70" y1="298.8888888888889" x2="830" y2="298.8888888888889" stroke="#ddd"/>
+<text x="62" y="302.8888888888889" text-anchor="end">10</text>
+<line x1="70" y1="267.77777777777777" x2="830" y2="267.77777777777777" stroke="#ddd"/>
+<text x="62" y="271.77777777777777" text-anchor="end">20</text>
+<line x1="70" y1="236.66666666666669" x2="830" y2="236.66666666666669" stroke="#ddd"/>
+<text x="62" y="240.66666666666669" text-anchor="end">30</text>
+<line x1="70" y1="205.55555555555554" x2="830" y2="205.55555555555554" stroke="#ddd"/>
+<text x="62" y="209.55555555555554" text-anchor="end">40</text>
+<line x1="70" y1="174.44444444444443" x2="830" y2="174.44444444444443" stroke="#ddd"/>
+<text x="62" y="178.44444444444443" text-anchor="end">50</text>
+<line x1="70" y1="143.33333333333334" x2="830" y2="143.33333333333334" stroke="#ddd"/>
+<text x="62" y="147.33333333333334" text-anchor="end">60</text>
+<line x1="70" y1="112.22222222222223" x2="830" y2="112.22222222222223" stroke="#ddd"/>
+<text x="62" y="116.22222222222223" text-anchor="end">70</text>
+<line x1="70" y1="81.11111111111111" x2="830" y2="81.11111111111111" stroke="#ddd"/>
+<text x="62" y="85.11111111111111" text-anchor="end">80</text>
+<line x1="70" y1="50.0" x2="830" y2="50.0" stroke="#ddd"/>
+<text x="62" y="54.0" text-anchor="end">90</text>
+<text x="18" y="190.0" text-anchor="middle" transform="rotate(-90 18 190.0)">Frequency (%)</text>
+<text x="133.33333333333334" y="350" text-anchor="middle">Atri</text>
+<rect x="82.7" y="122.6" width="22.8" height="207.4" fill="#4e79a7"><title>H: 66.67</title></rect>
+<rect x="108.0" y="330.0" width="22.8" height="0.0" fill="#f28e2b"><title>J: 0.00</title></rect>
+<rect x="133.3" y="330.0" width="22.8" height="0.0" fill="#e15759"><title>KL: 0.00</title></rect>
+<rect x="158.7" y="226.3" width="22.8" height="103.7" fill="#76b7b2"><title>R: 33.33</title></rect>
+<text x="260.0" y="350" text-anchor="middle">Bhāradvāja</text>
+<rect x="209.3" y="278.1" width="22.8" height="51.9" fill="#4e79a7"><title>H: 16.67</title></rect>
+<rect x="234.7" y="174.4" width="22.8" height="155.6" fill="#f28e2b"><title>J: 50.00</title></rect>
+<rect x="260.0" y="330.0" width="22.8" height="0.0" fill="#e15759"><title>KL: 0.00</title></rect>
+<rect x="285.3" y="226.3" width="22.8" height="103.7" fill="#76b7b2"><title>R: 33.33</title></rect>
+<text x="386.6666666666667" y="350" text-anchor="middle">Jamadagni</text>
+<rect x="336.0" y="309.3" width="22.8" height="20.7" fill="#4e79a7"><title>H: 6.67</title></rect>
+<rect x="361.3" y="330.0" width="22.8" height="0.0" fill="#f28e2b"><title>J: 0.00</title></rect>
+<rect x="386.7" y="309.3" width="22.8" height="20.7" fill="#e15759"><title>KL: 6.67</title></rect>
+<rect x="412.0" y="60.4" width="22.8" height="269.6" fill="#76b7b2"><title>R: 86.67</title></rect>
+<text x="513.3333333333334" y="350" text-anchor="middle">Kaśyapa</text>
+<rect x="462.7" y="330.0" width="22.8" height="0.0" fill="#4e79a7"><title>H: 0.00</title></rect>
+<rect x="488.0" y="285.6" width="22.8" height="44.4" fill="#f28e2b"><title>J: 14.29</title></rect>
+<rect x="513.3" y="241.1" width="22.8" height="88.9" fill="#e15759"><title>KL: 28.57</title></rect>
+<rect x="538.7" y="152.2" width="22.8" height="177.8" fill="#76b7b2"><title>R: 57.14</title></rect>
+<text x="640.0000000000001" y="350" text-anchor="middle">Vaśiṣṭha</text>
+<rect x="589.3" y="291.1" width="22.8" height="38.9" fill="#4e79a7"><title>H: 12.50</title></rect>
+<rect x="614.7" y="330.0" width="22.8" height="0.0" fill="#f28e2b"><title>J: 0.00</title></rect>
+<rect x="640.0" y="317.0" width="22.8" height="13.0" fill="#e15759"><title>KL: 4.17</title></rect>
+<rect x="665.3" y="70.7" width="22.8" height="259.3" fill="#76b7b2"><title>R: 83.33</title></rect>
+<text x="766.6666666666667" y="350" text-anchor="middle">Viśvāmitra</text>
+<rect x="716.0" y="330.0" width="22.8" height="0.0" fill="#4e79a7"><title>H: 0.00</title></rect>
+<rect x="741.3" y="330.0" width="22.8" height="0.0" fill="#f28e2b"><title>J: 0.00</title></rect>
+<rect x="766.7" y="298.9" width="22.8" height="31.1" fill="#e15759"><title>KL: 10.00</title></rect>
+<rect x="792.0" y="50.0" width="22.8" height="280.0" fill="#76b7b2"><title>R: 90.00</title></rect>
+<rect x="70" y="385" width="12" height="12" fill="#4e79a7"/>
+<text x="86" y="395" font-size="11">H</text>
+<rect x="113" y="385" width="12" height="12" fill="#f28e2b"/>
+<text x="129" y="395" font-size="11">J</text>
+<rect x="156" y="385" width="12" height="12" fill="#e15759"/>
+<text x="172" y="395" font-size="11">KL</text>
+<rect x="206" y="385" width="12" height="12" fill="#76b7b2"/>
+<text x="222" y="395" font-size="11">R</text>
+<line x1="70" y1="50" x2="70" y2="330" stroke="#333"/>
+<line x1="70" y1="330" x2="830" y2="330" stroke="#333"/>
+</svg>

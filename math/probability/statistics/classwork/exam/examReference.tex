@@ -1,0 +1,50 @@
+\documentclass[10pt]{article}
+\usepackage[lmargin=1cm,rmargin=1cm,tmargin=1cm,bmargin=1cm]{geometry}
+\input{../../packagesMemoir}
+\input{../../macros}
+
+%opening
+\title{Pattern recognition: Exam reference sheet}
+\author{vishvAs vAsuki}
+
+\begin{document}
+\paragraph*{Bregman}
+$d_f(x, y) = f(x) - f(y) - (x-y)^{T}\gradient f(y)$. If $f(x) = \norm{x}_2^{2}: d_f = \norm{.}_2$. If $f(x) = \sum_{i}x_i \log x_i - x_i$, $KL(x, y) = \sum x_i \log \frac{x_i}{y_i} - (x_i - y_i)$.
+
+\paragraph*{Fitting Gaussians}
+$x \in R^{D}$. $N(x|\mean, \covmatrix) = \frac{1}{(2\pi)^{D/2} |\covmatrix|^{1/2}} e^{-\frac{1}{2}(x - \mean)^{T}\covmatrix^{-1}(x-\mean)}$. If $\covmatrix_1 = \covmatrix_2$: $(m_2 - m_1)^{T}\covmatrix x + c = 0$ is decn surface.
+
+\paragraph*{Opt}
+Take primal $\min f_{0}(x): \set{f_{i}(x) \leq 0}, \set{h_{i}(x) = 0} $; Get Lagrangian: $L(x, l, m)$; get $g(x) = \inf_x L(x, l, m)$; Solve \\
+$\max_{l, m} g(l, m)$; derive $x^{*}$ from $l^{*}, m^{*}$. \textbf{KKT:} Primal feasibility: $f(x^{*}) \leq 0, h(x^{*}) = 0$. Dual feasiblity: $l^{*} \geq 0$. Complimentary slackness: $\forall j: l_{j}^{*}f_{j}(x^{*}) = 0$. Optimality: $x^{*} = argmin_x L(x, l^{*}, m^{*})$: set $\gradient_{x^{*}}L(x, l^{*}, m^{*}) = 0$.
+
+\paragraph*{SVM}
+$c(x) = sgn(\frac{w^{T}x + w_0}{\norm{w}})$. $\max_{w,w_0}[\frac{\min_{n}[y(x_{n})c(x_{n})]}{\norm{w}}]$. Scale w, $w_0$ so that $\min_{n}[y(x_{n})c(x_{n})] = 1$; thence get $\equiv$ problem $\min_{w,w_0}\frac{\norm{w}^{2}}{2}$: $y(x_{n})c(x_{n}) \geq 1$. Prediction: sgn(y(x)). Get Lagrangian $L(w, w_0, a) = \frac{\norm{w}^{2}}{2} + \sum a_{n}[1-(w^{T} \ftr(x_n) + w_0)c(x_{n})]$; $a_{n} \geq 0$. Dual: $\max_a g(a) = \max \sum a_{n} - 2^{-1}\sum_{n}\sum_{m} a_{n}a_{m}c(x_{n})c(x_{m})k(x_{n}, x_{m})$: $a_{n} \geq 0; \sum a_{n}c(x_{n}) = 0$. Predictor: $y(x) = \sum_{n}a_{n}c(x_{n})k(x_{n}, x) + w_0$. $w_0 = \frac{\sum_{m} [c(x_{m})y(x_m) - \sum_n a_{n}k(x_{n}, x_{m})]}{N}$.
+
+\paragraph*{Soft SVM}
+$\min C\sum_{n=1}^{N} \gx_{n} + \frac{\norm{w}^{2}}{2}$: $\gx_{n} \geq 0$; $y(x_{n})c(x_{n}) + \gx_{n} \geq 1$. Same dual, but constraints: $0 \leq a_{n} \leq C$: as $\gm_{n} \geq 0; \sum a_{n}c(x_{n}) = 0$. Complimentary slackness: $a_{n}(1 - c(x_{n})y(x_{n}) - \gx_{n}) = 0, \gm_{n}\gx_{n} = 0$.
+
+\paragraph*{Logistic}
+k-class problem. Model: $\forall i\in [1:k-1]: \log\frac{Pr(C_{i}|x)}{Pr(C_{k}|x)} = w_{i0} + w_{i}^{T}x$. Get: $Pr(C_{i}|x) = \frac{e^{w_{i0}+ w_{i}^{T}x}}{1 + \sum e^{w_{j0}+ w_{j}^{T}x}}, Pr(C_{k}|x) = \frac{1}{1 + \sum e^{w_{i0}+ w_{i}^{T}x}}$! 2 class: min $E(w) = \sum  l_{i} \log (\frac{1}{1+e^{w^{T}x_{i}}}) + \sum (1-l_{i}) \log (1-\frac{1}{1+e^{w^{T}x_{i}}})$. 
+
+\paragraph*{LDA}
+Before projection: Take $S_{T} = \sum_{x}(x - m)(x - m)^{T}$; $S_{W} = \sum_{i=1}^{k} \sum_{x \in C_{i}}(x - m_{i})(x - m_{i})^{T}$; $S_{B} = \sum_{i=1}^{k}n_{i}(m_{i}-m)(m_{i}-m)^{T}$. So, $S_{T} = S_{W} + S_{B}$.
+
+After projection scatters: $S_{W}' = W^{T}S_{W}W, S_{B}' = W^{T}S_{B}W$. Find $\max_{W} \frac{|W^{T}S_{B}W|}{|W^{T}S_{W}W|}$ or maybe \\
+$\max_{W} tr((W^{T}S_{W}W)^{-1}(W^{T}S_{B}W))$. same as ev problem $S_{W}^{-1}S_Bx = \ew x$.
+
+\paragraph*{Perceptron}
+Update: $w_{t+1} = w_{t} + y_{t}x_{t}$; Min margin: $y_{t}(w^{*T}x_{t}) \geq \gamma$; $\norm{x_{i}}^{2} \leq R^{2}$, $w_0 = 0$. Convergence: $w^{*T}w_{t} \geq t\gamma$, $\norm{w_{t}}_{2}^{2} \leq tR^{2}$.
+
+\paragraph*{k means}
+$S' = (S_{i}') = argmin_{S} \sum_{i=1}^{k} \sum_{x_{j} \in S_{i}} d(x_{j}, \mean_{i})$. If d is any Bregman div, k means minimizes this at each iteration: Alg finds better clustering, Mean is best cluster representative.
+
+\paragraph*{Least squares}
+$x_{i}\in R^{d}$. $w_{0} = \bar{y} - \sum_{i=1}^{d} w_{i}\bar{x_{j}}$.
+
+% 
+% \bibliographystyle{plain}
+% \bibliography{../linAlg}
+
+\end{document}
+

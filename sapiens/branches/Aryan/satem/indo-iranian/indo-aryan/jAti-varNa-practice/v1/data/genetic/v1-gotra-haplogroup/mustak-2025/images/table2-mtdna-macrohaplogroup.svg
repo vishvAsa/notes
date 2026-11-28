@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="420" font-family="sans-serif" font-size="12">
+<rect width="100%" height="100%" fill="white"/>
+<text x="430.0" y="24" text-anchor="middle" font-size="14" font-weight="bold">Table 2: mtDNA macrohaplogroup frequency distribution (%) within Gotras</text>
+<line x1="70" y1="330.0" x2="830" y2="330.0" stroke="#ddd"/>
+<text x="62" y="334.0" text-anchor="end">0</text>
+<line x1="70" y1="298.8888888888889" x2="830" y2="298.8888888888889" stroke="#ddd"/>
+<text x="62" y="302.8888888888889" text-anchor="end">10</text>
+<line x1="70" y1="267.77777777777777" x2="830" y2="267.77777777777777" stroke="#ddd"/>
+<text x="62" y="271.77777777777777" text-anchor="end">20</text>
+<line x1="70" y1="236.66666666666669" x2="830" y2="236.66666666666669" stroke="#ddd"/>
+<text x="62" y="240.66666666666669" text-anchor="end">30</text>
+<line x1="70" y1="205.55555555555554" x2="830" y2="205.55555555555554" stroke="#ddd"/>
+<text x="62" y="209.55555555555554" text-anchor="end">40</text>
+<line x1="70" y1="174.44444444444443" x2="830" y2="174.44444444444443" stroke="#ddd"/>
+<text x="62" y="178.44444444444443" text-anchor="end">50</text>
+<line x1="70" y1="143.33333333333334" x2="830" y2="143.33333333333334" stroke="#ddd"/>
+<text x="62" y="147.33333333333334" text-anchor="end">60</text>
+<line x1="70" y1="112.22222222222223" x2="830" y2="112.22222222222223" stroke="#ddd"/>
+<text x="62" y="116.22222222222223" text-anchor="end">70</text>
+<line x1="70" y1="81.11111111111111" x2="830" y2="81.11111111111111" stroke="#ddd"/>
+<text x="62" y="85.11111111111111" text-anchor="end">80</text>
+<line x1="70" y1="50.0" x2="830" y2="50.0" stroke="#ddd"/>
+<text x="62" y="54.0" text-anchor="end">90</text>
+<text x="18" y="190.0" text-anchor="middle" transform="rotate(-90 18 190.0)">Frequency (%)</text>
+<text x="133.33333333333334" y="350" text-anchor="middle">Atri</text>
+<rect x="82.7" y="330.0" width="13.0" height="0.0" fill="#4e79a7"><title>D: 0.00</title></rect>
+<rect x="97.1" y="174.4" width="13.0" height="155.6" fill="#f28e2b"><title>H: 50.00</title></rect>
+<rect x="111.6" y="330.0" width="13.0" height="0.0" fill="#e15759"><title>J: 0.00</title></rect>
+<rect x="126.1" y="330.0" width="13.0" height="0.0" fill="#76b7b2"><title>M: 0.00</title></rect>
+<rect x="140.6" y="330.0" width="13.0" height="0.0" fill="#59a14f"><title>N: 0.00</title></rect>
+<rect x="155.0" y="330.0" width="13.0" height="0.0" fill="#edc948"><title>R: 0.00</title></rect>
+<rect x="169.5" y="174.4" width="13.0" height="155.6" fill="#b07aa1"><title>U: 50.00</title></rect>
+<text x="260.0" y="350" text-anchor="middle">Bhāradvāja</text>
+<rect x="209.3" y="304.1" width="13.0" height="25.9" fill="#4e79a7"><title>D: 8.33</title></rect>
+<rect x="223.8" y="330.0" width="13.0" height="0.0" fill="#f28e2b"><title>H: 0.00</title></rect>
+<rect x="238.3" y="330.0" width="13.0" height="0.0" fill="#e15759"><title>J: 0.00</title></rect>
+<rect x="252.8" y="70.7" width="13.0" height="259.3" fill="#76b7b2"><title>M: 83.33</title></rect>
+<rect x="267.2" y="330.0" width="13.0" height="0.0" fill="#59a14f"><title>N: 0.00</title></rect>
+<rect x="281.7" y="330.0" width="13.0" height="0.0" fill="#edc948"><title>R: 0.00</title></rect>
+<rect x="296.2" y="304.1" width="13.0" height="25.9" fill="#b07aa1"><title>U: 8.33</title></rect>
+<text x="386.6666666666667" y="350" text-anchor="middle">Jamadagni</text>
+<rect x="336.0" y="330.0" width="13.0" height="0.0" fill="#4e79a7"><title>D: 0.00</title></rect>
+<rect x="350.5" y="304.1" width="13.0" height="25.9" fill="#f28e2b"><title>H: 8.33</title></rect>
+<rect x="365.0" y="330.0" width="13.0" height="0.0" fill="#e15759"><title>J: 0.00</title></rect>
+<rect x="379.4" y="70.7" width="13.0" height="259.3" fill="#76b7b2"><title>M: 83.33</title></rect>
+<rect x="393.9" y="330.0" width="13.0" height="0.0" fill="#59a14f"><title>N: 0.00</title></rect>
+<rect x="408.4" y="304.1" width="13.0" height="25.9" fill="#edc948"><title>R: 8.33</title></rect>
+<rect x="422.9" y="330.0" width="13.0" height="0.0" fill="#b07aa1"><title>U: 0.00</title></rect>
+<text x="513.3333333333334" y="350" text-anchor="middle">Kaśyapa</text>
+<rect x="462.7" y="285.6" width="13.0" height="44.4" fill="#4e79a7"><title>D: 14.29</title></rect>
+<rect x="477.1" y="330.0" width="13.0" height="0.0" fill="#f28e2b"><title>H: 0.00</title></rect>
+<rect x="491.6" y="330.0" width="13.0" height="0.0" fill="#e15759"><title>J: 0.00</title></rect>
+<rect x="506.1" y="63.3" width="13.0" height="266.7" fill="#76b7b2"><title>M: 85.71</title></rect>
+<rect x="520.6" y="330.0" width="13.0" height="0.0" fill="#59a14f"><title>N: 0.00</title></rect>
+<rect x="535.0" y="330.0" width="13.0" height="0.0" fill="#edc948"><title>R: 0.00</title></rect>
+<rect x="549.5" y="330.0" width="13.0" height="0.0" fill="#b07aa1"><title>U: 0.00</title></rect>
+<text x="640.0000000000001" y="350" text-anchor="middle">Vaśiṣṭha</text>
+<rect x="589.3" y="330.0" width="13.0" height="0.0" fill="#4e79a7"><title>D: 0.00</title></rect>
+<rect x="603.8" y="305.1" width="13.0" height="24.9" fill="#f28e2b"><title>H: 8.00</title></rect>
+<rect x="618.3" y="280.2" width="13.0" height="49.8" fill="#e15759"><title>J: 16.00</title></rect>
+<rect x="632.8" y="130.9" width="13.0" height="199.1" fill="#76b7b2"><title>M: 64.00</title></rect>
+<rect x="647.2" y="317.6" width="13.0" height="12.4" fill="#59a14f"><title>N: 4.00</title></rect>
+<rect x="661.7" y="317.6" width="13.0" height="12.4" fill="#edc948"><title>R: 4.00</title></rect>
+<rect x="676.2" y="317.6" width="13.0" height="12.4" fill="#b07aa1"><title>U: 4.00</title></rect>
+<text x="766.6666666666667" y="350" text-anchor="middle">Viśvāmitra</text>
+<rect x="716.0" y="330.0" width="13.0" height="0.0" fill="#4e79a7"><title>D: 0.00</title></rect>
+<rect x="730.5" y="330.0" width="13.0" height="0.0" fill="#f28e2b"><title>H: 0.00</title></rect>
+<rect x="745.0" y="330.0" width="13.0" height="0.0" fill="#e15759"><title>J: 0.00</title></rect>
+<rect x="759.4" y="81.1" width="13.0" height="248.9" fill="#76b7b2"><title>M: 80.00</title></rect>
+<rect x="773.9" y="330.0" width="13.0" height="0.0" fill="#59a14f"><title>N: 0.00</title></rect>
+<rect x="788.4" y="267.8" width="13.0" height="62.2" fill="#edc948"><title>R: 20.00</title></rect>
+<rect x="802.9" y="330.0" width="13.0" height="0.0" fill="#b07aa1"><title>U: 0.00</title></rect>
+<rect x="70" y="385" width="12" height="12" fill="#4e79a7"/>
+<text x="86" y="395" font-size="11">D</text>
+<rect x="113" y="385" width="12" height="12" fill="#f28e2b"/>
+<text x="129" y="395" font-size="11">H</text>
+<rect x="156" y="385" width="12" height="12" fill="#e15759"/>
+<text x="172" y="395" font-size="11">J</text>
+<rect x="199" y="385" width="12" height="12" fill="#76b7b2"/>
+<text x="215" y="395" font-size="11">M</text>
+<rect x="242" y="385" width="12" height="12" fill="#59a14f"/>
+<text x="258" y="395" font-size="11">N</text>
+<rect x="285" y="385" width="12" height="12" fill="#edc948"/>
+<text x="301" y="395" font-size="11">R</text>
+<rect x="328" y="385" width="12" height="12" fill="#b07aa1"/>
+<text x="344" y="395" font-size="11">U</text>
+<line x1="70" y1="50" x2="70" y2="330" stroke="#333"/>
+<line x1="70" y1="330" x2="830" y2="330" stroke="#333"/>
+</svg>

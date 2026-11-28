@@ -1,0 +1,188 @@
+% Use something like:
+% \input{../../macros}
+
+% groupings of objects.
+\newcommand{\set}[1]{\left\{ #1 \right\}}
+\newcommand{\seq}[1]{\left(#1\right)}
+\newcommand{\ang}[1]{\langle#1\rangle}
+\newcommand{\tuple}[1]{\left(#1\right)}
+\newcommand{\size}[1]{\left| #1\right|}
+
+% numerical shortcuts.
+\newcommand{\abs}[1]{\left| #1\right|}
+\newcommand{\floor}[1]{\left\lfloor #1 \right\rfloor}
+\newcommand{\ceil}[1]{\left\lceil #1 \right\rceil}
+
+% linear algebra shortcuts.
+\newcommand{\change}{\Delta}
+\newcommand{\norm}[1]{\left\| #1\right\|}
+\newcommand{\dprod}[1]{\langle#1\rangle}
+\newcommand{\linspan}[1]{\langle#1\rangle}
+\newcommand{\conj}[1]{\overline{#1}}
+\newcommand{\der}{\frac{d}{dx}}
+\newcommand{\lap}{\Delta}
+\newcommand{\kron}{\otimes}
+\newcommand{\nperp}{\nvdash}
+
+\newcommand{\mat}[1]{\left[ \begin{smallmatrix}#1 \end{smallmatrix} \right]}
+
+% derivatives and limits
+\newcommand{\partder}[2]{\frac{\partial #1}{\partial #2}}
+\newcommand{\partdern}[3]{\frac{\partial^{#3} #1}{\partial #2^{#3}}}
+\newcommand{\gradient}{\nabla}
+\newcommand{\subgradient}{\partial}
+
+% Arrows
+\newcommand{\diverge}{\nearrow}
+\newcommand{\notto}{\nrightarrow}
+\newcommand{\up}{\uparrow}
+\newcommand{\down}{\downarrow}
+% gets and gives are defined!
+
+% ordering operators
+\newcommand{\oleq}{\preceq}
+\newcommand{\ogeq}{\succeq}
+
+% programming and logic operators
+\newcommand{\dfn}{:=}
+\newcommand{\assign}{:=}
+\newcommand{\co}{\ co\ }
+\newcommand{\en}{\ en\ }
+
+
+% logic operators
+\newcommand{\xor}{\oplus}
+\newcommand{\Land}{\bigwedge}
+\newcommand{\Lor}{\bigvee}
+\newcommand{\finish}{$\Box$}
+\newcommand{\contra}{\ensuremath{\Rightarrow \Leftarrow}}
+\newcommand{\iseq}{\stackrel{_?}{=}}
+
+
+% Set theory
+\newcommand{\symdiff}{\ensuremath{\Delta}}
+\newcommand{\union}{\ensuremath{\cup}}
+\newcommand{\inters}{\ensuremath{\cap}}
+\newcommand{\Union}{\ensuremath{\bigcup}}
+\newcommand{\Inters}{\ensuremath{\bigcap}}
+\newcommand{\nullSet}{\ensuremath{\phi}}
+
+
+% graph theory
+\newcommand{\nbd}{\Gamma}
+
+% Script alphabets
+% For reals, use \Re
+
+% greek letters
+\newcommand{\eps}{\ensuremath{\epsilon}}
+\newcommand{\del}{\ensuremath{\delta}}
+\newcommand{\ga}{\ensuremath{\alpha}}
+\newcommand{\gb}{\ensuremath{\beta}}
+\newcommand{\gd}{\ensuremath{\del}}
+\newcommand{\gp}{\ensuremath{\pi}}
+\newcommand{\gf}{\ensuremath{\phi}}
+\newcommand{\gF}{\ensuremath{\Phi}}
+\newcommand{\gl}{\ensuremath{\lambda}}
+\newcommand{\gm}{\ensuremath{\mu}}
+\newcommand{\gn}{\ensuremath{\nu}}
+\newcommand{\gr}{\ensuremath{\rho}}
+\newcommand{\gs}{\ensuremath{\sigma}}
+\newcommand{\gt}{\ensuremath{\theta}}
+\newcommand{\gx}{\ensuremath{\xi}}
+
+\newcommand{\sw}{\ensuremath{\sigma}}
+\newcommand{\SW}{\ensuremath{\Sigma}}
+\newcommand{\ew}{\ensuremath{\lambda}}
+\newcommand{\EW}{\ensuremath{\Lambda}}
+
+\newcommand{\Del}{\ensuremath{\Delta}}
+\newcommand{\gD}{\ensuremath{\Delta}}
+\newcommand{\gG}{\ensuremath{\Gamma}}
+\newcommand{\gO}{\ensuremath{\Omega}}
+\newcommand{\gS}{\ensuremath{\Sigma}}
+
+% Bold english letters.
+\newcommand{\bA}{\ensuremath{\mathbf{A}}}
+\newcommand{\bB}{\ensuremath{\mathbf{B}}}
+\newcommand{\bC}{\ensuremath{\mathbf{C}}}
+\newcommand{\bD}{\ensuremath{\mathbf{D}}}
+\newcommand{\bE}{\ensuremath{\mathbf{E}}}
+\newcommand{\bF}{\ensuremath{\mathbf{F}}}
+\newcommand{\bG}{\ensuremath{\mathbf{G}}}
+\newcommand{\bH}{\ensuremath{\mathbf{H}}}
+\newcommand{\bI}{\ensuremath{\mathbf{I}}}
+\newcommand{\bJ}{\ensuremath{\mathbf{J}}}
+\newcommand{\bK}{\ensuremath{\mathbf{K}}}
+\newcommand{\bL}{\ensuremath{\mathbf{L}}}
+\newcommand{\bM}{\ensuremath{\mathbf{M}}}
+\newcommand{\bN}{\ensuremath{\mathbf{N}}}
+\newcommand{\bO}{\ensuremath{\mathbf{O}}}
+\newcommand{\bP}{\ensuremath{\mathbf{P}}}
+\newcommand{\bQ}{\ensuremath{\mathbf{Q}}}
+\newcommand{\bR}{\ensuremath{\mathbf{R}}} % PROSPER defines \R
+\newcommand{\bS}{\ensuremath{\mathbf{S}}}
+\newcommand{\bT}{\ensuremath{\mathbf{T}}}
+\newcommand{\bU}{\ensuremath{\mathbf{U}}}
+\newcommand{\bV}{\ensuremath{\mathbf{V}}}
+\newcommand{\bW}{\ensuremath{\mathbf{W}}}
+\newcommand{\bX}{\ensuremath{\mathbf{X}}}
+\newcommand{\bY}{\ensuremath{\mathbf{Y}}}
+\newcommand{\bZ}{\ensuremath{\mathbf{Z}}}
+\newcommand{\ba}{\ensuremath{\mathbf{a}}}
+\newcommand{\bb}{\ensuremath{\mathbf{b}}}
+\newcommand{\bc}{\ensuremath{\mathbf{c}}}
+\newcommand{\bd}{\ensuremath{\mathbf{d}}}
+\newcommand{\be}{\ensuremath{\mathbf{e}}}
+\newcommand{\bbf}{\ensuremath{\mathbf{f}}}
+\newcommand{\bg}{\ensuremath{\mathbf{g}}}
+\newcommand{\bh}{\ensuremath{\mathbf{h}}}
+\newcommand{\bk}{\ensuremath{\mathbf{k}}}
+\newcommand{\bl}{\ensuremath{\mathbf{l}}}
+\newcommand{\bm}{\ensuremath{\mathbf{m}}}
+\newcommand{\bn}{\ensuremath{\mathbf{n}}}
+\newcommand{\bp}{\ensuremath{\mathbf{p}}}
+\newcommand{\bq}{\ensuremath{\mathbf{q}}}
+\newcommand{\br}{\ensuremath{\mathbf{r}}}
+\newcommand{\bs}{\ensuremath{\mathbf{s}}}  % TIPA defines \s and LaTeX \ss!
+\newcommand{\bt}{\ensuremath{\mathbf{t}}}
+\newcommand{\bu}{\ensuremath{\mathbf{u}}}
+\newcommand{\bv}{\ensuremath{\mathbf{v}}}
+\newcommand{\bw}{\ensuremath{\mathbf{w}}}
+\newcommand{\bx}{\ensuremath{\mathbf{x}}}
+\newcommand{\by}{\ensuremath{\mathbf{y}}}
+\newcommand{\bz}{\ensuremath{\mathbf{z}}}
+\newcommand{\0}{\ensuremath{\mathbf{0}}}
+\newcommand{\1}{\ensuremath{\mathbf{1}}}
+
+
+% Formatting shortcuts
+\newcommand{\red}[1]{\textcolor{red}{#1}}
+\newcommand{\blue}[1]{\textcolor{blue}{#1}}
+\newcommand{\htext}[2]{\texorpdfstring{#1}{#2}}
+
+% Statistics
+\newcommand{\distr}{\ensuremath{\sim}}
+\newcommand{\stddev}{\ensuremath{\sigma}}
+\newcommand{\covmatrix}{\ensuremath{\Sigma}}
+\newcommand{\mean}{\ensuremath{\mu}}
+\newcommand{\param}{\ensuremath{\gt}}
+\newcommand{\ftr}{\ensuremath{\phi}}
+
+% General utility
+\newcommand{\todo}[1]{\footnote{TODO: #1}}
+\newcommand{\exclaim}[1]{{\textbf{\textit{#1}}}}
+\newcommand{\tbc}{[\textbf{Incomplete}]}
+\newcommand{\chk}{[\textbf{Check}]}
+\newcommand{\oprob}{[\textbf{OP}]:}
+\newcommand{\core}[1]{\textbf{Core Idea:}}
+\newcommand{\why}{[\textbf{Find proof}]}
+\newcommand{\opt}[1]{\textit{#1}}
+
+
+\renewcommand{\~}{\htext{$\sim$}{~}}
+
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+
+

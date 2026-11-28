@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>&#43;Articles on Vishvas&#39;s notes</title>
+		<link>https://vishvAsa.github.io/notes/power/motion/vehicle/car/articles/</link>
+		<description>Recent content in &#43;Articles on Vishvas&#39;s notes</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="https://vishvAsa.github.io/notes/power/motion/vehicle/car/articles/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Electric vehicles</title>
+				<link>https://vishvAsa.github.io/notes/power/motion/vehicle/car/articles/electric-vehicles/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://vishvAsa.github.io/notes/power/motion/vehicle/car/articles/electric-vehicles/</guid>
+				<description>&lt;h2 id=&#34;battery-and-range-stagnation&#34;&gt;Battery and range stagnation&lt;/h2&gt;&#xA;&lt;p&gt;The status quo of electric cars: better batteries, same range.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;If today&amp;rsquo;s supporters of EV&amp;rsquo;s would dig into the specifications and the sales brochures of early 20th century electric &amp;ldquo;horseless carriages&amp;rdquo;, their enthusiasm would quickly disappear. Fast-charged batteries (to 80% capacity in 10 minutes), automated battery swapping stations, public charging poles, load balancing, the entire business plan of Better Place, in-wheel motors, regenerative braking it was all there in the late 1800s or the early 1900s. It did not help. Most surprisingly, however, is the seemingly non-existent progress of battery technology.&lt;/p&gt;&#xA;&lt;p&gt;The Nissan Leaf and the Mitsubishi i-MiEV, two electric cars to be introduced on the market in 2010, have exactly the same range as the 1908 Fritchle Model A Victoria: 100 miles (160 kilometres) on a single charge.+++(5)+++ The &amp;ldquo;100mile Fritchle&amp;rdquo; was a progressive engineering feat for its time, but it was not the only early electric that boasted a 100 mile range. I have only chosen it because its specifications are most complete, and because its range was certified.&lt;/p&gt;&#xA;&lt;p&gt;In fact, the range of the Nissan Leaf or the Mitsubishi i-MiEV may be far worse than that of the 1908 Fritchle. The range of the latter was (officially) recorded during an 1800 mile (2,900 km) race over a period of 21 driving days in the winter of 1908. The stock vehicle was driven in varied weather, terrain and road conditions (often bad and muddy roads). The average range on a single charge was 90 miles, the maximum range recorded was 108 miles. (sources: 1/2).&lt;/p&gt;&#xA;&lt;p&gt;The range of the Mitsibushi i-MiEV and the Nissan Leaf was tested in a very different manner. On rollers instead of on actual roads, and in a protected environment, but that&amp;rsquo;s not all. Both manufacturers advertise the US &amp;ldquo;EPA city&amp;rdquo; range, a test that supposes a 22 minutes drive cycle at an average speed of 19.59 mph (31.5 km/h), including one acceleration to 40 mph (64 km/h) during no more than 100 seconds.&lt;/p&gt;&#xA;&lt;p&gt;Critics blame today&amp;rsquo;s manufacturers for not displaying the &amp;ldquo;EPA combined cycle&amp;rdquo; range, which also includes trips on the motorway (the &amp;ldquo;EPA highway cycle&amp;rdquo;). Contrary to vehicles with an internal combustion engine, electric cars are more fuel efficient in cities than at steady speed on a highway- an electric motor uses no energy when it is idling, and regenerative braking works best in city traffic. Darryl Siry, former CMO of Tesla, estimates that the correct range of the Nissan (and other modern electric cars) will be around 70% of the advertised range. That would bring the range of today&amp;rsquo;s electrics to the same level as the 1901 Krieger Electrolette (68 miles).&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+	</channel>
+</rss>

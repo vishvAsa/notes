@@ -1,0 +1,92 @@
+[[data]]
+Software = 'Android studio'
+"Operand Type" = 'install'
+Description = 'https://g3doc.corp.google.com/engedu/abc/g3doc/exercise-1.md?cl=head'
+
+[[data]]
+Software = 'Android studio'
+"Operand Type" = 'setup'
+Feature = 'set up google style'
+Description = '''
+File > Other Settings > Default Settings
+Code Style > Java
+In the Scheme drop-down, select Google Configuration Checker Style.'''
+
+[[data]]
+Software = 'Android studio'
+"Operand Type" = 'setup'
+Feature = 'editor'
+Subfeature = 'auto import'
+Syntax = 'Settings > editor'
+Description = 'imports will automatically be resolved when copying and pasting code'
+
+[[data]]
+Software = 'Android studio'
+"Operand Type" = 'setup'
+Feature = 'editor'
+Subfeature = 'line numbers'
+
+[[data]]
+Software = 'Android studio'
+"Operand Type" = 'Tool window'
+Feature = 'Android'
+Description = 'View > Tool Windows > Android'
+
+[[data]]
+Software = 'Android Debug Bridge (ADB)'
+"Operand Type" = 'dev machine'
+Feature = 'client and server'
+Subfeature = 'concept'
+Description = 'server handles communication between daemon and client.'
+
+[[data]]
+Software = 'Android Debug Bridge (ADB)'
+"Operand Type" = 'dev machine'
+Feature = 'server'
+Subfeature = 'stop'
+Syntax = 'adb kill-server && adb devices'
+
+[[data]]
+Software = 'Android Debug Bridge (ADB)'
+"Operand Type" = 'dev machine'
+Feature = 'server'
+Subfeature = 'start'
+Description = '''
+run any command, like:
+adb devices'''
+
+[[data]]
+Software = 'Android Debug Bridge (ADB)'
+"Operand Type" = 'dev machine'
+Feature = 'devices'
+Syntax = 'adb devices'
+
+[[data]]
+Software = 'Android Debug Bridge (ADB)'
+"Operand Type" = 'emulator/ device'
+Feature = 'daemon'
+
+[[data]]
+Software = 'Android Debug Bridge (ADB)'
+"Operand Type" = 'packages'
+Feature = 'install apk'
+Syntax = 'adb -s localhost:9999 install -r path/to/apk/memegen_binary.apk'
+
+[[data]]
+Software = 'Android Debug Bridge (ADB)'
+"Operand Type" = 'packages'
+Feature = 'list'
+Syntax = 'adb shell pm list packages -f'
+
+[[data]]
+Software = 'Android Debug Bridge (ADB)'
+"Operand Type" = 'packages'
+Feature = 'uninstall'
+Syntax = 'adb uninstall com.unique.id'
+
+[[data]]
+Software = 'Android Debug Bridge (ADB)'
+"Operand Type" = 'file'
+Feature = 'pull'
+Syntax = 'adb pull /system/app/Browser.apk /tmp/.'
+

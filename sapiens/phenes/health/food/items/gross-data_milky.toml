@@ -1,0 +1,42 @@
+[[data]]
+item = "Paneer generic"
+quantity_grams = 100
+calories = 321
+protein = 25
+fat = 25
+carb = 3.57
+
+[[data]]
+item = "Paneer Milky mist premium"
+quantity_grams = 100
+calories = 283
+protein = 16
+fat = 22
+carb = 5.1
+
+[[data]]
+item = "Paneer Amul malai cream cottage cheese"
+quantity_grams = 100
+calories = 289
+protein = 14
+fat = 25
+carb = 2
+trans_fat = 1
+
+[[data]]
+item = "Cheese slices amul"
+quantity_grams = 100
+calories = 311
+protein = 20
+fat = 25
+carb = 1.4
+trans_fat = 1
+
+[[data]]
+item = "Yogurt low fat"
+quantity_grams = 100
+calories = 63
+protein = 5.25
+fat = 1.55
+carb = 7
+water = 85
